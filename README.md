@@ -18,10 +18,10 @@ This repository is intentionally smaller than `blackmatrix7/ios_rule_script`. Th
 
 ## Repository layout
 
-- [sources/catalog.json](/C:/Users/BPX/Documents/Codex/2026-07-02/c/proxy-rulesets/sources/catalog.json): rule categories and upstream source URLs
-- [scripts/build_rules.py](/C:/Users/BPX/Documents/Codex/2026-07-02/c/proxy-rulesets/scripts/build_rules.py): fetch, parse, deduplicate, and render outputs
-- [dist](/C:/Users/BPX/Documents/Codex/2026-07-02/c/proxy-rulesets/dist): generated rule files
-- [.github/workflows/update-rules.yml](/C:/Users/BPX/Documents/Codex/2026-07-02/c/proxy-rulesets/.github/workflows/update-rules.yml): scheduled automation
+- [`sources/catalog.json`](sources/catalog.json): rule categories and upstream source URLs
+- [`scripts/build_rules.py`](scripts/build_rules.py): fetch, parse, deduplicate, and render outputs
+- [`dist`](dist): generated rule files
+- [`.github/workflows/update-rules.yml`](.github/workflows/update-rules.yml): scheduled automation
 
 ## Built-in categories
 
@@ -94,7 +94,7 @@ The generator does not try to be clever about every possible upstream syntax. It
 
 ## Source attribution
 
-All upstream URLs are declared in [sources/catalog.json](/C:/Users/BPX/Documents/Codex/2026-07-02/c/proxy-rulesets/sources/catalog.json). Generated metadata in `dist/index.json` preserves the source list used for each category.
+All upstream URLs are declared in [`sources/catalog.json`](sources/catalog.json). Generated metadata in `dist/index.json` preserves the source list used for each category.
 
 ## Automation
 
