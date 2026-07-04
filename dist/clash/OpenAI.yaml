@@ -1,17 +1,17 @@
 # NAME: OpenAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T13:30:19.757705+00:00
+# UPDATED: 2026-07-04T13:41:53.091529+00:00
 # TOTAL: 17
 payload:
   - DOMAIN-SUFFIX,sora.com
-  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,oaiusercontent.com

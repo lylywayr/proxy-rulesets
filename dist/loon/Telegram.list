@@ -1,6 +1,6 @@
 # NAME: Telegram
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T13:30:22.471396+00:00
+# UPDATED: 2026-07-04T13:41:54.230845+00:00
 # SOURCES: 5
 # DOMAIN-SUFFIX: 6
 # DOMAIN-KEYWORD: 1
@@ -9,11 +9,11 @@
 # TOTAL: 17
 
 DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegram.org
 DOMAIN-KEYWORD,telegram
 IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,91.108.0.0/16,no-resolve
