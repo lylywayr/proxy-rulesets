@@ -1,0 +1,46 @@
+# NAME: OpenAI
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T14:32:06.921002+00:00
+no_resolve: true
+domain_set:
+  - "browser-intake-datadoghq.com"
+  - "chat.openai.com.cdn.cloudflare.net"
+  - "openai-api.arkoselabs.com"
+  - "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
+  - "openaicomproductionae4b.blob.core.windows.net"
+  - "production-openaicom-storage.azureedge.net"
+  - "static.cloudflareinsights.com"
+domain_suffix_set:
+  - "ai.com"
+  - "sora.com"
+  - "sentry.io"
+  - "auth0.com"
+  - "openai.com"
+  - "segment.io"
+  - "stripe.com"
+  - "intercom.io"
+  - "algolia.net"
+  - "chatgpt.com"
+  - "identrust.com"
+  - "oaistatic.com"
+  - "observeit.net"
+  - "intercomcdn.com"
+  - "featuregates.org"
+  - "launchdarkly.com"
+  - "oaiusercontent.com"
+  - "api.statsig.com"
+  - "host.livekit.cloud"
+  - "turn.livekit.cloud"
+  - "openaicom.imgix.net"
+  - "events.statsigapi.net"
+  - "chatgpt.livekit.cloud"
+  - "client-api.arkoselabs.com"
+  - "challenges.cloudflare.com"
+  - "openaiapi-site.azureedge.net"
+domain_keyword_set:
+  - "openai"
+asn_set:
+  - "20473"
+ip_cidr_set:
+  - "24.199.123.28/32"
+  - "64.23.132.171/32"

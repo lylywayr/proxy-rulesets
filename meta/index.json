@@ -1,0 +1,954 @@
+{
+  "generated_at": "2026-07-04T14:12:27.705514+00:00",
+  "public_repository": "lylywayr/proxy-rulesets",
+  "categories": [
+    {
+      "name": "AI",
+      "description_zh": "聚合 AI 服务规则，合并 OpenAI、Claude、Gemini、Copilot、Anthropic 与 BardAI。",
+      "description_en": "Aggregated AI service rules combining OpenAI, Claude, Gemini, Copilot, Anthropic, and BardAI.",
+      "counts": {
+        "DOMAIN-SUFFIX": 37,
+        "DOMAIN": 26,
+        "DOMAIN-KEYWORD": 5,
+        "IP-ASN": 2,
+        "IP-CIDR": 2
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 OpenAI",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
+        },
+        {
+          "name": "blackmatrix7 Claude",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
+        },
+        {
+          "name": "blackmatrix7 Gemini",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
+        },
+        {
+          "name": "blackmatrix7 Copilot",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list"
+        },
+        {
+          "name": "blackmatrix7 Anthropic",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
+        },
+        {
+          "name": "blackmatrix7 BardAI",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/AI/AI.list",
+          "readme_path": "rule/Surge/AI/README.md",
+          "omitted": {},
+          "total": 72
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/AI/AI.list",
+          "readme_path": "rule/Loon/AI/README.md",
+          "omitted": {},
+          "total": 72
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/AI/AI.yaml",
+          "readme_path": "rule/Clash/AI/README.md",
+          "omitted": {},
+          "total": 72
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/AI/AI.yaml",
+          "readme_path": "rule/Egern/AI/README.md",
+          "omitted": {},
+          "total": 72
+        }
+      }
+    },
+    {
+      "name": "Anthropic",
+      "description_zh": "Anthropic 官方服务与相关域名。",
+      "description_en": "Anthropic services and related domains.",
+      "counts": {
+        "DOMAIN-SUFFIX": 2,
+        "DOMAIN": 1
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 Anthropic",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Anthropic/Anthropic.list",
+          "readme_path": "rule/Surge/Anthropic/README.md",
+          "omitted": {},
+          "total": 3
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Anthropic/Anthropic.list",
+          "readme_path": "rule/Loon/Anthropic/README.md",
+          "omitted": {},
+          "total": 3
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Anthropic/Anthropic.yaml",
+          "readme_path": "rule/Clash/Anthropic/README.md",
+          "omitted": {},
+          "total": 3
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Anthropic/Anthropic.yaml",
+          "readme_path": "rule/Egern/Anthropic/README.md",
+          "omitted": {},
+          "total": 3
+        }
+      }
+    },
+    {
+      "name": "Apple",
+      "description_zh": "Apple 生态、App Store、iCloud 与 TestFlight。",
+      "description_en": "Apple ecosystem, App Store, iCloud, and TestFlight.",
+      "counts": {
+        "DOMAIN-SUFFIX": 68,
+        "DOMAIN": 1,
+        "DOMAIN-KEYWORD": 1,
+        "PROCESS-NAME": 1,
+        "IP-CIDR": 10
+      },
+      "sources": [
+        {
+          "name": "ACL4SSR Apple list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list"
+        },
+        {
+          "name": "Loyalsoldier Apple",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt"
+        },
+        {
+          "name": "Loyalsoldier iCloud",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt"
+        },
+        {
+          "name": "blackmatrix7 AppStore source",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppStore/AppStore.list"
+        },
+        {
+          "name": "blackmatrix7 TestFlight source",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list"
+        },
+        {
+          "name": "blackmatrix7 AppleBlock source",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Apple/Apple.list",
+          "readme_path": "rule/Surge/Apple/README.md",
+          "omitted": {},
+          "total": 81
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Apple/Apple.list",
+          "readme_path": "rule/Loon/Apple/README.md",
+          "omitted": {},
+          "total": 81
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Apple/Apple.yaml",
+          "readme_path": "rule/Clash/Apple/README.md",
+          "omitted": {},
+          "total": 81
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Apple/Apple.yaml",
+          "readme_path": "rule/Egern/Apple/README.md",
+          "omitted": {
+            "PROCESS-NAME": 1
+          },
+          "total": 80
+        }
+      }
+    },
+    {
+      "name": "China",
+      "description_zh": "中国大陆常用服务域名与网段。",
+      "description_en": "China mainland service domains and networks.",
+      "counts": {
+        "DOMAIN-SUFFIX": 111749,
+        "DOMAIN": 411,
+        "IP-CIDR": 4217,
+        "IP-CIDR6": 1470
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 China source",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list"
+        },
+        {
+          "name": "Loyalsoldier direct domains",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt"
+        },
+        {
+          "name": "Loyalsoldier CN CIDR",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/China/China.list",
+          "readme_path": "rule/Surge/China/README.md",
+          "omitted": {},
+          "total": 117847
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/China/China.list",
+          "readme_path": "rule/Loon/China/README.md",
+          "omitted": {},
+          "total": 117847
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/China/China.yaml",
+          "readme_path": "rule/Clash/China/README.md",
+          "omitted": {},
+          "total": 117847
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/China/China.yaml",
+          "readme_path": "rule/Egern/China/README.md",
+          "omitted": {},
+          "total": 117847
+        }
+      }
+    },
+    {
+      "name": "Claude",
+      "description_zh": "Claude 服务规则。",
+      "description_en": "Claude service rules.",
+      "counts": {
+        "DOMAIN-SUFFIX": 2,
+        "DOMAIN": 1
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 Claude",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Claude/Claude.list",
+          "readme_path": "rule/Surge/Claude/README.md",
+          "omitted": {},
+          "total": 3
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Claude/Claude.list",
+          "readme_path": "rule/Loon/Claude/README.md",
+          "omitted": {},
+          "total": 3
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Claude/Claude.yaml",
+          "readme_path": "rule/Clash/Claude/README.md",
+          "omitted": {},
+          "total": 3
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Claude/Claude.yaml",
+          "readme_path": "rule/Egern/Claude/README.md",
+          "omitted": {},
+          "total": 3
+        }
+      }
+    },
+    {
+      "name": "Copilot",
+      "description_zh": "GitHub Copilot 与相关服务。",
+      "description_en": "GitHub Copilot and related services.",
+      "counts": {
+        "DOMAIN-SUFFIX": 26,
+        "DOMAIN": 20,
+        "DOMAIN-KEYWORD": 1,
+        "IP-ASN": 2,
+        "IP-CIDR": 2
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 Copilot",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Copilot/Copilot.list",
+          "readme_path": "rule/Surge/Copilot/README.md",
+          "omitted": {},
+          "total": 51
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Copilot/Copilot.list",
+          "readme_path": "rule/Loon/Copilot/README.md",
+          "omitted": {},
+          "total": 51
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Copilot/Copilot.yaml",
+          "readme_path": "rule/Clash/Copilot/README.md",
+          "omitted": {},
+          "total": 51
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Copilot/Copilot.yaml",
+          "readme_path": "rule/Egern/Copilot/README.md",
+          "omitted": {},
+          "total": 51
+        }
+      }
+    },
+    {
+      "name": "Developer",
+      "description_zh": "面向开发者的通用服务集合。",
+      "description_en": "General developer-oriented services.",
+      "counts": {
+        "DOMAIN-SUFFIX": 70
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 Developer",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Developer/Developer.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Developer/Developer.list",
+          "readme_path": "rule/Surge/Developer/README.md",
+          "omitted": {},
+          "total": 70
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Developer/Developer.list",
+          "readme_path": "rule/Loon/Developer/README.md",
+          "omitted": {},
+          "total": 70
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Developer/Developer.yaml",
+          "readme_path": "rule/Clash/Developer/README.md",
+          "omitted": {},
+          "total": 70
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Developer/Developer.yaml",
+          "readme_path": "rule/Egern/Developer/README.md",
+          "omitted": {},
+          "total": 70
+        }
+      }
+    },
+    {
+      "name": "Direct",
+      "description_zh": "适合直连的通用规则集合。",
+      "description_en": "General direct-routing rules.",
+      "counts": {
+        "DOMAIN-SUFFIX": 111875,
+        "DOMAIN": 440,
+        "DOMAIN-KEYWORD": 36,
+        "USER-AGENT": 1,
+        "PROCESS-NAME": 36
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 Direct",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Direct/Direct.list"
+        },
+        {
+          "name": "Loyalsoldier direct domains",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Direct/Direct.list",
+          "readme_path": "rule/Surge/Direct/README.md",
+          "omitted": {},
+          "total": 112388
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Direct/Direct.list",
+          "readme_path": "rule/Loon/Direct/README.md",
+          "omitted": {},
+          "total": 112388
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Direct/Direct.yaml",
+          "readme_path": "rule/Clash/Direct/README.md",
+          "omitted": {},
+          "total": 112388
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Direct/Direct.yaml",
+          "readme_path": "rule/Egern/Direct/README.md",
+          "omitted": {
+            "PROCESS-NAME": 36
+          },
+          "total": 112352
+        }
+      }
+    },
+    {
+      "name": "Gemini",
+      "description_zh": "Gemini 与 BardAI 相关规则。",
+      "description_en": "Gemini and BardAI related rules.",
+      "counts": {
+        "DOMAIN-SUFFIX": 7,
+        "DOMAIN": 4,
+        "DOMAIN-KEYWORD": 3
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 Gemini",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
+        },
+        {
+          "name": "blackmatrix7 BardAI",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Gemini/Gemini.list",
+          "readme_path": "rule/Surge/Gemini/README.md",
+          "omitted": {},
+          "total": 14
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Gemini/Gemini.list",
+          "readme_path": "rule/Loon/Gemini/README.md",
+          "omitted": {},
+          "total": 14
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Gemini/Gemini.yaml",
+          "readme_path": "rule/Clash/Gemini/README.md",
+          "omitted": {},
+          "total": 14
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Gemini/Gemini.yaml",
+          "readme_path": "rule/Egern/Gemini/README.md",
+          "omitted": {},
+          "total": 14
+        }
+      }
+    },
+    {
+      "name": "GitHub",
+      "description_zh": "GitHub 网站、API 与静态资源。",
+      "description_en": "GitHub web, API, and static assets.",
+      "counts": {
+        "DOMAIN-SUFFIX": 30,
+        "DOMAIN-KEYWORD": 1
+      },
+      "sources": [
+        {
+          "name": "ACL4SSR Github list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list"
+        },
+        {
+          "name": "ACL4SSR Github provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml"
+        },
+        {
+          "name": "LM-Firefly Github list",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list"
+        },
+        {
+          "name": "LM-Firefly Github classical",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/GitHub/GitHub.list",
+          "readme_path": "rule/Surge/GitHub/README.md",
+          "omitted": {},
+          "total": 31
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/GitHub/GitHub.list",
+          "readme_path": "rule/Loon/GitHub/README.md",
+          "omitted": {},
+          "total": 31
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/GitHub/GitHub.yaml",
+          "readme_path": "rule/Clash/GitHub/README.md",
+          "omitted": {},
+          "total": 31
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/GitHub/GitHub.yaml",
+          "readme_path": "rule/Egern/GitHub/README.md",
+          "omitted": {},
+          "total": 31
+        }
+      }
+    },
+    {
+      "name": "Google",
+      "description_zh": "Google 通用服务规则，不含 YouTube 独立分类。",
+      "description_en": "General Google service rules, excluding the separate YouTube category.",
+      "counts": {
+        "DOMAIN-SUFFIX": 792,
+        "DOMAIN-KEYWORD": 2,
+        "PROCESS-NAME": 7,
+        "IP-CIDR": 4,
+        "IP-CIDR6": 1
+      },
+      "sources": [
+        {
+          "name": "Loyalsoldier Google",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt"
+        },
+        {
+          "name": "blackmatrix7 Google source",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list"
+        },
+        {
+          "name": "LM-Firefly Google list",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list"
+        },
+        {
+          "name": "ACL4SSR Google list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list"
+        },
+        {
+          "name": "ACL4SSR Google provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Google.yaml"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Google/Google.list",
+          "readme_path": "rule/Surge/Google/README.md",
+          "omitted": {},
+          "total": 806
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Google/Google.list",
+          "readme_path": "rule/Loon/Google/README.md",
+          "omitted": {},
+          "total": 806
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Google/Google.yaml",
+          "readme_path": "rule/Clash/Google/README.md",
+          "omitted": {},
+          "total": 806
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Google/Google.yaml",
+          "readme_path": "rule/Egern/Google/README.md",
+          "omitted": {
+            "PROCESS-NAME": 7
+          },
+          "total": 799
+        }
+      }
+    },
+    {
+      "name": "Microsoft",
+      "description_zh": "Microsoft、OneDrive、Teams 等服务。",
+      "description_en": "Microsoft, OneDrive, Teams, and related services.",
+      "counts": {
+        "DOMAIN-SUFFIX": 663,
+        "DOMAIN": 1,
+        "DOMAIN-KEYWORD": 4,
+        "USER-AGENT": 3,
+        "PROCESS-NAME": 2
+      },
+      "sources": [
+        {
+          "name": "ACL4SSR OneDrive list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list"
+        },
+        {
+          "name": "ACL4SSR Microsoft list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list"
+        },
+        {
+          "name": "ACL4SSR Microsoft provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml"
+        },
+        {
+          "name": "ACL4SSR OneDrive provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OneDrive.yaml"
+        },
+        {
+          "name": "zqzess Microsoft list",
+          "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Microsoft.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Microsoft/Microsoft.list",
+          "readme_path": "rule/Surge/Microsoft/README.md",
+          "omitted": {},
+          "total": 673
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Microsoft/Microsoft.list",
+          "readme_path": "rule/Loon/Microsoft/README.md",
+          "omitted": {},
+          "total": 673
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Microsoft/Microsoft.yaml",
+          "readme_path": "rule/Clash/Microsoft/README.md",
+          "omitted": {},
+          "total": 673
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Microsoft/Microsoft.yaml",
+          "readme_path": "rule/Egern/Microsoft/README.md",
+          "omitted": {
+            "PROCESS-NAME": 2
+          },
+          "total": 671
+        }
+      }
+    },
+    {
+      "name": "Netflix",
+      "description_zh": "Netflix 相关规则与常见 IP 段。",
+      "description_en": "Netflix related rules and common IP ranges.",
+      "counts": {
+        "DOMAIN-SUFFIX": 30,
+        "DOMAIN": 2,
+        "DOMAIN-KEYWORD": 4,
+        "USER-AGENT": 1,
+        "PROCESS-NAME": 1,
+        "IP-CIDR": 1116,
+        "IP-CIDR6": 4
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 Netflix",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list"
+        },
+        {
+          "name": "ACL4SSR Netflix list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
+        },
+        {
+          "name": "ACL4SSR Netflix provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Netflix.yaml"
+        },
+        {
+          "name": "LM-Firefly Netflix list",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Netflix.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Netflix/Netflix.list",
+          "readme_path": "rule/Surge/Netflix/README.md",
+          "omitted": {},
+          "total": 1158
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Netflix/Netflix.list",
+          "readme_path": "rule/Loon/Netflix/README.md",
+          "omitted": {},
+          "total": 1158
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Netflix/Netflix.yaml",
+          "readme_path": "rule/Clash/Netflix/README.md",
+          "omitted": {},
+          "total": 1158
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Netflix/Netflix.yaml",
+          "readme_path": "rule/Egern/Netflix/README.md",
+          "omitted": {
+            "PROCESS-NAME": 1
+          },
+          "total": 1157
+        }
+      }
+    },
+    {
+      "name": "OpenAI",
+      "description_zh": "OpenAI 规则集合。",
+      "description_en": "OpenAI rules.",
+      "counts": {
+        "DOMAIN-SUFFIX": 26,
+        "DOMAIN": 7,
+        "DOMAIN-KEYWORD": 1,
+        "IP-ASN": 1,
+        "IP-CIDR": 2
+      },
+      "sources": [
+        {
+          "name": "ACL4SSR OpenAi list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list"
+        },
+        {
+          "name": "ACL4SSR OpenAi provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OpenAi.yaml"
+        },
+        {
+          "name": "blackmatrix7 OpenAI",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/OpenAI/OpenAI.list",
+          "readme_path": "rule/Surge/OpenAI/README.md",
+          "omitted": {},
+          "total": 37
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/OpenAI/OpenAI.list",
+          "readme_path": "rule/Loon/OpenAI/README.md",
+          "omitted": {},
+          "total": 37
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/OpenAI/OpenAI.yaml",
+          "readme_path": "rule/Clash/OpenAI/README.md",
+          "omitted": {},
+          "total": 37
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/OpenAI/OpenAI.yaml",
+          "readme_path": "rule/Egern/OpenAI/README.md",
+          "omitted": {},
+          "total": 37
+        }
+      }
+    },
+    {
+      "name": "Proxy",
+      "description_zh": "常见代理分流集合。",
+      "description_en": "Common proxy-routing rules.",
+      "counts": {
+        "DOMAIN-KEYWORD": 26,
+        "USER-AGENT": 8,
+        "IP-CIDR": 93,
+        "IP-CIDR6": 4
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 Proxy",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Proxy/Proxy.list",
+          "readme_path": "rule/Surge/Proxy/README.md",
+          "omitted": {},
+          "total": 131
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Proxy/Proxy.list",
+          "readme_path": "rule/Loon/Proxy/README.md",
+          "omitted": {},
+          "total": 131
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Proxy/Proxy.yaml",
+          "readme_path": "rule/Clash/Proxy/README.md",
+          "omitted": {},
+          "total": 131
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Proxy/Proxy.yaml",
+          "readme_path": "rule/Egern/Proxy/README.md",
+          "omitted": {},
+          "total": 131
+        }
+      }
+    },
+    {
+      "name": "Telegram",
+      "description_zh": "Telegram 域名与 CIDR 规则。",
+      "description_en": "Telegram domain and CIDR rules.",
+      "counts": {
+        "DOMAIN-SUFFIX": 6,
+        "DOMAIN-KEYWORD": 1,
+        "IP-CIDR": 6,
+        "IP-CIDR6": 4
+      },
+      "sources": [
+        {
+          "name": "ACL4SSR Telegram list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list"
+        },
+        {
+          "name": "ACL4SSR Telegram provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml"
+        },
+        {
+          "name": "Hackl0us Telegram",
+          "url": "https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list"
+        },
+        {
+          "name": "Loyalsoldier Telegram CIDR",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt"
+        },
+        {
+          "name": "Loyalsoldier Clash Telegram CIDR",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/Telegram/Telegram.list",
+          "readme_path": "rule/Surge/Telegram/README.md",
+          "omitted": {},
+          "total": 17
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/Telegram/Telegram.list",
+          "readme_path": "rule/Loon/Telegram/README.md",
+          "omitted": {},
+          "total": 17
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/Telegram/Telegram.yaml",
+          "readme_path": "rule/Clash/Telegram/README.md",
+          "omitted": {},
+          "total": 17
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/Telegram/Telegram.yaml",
+          "readme_path": "rule/Egern/Telegram/README.md",
+          "omitted": {},
+          "total": 17
+        }
+      }
+    },
+    {
+      "name": "TikTok",
+      "description_zh": "TikTok 服务规则。",
+      "description_en": "TikTok service rules.",
+      "counts": {
+        "DOMAIN-SUFFIX": 25,
+        "DOMAIN": 4,
+        "DOMAIN-KEYWORD": 4,
+        "USER-AGENT": 1,
+        "PROCESS-NAME": 1
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 TikTok",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
+        },
+        {
+          "name": "ACL4SSR TikTok list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list"
+        },
+        {
+          "name": "ACL4SSR TikTok provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/TikTok.yaml"
+        },
+        {
+          "name": "LM-Firefly TikTok list",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/TikTok.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/TikTok/TikTok.list",
+          "readme_path": "rule/Surge/TikTok/README.md",
+          "omitted": {},
+          "total": 35
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/TikTok/TikTok.list",
+          "readme_path": "rule/Loon/TikTok/README.md",
+          "omitted": {},
+          "total": 35
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/TikTok/TikTok.yaml",
+          "readme_path": "rule/Clash/TikTok/README.md",
+          "omitted": {},
+          "total": 35
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/TikTok/TikTok.yaml",
+          "readme_path": "rule/Egern/TikTok/README.md",
+          "omitted": {
+            "PROCESS-NAME": 1
+          },
+          "total": 34
+        }
+      }
+    },
+    {
+      "name": "YouTube",
+      "description_zh": "YouTube 与 YouTube Music 相关规则。",
+      "description_en": "YouTube and YouTube Music related rules.",
+      "counts": {
+        "DOMAIN-SUFFIX": 179,
+        "DOMAIN-KEYWORD": 1,
+        "USER-AGENT": 7,
+        "IP-CIDR": 2,
+        "IP-CIDR6": 1
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 YouTube",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list"
+        },
+        {
+          "name": "ACL4SSR YouTube list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list"
+        },
+        {
+          "name": "ACL4SSR YouTube provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml"
+        },
+        {
+          "name": "LM-Firefly YouTube list",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/YouTube.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/YouTube/YouTube.list",
+          "readme_path": "rule/Surge/YouTube/README.md",
+          "omitted": {},
+          "total": 190
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/YouTube/YouTube.list",
+          "readme_path": "rule/Loon/YouTube/README.md",
+          "omitted": {},
+          "total": 190
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/YouTube/YouTube.yaml",
+          "readme_path": "rule/Clash/YouTube/README.md",
+          "omitted": {},
+          "total": 190
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/YouTube/YouTube.yaml",
+          "readme_path": "rule/Egern/YouTube/README.md",
+          "omitted": {},
+          "total": 190
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# NAME: Claude
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T14:22:05.424707+00:00
+no_resolve: true
+domain_set:
+  - "cdn.usefathom.com"
+domain_suffix_set:
+  - "claude.ai"
+  - "anthropic.com"

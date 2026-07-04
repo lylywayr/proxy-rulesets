@@ -1,0 +1,10 @@
+# NAME: Claude
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T14:22:05.420702+00:00
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
