@@ -1,0 +1,38 @@
+# NAME: GitHub
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T13:30:14.186515+00:00
+no_resolve: true
+domain_suffix_set:
+  - "git.io"
+  - "ghcr.io"
+  - "atom.io"
+  - "repo.new"
+  - "npmjs.com"
+  - "npmjs.org"
+  - "github.io"
+  - "github.com"
+  - "github.dev"
+  - "rawgit.com"
+  - "github.blog"
+  - "npm.community"
+  - "rawgithub.com"
+  - "githubapp.com"
+  - "myoctocat.com"
+  - "githubnext.com"
+  - "dependabot.com"
+  - "githubstatus.com"
+  - "githubassets.com"
+  - "github.community"
+  - "opensource.guide"
+  - "thegithubshop.com"
+  - "githubpreview.dev"
+  - "githubcopilot.com"
+  - "githubuniverse.com"
+  - "githubhackathon.com"
+  - "githubusercontent.com"
+  - "github-cloud.s3.amazonaws.com"
+  - "github-avatars.oss-cn-hongkong.aliyuncs.com"
+  - "github-atom-io-herokuapp-com.freetls.fastly.net"
+domain_keyword_set:
+  - "github"
+# TOTAL: 31
