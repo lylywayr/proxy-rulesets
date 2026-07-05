@@ -1,6 +1,6 @@
 # NAME: ShangHaiJuXiao
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:50:46.960876+00:00
+# UPDATED: 2026-07-05T08:58:56.327671+00:00
 no_resolve: true
 domain_suffix_set:
   - "mvad.com"

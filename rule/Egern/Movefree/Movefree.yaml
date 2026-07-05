@@ -1,6 +1,6 @@
 # NAME: Movefree
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:48.383157+00:00
+# UPDATED: 2026-07-05T08:55:16.380526+00:00
 no_resolve: true
 domain_suffix_set:
   - "movefree.cn"

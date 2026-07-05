@@ -1,6 +1,6 @@
 # NAME: BaiDuTieBa
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:51:26.292094+00:00
+# UPDATED: 2026-07-05T08:01:14.764919+00:00
 no_resolve: true
 domain_set:
   - "als.baidu.com"

@@ -1,6 +1,6 @@
 # NAME: TelegramSG
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:50:58.693546+00:00
+# UPDATED: 2026-07-05T08:59:02.779882+00:00
 no_resolve: true
 ip_cidr_set:
   - "91.108.16.0/22"

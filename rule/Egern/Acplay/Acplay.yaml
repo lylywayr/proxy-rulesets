@@ -1,6 +1,6 @@
 # NAME: Acplay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:51:01.431121+00:00
+# UPDATED: 2026-07-05T08:00:59.069681+00:00
 no_resolve: true
 domain_suffix_set:
   - "acplay.net"

@@ -1,25 +1,25 @@
 # NAME: 178
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:55.634049+00:00
+# UPDATED: 2026-07-05T08:00:55.307203+00:00
 payload:
   - DOMAIN-SUFFIX,nga.cn
   - DOMAIN-SUFFIX,178.net
   - DOMAIN-SUFFIX,766.com
   - DOMAIN-SUFFIX,178.com
-  - DOMAIN-SUFFIX,ngacn.cc
   - DOMAIN-SUFFIX,a9vg.com
   - DOMAIN-SUFFIX,nga.wiki
-  - DOMAIN-SUFFIX,dospy.com
-  - DOMAIN-SUFFIX,tgbus.com
-  - DOMAIN-SUFFIX,carry6.cn
+  - DOMAIN-SUFFIX,ngacn.cc
   - DOMAIN-SUFFIX,bigccq.cn
+  - DOMAIN-SUFFIX,tgbus.com
+  - DOMAIN-SUFFIX,dospy.com
   - DOMAIN-SUFFIX,766er.com
   - DOMAIN-SUFFIX,xyous.com
+  - DOMAIN-SUFFIX,carry6.cn
+  - DOMAIN-SUFFIX,ngabbs.com
+  - DOMAIN-SUFFIX,carry6.net
   - DOMAIN-SUFFIX,psnine.com
   - DOMAIN-SUFFIX,carry6.com
-  - DOMAIN-SUFFIX,ngabbs.com
   - DOMAIN-SUFFIX,766app.com
-  - DOMAIN-SUFFIX,carry6.net
   - DOMAIN-SUFFIX,766test.com
   - DOMAIN-SUFFIX,stargame.com
   - DOMAIN-SUFFIX,tgbusdata.cn

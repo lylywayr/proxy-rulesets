@@ -1,6 +1,6 @@
 # NAME: Overwatch
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:56.955690+00:00
+# UPDATED: 2026-07-05T08:55:21.406304+00:00
 payload:
   - IP-CIDR,24.105.30.129/32
   - IP-CIDR,24.105.62.129/32

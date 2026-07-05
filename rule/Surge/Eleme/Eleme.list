@@ -1,13 +1,13 @@
 # NAME: Eleme
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:44:56.899871+00:00
+# UPDATED: 2026-07-05T08:54:45.832596+00:00
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 
-DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,ele.to
-DOMAIN-SUFFIX,eleme.io
+DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,eleme.cn
+DOMAIN-SUFFIX,eleme.io
 DOMAIN-SUFFIX,elenet.me
 DOMAIN-SUFFIX,xyzele.com
 DOMAIN-SUFFIX,elemecdn.cn

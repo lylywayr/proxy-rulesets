@@ -1,10 +1,10 @@
 # NAME: TianTianKanKan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:00.710408+00:00
+# UPDATED: 2026-07-05T08:59:03.969023+00:00
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 
 DOMAIN-SUFFIX,kkstudy.cn
 DOMAIN-SUFFIX,kankanpro.cn
-DOMAIN-SUFFIX,taogepian.com
 DOMAIN-SUFFIX,ibangtiao.com
+DOMAIN-SUFFIX,taogepian.com

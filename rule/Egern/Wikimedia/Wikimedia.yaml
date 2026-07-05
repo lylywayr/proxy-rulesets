@@ -1,24 +1,24 @@
 # NAME: Wikimedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:14.040574+00:00
+# UPDATED: 2026-07-05T08:59:11.474385+00:00
 no_resolve: true
 domain_suffix_set:
   - "w.wiki"
-  - "wmflabs.org"
   - "wmcloud.org"
-  - "wikidata.org"
+  - "wmflabs.org"
   - "wikinews.org"
-  - "wikibooks.org"
-  - "wikipedia.org"
-  - "toolforge.org"
-  - "wikiquote.org"
+  - "wikidata.org"
   - "wikileaks.org"
-  - "wikimedia.org"
   - "wikipedia.com"
+  - "wikiquote.org"
+  - "wikibooks.org"
+  - "wikimedia.org"
+  - "toolforge.org"
+  - "wikipedia.org"
   - "mediawiki.org"
-  - "wikisource.org"
-  - "wiktionary.org"
   - "wikivoyage.org"
+  - "wiktionary.org"
+  - "wikisource.org"
   - "wikiversity.org"
   - "wikimediacloud.org"
   - "wmfusercontent.org"

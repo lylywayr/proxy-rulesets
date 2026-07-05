@@ -1,18 +1,18 @@
 # NAME: Faronics
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:44:59.824890+00:00
+# UPDATED: 2026-07-05T08:54:47.193079+00:00
 no_resolve: true
 domain_suffix_set:
-  - "faronics.eu"
   - "faronics.ca"
+  - "faronics.eu"
   - "faronics.com"
-  - "deepfreeze.eu"
   - "faronics.tech"
-  - "deepfreeze.com"
+  - "deepfreeze.eu"
   - "deepfreeze.net"
+  - "deepfreeze.com"
   - "deepfreeze.tech"
-  - "faronicslabs.com"
   - "faronicswise.com"
+  - "faronicslabs.com"
   - "faronics.co.uk"
   - "clickedu.co.uk"
   - "faronics.com.sg"

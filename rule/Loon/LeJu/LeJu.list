@@ -1,6 +1,6 @@
 # NAME: LeJu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:36.335548+00:00
+# UPDATED: 2026-07-05T08:55:09.064446+00:00
 # DOMAIN-SUFFIX: 20
 # TOTAL: 20
 
@@ -10,17 +10,17 @@ DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,ljimg.com
 DOMAIN-SUFFIX,ileju.com
 DOMAIN-SUFFIX,91leju.cn
-DOMAIN-SUFFIX,quanup.com
-DOMAIN-SUFFIX,dichan.net
 DOMAIN-SUFFIX,91leju.net
-DOMAIN-SUFFIX,esfimg.com
 DOMAIN-SUFFIX,dichan.com
+DOMAIN-SUFFIX,quanup.com
 DOMAIN-SUFFIX,sousea.com
+DOMAIN-SUFFIX,esfimg.com
+DOMAIN-SUFFIX,dichan.net
 DOMAIN-SUFFIX,xhaiwai.com
 DOMAIN-SUFFIX,xhwhouse.cn
+DOMAIN-SUFFIX,fangdudu.com
 DOMAIN-SUFFIX,houseimg.com
 DOMAIN-SUFFIX,xhwhouse.com
-DOMAIN-SUFFIX,fangdudu.com
 DOMAIN-SUFFIX,jiajuimg.com
 DOMAIN-SUFFIX,yiqisooimg.com
 DOMAIN-SUFFIX,91leju.com.cn

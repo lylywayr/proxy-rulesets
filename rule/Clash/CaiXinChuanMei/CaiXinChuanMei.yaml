@@ -1,28 +1,28 @@
 # NAME: CaiXinChuanMei
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:51:33.500941+00:00
+# UPDATED: 2026-07-05T08:01:18.807353+00:00
 payload:
   - DOMAIN-SUFFIX,caing.cn
-  - DOMAIN-SUFFIX,caing.com
   - DOMAIN-SUFFIX,icaing.cn
-  - DOMAIN-SUFFIX,weinews.cn
+  - DOMAIN-SUFFIX,caing.com
   - DOMAIN-SUFFIX,lifetmt.cn
+  - DOMAIN-SUFFIX,weinews.cn
   - DOMAIN-SUFFIX,caixin.com
-  - DOMAIN-SUFFIX,lifetmt.net
   - DOMAIN-SUFFIX,lifetmt.com
+  - DOMAIN-SUFFIX,lifetmt.net
   - DOMAIN-SUFFIX,lifetmt.org
   - DOMAIN-SUFFIX,whyenjoy.com
-  - DOMAIN-SUFFIX,healthpoint.cn
-  - DOMAIN-SUFFIX,wusuobuneng.cn
   - DOMAIN-SUFFIX,caixinmedia.cn
-  - DOMAIN-SUFFIX,wusuobuneng.org
+  - DOMAIN-SUFFIX,wusuobuneng.cn
+  - DOMAIN-SUFFIX,healthpoint.cn
   - DOMAIN-SUFFIX,caixinmedia.com
   - DOMAIN-SUFFIX,wusuobuneng.com
+  - DOMAIN-SUFFIX,wusuobuneng.org
   - DOMAIN-SUFFIX,caixinonline.com
   - DOMAIN-SUFFIX,jianhangcaifu.com
   - DOMAIN-SUFFIX,lifetmt.com.cn
   - DOMAIN-SUFFIX,weinews.com.cn
   - DOMAIN-SUFFIX,whyenjoy.com.cn
-  - DOMAIN-SUFFIX,healthpoint.com.cn
   - DOMAIN-SUFFIX,caixinmedia.com.cn
+  - DOMAIN-SUFFIX,healthpoint.com.cn
   - DOMAIN-SUFFIX,wusuobuneng.com.cn

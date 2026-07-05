@@ -28,8 +28,7 @@
 
 ### 客户端入口
 
-- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FSpeedtest%2FSpeedtest.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
-- [Egern 新建配置](egern:/profiles/new?name=%E6%B5%8B%E9%80%9F%E6%9C%8D%E5%8A%A1&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FSpeedtest%2FSpeedtest.yaml): 按官方 URL Scheme 预填配置地址。
+- [一键导入](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FSpeedtest%2FSpeedtest.yaml): 在 Egern 中预填 rule_set 规则，跳转后可直接保存为规则集。
 
 ### 其他客户端直链
 

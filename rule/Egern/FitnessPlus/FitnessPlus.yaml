@@ -1,6 +1,6 @@
 # NAME: FitnessPlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:01.310089+00:00
+# UPDATED: 2026-07-05T08:54:48.055638+00:00
 no_resolve: true
 domain_set:
   - "amp-api.fitness.apple.com"

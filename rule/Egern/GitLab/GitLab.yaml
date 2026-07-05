@@ -1,11 +1,11 @@
 # NAME: GitLab
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:07.544266+00:00
+# UPDATED: 2026-07-05T08:54:50.975792+00:00
 no_resolve: true
 domain_suffix_set:
   - "gitter.im"
-  - "gitlab.net"
   - "gitlab.com"
+  - "gitlab.net"
   - "gitter-static.net"
   - "gitlab-static.net"
   - "gitlab-assets.oss-cn-hongkong.aliyuncs.com"

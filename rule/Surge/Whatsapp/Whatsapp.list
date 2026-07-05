@@ -1,6 +1,6 @@
 # NAME: Whatsapp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:13.594710+00:00
+# UPDATED: 2026-07-05T08:59:11.241414+00:00
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 4
 # DOMAIN-KEYWORD: 1
@@ -9,9 +9,9 @@
 
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.biz
-DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-KEYWORD,whatsapp
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve

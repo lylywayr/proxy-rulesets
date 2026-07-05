@@ -1,14 +1,14 @@
 # NAME: 56
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:58.891293+00:00
+# UPDATED: 2026-07-05T08:00:57.176892+00:00
 payload:
   - DOMAIN-SUFFIX,56.com
   - DOMAIN-SUFFIX,v-56.com
   - DOMAIN-SUFFIX,56img.com
+  - DOMAIN-SUFFIX,somama.com
   - DOMAIN-SUFFIX,qianfan.tv
   - DOMAIN-SUFFIX,56imgs.com
-  - DOMAIN-SUFFIX,somama.com
-  - DOMAIN-SUFFIX,vicovico.com
   - DOMAIN-SUFFIX,icaneasy.com
+  - DOMAIN-SUFFIX,vicovico.com
   - DOMAIN-SUFFIX,icanvideo.com
   - DOMAIN-SUFFIX,qf.com.cn

@@ -1,17 +1,17 @@
 # NAME: MeiZu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:42.486539+00:00
+# UPDATED: 2026-07-05T08:55:12.602855+00:00
 payload:
-  - DOMAIN-SUFFIX,mzssp.cn
+  - DOMAIN-SUFFIX,mblu.com
   - DOMAIN-SUFFIX,flyme.cn
   - DOMAIN-SUFFIX,meizu.cn
-  - DOMAIN-SUFFIX,mblu.com
-  - DOMAIN-SUFFIX,lipro.com
+  - DOMAIN-SUFFIX,mzssp.cn
   - DOMAIN-SUFFIX,meizu.com
-  - DOMAIN-SUFFIX,mzres.com
+  - DOMAIN-SUFFIX,lipro.com
+  - DOMAIN-SUFFIX,flyme.com
   - DOMAIN-SUFFIX,flyme.net
   - DOMAIN-SUFFIX,lipro.net
-  - DOMAIN-SUFFIX,flyme.com
+  - DOMAIN-SUFFIX,mzres.com
   - DOMAIN-SUFFIX,meiklife.cn
   - DOMAIN-SUFFIX,meizuapi.com
   - DOMAIN-SUFFIX,flymeauto.com

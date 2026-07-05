@@ -1,6 +1,6 @@
 # NAME: Unity
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:06.343720+00:00
+# UPDATED: 2026-07-05T08:59:07.290248+00:00
 payload:
   - DOMAIN-SUFFIX,unity.cn
   - DOMAIN-SUFFIX,unity.com

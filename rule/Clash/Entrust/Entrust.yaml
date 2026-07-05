@@ -1,6 +1,6 @@
 # NAME: Entrust
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:44:58.416675+00:00
+# UPDATED: 2026-07-05T08:54:46.426400+00:00
 payload:
   - DOMAIN-SUFFIX,atos.net
   - DOMAIN-SUFFIX,myatos.net

@@ -1,44 +1,44 @@
 # NAME: AirWick
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:51:11.701815+00:00
+# UPDATED: 2026-07-05T08:01:05.374517+00:00
 payload:
   - DOMAIN-SUFFIX,vipoo.es
-  - DOMAIN-SUFFIX,airwick.pt
-  - DOMAIN-SUFFIX,airwick.ro
-  - DOMAIN-SUFFIX,airwick.dk
-  - DOMAIN-SUFFIX,airwick.cz
-  - DOMAIN-SUFFIX,airwick.jp
-  - DOMAIN-SUFFIX,airwick.pl
-  - DOMAIN-SUFFIX,airwick.ca
-  - DOMAIN-SUFFIX,airwick.hu
-  - DOMAIN-SUFFIX,airwick.cl
-  - DOMAIN-SUFFIX,airwick.ch
-  - DOMAIN-SUFFIX,airwick.hr
-  - DOMAIN-SUFFIX,airwick.ru
-  - DOMAIN-SUFFIX,airwick.be
   - DOMAIN-SUFFIX,airwick.si
-  - DOMAIN-SUFFIX,airwick.us
-  - DOMAIN-SUFFIX,airwick.de
   - DOMAIN-SUFFIX,airwick.fi
   - DOMAIN-SUFFIX,airwick.tv
-  - DOMAIN-SUFFIX,airwick.no
-  - DOMAIN-SUFFIX,airwick.sk
-  - DOMAIN-SUFFIX,airwick.at
-  - DOMAIN-SUFFIX,airwick.fr
-  - DOMAIN-SUFFIX,airwick.nl
   - DOMAIN-SUFFIX,airwick.es
+  - DOMAIN-SUFFIX,airwick.cz
+  - DOMAIN-SUFFIX,airwick.no
+  - DOMAIN-SUFFIX,airwick.pl
+  - DOMAIN-SUFFIX,airwick.ch
+  - DOMAIN-SUFFIX,airwick.us
+  - DOMAIN-SUFFIX,airwick.dk
+  - DOMAIN-SUFFIX,airwick.hu
+  - DOMAIN-SUFFIX,airwick.ca
+  - DOMAIN-SUFFIX,airwick.pt
+  - DOMAIN-SUFFIX,airwick.ie
+  - DOMAIN-SUFFIX,airwick.cl
+  - DOMAIN-SUFFIX,airwick.fr
+  - DOMAIN-SUFFIX,airwick.jp
+  - DOMAIN-SUFFIX,airwick.at
+  - DOMAIN-SUFFIX,airwick.ro
+  - DOMAIN-SUFFIX,airwick.de
+  - DOMAIN-SUFFIX,airwick.be
+  - DOMAIN-SUFFIX,airwick.nl
+  - DOMAIN-SUFFIX,airwick.sk
+  - DOMAIN-SUFFIX,airwick.ru
   - DOMAIN-SUFFIX,airwick.se
   - DOMAIN-SUFFIX,airwick.it
-  - DOMAIN-SUFFIX,airwick.ie
+  - DOMAIN-SUFFIX,airwick.hr
   - DOMAIN-SUFFIX,airwick.com
   - DOMAIN-SUFFIX,airwick.net
   - DOMAIN-SUFFIX,airwickarabia.com
-  - DOMAIN-SUFFIX,airwick.co.uk
-  - DOMAIN-SUFFIX,airwick.co.nz
   - DOMAIN-SUFFIX,airwick.co.za
+  - DOMAIN-SUFFIX,airwick.co.uk
   - DOMAIN-SUFFIX,airwick.co.in
-  - DOMAIN-SUFFIX,airwick.com.cn
-  - DOMAIN-SUFFIX,airwick.com.br
-  - DOMAIN-SUFFIX,airwick.com.mx
-  - DOMAIN-SUFFIX,airwick.com.au
+  - DOMAIN-SUFFIX,airwick.co.nz
   - DOMAIN-SUFFIX,airwick.com.tr
+  - DOMAIN-SUFFIX,airwick.com.br
+  - DOMAIN-SUFFIX,airwick.com.cn
+  - DOMAIN-SUFFIX,airwick.com.au
+  - DOMAIN-SUFFIX,airwick.com.mx

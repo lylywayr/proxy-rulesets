@@ -1,6 +1,6 @@
 # NAME: UKMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:05.932142+00:00
+# UPDATED: 2026-07-05T08:59:07.038814+00:00
 no_resolve: true
 domain_set:
   - "itvpnp.live.ott.irdeto.com"
@@ -13,22 +13,22 @@ domain_suffix_set:
   - "bbc"
   - "bbc.in"
   - "bbc.co"
-  - "bbc.com"
-  - "bbci.co"
   - "itv.com"
+  - "bbci.co"
+  - "bbc.com"
   - "britbox.com"
-  - "c4assets.com"
   - "channel4.com"
+  - "c4assets.com"
   - "bb-static.com"
   - "itvstatic.com"
-  - "bbcpersian.com"
   - "bbcchinese.com"
+  - "bbcpersian.com"
   - "massive-itv.com"
   - "bbcverticals.com"
   - "bbc-reporting-api.app"
   - "bbc.co.uk"
-  - "bbci.co.uk"
   - "bbc.net.uk"
+  - "bbci.co.uk"
   - "bidi.net.uk"
   - "britbox.co.uk"
   - "bbcmedia.co.uk"

@@ -1,6 +1,6 @@
 # NAME: ChuangKeTie
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:27:23.372321+00:00
+# UPDATED: 2026-07-05T08:36:51.055911+00:00
 payload:
   - DOMAIN-SUFFIX,ckt.cn
   - DOMAIN-SUFFIX,byfan.cn

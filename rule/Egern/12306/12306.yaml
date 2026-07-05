@@ -1,14 +1,14 @@
 # NAME: 12306
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:54.897749+00:00
+# UPDATED: 2026-07-05T08:00:54.931338+00:00
 no_resolve: true
 domain_suffix_set:
   - "cre.cn"
-  - "12306.cn"
   - "crct.com"
-  - "95306.cn"
   - "rails.cn"
   - "creip.cn"
+  - "12306.cn"
+  - "95306.cn"
   - "nntlj.com"
   - "95572.com"
   - "tdpress.com"

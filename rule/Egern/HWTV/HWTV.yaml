@@ -1,6 +1,6 @@
 # NAME: HWTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:24.081036+00:00
+# UPDATED: 2026-07-05T08:55:02.208924+00:00
 no_resolve: true
 domain_suffix_set:
   - "5itv.tv"

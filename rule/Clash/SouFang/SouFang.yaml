@@ -1,6 +1,6 @@
 # NAME: SouFang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:50:51.215095+00:00
+# UPDATED: 2026-07-05T08:58:58.847854+00:00
 payload:
   - DOMAIN-SUFFIX,nree.cn
   - DOMAIN-SUFFIX,txsf.com
@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,soufun.com
   - DOMAIN-SUFFIX,soufunimg.com
   - DOMAIN-SUFFIX,houselight.cn
-  - DOMAIN-SUFFIX,hkproperty.com
   - DOMAIN-SUFFIX,villachina.com
+  - DOMAIN-SUFFIX,hkproperty.com
   - DOMAIN-SUFFIX,soufun.com.cn
   - DOMAIN-SUFFIX,villachina.com.cn

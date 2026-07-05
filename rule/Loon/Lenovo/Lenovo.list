@@ -1,34 +1,34 @@
 # NAME: Lenovo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:36.601285+00:00
+# UPDATED: 2026-07-05T08:55:09.198068+00:00
 # DOMAIN-SUFFIX: 32
 # TOTAL: 32
 
-DOMAIN-SUFFIX,lx.pub
 DOMAIN-SUFFIX,lx.run
-DOMAIN-SUFFIX,zui.cn
+DOMAIN-SUFFIX,lx.pub
 DOMAIN-SUFFIX,zuk.cn
-DOMAIN-SUFFIX,zuk.com
+DOMAIN-SUFFIX,zui.cn
 DOMAIN-SUFFIX,zui.com
+DOMAIN-SUFFIX,zuk.com
 DOMAIN-SUFFIX,lxzjjt.cn
-DOMAIN-SUFFIX,lenovo.cn
 DOMAIN-SUFFIX,fm365.com
-DOMAIN-SUFFIX,lxzjjt.com
-DOMAIN-SUFFIX,idea123.cn
+DOMAIN-SUFFIX,lenovo.cn
 DOMAIN-SUFFIX,lenovo.com
-DOMAIN-SUFFIX,lenovomm.cn
-DOMAIN-SUFFIX,lenauth.com
+DOMAIN-SUFFIX,idea123.cn
+DOMAIN-SUFFIX,lxzjjt.com
 DOMAIN-SUFFIX,surepush.cn
 DOMAIN-SUFFIX,blurdev.com
+DOMAIN-SUFFIX,lenovomm.cn
+DOMAIN-SUFFIX,lenauth.com
+DOMAIN-SUFFIX,juhuiwan.com
 DOMAIN-SUFFIX,lenovomm.com
 DOMAIN-SUFFIX,thinkpad.com
 DOMAIN-SUFFIX,juhuiwan.net
-DOMAIN-SUFFIX,juhuiwan.com
 DOMAIN-SUFFIX,lenovogame.com
 DOMAIN-SUFFIX,ileapcloud.com
 DOMAIN-SUFFIX,cftsupport.com
-DOMAIN-SUFFIX,lenovocloudos.com
 DOMAIN-SUFFIX,thinkcloudlab.com
+DOMAIN-SUFFIX,lenovocloudos.com
 DOMAIN-SUFFIX,lenovoeservice.com
 DOMAIN-SUFFIX,zuk.com.cn
 DOMAIN-SUFFIX,jhwan.com.cn

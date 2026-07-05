@@ -1,9 +1,9 @@
 # NAME: UBI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:04.760007+00:00
+# UPDATED: 2026-07-05T08:59:06.230888+00:00
 payload:
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,uplay.com
   - DOMAIN-SUFFIX,ubisoft.com
-  - DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
   - DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
+  - DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com

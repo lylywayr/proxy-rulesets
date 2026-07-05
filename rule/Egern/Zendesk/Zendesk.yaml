@@ -1,10 +1,10 @@
 # NAME: Zendesk
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:22.218990+00:00
+# UPDATED: 2026-07-05T08:59:16.139085+00:00
 no_resolve: true
 domain_suffix_set:
-  - "zopim.com"
   - "zndsk.com"
+  - "zopim.com"
   - "outbound.io"
   - "zendesk.com"
   - "zdassets.com"

@@ -1,6 +1,6 @@
 # NAME: SmarTone
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:50:49.661991+00:00
+# UPDATED: 2026-07-05T08:58:58.075528+00:00
 payload:
   - DOMAIN-SUFFIX,ip73.com
   - DOMAIN-SUFFIX,valuegb.com
@@ -8,8 +8,8 @@ payload:
   - DOMAIN-SUFFIX,s-rewards.hk
   - DOMAIN-SUFFIX,healthreach.hk
   - DOMAIN-SUFFIX,hkcircleapp.com
-  - DOMAIN-SUFFIX,homephoneplus.com
   - DOMAIN-SUFFIX,wise-research.com
+  - DOMAIN-SUFFIX,homephoneplus.com
   - DOMAIN-SUFFIX,s-cashonmobile.com
   - DOMAIN-SUFFIX,smartonesolutions.hk
   - DOMAIN-SUFFIX,smartonerobotics.com

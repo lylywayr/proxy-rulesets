@@ -1,6 +1,6 @@
 # NAME: BardAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:51:26.899395+00:00
+# UPDATED: 2026-07-05T08:01:15.166214+00:00
 no_resolve: true
 domain_set:
   - "ai.google.dev"
@@ -16,8 +16,8 @@ domain_set:
   - "webchannel-alkalimakersuite-pa.clients6.google.com"
 domain_suffix_set:
   - "ai.studio"
-  - "opal.google"
   - "labs.google"
+  - "opal.google"
   - "jules.google"
   - "deepmind.com"
   - "gemini.google"
@@ -27,17 +27,17 @@ domain_suffix_set:
   - "generativeai.google"
   - "antigravity-unleash.goog"
   - "labs.google.com"
-  - "opal.google.com"
   - "bard.google.com"
+  - "opal.google.com"
   - "jules.google.com"
   - "gemini.google.com"
   - "gemini.gstatic.com"
   - "aida.googleapis.com"
   - "aistudio.google.com"
-  - "makersuite.google.com"
-  - "aicode.googleapis.com"
   - "stitch.withgoogle.com"
+  - "aicode.googleapis.com"
   - "notebooklm.google.com"
+  - "makersuite.google.com"
   - "geller-pa.googleapis.com"
   - "aisandbox-pa.googleapis.com"
   - "robinfrontend-pa.googleapis.com"

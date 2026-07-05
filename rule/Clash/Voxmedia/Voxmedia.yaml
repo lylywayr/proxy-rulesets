@@ -1,6 +1,6 @@
 # NAME: Voxmedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:10.189424+00:00
+# UPDATED: 2026-07-05T08:59:09.520956+00:00
 payload:
   - DOMAIN-SUFFIX,vox.com
   - DOMAIN-SUFFIX,eater.com
@@ -8,12 +8,12 @@ payload:
   - DOMAIN-SUFFIX,voxops.net
   - DOMAIN-SUFFIX,curbed.com
   - DOMAIN-SUFFIX,recode.net
-  - DOMAIN-SUFFIX,polygon.com
-  - DOMAIN-SUFFIX,vox-cdn.com
   - DOMAIN-SUFFIX,cstatic.net
+  - DOMAIN-SUFFIX,vox-cdn.com
+  - DOMAIN-SUFFIX,polygon.com
   - DOMAIN-SUFFIX,voxmedia.com
-  - DOMAIN-SUFFIX,theverge.com
   - DOMAIN-SUFFIX,sbnation.com
+  - DOMAIN-SUFFIX,theverge.com
   - DOMAIN-SUFFIX,meridian.net
   - DOMAIN-SUFFIX,funnyordie.com
   - DOMAIN-SUFFIX,voxcreative.com

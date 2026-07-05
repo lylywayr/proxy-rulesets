@@ -1,6 +1,6 @@
 # NAME: GoogleEarth
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:14.800012+00:00
+# UPDATED: 2026-07-05T08:54:54.999036+00:00
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
 
@@ -11,11 +11,11 @@ DOMAIN-SUFFIX,khm3.google.com
 DOMAIN-SUFFIX,khm0.google.com
 DOMAIN-SUFFIX,khm1.google.com
 DOMAIN-SUFFIX,khm2.google.com
-DOMAIN-SUFFIX,earth.google.com
 DOMAIN-SUFFIX,khmdb.google.com
+DOMAIN-SUFFIX,earth.google.com
 DOMAIN-SUFFIX,khm.googleapis.com
-DOMAIN-SUFFIX,khm1.googleapis.com
 DOMAIN-SUFFIX,khm0.googleapis.com
+DOMAIN-SUFFIX,khm1.googleapis.com
 DOMAIN-SUFFIX,khm2.googleapis.com
 DOMAIN-SUFFIX,khm3.googleapis.com
 DOMAIN-SUFFIX,khmdb.googleapis.com

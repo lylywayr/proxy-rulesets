@@ -1,6 +1,6 @@
 # NAME: AmazonPrimeVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:51:14.241415+00:00
+# UPDATED: 2026-07-05T08:01:06.987462+00:00
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 19
 # DOMAIN-KEYWORD: 1
@@ -18,18 +18,18 @@ DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,primevideo.cc
 DOMAIN-SUFFIX,primevideo.tv
-DOMAIN-SUFFIX,amazonvideo.cc
-DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.com
-DOMAIN-SUFFIX,primevideo.info
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,amazonvideo.cc
 DOMAIN-SUFFIX,prime-video.com
+DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,amazonprimevideo.cn
 DOMAIN-SUFFIX,amazonprimevideos.com
-DOMAIN-SUFFIX,fls-na.amazon.com
 DOMAIN-SUFFIX,atv-ps.amazon.com
+DOMAIN-SUFFIX,fls-na.amazon.com
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
 DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
 DOMAIN-KEYWORD,avoddashs

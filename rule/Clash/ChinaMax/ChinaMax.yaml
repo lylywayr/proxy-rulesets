@@ -1,48 +1,48 @@
 # NAME: ChinaMax
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:27:20.916356+00:00
+# UPDATED: 2026-07-05T08:36:49.180094+00:00
 payload:
-  - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
-  - DOMAIN-SUFFIX,icbc
+  - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,sohu
   - DOMAIN-SUFFIX,wang
-  - DOMAIN-SUFFIX,citic
+  - DOMAIN-SUFFIX,icbc
   - DOMAIN-SUFFIX,tmall
+  - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,baidu
-  - DOMAIN-SUFFIX,taobao
   - DOMAIN-SUFFIX,unicom
+  - DOMAIN-SUFFIX,taobao
   - DOMAIN-SUFFIX,alipay
   - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,xn--vhquv
-  - DOMAIN-SUFFIX,xn--fiqs8s
-  - DOMAIN-SUFFIX,xn--kput3i
-  - DOMAIN-SUFFIX,xn--czrs0t
-  - DOMAIN-SUFFIX,xn--9et52u
-  - DOMAIN-SUFFIX,xn--io0a7i
-  - DOMAIN-SUFFIX,xn--unup4y
-  - DOMAIN-SUFFIX,xn--5tzm5g
   - DOMAIN-SUFFIX,xn--55qx5d
   - DOMAIN-SUFFIX,xn--fiqz9s
-  - DOMAIN-SUFFIX,xn--czru2d
   - DOMAIN-SUFFIX,xn--fiq64b
-  - DOMAIN-SUFFIX,xn--g2xx48c
-  - DOMAIN-SUFFIX,xn--55qw42g
-  - DOMAIN-SUFFIX,xn--zfr164b
+  - DOMAIN-SUFFIX,xn--fiqs8s
+  - DOMAIN-SUFFIX,xn--czru2d
+  - DOMAIN-SUFFIX,xn--9et52u
+  - DOMAIN-SUFFIX,xn--5tzm5g
+  - DOMAIN-SUFFIX,xn--unup4y
+  - DOMAIN-SUFFIX,xn--io0a7i
+  - DOMAIN-SUFFIX,xn--czrs0t
+  - DOMAIN-SUFFIX,xn--kput3i
+  - DOMAIN-SUFFIX,xn--rhqv96g
   - DOMAIN-SUFFIX,xn--otu796d
-  - DOMAIN-SUFFIX,xn--3ds443g
-  - DOMAIN-SUFFIX,xn--imr513n
-  - DOMAIN-SUFFIX,xn--3bst00m
   - DOMAIN-SUFFIX,xn--vuq861b
-  - DOMAIN-SUFFIX,xn--fjq720a
-  - DOMAIN-SUFFIX,xn--czr694b
-  - DOMAIN-SUFFIX,xn--xhq521b
-  - DOMAIN-SUFFIX,xn--1qqw23a
-  - DOMAIN-SUFFIX,xn--6frz82g
   - DOMAIN-SUFFIX,xn--hxt814e
+  - DOMAIN-SUFFIX,xn--1qqw23a
+  - DOMAIN-SUFFIX,xn--imr513n
+  - DOMAIN-SUFFIX,xn--zfr164b
+  - DOMAIN-SUFFIX,xn--czr694b
   - DOMAIN-SUFFIX,xn--nyqy26a
   - DOMAIN-SUFFIX,xn--ses554g
-  - DOMAIN-SUFFIX,xn--rhqv96g
+  - DOMAIN-SUFFIX,xn--3ds443g
+  - DOMAIN-SUFFIX,xn--xhq521b
+  - DOMAIN-SUFFIX,xn--3bst00m
+  - DOMAIN-SUFFIX,xn--g2xx48c
+  - DOMAIN-SUFFIX,xn--55qw42g
+  - DOMAIN-SUFFIX,xn--6frz82g
+  - DOMAIN-SUFFIX,xn--fjq720a
   - DOMAIN-SUFFIX,xn--8y0a063a
   - DOMAIN-SUFFIX,xn--6qq986b3xl
   - DOMAIN-SUFFIX,xn--fiq228c5hs

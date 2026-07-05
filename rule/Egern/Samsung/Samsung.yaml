@@ -1,16 +1,16 @@
 # NAME: Samsung
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:50:45.539909+00:00
+# UPDATED: 2026-07-05T08:58:55.714374+00:00
 no_resolve: true
 domain_suffix_set:
-  - "knoxemm.com"
   - "samsung.com"
-  - "samsungdm.com"
+  - "knoxemm.com"
   - "anrdoezrs.net"
+  - "samsungdm.com"
   - "samsungqbe.com"
-  - "samsungapps.com"
   - "samsungknox.com"
   - "galaxymobile.jp"
+  - "samsungapps.com"
   - "samsungcloud.com"
   - "game-platform.net"
   - "galaxyappstore.com"

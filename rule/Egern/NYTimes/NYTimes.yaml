@@ -1,11 +1,11 @@
 # NAME: NYTimes
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:54.433553+00:00
+# UPDATED: 2026-07-05T08:55:19.679142+00:00
 no_resolve: true
 domain_suffix_set:
-  - "nyti.ms"
   - "nyt.com"
   - "nyt.net"
+  - "nyti.ms"
   - "tynt.com"
   - "nytcn.me"
   - "nytco.com"
@@ -16,6 +16,6 @@ domain_suffix_set:
   - "nytchina.com"
   - "timestalks.com"
   - "dc8xl0ndzn2cb.cloudfront.net"
-  - "d1f1eryiqyjs0r.cloudfront.net"
   - "d3lar09xbwlsge.cloudfront.net"
   - "d3q1qj9jzsu8nw.cloudfront.net"
+  - "d1f1eryiqyjs0r.cloudfront.net"

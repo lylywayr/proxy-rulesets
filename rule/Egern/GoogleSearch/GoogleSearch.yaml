@@ -1,6 +1,6 @@
 # NAME: GoogleSearch
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:15.388536+00:00
+# UPDATED: 2026-07-05T08:54:55.255385+00:00
 no_resolve: true
 domain_keyword_set:
   - "www.google."

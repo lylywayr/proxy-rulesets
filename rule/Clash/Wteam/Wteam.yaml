@@ -1,5 +1,5 @@
 # NAME: Wteam
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:15.664284+00:00
+# UPDATED: 2026-07-05T08:59:12.348455+00:00
 payload:
   - DOMAIN-SUFFIX,ads.wteam.xyz

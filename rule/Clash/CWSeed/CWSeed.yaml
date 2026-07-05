@@ -1,6 +1,6 @@
 # NAME: CWSeed
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:27:27.410867+00:00
+# UPDATED: 2026-07-05T08:36:54.401383+00:00
 payload:
   - DOMAIN,cwtv-amd-akamai.akamaized.net
   - DOMAIN,edge.cwtv-vod-ext.top.comcast.net

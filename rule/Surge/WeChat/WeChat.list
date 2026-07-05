@@ -1,6 +1,6 @@
 # NAME: WeChat
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:51:11.913855+00:00
+# UPDATED: 2026-07-05T08:59:10.406840+00:00
 # DOMAIN: 7
 # DOMAIN-SUFFIX: 22
 # DOMAIN-KEYWORD: 233
@@ -19,9 +19,9 @@ DOMAIN,weixin110.qq.com
 DOMAIN,wup.imtt.qq.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,wechatos.net
 DOMAIN-SUFFIX,weixinsxy.com
 DOMAIN-SUFFIX,wechatpay.com
@@ -30,8 +30,8 @@ DOMAIN-SUFFIX,wechatlegal.net
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,wx.qq.com
-DOMAIN-SUFFIX,map.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,map.qq.com
 DOMAIN-SUFFIX,wx.gtimg.com
 DOMAIN-SUFFIX,lbs.gtimg.com
 DOMAIN-SUFFIX,weixin.qq.com

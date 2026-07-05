@@ -1,6 +1,6 @@
 # NAME: NYPost
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:54.165643+00:00
+# UPDATED: 2026-07-05T08:55:19.546026+00:00
 no_resolve: true
 domain_suffix_set:
   - "nypost.com"

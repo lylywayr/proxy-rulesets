@@ -1,6 +1,6 @@
 # NAME: HashiCorp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:17.302617+00:00
+# UPDATED: 2026-07-05T08:54:56.268482+00:00
 no_resolve: true
 domain_suffix_set:
   - "consul.io"
@@ -8,6 +8,6 @@ domain_suffix_set:
   - "terraform.io"
   - "hashicorp.com"
   - "vagrantup.com"
-  - "vaultproject.io"
   - "nomadproject.io"
+  - "vaultproject.io"
   - "vagrantcloud.com"

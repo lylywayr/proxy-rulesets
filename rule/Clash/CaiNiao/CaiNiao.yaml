@@ -1,13 +1,13 @@
 # NAME: CaiNiao
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:51:33.197808+00:00
+# UPDATED: 2026-07-05T08:01:18.657995+00:00
 payload:
-  - DOMAIN-SUFFIX,xiaog.xyz
   - DOMAIN-SUFFIX,56che.com
+  - DOMAIN-SUFFIX,xiaog.xyz
   - DOMAIN-SUFFIX,cainiao.com
-  - DOMAIN-SUFFIX,cainiao-inc.cn
   - DOMAIN-SUFFIX,guoguo-app.com
-  - DOMAIN-SUFFIX,cainiao-inc.net
+  - DOMAIN-SUFFIX,cainiao-inc.cn
   - DOMAIN-SUFFIX,cainiao-inc.com
+  - DOMAIN-SUFFIX,cainiao-inc.net
   - DOMAIN-SUFFIX,cainiaoyizhan.com
   - DOMAIN-SUFFIX,cainiao.com.cn

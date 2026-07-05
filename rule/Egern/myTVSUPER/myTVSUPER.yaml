@@ -1,6 +1,6 @@
 # NAME: myTVSUPER
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:45:49.046622+00:00
+# UPDATED: 2026-07-05T08:55:16.754897+00:00
 no_resolve: true
 domain_set:
   - "mytvsuperlimited.hb.omtrdc.net"
