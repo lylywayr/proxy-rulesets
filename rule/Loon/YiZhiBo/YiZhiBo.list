@@ -1,0 +1,11 @@
+# NAME: YiZhiBo
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.832024+00:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+
+DOMAIN-SUFFIX,yzbo.tv
+DOMAIN-SUFFIX,sndks.com
+DOMAIN-SUFFIX,yizhibo.com
+DOMAIN-SUFFIX,hifengli.com
+DOMAIN-SUFFIX,liexiulive.com

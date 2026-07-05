@@ -1,0 +1,9 @@
+# NAME: Migu
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:48.557044+00:00
+payload:
+  - DOMAIN-SUFFIX,migu.cn
+  - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,miguvideo.com
+  - USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+  - USER-AGENT,MiguVideo*

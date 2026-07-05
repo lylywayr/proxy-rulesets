@@ -1,0 +1,10 @@
+# NAME: SMG
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.654371+00:00
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+
+DOMAIN-SUFFIX,smg.cn
+DOMAIN-SUFFIX,cptn.tv
+DOMAIN-SUFFIX,smg.sh.cn
+DOMAIN-SUFFIX,sava.sh.cn

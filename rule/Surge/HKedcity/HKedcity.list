@@ -1,0 +1,9 @@
+# NAME: HKedcity
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.290218+00:00
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+
+DOMAIN-SUFFIX,edcity.hk
+DOMAIN-SUFFIX,hkedcity.net
+DOMAIN-SUFFIX,hkreadingcity.net

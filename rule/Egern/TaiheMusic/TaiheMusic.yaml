@@ -1,0 +1,15 @@
+# NAME: TaiheMusic
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.748534+00:00
+no_resolve: true
+domain_suffix_set:
+  - "91q.com"
+  - "taihe.com"
+  - "youyou.com"
+  - "submusic.cn"
+  - "ttplayer.com"
+  - "dmhmusic.com"
+  - "qianqian.com"
+  - "youyou001.com"
+user_agent_set:
+  - "baiduyinyue"

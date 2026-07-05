@@ -1,0 +1,12 @@
+# NAME: ATTWatchTV
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:24.067222+00:00
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+
+DOMAIN-SUFFIX,att.tv
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,directv.com
+DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,attwatchtv.com
+DOMAIN-SUFFIX,nettyinternet.com

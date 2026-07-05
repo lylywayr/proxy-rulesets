@@ -1,0 +1,14 @@
+# NAME: Download
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:43.133430+00:00
+no_resolve: true
+domain_suffix_set:
+  - "qbittorrent.org"
+domain_keyword_set:
+  - "aria2"
+  - "thunder"
+  - "xlliveud"
+  - "xunlei"
+  - "yunpan"
+url_regex_set:
+  - "assets\\d+\\.xboxlive\\.(com|cn)"

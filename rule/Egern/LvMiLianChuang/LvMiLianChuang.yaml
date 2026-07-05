@@ -1,0 +1,11 @@
+# NAME: LvMiLianChuang
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.582291+00:00
+no_resolve: true
+domain_suffix_set:
+  - "aqara.cn"
+  - "aqara.com"
+  - "lumiunited.cn"
+  - "lumiunited.com"
+  - "aqara.com.cn"
+  - "lumiunited.com.cn"

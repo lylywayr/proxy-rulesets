@@ -1,0 +1,11 @@
+# NAME: Olevod
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:49.753947+00:00
+no_resolve: true
+domain_suffix_set:
+  - "iole.tv"
+  - "olehd.com"
+  - "olelive.com"
+  - "haiwaikan.com"
+domain_keyword_set:
+  - "olevod"

@@ -1,0 +1,11 @@
+# NAME: VK
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.717655+00:00
+payload:
+  - DOMAIN-SUFFIX,vk.cc
+  - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,mvk.com
+  - DOMAIN-SUFFIX,vk-cdn.me
+  - DOMAIN-SUFFIX,vk-cdn.net
+  - DOMAIN-SUFFIX,userapi.com
+  - DOMAIN-SUFFIX,vk-portal.net

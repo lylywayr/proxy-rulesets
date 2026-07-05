@@ -1,0 +1,10 @@
+# NAME: ChinaDNS
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:02:33.183367+00:00
+no_resolve: true
+domain_suffix_set:
+  - "doh.pub"
+  - "doh.360.cn"
+  - "dns.alidns.com"
+ip_cidr_set:
+  - "1.12.12.12/32"

@@ -1,0 +1,13 @@
+# NAME: Cake
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:24.246929+00:00
+no_resolve: true
+domain_set:
+  - "d1koerlbtsmkf8.cloudfront.net"
+  - "d31wl6mro6753i.cloudfront.net"
+  - "static-mycake.pstatic.net"
+  - "vstatic-mycake.pstatic.net"
+domain_suffix_set:
+  - "cake.day"
+  - "mycake.me"
+  - "cakeapp.me"

@@ -1,0 +1,7 @@
+# NAME: TaiWanGood
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.754098+00:00
+payload:
+  - DOMAIN,hamifans.emome.net
+  - DOMAIN-SUFFIX,skyking.com.tw
+  - USER-AGENT,TaiwanGood*

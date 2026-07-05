@@ -1,0 +1,7 @@
+# NAME: Atomdata
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:24.066222+00:00
+payload:
+  - DOMAIN-SUFFIX,atom-data.io
+  - DOMAIN-SUFFIX,ironbeast.io
+  - DOMAIN-SUFFIX,analytics-data.io

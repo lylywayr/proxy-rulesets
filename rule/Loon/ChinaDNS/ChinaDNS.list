@@ -1,0 +1,11 @@
+# NAME: ChinaDNS
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:02:33.182367+00:00
+# DOMAIN-SUFFIX: 3
+# IP-CIDR: 1
+# TOTAL: 4
+
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,doh.360.cn
+DOMAIN-SUFFIX,dns.alidns.com
+IP-CIDR,1.12.12.12/32,no-resolve

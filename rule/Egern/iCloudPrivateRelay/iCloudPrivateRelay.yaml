@@ -1,0 +1,12 @@
+# NAME: iCloudPrivateRelay
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.346531+00:00
+no_resolve: true
+domain_set:
+  - "mask-api.fe.apple-dns.net"
+  - "mask-api.icloud.com"
+  - "mask-t.apple-dns.net"
+  - "mask.apple-dns.net"
+domain_suffix_set:
+  - "mask.icloud.com"
+  - "mask-h2.icloud.com"

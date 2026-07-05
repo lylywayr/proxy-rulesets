@@ -1,0 +1,30 @@
+# NAME: TVB
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.640789+00:00
+no_resolve: true
+domain_set:
+  - "bcbolt446c5271-a.akamaihd.net"
+  - "edge.api.brightcove.com"
+  - "tvbtracking.azurewebsites.net"
+domain_suffix_set:
+  - "tvb.com"
+  - "tvbusa.com"
+  - "encoretvb.com"
+  - "mytvsuper.com"
+  - "tvbweekly.com"
+  - "bigbigshop.com"
+  - "tvbanywhere.com"
+  - "youboranqs01.com"
+  - "tvb.com.au"
+  - "tvbc.com.cn"
+  - "tvmedia.net.au"
+  - "tvbanywhere.com.sg"
+  - "videos-f.jwpsrv.com"
+  - "bigbigchannel.com.hk"
+  - "tvbeventpower.com.hk"
+  - "content.jwplatform.com"
+  - "mytvsuperlimited.sc.omtrdc.net"
+  - "mytvsuperlimited.hb.omtrdc.net"
+user_agent_set:
+  - "encoreTVB*"
+  - "mytv*"

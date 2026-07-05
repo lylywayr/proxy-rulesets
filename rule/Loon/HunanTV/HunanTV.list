@@ -1,0 +1,15 @@
+# NAME: HunanTV
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.327385+00:00
+# DOMAIN-SUFFIX: 7
+# USER-AGENT: 1
+# TOTAL: 8
+
+DOMAIN-SUFFIX,imgo.tv
+DOMAIN-SUFFIX,hitv.com
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,tazai.com
+DOMAIN-SUFFIX,hunantv.com
+DOMAIN-SUFFIX,hifuntv.com
+DOMAIN-SUFFIX,hunaniptv.com
+USER-AGENT,MGTV*

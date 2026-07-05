@@ -1,0 +1,12 @@
+# NAME: TCL
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.759098+00:00
+no_resolve: true
+domain_suffix_set:
+  - "tcl.com"
+  - "hmeng.cn"
+  - "blackberry.com"
+  - "alcatel-home.com"
+  - "alcatelmobile.com"
+  - "tcl.com.cn"
+  - "hmeng.net.cn"

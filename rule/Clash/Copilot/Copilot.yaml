@@ -1,6 +1,6 @@
 # NAME: Copilot
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T14:22:05.875119+00:00
+# UPDATED: 2026-07-05T00:02:33.933189+00:00
 payload:
   - DOMAIN,api.msn.com
   - DOMAIN,api.statsig.com
@@ -22,30 +22,30 @@ payload:
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN,sydney.bing.com
   - DOMAIN,www.bing.com
-  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,identrust.com
-  - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,observeit.net
+  - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,openaicom.imgix.net
   - DOMAIN-SUFFIX,api.microsoftapp.net
-  - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,edgeservices.bing.com
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
   - DOMAIN-KEYWORD,openaicom-api

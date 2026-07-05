@@ -1,6 +1,6 @@
 # NAME: Netflix
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T14:32:03.623336+00:00
+# UPDATED: 2026-07-05T00:11:49.706949+00:00
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 30
 # DOMAIN-KEYWORD: 4
@@ -17,27 +17,27 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,flxvpn.net
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,netflixstudios.com
+DOMAIN-SUFFIX,netflixdnstest5.com
 DOMAIN-SUFFIX,netflixdnstest7.com
-DOMAIN-SUFFIX,netflixdnstest4.com
 DOMAIN-SUFFIX,netflixdnstest2.com
 DOMAIN-SUFFIX,netflixdnstest3.com
-DOMAIN-SUFFIX,netflixdnstest8.com
-DOMAIN-SUFFIX,netflixdnstest0.com
+DOMAIN-SUFFIX,netflixdnstest4.com
+DOMAIN-SUFFIX,netflixdnstest6.com
+DOMAIN-SUFFIX,netflixdnstest1.com
 DOMAIN-SUFFIX,netflixinvestor.com
 DOMAIN-SUFFIX,netflixdnstest9.com
-DOMAIN-SUFFIX,netflixdnstest6.com
+DOMAIN-SUFFIX,netflixdnstest0.com
+DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixtechblog.com
-DOMAIN-SUFFIX,netflixdnstest5.com
-DOMAIN-SUFFIX,netflixdnstest1.com
 DOMAIN-SUFFIX,netflixdnstest10.com
 DOMAIN-SUFFIX,netflix.com.au
 DOMAIN-SUFFIX,us-west-2.amazonaws.com

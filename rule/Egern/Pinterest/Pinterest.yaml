@@ -1,0 +1,28 @@
+# NAME: Pinterest
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.469872+00:00
+no_resolve: true
+domain_suffix_set:
+  - "pinimg.com"
+  - "pinterest.jp"
+  - "pinterest.dk"
+  - "pinterest.nz"
+  - "pinterest.ru"
+  - "pinterest.ph"
+  - "pinterest.at"
+  - "pinterest.nl"
+  - "pinterest.ca"
+  - "pinterest.pt"
+  - "pinterest.es"
+  - "pinterest.fr"
+  - "pinterest.ie"
+  - "pinterest.cl"
+  - "pinterest.se"
+  - "pinterest.ch"
+  - "pinterest.it"
+  - "pinterest.de"
+  - "pinterest.com"
+  - "pinterest.co.kr"
+  - "pinterest.co.uk"
+  - "pinterest.com.au"
+  - "pinterest.com.mx"

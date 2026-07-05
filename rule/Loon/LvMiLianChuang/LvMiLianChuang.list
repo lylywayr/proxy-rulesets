@@ -1,0 +1,12 @@
+# NAME: LvMiLianChuang
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.580290+00:00
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+
+DOMAIN-SUFFIX,aqara.cn
+DOMAIN-SUFFIX,aqara.com
+DOMAIN-SUFFIX,lumiunited.cn
+DOMAIN-SUFFIX,lumiunited.com
+DOMAIN-SUFFIX,aqara.com.cn
+DOMAIN-SUFFIX,lumiunited.com.cn

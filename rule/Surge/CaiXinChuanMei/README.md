@@ -1,0 +1,30 @@
+# CaiXinChuanMei
+
+## 中文
+
+CaiXinChuanMei 规则集。
+
+### 规则统计
+
+- 总数: `24`
+- `DOMAIN-SUFFIX`: 24
+
+### 使用说明
+
+- 客户端: `Surge`
+- 文件: `rule/Surge/CaiXinChuanMei/CaiXinChuanMei.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/CaiXinChuanMei/CaiXinChuanMei.list`
+- 已省略的不兼容类型: 无
+
+### 数据来源
+
+- blackmatrix7 CaiXinChuanMei: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CaiXinChuanMei/CaiXinChuanMei.list
+
+## English
+
+CaiXinChuanMei rule set.
+
+- Client: `Surge`
+- File: `rule/Surge/CaiXinChuanMei/CaiXinChuanMei.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/CaiXinChuanMei/CaiXinChuanMei.list`
+- Omitted unsupported types: `无`

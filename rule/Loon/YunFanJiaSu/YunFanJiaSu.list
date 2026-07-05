@@ -1,0 +1,38 @@
+# NAME: YunFanJiaSu
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:54.556548+00:00
+# DOMAIN-SUFFIX: 32
+# TOTAL: 32
+
+DOMAIN-SUFFIX,yfcdn.cn
+DOMAIN-SUFFIX,yfdns.cn
+DOMAIN-SUFFIX,yfdns.net
+DOMAIN-SUFFIX,yfdts.net
+DOMAIN-SUFFIX,yfcdn.net
+DOMAIN-SUFFIX,yflive.cn
+DOMAIN-SUFFIX,yfp2p.net
+DOMAIN-SUFFIX,yfscdn.com
+DOMAIN-SUFFIX,cdndns2.cn
+DOMAIN-SUFFIX,yfscdn.net
+DOMAIN-SUFFIX,yflive.net
+DOMAIN-SUFFIX,yfcache.cn
+DOMAIN-SUFFIX,yfcalc.com
+DOMAIN-SUFFIX,yfcloud.io
+DOMAIN-SUFFIX,cdndns2.net
+DOMAIN-SUFFIX,yfcache.com
+DOMAIN-SUFFIX,yfcloud.com
+DOMAIN-SUFFIX,wertalk.com
+DOMAIN-SUFFIX,yunfandns.cn
+DOMAIN-SUFFIX,yfcloud.work
+DOMAIN-SUFFIX,mogecloud.cn
+DOMAIN-SUFFIX,yunfancdn.cn
+DOMAIN-SUFFIX,mogengyun.cn
+DOMAIN-SUFFIX,yunfandns.com
+DOMAIN-SUFFIX,mogecloud.com
+DOMAIN-SUFFIX,yunfancdn.net
+DOMAIN-SUFFIX,cdnnodedns.cn
+DOMAIN-SUFFIX,mogecloud.net
+DOMAIN-SUFFIX,yunfancdn.com
+DOMAIN-SUFFIX,mogengyun.net
+DOMAIN-SUFFIX,mogengyun.com
+DOMAIN-SUFFIX,yunfancdn.com.cn

@@ -1,0 +1,11 @@
+# NAME: Keep
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.466673+00:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+
+DOMAIN-SUFFIX,keep.com
+DOMAIN-SUFFIX,keepcdn.com
+DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,calorietech.com
+DOMAIN-SUFFIX,keep.com.cn

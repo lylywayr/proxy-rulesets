@@ -1,0 +1,9 @@
+# NAME: ChengTongWangPan
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:24.283263+00:00
+no_resolve: true
+domain_suffix_set:
+  - "n802.com"
+  - "tv002.com"
+  - "ctfile.com"
+  - "ctfile.net"

@@ -1,0 +1,9 @@
+# NAME: Dailymotion
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:02:33.963785+00:00
+payload:
+  - DOMAIN-SUFFIX,dai.ly
+  - DOMAIN-SUFFIX,dmcdn.net
+  - DOMAIN-SUFFIX,dmxleo.com
+  - DOMAIN-SUFFIX,dm-event.net
+  - DOMAIN-SUFFIX,dailymotion.com

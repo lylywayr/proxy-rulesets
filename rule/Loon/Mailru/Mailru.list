@@ -1,0 +1,9 @@
+# NAME: Mailru
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.611838+00:00
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,imgsmail.ru

@@ -1,0 +1,11 @@
+# NAME: TVer
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.642789+00:00
+payload:
+  - DOMAIN-SUFFIX,tver.jp
+  - DOMAIN-SUFFIX,gorin.jp
+  - DOMAIN-SUFFIX,dogatch.jp
+  - DOMAIN-SUFFIX,screens-lab.jp
+  - DOMAIN-SUFFIX,tver.co.jp
+  - DOMAIN-SUFFIX,edge.api.brightcove.com
+  - USER-AGENT,TVer-Release*

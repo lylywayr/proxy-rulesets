@@ -1,0 +1,8 @@
+# NAME: Wanfang
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.727140+00:00
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+
+DOMAIN-SUFFIX,wf.pub
+DOMAIN-SUFFIX,wanfangdata.com.cn

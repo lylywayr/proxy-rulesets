@@ -1,0 +1,16 @@
+# NAME: GuiGuDongLi
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.238096+00:00
+no_resolve: true
+domain_suffix_set:
+  - "ezhu.cn"
+  - "ezhu.com"
+  - "mydor.com"
+  - "enet16.cn"
+  - "enet16.net"
+  - "enet16.com"
+  - "enet369.com"
+  - "ciweekforum.com"
+  - "xingzhiheyi.com"
+  - "enet.com.cn"
+  - "enet16.com.cn"

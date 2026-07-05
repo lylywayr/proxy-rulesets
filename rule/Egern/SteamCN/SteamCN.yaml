@@ -1,0 +1,23 @@
+# NAME: SteamCN
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.723342+00:00
+no_resolve: true
+domain_set:
+  - "csgo.wmsj.cn"
+  - "dl.steam.clngaa.com"
+  - "dl.steam.ksyna.com"
+  - "dota2.wmsj.cn"
+  - "st.dl.bscstorage.net"
+  - "st.dl.eccdnx.com"
+  - "st.dl.pinyuncloud.com"
+  - "steampipe.steamcontent.tnkjmec.com"
+  - "steampowered.com.8686c.com"
+  - "steamstatic.com.8686c.com"
+  - "wmsjsteam.com"
+  - "xz.pphimalayanrt.com"
+domain_suffix_set:
+  - "steamchina.com"
+  - "steamserver.net"
+  - "steamcontent.com"
+  - "steamusercontent.com"
+  - "cm.steampowered.com"

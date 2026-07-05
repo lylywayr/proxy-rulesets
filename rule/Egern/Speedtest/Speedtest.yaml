@@ -1,0 +1,13 @@
+# NAME: Speedtest
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.706506+00:00
+no_resolve: true
+domain_suffix_set:
+  - "fast.com"
+  - "ooklaserver.net"
+  - "speed.dler.io"
+  - "speed.cloudflare.com"
+domain_keyword_set:
+  - "speedtest"
+user_agent_set:
+  - "SpeedTest*"

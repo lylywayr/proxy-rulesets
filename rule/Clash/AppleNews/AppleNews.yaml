@@ -1,0 +1,6 @@
+# NAME: AppleNews
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:24.034242+00:00
+payload:
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN,news-client-search.apple.com

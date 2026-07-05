@@ -1,0 +1,49 @@
+# NAME: Cryptocurrency
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:02:33.942274+00:00
+# DOMAIN-SUFFIX: 43
+# TOTAL: 43
+
+DOMAIN-SUFFIX,zb.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,ftx.com
+DOMAIN-SUFFIX,aex.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,sushi.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,aimoon.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,liquid.com
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,bnappzh.com
+DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,poloniex.com
+DOMAIN-SUFFIX,coincheck.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,bitcointalk.org
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,korbit.co.kr
+DOMAIN-SUFFIX,coinone.co.kr

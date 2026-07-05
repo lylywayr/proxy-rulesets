@@ -6,9 +6,9 @@
 
 ### 规则统计
 
-- 总数: `117847`
-- `DOMAIN-SUFFIX`: 111749
-- `DOMAIN`: 411
+- 总数: `117855`
+- `DOMAIN-SUFFIX`: 111755
+- `DOMAIN`: 413
 - `IP-CIDR`: 4217
 - `IP-CIDR6`: 1470
 

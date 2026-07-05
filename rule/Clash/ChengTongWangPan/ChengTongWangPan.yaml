@@ -1,0 +1,8 @@
+# NAME: ChengTongWangPan
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:24.282264+00:00
+payload:
+  - DOMAIN-SUFFIX,n802.com
+  - DOMAIN-SUFFIX,tv002.com
+  - DOMAIN-SUFFIX,ctfile.com
+  - DOMAIN-SUFFIX,ctfile.net

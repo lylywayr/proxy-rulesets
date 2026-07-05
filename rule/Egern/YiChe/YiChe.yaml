@@ -1,0 +1,10 @@
+# NAME: YiChe
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.828025+00:00
+no_resolve: true
+domain_suffix_set:
+  - "yccdn.com"
+  - "yiche.com"
+  - "bitauto.com"
+  - "cheyisou.com"
+  - "bitautoimg.com"

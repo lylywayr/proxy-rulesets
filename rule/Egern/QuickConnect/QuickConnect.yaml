@@ -1,0 +1,12 @@
+# NAME: QuickConnect
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.564784+00:00
+no_resolve: true
+domain_set:
+  - "account.synology.com"
+  - "global.quickconnect.cn"
+  - "sns.synology.com"
+domain_suffix_set:
+  - "quickconnect.to"
+  - "quickconnect.com"
+  - "download.synology.com"

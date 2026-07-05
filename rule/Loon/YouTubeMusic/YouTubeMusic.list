@@ -1,0 +1,12 @@
+# NAME: YouTubeMusic
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:54.548497+00:00
+# DOMAIN: 1
+# USER-AGENT: 4
+# TOTAL: 5
+
+DOMAIN,music.youtube.com
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*

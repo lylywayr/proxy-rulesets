@@ -1,0 +1,16 @@
+# NAME: DaMai
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:02:33.967779+00:00
+no_resolve: true
+domain_suffix_set:
+  - "dmcdn.cn"
+  - "damai.cn"
+  - "jtwsm.cn"
+  - "maikr.com"
+  - "baotoo.com"
+  - "maitix.com"
+  - "maitix.net"
+  - "damaicdn.cn"
+  - "piaogroup.com"
+  - "yanchupiaojia.com"
+  - "piao.com.cn"

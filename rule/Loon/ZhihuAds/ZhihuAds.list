@@ -1,0 +1,23 @@
+# NAME: ZhihuAds
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:54.583292+00:00
+# DOMAIN: 3
+# USER-AGENT: 1
+# IP-CIDR: 1
+# IP-CIDR6: 1
+# URL-REGEX: 7
+# TOTAL: 13
+
+DOMAIN,appcloud2.in.zhihu.com
+DOMAIN,mqtt.zhihu.com
+DOMAIN,sugar.zhihu.com
+USER-AGENT,AVOS*
+IP-CIDR,118.89.204.198/32,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
+URL-REGEX,^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/brand\/question\/\d+/card\?
+URL-REGEX,^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/commercial_api\/launch_v2\?
+URL-REGEX,^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/explore\/entry\/tips
+URL-REGEX,^https?:\/\/(www\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/api\/v4/(questions|anwsers)\/\d+/related-readings
+URL-REGEX,^https?:\/\/(www\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/api\/v4\/answers\/\d+\/recommendations
+URL-REGEX,^https?:\/\/(www\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/commercial_api\/banners_v3\/mobile_banner
+URL-REGEX,^https?:\/\/zhuanlan\.zhihu\.com\/api\/articles\/\d+\/recommendation

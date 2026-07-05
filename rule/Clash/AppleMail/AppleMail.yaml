@@ -1,0 +1,6 @@
+# NAME: AppleMail
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:24.023241+00:00
+payload:
+  - DOMAIN-SUFFIX,mail.me.com
+  - DOMAIN-SUFFIX,mail.icloud.com.cn

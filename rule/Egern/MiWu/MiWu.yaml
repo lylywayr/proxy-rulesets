@@ -1,0 +1,8 @@
+# NAME: MiWu
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:48.565044+00:00
+no_resolve: true
+domain_suffix_set:
+  - "miiiw.cn"
+  - "miiiw.com"
+  - "miiiw.net"

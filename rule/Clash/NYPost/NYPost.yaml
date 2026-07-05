@@ -1,0 +1,7 @@
+# NAME: NYPost
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:49.745690+00:00
+payload:
+  - DOMAIN-SUFFIX,nypost.com
+  - DOMAIN-SUFFIX,nypost.help
+  - DOMAIN-SUFFIX,nypostreprints.com

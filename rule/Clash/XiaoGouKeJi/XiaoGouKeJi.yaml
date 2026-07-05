@@ -1,0 +1,21 @@
+# NAME: XiaoGouKeJi
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.799887+00:00
+payload:
+  - DOMAIN-SUFFIX,xgdq.com
+  - DOMAIN-SUFFIX,moomv.com
+  - DOMAIN-SUFFIX,8moom.com
+  - DOMAIN-SUFFIX,xgdqsn.com
+  - DOMAIN-SUFFIX,puppy888.com
+  - DOMAIN-SUFFIX,xiaogouds.com
+  - DOMAIN-SUFFIX,xiaogou444.com
+  - DOMAIN-SUFFIX,xiaogou999.com
+  - DOMAIN-SUFFIX,xiaogou333.com
+  - DOMAIN-SUFFIX,xiaogou777.com
+  - DOMAIN-SUFFIX,xiaogou666.com
+  - DOMAIN-SUFFIX,xiaogou222.com
+  - DOMAIN-SUFFIX,xiaogou555.com
+  - DOMAIN-SUFFIX,xiaogou888.com
+  - DOMAIN-SUFFIX,xiaogou111.com
+  - DOMAIN-SUFFIX,xiaogouzhineng.com
+  - DOMAIN-SUFFIX,zhongyangweixiu.com

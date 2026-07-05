@@ -1,0 +1,6 @@
+# NAME: Zalo
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:54.562866+00:00
+payload:
+  - DOMAIN-SUFFIX,zalo.me
+  - DOMAIN-SUFFIX,zaloapp.com

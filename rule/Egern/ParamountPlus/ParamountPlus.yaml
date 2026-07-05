@@ -1,0 +1,17 @@
+# NAME: ParamountPlus
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.433104+00:00
+no_resolve: true
+domain_set:
+  - "cbsi.live.ott.irdeto.com"
+  - "cbsplaylistserver.aws.syncbak.com"
+  - "cbsservice.aws.syncbak.com"
+  - "link.theplatform.com"
+domain_suffix_set:
+  - "cbsi.com"
+  - "cbsivideo.com"
+  - "cbsaavideo.com"
+  - "pplusstatic.com"
+  - "paramountplus.com"
+user_agent_set:
+  - "PPlus*"

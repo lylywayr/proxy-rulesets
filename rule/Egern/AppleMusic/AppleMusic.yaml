@@ -1,0 +1,17 @@
+# NAME: AppleMusic
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:24.031241+00:00
+no_resolve: true
+domain_set:
+  - "aod-ssl.itunes.apple.com"
+  - "aod.itunes.apple.com"
+  - "audio-ssl.itunes.apple.com"
+  - "audio.itunes.apple.com"
+  - "mvod.itunes.apple.com"
+  - "streamingaudio.itunes.apple.com"
+domain_suffix_set:
+  - "applemusic.com"
+  - "music.apple.com"
+  - "blobstore.apple.com"
+user_agent_set:
+  - "Music*"

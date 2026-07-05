@@ -1,0 +1,13 @@
+# NAME: ALJazeera
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:22.858900+00:00
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+
+DOMAIN-SUFFIX,ajplus.net
+DOMAIN-SUFFIX,syhacked.com
+DOMAIN-SUFFIX,aljazeera.net
+DOMAIN-SUFFIX,aljazeera.com
+DOMAIN-SUFFIX,srebrenica360.com
+DOMAIN-SUFFIX,palestineremix.com
+DOMAIN-SUFFIX,sarajevopodopsadom.com

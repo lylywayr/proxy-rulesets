@@ -1,0 +1,10 @@
+# NAME: Acer
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:22.741149+00:00
+no_resolve: true
+domain_suffix_set:
+  - "acer.com"
+  - "founderpc.cn"
+  - "founderpc.com"
+  - "acer-group.com"
+  - "acer.com.cn"

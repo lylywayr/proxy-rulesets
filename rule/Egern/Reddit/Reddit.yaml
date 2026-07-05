@@ -1,0 +1,13 @@
+# NAME: Reddit
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.580339+00:00
+no_resolve: true
+domain_suffix_set:
+  - "redd.it"
+  - "reddit.com"
+  - "redditmail.com"
+  - "redditmedia.com"
+  - "redditstatic.com"
+  - "reddituploads.com"
+  - "reddituploads.com.cdn-cf.behance.net"
+  - "reddituploads.com.cdn-cf.dropbox.com"

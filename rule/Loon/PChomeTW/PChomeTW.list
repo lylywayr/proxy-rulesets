@@ -1,0 +1,11 @@
+# NAME: PChomeTW
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.450477+00:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+
+DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pchomepay.com.tw
+DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net

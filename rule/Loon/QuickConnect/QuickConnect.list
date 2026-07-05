@@ -1,0 +1,13 @@
+# NAME: QuickConnect
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.564028+00:00
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 3
+# TOTAL: 6
+
+DOMAIN,account.synology.com
+DOMAIN,global.quickconnect.cn
+DOMAIN,sns.synology.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.com
+DOMAIN-SUFFIX,download.synology.com

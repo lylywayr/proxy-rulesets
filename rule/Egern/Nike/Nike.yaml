@@ -1,0 +1,16 @@
+# NAME: Nike
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:49.720963+00:00
+no_resolve: true
+domain_suffix_set:
+  - "swoo.sh"
+  - "nike.com"
+  - "swoosh.com"
+  - "nikecdn.com"
+  - "nikecloud.com"
+  - "static-nike.com"
+  - "niketracking.com"
+  - "nike.com.br"
+  - "nike.com.hk"
+  - "nikeinc.com.cn"
+  - "nikestore.com.au"

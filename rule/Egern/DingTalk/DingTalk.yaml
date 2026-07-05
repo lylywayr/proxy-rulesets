@@ -1,0 +1,16 @@
+# NAME: DingTalk
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:02:34.032562+00:00
+no_resolve: true
+domain_suffix_set:
+  - "ddurl.to"
+  - "lwurl.to"
+  - "dg-work.cn"
+  - "laiwang.com"
+  - "realapp.xin"
+  - "dingtalk.cn"
+  - "dingtalk.com"
+  - "dingtalk.net"
+  - "dingding.xin"
+  - "dingtalkapps.com"
+  - "dingtalk.com.cn"

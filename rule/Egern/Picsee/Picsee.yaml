@@ -1,0 +1,11 @@
+# NAME: Picsee
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.459187+00:00
+no_resolve: true
+domain_suffix_set:
+  - "pse.is"
+  - "pros.ee"
+  - "pise.pw"
+  - "pics.ee"
+  - "picsee.co"
+  - "picsee.pro"

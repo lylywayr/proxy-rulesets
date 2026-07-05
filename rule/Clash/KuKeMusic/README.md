@@ -1,0 +1,30 @@
+# KuKeMusic
+
+## 中文
+
+KuKeMusic 规则集。
+
+### 规则统计
+
+- 总数: `3`
+- `DOMAIN-SUFFIX`: 3
+
+### 使用说明
+
+- 客户端: `Clash`
+- 文件: `rule/Clash/KuKeMusic/KuKeMusic.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/KuKeMusic/KuKeMusic.yaml`
+- 已省略的不兼容类型: 无
+
+### 数据来源
+
+- blackmatrix7 KuKeMusic: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuKeMusic/KuKeMusic.list
+
+## English
+
+KuKeMusic rule set.
+
+- Client: `Clash`
+- File: `rule/Clash/KuKeMusic/KuKeMusic.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/KuKeMusic/KuKeMusic.yaml`
+- Omitted unsupported types: `无`

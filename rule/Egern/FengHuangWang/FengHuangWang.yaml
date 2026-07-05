@@ -1,0 +1,14 @@
+# NAME: FengHuangWang
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:43.245011+00:00
+no_resolve: true
+domain_suffix_set:
+  - "ifeng.com"
+  - "fengcx.com"
+  - "fengedu.com"
+  - "ifengimg.com"
+  - "phoenixtv.com"
+  - "ifengweekly.com"
+  - "phoenixcenter.cn"
+  - "fengzhibo.com.cn"
+  - "phoenixtv.com.cn"

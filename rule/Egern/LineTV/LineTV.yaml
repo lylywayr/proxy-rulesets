@@ -1,0 +1,16 @@
+# NAME: LineTV
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.559291+00:00
+no_resolve: true
+domain_set:
+  - "d17lx9ucc6k9fc.cloudfront.net"
+  - "d3pgb93pk7bvxj.cloudfront.net"
+  - "d3vm9lcxb6xcm4.cloudfront.net"
+domain_suffix_set:
+  - "linetv.tw"
+  - "line-cdn.net"
+  - "line-scdn.net"
+  - "chocotv.com.tw"
+  - "d3c7rimkq79yfu.cloudfront.net"
+user_agent_set:
+  - "LINE%20TV*"

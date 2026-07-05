@@ -1,0 +1,8 @@
+# NAME: 6park
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:22.710057+00:00
+payload:
+  - DOMAIN-SUFFIX,6park.com
+  - DOMAIN-SUFFIX,cool18.com
+  - DOMAIN-SUFFIX,6parkbbs.com
+  - DOMAIN-SUFFIX,6parknews.com

@@ -1,0 +1,6 @@
+# NAME: W3schools
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.727140+00:00
+no_resolve: true
+domain_suffix_set:
+  - "w3schools.com"

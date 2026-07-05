@@ -1,0 +1,8 @@
+# NAME: friDay
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:43.287878+00:00
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+
+DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,fetnet.net

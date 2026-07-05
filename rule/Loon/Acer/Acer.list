@@ -1,0 +1,11 @@
+# NAME: Acer
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:22.739150+00:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+
+DOMAIN-SUFFIX,acer.com
+DOMAIN-SUFFIX,founderpc.cn
+DOMAIN-SUFFIX,founderpc.com
+DOMAIN-SUFFIX,acer-group.com
+DOMAIN-SUFFIX,acer.com.cn

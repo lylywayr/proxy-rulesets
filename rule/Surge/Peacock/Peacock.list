@@ -1,0 +1,9 @@
+# NAME: Peacock
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.452476+00:00
+# DOMAIN-SUFFIX: 1
+# USER-AGENT: 1
+# TOTAL: 2
+
+DOMAIN-SUFFIX,peacocktv.com
+USER-AGENT,PeacockMobile*

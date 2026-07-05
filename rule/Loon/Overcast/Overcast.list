@@ -1,0 +1,9 @@
+# NAME: Overcast
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.421596+00:00
+# DOMAIN-SUFFIX: 1
+# USER-AGENT: 1
+# TOTAL: 2
+
+DOMAIN-SUFFIX,overcast.fm
+USER-AGENT,Overcast*

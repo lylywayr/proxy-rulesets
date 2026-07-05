@@ -1,0 +1,30 @@
+# NAME: Gettyimages
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:43.335906+00:00
+no_resolve: true
+domain_suffix_set:
+  - "gettyimages.se"
+  - "gettyimages.ae"
+  - "gettyimages.de"
+  - "gettyimages.fr"
+  - "gettyimages.fi"
+  - "gettyimages.no"
+  - "gettyimages.nl"
+  - "gettyimages.ie"
+  - "gettyimages.dk"
+  - "gettyimages.at"
+  - "gettyimages.ch"
+  - "gettyimages.ca"
+  - "gettyimages.in"
+  - "gettyimages.be"
+  - "gettyimages.pt"
+  - "gettyimages.hk"
+  - "gettyimages.es"
+  - "gettyimages.it"
+  - "gettyimages.com"
+  - "gettyimages.co.uk"
+  - "gettyimages.co.jp"
+  - "gettyimages.co.nz"
+  - "gettyimages.com.br"
+  - "gettyimages.com.au"
+  - "gettyimages.com.mx"

@@ -1,0 +1,11 @@
+# NAME: Migu
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:48.557044+00:00
+no_resolve: true
+domain_suffix_set:
+  - "migu.cn"
+  - "cmvideo.cn"
+  - "miguvideo.com"
+user_agent_set:
+  - "%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91"
+  - "MiguVideo*"

@@ -1,0 +1,7 @@
+# NAME: Accuweather
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:22.735150+00:00
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+
+DOMAIN-SUFFIX,accuweather.com

@@ -1,0 +1,12 @@
+# NAME: HKBN
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.287711+00:00
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+
+DOMAIN-SUFFIX,jos.com
+DOMAIN-SUFFIX,hkbn.net
+DOMAIN-SUFFIX,hkbnes.net
+DOMAIN-SUFFIX,csifund.org
+DOMAIN-SUFFIX,hkbn.com.hk
+DOMAIN-SUFFIX,speedtest.com.hk

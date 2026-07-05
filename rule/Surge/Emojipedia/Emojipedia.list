@@ -1,0 +1,9 @@
+# NAME: Emojipedia
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:43.191213+00:00
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiday.com
+DOMAIN-SUFFIX,worldemojiawards.com

@@ -1,0 +1,12 @@
+# NAME: VK
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.719107+00:00
+no_resolve: true
+domain_suffix_set:
+  - "vk.cc"
+  - "vk.com"
+  - "mvk.com"
+  - "vk-cdn.me"
+  - "vk-cdn.net"
+  - "userapi.com"
+  - "vk-portal.net"

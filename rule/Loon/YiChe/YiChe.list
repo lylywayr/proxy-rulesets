@@ -1,0 +1,11 @@
+# NAME: YiChe
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.827039+00:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+
+DOMAIN-SUFFIX,yccdn.com
+DOMAIN-SUFFIX,yiche.com
+DOMAIN-SUFFIX,bitauto.com
+DOMAIN-SUFFIX,cheyisou.com
+DOMAIN-SUFFIX,bitautoimg.com

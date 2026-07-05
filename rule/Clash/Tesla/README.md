@@ -1,0 +1,30 @@
+# Tesla
+
+## 中文
+
+Tesla 规则集。
+
+### 规则统计
+
+- 总数: `12`
+- `DOMAIN-SUFFIX`: 12
+
+### 使用说明
+
+- 客户端: `Clash`
+- 文件: `rule/Clash/Tesla/Tesla.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Tesla/Tesla.yaml`
+- 已省略的不兼容类型: 无
+
+### 数据来源
+
+- blackmatrix7 Tesla: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tesla/Tesla.list
+
+## English
+
+Tesla rule set.
+
+- Client: `Clash`
+- File: `rule/Clash/Tesla/Tesla.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Tesla/Tesla.yaml`
+- Omitted unsupported types: `无`

@@ -1,0 +1,9 @@
+# NAME: HWTV
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.335904+00:00
+no_resolve: true
+domain_suffix_set:
+  - "5itv.tv"
+  - "ocnttv.com"
+user_agent_set:
+  - "HWTVMobile*"

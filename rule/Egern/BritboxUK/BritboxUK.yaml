@@ -1,0 +1,14 @@
+# NAME: BritboxUK
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:24.220243+00:00
+no_resolve: true
+domain_set:
+  - "itvpnp.live.ott.irdeto.com"
+  - "itvpnp.stage.ott.irdeto.com"
+domain_suffix_set:
+  - "itv.com"
+  - "britbox.com"
+  - "bb-static.com"
+  - "massive-itv.com"
+  - "bbc.co.uk"
+  - "britbox.co.uk"

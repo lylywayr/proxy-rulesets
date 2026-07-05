@@ -1,0 +1,12 @@
+# NAME: Clubhouse
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:02:33.885380+00:00
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+
+DOMAIN,clubhouse.pubnub.com
+DOMAIN,clubhouseprod.s3.amazonaws.com
+DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com

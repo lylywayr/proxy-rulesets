@@ -1,0 +1,7 @@
+# NAME: Tumblr
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.637789+00:00
+payload:
+  - DOMAIN-SUFFIX,tmblr.co
+  - DOMAIN-SUFFIX,tumblr.co
+  - DOMAIN-SUFFIX,tumblr.com

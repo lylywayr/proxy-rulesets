@@ -1,0 +1,7 @@
+# NAME: PotatoChat
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.479905+00:00
+payload:
+  - IP-CIDR,13.251.24.0/24
+  - IP-CIDR,13.251.41.0/24
+  - IP-CIDR,17.252.156.0/23

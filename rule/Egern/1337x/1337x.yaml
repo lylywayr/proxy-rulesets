@@ -1,0 +1,15 @@
+# NAME: 1337x
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:22.647109+00:00
+no_resolve: true
+domain_suffix_set:
+  - "1337x.gd"
+  - "1337x.tw"
+  - "1337x.to"
+  - "1337x.st"
+  - "1337x.is"
+  - "1337xx.to"
+  - "x1337x.se"
+  - "x1337x.ws"
+  - "x1337x.eu"
+  - "1337xto.to"

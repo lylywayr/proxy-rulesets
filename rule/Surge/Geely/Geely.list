@@ -1,0 +1,56 @@
+# NAME: Geely
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:43.325050+00:00
+# DOMAIN-SUFFIX: 50
+# TOTAL: 50
+
+DOMAIN-SUFFIX,zgh.com
+DOMAIN-SUFFIX,geely.pe
+DOMAIN-SUFFIX,levc.com
+DOMAIN-SUFFIX,geely.com
+DOMAIN-SUFFIX,skspace.cn
+DOMAIN-SUFFIX,51caocao.cn
+DOMAIN-SUFFIX,geelycv.com
+DOMAIN-SUFFIX,polestar.cn
+DOMAIN-SUFFIX,geelysc.com
+DOMAIN-SUFFIX,geelyph.com
+DOMAIN-SUFFIX,51caocao.net
+DOMAIN-SUFFIX,geespace.com
+DOMAIN-SUFFIX,zjcarnet.com
+DOMAIN-SUFFIX,vipcaocao.cn
+DOMAIN-SUFFIX,omnicloud.cn
+DOMAIN-SUFFIX,caocaotrip.cn
+DOMAIN-SUFFIX,caocaokeji.cn
+DOMAIN-SUFFIX,geelylaos.com
+DOMAIN-SUFFIX,volvocars.com
+DOMAIN-SUFFIX,gplus-lab.com
+DOMAIN-SUFFIX,zeekrlife.com
+DOMAIN-SUFFIX,vipcaocao.com
+DOMAIN-SUFFIX,caocaotrip.cc
+DOMAIN-SUFFIX,caocaotrip.com
+DOMAIN-SUFFIX,caocaokeji.net
+DOMAIN-SUFFIX,geely-test.com
+DOMAIN-SUFFIX,caocaomedia.cc
+DOMAIN-SUFFIX,geelydesign.com
+DOMAIN-SUFFIX,lynkco-test.com
+DOMAIN-SUFFIX,caocaotravel.cc
+DOMAIN-SUFFIX,geelyholding.com
+DOMAIN-SUFFIX,geometryauto.com
+DOMAIN-SUFFIX,caocaoservice.cc
+DOMAIN-SUFFIX,caocaojourney.cc
+DOMAIN-SUFFIX,caocaoglobal.com
+DOMAIN-SUFFIX,shikongdaoyu.com
+DOMAIN-SUFFIX,geely-motors.com
+DOMAIN-SUFFIX,caocaoproduct.cc
+DOMAIN-SUFFIX,caocaocustomer.cc
+DOMAIN-SUFFIX,caocaobusiness.cc
+DOMAIN-SUFFIX,caocaopromotion.cc
+DOMAIN-SUFFIX,caocaomarketing.cc
+DOMAIN-SUFFIX,geelyminiprogram.com
+DOMAIN-SUFFIX,geelyswedenholdings.com
+DOMAIN-SUFFIX,geely.com.qa
+DOMAIN-SUFFIX,lynkco.com.cn
+DOMAIN-SUFFIX,lishufu.org.cn
+DOMAIN-SUFFIX,geelyauto.com.hk
+DOMAIN-SUFFIX,volvocars.com.cn
+DOMAIN-SUFFIX,lotuscars.com.cn

@@ -1,0 +1,7 @@
+# NAME: Reabble
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.578338+00:00
+no_resolve: true
+domain_suffix_set:
+  - "reabble.cn"
+  - "reabble.com"

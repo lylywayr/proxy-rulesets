@@ -1,0 +1,10 @@
+# NAME: 8btc
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:22.714057+00:00
+no_resolve: true
+domain_suffix_set:
+  - "8btc.com"
+  - "matpool.com"
+  - "matpool.net"
+  - "bystack.com"
+  - "chainnode.com"

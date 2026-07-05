@@ -1,0 +1,60 @@
+# NAME: Ubuntu
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:53.658876+00:00
+# DOMAIN-SUFFIX: 54
+# TOTAL: 54
+
+DOMAIN-SUFFIX,ubuntu.hu
+DOMAIN-SUFFIX,ubuntu.lt
+DOMAIN-SUFFIX,ubuntu.ru
+DOMAIN-SUFFIX,ubuntu.ro
+DOMAIN-SUFFIX,ubuntu.se
+DOMAIN-SUFFIX,ubuntu.ir
+DOMAIN-SUFFIX,ubuntu.pl
+DOMAIN-SUFFIX,ubuntu.si
+DOMAIN-SUFFIX,ubuntu.lv
+DOMAIN-SUFFIX,ubuntu.sk
+DOMAIN-SUFFIX,ubuntu.cz
+DOMAIN-SUFFIX,ubuntu.net
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ualinux.com
+DOMAIN-SUFFIX,debuntu.org
+DOMAIN-SUFFIX,snapcraft.io
+DOMAIN-SUFFIX,ubuntu-nl.org
+DOMAIN-SUFFIX,ubuntu-hr.org
+DOMAIN-SUFFIX,ubuntu-ie.org
+DOMAIN-SUFFIX,ubuntu-pt.org
+DOMAIN-SUFFIX,canonical.com
+DOMAIN-SUFFIX,ubuntu-se.org
+DOMAIN-SUFFIX,ubuntu-rs.org
+DOMAIN-SUFFIX,ubuntu-cl.org
+DOMAIN-SUFFIX,ubuntu-tr.net
+DOMAIN-SUFFIX,askubuntu.com
+DOMAIN-SUFFIX,ubuntu-pe.org
+DOMAIN-SUFFIX,ubuntu-tw.org
+DOMAIN-SUFFIX,ubuntu-vn.org
+DOMAIN-SUFFIX,ubuntu-it.org
+DOMAIN-SUFFIX,ubuntu-br.org
+DOMAIN-SUFFIX,ubuntu-fi.org
+DOMAIN-SUFFIX,ubuntu-gr.org
+DOMAIN-SUFFIX,ubuntu-za.org
+DOMAIN-SUFFIX,ubuntu-fr.org
+DOMAIN-SUFFIX,ubuntu-news.ru
+DOMAIN-SUFFIX,ubucentrum.net
+DOMAIN-SUFFIX,ubuntuusers.de
+DOMAIN-SUFFIX,ubuntugeek.com
+DOMAIN-SUFFIX,ubuntuclub.com
+DOMAIN-SUFFIX,aerialline.com
+DOMAIN-SUFFIX,ubuntulinux.jp
+DOMAIN-SUFFIX,ubuntustats.com
+DOMAIN-SUFFIX,ubuntuguide.org
+DOMAIN-SUFFIX,ubuntulinux.org
+DOMAIN-SUFFIX,ubuntu-touch.io
+DOMAIN-SUFFIX,debianadmin.com
+DOMAIN-SUFFIX,iloveubuntu.net
+DOMAIN-SUFFIX,ubuntuforums.org
+DOMAIN-SUFFIX,ubuntu-manual.org
+DOMAIN-SUFFIX,fullcirclemagazine.org
+DOMAIN-SUFFIX,ubuntu.or.kr
+DOMAIN-SUFFIX,ubuntu.org.cn
+DOMAIN-SUFFIX,omgubuntu.co.uk

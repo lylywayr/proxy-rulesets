@@ -1,6 +1,6 @@
 # NAME: Proxy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T14:32:07.565584+00:00
+# UPDATED: 2026-07-05T00:11:50.500997+00:00
 no_resolve: true
 domain_keyword_set:
   - "1drv"

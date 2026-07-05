@@ -1,0 +1,13 @@
+# NAME: FOXPlus
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:43.283878+00:00
+no_resolve: true
+domain_set:
+  - "cdn-fox-networks-group-green.akamaized.net"
+  - "d3cv4a9a9wh0bt.cloudfront.net"
+  - "foxsports01-i.akamaihd.net"
+  - "foxsports02-i.akamaihd.net"
+  - "foxsports03-i.akamaihd.net"
+  - "staticasiafox.akamaized.net"
+domain_suffix_set:
+  - "foxplus.com"

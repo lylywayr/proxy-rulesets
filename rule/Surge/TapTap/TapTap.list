@@ -1,0 +1,8 @@
+# NAME: TapTap
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.755098+00:00
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+
+DOMAIN-SUFFIX,tap.io
+DOMAIN-SUFFIX,taptap.tw

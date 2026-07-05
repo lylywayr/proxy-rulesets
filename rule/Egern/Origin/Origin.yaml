@@ -1,0 +1,13 @@
+# NAME: Origin
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.417059+00:00
+no_resolve: true
+domain_set:
+  - "cloudsync-prod.s3.amazonaws.com"
+  - "eaasserts-a.akamaihd.net"
+  - "origin-a.akamaihd.net"
+  - "originasserts.akamaized.net"
+  - "rtm.tnt-ea.com"
+domain_suffix_set:
+  - "ea.com"
+  - "origin.com"

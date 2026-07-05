@@ -1,0 +1,8 @@
+# NAME: AirChina
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-04T23:53:22.832654+00:00
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+
+DOMAIN-SUFFIX,airchinacargo.com
+DOMAIN-SUFFIX,airchina.com.cn

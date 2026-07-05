@@ -1,0 +1,10 @@
+# NAME: Pandora
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:50.426595+00:00
+# DOMAIN-SUFFIX: 2
+# USER-AGENT: 1
+# TOTAL: 3
+
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,pandora.com
+USER-AGENT,Pandora*

@@ -1,0 +1,8 @@
+# NAME: LondonReal
+# REPO: https://github.com/lylywayr/proxy-rulesets
+# UPDATED: 2026-07-05T00:11:46.575290+00:00
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+
+DOMAIN-SUFFIX,londonreal.tv
+DOMAIN-SUFFIX,freedomplatform.tv
