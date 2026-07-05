@@ -1,0 +1,54 @@
+name: Hotfix Surge rule syntax
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/hotfix-surge-domain-regex.yml
+
+permissions:
+  contents: write
+
+jobs:
+  remove-unsupported-domain-regex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Remove DOMAIN-REGEX from Surge rule sets
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          changed = []
+          for path in Path("rule/Surge").rglob("*.list"):
+              original = path.read_text(encoding="utf-8")
+              lines = original.splitlines()
+              filtered = [line for line in lines if not line.startswith("DOMAIN-REGEX,")]
+              if filtered == lines:
+                  continue
+
+              total = sum(1 for line in filtered if line and not line.startswith("#"))
+              rebuilt = []
+              for line in filtered:
+                  if line.startswith("# DOMAIN-REGEX:"):
+                      continue
+                  if line.startswith("# TOTAL:"):
+                      rebuilt.append(f"# TOTAL: {total}")
+                  else:
+                      rebuilt.append(line)
+              path.write_text("\n".join(rebuilt) + "\n", encoding="utf-8")
+              changed.append(str(path))
+
+          print("Updated:")
+          print("\n".join(changed) if changed else "(none)")
+          PY
+
+      - name: Commit hotfix and remove this one-time workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/hotfix-surge-domain-regex.yml
+          git add rule/Surge
+          git diff --cached --quiet || git commit -m "fix: remove unsupported DOMAIN-REGEX from Surge rules"
+          git push
