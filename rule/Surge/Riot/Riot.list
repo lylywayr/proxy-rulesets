@@ -1,56 +1,54 @@
 # NAME: Riot
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.925174+00:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 53
-# TOTAL: 54
+# UPDATED: 2026-07-05T02:42:40.222584+00:00
+# DOMAIN-SUFFIX: 55
+# TOTAL: 55
 
-DOMAIN,lolstatic-a.akamaihd.net
 DOMAIN-SUFFIX,pvp.tv
 DOMAIN-SUFFIX,pvp.net
-DOMAIN-SUFFIX,riot.net
 DOMAIN-SUFFIX,ulol.com
-DOMAIN-SUFFIX,riot.com
 DOMAIN-SUFFIX,rgpub.io
+DOMAIN-SUFFIX,riot.com
+DOMAIN-SUFFIX,riot.net
 DOMAIN-SUFFIX,lolpcs.com
-DOMAIN-SUFFIX,lolclub.org
 DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,lolclub.org
 DOMAIN-SUFFIX,rstatic.net
 DOMAIN-SUFFIX,riotpin.com
-DOMAIN-SUFFIX,lolespor.com
-DOMAIN-SUFFIX,lcsmerch.com
-DOMAIN-SUFFIX,riotgames.jp
 DOMAIN-SUFFIX,riotgames.tv
-DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,riotgames.jp
+DOMAIN-SUFFIX,lcsmerch.com
+DOMAIN-SUFFIX,lolespor.com
 DOMAIN-SUFFIX,riotgames.net
 DOMAIN-SUFFIX,lolstatic.com
+DOMAIN-SUFFIX,supremacy.net
+DOMAIN-SUFFIX,riotgames.com
 DOMAIN-SUFFIX,lolfanart.net
 DOMAIN-SUFFIX,supremacy.com
-DOMAIN-SUFFIX,supremacy.net
+DOMAIN-SUFFIX,riotgames.info
+DOMAIN-SUFFIX,molesports.com
 DOMAIN-SUFFIX,ruinedking.com
 DOMAIN-SUFFIX,riot-games.com
-DOMAIN-SUFFIX,molesports.com
-DOMAIN-SUFFIX,lolesports.com
 DOMAIN-SUFFIX,lol-europe.com
+DOMAIN-SUFFIX,lolesports.com
 DOMAIN-SUFFIX,riotpoints.com
-DOMAIN-SUFFIX,riotgames.info
 DOMAIN-SUFFIX,leaguesharp.info
 DOMAIN-SUFFIX,playvalorant.com
-DOMAIN-SUFFIX,historyofdota.net
-DOMAIN-SUFFIX,historyofdota.org
 DOMAIN-SUFFIX,historyofdota.com
+DOMAIN-SUFFIX,historyofdota.org
+DOMAIN-SUFFIX,historyofdota.net
+DOMAIN-SUFFIX,leaguoflegends.com
+DOMAIN-SUFFIX,lolusercontent.com
+DOMAIN-SUFFIX,riotforgegames.com
 DOMAIN-SUFFIX,leagueoflegends.kr
+DOMAIN-SUFFIX,leagueoflegends.ca
+DOMAIN-SUFFIX,instituteofwar.org
 DOMAIN-SUFFIX,convrgencegame.com
 DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,instituteofwar.org
-DOMAIN-SUFFIX,lolusercontent.com
-DOMAIN-SUFFIX,leagueoflegends.ca
-DOMAIN-SUFFIX,leaguoflegends.com
-DOMAIN-SUFFIX,riotforgegames.com
-DOMAIN-SUFFIX,leagueoflegends.org
-DOMAIN-SUFFIX,leagueoflegends.com
 DOMAIN-SUFFIX,learnwithleague.com
 DOMAIN-SUFFIX,leagueoflegends.net
+DOMAIN-SUFFIX,leagueoflegends.com
+DOMAIN-SUFFIX,leagueoflegends.org
 DOMAIN-SUFFIX,leaguehighschool.com
 DOMAIN-SUFFIX,leagueoflegends.info
 DOMAIN-SUFFIX,leagueoflegendsscripts.com
@@ -59,3 +57,5 @@ DOMAIN-SUFFIX,lpl.com.cn
 DOMAIN-SUFFIX,lolshop.co.kr
 DOMAIN-SUFFIX,riotgames.co.kr
 DOMAIN-SUFFIX,leagueoflegends.co.kr
+DOMAIN-SUFFIX,riotgames.zendesk.com
+DOMAIN-SUFFIX,lolstatic-a.akamaihd.net

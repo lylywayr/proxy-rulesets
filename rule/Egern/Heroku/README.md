@@ -2,45 +2,29 @@
 
 ## 中文
 
-Heroku 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Heroku 规则集。
 
 ### 规则统计
 
-- 总数：`12`
+- 总数: `12`
 - `DOMAIN-SUFFIX`: 12
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`Heroku`
-- 分类显示名：`Heroku`
-- 文件：`rule/Egern/Heroku/Heroku.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Heroku/Heroku.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Heroku/Heroku.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Heroku/Heroku.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Heroku/Heroku.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Heroku/Heroku.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/Heroku/Heroku.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Heroku/Heroku.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite heroku](https://github.com/v2fly/domain-list-community/blob/master/data/heroku)
+- blackmatrix7 Heroku: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Heroku/Heroku.list
 
-<details>
-<summary>English</summary>
+## English
 
 Heroku rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Heroku/Heroku.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/Heroku/Heroku.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Heroku/Heroku.yaml`
+- Omitted unsupported types: `无`

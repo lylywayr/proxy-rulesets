@@ -1,48 +1,30 @@
-# 京东
+# JingDong
 
 ## 中文
 
-JingDong 相关通用互联网服务规则。
-
-> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+JingDong 规则集。
 
 ### 规则统计
 
-- 总数：`249`
+- 总数: `249`
 - `DOMAIN-SUFFIX`: 249
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`JingDong`
-- 分类显示名：`京东`
-- 文件：`rule/Loon/JingDong/JingDong.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JingDong/JingDong.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/JingDong/JingDong.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JingDong/JingDong.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/JingDong/JingDong.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/JingDong/JingDong.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/JingDong/JingDong.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JingDong/JingDong.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [blackmatrix7 JingDong](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list)
+- blackmatrix7 JingDong: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list
 
-<details>
-<summary>English</summary>
+## English
 
 JingDong rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JingDong/JingDong.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/JingDong/JingDong.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JingDong/JingDong.list`
+- Omitted unsupported types: `无`

@@ -1,46 +1,30 @@
-# 小红书
+# XiaoHongShu
 
 ## 中文
 
-XiaoHongShu 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+XiaoHongShu 规则集。
 
 ### 规则统计
 
-- 总数：`11`
-- `DOMAIN-SUFFIX`: 11
+- 总数: `4`
+- `DOMAIN-SUFFIX`: 4
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`XiaoHongShu`
-- 分类显示名：`小红书`
-- 文件：`rule/Surge/XiaoHongShu/XiaoHongShu.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/XiaoHongShu/XiaoHongShu.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/XiaoHongShu/XiaoHongShu.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/XiaoHongShu/XiaoHongShu.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/XiaoHongShu/XiaoHongShu.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/XiaoHongShu/XiaoHongShu.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/XiaoHongShu/XiaoHongShu.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/XiaoHongShu/XiaoHongShu.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite xiaohongshu](https://github.com/v2fly/domain-list-community/blob/master/data/xiaohongshu)
+- blackmatrix7 XiaoHongShu: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoHongShu/XiaoHongShu.list
 
-<details>
-<summary>English</summary>
+## English
 
 XiaoHongShu rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/XiaoHongShu/XiaoHongShu.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/XiaoHongShu/XiaoHongShu.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/XiaoHongShu/XiaoHongShu.list`
+- Omitted unsupported types: `无`

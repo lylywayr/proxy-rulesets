@@ -1,18 +1,18 @@
 # NAME: LuDaShi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.221523+00:00
+# UPDATED: 2026-07-05T02:42:35.331066+00:00
 payload:
   - DOMAIN-SUFFIX,ludan.cn
   - DOMAIN-SUFFIX,kejids.cn
-  - DOMAIN-SUFFIX,kejids.com
-  - DOMAIN-SUFFIX,ludashi.cn
   - DOMAIN-SUFFIX,taojike.cn
   - DOMAIN-SUFFIX,youhua.com
+  - DOMAIN-SUFFIX,ludashi.cn
+  - DOMAIN-SUFFIX,kejids.com
   - DOMAIN-SUFFIX,ludashi.com
   - DOMAIN-SUFFIX,monidashi.cn
   - DOMAIN-SUFFIX,birdpaper.cn
-  - DOMAIN-SUFFIX,dualspace.com
   - DOMAIN-SUFFIX,easyclean.fun
+  - DOMAIN-SUFFIX,dualspace.com
   - DOMAIN-SUFFIX,xiaoluerhuo.com
   - DOMAIN-SUFFIX,xiaoluhaohuo.com
   - DOMAIN-SUFFIX,dualspacetech.com

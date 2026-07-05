@@ -1,12 +1,12 @@
 # NAME: 9to5
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:32.952416+00:00
+# UPDATED: 2026-07-05T02:08:37.621846+00:00
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 
 DOMAIN-SUFFIX,electrek.co
-DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,dronedj.com
+DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,9to5toys.com
 DOMAIN-SUFFIX,9to5google.com
 DOMAIN-SUFFIX,9to5terminal.com

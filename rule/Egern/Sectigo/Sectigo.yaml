@@ -1,26 +1,12 @@
 # NAME: Sectigo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.940584+00:00
+# UPDATED: 2026-07-05T02:42:40.533807+00:00
 no_resolve: true
 domain_suffix_set:
-  - "aoc.cat"
-  - "oemssl.cn"
   - "sectigo.com"
-  - "catcert.cat"
-  - "comodoca.com"
   - "usertrust.com"
-  - "comodoca2.com"
-  - "netsolssl.com"
-  - "comodoca4.com"
-  - "comodoca3.com"
-  - "optimumssl.com"
   - "instantssl.com"
+  - "optimumssl.com"
   - "positivessl.com"
-  - "sectigochina.com"
-  - "incommon-rsa.org"
-  - "trust-provider.cn"
   - "enterprisessl.com"
   - "hackerguardian.com"
-  - "trust-provider.com"
-  - "oemssl.cn.cdn.cloudflare.net"
-  - "sectigochina.com.cdn.cloudflare.net"

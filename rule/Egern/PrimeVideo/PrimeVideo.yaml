@@ -1,29 +1,26 @@
 # NAME: PrimeVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.374864+00:00
+# UPDATED: 2026-07-05T02:42:39.279901+00:00
 no_resolve: true
 domain_set:
+  - "atv-ps.amazon.com"
+  - "avodmp4s3ww-a.akamaihd.net"
   - "d1v5ir2lpwr8os.cloudfront.net"
   - "d22qjgkvxw22r6.cloudfront.net"
   - "d25xi40x97liuc.cloudfront.net"
   - "d27xxe7juh1us6.cloudfront.net"
   - "dmqdd6hw24ucf.cloudfront.net"
-  - "images-eu.ssl-images-amazon.com"
-  - "images-fe.ssl-images-amazon.com"
-  - "images-na.ssl-images-amazon.com"
-  - "msh.amazon.co.uk"
-  - "static.siege-amazon.com"
+  - "fls-na.amazon.com"
+  - "www.amazon.com"
 domain_suffix_set:
+  - "pv-cdn.net"
   - "aiv-cdn.net"
-  - "primevideo.tv"
-  - "primevideo.cc"
-  - "amazonvideo.cc"
   - "primevideo.com"
-  - "primevideo.org"
-  - "primevideo.info"
-  - "prime-video.com"
   - "amazonvideo.com"
-  - "amazonprimevideo.cn"
-  - "amazonprimevideos.com"
-  - "amazonprimevideo.com.cn"
-  - "prod.service.minerva.devices.a2z.com"
+  - "media-amazon.com"
+  - "aiv-delivery.net"
+domain_keyword_set:
+  - "avoddashs"
+user_agent_set:
+  - "InstantVideo.US*"
+  - "Prime%20Video*"

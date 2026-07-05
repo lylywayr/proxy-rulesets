@@ -2,46 +2,30 @@
 
 ## 中文
 
-EA 相关游戏平台、游戏服务或下载分发规则。
-
-### 导航
-
-- 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 专题入口：
-- [游戏平台专题](../../../guide/topics/gaming-platforms.md)
+EA 规则集。
 
 ### 规则统计
 
-- 总数：`163`
-- `DOMAIN`: 4
-- `DOMAIN-SUFFIX`: 159
+- 总数: `165`
+- `DOMAIN-SUFFIX`: 163
+- `DOMAIN`: 2
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`EA`
-- 分类显示名：`EA`
-- 文件：`rule/Surge/EA/EA.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/EA/EA.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/EA/EA.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/EA/EA.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/EA/EA.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/EA/EA.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/EA/EA.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/EA/EA.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite ea](https://github.com/v2fly/domain-list-community/blob/master/data/ea)
+- blackmatrix7 EA: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EA/EA.list
 
-<details>
-<summary>English</summary>
+## English
 
 EA rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/EA/EA.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/EA/EA.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/EA/EA.list`
+- Omitted unsupported types: `无`

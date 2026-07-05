@@ -1,11 +1,10 @@
 # NAME: AMD
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.087357+00:00
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# UPDATED: 2026-07-05T02:08:39.703497+00:00
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
 
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,radeon.com
-DOMAIN-SUFFIX,amdgaming.com
 DOMAIN-SUFFIX,amdfanstore.com
 DOMAIN-SUFFIX,amd.com.cn

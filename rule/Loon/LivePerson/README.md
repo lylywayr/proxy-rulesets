@@ -2,45 +2,29 @@
 
 ## 中文
 
-LivePerson 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+LivePerson 规则集。
 
 ### 规则统计
 
-- 总数：`2`
-- `DOMAIN-SUFFIX`: 2
+- 总数: `3`
+- `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`LivePerson`
-- 分类显示名：`LivePerson`
-- 文件：`rule/Loon/LivePerson/LivePerson.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LivePerson/LivePerson.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/LivePerson/LivePerson.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LivePerson/LivePerson.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/LivePerson/LivePerson.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LivePerson/LivePerson.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/LivePerson/LivePerson.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LivePerson/LivePerson.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite liveperson](https://github.com/v2fly/domain-list-community/blob/master/data/liveperson)
+- blackmatrix7 LivePerson: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LivePerson/LivePerson.list
 
-<details>
-<summary>English</summary>
+## English
 
 LivePerson rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LivePerson/LivePerson.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/LivePerson/LivePerson.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LivePerson/LivePerson.list`
+- Omitted unsupported types: `无`

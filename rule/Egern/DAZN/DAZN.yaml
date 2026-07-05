@@ -1,13 +1,26 @@
 # NAME: DAZN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:34:25.618655+00:00
+# UPDATED: 2026-07-05T02:25:31.464908+00:00
 no_resolve: true
 domain_suffix_set:
   - "dazn.com"
+  - "sentry.io"
   - "dazndn.com"
   - "indazn.com"
+  - "intercom.io"
   - "dazn-api.com"
-  - "daznfeeds.com"
   - "indaznlab.com"
-  - "daznplayer.com"
-  - "daznservices.com"
+  - "s.yimg.jp"
+  - "logx.optimizely.com"
+  - "control.kochava.com"
+  - "dcblivedazn.akamaized.net"
+  - "dcalivedazn.akamaized.net"
+  - "d1sgwhnao7452x.cloudfront.net"
+  - "d151l6v8er5bdm.cloudfront.net"
+  - "dca-ll-voddazn-dznvodjp.s.llnwi.net"
+  - "dca-ll-livedazn-dznlivejp.s.llnwi.net"
+  - "dc2-vodhls-perform.secure.footprint.net"
+domain_keyword_set:
+  - "voddazn"
+user_agent_set:
+  - "DAZN*"

@@ -1,9 +1,11 @@
 # NAME: WoLai
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.150766+00:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2026-07-05T02:42:46.061193+00:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 
 DOMAIN-SUFFIX,wol.tv
+DOMAIN-SUFFIX,wolai.ren
 DOMAIN-SUFFIX,wolai.com
+DOMAIN-SUFFIX,woyun.work
 DOMAIN-SUFFIX,wostatic.cn

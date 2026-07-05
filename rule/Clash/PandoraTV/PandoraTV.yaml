@@ -1,6 +1,6 @@
 # NAME: PandoraTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.342649+00:00
+# UPDATED: 2026-07-05T02:42:38.486357+00:00
 payload:
   - DOMAIN-SUFFIX,pandora.tv
   - DOMAIN-SUFFIX,kmplayer.com

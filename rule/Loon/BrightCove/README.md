@@ -2,46 +2,29 @@
 
 ## 中文
 
-BrightCove 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+BrightCove 规则集。
 
 ### 规则统计
 
-- 总数：`14`
-- `DOMAIN`: 3
-- `DOMAIN-SUFFIX`: 11
+- 总数: `14`
+- `DOMAIN-SUFFIX`: 14
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`BrightCove`
-- 分类显示名：`BrightCove`
-- 文件：`rule/Loon/BrightCove/BrightCove.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/BrightCove/BrightCove.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/BrightCove/BrightCove.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BrightCove/BrightCove.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/BrightCove/BrightCove.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite brightcove](https://github.com/v2fly/domain-list-community/blob/master/data/brightcove)
+- blackmatrix7 BrightCove: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BrightCove/BrightCove.list
 
-<details>
-<summary>English</summary>
+## English
 
 BrightCove rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/BrightCove/BrightCove.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list`
+- Omitted unsupported types: `无`

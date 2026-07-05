@@ -2,45 +2,29 @@
 
 ## 中文
 
-Reabble 相关游戏平台、游戏服务或下载分发规则。
-
-### 导航
-
-- 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 专题入口：
-- 暂无
+Reabble 规则集。
 
 ### 规则统计
 
-- 总数：`2`
+- 总数: `2`
 - `DOMAIN-SUFFIX`: 2
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`Reabble`
-- 分类显示名：`Reabble`
-- 文件：`rule/Surge/Reabble/Reabble.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Reabble/Reabble.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Reabble/Reabble.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Reabble/Reabble.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Reabble/Reabble.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Reabble/Reabble.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/Reabble/Reabble.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Reabble/Reabble.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite reabble](https://github.com/v2fly/domain-list-community/blob/master/data/reabble)
+- blackmatrix7 Reabble: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reabble/Reabble.list
 
-<details>
-<summary>English</summary>
+## English
 
 Reabble rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Reabble/Reabble.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/Reabble/Reabble.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Reabble/Reabble.list`
+- Omitted unsupported types: `无`

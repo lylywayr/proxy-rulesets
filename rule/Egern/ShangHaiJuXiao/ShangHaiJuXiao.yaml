@@ -1,10 +1,10 @@
 # NAME: ShangHaiJuXiao
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.943595+00:00
+# UPDATED: 2026-07-05T02:42:40.618294+00:00
 no_resolve: true
 domain_suffix_set:
   - "mvad.com"
-  - "mediav.com"
   - "mdvdns.com"
+  - "mediav.com"
   - "bubuying.net"
   - "kuaishuru.net"

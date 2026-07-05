@@ -1,28 +1,25 @@
 # NAME: Discord
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.708722+00:00
+# UPDATED: 2026-07-05T02:42:27.227955+00:00
 no_resolve: true
-domain_set:
-  - "discord-attachments-uploads-prd.storage.googleapis.com"
-  - "hammerandchisel.ssl.zendesk.com"
 domain_suffix_set:
   - "dis.gd"
   - "discord.gg"
   - "discord.co"
-  - "discord.com"
   - "discord.new"
+  - "discord.com"
   - "discord.dev"
   - "discord.gift"
   - "discord.tools"
+  - "discord.media"
   - "discordapp.io"
   - "discord.gifts"
   - "discord.store"
-  - "discord.media"
-  - "discordapp.net"
-  - "discordapp.com"
   - "discord.design"
-  - "airhornbot.com"
+  - "discordapp.net"
   - "discordcdn.com"
+  - "airhornbot.com"
+  - "discordapp.com"
   - "discordsays.com"
   - "discordmerch.com"
   - "discordstatus.com"
@@ -32,3 +29,6 @@ domain_suffix_set:
   - "discordpartygames.com"
   - "discord-activities.com"
   - "watchanimeattheoffice.com"
+  - "discordapp.page.link"
+  - "hammerandchisel.ssl.zendesk.com"
+  - "discord-attachments-uploads-prd.storage.googleapis.com"

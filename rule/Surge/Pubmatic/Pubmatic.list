@@ -1,8 +1,7 @@
 # NAME: Pubmatic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.903925+00:00
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-07-05T02:42:39.625052+00:00
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
 
-DOMAIN-SUFFIX,pubmatic.com
-DOMAIN-SUFFIX,pubmatic.co.jp
+DOMAIN-SUFFIX,ads.pubmatic.com

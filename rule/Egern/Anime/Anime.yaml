@@ -1,26 +1,18 @@
 # NAME: Anime
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.099357+00:00
+# UPDATED: 2026-07-05T02:08:39.984665+00:00
 no_resolve: true
 domain_suffix_set:
-  - "age.tv"
   - "vrv.co"
-  - "agedm.tv"
-  - "9anime.ws"
-  - "agedm.org"
-  - "9anime.cz"
-  - "9anime.to"
   - "9anime.id"
-  - "agedm.app"
-  - "agemys.org"
+  - "9anime.ws"
+  - "9anime.to"
+  - "9anime.cz"
   - "hidive.com"
   - "gogocdn.net"
-  - "agefans.com"
   - "gogoanime.vc"
-  - "gogotaku.info"
-  - "gogoanime3.co"
   - "gogo-load.com"
-  - "funimation.com"
   - "gogoanime.wiki"
+  - "funimation.com"
   - "animedao-tv.com"
   - "crunchyroll.com"

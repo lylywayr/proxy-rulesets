@@ -1,16 +1,16 @@
 # NAME: Wikipedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.146767+00:00
+# UPDATED: 2026-07-05T02:42:45.939841+00:00
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 
-DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wiktionary.org
 DOMAIN-SUFFIX,wikisource.org

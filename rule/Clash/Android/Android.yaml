@@ -1,8 +1,5 @@
 # NAME: Android
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.097357+00:00
+# UPDATED: 2026-07-05T02:08:39.913801+00:00
 payload:
-  - DOMAIN,android.googlesource.com
-  - DOMAIN-SUFFIX,android
-  - DOMAIN-SUFFIX,android.com
-  - DOMAIN-SUFFIX,androidify.com
+  - DOMAIN,aida.googleapis.com

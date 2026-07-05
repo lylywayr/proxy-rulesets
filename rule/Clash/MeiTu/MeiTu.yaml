@@ -1,17 +1,8 @@
 # NAME: MeiTu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.238750+00:00
+# UPDATED: 2026-07-05T02:42:35.752244+00:00
 payload:
-  - DOMAIN-SUFFIX,wink.cn
-  - DOMAIN-SUFFIX,whee.com
   - DOMAIN-SUFFIX,meitu.com
   - DOMAIN-SUFFIX,meipai.com
-  - DOMAIN-SUFFIX,kaipai.com
-  - DOMAIN-SUFFIX,meiyan.com
-  - DOMAIN-SUFFIX,roboneo.com
-  - DOMAIN-SUFFIX,designkit.cn
   - DOMAIN-SUFFIX,meitustat.com
   - DOMAIN-SUFFIX,meitudata.com
-  - DOMAIN-SUFFIX,meituxiuxiu.com
-  - DOMAIN-SUFFIX,miraclevision.com
-  - DOMAIN-SUFFIX,zcool.com.cn

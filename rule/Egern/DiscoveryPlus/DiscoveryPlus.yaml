@@ -1,8 +1,25 @@
 # NAME: DiscoveryPlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.710806+00:00
+# UPDATED: 2026-07-05T02:42:27.266189+00:00
 no_resolve: true
+domain_set:
+  - "discovery-us.conax.cloud"
+  - "dplus-northamerica-cloudfront-gcs.prod-vod.h264.io"
+  - "dplus-northamerica.media-edge.prod-vod.h264.io"
 domain_suffix_set:
+  - "litix.io"
+  - "fwmrm.net"
+  - "dnitv.com"
+  - "uplynk.com"
+  - "discovery.com"
   - "disco-api.com"
+  - "discoveryplus.in"
+  - "getblueshift.com"
   - "discoveryplus.com"
-  - "content-ause1-ur-discovery1.uplynk.com"
+  - "discoveryplus.co.uk"
+  - "mobile-collector.newrelic.com"
+domain_keyword_set:
+  - "discovery.uplynk.com"
+user_agent_set:
+  - "DPlus*"
+  - "discovery+*"

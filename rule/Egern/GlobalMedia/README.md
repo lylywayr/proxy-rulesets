@@ -1,47 +1,36 @@
-# 国际媒体
+# GlobalMedia
 
 ## 中文
 
-国际流媒体与海外媒体平台聚合规则。
-
-### 导航
-
-- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 专题入口：
-- [流媒体专题](../../../guide/topics/streaming-media.md)
+GlobalMedia 规则集。
 
 ### 规则统计
 
-- 总数：`1580`
-- `DOMAIN`: 24
-- `DOMAIN-SUFFIX`: 1556
+- 总数: `1021`
+- `DOMAIN-SUFFIX`: 1
+- `DOMAIN-KEYWORD`: 26
+- `USER-AGENT`: 69
+- `PROCESS-NAME`: 3
+- `IP-CIDR`: 918
+- `IP-CIDR6`: 6
+- `URL-REGEX`: 1
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`GlobalMedia`
-- 分类显示名：`国际媒体`
-- 文件：`rule/Egern/GlobalMedia/GlobalMedia.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GlobalMedia/GlobalMedia.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalMedia/GlobalMedia.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GlobalMedia/GlobalMedia.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GlobalMedia/GlobalMedia.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GlobalMedia/GlobalMedia.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/GlobalMedia/GlobalMedia.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GlobalMedia/GlobalMedia.yaml`
+- 已省略的不兼容类型: PROCESS-NAME=3
 
 ### 数据来源
 
-- [v2fly geosite category-media](https://github.com/v2fly/domain-list-community/blob/master/data/category-media)
+- blackmatrix7 GlobalMedia: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia.list
 
-<details>
-<summary>English</summary>
+## English
 
 GlobalMedia rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GlobalMedia/GlobalMedia.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/GlobalMedia/GlobalMedia.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GlobalMedia/GlobalMedia.yaml`
+- Omitted unsupported types: `PROCESS-NAME=3`

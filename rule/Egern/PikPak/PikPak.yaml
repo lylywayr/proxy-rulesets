@@ -1,11 +1,13 @@
 # NAME: PikPak
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.361649+00:00
+# UPDATED: 2026-07-05T02:42:38.894709+00:00
 no_resolve: true
 domain_suffix_set:
-  - "pikpak.me"
-  - "pikpak.io"
-  - "mypikpak.com"
-  - "mypikpak.net"
-  - "pickpackapp.com"
-  - "pikpakdrive.com"
+  - "hub5pnc.sandai.net"
+  - "hubciddata.sandai.net"
+  - "hub5pn.wap.sandai.net"
+  - "dlandroid.rcv.sandai.net"
+  - "hub5pr.v6.phub.sandai.net"
+  - "hub5idx.v6.shub.sandai.net"
+domain_keyword_set:
+  - "mypikpak"

@@ -2,45 +2,29 @@
 
 ## 中文
 
-LondonReal 相关游戏平台、游戏服务或下载分发规则。
-
-### 导航
-
-- 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 专题入口：
-- 暂无
+LondonReal 规则集。
 
 ### 规则统计
 
-- 总数：`2`
+- 总数: `2`
 - `DOMAIN-SUFFIX`: 2
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`LondonReal`
-- 分类显示名：`LondonReal`
-- 文件：`rule/Egern/LondonReal/LondonReal.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LondonReal/LondonReal.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/LondonReal/LondonReal.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LondonReal/LondonReal.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/LondonReal/LondonReal.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LondonReal/LondonReal.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/LondonReal/LondonReal.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LondonReal/LondonReal.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite londonreal](https://github.com/v2fly/domain-list-community/blob/master/data/londonreal)
+- blackmatrix7 LondonReal: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LondonReal/LondonReal.list
 
-<details>
-<summary>English</summary>
+## English
 
 LondonReal rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LondonReal/LondonReal.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/LondonReal/LondonReal.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LondonReal/LondonReal.yaml`
+- Omitted unsupported types: `无`

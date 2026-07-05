@@ -2,47 +2,33 @@
 
 ## 中文
 
-GitHub 站点、API、静态资源与代码托管访问规则。
-
-### 导航
-
-- 所属分组：[开发者平台](../../../guide/groups/developer.md)
-- 专题入口：
-- [开发者栈专题](../../../guide/topics/developer-stack.md)
-- [云网络专题](../../../guide/topics/cloud-network.md)
+GitHub 网站、API 与静态资源。
 
 ### 规则统计
 
-- 总数：`58`
-- `DOMAIN`: 28
+- 总数: `31`
 - `DOMAIN-SUFFIX`: 30
+- `DOMAIN-KEYWORD`: 1
 
 ### 使用说明
 
-- 当前客户端：`Clash`
-- 分类标识：`GitHub`
-- 分类显示名：`GitHub`
-- 文件：`rule/Clash/GitHub/GitHub.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GitHub/GitHub.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GitHub/GitHub.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GitHub/GitHub.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GitHub/GitHub.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitHub/GitHub.yaml>
+- 客户端: `Clash`
+- 文件: `rule/Clash/GitHub/GitHub.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GitHub/GitHub.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite github](https://github.com/v2fly/domain-list-community/blob/master/data/github)
+- ACL4SSR Github list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list
+- ACL4SSR Github provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml
+- LM-Firefly Github list: https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list
+- LM-Firefly Github classical: https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml
 
-<details>
-<summary>English</summary>
+## English
 
 GitHub web, API, and static assets.
 
-- Current client: `Clash`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GitHub/GitHub.yaml>
-
-</details>
+- Client: `Clash`
+- File: `rule/Clash/GitHub/GitHub.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GitHub/GitHub.yaml`
+- Omitted unsupported types: `无`

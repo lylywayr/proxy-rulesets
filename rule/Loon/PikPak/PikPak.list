@@ -1,12 +1,14 @@
 # NAME: PikPak
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.360649+00:00
+# UPDATED: 2026-07-05T02:42:38.894009+00:00
 # DOMAIN-SUFFIX: 6
-# TOTAL: 6
+# DOMAIN-KEYWORD: 1
+# TOTAL: 7
 
-DOMAIN-SUFFIX,pikpak.me
-DOMAIN-SUFFIX,pikpak.io
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,mypikpak.net
-DOMAIN-SUFFIX,pickpackapp.com
-DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-KEYWORD,mypikpak

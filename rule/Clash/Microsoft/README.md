@@ -1,48 +1,38 @@
-# 微软
+# Microsoft
 
 ## 中文
 
-Microsoft 通用服务规则，覆盖账户、办公、协作与生产力服务。
-
-### 导航
-
-- 所属分组：[办公协作](../../../guide/groups/office.md)
-- 专题入口：
-- [办公协作专题](../../../guide/topics/office-collaboration.md)
-- [云网络专题](../../../guide/topics/cloud-network.md)
+Microsoft、OneDrive、Teams 等服务。
 
 ### 规则统计
 
-- 总数：`632`
-- `DOMAIN`: 16
-- `DOMAIN-SUFFIX`: 616
+- 总数: `673`
+- `DOMAIN-SUFFIX`: 663
+- `DOMAIN`: 1
+- `DOMAIN-KEYWORD`: 4
+- `USER-AGENT`: 3
+- `PROCESS-NAME`: 2
 
 ### 使用说明
 
-- 当前客户端：`Clash`
-- 分类标识：`Microsoft`
-- 分类显示名：`微软`
-- 文件：`rule/Clash/Microsoft/Microsoft.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Microsoft/Microsoft.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Microsoft/Microsoft.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Microsoft/Microsoft.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Microsoft/Microsoft.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Microsoft/Microsoft.yaml>
+- 客户端: `Clash`
+- 文件: `rule/Clash/Microsoft/Microsoft.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Microsoft/Microsoft.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite microsoft](https://github.com/v2fly/domain-list-community/blob/master/data/microsoft)
+- ACL4SSR OneDrive list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list
+- ACL4SSR Microsoft list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list
+- ACL4SSR Microsoft provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml
+- ACL4SSR OneDrive provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OneDrive.yaml
+- zqzess Microsoft list: https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Microsoft.list
 
-<details>
-<summary>English</summary>
+## English
 
 Microsoft, OneDrive, Teams, and related services.
 
-- Current client: `Clash`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Microsoft/Microsoft.yaml>
-
-</details>
+- Client: `Clash`
+- File: `rule/Clash/Microsoft/Microsoft.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Microsoft/Microsoft.yaml`
+- Omitted unsupported types: `无`

@@ -2,46 +2,30 @@
 
 ## 中文
 
-Anthropic 官方服务与 Claude 相关接入链路规则。
-
-### 导航
-
-- 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 专题入口：
-- [AI 专题](../../../guide/topics/ai-services.md)
+Anthropic 官方服务与相关域名。
 
 ### 规则统计
 
-- 总数：`8`
+- 总数: `3`
+- `DOMAIN-SUFFIX`: 2
 - `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 7
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`Anthropic`
-- 分类显示名：`Anthropic`
-- 文件：`rule/Loon/Anthropic/Anthropic.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anthropic/Anthropic.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Anthropic/Anthropic.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anthropic/Anthropic.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Anthropic/Anthropic.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Anthropic/Anthropic.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/Anthropic/Anthropic.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anthropic/Anthropic.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite anthropic](https://github.com/v2fly/domain-list-community/blob/master/data/anthropic)
+- blackmatrix7 Anthropic: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list
 
-<details>
-<summary>English</summary>
+## English
 
 Anthropic services and related domains.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anthropic/Anthropic.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/Anthropic/Anthropic.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anthropic/Anthropic.list`
+- Omitted unsupported types: `无`

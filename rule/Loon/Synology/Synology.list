@@ -1,26 +1,27 @@
 # NAME: Synology
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.997689+00:00
-# DOMAIN-SUFFIX: 20
-# TOTAL: 20
+# UPDATED: 2026-07-05T02:42:42.157910+00:00
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 17
+# DOMAIN-KEYWORD: 1
+# TOTAL: 19
 
+DOMAIN,d2f0395ykn6hxb.cloudfront.net
 DOMAIN-SUFFIX,i234.me
-DOMAIN-SUFFIX,myds.me
-DOMAIN-SUFFIX,gofile.me
+DOMAIN-SUFFIX,myds.com
 DOMAIN-SUFFIX,dscloud.me
-DOMAIN-SUFFIX,dsmynas.org
-DOMAIN-SUFFIX,dscloud.biz
 DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,dsmunas.org
+DOMAIN-SUFFIX,dsmunas.com
+DOMAIN-SUFFIX,synodns.com
+DOMAIN-SUFFIX,dsmunas.net
 DOMAIN-SUFFIX,synology.cn
-DOMAIN-SUFFIX,dsmynas.com
-DOMAIN-SUFFIX,dsmynas.net
+DOMAIN-SUFFIX,dscloud.biz
+DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,dscloud.mobi
 DOMAIN-SUFFIX,familyds.net
 DOMAIN-SUFFIX,familyds.org
-DOMAIN-SUFFIX,synology.com
-DOMAIN-SUFFIX,familyds.com
 DOMAIN-SUFFIX,diskstation.me
-DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,quickconnect.to
-DOMAIN-SUFFIX,synologyupdate.com
-DOMAIN-SUFFIX,synologydownload.com
+DOMAIN-KEYWORD,synology

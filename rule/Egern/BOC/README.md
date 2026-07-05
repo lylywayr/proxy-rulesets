@@ -1,46 +1,30 @@
-# 中国银行
+# BOC
 
 ## 中文
 
-中国银行 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[金融电商](../../../guide/groups/finance.md)
-- 专题入口：
-- [金融电商专题](../../../guide/topics/finance-commerce.md)
+BOC 规则集。
 
 ### 规则统计
 
-- 总数：`20`
-- `DOMAIN-SUFFIX`: 20
+- 总数: `22`
+- `DOMAIN-SUFFIX`: 22
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`BOC`
-- 分类显示名：`中国银行`
-- 文件：`rule/Egern/BOC/BOC.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BOC/BOC.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/BOC/BOC.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BOC/BOC.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/BOC/BOC.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BOC/BOC.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/BOC/BOC.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BOC/BOC.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite boc](https://github.com/v2fly/domain-list-community/blob/master/data/boc)
+- blackmatrix7 BOC: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOC/BOC.list
 
-<details>
-<summary>English</summary>
+## English
 
 BOC rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BOC/BOC.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/BOC/BOC.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BOC/BOC.yaml`
+- Omitted unsupported types: `无`

@@ -1,16 +1,9 @@
 # NAME: PChome
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.354649+00:00
+# UPDATED: 2026-07-05T02:42:38.706014+00:00
 payload:
-  - DOMAIN,ecapi-pchome.cdn.hinet.net
   - DOMAIN-SUFFIX,ecimg.tw
   - DOMAIN-SUFFIX,pcloud.tw
-  - DOMAIN-SUFFIX,pchomeec.tw
-  - DOMAIN-SUFFIX,piapp.com.tw
-  - DOMAIN-SUFFIX,toget.com.tw
   - DOMAIN-SUFFIX,pchome.com.tw
-  - DOMAIN-SUFFIX,rakuya.com.tw
-  - DOMAIN-SUFFIX,tagapie.com.tw
-  - DOMAIN-SUFFIX,pcstore.com.tw
   - DOMAIN-SUFFIX,pchomepay.com.tw
-  - DOMAIN-SUFFIX,pchomeonline.com.tw
+  - DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net

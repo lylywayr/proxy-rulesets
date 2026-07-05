@@ -1,15 +1,13 @@
 # NAME: Origin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.335649+00:00
+# UPDATED: 2026-07-05T02:42:38.287158+00:00
 no_resolve: true
 domain_set:
   - "cloudsync-prod.s3.amazonaws.com"
+  - "eaasserts-a.akamaihd.net"
   - "origin-a.akamaihd.net"
+  - "originasserts.akamaized.net"
   - "rtm.tnt-ea.com"
-  - "ssl-lvlt.cdn.ea.com"
 domain_suffix_set:
-  - "origin.tv"
+  - "ea.com"
   - "origin.com"
-  - "eastore.com"
-  - "dawngate.com"
-  - "lordofultima.com"

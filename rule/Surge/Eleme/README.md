@@ -1,46 +1,30 @@
-# 饿了么
+# Eleme
 
 ## 中文
 
-Eleme 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Eleme 规则集。
 
 ### 规则统计
 
-- 总数：`8`
-- `DOMAIN-SUFFIX`: 8
+- 总数: `13`
+- `DOMAIN-SUFFIX`: 13
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`Eleme`
-- 分类显示名：`饿了么`
-- 文件：`rule/Surge/Eleme/Eleme.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Eleme/Eleme.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Eleme/Eleme.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Eleme/Eleme.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Eleme/Eleme.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Eleme/Eleme.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/Eleme/Eleme.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Eleme/Eleme.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite eleme](https://github.com/v2fly/domain-list-community/blob/master/data/eleme)
+- blackmatrix7 Eleme: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Eleme/Eleme.list
 
-<details>
-<summary>English</summary>
+## English
 
 Eleme rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Eleme/Eleme.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/Eleme/Eleme.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Eleme/Eleme.list`
+- Omitted unsupported types: `无`

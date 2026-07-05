@@ -1,6 +1,6 @@
 # NAME: iQIYIIntl
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.147755+00:00
+# UPDATED: 2026-07-05T02:42:33.177247+00:00
 payload:
   - DOMAIN,cache.video.iqiyi.com
   - DOMAIN-SUFFIX,iq.com
@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,inter.iqiyi.com
   - DOMAIN-SUFFIX,intl-rcd.iqiyi.com
   - DOMAIN-SUFFIX,intl-subscription.iqiyi.com
+  - PROCESS-NAME,com.iqiyi.i18n
+  - PROCESS-NAME,com.iqiyi.i18n.tv
   - IP-CIDR,23.40.242.10/32
   - IP-CIDR,23.59.252.0/24
   - IP-CIDR,23.200.145.146/32

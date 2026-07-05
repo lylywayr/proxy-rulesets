@@ -1,55 +1,56 @@
 # NAME: Emby
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.767399+00:00
+# UPDATED: 2026-07-05T02:42:28.412830+00:00
 payload:
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN,emby.lcloud.wiki
   - DOMAIN,notnetflix.cos.cat
-  - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,ohhhh.org
+  - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,embymv.tk
+  - DOMAIN-SUFFIX,ohhhh.org
   - DOMAIN-SUFFIX,123456.al
-  - DOMAIN-SUFFIX,peachmv.me
   - DOMAIN-SUFFIX,285286.xyz
+  - DOMAIN-SUFFIX,peachmv.me
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN-SUFFIX,poloemby.xyz
-  - DOMAIN-SUFFIX,cristiamo.xyz
-  - DOMAIN-SUFFIX,jellyfin.asia
-  - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,embyserver.ga
+  - DOMAIN-SUFFIX,cristiamo.xyz
+  - DOMAIN-SUFFIX,pornemby.club
+  - DOMAIN-SUFFIX,jellyfin.asia
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,mickeycloud.com
   - DOMAIN-SUFFIX,pilipiliultra.com
   - DOMAIN-SUFFIX,emby.mcwy.me
-  - DOMAIN-SUFFIX,emby.cjpc.cc
   - DOMAIN-SUFFIX,emby.ytoo.li
+  - DOMAIN-SUFFIX,emby.cjpc.cc
   - DOMAIN-SUFFIX,emby.cjpc.tv
   - DOMAIN-SUFFIX,emby.cjpc.xyz
   - DOMAIN-SUFFIX,line.emby.men
-  - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,aws.jmsooo.com
   - DOMAIN-SUFFIX,cf1.jmsooo.com
-  - DOMAIN-SUFFIX,ntt1.jmsooo.com
+  - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,emby.immtel.com
+  - DOMAIN-SUFFIX,emby.paoche.ooo
+  - DOMAIN-SUFFIX,ntt1.jmsooo.com
   - DOMAIN-SUFFIX,emby.mdss.cloud
   - DOMAIN-SUFFIX,movie.xeton.dev
-  - DOMAIN-SUFFIX,emby.paoche.ooo
   - DOMAIN-SUFFIX,emby.maying.club
   - DOMAIN-SUFFIX,emby.nyancat.net
   - DOMAIN-SUFFIX,hinet.jmsooo.com
   - DOMAIN-SUFFIX,agahk1.jmsooo.com
+  - DOMAIN-SUFFIX,agajp1.jmsooo.com
   - DOMAIN-SUFFIX,servers.xeton.dev
   - DOMAIN-SUFFIX,agasg1.jmsooo.com
-  - DOMAIN-SUFFIX,agajp1.jmsooo.com
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
-  - DOMAIN-SUFFIX,emby.prprcloud.com
-  - DOMAIN-SUFFIX,emby.cristiamo.top
   - DOMAIN-SUFFIX,emby.nexitally.com
+  - DOMAIN-SUFFIX,emby.cristiamo.top
+  - DOMAIN-SUFFIX,emby.prprcloud.com
   - DOMAIN-SUFFIX,emby.flowercloud.yt
   - DOMAIN-SUFFIX,emby.ok.edu.hk
   - DOMAIN-SUFFIX,emby.neko.edu.rs
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
+  - PROCESS-NAME,com.mb.android

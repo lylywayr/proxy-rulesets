@@ -1,13 +1,40 @@
 # NAME: ifanr
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.100670+00:00
-# DOMAIN-SUFFIX: 7
-# TOTAL: 7
+# UPDATED: 2026-07-05T02:42:32.639556+00:00
+# DOMAIN-SUFFIX: 34
+# TOTAL: 34
 
+DOMAIN-SUFFIX,app.so
+DOMAIN-SUFFIX,jmp.gd
+DOMAIN-SUFFIX,fabu.io
+DOMAIN-SUFFIX,menhu.io
 DOMAIN-SUFFIX,ifanr.in
+DOMAIN-SUFFIX,bitbe.at
 DOMAIN-SUFFIX,ifanr.cn
+DOMAIN-SUFFIX,xiaoma.io
 DOMAIN-SUFFIX,ifanr.com
-DOMAIN-SUFFIX,ifanrx.com
+DOMAIN-SUFFIX,01hub.com
+DOMAIN-SUFFIX,weimen.hu
+DOMAIN-SUFFIX,tyqian.com
+DOMAIN-SUFFIX,xiaoapp.io
+DOMAIN-SUFFIX,wantwu.com
+DOMAIN-SUFFIX,wuzhii.com
 DOMAIN-SUFFIX,minapp.com
+DOMAIN-SUFFIX,minshop.com
 DOMAIN-SUFFIX,coolbuy.com
+DOMAIN-SUFFIX,triorder.com
+DOMAIN-SUFFIX,mindstore.io
+DOMAIN-SUFFIX,ifanrprod.cn
+DOMAIN-SUFFIX,haomaishe.com
+DOMAIN-SUFFIX,ifanrprod.net
+DOMAIN-SUFFIX,socialbase.cn
+DOMAIN-SUFFIX,ifanrprod.com
+DOMAIN-SUFFIX,dongchehui.net
+DOMAIN-SUFFIX,ifanrcloud.com
+DOMAIN-SUFFIX,appsolution.cc
+DOMAIN-SUFFIX,ifdesigninc.cn
+DOMAIN-SUFFIX,ifdesignstudio.cn
+DOMAIN-SUFFIX,zhixiaochengxu.com
 DOMAIN-SUFFIX,ifanrusercontent.com
+DOMAIN-SUFFIX,socialbaseusercontent.com
+DOMAIN-SUFFIX,socialbasecustomercontent.com

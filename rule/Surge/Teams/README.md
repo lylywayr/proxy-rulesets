@@ -2,48 +2,30 @@
 
 ## 中文
 
-Teams 相关办公协作、账户体系或效率服务规则。
-
-> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
-
-### 导航
-
-- 所属分组：[办公协作](../../../guide/groups/office.md)
-- 专题入口：
-- [办公协作专题](../../../guide/topics/office-collaboration.md)
+Teams 规则集。
 
 ### 规则统计
 
-- 总数：`4`
-- `DOMAIN`: 1
+- 总数: `4`
 - `DOMAIN-SUFFIX`: 3
+- `DOMAIN`: 1
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`Teams`
-- 分类显示名：`Teams`
-- 文件：`rule/Surge/Teams/Teams.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Teams/Teams.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Teams/Teams.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Teams/Teams.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Teams/Teams.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Teams/Teams.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/Teams/Teams.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Teams/Teams.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [blackmatrix7 Teams](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Teams/Teams.list)
+- blackmatrix7 Teams: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Teams/Teams.list
 
-<details>
-<summary>English</summary>
+## English
 
 Teams rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Teams/Teams.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/Teams/Teams.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Teams/Teams.list`
+- Omitted unsupported types: `无`

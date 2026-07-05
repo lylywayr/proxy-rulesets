@@ -1,46 +1,31 @@
-# 湖南卫视
+# HunanTV
 
 ## 中文
 
-HunanTV 相关流媒体、视频、音乐或内容分发规则。
-
-### 导航
-
-- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 专题入口：
-- 暂无
+HunanTV 规则集。
 
 ### 规则统计
 
-- 总数：`7`
+- 总数: `8`
 - `DOMAIN-SUFFIX`: 7
+- `USER-AGENT`: 1
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`HunanTV`
-- 分类显示名：`湖南卫视`
-- 文件：`rule/Loon/HunanTV/HunanTV.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HunanTV/HunanTV.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/HunanTV/HunanTV.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HunanTV/HunanTV.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/HunanTV/HunanTV.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HunanTV/HunanTV.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/HunanTV/HunanTV.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HunanTV/HunanTV.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite hunantv](https://github.com/v2fly/domain-list-community/blob/master/data/hunantv)
+- blackmatrix7 HunanTV: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HunanTV/HunanTV.list
 
-<details>
-<summary>English</summary>
+## English
 
 HunanTV rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HunanTV/HunanTV.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/HunanTV/HunanTV.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HunanTV/HunanTV.list`
+- Omitted unsupported types: `无`

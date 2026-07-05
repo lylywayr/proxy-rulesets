@@ -2,46 +2,30 @@
 
 ## 中文
 
-Patreon 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Patreon 规则集。
 
 ### 规则统计
 
-- 总数：`4`
-- `DOMAIN`: 1
+- 总数: `4`
 - `DOMAIN-SUFFIX`: 3
+- `DOMAIN`: 1
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`Patreon`
-- 分类显示名：`Patreon`
-- 文件：`rule/Egern/Patreon/Patreon.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Patreon/Patreon.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Patreon/Patreon.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Patreon/Patreon.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Patreon/Patreon.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Patreon/Patreon.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/Patreon/Patreon.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Patreon/Patreon.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite patreon](https://github.com/v2fly/domain-list-community/blob/master/data/patreon)
+- blackmatrix7 Patreon: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Patreon/Patreon.list
 
-<details>
-<summary>English</summary>
+## English
 
 Patreon rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Patreon/Patreon.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/Patreon/Patreon.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Patreon/Patreon.yaml`
+- Omitted unsupported types: `无`

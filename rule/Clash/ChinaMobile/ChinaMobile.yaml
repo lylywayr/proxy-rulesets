@@ -1,29 +1,40 @@
 # NAME: ChinaMobile
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:34:25.541655+00:00
+# UPDATED: 2026-07-05T02:25:29.519652+00:00
 payload:
   - DOMAIN-SUFFIX,migu.cn
   - DOMAIN-SUFFIX,139.com
   - DOMAIN-SUFFIX,10086.cn
   - DOMAIN-SUFFIX,andfx.cn
-  - DOMAIN-SUFFIX,cmpay.com
+  - DOMAIN-SUFFIX,lovev.cn
+  - DOMAIN-SUFFIX,cmdcl.cn
+  - DOMAIN-SUFFIX,migucc.cn
+  - DOMAIN-SUFFIX,zdsdp.com
+  - DOMAIN-SUFFIX,12530.com
   - DOMAIN-SUFFIX,andfx.net
-  - DOMAIN-SUFFIX,cmicvip.cn
-  - DOMAIN-SUFFIX,cmvideo.cn
-  - DOMAIN-SUFFIX,cmread.com
-  - DOMAIN-SUFFIX,cmcc-cs.cn
+  - DOMAIN-SUFFIX,lovev.com
+  - DOMAIN-SUFFIX,migufm.com
   - DOMAIN-SUFFIX,cmicrwx.cn
-  - DOMAIN-SUFFIX,migufun.com
+  - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,migutv.com
+  - DOMAIN-SUFFIX,migugk.com
+  - DOMAIN-SUFFIX,migucdn.cn
+  - DOMAIN-SUFFIX,fxltsbl.com
+  - DOMAIN-SUFFIX,cmdcxls.com
+  - DOMAIN-SUFFIX,cmccb2b.com
   - DOMAIN-SUFFIX,mmarket.com
-  - DOMAIN-SUFFIX,cmicapm.com
   - DOMAIN-SUFFIX,mmarket6.com
+  - DOMAIN-SUFFIX,cxzx10086.cn
   - DOMAIN-SUFFIX,fetionpic.com
+  - DOMAIN-SUFFIX,monternet.com
   - DOMAIN-SUFFIX,migucloud.com
   - DOMAIN-SUFFIX,miguvideo.com
-  - DOMAIN-SUFFIX,online-cmcc.cn
   - DOMAIN-SUFFIX,cmpassport.com
   - DOMAIN-SUFFIX,chinamobile.com
+  - DOMAIN-SUFFIX,warmchina121.com
+  - DOMAIN-SUFFIX,10086kuaixiu.com
   - DOMAIN-SUFFIX,fetion-portal.com
   - DOMAIN-SUFFIX,chinamobileltd.com
-  - DOMAIN-SUFFIX,cmft.com.cn
-  - DOMAIN-SUFFIX,cytxl.com.cn
+  - DOMAIN-SUFFIX,chinamobiledevice.com
+  - DOMAIN-SUFFIX,miguvideo.com.cn
+  - IP-CIDR,117.161.2.5/32

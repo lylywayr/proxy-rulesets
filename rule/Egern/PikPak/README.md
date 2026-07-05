@@ -2,45 +2,30 @@
 
 ## 中文
 
-PikPak 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+PikPak 规则集。
 
 ### 规则统计
 
-- 总数：`6`
+- 总数: `7`
 - `DOMAIN-SUFFIX`: 6
+- `DOMAIN-KEYWORD`: 1
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`PikPak`
-- 分类显示名：`PikPak`
-- 文件：`rule/Egern/PikPak/PikPak.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PikPak/PikPak.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/PikPak/PikPak.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/PikPak/PikPak.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/PikPak/PikPak.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PikPak/PikPak.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/PikPak/PikPak.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PikPak/PikPak.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite pikpak](https://github.com/v2fly/domain-list-community/blob/master/data/pikpak)
+- blackmatrix7 PikPak: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PikPak/PikPak.list
 
-<details>
-<summary>English</summary>
+## English
 
 PikPak rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PikPak/PikPak.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/PikPak/PikPak.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PikPak/PikPak.yaml`
+- Omitted unsupported types: `无`

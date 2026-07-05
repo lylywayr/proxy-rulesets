@@ -1,46 +1,30 @@
-# 联想
+# Lenovo
 
 ## 中文
 
-Lenovo 相关品牌设备、厂商服务或硬件生态规则。
-
-### 导航
-
-- 所属分组：[品牌与硬件](../../../guide/groups/brands.md)
-- 专题入口：
-- 暂无
+Lenovo 规则集。
 
 ### 规则统计
 
-- 总数：`57`
-- `DOMAIN-SUFFIX`: 57
+- 总数: `32`
+- `DOMAIN-SUFFIX`: 32
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`Lenovo`
-- 分类显示名：`联想`
-- 文件：`rule/Loon/Lenovo/Lenovo.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Lenovo/Lenovo.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Lenovo/Lenovo.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Lenovo/Lenovo.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Lenovo/Lenovo.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Lenovo/Lenovo.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/Lenovo/Lenovo.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Lenovo/Lenovo.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite lenovo](https://github.com/v2fly/domain-list-community/blob/master/data/lenovo)
+- blackmatrix7 Lenovo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lenovo/Lenovo.list
 
-<details>
-<summary>English</summary>
+## English
 
 Lenovo rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Lenovo/Lenovo.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/Lenovo/Lenovo.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Lenovo/Lenovo.list`
+- Omitted unsupported types: `无`

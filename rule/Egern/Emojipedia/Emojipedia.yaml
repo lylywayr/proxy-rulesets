@@ -1,9 +1,8 @@
 # NAME: Emojipedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.769400+00:00
+# UPDATED: 2026-07-05T02:42:28.455112+00:00
 no_resolve: true
 domain_suffix_set:
-  - "xn--yt8h.la"
   - "emojipedia.org"
   - "worldemojiday.com"
   - "worldemojiawards.com"

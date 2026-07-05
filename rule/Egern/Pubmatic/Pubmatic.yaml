@@ -1,7 +1,6 @@
 # NAME: Pubmatic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.905159+00:00
+# UPDATED: 2026-07-05T02:42:39.626087+00:00
 no_resolve: true
 domain_suffix_set:
-  - "pubmatic.com"
-  - "pubmatic.co.jp"
+  - "ads.pubmatic.com"

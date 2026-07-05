@@ -1,26 +1,8 @@
 # NAME: Dynu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.746319+00:00
+# UPDATED: 2026-07-05T02:42:28.082030+00:00
 no_resolve: true
 domain_suffix_set:
-  - "giize.com"
-  - "kozow.com"
-  - "ooguy.com"
-  - "camdvr.org"
-  - "gleeze.com"
-  - "mywire.org"
-  - "casacam.net"
-  - "ddnsguru.com"
+  - "dynu.net"
+  - "dynu.com"
   - "freeddns.org"
-  - "dynuddns.com"
-  - "4cloud.click"
-  - "1cooldns.com"
-  - "dynuddns.net"
-  - "ddnsfree.com"
-  - "ddnsgeek.com"
-  - "accesscam.org"
-  - "theworkpc.com"
-  - "mysynology.net"
-  - "loseyourip.com"
-  - "webredirect.org"
-  - "bumbleshrimp.com"

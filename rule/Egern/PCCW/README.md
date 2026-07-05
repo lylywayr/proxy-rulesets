@@ -1,48 +1,30 @@
-# 电讯盈科
+# PCCW
 
 ## 中文
 
-PCCW 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+PCCW 规则集。
 
 ### 规则统计
 
-- 总数：`28`
-- `DOMAIN`: 3
-- `DOMAIN-SUFFIX`: 24
-- `DOMAIN-REGEX`: 1
+- 总数: `25`
+- `DOMAIN-SUFFIX`: 25
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`PCCW`
-- 分类显示名：`电讯盈科`
-- 文件：`rule/Egern/PCCW/PCCW.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PCCW/PCCW.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/PCCW/PCCW.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/PCCW/PCCW.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/PCCW/PCCW.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PCCW/PCCW.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/PCCW/PCCW.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PCCW/PCCW.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite pccw](https://github.com/v2fly/domain-list-community/blob/master/data/pccw)
+- blackmatrix7 PCCW: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PCCW/PCCW.list
 
-<details>
-<summary>English</summary>
+## English
 
 PCCW rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PCCW/PCCW.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/PCCW/PCCW.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PCCW/PCCW.yaml`
+- Omitted unsupported types: `无`

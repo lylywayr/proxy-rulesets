@@ -1,10 +1,15 @@
 # NAME: Zhihu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.200767+00:00
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-07-05T02:42:47.572542+00:00
+# DOMAIN-SUFFIX: 2
+# IP-CIDR: 4
+# IP-CIDR6: 1
+# TOTAL: 7
 
-DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,laiyagushi.com
+IP-CIDR,103.41.167.226/32,no-resolve
+IP-CIDR,103.41.167.234/31,no-resolve
+IP-CIDR,103.41.167.236/32,no-resolve
+IP-CIDR,118.89.204.198/32,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve

@@ -2,45 +2,29 @@
 
 ## 中文
 
-Reddit 相关社交通信、社区讨论或消息同步规则。
-
-### 导航
-
-- 所属分组：[社交通信](../../../guide/groups/social.md)
-- 专题入口：
-- [社交通信专题](../../../guide/topics/social-communication.md)
+Reddit 规则集。
 
 ### 规则统计
 
-- 总数：`12`
-- `DOMAIN-SUFFIX`: 12
+- 总数: `8`
+- `DOMAIN-SUFFIX`: 8
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`Reddit`
-- 分类显示名：`Reddit`
-- 文件：`rule/Egern/Reddit/Reddit.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Reddit/Reddit.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Reddit/Reddit.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Reddit/Reddit.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Reddit/Reddit.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Reddit/Reddit.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/Reddit/Reddit.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Reddit/Reddit.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite reddit](https://github.com/v2fly/domain-list-community/blob/master/data/reddit)
+- blackmatrix7 Reddit: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reddit/Reddit.list
 
-<details>
-<summary>English</summary>
+## English
 
 Reddit rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Reddit/Reddit.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/Reddit/Reddit.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Reddit/Reddit.yaml`
+- Omitted unsupported types: `无`

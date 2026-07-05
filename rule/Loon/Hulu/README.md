@@ -2,46 +2,31 @@
 
 ## 中文
 
-Hulu 相关流媒体、视频、音乐或内容分发规则。
-
-### 导航
-
-- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 专题入口：
-- [流媒体专题](../../../guide/topics/streaming-media.md)
+Hulu 规则集。
 
 ### 规则统计
 
-- 总数：`48`
+- 总数: `59`
+- `DOMAIN-SUFFIX`: 57
 - `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 47
+- `PROCESS-NAME`: 1
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`Hulu`
-- 分类显示名：`Hulu`
-- 文件：`rule/Loon/Hulu/Hulu.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Hulu/Hulu.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Hulu/Hulu.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Hulu/Hulu.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Hulu/Hulu.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Hulu/Hulu.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/Hulu/Hulu.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Hulu/Hulu.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite hulu](https://github.com/v2fly/domain-list-community/blob/master/data/hulu)
+- blackmatrix7 Hulu: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hulu/Hulu.list
 
-<details>
-<summary>English</summary>
+## English
 
 Hulu rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Hulu/Hulu.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/Hulu/Hulu.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Hulu/Hulu.list`
+- Omitted unsupported types: `无`

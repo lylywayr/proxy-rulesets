@@ -1,8 +1,6 @@
 # NAME: AiQiCha
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.026503+00:00
+# UPDATED: 2026-07-05T02:08:38.891972+00:00
 no_resolve: true
 domain_suffix_set:
-  - "aiqicha.cn"
-  - "aiqicha.com"
   - "aiqicha.baidu.com"

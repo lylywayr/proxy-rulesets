@@ -1,13 +1,12 @@
 # NAME: Gucci
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.033331+00:00
-# DOMAIN-SUFFIX: 7
-# TOTAL: 7
+# UPDATED: 2026-07-05T02:42:30.971450+00:00
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
 
-DOMAIN-SUFFIX,gucci
 DOMAIN-SUFFIX,gucci.cn
 DOMAIN-SUFFIX,gucci.com
-DOMAIN-SUFFIX,regiongold.com
 DOMAIN-SUFFIX,guccimuseo.com
+DOMAIN-SUFFIX,regiongold.com
 DOMAIN-SUFFIX,guccitimeless.com
 DOMAIN-SUFFIX,chimeforchange.org

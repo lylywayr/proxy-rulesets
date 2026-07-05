@@ -1,12 +1,7 @@
 # NAME: TeraBox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.037289+00:00
+# UPDATED: 2026-07-05T02:42:43.208309+00:00
 no_resolve: true
 domain_suffix_set:
   - "terabox.com"
-  - "nephobox.com"
   - "teraboxcdn.com"
-  - "terabox1024.com"
-  - "1024terabox.com"
-  - "freeterabox.com"
-  - "bestclouddrive.com"

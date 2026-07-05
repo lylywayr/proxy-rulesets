@@ -1,6 +1,6 @@
 # NAME: NBC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.291921+00:00
+# UPDATED: 2026-07-05T02:42:36.926883+00:00
 payload:
   - DOMAIN,nbcstreaming.sc.omtrdc.net
   - DOMAIN-SUFFIX,nbc.co
@@ -8,18 +8,18 @@ payload:
   - DOMAIN-SUFFIX,cnbc.com
   - DOMAIN-SUFFIX,syfy.com
   - DOMAIN-SUFFIX,msnbc.com
+  - DOMAIN-SUFFIX,oxygen.com
   - DOMAIN-SUFFIX,nbcuni.com
   - DOMAIN-SUFFIX,cnbcfm.com
-  - DOMAIN-SUFFIX,oxygen.com
-  - DOMAIN-SUFFIX,nbcnews.com
   - DOMAIN-SUFFIX,bravotv.com
+  - DOMAIN-SUFFIX,nbcnews.com
   - DOMAIN-SUFFIX,eonline.com
   - DOMAIN-SUFFIX,peacocktv.com
-  - DOMAIN-SUFFIX,nbcsports.com
   - DOMAIN-SUFFIX,telemundo.com
+  - DOMAIN-SUFFIX,nbcsports.com
   - DOMAIN-SUFFIX,s-nbcnews.com
-  - DOMAIN-SUFFIX,usanetwork.com
   - DOMAIN-SUFFIX,eluniverso.com
+  - DOMAIN-SUFFIX,usanetwork.com
   - DOMAIN-SUFFIX,universalkids.com
   - DOMAIN-SUFFIX,nbcudigitaladops.com
   - DOMAIN-SUFFIX,nbcsports.h-cdn.com

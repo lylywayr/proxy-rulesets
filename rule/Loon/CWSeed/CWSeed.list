@@ -1,12 +1,15 @@
 # NAME: CWSeed
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:34:25.605659+00:00
+# UPDATED: 2026-07-05T02:25:31.079111+00:00
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 3
-# TOTAL: 5
+# PROCESS-NAME: 2
+# TOTAL: 7
 
 DOMAIN,cwtv-amd-akamai.akamaized.net
 DOMAIN,edge.cwtv-vod-ext.top.comcast.net
 DOMAIN-SUFFIX,cwtv.com
 DOMAIN-SUFFIX,cwseed.com
 DOMAIN-SUFFIX,thecwvideo.com
+PROCESS-NAME,com.cw.fullepisodes.android
+PROCESS-NAME,com.cw.seed.android

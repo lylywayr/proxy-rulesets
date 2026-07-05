@@ -2,46 +2,29 @@
 
 ## 中文
 
-eBay 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+eBay 规则集。
 
 ### 规则统计
 
-- 总数：`363`
-- `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 362
+- 总数: `44`
+- `DOMAIN-SUFFIX`: 44
 
 ### 使用说明
 
-- 当前客户端：`Clash`
-- 分类标识：`eBay`
-- 分类显示名：`eBay`
-- 文件：`rule/Clash/eBay/eBay.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/eBay/eBay.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/eBay/eBay.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/eBay/eBay.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/eBay/eBay.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/eBay/eBay.yaml>
+- 客户端: `Clash`
+- 文件: `rule/Clash/eBay/eBay.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/eBay/eBay.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite ebay](https://github.com/v2fly/domain-list-community/blob/master/data/ebay)
+- blackmatrix7 eBay: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/eBay/eBay.list
 
-<details>
-<summary>English</summary>
+## English
 
 eBay rule set.
 
-- Current client: `Clash`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/eBay/eBay.yaml>
-
-</details>
+- Client: `Clash`
+- File: `rule/Clash/eBay/eBay.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/eBay/eBay.yaml`
+- Omitted unsupported types: `无`

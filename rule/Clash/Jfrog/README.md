@@ -1,47 +1,30 @@
-# JFrog
+# Jfrog
 
 ## 中文
 
-Jfrog 相关开发者平台、代码托管、包管理或工具链规则。
-
-### 导航
-
-- 所属分组：[开发者平台](../../../guide/groups/developer.md)
-- 专题入口：
-- [开发者栈专题](../../../guide/topics/developer-stack.md)
+Jfrog 规则集。
 
 ### 规则统计
 
-- 总数：`4`
-- `DOMAIN`: 1
+- 总数: `3`
 - `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 当前客户端：`Clash`
-- 分类标识：`Jfrog`
-- 分类显示名：`JFrog`
-- 文件：`rule/Clash/Jfrog/Jfrog.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Jfrog/Jfrog.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Jfrog/Jfrog.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Jfrog/Jfrog.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Jfrog/Jfrog.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Jfrog/Jfrog.yaml>
+- 客户端: `Clash`
+- 文件: `rule/Clash/Jfrog/Jfrog.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Jfrog/Jfrog.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite jfrog](https://github.com/v2fly/domain-list-community/blob/master/data/jfrog)
+- blackmatrix7 Jfrog: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jfrog/Jfrog.list
 
-<details>
-<summary>English</summary>
+## English
 
 Jfrog rule set.
 
-- Current client: `Clash`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Jfrog/Jfrog.yaml>
-
-</details>
+- Client: `Clash`
+- File: `rule/Clash/Jfrog/Jfrog.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Jfrog/Jfrog.yaml`
+- Omitted unsupported types: `无`

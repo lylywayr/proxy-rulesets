@@ -1,47 +1,30 @@
-# 安卓
+# Android
 
 ## 中文
 
-Android 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Android 规则集。
 
 ### 规则统计
 
-- 总数：`4`
+- 总数: `1`
 - `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`Android`
-- 分类显示名：`安卓`
-- 文件：`rule/Loon/Android/Android.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Android/Android.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Android/Android.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Android/Android.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Android/Android.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Android/Android.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/Android/Android.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Android/Android.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite android](https://github.com/v2fly/domain-list-community/blob/master/data/android)
+- blackmatrix7 Android: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Android/Android.list
 
-<details>
-<summary>English</summary>
+## English
 
 Android rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Android/Android.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/Android/Android.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Android/Android.list`
+- Omitted unsupported types: `无`

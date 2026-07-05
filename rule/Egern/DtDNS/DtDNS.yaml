@@ -1,22 +1,22 @@
 # NAME: DtDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.735425+00:00
+# UPDATED: 2026-07-05T02:42:27.854371+00:00
 no_resolve: true
 domain_suffix_set:
-  - "b0ne.com"
   - "4irc.com"
+  - "b0ne.com"
+  - "dtdns.net"
   - "flnet.org"
   - "slyip.net"
   - "slyip.com"
   - "dtdns.com"
-  - "dtdns.net"
   - "etowns.org"
   - "effers.com"
-  - "etowns.net"
   - "suroot.com"
+  - "etowns.net"
   - "3d-game.com"
   - "scieron.com"
-  - "deaftone.com"
-  - "chatnook.com"
-  - "darktech.org"
   - "gotgeeks.com"
+  - "darktech.org"
+  - "chatnook.com"
+  - "deaftone.com"

@@ -1,9 +1,37 @@
 # NAME: LastFM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.198307+00:00
+# UPDATED: 2026-07-05T02:42:34.564805+00:00
 no_resolve: true
 domain_set:
-  - "lastfm.freetls.fastly.net"
-  - "ws.audioscrobbler.com"
+  - "last.us11.list-manage.com"
+  - "lastfm-img2.akamaized.net"
 domain_suffix_set:
   - "last.fm"
+  - "halkz.tk"
+  - "mwrel.tk"
+  - "itnnl.tk"
+  - "kn5ak.tk"
+  - "wznka.tk"
+  - "cqyos.tk"
+  - "bc9oa.tk"
+  - "kwcnn.tk"
+  - "rmohl.tk"
+  - "pqqx2.tk"
+  - "tnjqk.tk"
+  - "rfnva.tk"
+  - "jdw1v.tk"
+  - "bbfc1.tk"
+  - "bvuno.tk"
+  - "lastfm.de"
+  - "lastfm.eu"
+  - "lastfm.cn"
+  - "lastfm.ru"
+  - "lastfm.ph"
+  - "lastfm.es"
+  - "lastfm.pl"
+  - "ouchmonkey.com"
+  - "fuckyeahtfx.com"
+  - "oilofhaemony.com"
+  - "audioscrobbler.com"
+  - "lastfmpresents.com"
+  - "lastfm.freetls.fastly.net"

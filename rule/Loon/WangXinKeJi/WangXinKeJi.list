@@ -1,27 +1,27 @@
 # NAME: WangXinKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.111793+00:00
+# UPDATED: 2026-07-05T02:42:45.419558+00:00
 # DOMAIN-SUFFIX: 26
 # TOTAL: 26
 
-DOMAIN-SUFFIX,xylive.tv
-DOMAIN-SUFFIX,wzhibo.tv
-DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,uhabo.com
+DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,wzhibo.tv
+DOMAIN-SUFFIX,xylive.tv
 DOMAIN-SUFFIX,wzhibo.net
 DOMAIN-SUFFIX,wezhibo.tv
-DOMAIN-SUFFIX,wezhibo.net
-DOMAIN-SUFFIX,0101cdn.com
 DOMAIN-SUFFIX,xycloud.com
-DOMAIN-SUFFIX,xunleioa.com
+DOMAIN-SUFFIX,0101cdn.com
+DOMAIN-SUFFIX,wezhibo.net
 DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,onething.net
+DOMAIN-SUFFIX,xunleioa.com
 DOMAIN-SUFFIX,ionecloud.cn
 DOMAIN-SUFFIX,kuiniuca.com
+DOMAIN-SUFFIX,onethingc.com
+DOMAIN-SUFFIX,onethingn.com
 DOMAIN-SUFFIX,onethingd.com
 DOMAIN-SUFFIX,walk-live.com
-DOMAIN-SUFFIX,onethingn.com
-DOMAIN-SUFFIX,onethingc.com
 DOMAIN-SUFFIX,hiveshared.com
 DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,onethingcloud.cn

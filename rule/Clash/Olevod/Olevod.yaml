@@ -1,13 +1,9 @@
 # NAME: Olevod
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.322649+00:00
+# UPDATED: 2026-07-05T02:42:37.838324+00:00
 payload:
   - DOMAIN-SUFFIX,iole.tv
   - DOMAIN-SUFFIX,olehd.com
-  - DOMAIN-SUFFIX,olevod.io
-  - DOMAIN-SUFFIX,olevod.tv
-  - DOMAIN-SUFFIX,olevod.com
   - DOMAIN-SUFFIX,olelive.com
-  - DOMAIN-SUFFIX,olevodtv.com
   - DOMAIN-SUFFIX,haiwaikan.com
-  - DOMAIN-SUFFIX,olemovienews.com
+  - DOMAIN-KEYWORD,olevod

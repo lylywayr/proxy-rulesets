@@ -1,46 +1,31 @@
-# Google FCM
+# GoogleFCM
 
 ## 中文
 
-GoogleFCM 相关办公协作、账户体系或效率服务规则。
-
-### 导航
-
-- 所属分组：[办公协作](../../../guide/groups/office.md)
-- 专题入口：
-- [云网络专题](../../../guide/topics/cloud-network.md)
+GoogleFCM 规则集。
 
 ### 规则统计
 
-- 总数：`12`
-- `DOMAIN`: 12
+- 总数: `41`
+- `DOMAIN`: 15
+- `IP-CIDR`: 26
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`GoogleFCM`
-- 分类显示名：`Google FCM`
-- 文件：`rule/Loon/GoogleFCM/GoogleFCM.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GoogleFCM/GoogleFCM.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GoogleFCM/GoogleFCM.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GoogleFCM/GoogleFCM.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GoogleFCM/GoogleFCM.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GoogleFCM/GoogleFCM.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/GoogleFCM/GoogleFCM.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GoogleFCM/GoogleFCM.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite googlefcm](https://github.com/v2fly/domain-list-community/blob/master/data/googlefcm)
+- blackmatrix7 GoogleFCM: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleFCM/GoogleFCM.list
 
-<details>
-<summary>English</summary>
+## English
 
 GoogleFCM rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GoogleFCM/GoogleFCM.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/GoogleFCM/GoogleFCM.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GoogleFCM/GoogleFCM.list`
+- Omitted unsupported types: `无`

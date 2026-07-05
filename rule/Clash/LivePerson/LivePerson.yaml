@@ -1,6 +1,7 @@
 # NAME: LivePerson
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.217523+00:00
+# UPDATED: 2026-07-05T02:42:35.205922+00:00
 payload:
   - DOMAIN-SUFFIX,lpsnmedia.net
+  - DOMAIN-SUFFIX,liveperson.com
   - DOMAIN-SUFFIX,liveperson.net

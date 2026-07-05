@@ -2,46 +2,29 @@
 
 ## 中文
 
-GitLab 相关开发者平台、代码托管、包管理或工具链规则。
-
-### 导航
-
-- 所属分组：[开发者平台](../../../guide/groups/developer.md)
-- 专题入口：
-- [开发者栈专题](../../../guide/topics/developer-stack.md)
+GitLab 规则集。
 
 ### 规则统计
 
-- 总数：`5`
-- `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 4
+- 总数: `6`
+- `DOMAIN-SUFFIX`: 6
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`GitLab`
-- 分类显示名：`GitLab`
-- 文件：`rule/Egern/GitLab/GitLab.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitLab/GitLab.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GitLab/GitLab.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GitLab/GitLab.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GitLab/GitLab.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitLab/GitLab.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/GitLab/GitLab.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitLab/GitLab.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite gitlab](https://github.com/v2fly/domain-list-community/blob/master/data/gitlab)
+- blackmatrix7 GitLab: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitLab/GitLab.list
 
-<details>
-<summary>English</summary>
+## English
 
 GitLab rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitLab/GitLab.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/GitLab/GitLab.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitLab/GitLab.yaml`
+- Omitted unsupported types: `无`

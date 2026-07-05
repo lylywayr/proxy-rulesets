@@ -1,20 +1,25 @@
 # NAME: SFExpress
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.941677+00:00
+# UPDATED: 2026-07-05T02:42:40.576903+00:00
 no_resolve: true
 domain_suffix_set:
   - "sf.cn"
-  - "sffix.cn"
   - "sfcar.hk"
   - "sfgy.org"
-  - "feng1.com"
+  - "sffix.cn"
   - "sfbuy.com"
+  - "hbjia.net"
+  - "sfair.com"
+  - "sf-jf.com"
+  - "feng1.com"
+  - "sf-saas.cn"
   - "sf-saas.com"
-  - "ibobscs.com"
+  - "fslinker.com"
   - "rongechain.com"
   - "sf-express.com"
-  - "sf-cityrush.com"
   - "sf-airlines.com"
+  - "sf-cityrush.com"
   - "sf-financial.com"
-  - "sf-international.com"
+  - "sf-intra-city.com"
+  - "sf-saas.com.cn"
   - "sf-tech.com.cn"

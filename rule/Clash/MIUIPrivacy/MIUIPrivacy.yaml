@@ -1,6 +1,6 @@
 # NAME: MIUIPrivacy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.271529+00:00
+# UPDATED: 2026-07-05T02:42:36.395737+00:00
 payload:
   - DOMAIN,a0.app.xiaomi.com
   - DOMAIN,api.installer.xiaomi.com

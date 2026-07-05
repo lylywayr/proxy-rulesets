@@ -1,13 +1,8 @@
 # NAME: TeraBox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.037289+00:00
-# DOMAIN-SUFFIX: 7
-# TOTAL: 7
+# UPDATED: 2026-07-05T02:42:43.207082+00:00
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
 
 DOMAIN-SUFFIX,terabox.com
-DOMAIN-SUFFIX,nephobox.com
 DOMAIN-SUFFIX,teraboxcdn.com
-DOMAIN-SUFFIX,terabox1024.com
-DOMAIN-SUFFIX,1024terabox.com
-DOMAIN-SUFFIX,freeterabox.com
-DOMAIN-SUFFIX,bestclouddrive.com

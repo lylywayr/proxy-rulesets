@@ -1,16 +1,14 @@
 # NAME: Origin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.335649+00:00
-# DOMAIN: 4
-# DOMAIN-SUFFIX: 5
-# TOTAL: 9
+# UPDATED: 2026-07-05T02:42:38.286506+00:00
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 2
+# TOTAL: 7
 
 DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,origin-a.akamaihd.net
+DOMAIN,originasserts.akamaized.net
 DOMAIN,rtm.tnt-ea.com
-DOMAIN,ssl-lvlt.cdn.ea.com
-DOMAIN-SUFFIX,origin.tv
+DOMAIN-SUFFIX,ea.com
 DOMAIN-SUFFIX,origin.com
-DOMAIN-SUFFIX,eastore.com
-DOMAIN-SUFFIX,dawngate.com
-DOMAIN-SUFFIX,lordofultima.com

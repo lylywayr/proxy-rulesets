@@ -1,6 +1,5 @@
 # NAME: Threads
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.043288+00:00
+# UPDATED: 2026-07-05T02:42:43.362853+00:00
 payload:
-  - DOMAIN-SUFFIX,threads.com
   - DOMAIN-SUFFIX,threads.net

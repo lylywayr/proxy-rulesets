@@ -1,13 +1,13 @@
 # NAME: DianCeWangKe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:34:25.635667+00:00
+# UPDATED: 2026-07-05T02:25:31.789064+00:00
 no_resolve: true
 domain_suffix_set:
   - "pgyer.cc"
   - "pgyer.im"
   - "qcers.net"
   - "xcxwo.com"
-  - "pgyer.com"
-  - "testin.im"
   - "qcers.com"
+  - "testin.im"
+  - "pgyer.com"
   - "tracup.com"

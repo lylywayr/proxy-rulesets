@@ -1,10 +1,10 @@
 # NAME: Arphic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.290357+00:00
+# UPDATED: 2026-07-05T02:08:41.673126+00:00
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 
 DOMAIN-SUFFIX,arphic.com
 DOMAIN-SUFFIX,ifontcloud.com
-DOMAIN-SUFFIX,arphic.com.tw
 DOMAIN-SUFFIX,arphic.com.cn
+DOMAIN-SUFFIX,arphic.com.tw

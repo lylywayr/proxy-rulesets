@@ -1,10 +1,9 @@
 # NAME: AMD
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.088357+00:00
+# UPDATED: 2026-07-05T02:08:39.704121+00:00
 no_resolve: true
 domain_suffix_set:
   - "amd.com"
   - "radeon.com"
-  - "amdgaming.com"
   - "amdfanstore.com"
   - "amd.com.cn"

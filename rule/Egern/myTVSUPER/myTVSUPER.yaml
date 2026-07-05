@@ -1,7 +1,15 @@
 # NAME: myTVSUPER
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.285917+00:00
+# UPDATED: 2026-07-05T02:42:36.768662+00:00
 no_resolve: true
+domain_set:
+  - "mytvsuperlimited.hb.omtrdc.net"
+  - "mytvsuperlimited.sc.omtrdc.net"
 domain_suffix_set:
   - "tvb.com"
   - "mytvsuper.com"
+domain_keyword_set:
+  - "nowtv100"
+  - "rthklive"
+user_agent_set:
+  - "mytv*"

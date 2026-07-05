@@ -1,52 +1,18 @@
 # NAME: Binance
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.362360+00:00
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 43
-# TOTAL: 45
+# UPDATED: 2026-07-05T02:08:42.632918+00:00
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 
-DOMAIN,zftksc.cdn-settings.appsflyersdk.com
-DOMAIN,zftksc.launches.appsflyersdk.com
+DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,binance.us
-DOMAIN-SUFFIX,binance.co
-DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,bnappzh.co
 DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,saasexch.co
-DOMAIN-SUFFIX,binance.net
-DOMAIN-SUFFIX,bsappapi.cc
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,saasexch.io
-DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,saasexch.cc
-DOMAIN-SUFFIX,bnbchain.org
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,bscdnweb.com
-DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,saasexch.com
-DOMAIN-SUFFIX,binancezh.sh
-DOMAIN-SUFFIX,bsappapi.com
-DOMAIN-SUFFIX,binancezh.co
-DOMAIN-SUFFIX,binancezh.be
-DOMAIN-SUFFIX,binancezh.kim
-DOMAIN-SUFFIX,binancezh.ink
-DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,saasexch.info
 DOMAIN-SUFFIX,binance.cloud
-DOMAIN-SUFFIX,binancezh.biz
-DOMAIN-SUFFIX,binanceru.net
-DOMAIN-SUFFIX,nftstatic.com
-DOMAIN-SUFFIX,binancezh.net
-DOMAIN-SUFFIX,binancezh.pro
-DOMAIN-SUFFIX,binancezh.com
-DOMAIN-SUFFIX,bnappweb.black
-DOMAIN-SUFFIX,binancezh.mobi
-DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binancecnt.com
-DOMAIN-SUFFIX,binanceapi.com
-DOMAIN-SUFFIX,binancezh.live
-DOMAIN-SUFFIX,binance.vision
-DOMAIN-SUFFIX,binancezh.link
-DOMAIN-SUFFIX,binance.charity
-DOMAIN-SUFFIX,bmwweb.solutions
+DOMAIN-SUFFIX,binancefuture.com

@@ -1,14 +1,12 @@
 # NAME: Entrust
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.772399+00:00
+# UPDATED: 2026-07-05T02:42:28.535834+00:00
 no_resolve: true
 domain_suffix_set:
   - "atos.net"
   - "myatos.net"
-  - "entrust.cn"
-  - "entrust.com"
   - "entrust.net"
   - "trendmicro.com"
-  - "affirmtrust.com"
   - "certificat2.com"
+  - "affirmtrust.com"
   - "entrustdatacard.com"

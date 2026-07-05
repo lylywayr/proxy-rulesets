@@ -1,11 +1,12 @@
 # NAME: JOOX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.165363+00:00
+# UPDATED: 2026-07-05T02:42:33.641898+00:00
 # DOMAIN-SUFFIX: 3
 # DOMAIN-KEYWORD: 1
 # USER-AGENT: 2
+# PROCESS-NAME: 1
 # IP-CIDR: 2
-# TOTAL: 8
+# TOTAL: 9
 
 DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,sanook.com
@@ -13,5 +14,6 @@ DOMAIN-SUFFIX,i-joox.com
 DOMAIN-KEYWORD,jooxweb-api
 USER-AGENT,JOOX*
 USER-AGENT,WeMusic*
+PROCESS-NAME,com.tencent.ibg.joox
 IP-CIDR,119.28.182.0/23,no-resolve
 IP-CIDR,203.205.234.0/23,no-resolve

@@ -1,15 +1,15 @@
 # NAME: 12306
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:32.909418+00:00
+# UPDATED: 2026-07-05T02:08:36.723029+00:00
 payload:
   - DOMAIN-SUFFIX,cre.cn
-  - DOMAIN-SUFFIX,crct.com
   - DOMAIN-SUFFIX,95306.cn
+  - DOMAIN-SUFFIX,creip.cn
   - DOMAIN-SUFFIX,rails.cn
   - DOMAIN-SUFFIX,12306.cn
-  - DOMAIN-SUFFIX,creip.cn
-  - DOMAIN-SUFFIX,nntlj.com
+  - DOMAIN-SUFFIX,crct.com
   - DOMAIN-SUFFIX,95572.com
+  - DOMAIN-SUFFIX,nntlj.com
   - DOMAIN-SUFFIX,tdpress.com
   - DOMAIN-SUFFIX,china-ric.com
   - DOMAIN-SUFFIX,peoplerail.com

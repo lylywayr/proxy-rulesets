@@ -1,14 +1,16 @@
 # NAME: HanYi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.038665+00:00
+# UPDATED: 2026-07-05T02:42:31.109379+00:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 5
-# TOTAL: 7
+# DOMAIN-SUFFIX: 7
+# TOTAL: 9
 
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,ifont.cn
 DOMAIN-SUFFIX,hanyi.com
-DOMAIN-SUFFIX,hellofont.cn
+DOMAIN-SUFFIX,joytype.com
+DOMAIN-SUFFIX,fontstudio.cn
 DOMAIN-SUFFIX,hellowebfont.com
 DOMAIN-SUFFIX,hanyi.com.cn
 DOMAIN-SUFFIX,fontstar.com.cn

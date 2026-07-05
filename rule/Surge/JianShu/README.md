@@ -1,46 +1,30 @@
-# 简书
+# JianShu
 
 ## 中文
 
-JianShu 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+JianShu 规则集。
 
 ### 规则统计
 
-- 总数：`3`
-- `DOMAIN-SUFFIX`: 3
+- 总数: `5`
+- `DOMAIN-SUFFIX`: 5
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`JianShu`
-- 分类显示名：`简书`
-- 文件：`rule/Surge/JianShu/JianShu.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/JianShu/JianShu.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/JianShu/JianShu.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JianShu/JianShu.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/JianShu/JianShu.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/JianShu/JianShu.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/JianShu/JianShu.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/JianShu/JianShu.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite jianshu](https://github.com/v2fly/domain-list-community/blob/master/data/jianshu)
+- blackmatrix7 JianShu: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JianShu/JianShu.list
 
-<details>
-<summary>English</summary>
+## English
 
 JianShu rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/JianShu/JianShu.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/JianShu/JianShu.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/JianShu/JianShu.list`
+- Omitted unsupported types: `无`

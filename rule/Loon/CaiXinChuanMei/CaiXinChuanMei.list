@@ -1,6 +1,6 @@
 # NAME: CaiXinChuanMei
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.454904+00:00
+# UPDATED: 2026-07-05T02:08:43.435185+00:00
 # DOMAIN-SUFFIX: 24
 # TOTAL: 24
 
@@ -8,18 +8,18 @@ DOMAIN-SUFFIX,caing.cn
 DOMAIN-SUFFIX,caing.com
 DOMAIN-SUFFIX,icaing.cn
 DOMAIN-SUFFIX,lifetmt.cn
-DOMAIN-SUFFIX,caixin.com
 DOMAIN-SUFFIX,weinews.cn
+DOMAIN-SUFFIX,caixin.com
+DOMAIN-SUFFIX,lifetmt.org
 DOMAIN-SUFFIX,lifetmt.com
 DOMAIN-SUFFIX,lifetmt.net
-DOMAIN-SUFFIX,lifetmt.org
 DOMAIN-SUFFIX,whyenjoy.com
 DOMAIN-SUFFIX,wusuobuneng.cn
-DOMAIN-SUFFIX,caixinmedia.cn
 DOMAIN-SUFFIX,healthpoint.cn
-DOMAIN-SUFFIX,wusuobuneng.org
-DOMAIN-SUFFIX,caixinmedia.com
+DOMAIN-SUFFIX,caixinmedia.cn
 DOMAIN-SUFFIX,wusuobuneng.com
+DOMAIN-SUFFIX,caixinmedia.com
+DOMAIN-SUFFIX,wusuobuneng.org
 DOMAIN-SUFFIX,caixinonline.com
 DOMAIN-SUFFIX,jianhangcaifu.com
 DOMAIN-SUFFIX,lifetmt.com.cn

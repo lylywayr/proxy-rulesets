@@ -1,49 +1,31 @@
-# 系统更新
+# SystemOTA
 
 ## 中文
 
-SystemOTA 相关通用互联网服务规则。
-
-> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+SystemOTA 规则集。
 
 ### 规则统计
 
-- 总数：`78`
-- `DOMAIN`: 65
+- 总数: `78`
 - `DOMAIN-SUFFIX`: 13
+- `DOMAIN`: 65
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`SystemOTA`
-- 分类显示名：`系统更新`
-- 文件：`rule/Egern/SystemOTA/SystemOTA.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/SystemOTA/SystemOTA.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/SystemOTA/SystemOTA.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/SystemOTA/SystemOTA.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/SystemOTA/SystemOTA.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/SystemOTA/SystemOTA.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/SystemOTA/SystemOTA.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/SystemOTA/SystemOTA.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [blackmatrix7 SystemOTA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list)
+- blackmatrix7 SystemOTA: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list
 
-<details>
-<summary>English</summary>
+## English
 
 SystemOTA rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/SystemOTA/SystemOTA.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/SystemOTA/SystemOTA.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/SystemOTA/SystemOTA.yaml`
+- Omitted unsupported types: `无`

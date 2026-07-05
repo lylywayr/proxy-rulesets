@@ -2,45 +2,30 @@
 
 ## 中文
 
-Notion 相关办公协作、账户体系或效率服务规则。
-
-### 导航
-
-- 所属分组：[办公协作](../../../guide/groups/office.md)
-- 专题入口：
-- [办公协作专题](../../../guide/topics/office-collaboration.md)
+Notion 规则集。
 
 ### 规则统计
 
-- 总数：`7`
-- `DOMAIN-SUFFIX`: 7
+- 总数: `6`
+- `DOMAIN-SUFFIX`: 5
+- `DOMAIN`: 1
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`Notion`
-- 分类显示名：`Notion`
-- 文件：`rule/Surge/Notion/Notion.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Notion/Notion.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Notion/Notion.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Notion/Notion.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Notion/Notion.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Notion/Notion.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/Notion/Notion.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Notion/Notion.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite notion](https://github.com/v2fly/domain-list-community/blob/master/data/notion)
+- blackmatrix7 Notion: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Notion/Notion.list
 
-<details>
-<summary>English</summary>
+## English
 
 Notion rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Notion/Notion.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/Notion/Notion.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Notion/Notion.list`
+- Omitted unsupported types: `无`

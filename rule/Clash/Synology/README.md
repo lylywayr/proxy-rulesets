@@ -1,46 +1,32 @@
-# 群晖
+# Synology
 
 ## 中文
 
-Synology 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Synology 规则集。
 
 ### 规则统计
 
-- 总数：`20`
-- `DOMAIN-SUFFIX`: 20
+- 总数: `19`
+- `DOMAIN-SUFFIX`: 17
+- `DOMAIN`: 1
+- `DOMAIN-KEYWORD`: 1
 
 ### 使用说明
 
-- 当前客户端：`Clash`
-- 分类标识：`Synology`
-- 分类显示名：`群晖`
-- 文件：`rule/Clash/Synology/Synology.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Synology/Synology.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Synology/Synology.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Synology/Synology.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Synology/Synology.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Synology/Synology.yaml>
+- 客户端: `Clash`
+- 文件: `rule/Clash/Synology/Synology.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Synology/Synology.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite synology](https://github.com/v2fly/domain-list-community/blob/master/data/synology)
+- blackmatrix7 Synology: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Synology/Synology.list
 
-<details>
-<summary>English</summary>
+## English
 
 Synology rule set.
 
-- Current client: `Clash`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Synology/Synology.yaml>
-
-</details>
+- Client: `Clash`
+- File: `rule/Clash/Synology/Synology.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Synology/Synology.yaml`
+- Omitted unsupported types: `无`

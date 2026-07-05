@@ -1,31 +1,39 @@
 # NAME: Spotify
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.979706+00:00
+# UPDATED: 2026-07-05T02:42:41.700233+00:00
 no_resolve: true
 domain_set:
-  - "audio-ak-spotify-com.akamaized.net"
   - "audio4-ak-spotify-com.akamaized.net"
   - "cdn-spotify-experiments.conductrics.com"
   - "heads-ak-spotify-com.akamaized.net"
-  - "heads4-ak-spotify-com.akamaized.net"
   - "spotify.com.edgesuite.net"
   - "spotify.map.fastly.net"
   - "spotify.map.fastlylb.net"
 domain_suffix_set:
   - "scdn.co"
-  - "spoti.fi"
   - "pscdn.co"
+  - "spoti.fi"
   - "spotify.com"
-  - "spotify.link"
-  - "byspotify.com"
   - "tospotify.com"
+  - "byspotify.com"
+  - "spotifycdn.net"
+  - "spotilocal.com"
   - "spotify.design"
   - "spotifycdn.com"
-  - "spotifycdn.net"
   - "spotifyjobs.com"
   - "spotifycodes.com"
   - "spotifycharts.com"
-  - "lifeatspotify.com"
+  - "spotifynewsroom.jp"
   - "spotifyforbrands.com"
-  - "spotifyforvendors.com"
   - "spotify-everywhere.com"
+  - "spotify.app.link"
+  - "spotify-com.akamaized.net"
+  - "audio-ak-spotify-com.akamaized.net"
+  - "heads4-ak-spotify-com.akamaized.net"
+domain_keyword_set:
+  - "spotify"
+user_agent_set:
+  - "Spotify*"
+ip_cidr_set:
+  - "35.186.224.47/32"
+  - "104.154.127.126/32"

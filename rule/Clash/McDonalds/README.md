@@ -2,45 +2,29 @@
 
 ## 中文
 
-McDonalds 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+McDonalds 规则集。
 
 ### 规则统计
 
-- 总数：`43`
-- `DOMAIN-SUFFIX`: 43
+- 总数: `25`
+- `DOMAIN-SUFFIX`: 25
 
 ### 使用说明
 
-- 当前客户端：`Clash`
-- 分类标识：`McDonalds`
-- 分类显示名：`McDonalds`
-- 文件：`rule/Clash/McDonalds/McDonalds.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/McDonalds/McDonalds.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/McDonalds/McDonalds.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/McDonalds/McDonalds.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/McDonalds/McDonalds.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/McDonalds/McDonalds.yaml>
+- 客户端: `Clash`
+- 文件: `rule/Clash/McDonalds/McDonalds.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/McDonalds/McDonalds.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite mcdonalds](https://github.com/v2fly/domain-list-community/blob/master/data/mcdonalds)
+- blackmatrix7 McDonalds: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/McDonalds/McDonalds.list
 
-<details>
-<summary>English</summary>
+## English
 
 McDonalds rule set.
 
-- Current client: `Clash`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/McDonalds/McDonalds.yaml>
-
-</details>
+- Client: `Clash`
+- File: `rule/Clash/McDonalds/McDonalds.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/McDonalds/McDonalds.yaml`
+- Omitted unsupported types: `无`

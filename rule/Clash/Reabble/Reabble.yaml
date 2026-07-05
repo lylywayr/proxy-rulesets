@@ -1,6 +1,6 @@
 # NAME: Reabble
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.922174+00:00
+# UPDATED: 2026-07-05T02:42:40.133712+00:00
 payload:
   - DOMAIN-SUFFIX,reabble.cn
   - DOMAIN-SUFFIX,reabble.com

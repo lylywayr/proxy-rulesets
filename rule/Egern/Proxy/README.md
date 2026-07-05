@@ -1,49 +1,33 @@
-# 代理
+# Proxy
 
 ## 中文
 
-通用代理分流规则，适合兜底代理与国际访问场景。
-
-### 导航
-
-- 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
-- 专题入口：
-- [隐私分流专题](../../../guide/topics/privacy-routing.md)
+常见代理分流集合。
 
 ### 规则统计
 
-- 总数：`23986`
-- `DOMAIN`: 160
-- `DOMAIN-SUFFIX`: 23668
-- `DOMAIN-REGEX`: 158
+- 总数: `131`
+- `DOMAIN-KEYWORD`: 26
+- `USER-AGENT`: 8
+- `IP-CIDR`: 93
+- `IP-CIDR6`: 4
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`Proxy`
-- 分类显示名：`代理`
-- 文件：`rule/Egern/Proxy/Proxy.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Proxy/Proxy.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Proxy/Proxy.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Proxy/Proxy.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/Proxy/Proxy.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite geolocation-!cn](https://github.com/v2fly/domain-list-community/blob/master/data/geolocation-!cn)
-- [v2fly geosite category-proxy-tunnels](https://github.com/v2fly/domain-list-community/blob/master/data/category-proxy-tunnels)
+- blackmatrix7 Proxy: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list
 
-<details>
-<summary>English</summary>
+## English
 
 Common proxy-routing rules.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/Proxy/Proxy.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml`
+- Omitted unsupported types: `无`

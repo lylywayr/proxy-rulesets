@@ -2,45 +2,29 @@
 
 ## 中文
 
-4399 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+4399 规则集。
 
 ### 规则统计
 
-- 总数：`63`
-- `DOMAIN-SUFFIX`: 63
+- 总数: `13`
+- `DOMAIN-SUFFIX`: 13
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`4399`
-- 分类显示名：`4399`
-- 文件：`rule/Loon/4399/4399.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4399/4399.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/4399/4399.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4399/4399.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/4399/4399.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/4399/4399.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/4399/4399.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4399/4399.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite 4399](https://github.com/v2fly/domain-list-community/blob/master/data/4399)
+- blackmatrix7 4399: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4399/4399.list
 
-<details>
-<summary>English</summary>
+## English
 
 4399 rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4399/4399.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/4399/4399.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4399/4399.list`
+- Omitted unsupported types: `无`

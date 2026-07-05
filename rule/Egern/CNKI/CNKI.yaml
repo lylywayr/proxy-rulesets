@@ -1,8 +1,22 @@
 # NAME: CNKI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:34:25.584643+00:00
+# UPDATED: 2026-07-05T02:25:30.640097+00:00
 no_resolve: true
 domain_suffix_set:
   - "cnki.net"
+  - "chndoi.cn"
+  - "chndoi.net"
+  - "chndoi.com"
   - "chndoi.org"
-  - "cnki.com.cn"
+  - "cnkidoi.cn"
+  - "cnkidoi.com"
+  - "bjsbnet.com"
+  - "cnkidoi.net"
+  - "cnkidoi.org"
+  - "wuxizazhi.cn"
+  - "wuxizazhi.net"
+  - "wuxizazhi.com"
+  - "bbf.org.cn"
+  - "chndoi.com.cn"
+  - "wuxizazhi.com.cn"
+  - "wuxizazhi.net.cn"

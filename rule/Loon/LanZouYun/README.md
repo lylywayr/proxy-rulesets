@@ -1,48 +1,30 @@
-# 蓝奏云
+# LanZouYun
 
 ## 中文
 
-LanZouYun 相关通用互联网服务规则。
-
-> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+LanZouYun 规则集。
 
 ### 规则统计
 
-- 总数：`36`
+- 总数: `36`
 - `DOMAIN-SUFFIX`: 36
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`LanZouYun`
-- 分类显示名：`蓝奏云`
-- 文件：`rule/Loon/LanZouYun/LanZouYun.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LanZouYun/LanZouYun.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/LanZouYun/LanZouYun.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LanZouYun/LanZouYun.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/LanZouYun/LanZouYun.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LanZouYun/LanZouYun.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/LanZouYun/LanZouYun.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LanZouYun/LanZouYun.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [blackmatrix7 LanZouYun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LanZouYun/LanZouYun.list)
+- blackmatrix7 LanZouYun: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LanZouYun/LanZouYun.list
 
-<details>
-<summary>English</summary>
+## English
 
 LanZouYun rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LanZouYun/LanZouYun.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/LanZouYun/LanZouYun.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LanZouYun/LanZouYun.list`
+- Omitted unsupported types: `无`

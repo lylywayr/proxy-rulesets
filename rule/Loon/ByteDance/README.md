@@ -1,47 +1,33 @@
-# 字节跳动
+# ByteDance
 
 ## 中文
 
-ByteDance 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+ByteDance 规则集。
 
 ### 规则统计
 
-- 总数：`744`
-- `DOMAIN`: 6
-- `DOMAIN-SUFFIX`: 738
+- 总数: `372`
+- `DOMAIN-SUFFIX`: 369
+- `USER-AGENT`: 1
+- `PROCESS-NAME`: 1
+- `IP-CIDR`: 1
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`ByteDance`
-- 分类显示名：`字节跳动`
-- 文件：`rule/Loon/ByteDance/ByteDance.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ByteDance/ByteDance.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ByteDance/ByteDance.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ByteDance/ByteDance.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/ByteDance/ByteDance.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite bytedance](https://github.com/v2fly/domain-list-community/blob/master/data/bytedance)
+- blackmatrix7 ByteDance: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list
 
-<details>
-<summary>English</summary>
+## English
 
 ByteDance rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/ByteDance/ByteDance.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list`
+- Omitted unsupported types: `无`

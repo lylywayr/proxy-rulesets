@@ -1,13 +1,13 @@
 # NAME: OuPeng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.337649+00:00
+# UPDATED: 2026-07-05T02:42:38.320663+00:00
 no_resolve: true
 domain_suffix_set:
   - "adbxb.cn"
   - "adbxb.com"
   - "opfed.com"
-  - "oupeng.com"
   - "opthink.cn"
+  - "oupeng.com"
   - "oupeng9.com"
   - "oupengcloud.cn"
   - "oupengcloud.net"

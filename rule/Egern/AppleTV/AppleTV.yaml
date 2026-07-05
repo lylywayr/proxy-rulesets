@@ -1,9 +1,8 @@
 # NAME: AppleTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.286357+00:00
+# UPDATED: 2026-07-05T02:08:41.555331+00:00
 no_resolve: true
 domain_set:
-  - "apple-tv-plus-press.apple.com"
   - "hls-amt.itunes.apple.com"
   - "hls.itunes.apple.com"
   - "np-edge.itunes.apple.com"
@@ -12,3 +11,6 @@ domain_set:
   - "uts-api.itunes.apple.com"
 domain_suffix_set:
   - "tv.apple.com"
+user_agent_set:
+  - "AppleTV*"
+  - "com.apple.tv*"

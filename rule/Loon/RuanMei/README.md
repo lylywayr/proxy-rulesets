@@ -1,46 +1,30 @@
-# 软媒
+# RuanMei
 
 ## 中文
 
-RuanMei 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+RuanMei 规则集。
 
 ### 规则统计
 
-- 总数：`9`
-- `DOMAIN-SUFFIX`: 9
+- 总数: `22`
+- `DOMAIN-SUFFIX`: 22
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`RuanMei`
-- 分类显示名：`软媒`
-- 文件：`rule/Loon/RuanMei/RuanMei.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/RuanMei/RuanMei.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/RuanMei/RuanMei.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/RuanMei/RuanMei.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/RuanMei/RuanMei.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/RuanMei/RuanMei.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/RuanMei/RuanMei.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/RuanMei/RuanMei.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite ruanmei](https://github.com/v2fly/domain-list-community/blob/master/data/ruanmei)
+- blackmatrix7 RuanMei: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/RuanMei/RuanMei.list
 
-<details>
-<summary>English</summary>
+## English
 
 RuanMei rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/RuanMei/RuanMei.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/RuanMei/RuanMei.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/RuanMei/RuanMei.list`
+- Omitted unsupported types: `无`

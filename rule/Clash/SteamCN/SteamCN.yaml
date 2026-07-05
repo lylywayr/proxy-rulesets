@@ -1,6 +1,6 @@
 # NAME: SteamCN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.986707+00:00
+# UPDATED: 2026-07-05T02:42:41.860108+00:00
 payload:
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com

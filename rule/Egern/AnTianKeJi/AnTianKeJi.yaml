@@ -1,16 +1,16 @@
 # NAME: AnTianKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.106357+00:00
+# UPDATED: 2026-07-05T02:08:40.144571+00:00
 no_resolve: true
 domain_suffix_set:
   - "antiy.cn"
-  - "avlyun.cn"
   - "antiy.com"
-  - "avlyun.org"
+  - "avlyun.cn"
   - "avlsec.com"
+  - "avlyun.org"
   - "avlyun.com"
   - "avlyun.net"
-  - "antiycloud.com"
   - "avlinsight.com"
+  - "antiycloud.com"
   - "antiy.net.cn"
   - "cloud-backup.com.cn"

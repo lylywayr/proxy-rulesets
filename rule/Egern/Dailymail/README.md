@@ -2,45 +2,29 @@
 
 ## 中文
 
-Dailymail 相关 AI 服务、模型平台与调用链路规则。
-
-### 导航
-
-- 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 专题入口：
-- 暂无
+Dailymail 规则集。
 
 ### 规则统计
 
-- 总数：`17`
+- 总数: `17`
 - `DOMAIN-SUFFIX`: 17
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`Dailymail`
-- 分类显示名：`Dailymail`
-- 文件：`rule/Egern/Dailymail/Dailymail.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Dailymail/Dailymail.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Dailymail/Dailymail.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Dailymail/Dailymail.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Dailymail/Dailymail.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Dailymail/Dailymail.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/Dailymail/Dailymail.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Dailymail/Dailymail.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite dailymail](https://github.com/v2fly/domain-list-community/blob/master/data/dailymail)
+- blackmatrix7 Dailymail: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dailymail/Dailymail.list
 
-<details>
-<summary>English</summary>
+## English
 
 Dailymail rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Dailymail/Dailymail.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/Dailymail/Dailymail.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Dailymail/Dailymail.yaml`
+- Omitted unsupported types: `无`

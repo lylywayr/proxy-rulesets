@@ -1,19 +1,13 @@
 # NAME: Speedtest
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.977584+00:00
+# UPDATED: 2026-07-05T02:42:41.656865+00:00
 no_resolve: true
-domain_set:
-  - "www.speedtest.net.cdn.cloudflare.net"
 domain_suffix_set:
-  - "ookla.com"
-  - "cdnst.net"
-  - "ekahau.com"
-  - "webtest.net"
-  - "cellmaps.com"
-  - "ekahau.cloud"
-  - "pingtest.net"
-  - "speedtest.co"
-  - "speedtest.net"
+  - "fast.com"
   - "ooklaserver.net"
-  - "speedtestcustom.com"
-  - "ookla-speedtest-central.hgconair.hgc.com.hk"
+  - "speed.dler.io"
+  - "speed.cloudflare.com"
+domain_keyword_set:
+  - "speedtest"
+user_agent_set:
+  - "SpeedTest*"

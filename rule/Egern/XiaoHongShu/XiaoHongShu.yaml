@@ -1,16 +1,9 @@
 # NAME: XiaoHongShu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.162767+00:00
+# UPDATED: 2026-07-05T02:42:46.367206+00:00
 no_resolve: true
 domain_suffix_set:
-  - "xhscdn.com"
   - "xhscdn.net"
-  - "rednote.com"
-  - "xhsrcdn.com"
-  - "xhslink.com"
-  - "redelight.cn"
-  - "rednotecdn.com"
-  - "askdiandian.com"
+  - "xhscdn.com"
   - "xiaohongshu.com"
-  - "diandianlife.top"
-  - "rednote.com.my"
+  - "fengkongcloud.com"

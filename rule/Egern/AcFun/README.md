@@ -2,45 +2,30 @@
 
 ## 中文
 
-AcFun 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+AcFun 规则集。
 
 ### 规则统计
 
-- 总数：`7`
-- `DOMAIN-SUFFIX`: 7
+- 总数: `5`
+- `DOMAIN-SUFFIX`: 4
+- `USER-AGENT`: 1
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`AcFun`
-- 分类显示名：`AcFun`
-- 文件：`rule/Egern/AcFun/AcFun.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AcFun/AcFun.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AcFun/AcFun.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AcFun/AcFun.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AcFun/AcFun.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AcFun/AcFun.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/AcFun/AcFun.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AcFun/AcFun.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite acfun](https://github.com/v2fly/domain-list-community/blob/master/data/acfun)
+- blackmatrix7 AcFun: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AcFun/AcFun.list
 
-<details>
-<summary>English</summary>
+## English
 
 AcFun rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AcFun/AcFun.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/AcFun/AcFun.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AcFun/AcFun.yaml`
+- Omitted unsupported types: `无`

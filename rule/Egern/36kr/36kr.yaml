@@ -1,9 +1,9 @@
 # NAME: 36kr
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:32.928419+00:00
+# UPDATED: 2026-07-05T02:08:37.021802+00:00
 no_resolve: true
 domain_suffix_set:
   - "36kr.com"
-  - "36krcnd.com"
   - "36krcdn.com"
+  - "36krcnd.com"
   - "36dianping.com"

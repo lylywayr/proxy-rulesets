@@ -2,19 +2,11 @@
 
 ## 中文
 
-Global 相关通用互联网服务规则。
-
-> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Global 规则集。
 
 ### 规则统计
 
-- 总数：`198`
+- 总数: `199`
 - `DOMAIN-KEYWORD`: 36
 - `USER-AGENT`: 46
 - `PROCESS-NAME`: 1
@@ -23,30 +15,20 @@ Global 相关通用互联网服务规则。
 
 ### 使用说明
 
-- 当前客户端：`Clash`
-- 分类标识：`Global`
-- 分类显示名：`Global`
-- 文件：`rule/Clash/Global/Global.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Global/Global.yaml>
-- 已省略的不兼容类型：`PROCESS-NAME`=1
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Global/Global.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Global/Global.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Global/Global.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Global/Global.yaml>
+- 客户端: `Clash`
+- 文件: `rule/Clash/Global/Global.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Global/Global.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [blackmatrix7 Global](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list)
+- blackmatrix7 Global: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list
 
-<details>
-<summary>English</summary>
+## English
 
 Global rule set.
 
-- Current client: `Clash`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Global/Global.yaml>
-
-</details>
+- Client: `Clash`
+- File: `rule/Clash/Global/Global.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Global/Global.yaml`
+- Omitted unsupported types: `无`

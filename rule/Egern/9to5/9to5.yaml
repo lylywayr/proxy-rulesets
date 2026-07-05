@@ -1,11 +1,11 @@
 # NAME: 9to5
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:32.954416+00:00
+# UPDATED: 2026-07-05T02:08:37.623426+00:00
 no_resolve: true
 domain_suffix_set:
   - "electrek.co"
-  - "9to5mac.com"
   - "dronedj.com"
+  - "9to5mac.com"
   - "9to5toys.com"
   - "9to5google.com"
   - "9to5terminal.com"

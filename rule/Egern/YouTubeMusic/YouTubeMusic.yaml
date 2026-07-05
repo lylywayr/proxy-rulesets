@@ -1,6 +1,6 @@
 # NAME: YouTubeMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.185767+00:00
+# UPDATED: 2026-07-05T02:42:47.103053+00:00
 no_resolve: true
 domain_set:
   - "music.youtube.com"

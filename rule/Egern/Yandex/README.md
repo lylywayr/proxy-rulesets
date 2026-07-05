@@ -2,45 +2,31 @@
 
 ## 中文
 
-Yandex 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Yandex 规则集。
 
 ### 规则统计
 
-- 总数：`87`
-- `DOMAIN-SUFFIX`: 87
+- 总数: `52`
+- `DOMAIN-SUFFIX`: 34
+- `IP-CIDR`: 16
+- `IP-CIDR6`: 2
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`Yandex`
-- 分类显示名：`Yandex`
-- 文件：`rule/Egern/Yandex/Yandex.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Yandex/Yandex.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Yandex/Yandex.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Yandex/Yandex.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Yandex/Yandex.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Yandex/Yandex.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/Yandex/Yandex.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Yandex/Yandex.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite yandex](https://github.com/v2fly/domain-list-community/blob/master/data/yandex)
+- blackmatrix7 Yandex: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Yandex/Yandex.list
 
-<details>
-<summary>English</summary>
+## English
 
 Yandex rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Yandex/Yandex.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/Yandex/Yandex.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Yandex/Yandex.yaml`
+- Omitted unsupported types: `无`

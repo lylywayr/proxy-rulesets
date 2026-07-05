@@ -1,19 +1,19 @@
 # NAME: CKJR
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:34:25.565654+00:00
+# UPDATED: 2026-07-05T02:25:30.185042+00:00
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 
 DOMAIN-SUFFIX,myckjr.cn
-DOMAIN-SUFFIX,ckjryy.com
-DOMAIN-SUFFIX,tkckjr.com
-DOMAIN-SUFFIX,qxckjr.com
-DOMAIN-SUFFIX,ckjr001.cn
 DOMAIN-SUFFIX,51ckjr.com
+DOMAIN-SUFFIX,ckjryy.com
+DOMAIN-SUFFIX,ckjr001.cn
 DOMAIN-SUFFIX,myckjr.com
+DOMAIN-SUFFIX,tkckjr.com
 DOMAIN-SUFFIX,tjckjr.com
+DOMAIN-SUFFIX,qxckjr.com
 DOMAIN-SUFFIX,meituo.shop
-DOMAIN-SUFFIX,ckjr001.com
 DOMAIN-SUFFIX,sxyckjr.com
+DOMAIN-SUFFIX,ckjr001.com
 DOMAIN-SUFFIX,tengkaxx.com
 DOMAIN-SUFFIX,tengkackjr.com

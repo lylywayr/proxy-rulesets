@@ -1,13 +1,12 @@
 # NAME: BBC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.321359+00:00
+# UPDATED: 2026-07-05T02:08:42.278346+00:00
 no_resolve: true
 domain_set:
-  - "aod-pod-uk-live.akamaized.net"
+  - "aod-dash-uk-live.akamaized.net"
+  - "aod-hls-uk-live.akamaized.net"
   - "as-dash-uk-live.akamaized.net"
   - "as-hls-uk-live.akamaized.net"
-  - "ve-dash-uk-live.akamaized.net"
-  - "ve-uhd-push-uk-live.akamaized.net"
   - "vod-dash-uk-live.akamaized.net"
   - "vod-dash-ww-live.akamaized.net"
   - "vod-hls-uk-live.akamaized.net"
@@ -15,20 +14,24 @@ domain_set:
   - "vod-thumb-uk-live.akamaized.net"
   - "vod-thumb-ww-live.akamaized.net"
   - "vs-cmaf-push-uk-live.akamaized.net"
-  - "vs-cmaf-pushb-ww-live.akamaized.net"
-  - "vs-hls-push-uk-live.akamaized.net"
-  - "vs-hls-pushb-uk-live.akamaized.net"
 domain_suffix_set:
   - "bbc"
   - "bbc.in"
+  - "bbc.co"
   - "bbc.com"
+  - "bbci.co"
   - "bbcpersian.com"
+  - "bbcchinese.com"
   - "bbcverticals.com"
-  - "bbc-reporting-api.app"
   - "bbc.co.uk"
-  - "bbci.co.uk"
   - "bbc.net.uk"
+  - "bbci.co.uk"
   - "bidi.net.uk"
   - "bbcmedia.co.uk"
-  - "bbc.mp-pxcdn.com"
   - "bbcfmt.s.llnwi.net"
+  - "bbcfmt.hs.llnwd.net"
+domain_keyword_set:
+  - "bbcfmt"
+  - "uk-live"
+user_agent_set:
+  - "BBCiPlayer*"

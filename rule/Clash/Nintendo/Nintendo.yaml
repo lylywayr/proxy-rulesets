@@ -1,128 +1,130 @@
 # NAME: Nintendo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.308430+00:00
+# UPDATED: 2026-07-05T02:42:37.434810+00:00
 payload:
   - DOMAIN-SUFFIX,dkr.com
   - DOMAIN-SUFFIX,wii-u.com
   - DOMAIN-SUFFIX,wiivc.net
-  - DOMAIN-SUFFIX,dialga.com
-  - DOMAIN-SUFFIX,wiifit.com
   - DOMAIN-SUFFIX,kyurem.com
+  - DOMAIN-SUFFIX,wiifit.com
   - DOMAIN-SUFFIX,amiibo.com
-  - DOMAIN-SUFFIX,nintendo.pt
-  - DOMAIN-SUFFIX,nintendo.it
-  - DOMAIN-SUFFIX,nintendo.de
-  - DOMAIN-SUFFIX,nintendo.dk
-  - DOMAIN-SUFFIX,nintendo.at
-  - DOMAIN-SUFFIX,nintendo.fr
-  - DOMAIN-SUFFIX,nintendo.ch
-  - DOMAIN-SUFFIX,nintendo.nl
-  - DOMAIN-SUFFIX,starfox.com
-  - DOMAIN-SUFFIX,nintendo.no
-  - DOMAIN-SUFFIX,nintendo.ru
+  - DOMAIN-SUFFIX,dialga.com
   - DOMAIN-SUFFIX,nintendo.se
-  - DOMAIN-SUFFIX,wiifitu.com
   - DOMAIN-SUFFIX,nintendo.es
+  - DOMAIN-SUFFIX,wiifitu.com
+  - DOMAIN-SUFFIX,nintendo.no
+  - DOMAIN-SUFFIX,nintendo.fr
+  - DOMAIN-SUFFIX,starfox.com
+  - DOMAIN-SUFFIX,nintendo.at
+  - DOMAIN-SUFFIX,nintendo.nl
   - DOMAIN-SUFFIX,nintendo.be
+  - DOMAIN-SUFFIX,nintendo.it
+  - DOMAIN-SUFFIX,nintendo.ch
+  - DOMAIN-SUFFIX,nintendo.dk
   - DOMAIN-SUFFIX,nintendo.eu
   - DOMAIN-SUFFIX,nintendo.fi
+  - DOMAIN-SUFFIX,nintendo.jp
+  - DOMAIN-SUFFIX,nintendo.de
+  - DOMAIN-SUFFIX,nintendo.pt
   - DOMAIN-SUFFIX,miitomo.com
   - DOMAIN-SUFFIX,pokemon.com
   - DOMAIN-SUFFIX,nintendo.tw
-  - DOMAIN-SUFFIX,miiverse.com
-  - DOMAIN-SUFFIX,giratina.com
-  - DOMAIN-SUFFIX,nintendo.net
+  - DOMAIN-SUFFIX,nintendo.ru
   - DOMAIN-SUFFIX,mariokart.cn
-  - DOMAIN-SUFFIX,nentindo.net
+  - DOMAIN-SUFFIX,nintendo.net
+  - DOMAIN-SUFFIX,giratina.com
+  - DOMAIN-SUFFIX,miiverse.com
   - DOMAIN-SUFFIX,nintendo.com
-  - DOMAIN-SUFFIX,pokedex3d.com
+  - DOMAIN-SUFFIX,wiipartyu.com
   - DOMAIN-SUFFIX,pokemonbw.com
   - DOMAIN-SUFFIX,wiisports.com
   - DOMAIN-SUFFIX,xenoblade.com
-  - DOMAIN-SUFFIX,wiipartyu.com
-  - DOMAIN-SUFFIX,mariokart8.com
-  - DOMAIN-SUFFIX,mariokart7.com
-  - DOMAIN-SUFFIX,excitebots.com
+  - DOMAIN-SUFFIX,pokedex3d.com
   - DOMAIN-SUFFIX,supermario.com
   - DOMAIN-SUFFIX,pokemonvgc.com
-  - DOMAIN-SUFFIX,nintendodsi.com
-  - DOMAIN-SUFFIX,pokemonhome.com
-  - DOMAIN-SUFFIX,nintendowii.com
-  - DOMAIN-SUFFIX,pokemon-sun.com
-  - DOMAIN-SUFFIX,pokemonwifi.net
-  - DOMAIN-SUFFIX,nintendo3ds.com
-  - DOMAIN-SUFFIX,nintendonyc.com
+  - DOMAIN-SUFFIX,mariokart7.com
+  - DOMAIN-SUFFIX,mariokart8.com
+  - DOMAIN-SUFFIX,excitebots.com
   - DOMAIN-SUFFIX,wiiugamepad.com
-  - DOMAIN-SUFFIX,nintendolabo.cn
+  - DOMAIN-SUFFIX,pokemon-sun.com
+  - DOMAIN-SUFFIX,nintendo3ds.com
   - DOMAIN-SUFFIX,pokemonbank.com
-  - DOMAIN-SUFFIX,wariowarediy.com
-  - DOMAIN-SUFFIX,pokemon-moon.com
+  - DOMAIN-SUFFIX,nintendodsi.com
+  - DOMAIN-SUFFIX,nintendowii.com
+  - DOMAIN-SUFFIX,pokemonhome.com
+  - DOMAIN-SUFFIX,nintendolabo.cn
+  - DOMAIN-SUFFIX,nintendonyc.com
+  - DOMAIN-SUFFIX,pokemonwifi.net
   - DOMAIN-SUFFIX,legendofzelda.cn
+  - DOMAIN-SUFFIX,pokemon-moon.com
+  - DOMAIN-SUFFIX,wariowarediy.com
+  - DOMAIN-SUFFIX,nintendowifi.net
   - DOMAIN-SUFFIX,playnintendo.com
   - DOMAIN-SUFFIX,mariobroswii.com
-  - DOMAIN-SUFFIX,nintendostore.com
   - DOMAIN-SUFFIX,supermariorun.com
-  - DOMAIN-SUFFIX,nintendoswitch.cn
-  - DOMAIN-SUFFIX,supersmashbros.cn
-  - DOMAIN-SUFFIX,ac-pocketcamp.com
   - DOMAIN-SUFFIX,ayudanintendo.com
   - DOMAIN-SUFFIX,drmario-world.com
-  - DOMAIN-SUFFIX,nintendoswitch.net
-  - DOMAIN-SUFFIX,nintendoeurope.com
-  - DOMAIN-SUFFIX,pokemonpicross.com
+  - DOMAIN-SUFFIX,supersmashbros.cn
+  - DOMAIN-SUFFIX,nintendostore.com
+  - DOMAIN-SUFFIX,nintendoswitch.cn
+  - DOMAIN-SUFFIX,ac-pocketcamp.com
   - DOMAIN-SUFFIX,flipnotestudio.com
-  - DOMAIN-SUFFIX,kirbysepicyarn.com
+  - DOMAIN-SUFFIX,pokemonpicross.com
   - DOMAIN-SUFFIX,nintendoswitch.com
+  - DOMAIN-SUFFIX,nintendoswitch.net
+  - DOMAIN-SUFFIX,kirbysepicyarn.com
   - DOMAIN-SUFFIX,pokemonsunmoon.com
-  - DOMAIN-SUFFIX,hackyourconsole.com
-  - DOMAIN-SUFFIX,diddykongracing.com
-  - DOMAIN-SUFFIX,pokemonplatinum.com
+  - DOMAIN-SUFFIX,nintendoeurope.com
+  - DOMAIN-SUFFIX,pokemon-sunmoon.com
   - DOMAIN-SUFFIX,yoshisnewisland.com
   - DOMAIN-SUFFIX,gloryofheracles.com
-  - DOMAIN-SUFFIX,thewonderful101.com
-  - DOMAIN-SUFFIX,nintendonetwork.net
   - DOMAIN-SUFFIX,superpapermario.com
-  - DOMAIN-SUFFIX,pokemon-sunmoon.com
-  - DOMAIN-SUFFIX,nintendo-europe.com
+  - DOMAIN-SUFFIX,diddykongracing.com
+  - DOMAIN-SUFFIX,pokemonplatinum.com
   - DOMAIN-SUFFIX,100classicbooks.com
+  - DOMAIN-SUFFIX,nintendonetwork.net
+  - DOMAIN-SUFFIX,nintendo-europe.com
+  - DOMAIN-SUFFIX,thewonderful101.com
   - DOMAIN-SUFFIX,wiisportsresort.com
+  - DOMAIN-SUFFIX,hackyourconsole.com
   - DOMAIN-SUFFIX,supermariogalaxy.com
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
   - DOMAIN-SUFFIX,wariolandshakeit.com
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
-  - DOMAIN-SUFFIX,pokemongoldsilver.com
-  - DOMAIN-SUFFIX,supermario3dworld.com
   - DOMAIN-SUFFIX,pokemonblackwhite.com
+  - DOMAIN-SUFFIX,supermario3dworld.com
+  - DOMAIN-SUFFIX,pokemongoldsilver.com
+  - DOMAIN-SUFFIX,bowsersinsidestory.com
   - DOMAIN-SUFFIX,newsupermariobrosu.com
   - DOMAIN-SUFFIX,fire-emblem-heroes.com
-  - DOMAIN-SUFFIX,mariosupersluggers.com
-  - DOMAIN-SUFFIX,bowsersinsidestory.com
-  - DOMAIN-SUFFIX,pokemon-unitepgame.com
-  - DOMAIN-SUFFIX,pokemonletsgoeevee.com
   - DOMAIN-SUFFIX,pokemonswordshield.com
   - DOMAIN-SUFFIX,thelegendarystarfy.com
+  - DOMAIN-SUFFIX,mariosupersluggers.com
+  - DOMAIN-SUFFIX,pokemonletsgoeevee.com
   - DOMAIN-SUFFIX,splatoon2tournament.com
-  - DOMAIN-SUFFIX,kirbysuperstarultra.com
-  - DOMAIN-SUFFIX,personaltrainermath.com
-  - DOMAIN-SUFFIX,pokemonrubysapphire.com
   - DOMAIN-SUFFIX,fireemblemawakening.com
+  - DOMAIN-SUFFIX,personaltrainermath.com
   - DOMAIN-SUFFIX,pokemonultrasunmoon.com
+  - DOMAIN-SUFFIX,pokemonrubysapphire.com
+  - DOMAIN-SUFFIX,kirbysuperstarultra.com
   - DOMAIN-SUFFIX,pokemonletsgopikachu.com
   - DOMAIN-SUFFIX,pokemonchampionships.com
-  - DOMAIN-SUFFIX,pokemonmysterydungeon.com
   - DOMAIN-SUFFIX,nintendo-europe-sales.com
+  - DOMAIN-SUFFIX,pokemonmysterydungeon.com
   - DOMAIN-SUFFIX,nintendoswitchtogether.com
   - DOMAIN-SUFFIX,marioandluigidreamteam.com
   - DOMAIN-SUFFIX,donkeykongcountryreturns.com
+  - DOMAIN-SUFFIX,nintendo.co.uk
+  - DOMAIN-SUFFIX,miitomo.com.cn
+  - DOMAIN-SUFFIX,nintendo.co.jp
   - DOMAIN-SUFFIX,nintendo.co.za
   - DOMAIN-SUFFIX,nintendo.co.kr
-  - DOMAIN-SUFFIX,nintendo.co.jp
-  - DOMAIN-SUFFIX,miitomo.com.cn
-  - DOMAIN-SUFFIX,nintendo.co.uk
   - DOMAIN-SUFFIX,nintendo.com.hk
+  - DOMAIN-SUFFIX,nintendo.com.au
   - DOMAIN-SUFFIX,nintendo.com.pt
   - DOMAIN-SUFFIX,mariokart.com.cn
   - DOMAIN-SUFFIX,legendofzelda.com.cn
-  - DOMAIN-SUFFIX,supersmashbros.com.cn
   - DOMAIN-SUFFIX,supermariobros.com.cn
   - DOMAIN-SUFFIX,nintendoswitch.com.cn
+  - DOMAIN-SUFFIX,supersmashbros.com.cn
+  - IP-CIDR,35.192.0.0/12

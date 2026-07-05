@@ -2,46 +2,29 @@
 
 ## 中文
 
-Gigabyte 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Gigabyte 规则集。
 
 ### 规则统计
 
-- 总数：`7`
-- `DOMAIN`: 3
-- `DOMAIN-SUFFIX`: 4
+- 总数: `7`
+- `DOMAIN-SUFFIX`: 7
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`Gigabyte`
-- 分类显示名：`Gigabyte`
-- 文件：`rule/Surge/Gigabyte/Gigabyte.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Gigabyte/Gigabyte.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Gigabyte/Gigabyte.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Gigabyte/Gigabyte.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Gigabyte/Gigabyte.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Gigabyte/Gigabyte.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/Gigabyte/Gigabyte.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Gigabyte/Gigabyte.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite gigabyte](https://github.com/v2fly/domain-list-community/blob/master/data/gigabyte)
+- blackmatrix7 Gigabyte: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gigabyte/Gigabyte.list
 
-<details>
-<summary>English</summary>
+## English
 
 Gigabyte rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Gigabyte/Gigabyte.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/Gigabyte/Gigabyte.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Gigabyte/Gigabyte.list`
+- Omitted unsupported types: `无`

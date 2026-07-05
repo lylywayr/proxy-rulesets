@@ -1,6 +1,6 @@
 # NAME: Opera
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.329650+00:00
+# UPDATED: 2026-07-05T02:42:38.093163+00:00
 # DOMAIN-SUFFIX: 14
 # IP-CIDR: 7
 # IP-CIDR6: 1
@@ -12,9 +12,9 @@ DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,operagx.com
 DOMAIN-SUFFIX,operacdn.com
 DOMAIN-SUFFIX,opera-api.com
-DOMAIN-SUFFIX,opera-api2.com
-DOMAIN-SUFFIX,opera.software
 DOMAIN-SUFFIX,opera-mini.net
+DOMAIN-SUFFIX,opera.software
+DOMAIN-SUFFIX,opera-api2.com
 DOMAIN-SUFFIX,coastbyopera.com
 DOMAIN-SUFFIX,opera-browser.com
 DOMAIN-SUFFIX,operasoftware.com

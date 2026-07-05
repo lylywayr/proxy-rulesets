@@ -1,7 +1,14 @@
 # NAME: Unity
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.077304+00:00
+# UPDATED: 2026-07-05T02:42:44.542245+00:00
 no_resolve: true
 domain_suffix_set:
+  - "unity.cn"
   - "unity.com"
   - "unity3d.com"
+  - "unityedu.cn"
+  - "multiplay.cn"
+  - "unityedu.com"
+  - "unitychina.cn"
+  - "unity3dusercontent.com"
+  - "unityedu.com.cn"

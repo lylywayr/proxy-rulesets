@@ -1,47 +1,32 @@
-# 测速服务
+# Speedtest
 
 ## 中文
 
-Speedtest 相关代理、直连、测速、隐私或基础分流规则。
-
-### 导航
-
-- 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
-- 专题入口：
-- [隐私分流专题](../../../guide/topics/privacy-routing.md)
+Speedtest 规则集。
 
 ### 规则统计
 
-- 总数：`13`
-- `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 12
+- 总数: `6`
+- `DOMAIN-SUFFIX`: 4
+- `DOMAIN-KEYWORD`: 1
+- `USER-AGENT`: 1
 
 ### 使用说明
 
-- 当前客户端：`Clash`
-- 分类标识：`Speedtest`
-- 分类显示名：`测速服务`
-- 文件：`rule/Clash/Speedtest/Speedtest.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Speedtest/Speedtest.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Speedtest/Speedtest.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Speedtest/Speedtest.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Speedtest/Speedtest.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Speedtest/Speedtest.yaml>
+- 客户端: `Clash`
+- 文件: `rule/Clash/Speedtest/Speedtest.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Speedtest/Speedtest.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite speedtest](https://github.com/v2fly/domain-list-community/blob/master/data/speedtest)
+- blackmatrix7 Speedtest: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Speedtest.list
 
-<details>
-<summary>English</summary>
+## English
 
 Speedtest rule set.
 
-- Current client: `Clash`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Speedtest/Speedtest.yaml>
-
-</details>
+- Client: `Clash`
+- File: `rule/Clash/Speedtest/Speedtest.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Speedtest/Speedtest.yaml`
+- Omitted unsupported types: `无`

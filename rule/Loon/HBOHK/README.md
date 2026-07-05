@@ -2,48 +2,30 @@
 
 ## 中文
 
-HBOHK 相关通用互联网服务规则。
-
-> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+HBOHK 规则集。
 
 ### 规则统计
 
-- 总数：`24`
-- `DOMAIN`: 1
+- 总数: `24`
 - `DOMAIN-SUFFIX`: 23
+- `DOMAIN`: 1
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`HBOHK`
-- 分类显示名：`HBOHK`
-- 文件：`rule/Loon/HBOHK/HBOHK.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HBOHK/HBOHK.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/HBOHK/HBOHK.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HBOHK/HBOHK.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/HBOHK/HBOHK.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HBOHK/HBOHK.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/HBOHK/HBOHK.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HBOHK/HBOHK.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [blackmatrix7 HBOHK](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOHK/HBOHK.list)
+- blackmatrix7 HBOHK: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOHK/HBOHK.list
 
-<details>
-<summary>English</summary>
+## English
 
 HBOHK rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HBOHK/HBOHK.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/HBOHK/HBOHK.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HBOHK/HBOHK.list`
+- Omitted unsupported types: `无`

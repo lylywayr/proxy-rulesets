@@ -1,13 +1,10 @@
 # NAME: Gog
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.981050+00:00
+# UPDATED: 2026-07-05T02:42:30.445968+00:00
 no_resolve: true
 domain_set:
-  - "gog-cdn-lumen.secure2.footprint.net"
-  - "gog-cdn.akamaized.net"
-  - "gog.qtlglb.com"
+  - "gog.salesmanago.com"
 domain_suffix_set:
   - "gog.com"
-  - "gogalaxy.com"
   - "gog-statics.com"
-  - "gog-services.com"
+  - "gog.qtlglb.com"

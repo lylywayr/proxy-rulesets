@@ -1,20 +1,20 @@
 # NAME: Epic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.773411+00:00
+# UPDATED: 2026-07-05T02:42:28.567182+00:00
 no_resolve: true
 domain_suffix_set:
   - "easy.ac"
-  - "spyjinx.com"
   - "eac-cdn.com"
   - "paragon.com"
+  - "spyjinx.com"
   - "fortnite.com"
-  - "epicgames.com"
   - "helpshift.com"
+  - "epicgames.com"
   - "epicgames.dev"
   - "roborecall.com"
   - "playparagon.com"
   - "unrealengine.com"
-  - "easyanticheat.net"
   - "shadowcomplex.com"
+  - "easyanticheat.net"
   - "battlebreakers.com"
   - "unrealtournament.com"

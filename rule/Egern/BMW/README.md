@@ -1,46 +1,30 @@
-# 宝马
+# BMW
 
 ## 中文
 
-BMW 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[品牌与硬件](../../../guide/groups/brands.md)
-- 专题入口：
-- 暂无
+BMW 规则集。
 
 ### 规则统计
 
-- 总数：`729`
+- 总数: `729`
 - `DOMAIN-SUFFIX`: 729
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`BMW`
-- 分类显示名：`宝马`
-- 文件：`rule/Egern/BMW/BMW.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BMW/BMW.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/BMW/BMW.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BMW/BMW.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/BMW/BMW.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BMW/BMW.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/BMW/BMW.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BMW/BMW.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite bmw](https://github.com/v2fly/domain-list-community/blob/master/data/bmw)
+- blackmatrix7 BMW: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BMW/BMW.list
 
-<details>
-<summary>English</summary>
+## English
 
 BMW rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BMW/BMW.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/BMW/BMW.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BMW/BMW.yaml`
+- Omitted unsupported types: `无`

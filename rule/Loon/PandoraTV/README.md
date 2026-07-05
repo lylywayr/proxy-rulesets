@@ -2,47 +2,29 @@
 
 ## 中文
 
-PandoraTV 相关流媒体、视频、音乐或内容分发规则。
-
-> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
-
-### 导航
-
-- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 专题入口：
-- 暂无
+PandoraTV 规则集。
 
 ### 规则统计
 
-- 总数：`2`
+- 总数: `2`
 - `DOMAIN-SUFFIX`: 2
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`PandoraTV`
-- 分类显示名：`PandoraTV`
-- 文件：`rule/Loon/PandoraTV/PandoraTV.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/PandoraTV/PandoraTV.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/PandoraTV/PandoraTV.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/PandoraTV/PandoraTV.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/PandoraTV/PandoraTV.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/PandoraTV/PandoraTV.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/PandoraTV/PandoraTV.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/PandoraTV/PandoraTV.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [blackmatrix7 PandoraTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PandoraTV/PandoraTV.list)
+- blackmatrix7 PandoraTV: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PandoraTV/PandoraTV.list
 
-<details>
-<summary>English</summary>
+## English
 
 PandoraTV rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/PandoraTV/PandoraTV.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/PandoraTV/PandoraTV.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/PandoraTV/PandoraTV.list`
+- Omitted unsupported types: `无`

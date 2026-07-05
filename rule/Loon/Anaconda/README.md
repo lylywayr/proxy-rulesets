@@ -2,45 +2,29 @@
 
 ## 中文
 
-Anaconda 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Anaconda 规则集。
 
 ### 规则统计
 
-- 总数：`4`
+- 总数: `4`
 - `DOMAIN-SUFFIX`: 4
 
 ### 使用说明
 
-- 当前客户端：`Loon`
-- 分类标识：`Anaconda`
-- 分类显示名：`Anaconda`
-- 文件：`rule/Loon/Anaconda/Anaconda.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anaconda/Anaconda.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Anaconda/Anaconda.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anaconda/Anaconda.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Anaconda/Anaconda.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Anaconda/Anaconda.yaml>
+- 客户端: `Loon`
+- 文件: `rule/Loon/Anaconda/Anaconda.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anaconda/Anaconda.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite anaconda](https://github.com/v2fly/domain-list-community/blob/master/data/anaconda)
+- blackmatrix7 Anaconda: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anaconda/Anaconda.list
 
-<details>
-<summary>English</summary>
+## English
 
 Anaconda rule set.
 
-- Current client: `Loon`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anaconda/Anaconda.list>
-
-</details>
+- Client: `Loon`
+- File: `rule/Loon/Anaconda/Anaconda.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anaconda/Anaconda.list`
+- Omitted unsupported types: `无`

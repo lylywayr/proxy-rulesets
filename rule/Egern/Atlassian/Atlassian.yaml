@@ -1,16 +1,10 @@
 # NAME: Atlassian
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:24:33.297358+00:00
+# UPDATED: 2026-07-05T02:08:41.813747+00:00
 no_resolve: true
 domain_suffix_set:
-  - "jira.com"
   - "trello.com"
-  - "ss-inf.net"
-  - "bitbucket.io"
-  - "atl-paas.net"
-  - "trellocdn.com"
-  - "atlassian.net"
   - "atlassian.com"
+  - "trellocdn.com"
   - "bitbucket.org"
   - "statuspage.io"
-  - "atlassian-dev.net"

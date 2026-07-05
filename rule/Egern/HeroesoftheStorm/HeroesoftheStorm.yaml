@@ -1,6 +1,6 @@
 # NAME: HeroesoftheStorm
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.052670+00:00
+# UPDATED: 2026-07-05T02:42:31.451714+00:00
 no_resolve: true
 ip_cidr_set:
   - "24.105.30.129/32"

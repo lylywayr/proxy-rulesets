@@ -1,11 +1,6 @@
 # NAME: TapTap
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:16.004694+00:00
+# UPDATED: 2026-07-05T02:42:42.358182+00:00
 payload:
-  - DOMAIN-SUFFIX,taptap.io
-  - DOMAIN-SUFFIX,taptap.cn
-  - DOMAIN-SUFFIX,tapimg.com
-  - DOMAIN-SUFFIX,taptap.com
-  - DOMAIN-SUFFIX,tapimg.net
-  - DOMAIN-SUFFIX,tapapks.com
-  - DOMAIN-SUFFIX,taptapdada.com
+  - DOMAIN-SUFFIX,tap.io
+  - DOMAIN-SUFFIX,taptap.tw

@@ -1,48 +1,32 @@
-# 迪士尼
+# Disney
 
 ## 中文
 
-Disney 相关流媒体、视频、音乐或内容分发规则。
-
-### 导航
-
-- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 专题入口：
-- [流媒体专题](../../../guide/topics/streaming-media.md)
+Disney 规则集。
 
 ### 规则统计
 
-- 总数：`155`
-- `DOMAIN`: 2
-- `DOMAIN-SUFFIX`: 152
-- `DOMAIN-REGEX`: 1
+- 总数: `175`
+- `DOMAIN-SUFFIX`: 172
+- `USER-AGENT`: 1
+- `PROCESS-NAME`: 2
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`Disney`
-- 分类显示名：`迪士尼`
-- 文件：`rule/Surge/Disney/Disney.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Disney/Disney.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Disney/Disney.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Disney/Disney.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Disney/Disney.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Disney/Disney.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/Disney/Disney.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Disney/Disney.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite disney](https://github.com/v2fly/domain-list-community/blob/master/data/disney)
+- blackmatrix7 Disney: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list
 
-<details>
-<summary>English</summary>
+## English
 
 Disney rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Disney/Disney.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/Disney/Disney.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Disney/Disney.list`
+- Omitted unsupported types: `无`

@@ -1,46 +1,30 @@
-# 虎扑
+# Hupu
 
 ## 中文
 
-Hupu 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Hupu 规则集。
 
 ### 规则统计
 
-- 总数：`4`
-- `DOMAIN-SUFFIX`: 4
+- 总数: `12`
+- `DOMAIN-SUFFIX`: 12
 
 ### 使用说明
 
-- 当前客户端：`Surge`
-- 分类标识：`Hupu`
-- 分类显示名：`虎扑`
-- 文件：`rule/Surge/Hupu/Hupu.list`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Hupu/Hupu.list>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Hupu/Hupu.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Hupu/Hupu.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Hupu/Hupu.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Hupu/Hupu.yaml>
+- 客户端: `Surge`
+- 文件: `rule/Surge/Hupu/Hupu.list`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Hupu/Hupu.list`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite hupu](https://github.com/v2fly/domain-list-community/blob/master/data/hupu)
+- blackmatrix7 Hupu: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hupu/Hupu.list
 
-<details>
-<summary>English</summary>
+## English
 
 Hupu rule set.
 
-- Current client: `Surge`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Hupu/Hupu.list>
-
-</details>
+- Client: `Surge`
+- File: `rule/Surge/Hupu/Hupu.list`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Hupu/Hupu.list`
+- Omitted unsupported types: `无`

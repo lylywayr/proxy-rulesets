@@ -1,14 +1,10 @@
 # NAME: Protonmail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.380864+00:00
+# UPDATED: 2026-07-05T02:42:39.400829+00:00
 no_resolve: true
 domain_suffix_set:
   - "pm.me"
   - "proton.me"
-  - "protonvpn.ch"
-  - "protonvpn.com"
-  - "protontech.ch"
   - "protonmail.ch"
-  - "protonweb.com"
   - "protonmail.com"
   - "protonstatus.com"

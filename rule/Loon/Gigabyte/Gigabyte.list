@@ -1,14 +1,13 @@
 # NAME: Gigabyte
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:47.841992+00:00
-# DOMAIN: 3
-# DOMAIN-SUFFIX: 4
+# UPDATED: 2026-07-05T02:42:29.932022+00:00
+# DOMAIN-SUFFIX: 7
 # TOTAL: 7
 
-DOMAIN,gigabyte2.azureedge.net
-DOMAIN,sa78gs.wpc.edgecastcdn.net
-DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,gigabyte.cn
 DOMAIN-SUFFIX,gigabyte.com
 DOMAIN-SUFFIX,aoruszone.cn
+DOMAIN-SUFFIX,gigabyte2.azureedge.net
+DOMAIN-SUFFIX,sa78gs.wpc.edgecastcdn.net
+DOMAIN-SUFFIX,sni1dcb6gl.wpc.edgecastcdn.net

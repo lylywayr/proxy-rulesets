@@ -1,10 +1,9 @@
 # NAME: Rockstar
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:44:15.927174+00:00
+# UPDATED: 2026-07-05T02:42:40.260854+00:00
 payload:
-  - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
-  - DOMAIN,media-rockstargames-com.akamaized.net
-  - DOMAIN,videos-rockstargames-com.akamaized.net
   - DOMAIN-SUFFIX,rsg.sc
-  - DOMAIN-SUFFIX,rockstarnorth.com
   - DOMAIN-SUFFIX,rockstargames.com
+  - DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+  - DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
+  - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net

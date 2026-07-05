@@ -1,49 +1,31 @@
 # NAME: McDonalds
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.235749+00:00
-# DOMAIN-SUFFIX: 43
-# TOTAL: 43
+# UPDATED: 2026-07-05T02:42:35.674499+00:00
+# DOMAIN-SUFFIX: 25
+# TOTAL: 25
 
-DOMAIN-SUFFIX,mcd.cn
 DOMAIN-SUFFIX,mcd.com
-DOMAIN-SUFFIX,mcdonalds.ca
+DOMAIN-SUFFIX,mcdonalds.it
 DOMAIN-SUFFIX,mcdonalds.se
 DOMAIN-SUFFIX,mcdonalds.no
-DOMAIN-SUFFIX,mcdonalds.be
-DOMAIN-SUFFIX,mcdonalds.it
-DOMAIN-SUFFIX,mcdchina.net
 DOMAIN-SUFFIX,mcdonalds.hk
-DOMAIN-SUFFIX,mcdindia.com
-DOMAIN-SUFFIX,happymeal.com
+DOMAIN-SUFFIX,mcdonalds.ca
 DOMAIN-SUFFIX,mcdonalds.com
 DOMAIN-SUFFIX,4008-517-517.cn
 DOMAIN-SUFFIX,mcdindonesia.com
-DOMAIN-SUFFIX,mcdonaldsapps.com
 DOMAIN-SUFFIX,aboutmcdonalds.com
 DOMAIN-SUFFIX,mcdonaldsarabia.com
-DOMAIN-SUFFIX,happymealdigital.com
-DOMAIN-SUFFIX,mcdonalds-online.com
-DOMAIN-SUFFIX,mcdonalds.co.nz
-DOMAIN-SUFFIX,happymeal.co.nz
-DOMAIN-SUFFIX,mcdonalds.co.jp
-DOMAIN-SUFFIX,mcdonalds.co.kr
 DOMAIN-SUFFIX,mcdonalds.co.uk
-DOMAIN-SUFFIX,mcdonalds.co.id
-DOMAIN-SUFFIX,mcdelivery.co.in
-DOMAIN-SUFFIX,mcdelivery.co.id
-DOMAIN-SUFFIX,mcdonalds.com.tw
-DOMAIN-SUFFIX,mcdonalds.com.lb
-DOMAIN-SUFFIX,mcdonalds.com.ph
-DOMAIN-SUFFIX,mcdonalds.com.cn
+DOMAIN-SUFFIX,happymeal.co.nz
 DOMAIN-SUFFIX,mcdelivery.co.kr
-DOMAIN-SUFFIX,mcdonalds.com.au
-DOMAIN-SUFFIX,mcdonalds.com.my
+DOMAIN-SUFFIX,mcdonalds.com.cn
+DOMAIN-SUFFIX,mcdelivery.co.id
 DOMAIN-SUFFIX,happymeal.com.au
 DOMAIN-SUFFIX,mcdonalds.com.hk
-DOMAIN-SUFFIX,mcdelivery.com.ph
 DOMAIN-SUFFIX,mcdelivery.com.au
 DOMAIN-SUFFIX,mcdelivery.com.sg
 DOMAIN-SUFFIX,mcdelivery.com.tw
 DOMAIN-SUFFIX,mcdelivery.com.my
-DOMAIN-SUFFIX,mcd-holdings.co.jp
 DOMAIN-SUFFIX,mcdonaldsparties.co.nz
+DOMAIN-SUFFIX,mcdonaldsparties.com.au
+DOMAIN-SUFFIX,xn--qhrx81fxh2a.xn--55qx5d.hk

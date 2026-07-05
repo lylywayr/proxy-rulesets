@@ -1,14 +1,17 @@
 # NAME: HoYoverse
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.066670+00:00
-# DOMAIN-SUFFIX: 8
-# TOTAL: 8
+# UPDATED: 2026-07-05T02:42:31.835673+00:00
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 
 DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,starrails.com
 DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,n0vadesktop.com
-DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
 DOMAIN-SUFFIX,honkaistarrail.com
-DOMAIN-SUFFIX,zenlesszonezero.com

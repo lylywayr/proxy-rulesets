@@ -1,9 +1,9 @@
 # NAME: PlayStation
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:43:48.370864+00:00
+# UPDATED: 2026-07-05T02:42:39.155745+00:00
 no_resolve: true
 domain_suffix_set:
-  - "playstation"
   - "playstation.net"
   - "playstation.com"
+  - "playstationnetwork.com"
   - "sonyentertainmentnetwork.com"

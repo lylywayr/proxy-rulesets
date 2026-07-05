@@ -2,45 +2,29 @@
 
 ## 中文
 
-Emojipedia 相关通用互联网服务规则。
-
-### 导航
-
-- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 专题入口：
-- 暂无
+Emojipedia 规则集。
 
 ### 规则统计
 
-- 总数：`4`
-- `DOMAIN-SUFFIX`: 4
+- 总数: `3`
+- `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 当前客户端：`Clash`
-- 分类标识：`Emojipedia`
-- 分类显示名：`Emojipedia`
-- 文件：`rule/Clash/Emojipedia/Emojipedia.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Emojipedia/Emojipedia.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Emojipedia/Emojipedia.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Emojipedia/Emojipedia.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Emojipedia/Emojipedia.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Emojipedia/Emojipedia.yaml>
+- 客户端: `Clash`
+- 文件: `rule/Clash/Emojipedia/Emojipedia.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Emojipedia/Emojipedia.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite emojipedia](https://github.com/v2fly/domain-list-community/blob/master/data/emojipedia)
+- blackmatrix7 Emojipedia: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Emojipedia/Emojipedia.list
 
-<details>
-<summary>English</summary>
+## English
 
 Emojipedia rule set.
 
-- Current client: `Clash`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Emojipedia/Emojipedia.yaml>
-
-</details>
+- Client: `Clash`
+- File: `rule/Clash/Emojipedia/Emojipedia.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Emojipedia/Emojipedia.yaml`
+- Omitted unsupported types: `无`

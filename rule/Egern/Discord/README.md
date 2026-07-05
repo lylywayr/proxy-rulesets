@@ -2,46 +2,29 @@
 
 ## 中文
 
-Discord 社区、语音、媒体与开发者平台相关规则。
-
-### 导航
-
-- 所属分组：[社交通信](../../../guide/groups/social.md)
-- 专题入口：
-- [社交通信专题](../../../guide/topics/social-communication.md)
+Discord 规则集。
 
 ### 规则统计
 
-- 总数：`28`
-- `DOMAIN`: 2
-- `DOMAIN-SUFFIX`: 26
+- 总数: `29`
+- `DOMAIN-SUFFIX`: 29
 
 ### 使用说明
 
-- 当前客户端：`Egern`
-- 分类标识：`Discord`
-- 分类显示名：`Discord`
-- 文件：`rule/Egern/Discord/Discord.yaml`
-- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Discord/Discord.yaml>
-- 已省略的不兼容类型：无
-
-### 客户端直链
-
-- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Discord/Discord.list>
-- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Discord/Discord.list>
-- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Discord/Discord.yaml>
-- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Discord/Discord.yaml>
+- 客户端: `Egern`
+- 文件: `rule/Egern/Discord/Discord.yaml`
+- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Discord/Discord.yaml`
+- 已省略的不兼容类型: 无
 
 ### 数据来源
 
-- [v2fly geosite discord](https://github.com/v2fly/domain-list-community/blob/master/data/discord)
+- blackmatrix7 Discord: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Discord/Discord.list
 
-<details>
-<summary>English</summary>
+## English
 
 Discord rule set.
 
-- Current client: `Egern`
-- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Discord/Discord.yaml>
-
-</details>
+- Client: `Egern`
+- File: `rule/Egern/Discord/Discord.yaml`
+- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Discord/Discord.yaml`
+- Omitted unsupported types: `无`
