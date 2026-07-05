@@ -31,7 +31,7 @@ OpenAI 规则集合。
 
 ### 客户端入口
 
-- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FOpenAI%2FOpenAI.list): 通过 Loon 统一链接直接添加远程规则。
+- [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FOpenAI%2FOpenAI.list): 通过 Loon 统一链接直接添加远程规则集。
 
 ### 其他客户端直链
 

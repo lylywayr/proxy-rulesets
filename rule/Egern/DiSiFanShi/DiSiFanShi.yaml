@@ -1,9 +1,9 @@
 # NAME: DiSiFanShi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:45:23.311788+00:00
+# UPDATED: 2026-07-05T06:31:30.853929+00:00
 no_resolve: true
 domain_suffix_set:
-  - "aihero100.com"
-  - "4paradigm.com"
   - "v1zhushou.com"
+  - "4paradigm.com"
+  - "aihero100.com"
   - "tuijianxitong.cn"

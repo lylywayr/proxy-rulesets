@@ -1,6 +1,6 @@
 # NAME: Nikkei
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:45:59.371750+00:00
+# UPDATED: 2026-07-05T06:32:22.202490+00:00
 payload:
   - DOMAIN-SUFFIX,nikkei.jp
   - DOMAIN-SUFFIX,nikkei.com

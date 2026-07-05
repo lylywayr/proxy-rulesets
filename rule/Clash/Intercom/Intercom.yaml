@@ -1,6 +1,6 @@
 # NAME: Intercom
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:45:43.768055+00:00
+# UPDATED: 2026-07-05T06:32:07.669165+00:00
 payload:
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercom.com

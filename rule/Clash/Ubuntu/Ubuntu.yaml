@@ -1,53 +1,53 @@
 # NAME: Ubuntu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:02.307197+00:00
+# UPDATED: 2026-07-05T06:43:01.720139+00:00
 payload:
-  - DOMAIN-SUFFIX,ubuntu.sk
-  - DOMAIN-SUFFIX,ubuntu.cz
-  - DOMAIN-SUFFIX,ubuntu.se
-  - DOMAIN-SUFFIX,ubuntu.lv
-  - DOMAIN-SUFFIX,ubuntu.hu
+  - DOMAIN-SUFFIX,ubuntu.pl
   - DOMAIN-SUFFIX,ubuntu.ru
   - DOMAIN-SUFFIX,ubuntu.ro
+  - DOMAIN-SUFFIX,ubuntu.cz
+  - DOMAIN-SUFFIX,ubuntu.sk
   - DOMAIN-SUFFIX,ubuntu.ir
-  - DOMAIN-SUFFIX,ubuntu.pl
-  - DOMAIN-SUFFIX,ubuntu.si
+  - DOMAIN-SUFFIX,ubuntu.lv
   - DOMAIN-SUFFIX,ubuntu.lt
+  - DOMAIN-SUFFIX,ubuntu.se
+  - DOMAIN-SUFFIX,ubuntu.hu
+  - DOMAIN-SUFFIX,ubuntu.si
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,ubuntu.net
   - DOMAIN-SUFFIX,debuntu.org
   - DOMAIN-SUFFIX,ualinux.com
   - DOMAIN-SUFFIX,snapcraft.io
-  - DOMAIN-SUFFIX,ubuntu-tr.net
-  - DOMAIN-SUFFIX,ubuntu-hr.org
-  - DOMAIN-SUFFIX,ubuntu-pt.org
-  - DOMAIN-SUFFIX,ubuntu-ie.org
-  - DOMAIN-SUFFIX,ubuntu-cl.org
-  - DOMAIN-SUFFIX,ubuntu-it.org
   - DOMAIN-SUFFIX,ubuntu-rs.org
-  - DOMAIN-SUFFIX,ubuntu-fi.org
+  - DOMAIN-SUFFIX,ubuntu-tr.net
   - DOMAIN-SUFFIX,ubuntu-za.org
-  - DOMAIN-SUFFIX,ubuntu-se.org
-  - DOMAIN-SUFFIX,ubuntu-gr.org
-  - DOMAIN-SUFFIX,ubuntu-br.org
-  - DOMAIN-SUFFIX,ubuntu-pe.org
   - DOMAIN-SUFFIX,ubuntu-tw.org
   - DOMAIN-SUFFIX,ubuntu-fr.org
-  - DOMAIN-SUFFIX,askubuntu.com
-  - DOMAIN-SUFFIX,ubuntu-nl.org
   - DOMAIN-SUFFIX,ubuntu-vn.org
+  - DOMAIN-SUFFIX,ubuntu-cl.org
+  - DOMAIN-SUFFIX,ubuntu-se.org
+  - DOMAIN-SUFFIX,ubuntu-br.org
+  - DOMAIN-SUFFIX,ubuntu-it.org
+  - DOMAIN-SUFFIX,ubuntu-ie.org
+  - DOMAIN-SUFFIX,askubuntu.com
+  - DOMAIN-SUFFIX,ubuntu-fi.org
+  - DOMAIN-SUFFIX,ubuntu-pt.org
   - DOMAIN-SUFFIX,canonical.com
-  - DOMAIN-SUFFIX,ubuntugeek.com
-  - DOMAIN-SUFFIX,ubuntulinux.jp
-  - DOMAIN-SUFFIX,ubuntuclub.com
+  - DOMAIN-SUFFIX,ubuntu-nl.org
+  - DOMAIN-SUFFIX,ubuntu-pe.org
+  - DOMAIN-SUFFIX,ubuntu-hr.org
+  - DOMAIN-SUFFIX,ubuntu-gr.org
   - DOMAIN-SUFFIX,ubucentrum.net
-  - DOMAIN-SUFFIX,ubuntuusers.de
+  - DOMAIN-SUFFIX,ubuntuclub.com
   - DOMAIN-SUFFIX,ubuntu-news.ru
+  - DOMAIN-SUFFIX,ubuntuusers.de
+  - DOMAIN-SUFFIX,ubuntulinux.jp
+  - DOMAIN-SUFFIX,ubuntugeek.com
   - DOMAIN-SUFFIX,aerialline.com
-  - DOMAIN-SUFFIX,ubuntulinux.org
-  - DOMAIN-SUFFIX,ubuntuguide.org
-  - DOMAIN-SUFFIX,iloveubuntu.net
   - DOMAIN-SUFFIX,debianadmin.com
+  - DOMAIN-SUFFIX,iloveubuntu.net
+  - DOMAIN-SUFFIX,ubuntuguide.org
+  - DOMAIN-SUFFIX,ubuntulinux.org
   - DOMAIN-SUFFIX,ubuntu-touch.io
   - DOMAIN-SUFFIX,ubuntustats.com
   - DOMAIN-SUFFIX,ubuntuforums.org

@@ -1,6 +1,6 @@
 # NAME: Tumblr
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:01.155962+00:00
+# UPDATED: 2026-07-05T06:43:01.690716+00:00
 no_resolve: true
 domain_suffix_set:
   - "tmblr.co"

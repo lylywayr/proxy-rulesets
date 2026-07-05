@@ -1,12 +1,12 @@
 # NAME: Sectigo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:49:50.759901+00:00
+# UPDATED: 2026-07-05T06:42:59.257155+00:00
 no_resolve: true
 domain_suffix_set:
   - "sectigo.com"
   - "usertrust.com"
-  - "optimumssl.com"
   - "instantssl.com"
+  - "optimumssl.com"
   - "positivessl.com"
   - "enterprisessl.com"
   - "hackerguardian.com"

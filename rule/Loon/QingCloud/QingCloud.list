@@ -1,17 +1,17 @@
 # NAME: QingCloud
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:49:48.237310+00:00
+# UPDATED: 2026-07-05T06:42:59.159195+00:00
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 
-DOMAIN-SUFFIX,yunify.com
 DOMAIN-SUFFIX,anybox.com
-DOMAIN-SUFFIX,qingcloud.cn
+DOMAIN-SUFFIX,yunify.com
 DOMAIN-SUFFIX,qingstor.com
-DOMAIN-SUFFIX,frontwize.com
+DOMAIN-SUFFIX,qingcloud.cn
+DOMAIN-SUFFIX,routewize.com
 DOMAIN-SUFFIX,qingcache.com
 DOMAIN-SUFFIX,qingcloud.com
-DOMAIN-SUFFIX,routewize.com
+DOMAIN-SUFFIX,frontwize.com
 DOMAIN-SUFFIX,qingstorage.com
 DOMAIN-SUFFIX,quanxiangyun.com
 DOMAIN-SUFFIX,qingcloud.com.cn

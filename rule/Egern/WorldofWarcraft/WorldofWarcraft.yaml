@@ -1,6 +1,6 @@
 # NAME: WorldofWarcraft
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:08.761042+00:00
+# UPDATED: 2026-07-05T06:43:01.892811+00:00
 no_resolve: true
 ip_cidr_set:
   - "24.105.62.129/32"

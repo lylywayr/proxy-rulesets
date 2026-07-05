@@ -1,6 +1,6 @@
 # NAME: OpenAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:46:01.320089+00:00
+# UPDATED: 2026-07-05T06:32:22.818969+00:00
 no_resolve: true
 domain_set:
   - "browser-intake-datadoghq.com"
@@ -13,33 +13,33 @@ domain_set:
   - "static.cloudflareinsights.com"
 domain_suffix_set:
   - "ai.com"
-  - "sora.com"
   - "chat.com"
-  - "auth0.com"
+  - "sora.com"
   - "sentry.io"
-  - "openai.com"
+  - "auth0.com"
   - "segment.io"
-  - "crixet.com"
   - "stripe.com"
+  - "openai.com"
+  - "crixet.com"
+  - "algolia.net"
   - "intercom.io"
   - "chatgpt.com"
-  - "algolia.net"
-  - "identrust.com"
-  - "observeit.net"
   - "oaistatic.com"
+  - "observeit.net"
+  - "identrust.com"
   - "oaistatsig.com"
   - "intercomcdn.com"
-  - "launchdarkly.com"
   - "featuregates.org"
+  - "launchdarkly.com"
   - "oaiusercontent.com"
   - "api.statsig.com"
   - "turn.livekit.cloud"
   - "host.livekit.cloud"
   - "openaicom.imgix.net"
-  - "events.statsigapi.net"
   - "chatgpt.livekit.cloud"
-  - "challenges.cloudflare.com"
+  - "events.statsigapi.net"
   - "client-api.arkoselabs.com"
+  - "challenges.cloudflare.com"
   - "openaiapi-site.azureedge.net"
   - "openai.com.cdn.cloudflare.net"
 domain_keyword_set:

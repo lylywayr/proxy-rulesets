@@ -1,6 +1,6 @@
 # NAME: Opera
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:46:01.466008+00:00
+# UPDATED: 2026-07-05T06:32:22.822967+00:00
 no_resolve: true
 domain_suffix_set:
   - "otvs.tv"
@@ -10,11 +10,11 @@ domain_suffix_set:
   - "operacdn.com"
   - "opera-api.com"
   - "opera.software"
-  - "opera-mini.net"
   - "opera-api2.com"
+  - "opera-mini.net"
   - "coastbyopera.com"
-  - "opera-browser.com"
   - "operasoftware.com"
+  - "opera-browser.com"
   - "gamingbrowsers.com"
   - "xn--cer18jcpe41t.com"
 ip_cidr_set:

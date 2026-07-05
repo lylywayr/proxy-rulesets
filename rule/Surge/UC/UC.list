@@ -1,39 +1,39 @@
 # NAME: UC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:02.490186+00:00
+# UPDATED: 2026-07-05T06:43:01.722185+00:00
 # DOMAIN-SUFFIX: 38
 # TOTAL: 38
 
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,yun.cn
-DOMAIN-SUFFIX,ucweb.cn
-DOMAIN-SUFFIX,u-mob.cn
 DOMAIN-SUFFIX,zjbuc.cn
-DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,hdyzx.cn
-DOMAIN-SUFFIX,zjbuc.com
-DOMAIN-SUFFIX,ucdesk.cn
-DOMAIN-SUFFIX,tinya1.cn
+DOMAIN-SUFFIX,ucweb.cn
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,u-mob.cn
 DOMAIN-SUFFIX,ucfly.com
-DOMAIN-SUFFIX,xmq123.cn
-DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uc123.com
-DOMAIN-SUFFIX,open-uc.cn
-DOMAIN-SUFFIX,tinypap.cn
-DOMAIN-SUFFIX,minippa.cn
-DOMAIN-SUFFIX,uc-test.cn
+DOMAIN-SUFFIX,xmq123.cn
+DOMAIN-SUFFIX,zjbuc.com
+DOMAIN-SUFFIX,tinya1.cn
+DOMAIN-SUFFIX,ucdesk.cn
+DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uflowx.com
-DOMAIN-SUFFIX,effirst.cn
-DOMAIN-SUFFIX,tinyap2.cn
 DOMAIN-SUFFIX,myquark.cn
-DOMAIN-SUFFIX,coolppa.cn
+DOMAIN-SUFFIX,tinyap2.cn
+DOMAIN-SUFFIX,tinypap.cn
+DOMAIN-SUFFIX,open-uc.cn
+DOMAIN-SUFFIX,minippa.cn
 DOMAIN-SUFFIX,tinyppa.cn
+DOMAIN-SUFFIX,uc-test.cn
+DOMAIN-SUFFIX,effirst.cn
+DOMAIN-SUFFIX,coolppa.cn
+DOMAIN-SUFFIX,ubibibi.com
 DOMAIN-SUFFIX,uc-test.com
 DOMAIN-SUFFIX,effirst.com
-DOMAIN-SUFFIX,ubibibi.com
-DOMAIN-SUFFIX,qingzhou.ltd
-DOMAIN-SUFFIX,qingzhou.biz
 DOMAIN-SUFFIX,qingzhou.pro
+DOMAIN-SUFFIX,qingzhou.biz
+DOMAIN-SUFFIX,qingzhou.ltd
 DOMAIN-SUFFIX,appsmall.mobi
 DOMAIN-SUFFIX,appchaoshi.cn
 DOMAIN-SUFFIX,babybubble.cn

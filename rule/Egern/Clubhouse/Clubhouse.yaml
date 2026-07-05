@@ -1,6 +1,6 @@
 # NAME: Clubhouse
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:26:07.838108+00:00
+# UPDATED: 2026-07-05T06:22:05.739821+00:00
 no_resolve: true
 domain_set:
   - "clubhouse.pubnub.com"

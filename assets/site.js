@@ -66,6 +66,17 @@ function rawFileLinks(item) {
     .join("");
 }
 
+function quickImportLinks(item) {
+  const actions = [];
+  data.clients.forEach((client) => {
+    const links = item.imports[client.name] || [];
+    links.forEach((entry) => {
+      actions.push(`<a class="action-link" href="${entry.url}">${client.name} ${language === "zh" ? entry.label_zh : entry.label_en}</a>`);
+    });
+  });
+  return actions.join("");
+}
+
 function renderCategories() {
   const items = filteredCategories();
   const groups = data.groups
@@ -103,6 +114,11 @@ function renderCategories() {
                   <div class="meta-line"><strong>${t("\u539f\u59cb\u6587\u4ef6", "Rule files")}</strong></div>
                   <div class="raw-row">${rawFileLinks(item)}</div>
                 </div>
+                ${quickImportLinks(item) ? `
+                <div class="meta-block">
+                  <div class="meta-line"><strong>${t("\u4e00\u952e\u5bfc\u5165", "Quick Import")}</strong></div>
+                  <div class="action-row">${quickImportLinks(item)}</div>
+                </div>` : ""}
               </article>
             `)
             .join("")}

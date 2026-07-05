@@ -1,25 +1,25 @@
 # NAME: AliPay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:47:52.830886+00:00
+# UPDATED: 2026-07-05T06:00:44.733740+00:00
 no_resolve: true
 domain_suffix_set:
   - "alipay"
-  - "alipay.hk"
   - "alipay.cn"
-  - "alipay.net"
+  - "alipay.hk"
   - "alipay.com"
+  - "alipay.net"
   - "alipaymo.com"
-  - "alipaylog.com"
   - "alipaydev.com"
+  - "alipaylog.com"
   - "alipaydns.com"
   - "alipay-inc.com"
-  - "alipayplus.com"
   - "alipay-eco.com"
-  - "alipay-corp.com"
+  - "alipayplus.com"
   - "alipayeshop.com"
+  - "alipay-corp.com"
   - "alipaydesign.com"
-  - "luohanacademy.com"
   - "alipayobjects.com"
+  - "luohanacademy.com"
   - "alipay-traffic.com"
   - "ifaa.org.cn"
   - "alipay.com.cn"

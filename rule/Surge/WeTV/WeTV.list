@@ -1,6 +1,6 @@
 # NAME: WeTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:07.380191+00:00
+# UPDATED: 2026-07-05T06:43:01.853291+00:00
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 7
 # USER-AGENT: 1
@@ -12,8 +12,8 @@ DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,iflix.com
 DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN-SUFFIX,v.smtcdns.net
 DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,v.smtcdns.net
 DOMAIN-SUFFIX,iflix-images.akamaized.net
 DOMAIN-SUFFIX,vv.video.qq.com
 USER-AGENT,WeTV*

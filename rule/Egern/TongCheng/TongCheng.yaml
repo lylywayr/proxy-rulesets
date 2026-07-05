@@ -1,6 +1,6 @@
 # NAME: TongCheng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:00.742550+00:00
+# UPDATED: 2026-07-05T06:43:01.679790+00:00
 no_resolve: true
 domain_suffix_set:
   - "17u.cn"
@@ -8,6 +8,6 @@ domain_suffix_set:
   - "17u.net"
   - "40017.cn"
   - "elong.com"
-  - "17usoft.net"
   - "17usoft.com"
+  - "17usoft.net"
   - "elongstatic.com"

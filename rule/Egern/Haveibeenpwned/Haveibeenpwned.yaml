@@ -1,7 +1,7 @@
 # NAME: Haveibeenpwned
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:45:37.984488+00:00
+# UPDATED: 2026-07-05T06:32:07.492608+00:00
 no_resolve: true
 domain_suffix_set:
-  - "haveibeenpwned.com"
   - "pwnedpasswords.com"
+  - "haveibeenpwned.com"

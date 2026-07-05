@@ -1,6 +1,6 @@
 # NAME: OKX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:46:00.644546+00:00
+# UPDATED: 2026-07-05T06:32:22.238015+00:00
 no_resolve: true
 domain_suffix_set:
   - "okx.com"

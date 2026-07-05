@@ -1,17 +1,17 @@
 # NAME: HeMa
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:45:38.774291+00:00
+# UPDATED: 2026-07-05T06:32:07.512608+00:00
 no_resolve: true
 domain_suffix_set:
   - "rexpos.cn"
-  - "rextech.cn"
   - "hemaos.com"
   - "hemaapi.cn"
-  - "hemaopen.cn"
+  - "rextech.cn"
   - "hemamax.com"
+  - "hemaopen.cn"
   - "marioin.com"
-  - "mariowap.com"
-  - "shyhhema.com"
   - "marioall.com"
   - "hemashare.cn"
+  - "shyhhema.com"
+  - "mariowap.com"
   - "freshhema.com"

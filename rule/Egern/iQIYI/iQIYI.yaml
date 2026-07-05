@@ -1,11 +1,11 @@
 # NAME: iQIYI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:45:44.254208+00:00
+# UPDATED: 2026-07-05T06:32:07.705411+00:00
 no_resolve: true
 domain_suffix_set:
   - "71.am"
-  - "qy.net"
   - "qy.com"
+  - "qy.net"
   - "pps.tv"
   - "iq.com"
   - "qiyi.cn"
@@ -15,28 +15,28 @@ domain_suffix_set:
   - "suike.cn"
   - "aianno.cn"
   - "iqiyi.com"
-  - "ppsimg.com"
-  - "ppsurl.com"
   - "aianno.com"
-  - "71edge.com"
   - "71edge.net"
+  - "ppsurl.com"
+  - "ppsimg.com"
+  - "71edge.com"
   - "ppstream.cn"
   - "qiyipic.com"
   - "baiying.com"
-  - "jiangbing.cn"
-  - "ibkstore.com"
-  - "iqiyipic.com"
-  - "ppstream.net"
   - "ppstream.com"
+  - "ibkstore.com"
+  - "ppstream.net"
+  - "iqiyipic.com"
+  - "jiangbing.cn"
   - "iqiyiedge.com"
   - "iqiyiedge.net"
-  - "aiqiyicloud.net"
   - "aiqiyicloud.com"
+  - "aiqiyicloud.net"
   - "aiqiyicloud-mgmt.com"
   - "71.am.com"
   - "iqiyi.demo.uwp"
-  - "ppstream.net.cn"
   - "ppstream.com.cn"
+  - "ppstream.net.cn"
 domain_keyword_set:
   - "qiyi"
 user_agent_set:

@@ -1,10 +1,10 @@
 # NAME: Comodo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:26:08.976279+00:00
+# UPDATED: 2026-07-05T06:22:05.768833+00:00
 no_resolve: true
 domain_suffix_set:
   - "comodo.com"
   - "comodoca.com"
+  - "comodoca4.com"
   - "comodoca3.com"
   - "comodoca2.com"
-  - "comodoca4.com"

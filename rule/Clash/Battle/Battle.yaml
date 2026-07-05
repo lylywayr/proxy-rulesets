@@ -1,6 +1,6 @@
 # NAME: Battle
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:48:02.562799+00:00
+# UPDATED: 2026-07-05T06:01:00.042719+00:00
 payload:
   - DOMAIN,blizzard.nefficient.co.kr
   - DOMAIN,blzddist1-a.akamaihd.net

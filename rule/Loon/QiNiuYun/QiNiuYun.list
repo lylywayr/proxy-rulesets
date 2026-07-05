@@ -1,56 +1,56 @@
 # NAME: QiNiuYun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:49:48.363085+00:00
+# UPDATED: 2026-07-05T06:42:59.163557+00:00
 # DOMAIN-SUFFIX: 53
 # TOTAL: 53
 
 DOMAIN-SUFFIX,qbox.me
-DOMAIN-SUFFIX,qiniu.io
-DOMAIN-SUFFIX,atlab.ai
-DOMAIN-SUFFIX,qiniu.in
-DOMAIN-SUFFIX,qbox.net
-DOMAIN-SUFFIX,qiniu.co
 DOMAIN-SUFFIX,qiniu.us
-DOMAIN-SUFFIX,qnsdk.com
-DOMAIN-SUFFIX,qiniu.com
-DOMAIN-SUFFIX,qiniu.org
+DOMAIN-SUFFIX,qiniu.io
+DOMAIN-SUFFIX,qbox.net
+DOMAIN-SUFFIX,qiniu.in
+DOMAIN-SUFFIX,qiniu.co
+DOMAIN-SUFFIX,atlab.ai
 DOMAIN-SUFFIX,qibox.com
 DOMAIN-SUFFIX,qnssl.com
-DOMAIN-SUFFIX,qnfcdn.com
-DOMAIN-SUFFIX,qnydns.net
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qiniu.org
+DOMAIN-SUFFIX,qnsdk.com
+DOMAIN-SUFFIX,qnydns.com
 DOMAIN-SUFFIX,cdnhub.net
 DOMAIN-SUFFIX,doxygen.io
-DOMAIN-SUFFIX,qiniu.work
-DOMAIN-SUFFIX,qnydns.com
-DOMAIN-SUFFIX,goproxy.cn
 DOMAIN-SUFFIX,qiniug.com
 DOMAIN-SUFFIX,qiniup.com
+DOMAIN-SUFFIX,qiniu.work
+DOMAIN-SUFFIX,qnydns.net
+DOMAIN-SUFFIX,goproxy.cn
+DOMAIN-SUFFIX,qnfcdn.com
 DOMAIN-SUFFIX,qnqcdn.net
-DOMAIN-SUFFIX,qiniurs.com
-DOMAIN-SUFFIX,qiniudn.com
-DOMAIN-SUFFIX,clouddn.com
-DOMAIN-SUFFIX,everbox.net
-DOMAIN-SUFFIX,pilidns.com
-DOMAIN-SUFFIX,qiniucc.com
 DOMAIN-SUFFIX,qiniucs.com
+DOMAIN-SUFFIX,pilidns.com
+DOMAIN-SUFFIX,everbox.net
+DOMAIN-SUFFIX,qiniucc.com
+DOMAIN-SUFFIX,clouddn.com
+DOMAIN-SUFFIX,qiniudn.com
+DOMAIN-SUFFIX,qiniurs.com
 DOMAIN-SUFFIX,qiniupkg.com
-DOMAIN-SUFFIX,qiniuinc.com
-DOMAIN-SUFFIX,qiniuapp.com
-DOMAIN-SUFFIX,qiniutek.com
-DOMAIN-SUFFIX,niuclass.net
-DOMAIN-SUFFIX,qiniuimg.com
-DOMAIN-SUFFIX,qiniudns.net
-DOMAIN-SUFFIX,qiniuapi.com
 DOMAIN-SUFFIX,cloudvdn.com
 DOMAIN-SUFFIX,qiniucdn.com
+DOMAIN-SUFFIX,qiniuapp.com
+DOMAIN-SUFFIX,qiniuinc.com
 DOMAIN-SUFFIX,qiniudns.com
-DOMAIN-SUFFIX,kirkcloud.com
+DOMAIN-SUFFIX,qiniudns.net
+DOMAIN-SUFFIX,qiniuapi.com
+DOMAIN-SUFFIX,qiniuimg.com
+DOMAIN-SUFFIX,qiniutek.com
+DOMAIN-SUFFIX,niuclass.net
 DOMAIN-SUFFIX,qiniukodo.com
-DOMAIN-SUFFIX,qnlinking.com
 DOMAIN-SUFFIX,qiniudns2.com
+DOMAIN-SUFFIX,qiniuqcdn.com
+DOMAIN-SUFFIX,kirkcloud.com
+DOMAIN-SUFFIX,qnlinking.com
 DOMAIN-SUFFIX,cloudappl.com
 DOMAIN-SUFFIX,qiniublob.com
-DOMAIN-SUFFIX,qiniuqcdn.com
 DOMAIN-SUFFIX,qiniucloud.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,fusionappl.com

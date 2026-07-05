@@ -1,6 +1,6 @@
 # NAME: DuoWan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:45:25.794199+00:00
+# UPDATED: 2026-07-05T06:31:31.333541+00:00
 # DOMAIN-SUFFIX: 27
 # TOTAL: 27
 
@@ -8,23 +8,23 @@ DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,joyy.com
 DOMAIN-SUFFIX,5253.com
 DOMAIN-SUFFIX,hiido.cn
-DOMAIN-SUFFIX,hiido.net
-DOMAIN-SUFFIX,huanju.cn
 DOMAIN-SUFFIX,hiido.com
 DOMAIN-SUFFIX,bigda.com
 DOMAIN-SUFFIX,duowan.cn
-DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,hiido.net
+DOMAIN-SUFFIX,huanju.cn
 DOMAIN-SUFFIX,huanju.net
-DOMAIN-SUFFIX,joyyued.com
-DOMAIN-SUFFIX,vooedit.com
-DOMAIN-SUFFIX,zhiniu8.com
+DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,joyyinc.com
+DOMAIN-SUFFIX,zhiniu8.com
+DOMAIN-SUFFIX,vooedit.com
+DOMAIN-SUFFIX,joyyued.com
 DOMAIN-SUFFIX,yystatic.com
+DOMAIN-SUFFIX,pikoplay.com
+DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,bcshipgo.com
 DOMAIN-SUFFIX,yyclouds.com
-DOMAIN-SUFFIX,pikoplay.com
 DOMAIN-SUFFIX,chinaduo.com
-DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,yygamedev.com
 DOMAIN-SUFFIX,huanjuyun.com
 DOMAIN-SUFFIX,blogchina.org

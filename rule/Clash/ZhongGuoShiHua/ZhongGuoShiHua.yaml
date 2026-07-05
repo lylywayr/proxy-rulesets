@@ -1,9 +1,9 @@
 # NAME: ZhongGuoShiHua
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:14.309228+00:00
+# UPDATED: 2026-07-05T06:43:02.803642+00:00
 payload:
   - DOMAIN-SUFFIX,sinopec.com
   - DOMAIN-SUFFIX,sinopec-usa.com
-  - DOMAIN-SUFFIX,sinopecgroup.com
   - DOMAIN-SUFFIX,sinopecsales.com
+  - DOMAIN-SUFFIX,sinopecgroup.com
   - DOMAIN-SUFFIX,sinopecnews.com.cn

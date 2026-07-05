@@ -1,6 +1,6 @@
 # NAME: LeTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:45:49.389720+00:00
+# UPDATED: 2026-07-05T06:32:07.907342+00:00
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 
@@ -8,12 +8,12 @@ DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letv8.com
 DOMAIN-SUFFIX,lemall.com
-DOMAIN-SUFFIX,letvimg.com
 DOMAIN-SUFFIX,lelecdn.com
-DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,letvcdn.com
-DOMAIN-SUFFIX,letvlive.com
+DOMAIN-SUFFIX,lecloud.com
+DOMAIN-SUFFIX,letvimg.com
 DOMAIN-SUFFIX,videougc.com
-DOMAIN-SUFFIX,letvstore.com
+DOMAIN-SUFFIX,letvlive.com
 DOMAIN-SUFFIX,letvcloud.com
+DOMAIN-SUFFIX,letvstore.com
 DOMAIN-SUFFIX,sanguowudi.com

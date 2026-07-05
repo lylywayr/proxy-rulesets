@@ -1,29 +1,29 @@
 # NAME: Yandex
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:50:10.799993+00:00
+# UPDATED: 2026-07-05T06:43:01.941092+00:00
 payload:
   - DOMAIN-SUFFIX,yandex
   - DOMAIN-SUFFIX,ya.ru
   - DOMAIN-SUFFIX,yadi.sk
-  - DOMAIN-SUFFIX,yandex.az
-  - DOMAIN-SUFFIX,yandex.fr
-  - DOMAIN-SUFFIX,yandex.fi
-  - DOMAIN-SUFFIX,yandex.uz
-  - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,yandex.lt
-  - DOMAIN-SUFFIX,yandex.de
-  - DOMAIN-SUFFIX,yandex.kz
-  - DOMAIN-SUFFIX,yandex.sx
-  - DOMAIN-SUFFIX,yandex.lv
-  - DOMAIN-SUFFIX,yandex.by
-  - DOMAIN-SUFFIX,yandex.ee
-  - DOMAIN-SUFFIX,yandex.st
-  - DOMAIN-SUFFIX,yandex.md
   - DOMAIN-SUFFIX,yandex.ua
-  - DOMAIN-SUFFIX,yandex.eu
   - DOMAIN-SUFFIX,yandex.tj
-  - DOMAIN-SUFFIX,yandex.tm
+  - DOMAIN-SUFFIX,yandex.by
+  - DOMAIN-SUFFIX,yandex.fr
+  - DOMAIN-SUFFIX,yandex.st
+  - DOMAIN-SUFFIX,yandex.ee
+  - DOMAIN-SUFFIX,yandex.lv
+  - DOMAIN-SUFFIX,yandex.fi
+  - DOMAIN-SUFFIX,yandex.de
+  - DOMAIN-SUFFIX,yandex.uz
   - DOMAIN-SUFFIX,yandex.kg
+  - DOMAIN-SUFFIX,yandex.tm
+  - DOMAIN-SUFFIX,yandex.eu
+  - DOMAIN-SUFFIX,yandex.lt
+  - DOMAIN-SUFFIX,yandex.md
+  - DOMAIN-SUFFIX,yandex.ru
+  - DOMAIN-SUFFIX,yandex.kz
+  - DOMAIN-SUFFIX,yandex.az
+  - DOMAIN-SUFFIX,yandex.sx
   - DOMAIN-SUFFIX,yandex.net
   - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,yandex.jobs
@@ -31,11 +31,11 @@ payload:
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
   - DOMAIN-SUFFIX,yandex.co.il
-  - DOMAIN-SUFFIX,yandex.com.tr
   - DOMAIN-SUFFIX,yandex.com.am
-  - DOMAIN-SUFFIX,yandex.com.ge
   - DOMAIN-SUFFIX,yandex.com.ru
   - DOMAIN-SUFFIX,yandex.com.ua
+  - DOMAIN-SUFFIX,yandex.com.ge
+  - DOMAIN-SUFFIX,yandex.com.tr
   - IP-CIDR,5.45.192.0/18
   - IP-CIDR,5.255.192.0/18
   - IP-CIDR,37.9.64.0/18

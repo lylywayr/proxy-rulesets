@@ -1,18 +1,18 @@
 # NAME: NYTimes
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:46:00.533751+00:00
+# UPDATED: 2026-07-05T06:32:22.233491+00:00
 payload:
+  - DOMAIN-SUFFIX,nyti.ms
   - DOMAIN-SUFFIX,nyt.net
   - DOMAIN-SUFFIX,nyt.com
-  - DOMAIN-SUFFIX,nyti.ms
-  - DOMAIN-SUFFIX,tynt.com
   - DOMAIN-SUFFIX,nytcn.me
+  - DOMAIN-SUFFIX,tynt.com
   - DOMAIN-SUFFIX,nytco.com
   - DOMAIN-SUFFIX,nytimg.com
   - DOMAIN-SUFFIX,nytlog.com
   - DOMAIN-SUFFIX,nytimes.com
-  - DOMAIN-SUFFIX,nytstyle.com
   - DOMAIN-SUFFIX,nytchina.com
+  - DOMAIN-SUFFIX,nytstyle.com
   - DOMAIN-SUFFIX,timestalks.com
   - DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net
   - DOMAIN-SUFFIX,d3lar09xbwlsge.cloudfront.net

@@ -1,17 +1,17 @@
 # NAME: Hupu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T07:45:41.732106+00:00
+# UPDATED: 2026-07-05T06:32:07.592607+00:00
 no_resolve: true
 domain_suffix_set:
-  - "hupu.gg"
   - "hupu.io"
+  - "hupu.gg"
   - "hupu.com"
   - "goalhi.cn"
   - "shihuo.cn"
-  - "hupujrs.com"
-  - "hupucdn.com"
   - "hellof1.com"
+  - "hupujrs.com"
   - "vwanjia.com"
+  - "hupucdn.com"
   - "hoopchina.com"
   - "afpchinesesports.com"
   - "hoopchina.com.cn"

@@ -1,6 +1,6 @@
 # NAME: 178
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:47:42.160832+00:00
+# UPDATED: 2026-07-05T06:00:22.088611+00:00
 # DOMAIN-SUFFIX: 22
 # TOTAL: 22
 
@@ -13,16 +13,16 @@ DOMAIN-SUFFIX,ngacn.cc
 DOMAIN-SUFFIX,a9vg.com
 DOMAIN-SUFFIX,766er.com
 DOMAIN-SUFFIX,carry6.cn
+DOMAIN-SUFFIX,xyous.com
 DOMAIN-SUFFIX,dospy.com
 DOMAIN-SUFFIX,tgbus.com
-DOMAIN-SUFFIX,xyous.com
 DOMAIN-SUFFIX,bigccq.cn
-DOMAIN-SUFFIX,carry6.com
 DOMAIN-SUFFIX,766app.com
-DOMAIN-SUFFIX,carry6.net
 DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,psnine.com
+DOMAIN-SUFFIX,carry6.com
+DOMAIN-SUFFIX,carry6.net
 DOMAIN-SUFFIX,766test.com
-DOMAIN-SUFFIX,tgbusdata.cn
 DOMAIN-SUFFIX,stargame.com
+DOMAIN-SUFFIX,tgbusdata.cn
 DOMAIN-SUFFIX,bjyueshenzj.com
