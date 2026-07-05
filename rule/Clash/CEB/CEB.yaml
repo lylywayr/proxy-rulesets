@@ -1,15 +1,15 @@
 # NAME: CEB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:01:00.211006+00:00
+# UPDATED: 2026-07-05T06:48:07.489562+00:00
 payload:
-  - DOMAIN-SUFFIX,ebscn.com
   - DOMAIN-SUFFIX,ebfcn.com
+  - DOMAIN-SUFFIX,ebscn.com
   - DOMAIN-SUFFIX,secec.com
   - DOMAIN-SUFFIX,eb-ind.com
   - DOMAIN-SUFFIX,ebchina.com
-  - DOMAIN-SUFFIX,cebbank.com
-  - DOMAIN-SUFFIX,ebtrust.com
   - DOMAIN-SUFFIX,ebasset.com
+  - DOMAIN-SUFFIX,ebtrust.com
+  - DOMAIN-SUFFIX,cebbank.com
   - DOMAIN-SUFFIX,ebscn-am.com
   - DOMAIN-SUFFIX,ceblease.com
   - DOMAIN-SUFFIX,ebfortune.com

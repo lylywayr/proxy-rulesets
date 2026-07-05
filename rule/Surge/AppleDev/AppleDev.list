@@ -1,32 +1,32 @@
 # NAME: AppleDev
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:59.921856+00:00
+# UPDATED: 2026-07-05T06:47:59.142552+00:00
 # DOMAIN-SUFFIX: 40
 # TOTAL: 40
 
 DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,swift.org
-DOMAIN-SUFFIX,webkit.org
 DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,macruby.com
-DOMAIN-SUFFIX,macruby.net
-DOMAIN-SUFFIX,carekit.org
+DOMAIN-SUFFIX,webkit.org
 DOMAIN-SUFFIX,macruby.org
+DOMAIN-SUFFIX,macruby.net
+DOMAIN-SUFFIX,macruby.com
+DOMAIN-SUFFIX,carekit.org
 DOMAIN-SUFFIX,webkitgtk.org
 DOMAIN-SUFFIX,wpewebkit.org
+DOMAIN-SUFFIX,webobjects.com
+DOMAIN-SUFFIX,researchkit.tv
+DOMAIN-SUFFIX,appleswift.com
+DOMAIN-SUFFIX,macosforge.org
+DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,servicetalk.io
 DOMAIN-SUFFIX,researchkit.hk
-DOMAIN-SUFFIX,appleswift.com
-DOMAIN-SUFFIX,researchkit.cn
-DOMAIN-SUFFIX,researchkit.tv
-DOMAIN-SUFFIX,webobjects.com
-DOMAIN-SUFFIX,macosforge.org
-DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.net
+DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,foundationdb.org
-DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,calendarserver.org
+DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,researchandcare.org
 DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,researchkit.com.cn

@@ -1,22 +1,22 @@
 # NAME: EastMoney
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:31.348541+00:00
+# UPDATED: 2026-07-05T07:45:26.341547+00:00
 # DOMAIN-SUFFIX: 33
 # TOTAL: 33
 
 DOMAIN-SUFFIX,18.cn
-DOMAIN-SUFFIX,emsec.hk
-DOMAIN-SUFFIX,dfcfs.cn
 DOMAIN-SUFFIX,caimi.cn
-DOMAIN-SUFFIX,dfcfw.com
-DOMAIN-SUFFIX,uufund.cn
-DOMAIN-SUFFIX,dfcfs.com
+DOMAIN-SUFFIX,dfcfs.cn
+DOMAIN-SUFFIX,emsec.hk
 DOMAIN-SUFFIX,95021.com
 DOMAIN-SUFFIX,xzsec.com
+DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,uufund.cn
 DOMAIN-SUFFIX,langke.tv
-DOMAIN-SUFFIX,uufund.com
-DOMAIN-SUFFIX,txjhqh.com
+DOMAIN-SUFFIX,dfcfs.com
 DOMAIN-SUFFIX,zhaiba.com
+DOMAIN-SUFFIX,txjhqh.com
+DOMAIN-SUFFIX,uufund.com
 DOMAIN-SUFFIX,huoqibao.cn
 DOMAIN-SUFFIX,dingqibao.cn
 DOMAIN-SUFFIX,huoqibao.com
@@ -26,14 +26,14 @@ DOMAIN-SUFFIX,zhongcaisuo.cn
 DOMAIN-SUFFIX,haitunzhibo.com
 DOMAIN-SUFFIX,zhongcaisuo.com
 DOMAIN-SUFFIX,tiantianfunds.cn
-DOMAIN-SUFFIX,dongfanglicaishi.com
 DOMAIN-SUFFIX,eastmoneyfutures.com
+DOMAIN-SUFFIX,dongfanglicaishi.com
 DOMAIN-SUFFIX,18.com.cn
 DOMAIN-SUFFIX,guba.com.cn
 DOMAIN-SUFFIX,caimi.com.cn
 DOMAIN-SUFFIX,samacn.org.cn
 DOMAIN-SUFFIX,1234567.com.cn
 DOMAIN-SUFFIX,huoqibao.com.cn
-DOMAIN-SUFFIX,dingqibao.com.cn
 DOMAIN-SUFFIX,caifutong.com.cn
+DOMAIN-SUFFIX,dingqibao.com.cn
 DOMAIN-SUFFIX,zhongcaisuo.com.cn

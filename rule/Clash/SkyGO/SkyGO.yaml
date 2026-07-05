@@ -1,6 +1,6 @@
 # NAME: SkyGO
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:42:59.302828+00:00
+# UPDATED: 2026-07-05T07:49:52.451801+00:00
 payload:
   - DOMAIN,7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com
   - DOMAIN,clientstream.launchdarkly.com

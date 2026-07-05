@@ -1,6 +1,6 @@
 # NAME: GoogleFCM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:07.457191+00:00
+# UPDATED: 2026-07-05T07:45:36.635648+00:00
 no_resolve: true
 domain_set:
   - "alt1-mtalk.google.com"

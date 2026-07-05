@@ -1,13 +1,13 @@
 # NAME: EHGallery
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:31.358634+00:00
+# UPDATED: 2026-07-05T07:45:26.589053+00:00
 no_resolve: true
 domain_suffix_set:
   - "ehgt.org"
   - "ehwiki.org"
-  - "exhentai.org"
   - "hath.network"
   - "e-hentai.org"
+  - "exhentai.org"
   - "hentaiverse.org"
 ip_cidr_set:
   - "178.175.128.0/21"

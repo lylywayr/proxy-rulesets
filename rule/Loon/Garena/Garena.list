@@ -1,21 +1,21 @@
 # NAME: Garena
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:31.505867+00:00
+# UPDATED: 2026-07-05T07:45:30.833708+00:00
 # DOMAIN-SUFFIX: 15
 # TOTAL: 15
 
-DOMAIN-SUFFIX,garena.tw
-DOMAIN-SUFFIX,garena.tv
-DOMAIN-SUFFIX,garena.my
+DOMAIN-SUFFIX,garena.sg
 DOMAIN-SUFFIX,garena.ph
 DOMAIN-SUFFIX,garena.vn
-DOMAIN-SUFFIX,garena.sg
+DOMAIN-SUFFIX,garena.tw
+DOMAIN-SUFFIX,garena.my
+DOMAIN-SUFFIX,garena.tv
 DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,garena.live
 DOMAIN-SUFFIX,seagroup.com
 DOMAIN-SUFFIX,garenanow.com
-DOMAIN-SUFFIX,garena.co.th
 DOMAIN-SUFFIX,garena.co.id
+DOMAIN-SUFFIX,garena.co.th
 DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
 DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
 DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net

@@ -1,6 +1,6 @@
 # NAME: AOL
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:44.838156+00:00
+# UPDATED: 2026-07-05T06:47:55.777331+00:00
 payload:
   - DOMAIN-SUFFIX,aol.ca
   - DOMAIN-SUFFIX,aol.com

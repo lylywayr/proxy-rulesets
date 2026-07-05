@@ -1,15 +1,15 @@
 # NAME: JinJiangWenXue
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:07.745412+00:00
+# UPDATED: 2026-07-05T07:45:45.692595+00:00
 # DOMAIN-SUFFIX: 7
 # PROCESS-NAME: 1
 # TOTAL: 8
 
 DOMAIN-SUFFIX,jjwxc.cn
-DOMAIN-SUFFIX,jjwxc.org
-DOMAIN-SUFFIX,jjwxc.net
-DOMAIN-SUFFIX,jjwxc.com
 DOMAIN-SUFFIX,jjycw.net
+DOMAIN-SUFFIX,jjwxc.com
+DOMAIN-SUFFIX,jjwxc.net
+DOMAIN-SUFFIX,jjwxc.org
 DOMAIN-SUFFIX,robook.com
 DOMAIN-SUFFIX,chaba123.com
 PROCESS-NAME,com.jjwxc.reader

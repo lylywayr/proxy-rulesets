@@ -1,35 +1,35 @@
 # NAME: ThomsonReuters
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:00.771416+00:00
+# UPDATED: 2026-07-05T07:49:59.172635+00:00
 payload:
   - DOMAIN-SUFFIX,tr.com
-  - DOMAIN-SUFFIX,tmsnrt.rs
   - DOMAIN-SUFFIX,elite.com
+  - DOMAIN-SUFFIX,tmsnrt.rs
   - DOMAIN-SUFFIX,reuters.tv
   - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,aranzadi.es
-  - DOMAIN-SUFFIX,reutersagency.cn
   - DOMAIN-SUFFIX,reutersmedia.net
   - DOMAIN-SUFFIX,legaltracker.com
+  - DOMAIN-SUFFIX,reutersagency.cn
   - DOMAIN-SUFFIX,thomsonreuters.cn
+  - DOMAIN-SUFFIX,thomsonreuters.ru
+  - DOMAIN-SUFFIX,thomsonreuters.ca
   - DOMAIN-SUFFIX,thomsonreuters.in
   - DOMAIN-SUFFIX,thomsonreuters.es
-  - DOMAIN-SUFFIX,thomsonreuters.ca
-  - DOMAIN-SUFFIX,thomsonreuters.ru
   - DOMAIN-SUFFIX,thomsonreuters.com
   - DOMAIN-SUFFIX,thomsonreutersmexico.com
   - DOMAIN-SUFFIX,corepublishingsolutions.com
   - DOMAIN-SUFFIX,livrariart.com.br
-  - DOMAIN-SUFFIX,thomsonreuters.co.jp
   - DOMAIN-SUFFIX,thomsonreuters.co.nz
+  - DOMAIN-SUFFIX,thomsonreuters.co.jp
   - DOMAIN-SUFFIX,thomsonreuters.co.kr
   - DOMAIN-SUFFIX,thomsonreuters.co.uk
-  - DOMAIN-SUFFIX,thomsonreuters.com.au
-  - DOMAIN-SUFFIX,thomsonreuters.com.hk
-  - DOMAIN-SUFFIX,thomsonreuters.com.ar
-  - DOMAIN-SUFFIX,thomsonreuters.com.tr
-  - DOMAIN-SUFFIX,thomsonreuters.com.my
-  - DOMAIN-SUFFIX,thomsonreuters.com.br
   - DOMAIN-SUFFIX,sweetandmaxwell.co.uk
   - DOMAIN-SUFFIX,thomsonreuters.com.pe
+  - DOMAIN-SUFFIX,thomsonreuters.com.hk
+  - DOMAIN-SUFFIX,thomsonreuters.com.br
   - DOMAIN-SUFFIX,thomsonreuters.com.sg
+  - DOMAIN-SUFFIX,thomsonreuters.com.tr
+  - DOMAIN-SUFFIX,thomsonreuters.com.ar
+  - DOMAIN-SUFFIX,thomsonreuters.com.au
+  - DOMAIN-SUFFIX,thomsonreuters.com.my

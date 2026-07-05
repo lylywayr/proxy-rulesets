@@ -1,6 +1,6 @@
 # NAME: Global
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:39.142263+00:00
+# UPDATED: 2026-07-05T07:45:32.439384+00:00
 payload:
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,1e100

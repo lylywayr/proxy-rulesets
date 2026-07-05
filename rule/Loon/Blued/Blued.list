@@ -1,36 +1,36 @@
 # NAME: Blued
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:01:00.112069+00:00
+# UPDATED: 2026-07-05T06:48:04.467745+00:00
 # DOMAIN-SUFFIX: 33
 # TOTAL: 33
 
-DOMAIN-SUFFIX,blued.cn
 DOMAIN-SUFFIX,bf99.com
-DOMAIN-SUFFIX,blued.com
+DOMAIN-SUFFIX,blued.cn
 DOMAIN-SUFFIX,irisgw.cn
-DOMAIN-SUFFIX,irisdt.cn
+DOMAIN-SUFFIX,blued.com
 DOMAIN-SUFFIX,budimg.cn
+DOMAIN-SUFFIX,irisdt.cn
+DOMAIN-SUFFIX,irisgw.com
 DOMAIN-SUFFIX,irisdt.net
 DOMAIN-SUFFIX,danlan.org
-DOMAIN-SUFFIX,irisgw.com
-DOMAIN-SUFFIX,bldimg.com
 DOMAIN-SUFFIX,irisgw.net
 DOMAIN-SUFFIX,irisdt.com
+DOMAIN-SUFFIX,bldimg.com
 DOMAIN-SUFFIX,bldlive.com
-DOMAIN-SUFFIX,bluedimg.cn
 DOMAIN-SUFFIX,fleeper.com
+DOMAIN-SUFFIX,bluedimg.cn
 DOMAIN-SUFFIX,bluedimg.com
-DOMAIN-SUFFIX,danlancare.cn
 DOMAIN-SUFFIX,danlanlove.cn
 DOMAIN-SUFFIX,yijian-app.cn
-DOMAIN-SUFFIX,caihongqi.com
 DOMAIN-SUFFIX,bluedgames.cn
+DOMAIN-SUFFIX,danlancare.cn
+DOMAIN-SUFFIX,caihongqi.com
 DOMAIN-SUFFIX,blue-city.com
-DOMAIN-SUFFIX,ourbluecity.cn
 DOMAIN-SUFFIX,bluedgames.com
-DOMAIN-SUFFIX,xiaolanapp.com
 DOMAIN-SUFFIX,yijian-app.com
+DOMAIN-SUFFIX,xiaolanapp.com
 DOMAIN-SUFFIX,danlancare.com
+DOMAIN-SUFFIX,ourbluecity.cn
 DOMAIN-SUFFIX,danlanlove.com
 DOMAIN-SUFFIX,xiaogegelive.cn
 DOMAIN-SUFFIX,ourbluecity.com

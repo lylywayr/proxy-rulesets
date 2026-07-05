@@ -1,6 +1,6 @@
 window.__RULE_SITE_DATA__ = {
   "page_url": "https://lylywayr.github.io/proxy-rulesets/",
-  "generated_at": "2026-07-05T06:00:21.654326+00:00",
+  "generated_at": "2026-07-05T06:47:41.133370+00:00",
   "public_repository": "lylywayr/proxy-rulesets",
   "clients": [
     {

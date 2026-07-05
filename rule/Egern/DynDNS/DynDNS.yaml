@@ -1,13 +1,13 @@
 # NAME: DynDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:31.338542+00:00
+# UPDATED: 2026-07-05T07:45:25.946896+00:00
 no_resolve: true
 domain_suffix_set:
   - "dyn.com"
   - "dyndns.org"
-  - "from-pr.com"
-  - "blogdns.org"
   - "from-sd.com"
+  - "blogdns.org"
+  - "from-pr.com"
   - "dyndns-ip.com"
-  - "dyndns-pics.com"
   - "is-a-hunter.com"
+  - "dyndns-pics.com"

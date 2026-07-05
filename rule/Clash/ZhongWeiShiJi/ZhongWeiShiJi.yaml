@@ -1,21 +1,21 @@
 # NAME: ZhongWeiShiJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:02.807152+00:00
+# UPDATED: 2026-07-05T07:50:14.460345+00:00
 payload:
   - DOMAIN-SUFFIX,afdvr.cc
   - DOMAIN-SUFFIX,nvsip.com
-  - DOMAIN-SUFFIX,soovvi.com
   - DOMAIN-SUFFIX,sunywo.com
-  - DOMAIN-SUFFIX,jovetech.cn
+  - DOMAIN-SUFFIX,soovvi.com
   - DOMAIN-SUFFIX,jovision.cn
+  - DOMAIN-SUFFIX,jovetech.cn
   - DOMAIN-SUFFIX,jovmall.com
-  - DOMAIN-SUFFIX,jovetech.com
-  - DOMAIN-SUFFIX,jovcloud.com
-  - DOMAIN-SUFFIX,cloudsee.com
   - DOMAIN-SUFFIX,cloudsee.net
   - DOMAIN-SUFFIX,jovision.com
+  - DOMAIN-SUFFIX,jovetech.com
+  - DOMAIN-SUFFIX,cloudsee.com
+  - DOMAIN-SUFFIX,jovcloud.com
   - DOMAIN-SUFFIX,xunvision.com
   - DOMAIN-SUFFIX,jovisionai.com
   - DOMAIN-SUFFIX,cloudseetech.com
-  - DOMAIN-SUFFIX,aiwei365.net.cn
   - DOMAIN-SUFFIX,aiwei365.com.cn
+  - DOMAIN-SUFFIX,aiwei365.net.cn

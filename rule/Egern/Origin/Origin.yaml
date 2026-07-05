@@ -1,6 +1,6 @@
 # NAME: Origin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:22.838345+00:00
+# UPDATED: 2026-07-05T07:46:02.024305+00:00
 no_resolve: true
 domain_set:
   - "cloudsync-prod.s3.amazonaws.com"

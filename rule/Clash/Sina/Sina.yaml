@@ -1,112 +1,112 @@
 # NAME: Sina
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:42:59.294829+00:00
+# UPDATED: 2026-07-05T07:49:52.191797+00:00
 payload:
   - DOMAIN-SUFFIX,t.cn
   - DOMAIN-SUFFIX,ufc.cn
-  - DOMAIN-SUFFIX,sina.cn
-  - DOMAIN-SUFFIX,wcdn.cn
   - DOMAIN-SUFFIX,7g8g.cn
+  - DOMAIN-SUFFIX,wcdn.cn
+  - DOMAIN-SUFFIX,sina.cn
   - DOMAIN-SUFFIX,sina.com
   - DOMAIN-SUFFIX,weibo.tv
   - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-SUFFIX,leju.com
   - DOMAIN-SUFFIX,sina.net
-  - DOMAIN-SUFFIX,vmoso.cn
   - DOMAIN-SUFFIX,imark.cn
   - DOMAIN-SUFFIX,wbimg.cn
-  - DOMAIN-SUFFIX,wan68.com
-  - DOMAIN-SUFFIX,wbimg.com
-  - DOMAIN-SUFFIX,1kapp.com
-  - DOMAIN-SUFFIX,sinajs.cn
-  - DOMAIN-SUFFIX,xiaoka.tv
-  - DOMAIN-SUFFIX,ikaola.cn
-  - DOMAIN-SUFFIX,twgame.cn
-  - DOMAIN-SUFFIX,weibo.com
-  - DOMAIN-SUFFIX,97973.com
+  - DOMAIN-SUFFIX,vmoso.cn
   - DOMAIN-SUFFIX,weipan.cn
-  - DOMAIN-SUFFIX,sinaapp.cn
-  - DOMAIN-SUFFIX,saebbs.com
+  - DOMAIN-SUFFIX,97973.com
+  - DOMAIN-SUFFIX,sinajs.cn
+  - DOMAIN-SUFFIX,1kapp.com
+  - DOMAIN-SUFFIX,wbimg.com
+  - DOMAIN-SUFFIX,wan68.com
+  - DOMAIN-SUFFIX,weibo.com
+  - DOMAIN-SUFFIX,xiaoka.tv
+  - DOMAIN-SUFFIX,twgame.cn
+  - DOMAIN-SUFFIX,ikaola.cn
   - DOMAIN-SUFFIX,smtcdn.com
   - DOMAIN-SUFFIX,sinajs.com
-  - DOMAIN-SUFFIX,paogame.cn
-  - DOMAIN-SUFFIX,sc2yun.com
-  - DOMAIN-SUFFIX,picself.cn
-  - DOMAIN-SUFFIX,ilangqu.cn
   - DOMAIN-SUFFIX,sinas3.net
-  - DOMAIN-SUFFIX,kandian.cn
-  - DOMAIN-SUFFIX,talldns.cn
-  - DOMAIN-SUFFIX,wapone.net
+  - DOMAIN-SUFFIX,sc2yun.com
   - DOMAIN-SUFFIX,sinas3.com
+  - DOMAIN-SUFFIX,sinaurl.cn
+  - DOMAIN-SUFFIX,kandian.cn
+  - DOMAIN-SUFFIX,ilangqu.cn
+  - DOMAIN-SUFFIX,saebbs.com
+  - DOMAIN-SUFFIX,wapone.net
+  - DOMAIN-SUFFIX,picself.cn
+  - DOMAIN-SUFFIX,talldns.cn
+  - DOMAIN-SUFFIX,paogame.cn
   - DOMAIN-SUFFIX,kandian.tv
   - DOMAIN-SUFFIX,sinaimg.cn
-  - DOMAIN-SUFFIX,sinaurl.cn
-  - DOMAIN-SUFFIX,sinauda.com
-  - DOMAIN-SUFFIX,sinaapp.com
-  - DOMAIN-SUFFIX,aduspot.com
-  - DOMAIN-SUFFIX,sinacorp.cn
+  - DOMAIN-SUFFIX,sinaapp.cn
+  - DOMAIN-SUFFIX,kanyouxi.tv
+  - DOMAIN-SUFFIX,sinacdn.com
+  - DOMAIN-SUFFIX,sinanet.com
+  - DOMAIN-SUFFIX,xhaiwai.com
   - DOMAIN-SUFFIX,sinaedge.cn
   - DOMAIN-SUFFIX,miaopai.com
-  - DOMAIN-SUFFIX,weibocdn.cn
-  - DOMAIN-SUFFIX,sinanet.com
-  - DOMAIN-SUFFIX,dnssina.com
-  - DOMAIN-SUFFIX,talldns.net
-  - DOMAIN-SUFFIX,sinacdn.com
-  - DOMAIN-SUFFIX,simadata.cn
-  - DOMAIN-SUFFIX,appsina.com
-  - DOMAIN-SUFFIX,xhaiwai.com
-  - DOMAIN-SUFFIX,kanyouxi.cn
-  - DOMAIN-SUFFIX,001wifi.com
-  - DOMAIN-SUFFIX,huoxing.com
-  - DOMAIN-SUFFIX,talldns.com
-  - DOMAIN-SUFFIX,kanyouxi.tv
-  - DOMAIN-SUFFIX,4sender.com
-  - DOMAIN-SUFFIX,ilangqu.com
-  - DOMAIN-SUFFIX,maileds.com
-  - DOMAIN-SUFFIX,4sender.net
   - DOMAIN-SUFFIX,qingmail.cn
-  - DOMAIN-SUFFIX,sinaimg.com
-  - DOMAIN-SUFFIX,sinasws.com
-  - DOMAIN-SUFFIX,kandian.net
+  - DOMAIN-SUFFIX,001wifi.com
+  - DOMAIN-SUFFIX,sinaapp.com
+  - DOMAIN-SUFFIX,ilangqu.com
   - DOMAIN-SUFFIX,kandian.com
-  - DOMAIN-SUFFIX,qingmail.com
-  - DOMAIN-SUFFIX,sinadaxue.cn
-  - DOMAIN-SUFFIX,mingxigu.com
-  - DOMAIN-SUFFIX,weiboums.com
-  - DOMAIN-SUFFIX,sinaedge.com
-  - DOMAIN-SUFFIX,appchizi.com
+  - DOMAIN-SUFFIX,kanyouxi.cn
+  - DOMAIN-SUFFIX,4sender.com
+  - DOMAIN-SUFFIX,sinacorp.cn
+  - DOMAIN-SUFFIX,sinaimg.com
+  - DOMAIN-SUFFIX,sinauda.com
+  - DOMAIN-SUFFIX,talldns.net
+  - DOMAIN-SUFFIX,talldns.com
+  - DOMAIN-SUFFIX,aduspot.com
+  - DOMAIN-SUFFIX,kandian.net
+  - DOMAIN-SUFFIX,maileds.com
+  - DOMAIN-SUFFIX,weibocdn.cn
+  - DOMAIN-SUFFIX,appsina.com
+  - DOMAIN-SUFFIX,sinasws.com
+  - DOMAIN-SUFFIX,4sender.net
+  - DOMAIN-SUFFIX,dnssina.com
+  - DOMAIN-SUFFIX,simadata.cn
+  - DOMAIN-SUFFIX,huoxing.com
+  - DOMAIN-SUFFIX,sinanode.com
   - DOMAIN-SUFFIX,sinacloud.cn
   - DOMAIN-SUFFIX,weibocdn.com
-  - DOMAIN-SUFFIX,sinanode.com
-  - DOMAIN-SUFFIX,kanyouxi.com
+  - DOMAIN-SUFFIX,sinaedge.com
+  - DOMAIN-SUFFIX,sinadaxue.cn
   - DOMAIN-SUFFIX,videoself.cn
+  - DOMAIN-SUFFIX,weiboums.com
+  - DOMAIN-SUFFIX,appchizi.com
   - DOMAIN-SUFFIX,applinzi.com
-  - DOMAIN-SUFFIX,sinacloud.net
+  - DOMAIN-SUFFIX,kanyouxi.com
+  - DOMAIN-SUFFIX,mingxigu.com
+  - DOMAIN-SUFFIX,qingmail.com
   - DOMAIN-SUFFIX,vshoucang.com
-  - DOMAIN-SUFFIX,sinadaxue.com
   - DOMAIN-SUFFIX,sinacloud.com
-  - DOMAIN-SUFFIX,vipsinaapp.com
+  - DOMAIN-SUFFIX,sinacloud.net
+  - DOMAIN-SUFFIX,sinadaxue.com
   - DOMAIN-SUFFIX,sinastorage.cn
-  - DOMAIN-SUFFIX,senderline.net
-  - DOMAIN-SUFFIX,senderline.com
+  - DOMAIN-SUFFIX,vipsinaapp.com
   - DOMAIN-SUFFIX,vipappsina.com
-  - DOMAIN-SUFFIX,volleychina.org
-  - DOMAIN-SUFFIX,51xiancheng.com
+  - DOMAIN-SUFFIX,senderline.com
+  - DOMAIN-SUFFIX,senderline.net
   - DOMAIN-SUFFIX,sinastorage.com
+  - DOMAIN-SUFFIX,51xiancheng.com
+  - DOMAIN-SUFFIX,volleychina.org
   - DOMAIN-SUFFIX,cva.com.cn
-  - DOMAIN-SUFFIX,sina.com.cn
   - DOMAIN-SUFFIX,ctws.com.cn
-  - DOMAIN-SUFFIX,weibo.com.cn
+  - DOMAIN-SUFFIX,sina.com.cn
   - DOMAIN-SUFFIX,wbimg.com.cn
-  - DOMAIN-SUFFIX,weipan.com.cn
+  - DOMAIN-SUFFIX,weibo.com.cn
   - DOMAIN-SUFFIX,twgame.com.cn
-  - DOMAIN-SUFFIX,picself.com.cn
-  - DOMAIN-SUFFIX,sinaimg.com.cn
-  - DOMAIN-SUFFIX,ilangqu.com.cn
+  - DOMAIN-SUFFIX,weipan.com.cn
   - DOMAIN-SUFFIX,yangfan.org.cn
+  - DOMAIN-SUFFIX,ilangqu.com.cn
+  - DOMAIN-SUFFIX,sinaimg.com.cn
+  - DOMAIN-SUFFIX,picself.com.cn
   - DOMAIN-SUFFIX,kanyouxi.com.cn
-  - DOMAIN-SUFFIX,sinacloud.com.cn
   - DOMAIN-SUFFIX,sinadaxue.com.cn
+  - DOMAIN-SUFFIX,sinacloud.com.cn
   - DOMAIN-SUFFIX,adimages.sina.com.hk
   - DOMAIN-SUFFIX,oascentral.sina.com.hk
   - DOMAIN-KEYWORD,weibo

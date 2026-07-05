@@ -1,11 +1,11 @@
 # NAME: HuluJP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:07.579608+00:00
+# UPDATED: 2026-07-05T07:45:41.255504+00:00
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 
 DOMAIN-SUFFIX,hulu.jp
-DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,yb.uncn.jp

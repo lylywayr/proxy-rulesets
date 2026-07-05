@@ -1,10 +1,10 @@
 # NAME: Notion
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:22.213490+00:00
+# UPDATED: 2026-07-05T07:45:59.756321+00:00
 payload:
   - DOMAIN,http-inputs-notion.splunkcloud.com
   - DOMAIN-SUFFIX,notion.so
-  - DOMAIN-SUFFIX,notion.new
   - DOMAIN-SUFFIX,notion.com
+  - DOMAIN-SUFFIX,notion.new
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion-static.com

@@ -1,6 +1,6 @@
 # NAME: Akamai
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:44.722740+00:00
+# UPDATED: 2026-07-05T06:47:52.405025+00:00
 payload:
   - DOMAIN-SUFFIX,akamai.net
   - DOMAIN-SUFFIX,akamai.com

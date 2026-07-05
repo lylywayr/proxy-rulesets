@@ -1,16 +1,16 @@
 # NAME: Funshion
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:31.482350+00:00
+# UPDATED: 2026-07-05T07:45:30.446580+00:00
 # DOMAIN-SUFFIX: 10
 # TOTAL: 10
 
 DOMAIN-SUFFIX,fun.tv
 DOMAIN-SUFFIX,fspcdn.com
 DOMAIN-SUFFIX,ibidian.com
-DOMAIN-SUFFIX,funshion.tv
 DOMAIN-SUFFIX,jvcsmart.cn
+DOMAIN-SUFFIX,funshion.tv
 DOMAIN-SUFFIX,funshion.com
-DOMAIN-SUFFIX,funshion.net
-DOMAIN-SUFFIX,9iwanwan.com
 DOMAIN-SUFFIX,9ixiuxiu.com
+DOMAIN-SUFFIX,9iwanwan.com
+DOMAIN-SUFFIX,funshion.net
 DOMAIN-SUFFIX,jvcsmart.com.cn

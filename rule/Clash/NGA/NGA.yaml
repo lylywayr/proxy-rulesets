@@ -1,6 +1,6 @@
 # NAME: NGA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:22.188848+00:00
+# UPDATED: 2026-07-05T07:45:58.812953+00:00
 payload:
   - DOMAIN-SUFFIX,nga.cn
   - DOMAIN-SUFFIX,178.com

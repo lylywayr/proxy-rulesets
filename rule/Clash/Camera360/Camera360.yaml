@@ -1,6 +1,6 @@
 # NAME: Camera360
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:01:00.190005+00:00
+# UPDATED: 2026-07-05T06:48:06.683726+00:00
 payload:
   - DOMAIN-SUFFIX,360in.com
   - DOMAIN-SUFFIX,ypjc.cloud

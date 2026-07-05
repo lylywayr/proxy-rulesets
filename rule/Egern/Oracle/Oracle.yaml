@@ -1,29 +1,29 @@
 # NAME: Oracle
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:22.829974+00:00
+# UPDATED: 2026-07-05T07:46:01.719706+00:00
 no_resolve: true
 domain_suffix_set:
   - "java"
   - "oracle"
   - "sun.com"
+  - "java.com"
   - "java.net"
   - "en25.com"
-  - "java.com"
-  - "eloqua.com"
   - "oracle.com"
+  - "eloqua.com"
   - "bronto.com"
   - "addthis.com"
   - "bluekai.com"
+  - "oracleimg.com"
   - "responsys.net"
   - "covid19rx.org"
-  - "oracleimg.com"
-  - "covid19-rx.org"
   - "addthiscdn.com"
-  - "oraclecloud.com"
+  - "covid19-rx.org"
   - "addthisedge.com"
+  - "oraclecloud.com"
   - "ateam-oracle.com"
-  - "eloquaeditors.com"
   - "eloquapreview.com"
+  - "eloquaeditors.com"
   - "oracleinfinity.io"
   - "oraclefoundation.org"
   - "addthis.com.edgekey.net"

@@ -1,29 +1,29 @@
 # NAME: DuoWan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:31.335541+00:00
+# UPDATED: 2026-07-05T07:45:25.795470+00:00
 no_resolve: true
 domain_suffix_set:
   - "yy.com"
   - "joyy.com"
   - "5253.com"
   - "hiido.cn"
+  - "hiido.net"
+  - "huanju.cn"
   - "hiido.com"
   - "bigda.com"
   - "duowan.cn"
-  - "hiido.net"
-  - "huanju.cn"
-  - "huanju.net"
   - "duowan.com"
-  - "joyyinc.com"
-  - "zhiniu8.com"
-  - "vooedit.com"
+  - "huanju.net"
   - "joyyued.com"
+  - "vooedit.com"
+  - "zhiniu8.com"
+  - "joyyinc.com"
   - "yystatic.com"
-  - "pikoplay.com"
-  - "dwstatic.com"
   - "bcshipgo.com"
   - "yyclouds.com"
+  - "pikoplay.com"
   - "chinaduo.com"
+  - "dwstatic.com"
   - "yygamedev.com"
   - "huanjuyun.com"
   - "blogchina.org"

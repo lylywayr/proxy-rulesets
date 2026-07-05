@@ -1,21 +1,21 @@
 # NAME: Epic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:31.385047+00:00
+# UPDATED: 2026-07-05T07:45:27.600662+00:00
 # DOMAIN-SUFFIX: 15
 # TOTAL: 15
 
 DOMAIN-SUFFIX,easy.ac
 DOMAIN-SUFFIX,spyjinx.com
-DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,eac-cdn.com
+DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,fortnite.com
+DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,roborecall.com
 DOMAIN-SUFFIX,playparagon.com
 DOMAIN-SUFFIX,unrealengine.com
-DOMAIN-SUFFIX,shadowcomplex.com
 DOMAIN-SUFFIX,easyanticheat.net
+DOMAIN-SUFFIX,shadowcomplex.com
 DOMAIN-SUFFIX,battlebreakers.com
 DOMAIN-SUFFIX,unrealtournament.com

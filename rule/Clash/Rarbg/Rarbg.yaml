@@ -1,6 +1,6 @@
 # NAME: Rarbg
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:42:59.187711+00:00
+# UPDATED: 2026-07-05T07:49:49.178564+00:00
 payload:
   - DOMAIN-SUFFIX,rarbg.me
   - DOMAIN-SUFFIX,rarbg.is
@@ -8,19 +8,19 @@ payload:
   - DOMAIN-SUFFIX,dyncdn.me
   - DOMAIN-SUFFIX,rarbgs.com
   - DOMAIN-SUFFIX,rarbg.link
-  - DOMAIN-SUFFIX,rarbgto.org
   - DOMAIN-SUFFIX,rarbggo.org
+  - DOMAIN-SUFFIX,rarbgto.org
   - DOMAIN-SUFFIX,rarbgprx.org
-  - DOMAIN-SUFFIX,rarbgway.org
   - DOMAIN-SUFFIX,rarbgget.org
+  - DOMAIN-SUFFIX,rarbgway.org
   - DOMAIN-SUFFIX,proxyrarbg.org
   - DOMAIN-SUFFIX,rarbgproxy.org
+  - DOMAIN-SUFFIX,rarbgaccess.org
   - DOMAIN-SUFFIX,rarbgmirror.com
   - DOMAIN-SUFFIX,rarbgmirror.org
   - DOMAIN-SUFFIX,rarbgmirror.xyz
-  - DOMAIN-SUFFIX,rarbgaccess.org
   - DOMAIN-SUFFIX,rarbgunblock.com
   - DOMAIN-SUFFIX,rarbgunblock.org
   - DOMAIN-SUFFIX,rarbgaccessed.org
-  - DOMAIN-SUFFIX,rarbg.unblocked.vc
   - DOMAIN-SUFFIX,rarbg.bypassed.org
+  - DOMAIN-SUFFIX,rarbg.unblocked.vc

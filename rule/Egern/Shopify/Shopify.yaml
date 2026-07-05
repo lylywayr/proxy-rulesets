@@ -1,11 +1,11 @@
 # NAME: Shopify
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:42:59.290829+00:00
+# UPDATED: 2026-07-05T07:49:52.076067+00:00
 no_resolve: true
 domain_suffix_set:
   - "shop.app"
-  - "shopify.com"
   - "shopify.dev"
+  - "shopify.com"
   - "myshopify.com"
   - "shopifysvc.com"
   - "shopifycdn.com"

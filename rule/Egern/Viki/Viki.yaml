@@ -1,6 +1,6 @@
 # NAME: Viki
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:01.780667+00:00
+# UPDATED: 2026-07-05T07:50:04.558262+00:00
 no_resolve: true
 domain_suffix_set:
   - "viki.io"

@@ -1,26 +1,26 @@
 # NAME: Bloomberg
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:01:00.109069+00:00
+# UPDATED: 2026-07-05T06:48:04.303516+00:00
 payload:
   - DOMAIN-SUFFIX,bwbx.io
   - DOMAIN-SUFFIX,bnef.com
   - DOMAIN-SUFFIX,bmia.org
   - DOMAIN-SUFFIX,citylab.com
-  - DOMAIN-SUFFIX,bloomberg.fm
   - DOMAIN-SUFFIX,tictoc.video
   - DOMAIN-SUFFIX,bloomberg.tv
+  - DOMAIN-SUFFIX,bloomberg.fm
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,gotraffic.net
   - DOMAIN-SUFFIX,quicktake.video
   - DOMAIN-SUFFIX,businessweek.com
-  - DOMAIN-SUFFIX,bloombergbeta.com
   - DOMAIN-SUFFIX,bloombergapps.com
+  - DOMAIN-SUFFIX,bloombergbeta.com
+  - DOMAIN-SUFFIX,techatbloomberg.com
   - DOMAIN-SUFFIX,blpprofessional.com
   - DOMAIN-SUFFIX,neweconomyforum.com
-  - DOMAIN-SUFFIX,businessweekmag.com
-  - DOMAIN-SUFFIX,londonmithraeum.com
-  - DOMAIN-SUFFIX,techatbloomberg.com
   - DOMAIN-SUFFIX,bloombergarcade.com
+  - DOMAIN-SUFFIX,londonmithraeum.com
+  - DOMAIN-SUFFIX,businessweekmag.com
   - DOMAIN-SUFFIX,newenergyfinance.com
   - DOMAIN-SUFFIX,bloomberg.co.kr
   - DOMAIN-SUFFIX,bloomberg.com.br

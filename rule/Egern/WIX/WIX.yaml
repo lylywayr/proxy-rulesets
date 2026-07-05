@@ -1,13 +1,13 @@
 # NAME: WIX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:01.882757+00:00
+# UPDATED: 2026-07-05T07:50:08.330376+00:00
 no_resolve: true
 domain_suffix_set:
   - "wix.com"
   - "wixmp.com"
+  - "wixsite.com"
   - "wixapps.net"
   - "editorx.com"
-  - "wixsite.com"
   - "wix-code.com"
   - "wixstatic.com"
   - "wixanswers.com"

@@ -1,24 +1,24 @@
 # NAME: Naver
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:20.743975+00:00
+# UPDATED: 2026-07-05T07:45:57.750677+00:00
 payload:
   - DOMAIN,d17lx9ucc6k9fc.cloudfront.net
   - DOMAIN,d3c7rimkq79yfu.cloudfront.net
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,naver.jp
-  - DOMAIN-SUFFIX,plug.game
-  - DOMAIN-SUFFIX,naver.net
   - DOMAIN-SUFFIX,linetv.tw
+  - DOMAIN-SUFFIX,naver.net
+  - DOMAIN-SUFFIX,plug.game
   - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,nhncorp.jp
-  - DOMAIN-SUFFIX,linegame.jp
   - DOMAIN-SUFFIX,pstatic.net
-  - DOMAIN-SUFFIX,line-cdn.net
+  - DOMAIN-SUFFIX,linegame.jp
   - DOMAIN-SUFFIX,webtoons.com
-  - DOMAIN-SUFFIX,linecorp.com
-  - DOMAIN-SUFFIX,line-beta.me
   - DOMAIN-SUFFIX,grafolio.com
+  - DOMAIN-SUFFIX,line-beta.me
+  - DOMAIN-SUFFIX,linecorp.com
+  - DOMAIN-SUFFIX,line-cdn.net
   - DOMAIN-SUFFIX,line-apps.com
   - DOMAIN-SUFFIX,line-scdn.net
   - DOMAIN-SUFFIX,navercorp.com

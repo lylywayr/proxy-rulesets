@@ -1,6 +1,6 @@
 # NAME: AmazonPrimeVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:44.772028+00:00
+# UPDATED: 2026-07-05T06:47:53.843462+00:00
 no_resolve: true
 domain_set:
   - "d1v5ir2lpwr8os.cloudfront.net"
@@ -15,13 +15,13 @@ domain_suffix_set:
   - "primevideo.tv"
   - "primevideo.cc"
   - "primevideo.org"
-  - "amazonvideo.cc"
   - "primevideo.com"
+  - "amazonvideo.cc"
   - "primevideo.info"
   - "amazonvideo.com"
   - "prime-video.com"
-  - "aiv-delivery.net"
   - "media-amazon.com"
+  - "aiv-delivery.net"
   - "amazonprimevideo.cn"
   - "amazonprimevideos.com"
   - "atv-ps.amazon.com"

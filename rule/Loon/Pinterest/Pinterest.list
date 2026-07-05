@@ -1,27 +1,27 @@
 # NAME: Pinterest
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:22.903068+00:00
+# UPDATED: 2026-07-05T07:46:04.873401+00:00
 # DOMAIN-SUFFIX: 23
 # TOTAL: 23
 
 DOMAIN-SUFFIX,pinimg.com
-DOMAIN-SUFFIX,pinterest.cl
-DOMAIN-SUFFIX,pinterest.ca
-DOMAIN-SUFFIX,pinterest.nl
-DOMAIN-SUFFIX,pinterest.dk
-DOMAIN-SUFFIX,pinterest.es
-DOMAIN-SUFFIX,pinterest.se
-DOMAIN-SUFFIX,pinterest.de
-DOMAIN-SUFFIX,pinterest.it
-DOMAIN-SUFFIX,pinterest.ie
-DOMAIN-SUFFIX,pinterest.ph
-DOMAIN-SUFFIX,pinterest.at
-DOMAIN-SUFFIX,pinterest.pt
-DOMAIN-SUFFIX,pinterest.ch
-DOMAIN-SUFFIX,pinterest.ru
-DOMAIN-SUFFIX,pinterest.fr
 DOMAIN-SUFFIX,pinterest.nz
+DOMAIN-SUFFIX,pinterest.se
+DOMAIN-SUFFIX,pinterest.ph
+DOMAIN-SUFFIX,pinterest.ch
+DOMAIN-SUFFIX,pinterest.de
+DOMAIN-SUFFIX,pinterest.at
+DOMAIN-SUFFIX,pinterest.ie
+DOMAIN-SUFFIX,pinterest.it
 DOMAIN-SUFFIX,pinterest.jp
+DOMAIN-SUFFIX,pinterest.fr
+DOMAIN-SUFFIX,pinterest.ca
+DOMAIN-SUFFIX,pinterest.pt
+DOMAIN-SUFFIX,pinterest.cl
+DOMAIN-SUFFIX,pinterest.es
+DOMAIN-SUFFIX,pinterest.ru
+DOMAIN-SUFFIX,pinterest.dk
+DOMAIN-SUFFIX,pinterest.nl
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pinterest.co.uk
 DOMAIN-SUFFIX,pinterest.co.kr
