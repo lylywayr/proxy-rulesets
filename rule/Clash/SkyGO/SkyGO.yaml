@@ -1,14 +1,14 @@
 # NAME: SkyGO
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:42:59.302828+00:00
+# UPDATED: 2026-07-05T08:50:48.851499+00:00
 payload:
   - DOMAIN,7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com
   - DOMAIN,clientstream.launchdarkly.com
   - DOMAIN,sky.com.ssl.d1.sc.omtrdc.net
   - DOMAIN-SUFFIX,sky.com
   - DOMAIN-SUFFIX,2cnt.net
-  - DOMAIN-SUFFIX,skycdp.com
   - DOMAIN-SUFFIX,epgsky.com
+  - DOMAIN-SUFFIX,skycdp.com
   - DOMAIN-SUFFIX,skysports.com
   - DOMAIN-SUFFIX,skyanywhere.com
   - DOMAIN-SUFFIX,skygo.co.nz

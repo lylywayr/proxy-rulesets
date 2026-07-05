@@ -1,6 +1,6 @@
 # NAME: HamiVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:07.480191+00:00
+# UPDATED: 2026-07-05T08:45:16.999533+00:00
 payload:
   - DOMAIN,hls-hichannel.cdn.hinet.net
   - DOMAIN-SUFFIX,ott.hinet.net

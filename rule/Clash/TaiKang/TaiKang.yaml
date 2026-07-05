@@ -1,37 +1,37 @@
 # NAME: TaiKang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:42:59.420141+00:00
+# UPDATED: 2026-07-05T08:50:55.862406+00:00
 payload:
   - DOMAIN-SUFFIX,tk.cn
   - DOMAIN-SUFFIX,95522.cn
   - DOMAIN-SUFFIX,eagent.cn
   - DOMAIN-SUFFIX,taikang.com
-  - DOMAIN-SUFFIX,tk-life.com
   - DOMAIN-SUFFIX,12333tc.com
+  - DOMAIN-SUFFIX,tk-life.com
   - DOMAIN-SUFFIX,srch12333.cn
-  - DOMAIN-SUFFIX,jxch12333.com
-  - DOMAIN-SUFFIX,taikangph.com
-  - DOMAIN-SUFFIX,sdhz12333.com
-  - DOMAIN-SUFFIX,sdrz12333.com
-  - DOMAIN-SUFFIX,jmch12333.com
   - DOMAIN-SUFFIX,gzch12333.com
-  - DOMAIN-SUFFIX,tkmedicare.com
-  - DOMAIN-SUFFIX,taikanginv.com
+  - DOMAIN-SUFFIX,taikangph.com
+  - DOMAIN-SUFFIX,jxch12333.com
+  - DOMAIN-SUFFIX,jmch12333.com
+  - DOMAIN-SUFFIX,sdrz12333.com
+  - DOMAIN-SUFFIX,sdhz12333.com
   - DOMAIN-SUFFIX,tanxingfuli.cn
+  - DOMAIN-SUFFIX,taikanginv.com
+  - DOMAIN-SUFFIX,tkmedicare.com
   - DOMAIN-SUFFIX,shzch12333.com
   - DOMAIN-SUFFIX,taikanglife.cn
   - DOMAIN-SUFFIX,qqhrch12333.com
   - DOMAIN-SUFFIX,taikanglife.net
-  - DOMAIN-SUFFIX,taikanglife.com
   - DOMAIN-SUFFIX,tanxingfuli.com
-  - DOMAIN-SUFFIX,changhu12333.com
+  - DOMAIN-SUFFIX,taikanglife.com
+  - DOMAIN-SUFFIX,taikangonline.cn
   - DOMAIN-SUFFIX,tkhealthcare.com
   - DOMAIN-SUFFIX,bjsjsch12333.com
-  - DOMAIN-SUFFIX,taikangonline.cn
-  - DOMAIN-SUFFIX,taikangzhijia.com
-  - DOMAIN-SUFFIX,taikangonline.net
+  - DOMAIN-SUFFIX,changhu12333.com
   - DOMAIN-SUFFIX,taikangonline.com
+  - DOMAIN-SUFFIX,taikangonline.net
   - DOMAIN-SUFFIX,taihealthcare.com
+  - DOMAIN-SUFFIX,taikangzhijia.com
   - DOMAIN-SUFFIX,95522.net.cn
   - DOMAIN-SUFFIX,95522.com.cn
   - DOMAIN-SUFFIX,taikang.net.cn

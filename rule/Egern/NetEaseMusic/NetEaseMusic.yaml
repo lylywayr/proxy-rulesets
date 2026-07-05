@@ -1,14 +1,14 @@
 # NAME: NetEaseMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:20.760998+00:00
+# UPDATED: 2026-07-05T08:45:50.731428+00:00
 no_resolve: true
 domain_set:
   - "netease.ugcvideoss.ourdvs.com"
 domain_suffix_set:
   - "163yun.com"
   - "yun-app.net"
-  - "music.126.com"
   - "music.163.com"
+  - "music.126.com"
   - "music.126.net"
   - "hz.netease.com"
   - "mam.netease.com"

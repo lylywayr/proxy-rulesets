@@ -1,25 +1,25 @@
 # NAME: 51Job
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:22.549948+00:00
+# UPDATED: 2026-07-05T07:50:58.291971+00:00
 # DOMAIN-SUFFIX: 19
 # TOTAL: 19
 
 DOMAIN-SUFFIX,51hr.com
-DOMAIN-SUFFIX,51job.com
 DOMAIN-SUFFIX,myyjs.com
 DOMAIN-SUFFIX,51mdd.com
+DOMAIN-SUFFIX,51job.com
 DOMAIN-SUFFIX,51ideal.com
+DOMAIN-SUFFIX,maketion.com
 DOMAIN-SUFFIX,coolping.com
 DOMAIN-SUFFIX,51jobcdn.com
-DOMAIN-SUFFIX,maketion.com
 DOMAIN-SUFFIX,ibmcampus.com
-DOMAIN-SUFFIX,51miduoduo.com
 DOMAIN-SUFFIX,51laiqiang.com
 DOMAIN-SUFFIX,51jingying.com
+DOMAIN-SUFFIX,51miduoduo.com
 DOMAIN-SUFFIX,wuyoudagong.com
-DOMAIN-SUFFIX,yingjiesheng.com
-DOMAIN-SUFFIX,yingjiesheng.net
 DOMAIN-SUFFIX,yingjiesheng.org
+DOMAIN-SUFFIX,yingjiesheng.net
+DOMAIN-SUFFIX,yingjiesheng.com
 DOMAIN-SUFFIX,correlation-one.cn
-DOMAIN-SUFFIX,zhiding.com.cn
 DOMAIN-SUFFIX,xinghua.org.cn
+DOMAIN-SUFFIX,zhiding.com.cn

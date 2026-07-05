@@ -1,6 +1,6 @@
 # NAME: SystemOTA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:42:59.413385+00:00
+# UPDATED: 2026-07-05T08:50:55.307946+00:00
 no_resolve: true
 domain_set:
   - "appldnld-cdn.apple.com.akadns.net"
@@ -69,16 +69,16 @@ domain_set:
   - "xp.apple.com.mwcname.com"
   - "xp.g.aaplimg.com"
 domain_suffix_set:
-  - "mesu.apple.com"
-  - "ocsp.apple.com"
   - "gdmf.apple.com"
+  - "ocsp.apple.com"
+  - "mesu.apple.com"
   - "appldnld.apple.com"
   - "mesu.g.aaplimg.com"
   - "ocsp.g.aaplimg.com"
   - "appldnld.g.aaplimg.com"
   - "gdmf.apple.com.akadns.net"
   - "ocsp-lb.apple.com.akadns.net"
-  - "mesu-cdn.apple.com.akadns.net"
   - "appldnld.apple.com.akadns.net"
+  - "mesu-cdn.apple.com.akadns.net"
   - "appldnld-lb.apple.com.akadns.net"
   - "mesu-cdn.origin-apple.com.akadns.net"

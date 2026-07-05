@@ -32,7 +32,8 @@ Google 通用服务规则，不含 YouTube 独立分类。
 
 ### 客户端入口
 
-- [一键导入](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FGoogle%2FGoogle.yaml): 在 Egern 中预填 rule_set 规则，跳转后可直接保存为规则集。
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FGoogle%2FGoogle.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E8%B0%B7%E6%AD%8C&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FGoogle%2FGoogle.yaml): 按官方 URL Scheme 预填配置地址。
 
 ### 其他客户端直链
 

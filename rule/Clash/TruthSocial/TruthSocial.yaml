@@ -1,6 +1,6 @@
 # NAME: TruthSocial
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:01.686716+00:00
+# UPDATED: 2026-07-05T08:51:03.173516+00:00
 payload:
   - DOMAIN-SUFFIX,truthsocial.com
   - DOMAIN-SUFFIX,trk.bonsa.net

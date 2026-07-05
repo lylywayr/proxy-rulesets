@@ -1,19 +1,19 @@
 # NAME: SuiShiChuanMei
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:42:59.394578+00:00
+# UPDATED: 2026-07-05T08:50:54.633373+00:00
 # DOMAIN-SUFFIX: 14
 # TOTAL: 14
 
 DOMAIN-SUFFIX,adsit.cn
 DOMAIN-SUFFIX,mobhui.cn
-DOMAIN-SUFFIX,mipujia.cn
 DOMAIN-SUFFIX,quyaoya.cn
+DOMAIN-SUFFIX,mipujia.cn
 DOMAIN-SUFFIX,mobhui.com
-DOMAIN-SUFFIX,quyaoya.com
 DOMAIN-SUFFIX,mipujia.com
-DOMAIN-SUFFIX,ebaidutv.com
-DOMAIN-SUFFIX,91friend.com
+DOMAIN-SUFFIX,quyaoya.com
 DOMAIN-SUFFIX,weibopie.com
+DOMAIN-SUFFIX,91friend.com
+DOMAIN-SUFFIX,ebaidutv.com
 DOMAIN-SUFFIX,socialpls.com
 DOMAIN-SUFFIX,socialjia.com
 DOMAIN-SUFFIX,smartsocial.cn

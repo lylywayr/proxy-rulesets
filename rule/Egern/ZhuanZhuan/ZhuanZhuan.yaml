@@ -1,9 +1,9 @@
 # NAME: ZhuanZhuan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:02.817460+00:00
+# UPDATED: 2026-07-05T08:51:25.197525+00:00
 no_resolve: true
 domain_suffix_set:
   - "zhuancorp.com"
-  - "zhuanzhuan.com"
   - "zhuan-zhuan.cn"
+  - "zhuanzhuan.com"
   - "zhuanspirit.com"

@@ -1,6 +1,6 @@
 # NAME: AppleDaily
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:59.919850+00:00
+# UPDATED: 2026-07-05T07:51:21.342960+00:00
 no_resolve: true
 domain_suffix_set:
   - "next.hk"
@@ -9,29 +9,29 @@ domain_suffix_set:
   - "nextwork.tw"
   - "nextwork.hk"
   - "privilege.hk"
-  - "tomonews.net"
   - "privilege.tw"
+  - "tomonews.net"
   - "sharpdaily.tw"
+  - "omoplanet.com"
   - "appledaily.hk"
   - "nextmedia.com"
-  - "omoplanet.com"
   - "appledaily.com"
   - "applefruity.com"
   - "twnextdigital.com"
   - "bestmallawards.com"
   - "nxtdig.com.tw"
-  - "nxtdig.com.hk"
-  - "nexttv.com.tw"
   - "eracom.com.tw"
+  - "nexttv.com.tw"
+  - "nxtdig.com.hk"
   - "deluxe.com.hk"
   - "nextmag.com.tw"
+  - "nextwork.com.tw"
   - "nextwork.com.hk"
   - "nextplus.com.hk"
   - "nextfilm.com.hk"
-  - "nextwork.com.tw"
   - "nextmedia.com.tw"
   - "appledaily.com.hk"
   - "appledaily.com.tw"
+  - "nextdigital.com.hk"
   - "nextdigital.com.tw"
   - "applehealth.com.hk"
-  - "nextdigital.com.hk"

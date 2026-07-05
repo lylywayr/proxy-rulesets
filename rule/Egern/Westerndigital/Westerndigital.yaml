@@ -1,28 +1,28 @@
 # NAME: Westerndigital
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:01.852292+00:00
+# UPDATED: 2026-07-05T08:51:12.892783+00:00
 no_resolve: true
 domain_suffix_set:
   - "wd.com"
   - "wdc.com"
+  - "sandisk.de"
+  - "sandisk.nl"
+  - "sandisk.id"
+  - "sandisk.cn"
   - "sandisk.it"
+  - "sandisk.sg"
+  - "sandisk.fr"
+  - "sandisk.es"
   - "sandisk.ae"
   - "sandisk.hk"
-  - "sandisk.id"
-  - "sandisk.de"
-  - "sandisk.sg"
-  - "sandisk.es"
-  - "sandisk.fr"
   - "sandisk.in"
-  - "sandisk.cn"
-  - "sandisk.nl"
   - "sandisk.com"
   - "g-technology.com"
   - "westerndigital.com"
-  - "sandisk.co.jp"
   - "sandisk.co.uk"
   - "sandisk.co.kr"
+  - "sandisk.co.jp"
   - "sandisk.com.tw"
   - "sandisk.com.tr"
-  - "sandisk.com.br"
   - "sandisk.com.au"
+  - "sandisk.com.br"

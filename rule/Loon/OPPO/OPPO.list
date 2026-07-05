@@ -1,60 +1,60 @@
 # NAME: OPPO
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:22.824967+00:00
+# UPDATED: 2026-07-05T08:45:55.648763+00:00
 # DOMAIN-SUFFIX: 56
 # TOTAL: 56
 
-DOMAIN-SUFFIX,keke.cn
-DOMAIN-SUFFIX,ortc.cc
 DOMAIN-SUFFIX,oppo.cn
-DOMAIN-SUFFIX,opdwz.cn
+DOMAIN-SUFFIX,ortc.cc
+DOMAIN-SUFFIX,keke.cn
 DOMAIN-SUFFIX,zeku.com
-DOMAIN-SUFFIX,oppo.com
 DOMAIN-SUFFIX,omeet.cc
-DOMAIN-SUFFIX,heytap.cn
-DOMAIN-SUFFIX,oppo.mobi
-DOMAIN-SUFFIX,myoas.com
+DOMAIN-SUFFIX,opdwz.cn
+DOMAIN-SUFFIX,oppo.com
 DOMAIN-SUFFIX,vayol.com
 DOMAIN-SUFFIX,myoas.net
-DOMAIN-SUFFIX,oppoer.me
 DOMAIN-SUFFIX,oppoer.cn
+DOMAIN-SUFFIX,heytap.cn
+DOMAIN-SUFFIX,oppo.mobi
+DOMAIN-SUFFIX,oppoer.me
+DOMAIN-SUFFIX,myoas.com
+DOMAIN-SUFFIX,finzjr.com
 DOMAIN-SUFFIX,realme.com
 DOMAIN-SUFFIX,wanyol.com
-DOMAIN-SUFFIX,myoppo.com
-DOMAIN-SUFFIX,andes.tech
-DOMAIN-SUFFIX,finzjr.com
-DOMAIN-SUFFIX,heytap.com
 DOMAIN-SUFFIX,realme.net
-DOMAIN-SUFFIX,coloros.com
-DOMAIN-SUFFIX,opposhop.cn
-DOMAIN-SUFFIX,finzfin.com
+DOMAIN-SUFFIX,heytap.com
+DOMAIN-SUFFIX,andes.tech
+DOMAIN-SUFFIX,myoppo.com
 DOMAIN-SUFFIX,allawno.com
 DOMAIN-SUFFIX,coloros.net
-DOMAIN-SUFFIX,fenzijr.com
+DOMAIN-SUFFIX,coloros.com
 DOMAIN-SUFFIX,ibreeno.com
+DOMAIN-SUFFIX,opposhop.cn
+DOMAIN-SUFFIX,finzfin.com
 DOMAIN-SUFFIX,oppopay.com
+DOMAIN-SUFFIX,fenzijr.com
 DOMAIN-SUFFIX,allawnfs.com
-DOMAIN-SUFFIX,xiaobool.com
-DOMAIN-SUFFIX,heytapcs.com
-DOMAIN-SUFFIX,aibreeno.com
 DOMAIN-SUFFIX,oppofind.com
+DOMAIN-SUFFIX,aibreeno.com
+DOMAIN-SUFFIX,heytapcs.com
+DOMAIN-SUFFIX,xiaobool.com
+DOMAIN-SUFFIX,realmebbs.com
+DOMAIN-SUFFIX,breenomeet.cc
 DOMAIN-SUFFIX,opposales.com
 DOMAIN-SUFFIX,heytapugc.com
-DOMAIN-SUFFIX,breenomeet.cc
-DOMAIN-SUFFIX,realmebbs.com
-DOMAIN-SUFFIX,oplustrust.com
 DOMAIN-SUFFIX,andesbrain.com
+DOMAIN-SUFFIX,allawntech.com
 DOMAIN-SUFFIX,heytapcloud.cn
 DOMAIN-SUFFIX,oppomobile.com
+DOMAIN-SUFFIX,oplustrust.com
 DOMAIN-SUFFIX,heytapmobi.com
-DOMAIN-SUFFIX,allawntech.com
-DOMAIN-SUFFIX,heytapimage.com
 DOMAIN-SUFFIX,heytapcloud.com
+DOMAIN-SUFFIX,heytapimage.com
 DOMAIN-SUFFIX,oppodigital.com
-DOMAIN-SUFFIX,realmemobile.com
 DOMAIN-SUFFIX,oppodataintel.cn
-DOMAIN-SUFFIX,familyincloud.com
+DOMAIN-SUFFIX,realmemobile.com
 DOMAIN-SUFFIX,sj6rgxtjg3tmb.com
+DOMAIN-SUFFIX,familyincloud.com
 DOMAIN-SUFFIX,realmeservice.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,nearme.com.cn

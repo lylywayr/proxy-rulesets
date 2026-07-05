@@ -26,7 +26,7 @@
 
 ### 客户端入口
 
-- [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FThreads%2FThreads.list): 通过 Loon 统一链接直接添加远程规则集。
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FThreads%2FThreads.list): 通过 Loon 统一链接直接添加远程规则。
 
 ### 其他客户端直链
 

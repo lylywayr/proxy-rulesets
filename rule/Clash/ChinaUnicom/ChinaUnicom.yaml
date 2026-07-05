@@ -1,31 +1,31 @@
 # NAME: ChinaUnicom
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:22:04.642981+00:00
+# UPDATED: 2026-07-05T08:27:22.863395+00:00
 payload:
   - DOMAIN-SUFFIX,wo.cn
-  - DOMAIN-SUFFIX,cupb.cn
   - DOMAIN-SUFFIX,17wo.cn
+  - DOMAIN-SUFFIX,cupb.cn
   - DOMAIN-SUFFIX,cuecp.cn
   - DOMAIN-SUFFIX,10010.cn
   - DOMAIN-SUFFIX,mucfc.com
-  - DOMAIN-SUFFIX,gd165.com
-  - DOMAIN-SUFFIX,10010.net
   - DOMAIN-SUFFIX,10010.com
   - DOMAIN-SUFFIX,unimip.cn
+  - DOMAIN-SUFFIX,10010.net
+  - DOMAIN-SUFFIX,gd165.com
   - DOMAIN-SUFFIX,wom186.com
+  - DOMAIN-SUFFIX,wobaif.com
   - DOMAIN-SUFFIX,gd10010.cn
   - DOMAIN-SUFFIX,cu5gaia.cn
-  - DOMAIN-SUFFIX,wobaif.com
   - DOMAIN-SUFFIX,cu5gaia.com
-  - DOMAIN-SUFFIX,wo-link.tech
   - DOMAIN-SUFFIX,unicomgd.com
+  - DOMAIN-SUFFIX,wo-link.tech
   - DOMAIN-SUFFIX,chinaunicom.cn
   - DOMAIN-SUFFIX,chinaunicom.com
   - DOMAIN-SUFFIX,unicompayment.cn
-  - DOMAIN-SUFFIX,unicompayment.net
-  - DOMAIN-SUFFIX,unicompayment.com
   - DOMAIN-SUFFIX,unicompayment.org
   - DOMAIN-SUFFIX,mychinaunicom.com
+  - DOMAIN-SUFFIX,unicompayment.net
+  - DOMAIN-SUFFIX,unicompayment.com
   - DOMAIN-SUFFIX,chinaunicombidding.cn
   - DOMAIN-SUFFIX,chinaunicomglobal.com
   - DOMAIN-SUFFIX,wo.com.cn

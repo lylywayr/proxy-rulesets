@@ -1,8 +1,8 @@
 # NAME: 36kr
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:22.529947+00:00
+# UPDATED: 2026-07-05T07:50:56.844296+00:00
 payload:
   - DOMAIN-SUFFIX,36kr.com
-  - DOMAIN-SUFFIX,36krcnd.com
   - DOMAIN-SUFFIX,36krcdn.com
+  - DOMAIN-SUFFIX,36krcnd.com
   - DOMAIN-SUFFIX,36dianping.com

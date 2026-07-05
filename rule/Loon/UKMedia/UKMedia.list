@@ -1,6 +1,6 @@
 # NAME: UKMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:01.733293+00:00
+# UPDATED: 2026-07-05T08:51:05.931511+00:00
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 22
 # DOMAIN-KEYWORD: 2
@@ -14,24 +14,24 @@ DOMAIN,vod-dash-ww-live.akamaized.net
 DOMAIN,vod-thumb-ww-live.akamaized.net
 DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
 DOMAIN-SUFFIX,bbc
-DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.in
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,itv.com
-DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,britbox.com
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
 DOMAIN-SUFFIX,bb-static.com
 DOMAIN-SUFFIX,itvstatic.com
-DOMAIN-SUFFIX,bbcchinese.com
 DOMAIN-SUFFIX,bbcpersian.com
+DOMAIN-SUFFIX,bbcchinese.com
 DOMAIN-SUFFIX,massive-itv.com
 DOMAIN-SUFFIX,bbcverticals.com
 DOMAIN-SUFFIX,bbc-reporting-api.app
 DOMAIN-SUFFIX,bbc.co.uk
-DOMAIN-SUFFIX,bbc.net.uk
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.net.uk
 DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-SUFFIX,britbox.co.uk
 DOMAIN-SUFFIX,bbcmedia.co.uk

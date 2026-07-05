@@ -1,24 +1,24 @@
 # NAME: NaSDDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:20.740975+00:00
+# UPDATED: 2026-07-05T08:45:49.315092+00:00
 payload:
   - DOMAIN-SUFFIX,suo.yt
   - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN-SUFFIX,3322.org
   - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,3322.net
-  - DOMAIN-SUFFIX,tpddns.cn
+  - DOMAIN-SUFFIX,3322.org
   - DOMAIN-SUFFIX,dnsapi.cn
-  - DOMAIN-SUFFIX,nat123.com
+  - DOMAIN-SUFFIX,tpddns.cn
   - DOMAIN-SUFFIX,dyndns.org
-  - DOMAIN-SUFFIX,dns-dns.com
+  - DOMAIN-SUFFIX,nat123.com
   - DOMAIN-SUFFIX,duckdns.org
   - DOMAIN-SUFFIX,plex.direct
   - DOMAIN-SUFFIX,synology.cn
-  - DOMAIN-SUFFIX,changeip.com
-  - DOMAIN-SUFFIX,aliyuncs.com
-  - DOMAIN-SUFFIX,myddns.rocks
+  - DOMAIN-SUFFIX,dns-dns.com
   - DOMAIN-SUFFIX,ddnsfree.com
+  - DOMAIN-SUFFIX,changeip.com
+  - DOMAIN-SUFFIX,myddns.rocks
+  - DOMAIN-SUFFIX,aliyuncs.com
   - DOMAIN-SUFFIX,netdata.cloud
   - DOMAIN-SUFFIX,quickconnect.to
   - DOMAIN-SUFFIX,myqnapcloud.com

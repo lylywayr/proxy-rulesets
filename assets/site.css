@@ -148,26 +148,10 @@ h1 { margin-bottom: 8px; font-size: 34px; line-height: 1.1; }
   color: #4f473f;
   line-height: 1.5;
 }
-.tag-row, .raw-row, .action-row {
+.tag-row, .raw-row {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-}
-.action-link {
-  display: inline-flex;
-  align-items: center;
-  min-height: 36px;
-  padding: 0 12px;
-  border-radius: 8px;
-  border: 1px solid #0b6b52;
-  background: #0b6b52;
-  color: #ffffff;
-  font-size: 13px;
-}
-.action-link:hover {
-  text-decoration: none;
-  background: #095642;
-  border-color: #095642;
 }
 .tag {
   background: #f6efe3;

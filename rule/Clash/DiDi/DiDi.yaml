@@ -1,29 +1,29 @@
 # NAME: DiDi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:22:05.855065+00:00
+# UPDATED: 2026-07-05T08:27:29.916736+00:00
 payload:
   - DOMAIN-SUFFIX,didi.cn
   - DOMAIN-SUFFIX,didi.xin
-  - DOMAIN-SUFFIX,udache.com
   - DOMAIN-SUFFIX,cxyule.com
+  - DOMAIN-SUFFIX,udache.com
   - DOMAIN-SUFFIX,didiyun.org
   - DOMAIN-SUFFIX,didiyun.com
   - DOMAIN-SUFFIX,diditaxi.com
-  - DOMAIN-SUFFIX,didiqiche.com
-  - DOMAIN-SUFFIX,didi-food.com
   - DOMAIN-SUFFIX,didialift.com
+  - DOMAIN-SUFFIX,didi-food.com
+  - DOMAIN-SUFFIX,didiqiche.com
   - DOMAIN-SUFFIX,didiwuxian.com
-  - DOMAIN-SUFFIX,didistatic.com
+  - DOMAIN-SUFFIX,didiyunapi.com
   - DOMAIN-SUFFIX,xiaojuchefu.cn
+  - DOMAIN-SUFFIX,didistatic.com
   - DOMAIN-SUFFIX,didiglobal.com
   - DOMAIN-SUFFIX,xiaojukeji.com
-  - DOMAIN-SUFFIX,didiyunapi.com
   - DOMAIN-SUFFIX,didichuxing.com
   - DOMAIN-SUFFIX,didiopenapi.com
-  - DOMAIN-SUFFIX,didimobility.com
   - DOMAIN-SUFFIX,juyanwenjuan.com
+  - DOMAIN-SUFFIX,didimobility.com
   - DOMAIN-SUFFIX,didiaustralia.blog
-  - DOMAIN-SUFFIX,apptaxi.com.cn
   - DOMAIN-SUFFIX,didiapp.net.cn
+  - DOMAIN-SUFFIX,apptaxi.com.cn
   - DOMAIN-SUFFIX,diditaxi.com.cn
   - DOMAIN-SUFFIX,didimobility.co.jp

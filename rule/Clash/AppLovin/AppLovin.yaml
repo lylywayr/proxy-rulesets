@@ -1,6 +1,6 @@
 # NAME: AppLovin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:59.978630+00:00
+# UPDATED: 2026-07-05T07:51:23.775080+00:00
 payload:
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,applovin.com

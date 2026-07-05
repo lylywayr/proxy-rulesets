@@ -1,20 +1,20 @@
 # NAME: XianYu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:01.906400+00:00
+# UPDATED: 2026-07-05T08:51:16.538513+00:00
 payload:
   - DOMAIN-SUFFIX,tfgvb.com
   - DOMAIN-SUFFIX,lkjujm.com
-  - DOMAIN-SUFFIX,qazasd.com
-  - DOMAIN-SUFFIX,uyhjnm.com
-  - DOMAIN-SUFFIX,vbmnmy.com
   - DOMAIN-SUFFIX,ewqcxz.com
   - DOMAIN-SUFFIX,redfcv.com
-  - DOMAIN-SUFFIX,svfrrg.com
+  - DOMAIN-SUFFIX,uyhjnm.com
   - DOMAIN-SUFFIX,xcbbtf.com
   - DOMAIN-SUFFIX,wsxsdf.com
+  - DOMAIN-SUFFIX,qazasd.com
+  - DOMAIN-SUFFIX,svfrrg.com
+  - DOMAIN-SUFFIX,vbmnmy.com
+  - DOMAIN-SUFFIX,iopiopl.com
+  - DOMAIN-SUFFIX,nfmrtfv.com
   - DOMAIN-SUFFIX,hjkhjkl.com
   - DOMAIN-SUFFIX,xianyu.mobi
-  - DOMAIN-SUFFIX,iopiopl.com
   - DOMAIN-SUFFIX,mnbvdfg.com
   - DOMAIN-SUFFIX,poiuytw.com
-  - DOMAIN-SUFFIX,nfmrtfv.com

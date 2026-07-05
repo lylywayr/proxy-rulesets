@@ -1,18 +1,18 @@
 # NAME: 4399
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:22.540947+00:00
+# UPDATED: 2026-07-05T07:50:57.709677+00:00
 no_resolve: true
 domain_suffix_set:
   - "4399.cn"
   - "4399.net"
   - "4399.com"
-  - "qq163.net"
   - "qq163.com"
-  - "4399sj.com"
+  - "qq163.net"
   - "4399pk.com"
+  - "4399sj.com"
   - "4399api.com"
-  - "5054399.com"
-  - "4399dmw.com"
   - "img4399.com"
+  - "4399dmw.com"
+  - "5054399.com"
   - "edu4399.com"
   - "funnycore.com"

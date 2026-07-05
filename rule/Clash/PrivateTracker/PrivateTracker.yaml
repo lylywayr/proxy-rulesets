@@ -1,6 +1,6 @@
 # NAME: PrivateTracker
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:22.933067+00:00
+# UPDATED: 2026-07-05T08:46:02.132505+00:00
 payload:
   - DOMAIN,004430.xyz
   - DOMAIN,021912.xyz
@@ -120,124 +120,124 @@ payload:
   - DOMAIN,www.wareztorrent.com
   - DOMAIN,yuptracker-eu.gaijinent.com
   - DOMAIN,zer0day.ch
-  - DOMAIN-SUFFIX,tju.pt
-  - DOMAIN-SUFFIX,msg.vg
   - DOMAIN-SUFFIX,byr.pt
+  - DOMAIN-SUFFIX,msg.vg
+  - DOMAIN-SUFFIX,tju.pt
+  - DOMAIN-SUFFIX,hdbd.us
   - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,et8.org
+  - DOMAIN-SUFFIX,hd4.xyz
   - DOMAIN-SUFFIX,avgv.cc
   - DOMAIN-SUFFIX,lztr.me
-  - DOMAIN-SUFFIX,hdbd.us
-  - DOMAIN-SUFFIX,hd4.xyz
-  - DOMAIN-SUFFIX,et8.org
-  - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,ncore.cc
   - DOMAIN-SUFFIX,j99.info
+  - DOMAIN-SUFFIX,hdsky.me
+  - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,joyhd.net
-  - DOMAIN-SUFFIX,hitpt.org
-  - DOMAIN-SUFFIX,dxdhd.com
   - DOMAIN-SUFFIX,beitai.pt
-  - DOMAIN-SUFFIX,hdarea.co
   - DOMAIN-SUFFIX,landof.tv
   - DOMAIN-SUFFIX,hitpt.com
-  - DOMAIN-SUFFIX,1ptba.com
-  - DOMAIN-SUFFIX,52pt.site
-  - DOMAIN-SUFFIX,tjupt.org
-  - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,hdupt.com
-  - DOMAIN-SUFFIX,hdzone.me
   - DOMAIN-SUFFIX,npupt.com
-  - DOMAIN-SUFFIX,oppaiti.me
+  - DOMAIN-SUFFIX,52pt.site
+  - DOMAIN-SUFFIX,dxdhd.com
+  - DOMAIN-SUFFIX,1ptba.com
+  - DOMAIN-SUFFIX,hdarea.co
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,hdzone.me
+  - DOMAIN-SUFFIX,hdupt.com
+  - DOMAIN-SUFFIX,hitpt.org
+  - DOMAIN-SUFFIX,avistaz.to
+  - DOMAIN-SUFFIX,sdbits.org
   - DOMAIN-SUFFIX,nicept.net
+  - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,hdtime.org
+  - DOMAIN-SUFFIX,oppaiti.me
   - DOMAIN-SUFFIX,kamept.com
   - DOMAIN-SUFFIX,cinemaz.to
-  - DOMAIN-SUFFIX,hdfans.org
+  - DOMAIN-SUFFIX,pthome.net
+  - DOMAIN-SUFFIX,hdpost.top
   - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,qingwa.pro
+  - DOMAIN-SUFFIX,hdfans.org
+  - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,2xfree.org
   - DOMAIN-SUFFIX,trontv.com
-  - DOMAIN-SUFFIX,pthome.net
-  - DOMAIN-SUFFIX,qingwa.pro
-  - DOMAIN-SUFFIX,sdbits.org
-  - DOMAIN-SUFFIX,avistaz.to
-  - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,skyey2.com
-  - DOMAIN-SUFFIX,hdpost.top
-  - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,hdbits.org
-  - DOMAIN-SUFFIX,blutopia.cc
+  - DOMAIN-SUFFIX,filelist.io
   - DOMAIN-SUFFIX,hdchina.org
-  - DOMAIN-SUFFIX,ptsbao.club
+  - DOMAIN-SUFFIX,jpopsuki.eu
   - DOMAIN-SUFFIX,lemonhd.org
   - DOMAIN-SUFFIX,uhdbits.org
-  - DOMAIN-SUFFIX,ccfbits.org
   - DOMAIN-SUFFIX,hd4fans.org
-  - DOMAIN-SUFFIX,sharkpt.net
-  - DOMAIN-SUFFIX,exoticaz.to
+  - DOMAIN-SUFFIX,ccfbits.org
   - DOMAIN-SUFFIX,cgpeers.com
-  - DOMAIN-SUFFIX,filelist.io
-  - DOMAIN-SUFFIX,redacted.ch
-  - DOMAIN-SUFFIX,hdroute.org
   - DOMAIN-SUFFIX,hdcity.city
-  - DOMAIN-SUFFIX,hddolby.com
-  - DOMAIN-SUFFIX,jpopsuki.eu
-  - DOMAIN-SUFFIX,morethan.tv
-  - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,moecat.best
-  - DOMAIN-SUFFIX,empornium.me
-  - DOMAIN-SUFFIX,keepfrds.com
-  - DOMAIN-SUFFIX,pterclub.com
-  - DOMAIN-SUFFIX,leaguehd.com
-  - DOMAIN-SUFFIX,bibliotik.me
-  - DOMAIN-SUFFIX,beyond-hd.me
-  - DOMAIN-SUFFIX,hdatmos.club
-  - DOMAIN-SUFFIX,karagarga.in
+  - DOMAIN-SUFFIX,hdroute.org
+  - DOMAIN-SUFFIX,hddolby.com
+  - DOMAIN-SUFFIX,exoticaz.to
+  - DOMAIN-SUFFIX,discfan.net
+  - DOMAIN-SUFFIX,blutopia.cc
+  - DOMAIN-SUFFIX,morethan.tv
+  - DOMAIN-SUFFIX,sharkpt.net
+  - DOMAIN-SUFFIX,redacted.ch
+  - DOMAIN-SUFFIX,ptsbao.club
   - DOMAIN-SUFFIX,eastgame.org
-  - DOMAIN-SUFFIX,pornbits.net
-  - DOMAIN-SUFFIX,nebulance.io
-  - DOMAIN-SUFFIX,ourbits.club
-  - DOMAIN-SUFFIX,gfxpeers.net
-  - DOMAIN-SUFFIX,audiences.me
-  - DOMAIN-SUFFIX,hd-space.org
-  - DOMAIN-SUFFIX,anthelion.me
-  - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,privatehd.to
+  - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,anthelion.me
+  - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN-SUFFIX,pornbits.net
+  - DOMAIN-SUFFIX,empornium.me
+  - DOMAIN-SUFFIX,bibliotik.me
+  - DOMAIN-SUFFIX,nebulance.io
+  - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,gfxpeers.net
+  - DOMAIN-SUFFIX,beyond-hd.me
+  - DOMAIN-SUFFIX,keepfrds.com
+  - DOMAIN-SUFFIX,hd-space.org
+  - DOMAIN-SUFFIX,karagarga.in
+  - DOMAIN-SUFFIX,leaguehd.com
+  - DOMAIN-SUFFIX,hdatmos.club
   - DOMAIN-SUFFIX,animebytes.tv
-  - DOMAIN-SUFFIX,cinematik.net
-  - DOMAIN-SUFFIX,dicmusic.club
-  - DOMAIN-SUFFIX,nanyangpt.com
   - DOMAIN-SUFFIX,awesome-hd.me
-  - DOMAIN-SUFFIX,alpharatio.cc
-  - DOMAIN-SUFFIX,btschool.club
-  - DOMAIN-SUFFIX,gainbound.net
   - DOMAIN-SUFFIX,hdstreet.club
-  - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,dicmusic.club
+  - DOMAIN-SUFFIX,cinematik.net
+  - DOMAIN-SUFFIX,nanyangpt.com
+  - DOMAIN-SUFFIX,btschool.club
   - DOMAIN-SUFFIX,bwtorrents.tv
-  - DOMAIN-SUFFIX,concertos.live
-  - DOMAIN-SUFFIX,iptorrents.com
-  - DOMAIN-SUFFIX,bittorrent.com
+  - DOMAIN-SUFFIX,gainbound.net
+  - DOMAIN-SUFFIX,alpharatio.cc
+  - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,soulvoice.club
-  - DOMAIN-SUFFIX,torrentday.com
-  - DOMAIN-SUFFIX,icetorrent.org
   - DOMAIN-SUFFIX,asiancinema.me
+  - DOMAIN-SUFFIX,bittorrent.com
+  - DOMAIN-SUFFIX,torrentday.com
+  - DOMAIN-SUFFIX,concertos.live
+  - DOMAIN-SUFFIX,icetorrent.org
+  - DOMAIN-SUFFIX,iptorrents.com
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,orpheus.network
   - DOMAIN-SUFFIX,hd-torrents.org
+  - DOMAIN-SUFFIX,animetorrents.me
+  - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,aidoru-online.me
   - DOMAIN-SUFFIX,creditracker.net
-  - DOMAIN-SUFFIX,springsunday.net
-  - DOMAIN-SUFFIX,animetorrents.me
+  - DOMAIN-SUFFIX,myanonamouse.net
   - DOMAIN-SUFFIX,cinemageddon.net
   - DOMAIN-SUFFIX,torrentseeds.org
-  - DOMAIN-SUFFIX,myanonamouse.net
-  - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,gazellegames.net
+  - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,passthepopcorn.me
   - DOMAIN-SUFFIX,pussytorrents.org
   - DOMAIN-SUFFIX,madsrevolution.net
   - DOMAIN-SUFFIX,extremlymtorrents.ws
   - DOMAIN-SUFFIX,bt.byr.cn
-  - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,u2.dmhy.org
+  - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,xauat6.edu.cn
   - DOMAIN-SUFFIX,nwsuaf6.edu.cn
   - DOMAIN-SUFFIX,classix-unlimited.co.uk

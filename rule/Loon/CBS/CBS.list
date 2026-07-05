@@ -1,6 +1,6 @@
 # NAME: CBS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:01:00.200006+00:00
+# UPDATED: 2026-07-05T07:51:34.750343+00:00
 # DOMAIN-SUFFIX: 34
 # USER-AGENT: 1
 # PROCESS-NAME: 2
@@ -8,25 +8,25 @@
 
 DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,cbs.com
-DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsig.net
-DOMAIN-SUFFIX,cbsiam.com
-DOMAIN-SUFFIX,viacom.com
 DOMAIN-SUFFIX,cbsimg.net
-DOMAIN-SUFFIX,viacbs.com
 DOMAIN-SUFFIX,cbsi.video
+DOMAIN-SUFFIX,viacbs.com
+DOMAIN-SUFFIX,viacom.com
+DOMAIN-SUFFIX,cbsiam.com
 DOMAIN-SUFFIX,plutotv.net
 DOMAIN-SUFFIX,cbsnews.com
-DOMAIN-SUFFIX,cbsstore.com
-DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,cbsradio.com
-DOMAIN-SUFFIX,cbssports.com
-DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,showtime.com
+DOMAIN-SUFFIX,cbsstore.com
 DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,cbssvideo.com
-DOMAIN-SUFFIX,viacomcbs.com
+DOMAIN-SUFFIX,paramount.com
 DOMAIN-SUFFIX,cbsstatic.com
+DOMAIN-SUFFIX,cbssvideo.com
+DOMAIN-SUFFIX,cbssports.com
+DOMAIN-SUFFIX,viacomcbs.com
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbsistatic.com
 DOMAIN-SUFFIX,pplusstatic.com

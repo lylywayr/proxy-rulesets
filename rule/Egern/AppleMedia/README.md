@@ -26,7 +26,8 @@
 
 ### 客户端入口
 
-- [一键导入](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAppleMedia%2FAppleMedia.yaml): 在 Egern 中预填 rule_set 规则，跳转后可直接保存为规则集。
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAppleMedia%2FAppleMedia.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E8%8B%B9%E6%9E%9C%E5%AA%92%E4%BD%93&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAppleMedia%2FAppleMedia.yaml): 按官方 URL Scheme 预填配置地址。
 
 ### 其他客户端直链
 

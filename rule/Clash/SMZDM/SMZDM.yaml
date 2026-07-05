@@ -1,6 +1,6 @@
 # NAME: SMZDM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:42:59.325829+00:00
+# UPDATED: 2026-07-05T08:50:50.202612+00:00
 payload:
   - DOMAIN-SUFFIX,zdm.net
   - DOMAIN-SUFFIX,smzdm.com

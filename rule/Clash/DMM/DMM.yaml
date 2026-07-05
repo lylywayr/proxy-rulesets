@@ -1,6 +1,6 @@
 # NAME: DMM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:30.865806+00:00
+# UPDATED: 2026-07-05T08:44:51.883256+00:00
 payload:
   - DOMAIN-SUFFIX,ddo.jp
   - DOMAIN-SUFFIX,dmm.hk
@@ -12,9 +12,9 @@ payload:
   - DOMAIN-SUFFIX,alicesoft.com
   - DOMAIN-SUFFIX,cosmiccute.com
   - DOMAIN-SUFFIX,wheel-soft.com
-  - DOMAIN-SUFFIX,akabeesoft2.com
-  - DOMAIN-SUFFIX,hibiki-site.com
   - DOMAIN-SUFFIX,akabeesoft3.com
+  - DOMAIN-SUFFIX,hibiki-site.com
+  - DOMAIN-SUFFIX,akabeesoft2.com
   - DOMAIN-SUFFIX,akatsukiworks.com
   - DOMAIN-SUFFIX,dmm-extension.com
   - DOMAIN-SUFFIX,navismithapis-cdn.com

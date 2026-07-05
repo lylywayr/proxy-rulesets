@@ -1,12 +1,12 @@
 # NAME: CHT
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:22:04.651401+00:00
+# UPDATED: 2026-07-05T08:27:23.194253+00:00
 no_resolve: true
 domain_suffix_set:
   - "litv.tv"
   - "xuite.net"
-  - "emome.net"
   - "hinet.net"
+  - "emome.net"
   - "cht.com.tw"
   - "chtf.org.tw"
   - "gtlsca.nat.gov.tw"

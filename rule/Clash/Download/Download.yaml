@@ -1,6 +1,6 @@
 # NAME: Download
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:30.893804+00:00
+# UPDATED: 2026-07-05T08:44:53.625534+00:00
 payload:
   - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-KEYWORD,aria2

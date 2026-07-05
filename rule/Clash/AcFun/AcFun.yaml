@@ -1,6 +1,6 @@
 # NAME: AcFun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:22.598947+00:00
+# UPDATED: 2026-07-05T07:51:01.289790+00:00
 payload:
   - DOMAIN-SUFFIX,acfun.tv
   - DOMAIN-SUFFIX,acfun.cn

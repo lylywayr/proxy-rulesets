@@ -1,6 +1,6 @@
 # NAME: FengHuangWang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:31.432076+00:00
+# UPDATED: 2026-07-05T08:45:00.117767+00:00
 payload:
   - DOMAIN-SUFFIX,ifeng.com
   - DOMAIN-SUFFIX,fengcx.com
@@ -9,5 +9,5 @@ payload:
   - DOMAIN-SUFFIX,phoenixtv.com
   - DOMAIN-SUFFIX,ifengweekly.com
   - DOMAIN-SUFFIX,phoenixcenter.cn
-  - DOMAIN-SUFFIX,phoenixtv.com.cn
   - DOMAIN-SUFFIX,fengzhibo.com.cn
+  - DOMAIN-SUFFIX,phoenixtv.com.cn

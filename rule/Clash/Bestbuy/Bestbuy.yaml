@@ -1,82 +1,82 @@
 # NAME: Bestbuy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:01:00.073782+00:00
+# UPDATED: 2026-07-05T07:51:28.089563+00:00
 payload:
   - DOMAIN-SUFFIX,bby.com
   - DOMAIN-SUFFIX,myrz.com
-  - DOMAIN-SUFFIX,gslink.us
   - DOMAIN-SUFFIX,bbyurl.us
-  - DOMAIN-SUFFIX,bestbuy.ca
+  - DOMAIN-SUFFIX,gslink.us
   - DOMAIN-SUFFIX,gsccdn.com
+  - DOMAIN-SUFFIX,bestbuy.ca
   - DOMAIN-SUFFIX,bestbuy.cn
-  - DOMAIN-SUFFIX,bestbuy.com
-  - DOMAIN-SUFFIX,cowboom.com
-  - DOMAIN-SUFFIX,bextbuy.com
   - DOMAIN-SUFFIX,bestbhy.com
+  - DOMAIN-SUFFIX,cowboom.com
   - DOMAIN-SUFFIX,bbyintl.com
-  - DOMAIN-SUFFIX,dealtree.org
-  - DOMAIN-SUFFIX,bestbuys.com
-  - DOMAIN-SUFFIX,geeksquad.ca
-  - DOMAIN-SUFFIX,bestbuy.info
-  - DOMAIN-SUFFIX,bbycloud.com
-  - DOMAIN-SUFFIX,besztbuy.com
-  - DOMAIN-SUFFIX,geeksquad.cc
+  - DOMAIN-SUFFIX,bextbuy.com
+  - DOMAIN-SUFFIX,bestbuy.com
   - DOMAIN-SUFFIX,geeksquad.tv
-  - DOMAIN-SUFFIX,futureshop.ca
+  - DOMAIN-SUFFIX,bbycloud.com
+  - DOMAIN-SUFFIX,geeksquad.cc
+  - DOMAIN-SUFFIX,dealtree.org
+  - DOMAIN-SUFFIX,bestbuy.info
+  - DOMAIN-SUFFIX,geeksquad.ca
+  - DOMAIN-SUFFIX,besztbuy.com
+  - DOMAIN-SUFFIX,bestbuys.com
+  - DOMAIN-SUFFIX,mybestbuy.com
+  - DOMAIN-SUFFIX,gscanada.info
+  - DOMAIN-SUFFIX,bestbuyus.com
   - DOMAIN-SUFFIX,geeksquad.net
   - DOMAIN-SUFFIX,geeksquad.com
-  - DOMAIN-SUFFIX,bestbuyus.com
-  - DOMAIN-SUFFIX,gscanada.info
+  - DOMAIN-SUFFIX,futureshop.ca
   - DOMAIN-SUFFIX,bbystatic.com
-  - DOMAIN-SUFFIX,mybestbuy.com
   - DOMAIN-SUFFIX,bbycontent.com
-  - DOMAIN-SUFFIX,geek-squad.org
   - DOMAIN-SUFFIX,bbycastatic.ca
+  - DOMAIN-SUFFIX,geek-squad.org
+  - DOMAIN-SUFFIX,bbycontent.net
   - DOMAIN-SUFFIX,geek-squad.net
   - DOMAIN-SUFFIX,bestbuygsm.com
-  - DOMAIN-SUFFIX,bbycontent.net
   - DOMAIN-SUFFIX,geek-squads.net
   - DOMAIN-SUFFIX,bestbuy-int.com
-  - DOMAIN-SUFFIX,myrewardzone.com
-  - DOMAIN-SUFFIX,bestbuy-jobs.com
-  - DOMAIN-SUFFIX,bestbuyideax.com
-  - DOMAIN-SUFFIX,initproducts.com
   - DOMAIN-SUFFIX,bestbuycanada.ca
-  - DOMAIN-SUFFIX,bestbuy-audio.com
-  - DOMAIN-SUFFIX,bestbuyethics.com
+  - DOMAIN-SUFFIX,initproducts.com
+  - DOMAIN-SUFFIX,myrewardzone.com
+  - DOMAIN-SUFFIX,bestbuyideax.com
+  - DOMAIN-SUFFIX,bestbuy-jobs.com
   - DOMAIN-SUFFIX,wolfatbestbuy.com
-  - DOMAIN-SUFFIX,tiendabestbuy.com
+  - DOMAIN-SUFFIX,bestbuyethics.com
+  - DOMAIN-SUFFIX,bestbuy-audio.com
   - DOMAIN-SUFFIX,wolfatbestbuy.net
+  - DOMAIN-SUFFIX,tiendabestbuy.com
   - DOMAIN-SUFFIX,bestbuystores.com
   - DOMAIN-SUFFIX,bestbuycanada.com
-  - DOMAIN-SUFFIX,geeksquadcares.com
   - DOMAIN-SUFFIX,bestbuytradein.com
   - DOMAIN-SUFFIX,bestbuyrewards.com
-  - DOMAIN-SUFFIX,mybestbuyclaims.com
-  - DOMAIN-SUFFIX,welcometobestbuy.ca
+  - DOMAIN-SUFFIX,geeksquadcares.com
+  - DOMAIN-SUFFIX,bestbuybusiness.com
   - DOMAIN-SUFFIX,bestbuycanadaltd.ca
   - DOMAIN-SUFFIX,techliquidators.com
-  - DOMAIN-SUFFIX,bestbuybusiness.com
+  - DOMAIN-SUFFIX,welcometobestbuy.ca
   - DOMAIN-SUFFIX,geeksquadforums.com
-  - DOMAIN-SUFFIX,geeksquadonline.com
+  - DOMAIN-SUFFIX,mybestbuyclaims.com
   - DOMAIN-SUFFIX,onlinegeeksquad.com
-  - DOMAIN-SUFFIX,bestbuysolutions.net
-  - DOMAIN-SUFFIX,bestbuyrewardzone.ca
-  - DOMAIN-SUFFIX,geeksquadwebroot.org
+  - DOMAIN-SUFFIX,geeksquadonline.com
   - DOMAIN-SUFFIX,geeksquadcentral.com
+  - DOMAIN-SUFFIX,geeksquadwebroot.org
+  - DOMAIN-SUFFIX,bestbuyrewardzone.ca
+  - DOMAIN-SUFFIX,bestbuysolutions.net
   - DOMAIN-SUFFIX,unbrandedproducts.com
-  - DOMAIN-SUFFIX,bestbuy-giftcard.info
+  - DOMAIN-SUFFIX,geeksquadservices.org
+  - DOMAIN-SUFFIX,bestbuysgeeksquad.com
   - DOMAIN-SUFFIX,bestbuyforbusiness.ca
   - DOMAIN-SUFFIX,www-bestbuystores.com
-  - DOMAIN-SUFFIX,bestbuysgeeksquad.com
-  - DOMAIN-SUFFIX,geeksquadservices.org
-  - DOMAIN-SUFFIX,rocketfishproducts.com
+  - DOMAIN-SUFFIX,bestbuy-giftcard.info
   - DOMAIN-SUFFIX,geek-squad-support.com
-  - DOMAIN-SUFFIX,bienvenuechezbestbuy.ca
+  - DOMAIN-SUFFIX,rocketfishproducts.com
   - DOMAIN-SUFFIX,bestbuycoffeemakers.com
+  - DOMAIN-SUFFIX,bienvenuechezbestbuy.ca
   - DOMAIN-SUFFIX,bestbuy24x7solutions.com
-  - DOMAIN-SUFFIX,bestbuycharityclassic.com
   - DOMAIN-SUFFIX,pacifickitchenandhome.com
+  - DOMAIN-SUFFIX,bestbuycharityclassic.com
   - DOMAIN-SUFFIX,geeksquadprotectionplan.org
   - DOMAIN-SUFFIX,bestbuyphotoworkshoptours.com
   - DOMAIN-SUFFIX,bestbuy-communityrelations.com

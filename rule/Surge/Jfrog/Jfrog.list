@@ -1,9 +1,9 @@
 # NAME: Jfrog
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:32:07.724411+00:00
+# UPDATED: 2026-07-05T08:45:28.994485+00:00
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 
-DOMAIN-SUFFIX,jfrog.org
 DOMAIN-SUFFIX,jfrog.com
+DOMAIN-SUFFIX,jfrog.org
 DOMAIN-SUFFIX,bintray.com

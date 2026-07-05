@@ -1,6 +1,6 @@
 # NAME: DynDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:31:31.338542+00:00
+# UPDATED: 2026-07-05T08:44:55.016544+00:00
 no_resolve: true
 domain_suffix_set:
   - "dyn.com"

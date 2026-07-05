@@ -29,7 +29,8 @@ GitHub 网站、API 与静态资源。
 
 ### 客户端入口
 
-- [一键导入](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FGitHub%2FGitHub.yaml): 在 Egern 中预填 rule_set 规则，跳转后可直接保存为规则集。
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FGitHub%2FGitHub.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=GitHub&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FGitHub%2FGitHub.yaml): 按官方 URL Scheme 预填配置地址。
 
 ### 其他客户端直链
 

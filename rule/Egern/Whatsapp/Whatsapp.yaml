@@ -1,14 +1,14 @@
 # NAME: Whatsapp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:43:01.864411+00:00
+# UPDATED: 2026-07-05T08:51:13.595803+00:00
 no_resolve: true
 domain_set:
   - "graph.facebook.com"
 domain_suffix_set:
   - "bintray.com"
+  - "whatsapp.com"
   - "whatsapp.biz"
   - "whatsapp.net"
-  - "whatsapp.com"
 domain_keyword_set:
   - "whatsapp"
 ip_cidr_set:

@@ -1,25 +1,25 @@
 # NAME: Adidas
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T06:00:22.618310+00:00
+# UPDATED: 2026-07-05T07:51:02.457087+00:00
 # DOMAIN-SUFFIX: 19
 # TOTAL: 19
 
-DOMAIN-SUFFIX,adidas.ch
-DOMAIN-SUFFIX,adidas.pl
-DOMAIN-SUFFIX,adidas.de
-DOMAIN-SUFFIX,adidas.it
-DOMAIN-SUFFIX,adidas.at
-DOMAIN-SUFFIX,adidas.ie
-DOMAIN-SUFFIX,adidas.dk
-DOMAIN-SUFFIX,adidas.hu
-DOMAIN-SUFFIX,adidas.cz
 DOMAIN-SUFFIX,adidas.be
-DOMAIN-SUFFIX,adidas.nl
+DOMAIN-SUFFIX,adidas.dk
+DOMAIN-SUFFIX,adidas.de
+DOMAIN-SUFFIX,adidas.pl
 DOMAIN-SUFFIX,adidas.se
+DOMAIN-SUFFIX,adidas.at
+DOMAIN-SUFFIX,adidas.nl
+DOMAIN-SUFFIX,adidas.hu
+DOMAIN-SUFFIX,adidas.ie
+DOMAIN-SUFFIX,adidas.ch
 DOMAIN-SUFFIX,adidas.ru
+DOMAIN-SUFFIX,adidas.it
+DOMAIN-SUFFIX,adidas.cz
 DOMAIN-SUFFIX,adidas.com
-DOMAIN-SUFFIX,adidas.co.uk
 DOMAIN-SUFFIX,adidas.co.in
+DOMAIN-SUFFIX,adidas.co.uk
+DOMAIN-SUFFIX,adidas.com.cn
 DOMAIN-SUFFIX,adidas.com.sa
 DOMAIN-SUFFIX,adidas.com.tw
-DOMAIN-SUFFIX,adidas.com.cn
