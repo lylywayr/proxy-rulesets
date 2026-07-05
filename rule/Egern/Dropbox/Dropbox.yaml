@@ -1,15 +1,17 @@
 # NAME: Dropbox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:50:58.323209+00:00
+# UPDATED: 2026-07-05T01:43:47.734365+00:00
 no_resolve: true
+domain_set:
+  - "paper-attachments.s3.amazonaws.com"
 domain_suffix_set:
   - "db.tt"
   - "dropbox.com"
   - "dropbox.tech"
-  - "getdropbox.com"
   - "dropboxapi.com"
-  - "dropbox-dns.com"
+  - "getdropbox.com"
   - "dropboxmail.com"
+  - "dropbox-dns.com"
   - "dropboxforum.com"
   - "dropboxforums.com"
   - "dropboxstatic.com"
@@ -18,5 +20,3 @@ domain_suffix_set:
   - "dropboxpartners.com"
   - "dropboxbusiness.com"
   - "dropboxusercontent.com"
-  - "dropbox.zendesk.com"
-  - "paper-attachments.s3.amazonaws.com"

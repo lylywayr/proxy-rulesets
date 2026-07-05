@@ -2,29 +2,46 @@
 
 ## 中文
 
-OP 规则集。
+OP 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `2`
-- `DOMAIN-SUFFIX`: 2
+- 总数：`2`
+- `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 1
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/OP/OP.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/OP/OP.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Egern`
+- 分类标识：`OP`
+- 分类显示名：`OP`
+- 文件：`rule/Egern/OP/OP.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/OP/OP.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/OP/OP.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/OP/OP.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/OP/OP.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/OP/OP.yaml>
 
 ### 数据来源
 
-- blackmatrix7 OP: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OP/OP.list
+- [v2fly geosite op](https://github.com/v2fly/domain-list-community/blob/master/data/op)
 
-## English
+<details>
+<summary>English</summary>
 
 OP rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/OP/OP.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/OP/OP.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/OP/OP.yaml>
+
+</details>

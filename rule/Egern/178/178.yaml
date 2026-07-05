@@ -1,27 +1,27 @@
 # NAME: 178
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:31.345234+00:00
+# UPDATED: 2026-07-05T01:24:32.916418+00:00
 no_resolve: true
 domain_suffix_set:
   - "nga.cn"
-  - "178.net"
-  - "178.com"
   - "766.com"
-  - "a9vg.com"
+  - "178.com"
+  - "178.net"
   - "nga.wiki"
+  - "a9vg.com"
   - "ngacn.cc"
-  - "carry6.cn"
-  - "tgbus.com"
   - "766er.com"
-  - "dospy.com"
-  - "xyous.com"
   - "bigccq.cn"
+  - "xyous.com"
+  - "tgbus.com"
+  - "carry6.cn"
+  - "dospy.com"
+  - "ngabbs.com"
   - "carry6.com"
   - "psnine.com"
   - "carry6.net"
   - "766app.com"
-  - "ngabbs.com"
   - "766test.com"
-  - "stargame.com"
   - "tgbusdata.cn"
+  - "stargame.com"
   - "bjyueshenzj.com"

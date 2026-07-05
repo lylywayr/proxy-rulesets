@@ -1,11 +1,12 @@
 # NAME: Jwplayer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:04.386565+00:00
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# UPDATED: 2026-07-05T01:43:48.171363+00:00
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
 
-DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,jwplayer.com
 DOMAIN-SUFFIX,jwplatform.com
+DOMAIN-SUFFIX,longtailvideo.com

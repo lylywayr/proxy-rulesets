@@ -1,30 +1,46 @@
-# QingCloud
+# 青云
 
 ## 中文
 
-QingCloud 规则集。
+QingCloud 相关云服务、CDN、DNS、证书或网络基础设施规则。
+
+### 导航
+
+- 所属分组：[云与网络](../../../guide/groups/network.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `12`
-- `DOMAIN-SUFFIX`: 12
+- 总数：`6`
+- `DOMAIN-SUFFIX`: 6
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/QingCloud/QingCloud.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/QingCloud/QingCloud.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`QingCloud`
+- 分类显示名：`青云`
+- 文件：`rule/Surge/QingCloud/QingCloud.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/QingCloud/QingCloud.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/QingCloud/QingCloud.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/QingCloud/QingCloud.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/QingCloud/QingCloud.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/QingCloud/QingCloud.yaml>
 
 ### 数据来源
 
-- blackmatrix7 QingCloud: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QingCloud/QingCloud.list
+- [v2fly geosite qingcloud](https://github.com/v2fly/domain-list-community/blob/master/data/qingcloud)
 
-## English
+<details>
+<summary>English</summary>
 
 QingCloud rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/QingCloud/QingCloud.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/QingCloud/QingCloud.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/QingCloud/QingCloud.list>
+
+</details>

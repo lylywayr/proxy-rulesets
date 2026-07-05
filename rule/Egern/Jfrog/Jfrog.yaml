@@ -1,8 +1,10 @@
 # NAME: Jfrog
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:03.984894+00:00
+# UPDATED: 2026-07-05T01:43:48.154760+00:00
 no_resolve: true
+domain_set:
+  - "d29vzk4ow07wi7.cloudfront.net"
 domain_suffix_set:
-  - "jfrog.org"
   - "jfrog.com"
+  - "jfrog.org"
   - "bintray.com"

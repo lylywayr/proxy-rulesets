@@ -1,51 +1,56 @@
 # NAME: Qualcomm
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:10.615561+00:00
-# DOMAIN-SUFFIX: 45
-# TOTAL: 45
+# UPDATED: 2026-07-05T01:44:15.914174+00:00
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 48
+# TOTAL: 49
 
+DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN-SUFFIX,imod.com
-DOMAIN-SUFFIX,uplinq.com
 DOMAIN-SUFFIX,qprize.com
-DOMAIN-SUFFIX,brewmp.com
+DOMAIN-SUFFIX,uplinq.com
 DOMAIN-SUFFIX,iskoot.com
+DOMAIN-SUFFIX,brewmp.com
 DOMAIN-SUFFIX,wipower.com
-DOMAIN-SUFFIX,quicinc.com
-DOMAIN-SUFFIX,qualcomm.fr
 DOMAIN-SUFFIX,qualcomm.cn
 DOMAIN-SUFFIX,qualcomm.de
-DOMAIN-SUFFIX,cdmatech.com
+DOMAIN-SUFFIX,qualcomm.fr
+DOMAIN-SUFFIX,quicinc.com
 DOMAIN-SUFFIX,qualcomm.com
+DOMAIN-SUFFIX,qcomgeo2.com
 DOMAIN-SUFFIX,xtracloud.cn
+DOMAIN-SUFFIX,cdmatech.com
 DOMAIN-SUFFIX,qualphone.com
 DOMAIN-SUFFIX,izatcloud.net
 DOMAIN-SUFFIX,snapdragon.cn
 DOMAIN-SUFFIX,pixtronix.com
+DOMAIN-SUFFIX,xtracloud.net
 DOMAIN-SUFFIX,qctconnect.com
 DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,patenttruth.org
 DOMAIN-SUFFIX,qualcommmea.com
-DOMAIN-SUFFIX,qualcommlabs.com
-DOMAIN-SUFFIX,gobianywhere.com
-DOMAIN-SUFFIX,qualcommhalo.com
 DOMAIN-SUFFIX,ipleadership.org
+DOMAIN-SUFFIX,qualcommhalo.com
+DOMAIN-SUFFIX,gobianywhere.com
+DOMAIN-SUFFIX,qualcommlabs.com
+DOMAIN-SUFFIX,qualcomm-inc.com
 DOMAIN-SUFFIX,meetsmartbook.com
-DOMAIN-SUFFIX,wirelessreach.com
 DOMAIN-SUFFIX,airgonetworks.com
-DOMAIN-SUFFIX,qualcommretail.com
+DOMAIN-SUFFIX,wirelessreach.com
 DOMAIN-SUFFIX,qualcomm-email.com
+DOMAIN-SUFFIX,qualcommretail.com
 DOMAIN-SUFFIX,hellosmartbook.com
 DOMAIN-SUFFIX,dragoniscoming.com
-DOMAIN-SUFFIX,snapdragonbooth.com
-DOMAIN-SUFFIX,qualcommventures.cn
 DOMAIN-SUFFIX,berkanawireless.com
+DOMAIN-SUFFIX,qualcommventures.cn
+DOMAIN-SUFFIX,snapdragonbooth.com
 DOMAIN-SUFFIX,qualcommventures.com
 DOMAIN-SUFFIX,qualcomm.co.kr
-DOMAIN-SUFFIX,qualcomm.co.jp
 DOMAIN-SUFFIX,qualcomm.co.in
 DOMAIN-SUFFIX,qualcomm.co.id
 DOMAIN-SUFFIX,qualcomm.co.uk
-DOMAIN-SUFFIX,qualcomm.com.tw
+DOMAIN-SUFFIX,qualcomm.co.jp
 DOMAIN-SUFFIX,qualcomm.com.br
+DOMAIN-SUFFIX,qualcomm.com.tw
 DOMAIN-SUFFIX,qceventscenter.com.cn
-DOMAIN-SUFFIX,qualcomm.sc.omtrdc.net
+DOMAIN-SUFFIX,qualcomm.cn.cdn.cloudflare.net

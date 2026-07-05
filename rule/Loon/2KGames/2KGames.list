@@ -1,10 +1,12 @@
 # NAME: 2KGames
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:31.425363+00:00
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-07-05T01:24:32.919418+00:00
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
 
 DOMAIN-SUFFIX,2k.com
+DOMAIN-SUFFIX,2kct.onl
 DOMAIN-SUFFIX,2kgames.com
-DOMAIN-SUFFIX,take2games.com
+DOMAIN-SUFFIX,2kweb.online
+DOMAIN-SUFFIX,2ksports.com
 DOMAIN-SUFFIX,2kcoretech.online

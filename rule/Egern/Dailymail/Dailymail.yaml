@@ -1,6 +1,6 @@
 # NAME: Dailymail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:33:42.353027+00:00
+# UPDATED: 2026-07-05T01:34:25.609656+00:00
 no_resolve: true
 domain_suffix_set:
   - "mol.im"

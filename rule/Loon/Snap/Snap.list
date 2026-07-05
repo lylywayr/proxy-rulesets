@@ -1,12 +1,13 @@
 # NAME: Snap
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:12.106261+00:00
-# DOMAIN-SUFFIX: 6
+# UPDATED: 2026-07-05T01:44:15.966594+00:00
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 5
 # TOTAL: 6
 
+DOMAIN,impala-media-production.s3.amazonaws.com
 DOMAIN-SUFFIX,snap.com
-DOMAIN-SUFFIX,snapkit.co
 DOMAIN-SUFFIX,sc-cdn.net
-DOMAIN-SUFFIX,snapads.com
-DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.co
 DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snapchat.com

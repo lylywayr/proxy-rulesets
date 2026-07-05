@@ -1,30 +1,46 @@
-# VISA
+# Visa
 
 ## 中文
 
-VISA 规则集。
+VISA 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[金融电商](../../../guide/groups/finance.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `99`
-- `DOMAIN-SUFFIX`: 99
+- 总数：`160`
+- `DOMAIN-SUFFIX`: 160
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/VISA/VISA.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/VISA/VISA.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`VISA`
+- 分类显示名：`Visa`
+- 文件：`rule/Loon/VISA/VISA.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/VISA/VISA.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/VISA/VISA.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/VISA/VISA.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/VISA/VISA.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/VISA/VISA.yaml>
 
 ### 数据来源
 
-- blackmatrix7 VISA: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VISA/VISA.list
+- [v2fly geosite visa](https://github.com/v2fly/domain-list-community/blob/master/data/visa)
 
-## English
+<details>
+<summary>English</summary>
 
 VISA rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/VISA/VISA.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/VISA/VISA.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/VISA/VISA.list>
+
+</details>

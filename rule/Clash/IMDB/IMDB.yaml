@@ -1,7 +1,8 @@
 # NAME: IMDB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:03.391074+00:00
+# UPDATED: 2026-07-05T01:43:48.105670+00:00
 payload:
+  - DOMAIN-SUFFIX,imdb
   - DOMAIN-SUFFIX,imdb.to
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,media-imdb.com

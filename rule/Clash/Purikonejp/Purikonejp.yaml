@@ -1,7 +1,8 @@
 # NAME: Purikonejp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:10.376073+00:00
+# UPDATED: 2026-07-05T01:44:15.906242+00:00
 payload:
+  - DOMAIN,prd-priconne-redive.akamaized.net
+  - DOMAIN-SUFFIX,priconne-redive.jp
   - DOMAIN-SUFFIX,omotenashi.cygames.jp
   - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
-  - DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net

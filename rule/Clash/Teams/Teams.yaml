@@ -1,6 +1,6 @@
 # NAME: Teams
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:13.266224+00:00
+# UPDATED: 2026-07-05T01:44:16.008694+00:00
 payload:
   - DOMAIN,teams.events.data.microsoft.com
   - DOMAIN-SUFFIX,teams.live.com

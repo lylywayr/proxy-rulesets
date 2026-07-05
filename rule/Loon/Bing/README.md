@@ -1,30 +1,47 @@
-# Bing
+# 必应
 
 ## 中文
 
-Bing 规则集。
+Bing 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `9`
-- `DOMAIN-SUFFIX`: 9
+- 总数：`32`
+- `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 31
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Bing/Bing.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Bing/Bing.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`Bing`
+- 分类显示名：`必应`
+- 文件：`rule/Loon/Bing/Bing.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Bing/Bing.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Bing/Bing.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Bing/Bing.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Bing/Bing.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Bing/Bing.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Bing: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bing/Bing.list
+- [v2fly geosite bing](https://github.com/v2fly/domain-list-community/blob/master/data/bing)
 
-## English
+<details>
+<summary>English</summary>
 
 Bing rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/Bing/Bing.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Bing/Bing.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Bing/Bing.list>
+
+</details>

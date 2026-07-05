@@ -2,11 +2,19 @@
 
 ## 中文
 
-JOOX 规则集。
+JOOX 相关通用互联网服务规则。
+
+> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `9`
+- 总数：`8`
 - `DOMAIN-SUFFIX`: 3
 - `DOMAIN-KEYWORD`: 1
 - `USER-AGENT`: 2
@@ -15,20 +23,30 @@ JOOX 规则集。
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/JOOX/JOOX.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JOOX/JOOX.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`JOOX`
+- 分类显示名：`JOOX`
+- 文件：`rule/Loon/JOOX/JOOX.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JOOX/JOOX.list>
+- 已省略的不兼容类型：`PROCESS-NAME`=1
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/JOOX/JOOX.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JOOX/JOOX.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/JOOX/JOOX.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/JOOX/JOOX.yaml>
 
 ### 数据来源
 
-- blackmatrix7 JOOX: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JOOX/JOOX.list
+- [blackmatrix7 JOOX](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JOOX/JOOX.list)
 
-## English
+<details>
+<summary>English</summary>
 
 JOOX rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/JOOX/JOOX.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JOOX/JOOX.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JOOX/JOOX.list>
+
+</details>

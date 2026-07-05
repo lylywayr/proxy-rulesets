@@ -2,29 +2,46 @@
 
 ## 中文
 
-Vimeo 规则集。
+Vimeo 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `16`
+- 总数：`17`
 - `DOMAIN-SUFFIX`: 16
+- `DOMAIN-REGEX`: 1
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Vimeo/Vimeo.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vimeo/Vimeo.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Egern`
+- 分类标识：`Vimeo`
+- 分类显示名：`Vimeo`
+- 文件：`rule/Egern/Vimeo/Vimeo.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vimeo/Vimeo.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Vimeo/Vimeo.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Vimeo/Vimeo.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Vimeo/Vimeo.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vimeo/Vimeo.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Vimeo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vimeo/Vimeo.list
+- [v2fly geosite vimeo](https://github.com/v2fly/domain-list-community/blob/master/data/vimeo)
 
-## English
+<details>
+<summary>English</summary>
 
 Vimeo rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/Vimeo/Vimeo.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vimeo/Vimeo.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vimeo/Vimeo.yaml>
+
+</details>

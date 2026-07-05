@@ -1,30 +1,46 @@
-# WoLai
+# 我来
 
 ## 中文
 
-WoLai 规则集。
+WoLai 相关 AI 服务、模型平台与调用链路规则。
+
+### 导航
+
+- 所属分组：[AI 服务](../../../guide/groups/ai.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `5`
-- `DOMAIN-SUFFIX`: 5
+- 总数：`3`
+- `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/WoLai/WoLai.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/WoLai/WoLai.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`WoLai`
+- 分类显示名：`我来`
+- 文件：`rule/Surge/WoLai/WoLai.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/WoLai/WoLai.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/WoLai/WoLai.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/WoLai/WoLai.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/WoLai/WoLai.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/WoLai/WoLai.yaml>
 
 ### 数据来源
 
-- blackmatrix7 WoLai: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WoLai/WoLai.list
+- [v2fly geosite wolai](https://github.com/v2fly/domain-list-community/blob/master/data/wolai)
 
-## English
+<details>
+<summary>English</summary>
 
 WoLai rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/WoLai/WoLai.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/WoLai/WoLai.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/WoLai/WoLai.list>
+
+</details>

@@ -1,7 +1,10 @@
 # NAME: Tmdb
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:14.538593+00:00
+# UPDATED: 2026-07-05T01:44:16.053289+00:00
 no_resolve: true
+domain_set:
+  - "tmdb-image-prod.b-cdn.net"
+  - "tmdb-web-image-prod.b-cdn.net"
 domain_suffix_set:
   - "tmdb.org"
   - "themoviedb.org"

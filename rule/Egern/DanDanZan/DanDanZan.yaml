@@ -1,12 +1,7 @@
 # NAME: DanDanZan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:33:42.521555+00:00
+# UPDATED: 2026-07-05T01:34:25.615652+00:00
 no_resolve: true
 domain_suffix_set:
-  - "fjhps.com"
-  - "343480.com"
-  - "czybjz.com"
-  - "kuyunbo.club"
-  - "dandanzan.com"
-  - "baduziyuan.com"
-  - "com-hs-hkdy.com"
+  - "nunuyy.cc"
+  - "dandanzan.cc"

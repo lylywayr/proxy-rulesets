@@ -1,12 +1,20 @@
-# Download
+# 下载服务
 
 ## 中文
 
-Download 规则集。
+Download 相关通用互联网服务规则。
+
+> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `7`
+- 总数：`7`
 - `DOMAIN-SUFFIX`: 1
 - `DOMAIN-KEYWORD`: 5
 - `PROCESS-NAME`: 13
@@ -14,20 +22,30 @@ Download 规则集。
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Download/Download.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Download/Download.yaml`
-- 已省略的不兼容类型: PROCESS-NAME=13
+- 当前客户端：`Egern`
+- 分类标识：`Download`
+- 分类显示名：`下载服务`
+- 文件：`rule/Egern/Download/Download.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Download/Download.yaml>
+- 已省略的不兼容类型：`PROCESS-NAME`=13
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Download/Download.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Download/Download.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Download/Download.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Download/Download.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Download: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Download/Download.list
+- [blackmatrix7 Download](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Download/Download.list)
 
-## English
+<details>
+<summary>English</summary>
 
 Download rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/Download/Download.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Download/Download.yaml`
-- Omitted unsupported types: `PROCESS-NAME=13`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Download/Download.yaml>
+
+</details>

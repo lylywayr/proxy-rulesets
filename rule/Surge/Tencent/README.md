@@ -1,31 +1,46 @@
-# Tencent
+# 腾讯
 
 ## 中文
 
-Tencent 规则集。
+Tencent 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `25`
-- `USER-AGENT`: 5
-- `IP-CIDR`: 20
+- 总数：`543`
+- `DOMAIN-SUFFIX`: 543
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/Tencent/Tencent.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Tencent/Tencent.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`Tencent`
+- 分类显示名：`腾讯`
+- 文件：`rule/Surge/Tencent/Tencent.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Tencent/Tencent.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Tencent/Tencent.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Tencent/Tencent.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Tencent/Tencent.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Tencent/Tencent.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Tencent: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tencent/Tencent.list
+- [v2fly geosite tencent](https://github.com/v2fly/domain-list-community/blob/master/data/tencent)
 
-## English
+<details>
+<summary>English</summary>
 
 Tencent rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/Tencent/Tencent.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Tencent/Tencent.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Tencent/Tencent.list>
+
+</details>

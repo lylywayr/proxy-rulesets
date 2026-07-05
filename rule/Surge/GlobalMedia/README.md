@@ -1,36 +1,47 @@
-# GlobalMedia
+# 国际媒体
 
 ## 中文
 
-GlobalMedia 规则集。
+国际流媒体与海外媒体平台聚合规则。
+
+### 导航
+
+- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
+- 专题入口：
+- [流媒体专题](../../../guide/topics/streaming-media.md)
 
 ### 规则统计
 
-- 总数: `1024`
-- `DOMAIN-SUFFIX`: 1
-- `DOMAIN-KEYWORD`: 26
-- `USER-AGENT`: 69
-- `PROCESS-NAME`: 3
-- `IP-CIDR`: 918
-- `IP-CIDR6`: 6
-- `URL-REGEX`: 1
+- 总数：`1580`
+- `DOMAIN`: 24
+- `DOMAIN-SUFFIX`: 1556
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/GlobalMedia/GlobalMedia.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalMedia/GlobalMedia.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`GlobalMedia`
+- 分类显示名：`国际媒体`
+- 文件：`rule/Surge/GlobalMedia/GlobalMedia.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalMedia/GlobalMedia.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalMedia/GlobalMedia.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GlobalMedia/GlobalMedia.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GlobalMedia/GlobalMedia.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GlobalMedia/GlobalMedia.yaml>
 
 ### 数据来源
 
-- blackmatrix7 GlobalMedia: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia.list
+- [v2fly geosite category-media](https://github.com/v2fly/domain-list-community/blob/master/data/category-media)
 
-## English
+<details>
+<summary>English</summary>
 
 GlobalMedia rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/GlobalMedia/GlobalMedia.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalMedia/GlobalMedia.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalMedia/GlobalMedia.list>
+
+</details>

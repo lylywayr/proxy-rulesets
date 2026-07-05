@@ -2,29 +2,45 @@
 
 ## 中文
 
-AMD 规则集。
+AMD 相关品牌设备、厂商服务或硬件生态规则。
+
+### 导航
+
+- 所属分组：[品牌与硬件](../../../guide/groups/brands.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `4`
-- `DOMAIN-SUFFIX`: 4
+- 总数：`5`
+- `DOMAIN-SUFFIX`: 5
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/AMD/AMD.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AMD/AMD.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Egern`
+- 分类标识：`AMD`
+- 分类显示名：`AMD`
+- 文件：`rule/Egern/AMD/AMD.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AMD/AMD.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AMD/AMD.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AMD/AMD.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AMD/AMD.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AMD/AMD.yaml>
 
 ### 数据来源
 
-- blackmatrix7 AMD: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMD/AMD.list
+- [v2fly geosite amd](https://github.com/v2fly/domain-list-community/blob/master/data/amd)
 
-## English
+<details>
+<summary>English</summary>
 
 AMD rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/AMD/AMD.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AMD/AMD.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AMD/AMD.yaml>
+
+</details>

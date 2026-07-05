@@ -1,6 +1,6 @@
 # NAME: ChinaIPs
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:33:39.833170+00:00
+# UPDATED: 2026-07-05T01:34:25.138029+00:00
 no_resolve: true
 ip_cidr_set:
   - "1.0.1.0/24"

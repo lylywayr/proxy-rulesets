@@ -1,33 +1,46 @@
-# Alibaba
+# 阿里巴巴
 
 ## 中文
 
-Alibaba 规则集。
+Alibaba 相关支付、电商、银行、证券或交易服务规则。
+
+### 导航
+
+- 所属分组：[金融电商](../../../guide/groups/finance.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `57`
-- `DOMAIN-SUFFIX`: 3
-- `PROCESS-NAME`: 1
-- `IP-CIDR`: 53
-- `IP-CIDR6`: 1
+- 总数：`352`
+- `DOMAIN-SUFFIX`: 352
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Alibaba/Alibaba.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml`
-- 已省略的不兼容类型: PROCESS-NAME=1
+- 当前客户端：`Egern`
+- 分类标识：`Alibaba`
+- 分类显示名：`阿里巴巴`
+- 文件：`rule/Egern/Alibaba/Alibaba.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Alibaba/Alibaba.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Alibaba/Alibaba.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Alibaba/Alibaba.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Alibaba: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba.list
+- [v2fly geosite alibaba](https://github.com/v2fly/domain-list-community/blob/master/data/alibaba)
 
-## English
+<details>
+<summary>English</summary>
 
 Alibaba rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/Alibaba/Alibaba.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml`
-- Omitted unsupported types: `PROCESS-NAME=1`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml>
+
+</details>

@@ -1,25 +1,23 @@
 # NAME: BOC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:37.281353+00:00
+# UPDATED: 2026-07-05T01:24:33.405417+00:00
 no_resolve: true
 domain_suffix_set:
   - "boc.cn"
-  - "boccfc.cn"
-  - "bocgi.com"
   - "bocim.com"
-  - "bochk.com"
   - "boccfc.cc"
-  - "ftcwifi.com"
+  - "boccfc.cn"
+  - "bochk.com"
+  - "bocgi.com"
   - "bocgins.com"
   - "bocichina.cn"
   - "bocifunds.cn"
-  - "bocichina.com"
-  - "bocigroup.com"
   - "bocifunds.com"
+  - "bocigroup.com"
+  - "bocichina.com"
   - "bocamchina.com"
-  - "bochkonline.com"
-  - "bocaviation.com"
   - "bankofchina.com"
+  - "bocaviation.com"
   - "bank-of-china.com"
   - "bocfullertonbank.com"
   - "bocifunds.com.cn"

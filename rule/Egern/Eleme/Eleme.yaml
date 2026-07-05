@@ -1,18 +1,13 @@
 # NAME: Eleme
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:50:58.882412+00:00
+# UPDATED: 2026-07-05T01:43:47.765399+00:00
 no_resolve: true
 domain_suffix_set:
   - "ele.to"
   - "ele.me"
-  - "eleme.io"
   - "eleme.cn"
+  - "eleme.io"
   - "elenet.me"
-  - "xyzele.com"
   - "elemecdn.cn"
   - "elemecdn.com"
-  - "youcaishop.cn"
-  - "fengniaopaotui.cn"
-  - "xingxuanwaimai.com"
-  - "fengniaozhongbao.cn"
-  - "eleme.com.cn"
+  - "doservice.com"

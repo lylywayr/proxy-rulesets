@@ -1,7 +1,14 @@
 # NAME: Razer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:10.835531+00:00
+# UPDATED: 2026-07-05T01:44:15.921256+00:00
 no_resolve: true
 domain_suffix_set:
+  - "rzr.to"
   - "razer.com"
+  - "razerzone.jp"
+  - "razerapi.com"
   - "razerzone.com"
+  - "razersupport.com"
+  - "razersynapse.com"
+  - "razerofficial.com"
+  - "respawnbyrazer.com"

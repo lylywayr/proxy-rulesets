@@ -1,34 +1,46 @@
-# iQIYI
+# 爱奇艺
 
 ## 中文
 
-iQIYI 规则集。
+iQIYI 相关中国大陆站点、媒体或本地网络环境规则。
+
+### 导航
+
+- 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `62`
-- `DOMAIN-SUFFIX`: 34
-- `DOMAIN-KEYWORD`: 1
-- `USER-AGENT`: 6
-- `PROCESS-NAME`: 1
-- `IP-CIDR`: 21
+- 总数：`10`
+- `DOMAIN-SUFFIX`: 10
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/iQIYI/iQIYI.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/iQIYI/iQIYI.yaml`
-- 已省略的不兼容类型: PROCESS-NAME=1
+- 当前客户端：`Egern`
+- 分类标识：`iQIYI`
+- 分类显示名：`爱奇艺`
+- 文件：`rule/Egern/iQIYI/iQIYI.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/iQIYI/iQIYI.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/iQIYI/iQIYI.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/iQIYI/iQIYI.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/iQIYI/iQIYI.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/iQIYI/iQIYI.yaml>
 
 ### 数据来源
 
-- blackmatrix7 iQIYI: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYI/iQIYI.list
+- [v2fly geosite iqiyi](https://github.com/v2fly/domain-list-community/blob/master/data/iqiyi)
 
-## English
+<details>
+<summary>English</summary>
 
 iQIYI rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/iQIYI/iQIYI.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/iQIYI/iQIYI.yaml`
-- Omitted unsupported types: `PROCESS-NAME=1`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/iQIYI/iQIYI.yaml>
+
+</details>

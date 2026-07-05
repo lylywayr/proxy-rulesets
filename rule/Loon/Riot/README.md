@@ -1,30 +1,47 @@
-# Riot
+# 拳头游戏
 
 ## 中文
 
-Riot 规则集。
+Riot 相关游戏平台、游戏服务或下载分发规则。
+
+### 导航
+
+- 所属分组：[游戏平台](../../../guide/groups/gaming.md)
+- 专题入口：
+- [游戏平台专题](../../../guide/topics/gaming-platforms.md)
 
 ### 规则统计
 
-- 总数: `55`
-- `DOMAIN-SUFFIX`: 55
+- 总数：`54`
+- `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 53
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Riot/Riot.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Riot/Riot.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`Riot`
+- 分类显示名：`拳头游戏`
+- 文件：`rule/Loon/Riot/Riot.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Riot/Riot.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Riot/Riot.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Riot/Riot.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Riot/Riot.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Riot/Riot.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Riot: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Riot/Riot.list
+- [v2fly geosite riot](https://github.com/v2fly/domain-list-community/blob/master/data/riot)
 
-## English
+<details>
+<summary>English</summary>
 
 Riot rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/Riot/Riot.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Riot/Riot.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Riot/Riot.list>
+
+</details>

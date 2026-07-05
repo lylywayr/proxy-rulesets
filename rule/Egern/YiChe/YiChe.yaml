@@ -1,6 +1,6 @@
 # NAME: YiChe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:17.597188+00:00
+# UPDATED: 2026-07-05T01:44:16.175768+00:00
 no_resolve: true
 domain_suffix_set:
   - "yccdn.com"

@@ -2,29 +2,46 @@
 
 ## 中文
 
-Dropbox 规则集。
+Dropbox 相关办公协作、账户体系或效率服务规则。
+
+### 导航
+
+- 所属分组：[办公协作](../../../guide/groups/office.md)
+- 专题入口：
+- [办公协作专题](../../../guide/topics/office-collaboration.md)
 
 ### 规则统计
 
-- 总数: `17`
-- `DOMAIN-SUFFIX`: 17
+- 总数：`16`
+- `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 15
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/Dropbox/Dropbox.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Dropbox/Dropbox.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Clash`
+- 分类标识：`Dropbox`
+- 分类显示名：`Dropbox`
+- 文件：`rule/Clash/Dropbox/Dropbox.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Dropbox/Dropbox.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Dropbox/Dropbox.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Dropbox/Dropbox.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Dropbox/Dropbox.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Dropbox/Dropbox.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Dropbox: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dropbox/Dropbox.list
+- [v2fly geosite dropbox](https://github.com/v2fly/domain-list-community/blob/master/data/dropbox)
 
-## English
+<details>
+<summary>English</summary>
 
 Dropbox rule set.
 
-- Client: `Clash`
-- File: `rule/Clash/Dropbox/Dropbox.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Dropbox/Dropbox.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Clash`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Dropbox/Dropbox.yaml>
+
+</details>

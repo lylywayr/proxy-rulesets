@@ -1,6 +1,6 @@
 # NAME: Actalis
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:32.540224+00:00
+# UPDATED: 2026-07-05T01:24:32.968416+00:00
 payload:
   - DOMAIN-SUFFIX,actalis.it
   - DOMAIN-SUFFIX,actalis.com

@@ -1,15 +1,13 @@
 # NAME: HanYi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:01.737275+00:00
+# UPDATED: 2026-07-05T01:43:48.039670+00:00
 no_resolve: true
 domain_set:
   - "hellofontpreview.oss-cn-beijing.aliyuncs.com"
   - "hellowebfonts.oss-cn-beijing.aliyuncs.com"
 domain_suffix_set:
-  - "ifont.cn"
   - "hanyi.com"
-  - "joytype.com"
-  - "fontstudio.cn"
+  - "hellofont.cn"
   - "hellowebfont.com"
   - "hanyi.com.cn"
   - "fontstar.com.cn"

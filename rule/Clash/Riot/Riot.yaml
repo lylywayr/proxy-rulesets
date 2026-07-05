@@ -1,52 +1,53 @@
 # NAME: Riot
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:10.965949+00:00
+# UPDATED: 2026-07-05T01:44:15.925174+00:00
 payload:
+  - DOMAIN,lolstatic-a.akamaihd.net
   - DOMAIN-SUFFIX,pvp.tv
   - DOMAIN-SUFFIX,pvp.net
-  - DOMAIN-SUFFIX,ulol.com
-  - DOMAIN-SUFFIX,rgpub.io
   - DOMAIN-SUFFIX,riot.net
+  - DOMAIN-SUFFIX,ulol.com
   - DOMAIN-SUFFIX,riot.com
+  - DOMAIN-SUFFIX,rgpub.io
   - DOMAIN-SUFFIX,lolpcs.com
+  - DOMAIN-SUFFIX,lolclub.org
   - DOMAIN-SUFFIX,riotcdn.net
   - DOMAIN-SUFFIX,rstatic.net
-  - DOMAIN-SUFFIX,lolclub.org
   - DOMAIN-SUFFIX,riotpin.com
-  - DOMAIN-SUFFIX,lcsmerch.com
-  - DOMAIN-SUFFIX,riotgames.tv
   - DOMAIN-SUFFIX,lolespor.com
+  - DOMAIN-SUFFIX,lcsmerch.com
   - DOMAIN-SUFFIX,riotgames.jp
+  - DOMAIN-SUFFIX,riotgames.tv
   - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,riotgames.net
-  - DOMAIN-SUFFIX,lolfanart.net
   - DOMAIN-SUFFIX,lolstatic.com
+  - DOMAIN-SUFFIX,lolfanart.net
   - DOMAIN-SUFFIX,supremacy.com
   - DOMAIN-SUFFIX,supremacy.net
-  - DOMAIN-SUFFIX,riotpoints.com
-  - DOMAIN-SUFFIX,lol-europe.com
-  - DOMAIN-SUFFIX,molesports.com
-  - DOMAIN-SUFFIX,riot-games.com
-  - DOMAIN-SUFFIX,lolesports.com
-  - DOMAIN-SUFFIX,riotgames.info
   - DOMAIN-SUFFIX,ruinedking.com
+  - DOMAIN-SUFFIX,riot-games.com
+  - DOMAIN-SUFFIX,molesports.com
+  - DOMAIN-SUFFIX,lolesports.com
+  - DOMAIN-SUFFIX,lol-europe.com
+  - DOMAIN-SUFFIX,riotpoints.com
+  - DOMAIN-SUFFIX,riotgames.info
   - DOMAIN-SUFFIX,leaguesharp.info
   - DOMAIN-SUFFIX,playvalorant.com
+  - DOMAIN-SUFFIX,historyofdota.net
   - DOMAIN-SUFFIX,historyofdota.org
   - DOMAIN-SUFFIX,historyofdota.com
-  - DOMAIN-SUFFIX,historyofdota.net
-  - DOMAIN-SUFFIX,lolusercontent.com
-  - DOMAIN-SUFFIX,convrgencegame.com
-  - DOMAIN-SUFFIX,instituteofwar.org
   - DOMAIN-SUFFIX,leagueoflegends.kr
+  - DOMAIN-SUFFIX,convrgencegame.com
   - DOMAIN-SUFFIX,leagueoflegends.cn
-  - DOMAIN-SUFFIX,riotforgegames.com
-  - DOMAIN-SUFFIX,leaguoflegends.com
+  - DOMAIN-SUFFIX,instituteofwar.org
+  - DOMAIN-SUFFIX,lolusercontent.com
   - DOMAIN-SUFFIX,leagueoflegends.ca
+  - DOMAIN-SUFFIX,leaguoflegends.com
+  - DOMAIN-SUFFIX,riotforgegames.com
   - DOMAIN-SUFFIX,leagueoflegends.org
-  - DOMAIN-SUFFIX,leagueoflegends.net
-  - DOMAIN-SUFFIX,learnwithleague.com
   - DOMAIN-SUFFIX,leagueoflegends.com
+  - DOMAIN-SUFFIX,learnwithleague.com
+  - DOMAIN-SUFFIX,leagueoflegends.net
   - DOMAIN-SUFFIX,leaguehighschool.com
   - DOMAIN-SUFFIX,leagueoflegends.info
   - DOMAIN-SUFFIX,leagueoflegendsscripts.com
@@ -54,6 +55,4 @@ payload:
   - DOMAIN-SUFFIX,lpl.com.cn
   - DOMAIN-SUFFIX,lolshop.co.kr
   - DOMAIN-SUFFIX,riotgames.co.kr
-  - DOMAIN-SUFFIX,riotgames.zendesk.com
   - DOMAIN-SUFFIX,leagueoflegends.co.kr
-  - DOMAIN-SUFFIX,lolstatic-a.akamaihd.net

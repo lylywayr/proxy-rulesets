@@ -1,20 +1,8 @@
 # NAME: RTHK
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:11.039939+00:00
-# DOMAIN: 11
+# UPDATED: 2026-07-05T01:44:15.927174+00:00
 # DOMAIN-SUFFIX: 2
-# TOTAL: 13
+# TOTAL: 2
 
-DOMAIN,rthklive2-lh.akamaihd.net
-DOMAIN,rthkradio1-live.akamaized.net
-DOMAIN,rthkradio2-live.akamaized.net
-DOMAIN,rthkradio3-live.akamaized.net
-DOMAIN,rthkradio4-live.akamaized.net
-DOMAIN,rthkradio5-live.akamaized.net
-DOMAIN,rthkradiocmgrgb-live.akamaized.net
-DOMAIN,rthkradiocnrhk-live.akamaized.net
-DOMAIN,rthkradiopth-live.akamaized.net
-DOMAIN,rthktv31-live.akamaized.net
-DOMAIN,rthktv32-live.akamaized.net
 DOMAIN-SUFFIX,rthk.hk
-DOMAIN-SUFFIX,rthk.org.hk
+DOMAIN-SUFFIX,etvonline.hk

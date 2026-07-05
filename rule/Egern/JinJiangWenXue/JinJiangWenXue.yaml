@@ -1,12 +1,12 @@
 # NAME: JinJiangWenXue
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:04.195872+00:00
+# UPDATED: 2026-07-05T01:43:48.165363+00:00
 no_resolve: true
 domain_suffix_set:
   - "jjwxc.cn"
   - "jjwxc.org"
   - "jjwxc.com"
-  - "jjycw.net"
   - "jjwxc.net"
+  - "jjycw.net"
   - "robook.com"
   - "chaba123.com"

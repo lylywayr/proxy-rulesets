@@ -1,10 +1,10 @@
 # NAME: MOMOShop
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:07.057270+00:00
+# UPDATED: 2026-07-05T01:43:48.276637+00:00
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 
 DOMAIN-SUFFIX,momo.dm
 DOMAIN-SUFFIX,momo5188.com
-DOMAIN-SUFFIX,momoshop.com.tw
 DOMAIN-SUFFIX,momomall.com.tw
+DOMAIN-SUFFIX,momoshop.com.tw

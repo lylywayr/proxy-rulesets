@@ -1,6 +1,6 @@
 # NAME: friDay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:50:59.967210+00:00
+# UPDATED: 2026-07-05T01:43:47.814877+00:00
 no_resolve: true
 domain_suffix_set:
   - "friday.tw"

@@ -1,9 +1,18 @@
 # NAME: MeiTu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:06.263054+00:00
+# UPDATED: 2026-07-05T01:43:48.239750+00:00
 no_resolve: true
 domain_suffix_set:
+  - "wink.cn"
+  - "whee.com"
   - "meitu.com"
   - "meipai.com"
-  - "meitudata.com"
+  - "kaipai.com"
+  - "meiyan.com"
+  - "roboneo.com"
+  - "designkit.cn"
   - "meitustat.com"
+  - "meitudata.com"
+  - "meituxiuxiu.com"
+  - "miraclevision.com"
+  - "zcool.com.cn"

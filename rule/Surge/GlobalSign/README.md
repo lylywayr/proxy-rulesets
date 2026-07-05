@@ -2,29 +2,46 @@
 
 ## 中文
 
-GlobalSign 规则集。
+GlobalSign 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `13`
-- `DOMAIN-SUFFIX`: 13
+- 总数：`20`
+- `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 19
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/GlobalSign/GlobalSign.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalSign/GlobalSign.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`GlobalSign`
+- 分类显示名：`GlobalSign`
+- 文件：`rule/Surge/GlobalSign/GlobalSign.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalSign/GlobalSign.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalSign/GlobalSign.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GlobalSign/GlobalSign.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GlobalSign/GlobalSign.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GlobalSign/GlobalSign.yaml>
 
 ### 数据来源
 
-- blackmatrix7 GlobalSign: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalSign/GlobalSign.list
+- [v2fly geosite globalsign](https://github.com/v2fly/domain-list-community/blob/master/data/globalsign)
 
-## English
+<details>
+<summary>English</summary>
 
 GlobalSign rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/GlobalSign/GlobalSign.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalSign/GlobalSign.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalSign/GlobalSign.list>
+
+</details>

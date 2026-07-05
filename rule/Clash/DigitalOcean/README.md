@@ -2,29 +2,45 @@
 
 ## 中文
 
-DigitalOcean 规则集。
+DigitalOcean 相关游戏平台、游戏服务或下载分发规则。
+
+### 导航
+
+- 所属分组：[游戏平台](../../../guide/groups/gaming.md)
+- 专题入口：
+- [云网络专题](../../../guide/topics/cloud-network.md)
 
 ### 规则统计
 
-- 总数: `4`
-- `DOMAIN-SUFFIX`: 4
+- 总数：`6`
+- `DOMAIN-SUFFIX`: 6
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/DigitalOcean/DigitalOcean.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/DigitalOcean/DigitalOcean.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Clash`
+- 分类标识：`DigitalOcean`
+- 分类显示名：`DigitalOcean`
+- 文件：`rule/Clash/DigitalOcean/DigitalOcean.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/DigitalOcean/DigitalOcean.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/DigitalOcean/DigitalOcean.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/DigitalOcean/DigitalOcean.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/DigitalOcean/DigitalOcean.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/DigitalOcean/DigitalOcean.yaml>
 
 ### 数据来源
 
-- blackmatrix7 DigitalOcean: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigitalOcean/DigitalOcean.list
+- [v2fly geosite digitalocean](https://github.com/v2fly/domain-list-community/blob/master/data/digitalocean)
 
-## English
+<details>
+<summary>English</summary>
 
 DigitalOcean rule set.
 
-- Client: `Clash`
-- File: `rule/Clash/DigitalOcean/DigitalOcean.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/DigitalOcean/DigitalOcean.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Clash`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/DigitalOcean/DigitalOcean.yaml>
+
+</details>

@@ -1,19 +1,47 @@
 # NAME: Salesforce
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:11.118405+00:00
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2026-07-05T01:44:15.930174+00:00
+# DOMAIN-SUFFIX: 41
+# TOTAL: 41
 
+DOMAIN-SUFFIX,attic.io
+DOMAIN-SUFFIX,desk.com
+DOMAIN-SUFFIX,krux.com
+DOMAIN-SUFFIX,site.com
+DOMAIN-SUFFIX,data.com
 DOMAIN-SUFFIX,force.com
-DOMAIN-SUFFIX,heroku.com
-DOMAIN-SUFFIX,tableau.com
-DOMAIN-SUFFIX,mulesoft.com
-DOMAIN-SUFFIX,herokucdn.com
-DOMAIN-SUFFIX,trailhead.com
-DOMAIN-SUFFIX,herokuapp.com
-DOMAIN-SUFFIX,sfdcstatic.com
+DOMAIN-SUFFIX,sforce.com
+DOMAIN-SUFFIX,social.com
+DOMAIN-SUFFIX,pardot.com
+DOMAIN-SUFFIX,cotweet.com
+DOMAIN-SUFFIX,heywire.com
+DOMAIN-SUFFIX,metamind.io
+DOMAIN-SUFFIX,radian6.com
+DOMAIN-SUFFIX,chatter.com
+DOMAIN-SUFFIX,govforce.com
+DOMAIN-SUFFIX,appcloud.com
+DOMAIN-SUFFIX,relateiq.com
+DOMAIN-SUFFIX,quotable.com
+DOMAIN-SUFFIX,einstein.com
+DOMAIN-SUFFIX,sequence.com
+DOMAIN-SUFFIX,twinprime.com
+DOMAIN-SUFFIX,buddymedia.com
 DOMAIN-SUFFIX,salesforce.org
-DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,salesforce.com
-DOMAIN-SUFFIX,sfdcdigital.com
+DOMAIN-SUFFIX,demandware.com
+DOMAIN-SUFFIX,dreamforce.com
+DOMAIN-SUFFIX,beyondcore.com
+DOMAIN-SUFFIX,cloudcraze.com
+DOMAIN-SUFFIX,sfdcstatic.com
+DOMAIN-SUFFIX,steelbrick.com
+DOMAIN-SUFFIX,appexchange.com
+DOMAIN-SUFFIX,exacttarget.com
+DOMAIN-SUFFIX,weinvoiceit.com
+DOMAIN-SUFFIX,gravitytank.com
+DOMAIN-SUFFIX,salesforceiq.com
+DOMAIN-SUFFIX,documentforce.com
+DOMAIN-SUFFIX,marketingcloud.com
+DOMAIN-SUFFIX,salesforce-sites.com
+DOMAIN-SUFFIX,salesforce-setup.com
 DOMAIN-SUFFIX,salesforceliveagent.com
+DOMAIN-SUFFIX,salesforcemarketingcloud.com

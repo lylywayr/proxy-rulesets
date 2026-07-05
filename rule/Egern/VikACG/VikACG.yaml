@@ -1,6 +1,6 @@
 # NAME: VikACG
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:15.720083+00:00
+# UPDATED: 2026-07-05T01:44:16.091292+00:00
 no_resolve: true
 domain_suffix_set:
   - "picjs.xyz"

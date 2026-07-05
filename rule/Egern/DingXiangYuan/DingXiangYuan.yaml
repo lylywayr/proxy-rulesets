@@ -1,21 +1,21 @@
 # NAME: DingXiangYuan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:33:43.144197+00:00
+# UPDATED: 2026-07-05T01:34:25.647577+00:00
 no_resolve: true
 domain_suffix_set:
-  - "dxy.cn"
   - "dxy.me"
-  - "0dxy.cn"
-  - "dxy.net"
-  - "crou.cn"
+  - "dxy.cn"
   - "dxy.com"
-  - "jobmd.cn"
+  - "0dxy.cn"
+  - "crou.cn"
+  - "dxy.net"
   - "dxyer.cn"
+  - "jobmd.cn"
+  - "dxyer.com"
   - "pubmed.cn"
   - "mdnews.cn"
-  - "dxyer.com"
-  - "dxycdn.com"
   - "biomart.cn"
-  - "centerwatch.cn"
+  - "dxycdn.com"
   - "guanlannet.com"
+  - "centerwatch.cn"
   - "linkmed.com.cn"

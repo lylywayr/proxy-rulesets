@@ -1,23 +1,28 @@
 # NAME: PCCW
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:09.340508+00:00
+# UPDATED: 2026-07-05T01:43:48.353648+00:00
 no_resolve: true
+domain_set:
+  - "d1k2us671qcoau.cloudfront.net"
+  - "d2anahhhmp1ffz.cloudfront.net"
+  - "dfp6rglgjqszk.cloudfront.net"
 domain_suffix_set:
-  - "now.com"
-  - "hkt.com"
+  - "viu.tv"
+  - "nowe.hk"
   - "moov.hk"
   - "viu.com"
-  - "nowe.hk"
+  - "now.com"
+  - "hkt.com"
   - "uhub.com"
-  - "pccw.com"
   - "nowe.com"
+  - "pccw.com"
   - "hkcsl.com"
   - "now-tv.com"
-  - "hktshop.com"
   - "hkt-eye.com"
-  - "netvigator.com"
+  - "hktshop.com"
   - "pccwglobal.com"
   - "now-ashare.com"
+  - "netvigator.com"
   - "hktpremier.com"
   - "esmarthealth.com"
   - "hkteducation.com"
@@ -26,5 +31,5 @@ domain_suffix_set:
   - "now.com.hk"
   - "1010.com.hk"
   - "theclub.com.hk"
-  - "dfp6rglgjqszk.cloudfront.net"
-  - "d1k2us671qcoau.cloudfront.net"
+domain_regex_set:
+  - "^ewcdn[0-9]+\\.nowe\\.com$"

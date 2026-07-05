@@ -1,31 +1,31 @@
 # NAME: XieCheng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:17.357540+00:00
+# UPDATED: 2026-07-05T01:44:16.166767+00:00
 payload:
-  - DOMAIN-SUFFIX,trip.com
   - DOMAIN-SUFFIX,ctrip.cn
   - DOMAIN-SUFFIX,ctrip.my
+  - DOMAIN-SUFFIX,trip.com
   - DOMAIN-SUFFIX,ctrip.sg
-  - DOMAIN-SUFFIX,shuntu.cn
   - DOMAIN-SUFFIX,ctrip.com
-  - DOMAIN-SUFFIX,lvtds.com
+  - DOMAIN-SUFFIX,shuntu.cn
   - DOMAIN-SUFFIX,suanya.cn
-  - DOMAIN-SUFFIX,toptown.cn
-  - DOMAIN-SUFFIX,tieyou.com
-  - DOMAIN-SUFFIX,skysea.com
+  - DOMAIN-SUFFIX,lvtds.com
   - DOMAIN-SUFFIX,vipdlt.com
+  - DOMAIN-SUFFIX,skysea.com
+  - DOMAIN-SUFFIX,tieyou.com
+  - DOMAIN-SUFFIX,toptown.cn
   - DOMAIN-SUFFIX,suanya.com
-  - DOMAIN-SUFFIX,c-ctrip.com
   - DOMAIN-SUFFIX,ctripbuy.hk
   - DOMAIN-SUFFIX,tripcdn.com
+  - DOMAIN-SUFFIX,c-ctrip.com
   - DOMAIN-SUFFIX,toursbms.com
-  - DOMAIN-SUFFIX,easytrip.com
-  - DOMAIN-SUFFIX,hhtravel.com
   - DOMAIN-SUFFIX,colinker.com
+  - DOMAIN-SUFFIX,hhtravel.com
   - DOMAIN-SUFFIX,ctripbiz.com
-  - DOMAIN-SUFFIX,ctripteam.com
-  - DOMAIN-SUFFIX,doticloud.com
+  - DOMAIN-SUFFIX,easytrip.com
   - DOMAIN-SUFFIX,izuchebao.com
+  - DOMAIN-SUFFIX,doticloud.com
+  - DOMAIN-SUFFIX,ctripteam.com
   - DOMAIN-SUFFIX,ctrip.co.th
   - DOMAIN-SUFFIX,ctrip.co.kr
   - DOMAIN-SUFFIX,ctrip.co.id

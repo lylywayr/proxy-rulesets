@@ -2,29 +2,45 @@
 
 ## 中文
 
-NYPost 规则集。
+NYPost 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `3`
+- 总数：`3`
 - `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/NYPost/NYPost.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/NYPost/NYPost.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`NYPost`
+- 分类显示名：`NYPost`
+- 文件：`rule/Surge/NYPost/NYPost.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/NYPost/NYPost.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/NYPost/NYPost.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/NYPost/NYPost.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/NYPost/NYPost.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/NYPost/NYPost.yaml>
 
 ### 数据来源
 
-- blackmatrix7 NYPost: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYPost/NYPost.list
+- [v2fly geosite nypost](https://github.com/v2fly/domain-list-community/blob/master/data/nypost)
 
-## English
+<details>
+<summary>English</summary>
 
 NYPost rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/NYPost/NYPost.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/NYPost/NYPost.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/NYPost/NYPost.list>
+
+</details>

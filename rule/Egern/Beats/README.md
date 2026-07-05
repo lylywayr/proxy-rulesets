@@ -2,29 +2,46 @@
 
 ## 中文
 
-Beats 规则集。
+Beats 相关游戏平台、游戏服务或下载分发规则。
+
+### 导航
+
+- 所属分组：[游戏平台](../../../guide/groups/gaming.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `714`
-- `DOMAIN-SUFFIX`: 714
+- 总数：`716`
+- `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 715
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Beats/Beats.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Beats/Beats.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Egern`
+- 分类标识：`Beats`
+- 分类显示名：`Beats`
+- 文件：`rule/Egern/Beats/Beats.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Beats/Beats.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Beats/Beats.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Beats/Beats.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Beats/Beats.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Beats/Beats.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Beats: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Beats/Beats.list
+- [v2fly geosite beats](https://github.com/v2fly/domain-list-community/blob/master/data/beats)
 
-## English
+<details>
+<summary>English</summary>
 
 Beats rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/Beats/Beats.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Beats/Beats.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Beats/Beats.yaml>
+
+</details>

@@ -1,6 +1,6 @@
 # NAME: Duolingo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:50:58.511663+00:00
+# UPDATED: 2026-07-05T01:43:47.741438+00:00
 payload:
   - DOMAIN-SUFFIX,duolingo.cn
   - DOMAIN-SUFFIX,duolingo.com

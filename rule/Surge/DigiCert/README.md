@@ -2,29 +2,45 @@
 
 ## 中文
 
-DigiCert 规则集。
+DigiCert 相关云服务、CDN、DNS、证书或网络基础设施规则。
+
+### 导航
+
+- 所属分组：[云与网络](../../../guide/groups/network.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `14`
-- `DOMAIN-SUFFIX`: 14
+- 总数：`74`
+- `DOMAIN-SUFFIX`: 74
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/DigiCert/DigiCert.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/DigiCert/DigiCert.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`DigiCert`
+- 分类显示名：`DigiCert`
+- 文件：`rule/Surge/DigiCert/DigiCert.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/DigiCert/DigiCert.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/DigiCert/DigiCert.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/DigiCert/DigiCert.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/DigiCert/DigiCert.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/DigiCert/DigiCert.yaml>
 
 ### 数据来源
 
-- blackmatrix7 DigiCert: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigiCert/DigiCert.list
+- [v2fly geosite digicert](https://github.com/v2fly/domain-list-community/blob/master/data/digicert)
 
-## English
+<details>
+<summary>English</summary>
 
 DigiCert rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/DigiCert/DigiCert.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/DigiCert/DigiCert.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/DigiCert/DigiCert.list>
+
+</details>

@@ -1,9 +1,16 @@
 # NAME: OKX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:08.398053+00:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2026-07-05T01:43:48.321644+00:00
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
 
+DOMAIN-SUFFIX,okx.ac
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,xlayer.tech
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net

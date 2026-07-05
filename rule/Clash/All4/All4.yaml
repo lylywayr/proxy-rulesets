@@ -1,6 +1,6 @@
 # NAME: All4
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:33.830792+00:00
+# UPDATED: 2026-07-05T01:24:33.052817+00:00
 payload:
   - DOMAIN-SUFFIX,c4assets.com
   - DOMAIN-SUFFIX,channel4.com

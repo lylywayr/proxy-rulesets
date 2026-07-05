@@ -1,27 +1,72 @@
 # NAME: Mozilla
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:07.207043+00:00
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
+# UPDATED: 2026-07-05T01:43:48.281917+00:00
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 64
+# TOTAL: 65
 
-DOMAIN-SUFFIX,docs.rs
-DOMAIN-SUFFIX,crates.io
-DOMAIN-SUFFIX,rustup.rs
-DOMAIN-SUFFIX,mozilla.com
-DOMAIN-SUFFIX,mozilla.net
+DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN-SUFFIX,mzl.la
+DOMAIN-SUFFIX,tb.pro
+DOMAIN-SUFFIX,mdn.dev
+DOMAIN-SUFFIX,foxkeh.jp
+DOMAIN-SUFFIX,mozgcp.net
+DOMAIN-SUFFIX,mozilla.pt
+DOMAIN-SUFFIX,mozilla.cz
+DOMAIN-SUFFIX,foxkeh.com
+DOMAIN-SUFFIX,mozilla.ai
+DOMAIN-SUFFIX,mozilla.lt
+DOMAIN-SUFFIX,mozilla.jp
+DOMAIN-SUFFIX,firefox.hu
+DOMAIN-SUFFIX,mozilla.pe
+DOMAIN-SUFFIX,mozaws.net
+DOMAIN-SUFFIX,mozilla.ro
+DOMAIN-SUFFIX,mozilla.de
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozit.cloud
+DOMAIN-SUFFIX,allizom.net
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,allizom.org
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,mdnyalp.dev
+DOMAIN-SUFFIX,mdnplay.dev
 DOMAIN-SUFFIX,bugzilla.org
-DOMAIN-SUFFIX,mofoprod.net
+DOMAIN-SUFFIX,itisatrap.org
+DOMAIN-SUFFIX,popcornjs.org
+DOMAIN-SUFFIX,mozillabd.org
 DOMAIN-SUFFIX,getpocket.com
-DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,mozillazine.jp
+DOMAIN-SUFFIX,mozillians.org
+DOMAIN-SUFFIX,ecmascript.org
+DOMAIN-SUFFIX,onemozilla.org
+DOMAIN-SUFFIX,getfirebug.com
+DOMAIN-SUFFIX,getpersonas.com
+DOMAIN-SUFFIX,interforest.org
+DOMAIN-SUFFIX,hackasaurus.org
+DOMAIN-SUFFIX,thundermail.com
+DOMAIN-SUFFIX,mozillalabs.com
 DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,publicsuffix.org
+DOMAIN-SUFFIX,mozillademos.org
+DOMAIN-SUFFIX,opentimetable.jp
+DOMAIN-SUFFIX,mecha-mozilla.org
 DOMAIN-SUFFIX,mozilla.community
+DOMAIN-SUFFIX,mozillaignite.org
+DOMAIN-SUFFIX,mozillaquebec.org
+DOMAIN-SUFFIX,webmademovies.org
+DOMAIN-SUFFIX,extendfirefox.com
+DOMAIN-SUFFIX,mozilla-mexico.org
+DOMAIN-SUFFIX,mozilla-europe.org
+DOMAIN-SUFFIX,lizardwrangler.com
+DOMAIN-SUFFIX,mozillafactory.org
+DOMAIN-SUFFIX,mozilla-hispano.org
+DOMAIN-SUFFIX,detodosparatodos.org
+DOMAIN-SUFFIX,discovershiretoko.org
 DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,mozillafoundation.org
 DOMAIN-SUFFIX,extensionworkshop.com
-DOMAIN-SUFFIX,pocket-image-cache.com
 DOMAIN-SUFFIX,firefoxusercontent.com
-DOMAIN-SUFFIX,firefox.com.cn
-DOMAIN-SUFFIX,mdn.mozillademos.org
-DOMAIN-SUFFIX,sentry.prod.mozaws.net
-DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
+DOMAIN-SUFFIX,firefoxtweetmachine.com
+DOMAIN-SUFFIX,learningfreedomandtheweb.org
+DOMAIN-SUFFIX,mozilla.org.uk

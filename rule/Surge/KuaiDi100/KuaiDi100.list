@@ -1,12 +1,10 @@
 # NAME: KuaiDi100
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:04.783753+00:00
-# DOMAIN-SUFFIX: 6
-# TOTAL: 6
+# UPDATED: 2026-07-05T01:43:48.185363+00:00
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
 
 DOMAIN-SUFFIX,ckd.im
 DOMAIN-SUFFIX,kd100.com
-DOMAIN-SUFFIX,baidiapp.com
-DOMAIN-SUFFIX,baidinet.com
 DOMAIN-SUFFIX,kuaidilab.com
 DOMAIN-SUFFIX,kuaidi100.com

@@ -1,30 +1,48 @@
-# ZhiYinManKe
+# 知音漫客
 
 ## 中文
 
-ZhiYinManKe 规则集。
+ZhiYinManKe 相关通用互联网服务规则。
+
+> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `17`
+- 总数：`17`
 - `DOMAIN-SUFFIX`: 17
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/ZhiYinManKe/ZhiYinManKe.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhiYinManKe/ZhiYinManKe.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Clash`
+- 分类标识：`ZhiYinManKe`
+- 分类显示名：`知音漫客`
+- 文件：`rule/Clash/ZhiYinManKe/ZhiYinManKe.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhiYinManKe/ZhiYinManKe.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ZhiYinManKe/ZhiYinManKe.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ZhiYinManKe/ZhiYinManKe.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhiYinManKe/ZhiYinManKe.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ZhiYinManKe/ZhiYinManKe.yaml>
 
 ### 数据来源
 
-- blackmatrix7 ZhiYinManKe: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhiYinManKe/ZhiYinManKe.list
+- [blackmatrix7 ZhiYinManKe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhiYinManKe/ZhiYinManKe.list)
 
-## English
+<details>
+<summary>English</summary>
 
 ZhiYinManKe rule set.
 
-- Client: `Clash`
-- File: `rule/Clash/ZhiYinManKe/ZhiYinManKe.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhiYinManKe/ZhiYinManKe.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Clash`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhiYinManKe/ZhiYinManKe.yaml>
+
+</details>

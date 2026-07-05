@@ -1,8 +1,11 @@
 # NAME: Gog
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:00.923912+00:00
+# UPDATED: 2026-07-05T01:43:47.981050+00:00
 payload:
-  - DOMAIN,gog.salesmanago.com
+  - DOMAIN,gog-cdn-lumen.secure2.footprint.net
+  - DOMAIN,gog-cdn.akamaized.net
+  - DOMAIN,gog.qtlglb.com
   - DOMAIN-SUFFIX,gog.com
+  - DOMAIN-SUFFIX,gogalaxy.com
   - DOMAIN-SUFFIX,gog-statics.com
-  - DOMAIN-SUFFIX,gog.qtlglb.com
+  - DOMAIN-SUFFIX,gog-services.com

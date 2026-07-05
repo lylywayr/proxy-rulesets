@@ -1,16 +1,10 @@
 # NAME: XueQiu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:17.478507+00:00
+# UPDATED: 2026-07-05T01:44:16.171767+00:00
 no_resolve: true
 domain_suffix_set:
-  - "ncfjj.com"
-  - "imeigu.cn"
-  - "imedao.com"
   - "xueqiu.com"
-  - "iganggu.com"
+  - "imedao.com"
   - "aiganggu.com"
-  - "danjuanapp.com"
   - "danjuanfunds.com"
-  - "snowballfinance.com"
   - "snowballsecurities.com"
-  - "imeigu.com.cn"

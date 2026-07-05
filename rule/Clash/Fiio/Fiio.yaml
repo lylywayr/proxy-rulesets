@@ -1,8 +1,8 @@
 # NAME: Fiio
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:50:59.571577+00:00
+# UPDATED: 2026-07-05T01:43:47.797554+00:00
 payload:
   - DOMAIN-SUFFIX,fiio.cn
-  - DOMAIN-SUFFIX,fiio.net
   - DOMAIN-SUFFIX,fiio.com
+  - DOMAIN-SUFFIX,fiio.net
   - DOMAIN-SUFFIX,fiio.com.cn

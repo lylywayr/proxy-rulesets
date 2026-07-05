@@ -2,29 +2,47 @@
 
 ## 中文
 
-Spark 规则集。
+Spark 相关通用互联网服务规则。
+
+> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `5`
+- 总数：`5`
 - `DOMAIN-SUFFIX`: 5
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Spark/Spark.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Spark/Spark.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Egern`
+- 分类标识：`Spark`
+- 分类显示名：`Spark`
+- 文件：`rule/Egern/Spark/Spark.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Spark/Spark.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Spark/Spark.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Spark/Spark.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Spark/Spark.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Spark/Spark.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Spark: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spark/Spark.list
+- [blackmatrix7 Spark](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spark/Spark.list)
 
-## English
+<details>
+<summary>English</summary>
 
 Spark rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/Spark/Spark.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Spark/Spark.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Spark/Spark.yaml>
+
+</details>

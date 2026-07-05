@@ -1,11 +1,10 @@
 # NAME: Download
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:50:58.283344+00:00
+# UPDATED: 2026-07-05T01:43:47.732365+00:00
 # DOMAIN-SUFFIX: 1
 # DOMAIN-KEYWORD: 5
-# PROCESS-NAME: 13
 # URL-REGEX: 1
-# TOTAL: 20
+# TOTAL: 7
 
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-KEYWORD,aria2
@@ -13,17 +12,4 @@ DOMAIN-KEYWORD,thunder
 DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
-PROCESS-NAME,BitComet
-PROCESS-NAME,DownloadService
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
-PROCESS-NAME,Transmission
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrentHelper
-PROCESS-NAME,Weiyun
-PROCESS-NAME,aria2c
-PROCESS-NAME,fdm
-PROCESS-NAME,qbittorrent
-PROCESS-NAME,uTorrent
 URL-REGEX,assets\d+\.xboxlive\.(com|cn)

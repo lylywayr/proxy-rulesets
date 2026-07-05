@@ -1,11 +1,15 @@
 # NAME: Protonmail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:10.095556+00:00
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# UPDATED: 2026-07-05T01:43:48.380864+00:00
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
 
 DOMAIN-SUFFIX,pm.me
 DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonvpn.ch
+DOMAIN-SUFFIX,protonvpn.com
+DOMAIN-SUFFIX,protontech.ch
 DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonweb.com
 DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,protonstatus.com

@@ -1,11 +1,12 @@
 # NAME: Gucci
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:01.575225+00:00
+# UPDATED: 2026-07-05T01:43:48.034331+00:00
 no_resolve: true
 domain_suffix_set:
+  - "gucci"
   - "gucci.cn"
   - "gucci.com"
-  - "guccimuseo.com"
   - "regiongold.com"
+  - "guccimuseo.com"
   - "guccitimeless.com"
   - "chimeforchange.org"

@@ -1,30 +1,48 @@
-# AppleID
+# 苹果账号
 
 ## 中文
 
-AppleID 规则集。
+Apple ID 相关 Apple 生态服务规则。
+
+> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
+
+### 导航
+
+- 所属分组：[苹果生态](../../../guide/groups/apple.md)
+- 专题入口：
+- [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
 ### 规则统计
 
-- 总数: `4`
+- 总数：`4`
 - `DOMAIN`: 4
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/AppleID/AppleID.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AppleID/AppleID.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`AppleID`
+- 分类显示名：`苹果账号`
+- 文件：`rule/Surge/AppleID/AppleID.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AppleID/AppleID.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AppleID/AppleID.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AppleID/AppleID.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AppleID/AppleID.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AppleID/AppleID.yaml>
 
 ### 数据来源
 
-- blackmatrix7 AppleID: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleID/AppleID.list
+- [blackmatrix7 AppleID](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleID/AppleID.list)
 
-## English
+<details>
+<summary>English</summary>
 
 AppleID rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/AppleID/AppleID.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AppleID/AppleID.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AppleID/AppleID.list>
+
+</details>

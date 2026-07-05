@@ -1,38 +1,48 @@
-# Google
+# 谷歌
 
 ## 中文
 
-Google 通用服务规则，不含 YouTube 独立分类。
+Google 通用服务规则，覆盖账户、基础平台与办公能力。
+
+### 导航
+
+- 所属分组：[办公协作](../../../guide/groups/office.md)
+- 专题入口：
+- [办公协作专题](../../../guide/topics/office-collaboration.md)
 
 ### 规则统计
 
-- 总数: `806`
-- `DOMAIN-SUFFIX`: 792
-- `DOMAIN-KEYWORD`: 2
-- `PROCESS-NAME`: 7
-- `IP-CIDR`: 4
-- `IP-CIDR6`: 1
+- 总数：`832`
+- `DOMAIN`: 46
+- `DOMAIN-SUFFIX`: 784
+- `DOMAIN-REGEX`: 2
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Google/Google.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Google/Google.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`Google`
+- 分类显示名：`谷歌`
+- 文件：`rule/Loon/Google/Google.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Google/Google.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Google/Google.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Google/Google.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Google/Google.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Google/Google.yaml>
 
 ### 数据来源
 
-- Loyalsoldier Google: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt
-- blackmatrix7 Google source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list
-- LM-Firefly Google list: https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list
-- ACL4SSR Google list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
-- ACL4SSR Google provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Google.yaml
+- [v2fly geosite google](https://github.com/v2fly/domain-list-community/blob/master/data/google)
 
-## English
+<details>
+<summary>English</summary>
 
 General Google service rules, excluding the separate YouTube category.
 
-- Client: `Loon`
-- File: `rule/Loon/Google/Google.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Google/Google.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Google/Google.list>
+
+</details>

@@ -2,31 +2,46 @@
 
 ## 中文
 
-TeamViewer 规则集。
+TeamViewer 相关游戏平台、游戏服务或下载分发规则。
+
+### 导航
+
+- 所属分组：[游戏平台](../../../guide/groups/gaming.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `8`
-- `DOMAIN-SUFFIX`: 1
-- `IP-CIDR`: 3
-- `IP-CIDR6`: 4
+- 总数：`5`
+- `DOMAIN`: 2
+- `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/TeamViewer/TeamViewer.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/TeamViewer/TeamViewer.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`TeamViewer`
+- 分类显示名：`TeamViewer`
+- 文件：`rule/Loon/TeamViewer/TeamViewer.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/TeamViewer/TeamViewer.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/TeamViewer/TeamViewer.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/TeamViewer/TeamViewer.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/TeamViewer/TeamViewer.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/TeamViewer/TeamViewer.yaml>
 
 ### 数据来源
 
-- blackmatrix7 TeamViewer: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TeamViewer/TeamViewer.list
+- [v2fly geosite teamviewer](https://github.com/v2fly/domain-list-community/blob/master/data/teamviewer)
 
-## English
+<details>
+<summary>English</summary>
 
 TeamViewer rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/TeamViewer/TeamViewer.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/TeamViewer/TeamViewer.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/TeamViewer/TeamViewer.list>
+
+</details>

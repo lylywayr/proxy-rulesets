@@ -1,6 +1,6 @@
 # NAME: HeroesoftheStorm
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:02.096115+00:00
+# UPDATED: 2026-07-05T01:43:48.051669+00:00
 payload:
   - IP-CIDR,24.105.30.129/32
   - IP-CIDR,24.105.62.129/32

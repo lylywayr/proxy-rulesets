@@ -1,22 +1,16 @@
 # NAME: OneDrive
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:08.479816+00:00
+# UPDATED: 2026-07-05T01:43:48.324649+00:00
 no_resolve: true
 domain_suffix_set:
+  - "1drv.ms"
   - "1drv.com"
+  - "onedrive.co"
+  - "onedrive.eu"
   - "onedrive.com"
-  - "sharepoint.com"
+  - "onedrive.org"
+  - "onedrive.net"
   - "livefilestore.com"
-  - "sharepointonline.com"
-  - "microsoftpersonalcontent.com"
-  - "photos.live.com"
-  - "storage.msn.com"
+  - "onedrive.co.uk"
   - "storage.live.com"
-  - "oneclient.sfx.ms"
   - "onedrive.live.com"
-  - "spoprod-a.akamaihd.net"
-  - "skydrive.wns.windows.com"
-domain_keyword_set:
-  - "1drv"
-  - "onedrive"
-  - "skydrive"

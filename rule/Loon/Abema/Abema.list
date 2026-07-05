@@ -1,9 +1,9 @@
 # NAME: Abema
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:32.231083+00:00
+# UPDATED: 2026-07-05T01:24:32.957416+00:00
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 15
-# TOTAL: 20
+# DOMAIN-SUFFIX: 16
+# TOTAL: 21
 
 DOMAIN,abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
@@ -13,15 +13,16 @@ DOMAIN,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abema.io
-DOMAIN-SUFFIX,adx.promo
 DOMAIN-SUFFIX,ameblo.jp
+DOMAIN-SUFFIX,adx.promo
 DOMAIN-SUFFIX,amebame.com
 DOMAIN-SUFFIX,hayabusa.io
-DOMAIN-SUFFIX,bucketeer.jp
-DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,winticket.jp
+DOMAIN-SUFFIX,bucketeer.jp
+DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,amebaownd.com
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,amebaowndme.com
 DOMAIN-SUFFIX,dokusho-ojikan.jp
+DOMAIN-SUFFIX,abematv.co.jp

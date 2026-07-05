@@ -1,7 +1,12 @@
 # NAME: TapTap
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:13.142832+00:00
+# UPDATED: 2026-07-05T01:44:16.004694+00:00
 no_resolve: true
 domain_suffix_set:
-  - "tap.io"
-  - "taptap.tw"
+  - "taptap.io"
+  - "taptap.cn"
+  - "tapimg.com"
+  - "taptap.com"
+  - "tapimg.net"
+  - "tapapks.com"
+  - "taptapdada.com"

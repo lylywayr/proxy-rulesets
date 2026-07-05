@@ -2,29 +2,45 @@
 
 ## 中文
 
-SmarTone 规则集。
+SmarTone 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `15`
+- 总数：`15`
 - `DOMAIN-SUFFIX`: 15
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/SmarTone/SmarTone.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/SmarTone/SmarTone.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`SmarTone`
+- 分类显示名：`SmarTone`
+- 文件：`rule/Loon/SmarTone/SmarTone.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/SmarTone/SmarTone.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/SmarTone/SmarTone.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/SmarTone/SmarTone.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/SmarTone/SmarTone.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/SmarTone/SmarTone.yaml>
 
 ### 数据来源
 
-- blackmatrix7 SmarTone: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SmarTone/SmarTone.list
+- [v2fly geosite smartone](https://github.com/v2fly/domain-list-community/blob/master/data/smartone)
 
-## English
+<details>
+<summary>English</summary>
 
 SmarTone rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/SmarTone/SmarTone.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/SmarTone/SmarTone.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/SmarTone/SmarTone.list>
+
+</details>

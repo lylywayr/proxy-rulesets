@@ -1,25 +1,26 @@
 # NAME: Telegram
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:13.613846+00:00
+# UPDATED: 2026-07-05T01:44:16.011694+00:00
 no_resolve: true
 domain_suffix_set:
   - "t.me"
+  - "tx.me"
+  - "tg.dev"
+  - "ton.org"
+  - "graph.org"
   - "telegra.ph"
+  - "telega.one"
   - "telesco.pe"
+  - "contest.com"
   - "telegram.me"
-  - "tdesktop.com"
+  - "comments.app"
+  - "telegram.dog"
   - "telegram.org"
-domain_keyword_set:
-  - "telegram"
-ip_cidr_set:
-  - "91.105.192.0/23"
-  - "91.108.0.0/16"
-  - "95.161.64.0/20"
-  - "109.239.140.0/24"
-  - "149.154.160.0/20"
-  - "185.76.151.0/24"
-ip_cidr6_set:
-  - "2001:67c:4e8::/48"
-  - "2001:b28:f23c::/47"
-  - "2001:b28:f23f::/48"
-  - "2a0a:f280::/32"
+  - "tdesktop.com"
+  - "fragment.com"
+  - "toncenter.com"
+  - "quiz.directory"
+  - "telegram.space"
+  - "usercontent.dev"
+  - "cdn-telegram.org"
+  - "telegram-cdn.org"

@@ -1,48 +1,48 @@
 # NAME: ChinaMaxNoIP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:33:40.359046+00:00
+# UPDATED: 2026-07-05T01:34:25.361838+00:00
 payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
-  - DOMAIN-SUFFIX,sohu
   - DOMAIN-SUFFIX,icbc
   - DOMAIN-SUFFIX,wang
+  - DOMAIN-SUFFIX,sohu
   - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,unicom
   - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,xn--vhquv
-  - DOMAIN-SUFFIX,xn--fiqs8s
-  - DOMAIN-SUFFIX,xn--unup4y
-  - DOMAIN-SUFFIX,xn--czrs0t
-  - DOMAIN-SUFFIX,xn--9et52u
-  - DOMAIN-SUFFIX,xn--fiq64b
   - DOMAIN-SUFFIX,xn--kput3i
-  - DOMAIN-SUFFIX,xn--5tzm5g
   - DOMAIN-SUFFIX,xn--55qx5d
-  - DOMAIN-SUFFIX,xn--fiqz9s
-  - DOMAIN-SUFFIX,xn--io0a7i
+  - DOMAIN-SUFFIX,xn--5tzm5g
   - DOMAIN-SUFFIX,xn--czru2d
+  - DOMAIN-SUFFIX,xn--unup4y
+  - DOMAIN-SUFFIX,xn--9et52u
+  - DOMAIN-SUFFIX,xn--fiqs8s
+  - DOMAIN-SUFFIX,xn--fiq64b
+  - DOMAIN-SUFFIX,xn--io0a7i
+  - DOMAIN-SUFFIX,xn--fiqz9s
+  - DOMAIN-SUFFIX,xn--czrs0t
+  - DOMAIN-SUFFIX,xn--3bst00m
+  - DOMAIN-SUFFIX,xn--imr513n
+  - DOMAIN-SUFFIX,xn--ses554g
+  - DOMAIN-SUFFIX,xn--hxt814e
+  - DOMAIN-SUFFIX,xn--6frz82g
+  - DOMAIN-SUFFIX,xn--rhqv96g
+  - DOMAIN-SUFFIX,xn--fjq720a
+  - DOMAIN-SUFFIX,xn--55qw42g
+  - DOMAIN-SUFFIX,xn--nyqy26a
+  - DOMAIN-SUFFIX,xn--vuq861b
+  - DOMAIN-SUFFIX,xn--otu796d
   - DOMAIN-SUFFIX,xn--xhq521b
+  - DOMAIN-SUFFIX,xn--3ds443g
+  - DOMAIN-SUFFIX,xn--1qqw23a
   - DOMAIN-SUFFIX,xn--g2xx48c
   - DOMAIN-SUFFIX,xn--czr694b
-  - DOMAIN-SUFFIX,xn--55qw42g
-  - DOMAIN-SUFFIX,xn--otu796d
-  - DOMAIN-SUFFIX,xn--nyqy26a
-  - DOMAIN-SUFFIX,xn--rhqv96g
-  - DOMAIN-SUFFIX,xn--6frz82g
-  - DOMAIN-SUFFIX,xn--fjq720a
-  - DOMAIN-SUFFIX,xn--3bst00m
-  - DOMAIN-SUFFIX,xn--ses554g
-  - DOMAIN-SUFFIX,xn--imr513n
-  - DOMAIN-SUFFIX,xn--3ds443g
-  - DOMAIN-SUFFIX,xn--hxt814e
   - DOMAIN-SUFFIX,xn--zfr164b
-  - DOMAIN-SUFFIX,xn--vuq861b
-  - DOMAIN-SUFFIX,xn--1qqw23a
   - DOMAIN-SUFFIX,xn--8y0a063a
-  - DOMAIN-SUFFIX,xn--6qq986b3xl
   - DOMAIN-SUFFIX,xn--fiq228c5hs
+  - DOMAIN-SUFFIX,xn--6qq986b3xl
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
@@ -121,15 +121,3 @@ payload:
   - USER-AGENT,walkman*
   - USER-AGENT,xiami*
   - USER-AGENT,youku*
-  - PROCESS-NAME,Thunder
-  - PROCESS-NAME,com.bilibili.app.blue
-  - PROCESS-NAME,com.bilibili.app.in
-  - PROCESS-NAME,com.bilibili.comic
-  - PROCESS-NAME,com.bilibili.comic.intl
-  - PROCESS-NAME,com.jjwxc.reader
-  - PROCESS-NAME,com.qiyi.video
-  - PROCESS-NAME,com.taobao.taobao
-  - PROCESS-NAME,com.xiaomi.mibrain.speech
-  - PROCESS-NAME,com.zhiliaoapp.musically
-  - PROCESS-NAME,tv.danmaku.bili
-  - PROCESS-NAME,tv.danmaku.bilibilihd

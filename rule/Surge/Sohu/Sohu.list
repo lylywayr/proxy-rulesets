@@ -1,59 +1,14 @@
 # NAME: Sohu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:12.148581+00:00
-# DOMAIN-SUFFIX: 53
-# TOTAL: 53
+# UPDATED: 2026-07-05T01:44:15.967583+00:00
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
 
-DOMAIN-SUFFIX,sg.cn
-DOMAIN-SUFFIX,k.sohu
+DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,itc.cn
-DOMAIN-SUFFIX,v.sohu
-DOMAIN-SUFFIX,m.sohu
-DOMAIN-SUFFIX,qd.ink
-DOMAIN-SUFFIX,t.sohu
-DOMAIN-SUFFIX,tv.sohu
-DOMAIN-SUFFIX,sohu.cn
-DOMAIN-SUFFIX,sogo.com
-DOMAIN-SUFFIX,teemo.cn
-DOMAIN-SUFFIX,sogou.cn
 DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,dm518.cn
-DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,focus.cn
-DOMAIN-SUFFIX,pinyin.cn
-DOMAIN-SUFFIX,domeos.cn
-DOMAIN-SUFFIX,sogou.net
-DOMAIN-SUFFIX,sogou.com
-DOMAIN-SUFFIX,xinyan.cn
-DOMAIN-SUFFIX,acoloo.com
-DOMAIN-SUFFIX,go2map.com
+DOMAIN-SUFFIX,56img.com
 DOMAIN-SUFFIX,sohucs.com
-DOMAIN-SUFFIX,ggowan.com
-DOMAIN-SUFFIX,sgyouxi.com
-DOMAIN-SUFFIX,sohusce.com
-DOMAIN-SUFFIX,sohurdc.com
-DOMAIN-SUFFIX,ggoplay.com
-DOMAIN-SUFFIX,goodfeel.cn
-DOMAIN-SUFFIX,didipai.com
-DOMAIN-SUFFIX,sohuora.com
-DOMAIN-SUFFIX,sgyeyou.com
-DOMAIN-SUFFIX,hixiaoe.com
-DOMAIN-SUFFIX,yeyousg.com
-DOMAIN-SUFFIX,baokang.com
-DOMAIN-SUFFIX,imancheng.cn
-DOMAIN-SUFFIX,sogoucdn.com
-DOMAIN-SUFFIX,sososnap.com
-DOMAIN-SUFFIX,sohumail.com
-DOMAIN-SUFFIX,sohuapps.com
-DOMAIN-SUFFIX,sogou-op.org
-DOMAIN-SUFFIX,sohu-inc.com
-DOMAIN-SUFFIX,wowenwen.com
-DOMAIN-SUFFIX,sogou-inc.com
-DOMAIN-SUFFIX,yidianliulan.cn
-DOMAIN-SUFFIX,yidianliulan.com
-DOMAIN-SUFFIX,itc.com.cn
-DOMAIN-SUFFIX,sohu.com.cn
-DOMAIN-SUFFIX,soso.com.cn
-DOMAIN-SUFFIX,gfeel.com.cn
-DOMAIN-SUFFIX,sogou.com.cn
-DOMAIN-SUFFIX,domeos.com.cn
+DOMAIN-SUFFIX,focus-img.cn

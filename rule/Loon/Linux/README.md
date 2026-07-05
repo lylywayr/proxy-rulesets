@@ -2,29 +2,45 @@
 
 ## 中文
 
-Linux 规则集。
+Linux 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `1`
+- 总数：`1`
 - `DOMAIN-SUFFIX`: 1
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Linux/Linux.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Linux/Linux.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`Linux`
+- 分类显示名：`Linux`
+- 文件：`rule/Loon/Linux/Linux.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Linux/Linux.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Linux/Linux.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Linux/Linux.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Linux/Linux.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Linux/Linux.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Linux: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Linux/Linux.list
+- [v2fly geosite linux](https://github.com/v2fly/domain-list-community/blob/master/data/linux)
 
-## English
+<details>
+<summary>English</summary>
 
 Linux rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/Linux/Linux.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Linux/Linux.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Linux/Linux.list>
+
+</details>

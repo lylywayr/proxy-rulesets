@@ -1,6 +1,6 @@
 # NAME: BoXun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:37.437702+00:00
+# UPDATED: 2026-07-05T01:24:33.411420+00:00
 no_resolve: true
 domain_suffix_set:
   - "boxun.com"

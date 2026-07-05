@@ -1,9 +1,27 @@
 # NAME: Dynu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:50:58.625438+00:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2026-07-05T01:43:47.745320+00:00
+# DOMAIN-SUFFIX: 21
+# TOTAL: 21
 
-DOMAIN-SUFFIX,dynu.com
-DOMAIN-SUFFIX,dynu.net
+DOMAIN-SUFFIX,giize.com
+DOMAIN-SUFFIX,kozow.com
+DOMAIN-SUFFIX,ooguy.com
+DOMAIN-SUFFIX,camdvr.org
+DOMAIN-SUFFIX,gleeze.com
+DOMAIN-SUFFIX,mywire.org
+DOMAIN-SUFFIX,casacam.net
+DOMAIN-SUFFIX,ddnsguru.com
 DOMAIN-SUFFIX,freeddns.org
+DOMAIN-SUFFIX,dynuddns.com
+DOMAIN-SUFFIX,4cloud.click
+DOMAIN-SUFFIX,1cooldns.com
+DOMAIN-SUFFIX,dynuddns.net
+DOMAIN-SUFFIX,ddnsfree.com
+DOMAIN-SUFFIX,ddnsgeek.com
+DOMAIN-SUFFIX,accesscam.org
+DOMAIN-SUFFIX,theworkpc.com
+DOMAIN-SUFFIX,mysynology.net
+DOMAIN-SUFFIX,loseyourip.com
+DOMAIN-SUFFIX,webredirect.org
+DOMAIN-SUFFIX,bumbleshrimp.com

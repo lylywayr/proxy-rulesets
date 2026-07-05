@@ -2,29 +2,47 @@
 
 ## 中文
 
-FlipBoard 规则集。
+FlipBoard 相关通用互联网服务规则。
+
+> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `2`
+- 总数：`2`
 - `DOMAIN-SUFFIX`: 2
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/FlipBoard/FlipBoard.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/FlipBoard/FlipBoard.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Egern`
+- 分类标识：`FlipBoard`
+- 分类显示名：`FlipBoard`
+- 文件：`rule/Egern/FlipBoard/FlipBoard.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/FlipBoard/FlipBoard.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/FlipBoard/FlipBoard.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/FlipBoard/FlipBoard.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/FlipBoard/FlipBoard.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/FlipBoard/FlipBoard.yaml>
 
 ### 数据来源
 
-- blackmatrix7 FlipBoard: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FlipBoard/FlipBoard.list
+- [blackmatrix7 FlipBoard](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FlipBoard/FlipBoard.list)
 
-## English
+<details>
+<summary>English</summary>
 
 FlipBoard rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/FlipBoard/FlipBoard.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/FlipBoard/FlipBoard.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/FlipBoard/FlipBoard.yaml>
+
+</details>

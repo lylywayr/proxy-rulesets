@@ -1,9 +1,12 @@
 # NAME: 6park
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:32.040138+00:00
+# UPDATED: 2026-07-05T01:24:32.949416+00:00
 no_resolve: true
 domain_suffix_set:
+  - "xwbo.com"
+  - "popo8.com"
   - "6park.com"
+  - "parkvv.com"
   - "cool18.com"
   - "6parkbbs.com"
   - "6parknews.com"

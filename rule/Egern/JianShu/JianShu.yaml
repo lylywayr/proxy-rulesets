@@ -1,10 +1,8 @@
 # NAME: JianShu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:04.070802+00:00
+# UPDATED: 2026-07-05T01:43:48.158363+00:00
 no_resolve: true
 domain_suffix_set:
-  - "baijii.com"
   - "jianshu.io"
   - "jianshu.com"
   - "jianshuapi.com"
-  - "shengmingfa.com"

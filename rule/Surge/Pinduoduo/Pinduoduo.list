@@ -1,9 +1,13 @@
 # NAME: Pinduoduo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:09.616317+00:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2026-07-05T01:43:48.362648+00:00
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
 
+DOMAIN-SUFFIX,pddim.com
+DOMAIN-SUFFIX,pddcdn.com
+DOMAIN-SUFFIX,pddugc.com
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,yangkeduo.com
+DOMAIN-SUFFIX,pinduoduo.net
 DOMAIN-SUFFIX,pinduoduo.com

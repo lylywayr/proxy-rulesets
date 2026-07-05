@@ -1,35 +1,47 @@
-# Amazon
+# 亚马逊
 
 ## 中文
 
-Amazon 规则集。
+亚马逊 相关支付、电商、银行、证券或交易服务规则。
+
+### 导航
+
+- 所属分组：[金融电商](../../../guide/groups/finance.md)
+- 专题入口：
+- [金融电商专题](../../../guide/topics/finance-commerce.md)
 
 ### 规则统计
 
-- 总数: `206`
-- `DOMAIN-SUFFIX`: 186
-- `DOMAIN-KEYWORD`: 1
-- `USER-AGENT`: 2
-- `PROCESS-NAME`: 1
-- `IP-CIDR`: 15
-- `URL-REGEX`: 1
+- 总数：`234`
+- `DOMAIN-SUFFIX`: 231
+- `DOMAIN-REGEX`: 3
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/Amazon/Amazon.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Amazon/Amazon.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`Amazon`
+- 分类显示名：`亚马逊`
+- 文件：`rule/Surge/Amazon/Amazon.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Amazon/Amazon.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Amazon/Amazon.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Amazon/Amazon.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Amazon/Amazon.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Amazon/Amazon.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Amazon: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list
+- [v2fly geosite amazon](https://github.com/v2fly/domain-list-community/blob/master/data/amazon)
 
-## English
+<details>
+<summary>English</summary>
 
 Amazon rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/Amazon/Amazon.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Amazon/Amazon.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Amazon/Amazon.list>
+
+</details>

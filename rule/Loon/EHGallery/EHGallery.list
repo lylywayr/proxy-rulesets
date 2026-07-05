@@ -1,14 +1,14 @@
 # NAME: EHGallery
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:50:58.808321+00:00
+# UPDATED: 2026-07-05T01:43:47.761908+00:00
 # DOMAIN-SUFFIX: 6
 # IP-CIDR: 1
 # TOTAL: 7
 
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,ehwiki.org
-DOMAIN-SUFFIX,exhentai.org
-DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,hentaiverse.org
 IP-CIDR,178.175.128.0/21,no-resolve

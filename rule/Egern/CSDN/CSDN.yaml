@@ -1,27 +1,20 @@
 # NAME: CSDN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:33:42.225246+00:00
+# UPDATED: 2026-07-05T01:34:25.604660+00:00
 no_resolve: true
 domain_suffix_set:
   - "csto.com"
-  - "csdn.com"
   - "csdn.net"
+  - "csdn.com"
   - "iteye.com"
-  - "gitchat.cn"
   - "csdnimg.cn"
-  - "datasea.cn"
   - "gitbook.cn"
+  - "datasea.cn"
+  - "gitchat.cn"
   - "gitcode.net"
   - "gitcode.com"
-  - "tinymind.cn"
   - "kaifayun.com"
-  - "topcto50.com"
-  - "tinymind.com"
   - "codechina.net"
-  - "qualcomm-challenge.com"
   - "csdn.net.cn"
-  - "tinymind.com.cn"
-  - "linuxpower.com.cn"
-  - "programmer.net.cn"
   - "programmer.com.cn"
-  - "powerlinux.com.cn"
+  - "programmer.net.cn"

@@ -1,30 +1,46 @@
-# Cloudflarecn
+# Cloudflare 中国
 
 ## 中文
 
-Cloudflarecn 规则集。
+Cloudflare 中国接入与中国大陆相关域名规则。
+
+### 导航
+
+- 所属分组：[云与网络](../../../guide/groups/network.md)
+- 专题入口：
+- [云网络专题](../../../guide/topics/cloud-network.md)
 
 ### 规则统计
 
-- 总数: `14`
-- `DOMAIN-SUFFIX`: 14
+- 总数：`19`
+- `DOMAIN-SUFFIX`: 19
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/Cloudflarecn/Cloudflarecn.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Cloudflarecn/Cloudflarecn.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Clash`
+- 分类标识：`Cloudflarecn`
+- 分类显示名：`Cloudflare 中国`
+- 文件：`rule/Clash/Cloudflarecn/Cloudflarecn.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Cloudflarecn/Cloudflarecn.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Cloudflarecn/Cloudflarecn.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Cloudflarecn/Cloudflarecn.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Cloudflarecn/Cloudflarecn.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Cloudflarecn/Cloudflarecn.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Cloudflarecn: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflarecn/Cloudflarecn.list
+- [v2fly geosite cloudflare-cn](https://github.com/v2fly/domain-list-community/blob/master/data/cloudflare-cn)
 
-## English
+<details>
+<summary>English</summary>
 
 Cloudflarecn rule set.
 
-- Client: `Clash`
-- File: `rule/Clash/Cloudflarecn/Cloudflarecn.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Cloudflarecn/Cloudflarecn.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Clash`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Cloudflarecn/Cloudflarecn.yaml>
+
+</details>

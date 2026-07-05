@@ -1,30 +1,46 @@
-# Wordpress
+# WordPress
 
 ## 中文
 
-Wordpress 规则集。
+Wordpress 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `8`
-- `DOMAIN-SUFFIX`: 8
+- 总数：`10`
+- `DOMAIN-SUFFIX`: 10
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Wordpress/Wordpress.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Wordpress/Wordpress.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`Wordpress`
+- 分类显示名：`WordPress`
+- 文件：`rule/Loon/Wordpress/Wordpress.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Wordpress/Wordpress.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Wordpress/Wordpress.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Wordpress/Wordpress.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Wordpress/Wordpress.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Wordpress/Wordpress.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Wordpress: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wordpress/Wordpress.list
+- [v2fly geosite wordpress](https://github.com/v2fly/domain-list-community/blob/master/data/wordpress)
 
-## English
+<details>
+<summary>English</summary>
 
 Wordpress rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/Wordpress/Wordpress.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Wordpress/Wordpress.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Wordpress/Wordpress.list>
+
+</details>

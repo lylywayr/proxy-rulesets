@@ -1,6 +1,6 @@
 # NAME: AmazonPrimeVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:34.056301+00:00
+# UPDATED: 2026-07-05T01:24:33.083359+00:00
 payload:
   - DOMAIN,d1v5ir2lpwr8os.cloudfront.net
   - DOMAIN,d22qjgkvxw22r6.cloudfront.net
@@ -12,21 +12,20 @@ payload:
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,primevideo.cc
   - DOMAIN-SUFFIX,primevideo.tv
-  - DOMAIN-SUFFIX,amazonvideo.cc
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,primevideo.org
+  - DOMAIN-SUFFIX,amazonvideo.cc
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,prime-video.com
   - DOMAIN-SUFFIX,primevideo.info
-  - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,aiv-delivery.net
+  - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,amazonprimevideo.cn
   - DOMAIN-SUFFIX,amazonprimevideos.com
-  - DOMAIN-SUFFIX,fls-na.amazon.com
   - DOMAIN-SUFFIX,atv-ps.amazon.com
+  - DOMAIN-SUFFIX,fls-na.amazon.com
   - DOMAIN-SUFFIX,amazonprimevideo.com.cn
   - DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
   - DOMAIN-KEYWORD,avoddashs
   - USER-AGENT,InstantVideo.US*
   - USER-AGENT,Prime%20Video*
-  - PROCESS-NAME,com.amazon.avod.thirdpartyclient

@@ -1,6 +1,6 @@
 # NAME: ZhangYue
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:18.362001+00:00
+# UPDATED: 2026-07-05T01:44:16.198767+00:00
 # DOMAIN-SUFFIX: 26
 # TOTAL: 26
 
@@ -9,24 +9,24 @@ DOMAIN-SUFFIX,zhi3.net
 DOMAIN-SUFFIX,mgcube.cn
 DOMAIN-SUFFIX,corp3g.cn
 DOMAIN-SUFFIX,ireader.com
-DOMAIN-SUFFIX,palmeread.cn
-DOMAIN-SUFFIX,zhangyue.com
 DOMAIN-SUFFIX,ireader.live
-DOMAIN-SUFFIX,ireaderm.com
-DOMAIN-SUFFIX,ireaderm.net
 DOMAIN-SUFFIX,iremaker.com
 DOMAIN-SUFFIX,zhangyue.net
 DOMAIN-SUFFIX,ireader.mobi
+DOMAIN-SUFFIX,ireaderm.net
+DOMAIN-SUFFIX,zhangyue.com
+DOMAIN-SUFFIX,ireaderm.com
+DOMAIN-SUFFIX,palmeread.cn
 DOMAIN-SUFFIX,palmebook.com
 DOMAIN-SUFFIX,palmestore.cn
 DOMAIN-SUFFIX,palmeread.com
-DOMAIN-SUFFIX,zhangyue02.com
+DOMAIN-SUFFIX,zhangyue01.com
 DOMAIN-SUFFIX,transmonkey.cn
+DOMAIN-SUFFIX,zhangyue02.com
 DOMAIN-SUFFIX,zhangyue03.com
 DOMAIN-SUFFIX,palmestore.com
-DOMAIN-SUFFIX,zhangyue01.com
+DOMAIN-SUFFIX,transmonkey.com
 DOMAIN-SUFFIX,transmonkey.net
 DOMAIN-SUFFIX,zuoshujiang.com
-DOMAIN-SUFFIX,transmonkey.com
 DOMAIN-SUFFIX,zhi3.com.cn
 DOMAIN-SUFFIX,ireader.com.cn

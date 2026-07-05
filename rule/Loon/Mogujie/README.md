@@ -1,30 +1,46 @@
-# Mogujie
+# 蘑菇街
 
 ## 中文
 
-Mogujie 规则集。
+Mogujie 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `10`
-- `DOMAIN-SUFFIX`: 10
+- 总数：`3`
+- `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Mogujie/Mogujie.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mogujie/Mogujie.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`Mogujie`
+- 分类显示名：`蘑菇街`
+- 文件：`rule/Loon/Mogujie/Mogujie.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mogujie/Mogujie.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Mogujie/Mogujie.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mogujie/Mogujie.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Mogujie/Mogujie.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Mogujie/Mogujie.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Mogujie: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mogujie/Mogujie.list
+- [v2fly geosite mogujie](https://github.com/v2fly/domain-list-community/blob/master/data/mogujie)
 
-## English
+<details>
+<summary>English</summary>
 
 Mogujie rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/Mogujie/Mogujie.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mogujie/Mogujie.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mogujie/Mogujie.list>
+
+</details>

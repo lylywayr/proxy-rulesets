@@ -1,12 +1,9 @@
 # NAME: Bahamut
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:36.125588+00:00
+# UPDATED: 2026-07-05T01:24:33.302357+00:00
 payload:
-  - DOMAIN,bahamut.akamaized.net
-  - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,hinet.net
-  - DOMAIN-SUFFIX,viblast.com
-  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN,gamer-cds.cdn.hinet.net
+  - DOMAIN,gamer2-cds.cdn.hinet.net
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,bahamut.com.tw
-  - USER-AGENT,Anime*
+  - DOMAIN-SUFFIX,bahamut.akamaized.net

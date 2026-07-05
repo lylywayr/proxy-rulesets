@@ -2,32 +2,45 @@
 
 ## 中文
 
-myTVSUPER 规则集。
+myTVSUPER 相关流媒体、视频、音乐或内容分发规则。
+
+### 导航
+
+- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `7`
+- 总数：`2`
 - `DOMAIN-SUFFIX`: 2
-- `DOMAIN`: 2
-- `DOMAIN-KEYWORD`: 2
-- `USER-AGENT`: 1
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/myTVSUPER/myTVSUPER.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/myTVSUPER/myTVSUPER.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`myTVSUPER`
+- 分类显示名：`myTVSUPER`
+- 文件：`rule/Surge/myTVSUPER/myTVSUPER.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/myTVSUPER/myTVSUPER.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/myTVSUPER/myTVSUPER.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/myTVSUPER/myTVSUPER.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/myTVSUPER/myTVSUPER.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/myTVSUPER/myTVSUPER.yaml>
 
 ### 数据来源
 
-- blackmatrix7 myTVSUPER: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/myTVSUPER/myTVSUPER.list
+- [v2fly geosite mytvsuper](https://github.com/v2fly/domain-list-community/blob/master/data/mytvsuper)
 
-## English
+<details>
+<summary>English</summary>
 
 myTVSUPER rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/myTVSUPER/myTVSUPER.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/myTVSUPER/myTVSUPER.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/myTVSUPER/myTVSUPER.list>
+
+</details>

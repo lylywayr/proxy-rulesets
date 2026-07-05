@@ -1,13 +1,13 @@
 # NAME: Limelight
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:05.417595+00:00
+# UPDATED: 2026-07-05T01:43:48.208199+00:00
 no_resolve: true
 domain_suffix_set:
-  - "llnw.net"
   - "llnw.com"
+  - "llnw.net"
+  - "llnwd.net"
   - "lldns.net"
   - "llnwi.net"
-  - "llnwd.net"
   - "limelight.com"
   - "llnw-trials.com"
   - "delvenetworks.com"

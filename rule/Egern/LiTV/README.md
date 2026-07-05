@@ -2,30 +2,46 @@
 
 ## 中文
 
-LiTV 规则集。
+LiTV 相关流媒体、视频、音乐或内容分发规则。
+
+### 导航
+
+- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `2`
-- `DOMAIN-SUFFIX`: 1
-- `DOMAIN`: 1
+- 总数：`11`
+- `DOMAIN`: 8
+- `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/LiTV/LiTV.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LiTV/LiTV.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Egern`
+- 分类标识：`LiTV`
+- 分类显示名：`LiTV`
+- 文件：`rule/Egern/LiTV/LiTV.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LiTV/LiTV.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/LiTV/LiTV.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LiTV/LiTV.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/LiTV/LiTV.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LiTV/LiTV.yaml>
 
 ### 数据来源
 
-- blackmatrix7 LiTV: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LiTV/LiTV.list
+- [v2fly geosite litv](https://github.com/v2fly/domain-list-community/blob/master/data/litv)
 
-## English
+<details>
+<summary>English</summary>
 
 LiTV rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/LiTV/LiTV.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LiTV/LiTV.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/LiTV/LiTV.yaml>
+
+</details>

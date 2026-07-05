@@ -1,9 +1,18 @@
 # NAME: LiTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:05.640170+00:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# UPDATED: 2026-07-05T01:43:48.215523+00:00
+# DOMAIN: 8
+# DOMAIN-SUFFIX: 3
+# TOTAL: 11
 
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
+DOMAIN,ntdfreepc-tgc.cdn.hinet.net
+DOMAIN,ntdfreetv-tgc.cdn.hinet.net
+DOMAIN,ntdfreevcpc-tgc.cdn.hinet.net
+DOMAIN,ntdofifreemobile-tgc.cdn.hinet.net
+DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
+DOMAIN,ntdofifreetv-tgc.cdn.hinet.net
+DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,litvfreepc.akamaized.net

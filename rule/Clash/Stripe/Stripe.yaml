@@ -1,5 +1,9 @@
 # NAME: Stripe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:12.671616+00:00
+# UPDATED: 2026-07-05T01:44:15.988707+00:00
 payload:
-  - DOMAIN-KEYWORD,stripe
+  - DOMAIN-SUFFIX,link.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripecdn.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,stripe-terminal-local-reader.net

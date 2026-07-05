@@ -2,30 +2,48 @@
 
 ## 中文
 
-GlobalScholar 规则集。
+GlobalScholar 相关通用互联网服务规则。
+
+> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `230`
-- `DOMAIN-SUFFIX`: 229
+- 总数：`230`
 - `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 229
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/GlobalScholar/GlobalScholar.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalScholar/GlobalScholar.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`GlobalScholar`
+- 分类显示名：`GlobalScholar`
+- 文件：`rule/Surge/GlobalScholar/GlobalScholar.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalScholar/GlobalScholar.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalScholar/GlobalScholar.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GlobalScholar/GlobalScholar.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GlobalScholar/GlobalScholar.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GlobalScholar/GlobalScholar.yaml>
 
 ### 数据来源
 
-- blackmatrix7 GlobalScholar: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalScholar/GlobalScholar.list
+- [blackmatrix7 GlobalScholar](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalScholar/GlobalScholar.list)
 
-## English
+<details>
+<summary>English</summary>
 
 GlobalScholar rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/GlobalScholar/GlobalScholar.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalScholar/GlobalScholar.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GlobalScholar/GlobalScholar.list>
+
+</details>

@@ -1,6 +1,6 @@
 # NAME: HKBN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:02.299778+00:00
+# UPDATED: 2026-07-05T01:43:48.061669+00:00
 payload:
   - DOMAIN-SUFFIX,jos.com
   - DOMAIN-SUFFIX,hkbn.net

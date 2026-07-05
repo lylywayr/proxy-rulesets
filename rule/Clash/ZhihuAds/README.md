@@ -1,12 +1,20 @@
-# ZhihuAds
+# 知乎广告
 
 ## 中文
 
-ZhihuAds 规则集。
+ZhihuAds 相关通用互联网服务规则。
+
+> 注意：当前分类仍包含过渡期上游来源，后续会继续替换为 geosite、geoip 或其他自维护公开来源。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `13`
+- 总数：`13`
 - `DOMAIN`: 3
 - `USER-AGENT`: 1
 - `IP-CIDR`: 1
@@ -15,20 +23,30 @@ ZhihuAds 规则集。
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/ZhihuAds/ZhihuAds.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhihuAds/ZhihuAds.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Clash`
+- 分类标识：`ZhihuAds`
+- 分类显示名：`知乎广告`
+- 文件：`rule/Clash/ZhihuAds/ZhihuAds.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhihuAds/ZhihuAds.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ZhihuAds/ZhihuAds.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ZhihuAds/ZhihuAds.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhihuAds/ZhihuAds.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ZhihuAds/ZhihuAds.yaml>
 
 ### 数据来源
 
-- blackmatrix7 ZhihuAds: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhihuAds/ZhihuAds.list
+- [blackmatrix7 ZhihuAds](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhihuAds/ZhihuAds.list)
 
-## English
+<details>
+<summary>English</summary>
 
 ZhihuAds rule set.
 
-- Client: `Clash`
-- File: `rule/Clash/ZhihuAds/ZhihuAds.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhihuAds/ZhihuAds.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Clash`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhihuAds/ZhihuAds.yaml>
+
+</details>

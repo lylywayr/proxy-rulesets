@@ -1,6 +1,6 @@
 # NAME: 9News
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:32.117369+00:00
+# UPDATED: 2026-07-05T01:24:32.952416+00:00
 no_resolve: true
 domain_suffix_set:
   - "9cdn.net"

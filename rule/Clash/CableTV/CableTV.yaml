@@ -1,6 +1,9 @@
 # NAME: CableTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:37.666274+00:00
+# UPDATED: 2026-07-05T01:24:33.450902+00:00
 payload:
+  - DOMAIN-SUFFIX,hoy.tv
+  - DOMAIN-SUFFIX,fantv.hk
   - DOMAIN-SUFFIX,i-cable.com
+  - DOMAIN-SUFFIX,hkopentv.com
   - DOMAIN-SUFFIX,cabletv.com.hk

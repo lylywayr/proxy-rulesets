@@ -1,8 +1,15 @@
 # NAME: Razer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:10.834726+00:00
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-07-05T01:44:15.921256+00:00
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
 
+DOMAIN-SUFFIX,rzr.to
 DOMAIN-SUFFIX,razer.com
+DOMAIN-SUFFIX,razerzone.jp
+DOMAIN-SUFFIX,razerapi.com
 DOMAIN-SUFFIX,razerzone.com
+DOMAIN-SUFFIX,razersupport.com
+DOMAIN-SUFFIX,razersynapse.com
+DOMAIN-SUFFIX,razerofficial.com
+DOMAIN-SUFFIX,respawnbyrazer.com

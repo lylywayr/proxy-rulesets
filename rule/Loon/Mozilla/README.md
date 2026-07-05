@@ -2,29 +2,46 @@
 
 ## 中文
 
-Mozilla 规则集。
+Mozilla 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `21`
-- `DOMAIN-SUFFIX`: 21
+- 总数：`65`
+- `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 64
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Mozilla/Mozilla.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mozilla/Mozilla.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`Mozilla`
+- 分类显示名：`Mozilla`
+- 文件：`rule/Loon/Mozilla/Mozilla.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mozilla/Mozilla.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Mozilla/Mozilla.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mozilla/Mozilla.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Mozilla/Mozilla.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Mozilla/Mozilla.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Mozilla: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mozilla/Mozilla.list
+- [v2fly geosite mozilla](https://github.com/v2fly/domain-list-community/blob/master/data/mozilla)
 
-## English
+<details>
+<summary>English</summary>
 
 Mozilla rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/Mozilla/Mozilla.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mozilla/Mozilla.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Mozilla/Mozilla.list>
+
+</details>

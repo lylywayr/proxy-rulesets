@@ -1,30 +1,46 @@
-# CNKI
+# 知网
 
 ## 中文
 
-CNKI 规则集。
+CNKI 相关中国大陆站点、媒体或本地网络环境规则。
+
+### 导航
+
+- 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `17`
-- `DOMAIN-SUFFIX`: 17
+- 总数：`3`
+- `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/CNKI/CNKI.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/CNKI/CNKI.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Surge`
+- 分类标识：`CNKI`
+- 分类显示名：`知网`
+- 文件：`rule/Surge/CNKI/CNKI.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/CNKI/CNKI.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/CNKI/CNKI.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/CNKI/CNKI.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/CNKI/CNKI.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/CNKI/CNKI.yaml>
 
 ### 数据来源
 
-- blackmatrix7 CNKI: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNKI/CNKI.list
+- [v2fly geosite cnki](https://github.com/v2fly/domain-list-community/blob/master/data/cnki)
 
-## English
+<details>
+<summary>English</summary>
 
 CNKI rule set.
 
-- Client: `Surge`
-- File: `rule/Surge/CNKI/CNKI.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/CNKI/CNKI.list`
-- Omitted unsupported types: `无`
+- Current client: `Surge`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/CNKI/CNKI.list>
+
+</details>

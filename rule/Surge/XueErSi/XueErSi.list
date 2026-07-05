@@ -1,9 +1,18 @@
 # NAME: XueErSi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:17.437445+00:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2026-07-05T01:44:16.168767+00:00
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 
+DOMAIN-SUFFIX,tal.com
+DOMAIN-SUFFIX,eduu.com
+DOMAIN-SUFFIX,eduuu.com
+DOMAIN-SUFFIX,aoshu.com
+DOMAIN-SUFFIX,100tal.com
 DOMAIN-SUFFIX,xesimg.com
-DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,gaokao.com
+DOMAIN-SUFFIX,zuowen.com
+DOMAIN-SUFFIX,youjiao.com
 DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,zhongkao.com

@@ -1,28 +1,28 @@
 # NAME: CBS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:38.008011+00:00
+# UPDATED: 2026-07-05T01:24:33.465903+00:00
 no_resolve: true
+domain_set:
+  - "cbsi.live.ott.irdeto.com"
+  - "cbsplaylistserver.aws.syncbak.com"
+  - "cbsservice.aws.syncbak.com"
+  - "link.theplatform.com"
 domain_suffix_set:
-  - "amlg.io"
   - "cbs.com"
-  - "pluto.tv"
+  - "amlg.io"
   - "cbsi.com"
   - "cbsig.net"
-  - "viacom.com"
-  - "cbsiam.com"
   - "viacbs.com"
-  - "cbsimg.net"
+  - "cbsiam.com"
   - "cbsi.video"
+  - "viacom.com"
+  - "cbsimg.net"
   - "cbsnews.com"
-  - "plutotv.net"
-  - "cbsradio.com"
-  - "showtime.com"
-  - "cbsstore.com"
-  - "cbsstatic.com"
-  - "viacomcbs.com"
   - "cbsivideo.com"
-  - "cbssvideo.com"
   - "paramount.com"
+  - "viacomcbs.com"
+  - "cbssvideo.com"
+  - "cbsstatic.com"
   - "cbssports.com"
   - "cbsistatic.com"
   - "cbsaavideo.com"
@@ -32,10 +32,4 @@ domain_suffix_set:
   - "cbsinteractive.com"
   - "cbscorporation.com"
   - "cbspressexpress.com"
-  - "cbstelevisioncity.com"
   - "viacomcbspressexpress.com"
-  - "cbsservice.aws.syncbak.com"
-  - "cbsplaylistserver.aws.syncbak.com"
-  - "cbsi.live.ott.irdeto.com"
-user_agent_set:
-  - "PPlus*"

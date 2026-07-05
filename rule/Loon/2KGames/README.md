@@ -1,30 +1,46 @@
-# 2KGames
+# 2K Games
 
 ## 中文
 
-2KGames 规则集。
+2KGames 相关游戏平台、游戏服务或下载分发规则。
+
+### 导航
+
+- 所属分组：[游戏平台](../../../guide/groups/gaming.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `4`
-- `DOMAIN-SUFFIX`: 4
+- 总数：`6`
+- `DOMAIN-SUFFIX`: 6
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/2KGames/2KGames.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/2KGames/2KGames.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`2KGames`
+- 分类显示名：`2K Games`
+- 文件：`rule/Loon/2KGames/2KGames.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/2KGames/2KGames.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/2KGames/2KGames.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/2KGames/2KGames.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/2KGames/2KGames.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/2KGames/2KGames.yaml>
 
 ### 数据来源
 
-- blackmatrix7 2KGames: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/2KGames/2KGames.list
+- [v2fly geosite 2kgames](https://github.com/v2fly/domain-list-community/blob/master/data/2kgames)
 
-## English
+<details>
+<summary>English</summary>
 
 2KGames rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/2KGames/2KGames.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/2KGames/2KGames.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/2KGames/2KGames.list>
+
+</details>

@@ -2,29 +2,45 @@
 
 ## 中文
 
-Apkpure 规则集。
+Apkpure 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `4`
-- `DOMAIN-SUFFIX`: 4
+- 总数：`6`
+- `DOMAIN-SUFFIX`: 6
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Apkpure/Apkpure.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apkpure/Apkpure.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`Apkpure`
+- 分类显示名：`Apkpure`
+- 文件：`rule/Loon/Apkpure/Apkpure.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apkpure/Apkpure.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Apkpure/Apkpure.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apkpure/Apkpure.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Apkpure/Apkpure.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Apkpure/Apkpure.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Apkpure: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apkpure/Apkpure.list
+- [v2fly geosite apkpure](https://github.com/v2fly/domain-list-community/blob/master/data/apkpure)
 
-## English
+<details>
+<summary>English</summary>
 
 Apkpure rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/Apkpure/Apkpure.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apkpure/Apkpure.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apkpure/Apkpure.list>
+
+</details>

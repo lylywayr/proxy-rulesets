@@ -1,6 +1,6 @@
 # NAME: NowE
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:08.129214+00:00
+# UPDATED: 2026-07-05T01:43:48.312934+00:00
 no_resolve: true
 domain_suffix_set:
   - "nowe.com"

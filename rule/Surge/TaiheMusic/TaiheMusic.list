@@ -1,6 +1,6 @@
 # NAME: TaiheMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:13.021805+00:00
+# UPDATED: 2026-07-05T01:44:16.000694+00:00
 # DOMAIN-SUFFIX: 8
 # USER-AGENT: 1
 # TOTAL: 9
@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,youyou.com
 DOMAIN-SUFFIX,submusic.cn
 DOMAIN-SUFFIX,ttplayer.com
-DOMAIN-SUFFIX,qianqian.com
 DOMAIN-SUFFIX,dmhmusic.com
+DOMAIN-SUFFIX,qianqian.com
 DOMAIN-SUFFIX,youyou001.com
 USER-AGENT,baiduyinyue

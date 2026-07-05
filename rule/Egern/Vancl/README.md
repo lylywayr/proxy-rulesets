@@ -2,29 +2,45 @@
 
 ## 中文
 
-Vancl 规则集。
+Vancl 相关通用互联网服务规则。
+
+### 导航
+
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `3`
+- 总数：`3`
 - `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Vancl/Vancl.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vancl/Vancl.yaml`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Egern`
+- 分类标识：`Vancl`
+- 分类显示名：`Vancl`
+- 文件：`rule/Egern/Vancl/Vancl.yaml`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vancl/Vancl.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Vancl/Vancl.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Vancl/Vancl.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Vancl/Vancl.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vancl/Vancl.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Vancl: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vancl/Vancl.list
+- [v2fly geosite vancl](https://github.com/v2fly/domain-list-community/blob/master/data/vancl)
 
-## English
+<details>
+<summary>English</summary>
 
 Vancl rule set.
 
-- Client: `Egern`
-- File: `rule/Egern/Vancl/Vancl.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vancl/Vancl.yaml`
-- Omitted unsupported types: `无`
+- Current client: `Egern`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Vancl/Vancl.yaml>
+
+</details>

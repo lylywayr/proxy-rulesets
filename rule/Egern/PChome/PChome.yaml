@@ -1,10 +1,18 @@
 # NAME: PChome
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:09.385109+00:00
+# UPDATED: 2026-07-05T01:43:48.355649+00:00
 no_resolve: true
+domain_set:
+  - "ecapi-pchome.cdn.hinet.net"
 domain_suffix_set:
   - "ecimg.tw"
   - "pcloud.tw"
+  - "pchomeec.tw"
+  - "piapp.com.tw"
+  - "toget.com.tw"
   - "pchome.com.tw"
+  - "rakuya.com.tw"
+  - "tagapie.com.tw"
+  - "pcstore.com.tw"
   - "pchomepay.com.tw"
-  - "ecapi-pchome.cdn.hinet.net"
+  - "pchomeonline.com.tw"

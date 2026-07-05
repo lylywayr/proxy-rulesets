@@ -1,12 +1,12 @@
 # NAME: Mojitianqi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:07.020425+00:00
+# UPDATED: 2026-07-05T01:43:48.276637+00:00
 no_resolve: true
 domain_suffix_set:
   - "moji.com"
   - "xiaomo.cn"
-  - "airnut.com"
   - "mojicb.com"
+  - "airnut.com"
   - "mojitest.com"
-  - "mojichina.com"
   - "moweather.com"
+  - "mojichina.com"

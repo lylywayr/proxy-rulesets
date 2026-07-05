@@ -1,6 +1,6 @@
 # NAME: WangXinKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:16.257189+00:00
+# UPDATED: 2026-07-05T01:44:16.111793+00:00
 no_resolve: true
 domain_suffix_set:
   - "xylive.tv"
@@ -9,18 +9,18 @@ domain_suffix_set:
   - "uhabo.com"
   - "wzhibo.net"
   - "wezhibo.tv"
-  - "xycloud.com"
-  - "0101cdn.com"
   - "wezhibo.net"
-  - "ionecloud.cn"
-  - "onething.net"
+  - "0101cdn.com"
+  - "xycloud.com"
   - "xunleioa.com"
-  - "kuiniuca.com"
   - "peiluyou.com"
-  - "onethingc.com"
+  - "onething.net"
+  - "ionecloud.cn"
+  - "kuiniuca.com"
   - "onethingd.com"
   - "walk-live.com"
   - "onethingn.com"
+  - "onethingc.com"
   - "hiveshared.com"
   - "onethingpcs.com"
   - "onethingcloud.cn"

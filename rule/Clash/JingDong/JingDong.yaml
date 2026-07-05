@@ -1,253 +1,253 @@
 # NAME: JingDong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:04.158272+00:00
+# UPDATED: 2026-07-05T01:43:48.163363+00:00
 payload:
   - DOMAIN-SUFFIX,3.cn
-  - DOMAIN-SUFFIX,jd.id
-  - DOMAIN-SUFFIX,jd.cn
-  - DOMAIN-SUFFIX,jd.hk
   - DOMAIN-SUFFIX,jd.ru
-  - DOMAIN-SUFFIX,jdl.cn
-  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,jd.id
+  - DOMAIN-SUFFIX,jd.hk
+  - DOMAIN-SUFFIX,jd.cn
   - DOMAIN-SUFFIX,vg.com
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,jdl.cn
+  - DOMAIN-SUFFIX,yhd.com
+  - DOMAIN-SUFFIX,jdx.com
   - DOMAIN-SUFFIX,jd.shop
   - DOMAIN-SUFFIX,jdl.com
-  - DOMAIN-SUFFIX,jdx.com
-  - DOMAIN-SUFFIX,yhd.com
-  - DOMAIN-SUFFIX,jddtv.cn
-  - DOMAIN-SUFFIX,yhcdn.cn
   - DOMAIN-SUFFIX,jdwl.com
   - DOMAIN-SUFFIX,jd-ex.cn
+  - DOMAIN-SUFFIX,jddtv.cn
+  - DOMAIN-SUFFIX,yhcdn.cn
   - DOMAIN-SUFFIX,yixun.com
-  - DOMAIN-SUFFIX,jdcdn.com
-  - DOMAIN-SUFFIX,jd-ex.net
-  - DOMAIN-SUFFIX,jd-ex.com
-  - DOMAIN-SUFFIX,joybuy.es
-  - DOMAIN-SUFFIX,caiyu.com
-  - DOMAIN-SUFFIX,ocwms.com
-  - DOMAIN-SUFFIX,jdlike.cn
-  - DOMAIN-SUFFIX,wdfok.com
-  - DOMAIN-SUFFIX,360buy.cn
-  - DOMAIN-SUFFIX,jhscm.com
-  - DOMAIN-SUFFIX,isvjd.com
-  - DOMAIN-SUFFIX,jclps.com
-  - DOMAIN-SUFFIX,jddtv.com
-  - DOMAIN-SUFFIX,300hu.com
-  - DOMAIN-SUFFIX,jdfw1.com
   - DOMAIN-SUFFIX,jdpay.com
+  - DOMAIN-SUFFIX,isvjd.com
+  - DOMAIN-SUFFIX,ocwms.com
+  - DOMAIN-SUFFIX,jclps.com
+  - DOMAIN-SUFFIX,jhscm.com
+  - DOMAIN-SUFFIX,jd-ex.net
   - DOMAIN-SUFFIX,sgsic.com
-  - DOMAIN-SUFFIX,jdgslb.com
-  - DOMAIN-SUFFIX,jingxi.com
-  - DOMAIN-SUFFIX,joybuy.com
-  - DOMAIN-SUFFIX,jd-app.com
-  - DOMAIN-SUFFIX,360buy.com
-  - DOMAIN-SUFFIX,jdgslb.net
-  - DOMAIN-SUFFIX,jcloud.com
+  - DOMAIN-SUFFIX,joybuy.es
+  - DOMAIN-SUFFIX,wdfok.com
+  - DOMAIN-SUFFIX,caiyu.com
+  - DOMAIN-SUFFIX,jdcdn.com
+  - DOMAIN-SUFFIX,jdlike.cn
+  - DOMAIN-SUFFIX,300hu.com
+  - DOMAIN-SUFFIX,360buy.cn
+  - DOMAIN-SUFFIX,jd-ex.com
+  - DOMAIN-SUFFIX,jddtv.com
+  - DOMAIN-SUFFIX,jdfw1.com
+  - DOMAIN-SUFFIX,jkcsjd.com
+  - DOMAIN-SUFFIX,7fresh.com
   - DOMAIN-SUFFIX,baitiao.cn
   - DOMAIN-SUFFIX,shlsyb.com
-  - DOMAIN-SUFFIX,jdfmgt.com
-  - DOMAIN-SUFFIX,7fresh.com
   - DOMAIN-SUFFIX,dao123.com
-  - DOMAIN-SUFFIX,jkcsjd.com
-  - DOMAIN-SUFFIX,360top.com
   - DOMAIN-SUFFIX,paipai.com
-  - DOMAIN-SUFFIX,yiyaojd.com
-  - DOMAIN-SUFFIX,wangyin.com
+  - DOMAIN-SUFFIX,jdfmgt.com
+  - DOMAIN-SUFFIX,joybuy.com
+  - DOMAIN-SUFFIX,360buy.com
+  - DOMAIN-SUFFIX,jdgslb.com
+  - DOMAIN-SUFFIX,360top.com
+  - DOMAIN-SUFFIX,jingxi.com
+  - DOMAIN-SUFFIX,jdgslb.net
+  - DOMAIN-SUFFIX,jcloud.com
+  - DOMAIN-SUFFIX,jd-app.com
   - DOMAIN-SUFFIX,chicalot.cn
   - DOMAIN-SUFFIX,jddebug.com
-  - DOMAIN-SUFFIX,wanggou.com
   - DOMAIN-SUFFIX,missjia.net
-  - DOMAIN-SUFFIX,wuliujie.cn
-  - DOMAIN-SUFFIX,jdcache.com
-  - DOMAIN-SUFFIX,jdemall.com
-  - DOMAIN-SUFFIX,jdcloud.com
-  - DOMAIN-SUFFIX,toplife.com
-  - DOMAIN-SUFFIX,qianxun.com
-  - DOMAIN-SUFFIX,tjjt360.com
   - DOMAIN-SUFFIX,baitiao.com
-  - DOMAIN-SUFFIX,ibaitiao.com
-  - DOMAIN-SUFFIX,jcloudlb.net
-  - DOMAIN-SUFFIX,minitiao.com
+  - DOMAIN-SUFFIX,wanggou.com
+  - DOMAIN-SUFFIX,wuliujie.cn
+  - DOMAIN-SUFFIX,toplife.com
+  - DOMAIN-SUFFIX,wangyin.com
+  - DOMAIN-SUFFIX,jdemall.com
+  - DOMAIN-SUFFIX,tjjt360.com
+  - DOMAIN-SUFFIX,jdcache.com
+  - DOMAIN-SUFFIX,jdcloud.com
+  - DOMAIN-SUFFIX,qianxun.com
+  - DOMAIN-SUFFIX,yiyaojd.com
+  - DOMAIN-SUFFIX,cloudczs.com
+  - DOMAIN-SUFFIX,paidaojia.cn
+  - DOMAIN-SUFFIX,yizhitou.com
   - DOMAIN-SUFFIX,jcloudlb.com
   - DOMAIN-SUFFIX,jcloudcs.com
-  - DOMAIN-SUFFIX,jcloudlv.com
-  - DOMAIN-SUFFIX,cloudczs.com
+  - DOMAIN-SUFFIX,cloud-xm.com
+  - DOMAIN-SUFFIX,jcloudlb.net
+  - DOMAIN-SUFFIX,minitiao.com
+  - DOMAIN-SUFFIX,jcloudss.com
+  - DOMAIN-SUFFIX,ibaitiao.com
+  - DOMAIN-SUFFIX,1huizhan.com
+  - DOMAIN-SUFFIX,jclouddn.com
+  - DOMAIN-SUFFIX,jingdong.com
   - DOMAIN-SUFFIX,wuliujie.com
   - DOMAIN-SUFFIX,xjoycity.com
-  - DOMAIN-SUFFIX,cloud-xm.com
-  - DOMAIN-SUFFIX,paidaojia.cn
-  - DOMAIN-SUFFIX,jclouddn.com
-  - DOMAIN-SUFFIX,1huizhan.com
   - DOMAIN-SUFFIX,jdpaydns.com
-  - DOMAIN-SUFFIX,yizhitou.com
+  - DOMAIN-SUFFIX,jcloudlv.com
   - DOMAIN-SUFFIX,jcloudec.com
-  - DOMAIN-SUFFIX,jingdong.com
-  - DOMAIN-SUFFIX,jcloudss.com
-  - DOMAIN-SUFFIX,jdcloudcs.com
-  - DOMAIN-SUFFIX,mayshijia.com
-  - DOMAIN-SUFFIX,jddglobal.com
-  - DOMAIN-SUFFIX,jdjinrong.com
-  - DOMAIN-SUFFIX,jcloudoss.com
-  - DOMAIN-SUFFIX,buyjingxi.com
-  - DOMAIN-SUFFIX,jcloudwaf.com
-  - DOMAIN-SUFFIX,isvjcloud.com
-  - DOMAIN-SUFFIX,360buyimg.com
-  - DOMAIN-SUFFIX,jdfinance.com
-  - DOMAIN-SUFFIX,jdcloudlb.net
-  - DOMAIN-SUFFIX,jclouddns.com
-  - DOMAIN-SUFFIX,jcloudimg.net
-  - DOMAIN-SUFFIX,jcloudimg.com
-  - DOMAIN-SUFFIX,jdcloudlb.com
-  - DOMAIN-SUFFIX,xianjiqun.com
-  - DOMAIN-SUFFIX,jclouddns.net
-  - DOMAIN-SUFFIX,goselling.com
-  - DOMAIN-SUFFIX,jdcontent.com
-  - DOMAIN-SUFFIX,cloudyuxi.com
-  - DOMAIN-SUFFIX,jdfeijing.com
   - DOMAIN-SUFFIX,jdsmartkf.com
-  - DOMAIN-SUFFIX,yihaomall.com
   - DOMAIN-SUFFIX,yihaodian.com
+  - DOMAIN-SUFFIX,goselling.com
+  - DOMAIN-SUFFIX,buyjingxi.com
+  - DOMAIN-SUFFIX,jcloudimg.net
+  - DOMAIN-SUFFIX,jdcloudlb.com
+  - DOMAIN-SUFFIX,jcloudwaf.com
+  - DOMAIN-SUFFIX,jdcloudlb.net
+  - DOMAIN-SUFFIX,jcloudoss.com
   - DOMAIN-SUFFIX,logiseasy.com
-  - DOMAIN-SUFFIX,jcloudlive.com
-  - DOMAIN-SUFFIX,jcloud-oss.com
-  - DOMAIN-SUFFIX,jdclouddns.com
-  - DOMAIN-SUFFIX,jcloudedge.net
-  - DOMAIN-SUFFIX,cloudyanan.com
-  - DOMAIN-SUFFIX,jdbusiness.com
-  - DOMAIN-SUFFIX,jdcloudcdn.net
+  - DOMAIN-SUFFIX,xianjiqun.com
+  - DOMAIN-SUFFIX,jdcontent.com
+  - DOMAIN-SUFFIX,jddglobal.com
+  - DOMAIN-SUFFIX,cloudyuxi.com
+  - DOMAIN-SUFFIX,jdfinance.com
+  - DOMAIN-SUFFIX,jdcloudcs.com
+  - DOMAIN-SUFFIX,yihaomall.com
+  - DOMAIN-SUFFIX,jclouddns.net
+  - DOMAIN-SUFFIX,jcloudimg.com
+  - DOMAIN-SUFFIX,isvjcloud.com
+  - DOMAIN-SUFFIX,jdjinrong.com
+  - DOMAIN-SUFFIX,mayshijia.com
+  - DOMAIN-SUFFIX,360buyimg.com
+  - DOMAIN-SUFFIX,jclouddns.com
+  - DOMAIN-SUFFIX,jdfeijing.com
   - DOMAIN-SUFFIX,cloud-xian.com
-  - DOMAIN-SUFFIX,cloudsanya.com
-  - DOMAIN-SUFFIX,cloudluohe.com
-  - DOMAIN-SUFFIX,jcloud-cdn.com
-  - DOMAIN-SUFFIX,jdclouddns.net
-  - DOMAIN-SUFFIX,info-insur.com
-  - DOMAIN-SUFFIX,qingzhouip.com
-  - DOMAIN-SUFFIX,jdd-global.com
-  - DOMAIN-SUFFIX,jdcloudwaf.com
-  - DOMAIN-SUFFIX,cloudhefei.com
-  - DOMAIN-SUFFIX,jcloudedge.com
-  - DOMAIN-SUFFIX,cloudnanan.com
+  - DOMAIN-SUFFIX,jdcloudcdn.net
   - DOMAIN-SUFFIX,jddapeigou.com
+  - DOMAIN-SUFFIX,jdclouddns.com
+  - DOMAIN-SUFFIX,jdd-global.com
   - DOMAIN-SUFFIX,jingpinhui.com
-  - DOMAIN-SUFFIX,cloud-hebi.com
-  - DOMAIN-SUFFIX,jcloudgslb.com
+  - DOMAIN-SUFFIX,cloudnanan.com
+  - DOMAIN-SUFFIX,jdclouddns.net
   - DOMAIN-SUFFIX,cloudjinan.com
-  - DOMAIN-SUFFIX,jcloudgslb.net
+  - DOMAIN-SUFFIX,cloud-hebi.com
+  - DOMAIN-SUFFIX,jdcloudwaf.com
+  - DOMAIN-SUFFIX,jdbusiness.com
+  - DOMAIN-SUFFIX,jcloud-oss.com
+  - DOMAIN-SUFFIX,cloudyanan.com
+  - DOMAIN-SUFFIX,cloudhefei.com
   - DOMAIN-SUFFIX,jdcloudcdn.com
-  - DOMAIN-SUFFIX,jcloudcache.com
-  - DOMAIN-SUFFIX,cloudweinan.com
-  - DOMAIN-SUFFIX,jdcloudsite.com
-  - DOMAIN-SUFFIX,jdcloudedge.com
-  - DOMAIN-SUFFIX,cloudsuqian.com
-  - DOMAIN-SUFFIX,cloudanqing.com
-  - DOMAIN-SUFFIX,cloudyantai.com
-  - DOMAIN-SUFFIX,jcloudvideo.com
-  - DOMAIN-SUFFIX,jdworldwide.com
-  - DOMAIN-SUFFIX,jcloudcache.net
-  - DOMAIN-SUFFIX,cloudbeibei.com
-  - DOMAIN-SUFFIX,jdcloudlive.net
-  - DOMAIN-SUFFIX,blackdragon.com
-  - DOMAIN-SUFFIX,jdcloud-edu.com
-  - DOMAIN-SUFFIX,clouddatong.com
-  - DOMAIN-SUFFIX,cloudleshan.com
-  - DOMAIN-SUFFIX,cloudfoshan.com
-  - DOMAIN-SUFFIX,jdcloud-oss.com
-  - DOMAIN-SUFFIX,cloud-wuhan.com
-  - DOMAIN-SUFFIX,cloudxining.com
-  - DOMAIN-SUFFIX,jcloudvideo.net
-  - DOMAIN-SUFFIX,jcloud-live.com
-  - DOMAIN-SUFFIX,cloudlishui.com
+  - DOMAIN-SUFFIX,jcloudedge.net
+  - DOMAIN-SUFFIX,jcloudedge.com
+  - DOMAIN-SUFFIX,jcloudgslb.com
+  - DOMAIN-SUFFIX,qingzhouip.com
+  - DOMAIN-SUFFIX,jcloud-cdn.com
+  - DOMAIN-SUFFIX,jcloudlive.com
+  - DOMAIN-SUFFIX,cloudsanya.com
+  - DOMAIN-SUFFIX,info-insur.com
+  - DOMAIN-SUFFIX,cloudluohe.com
+  - DOMAIN-SUFFIX,jcloudgslb.net
   - DOMAIN-SUFFIX,jdcloudedge.net
-  - DOMAIN-SUFFIX,clouddalian.com
-  - DOMAIN-SUFFIX,jdcloudlive.com
+  - DOMAIN-SUFFIX,jdcloudlive.net
+  - DOMAIN-SUFFIX,jdcloud-oss.com
+  - DOMAIN-SUFFIX,jdcloud-edu.com
+  - DOMAIN-SUFFIX,cloudyantai.com
+  - DOMAIN-SUFFIX,cloudweinan.com
+  - DOMAIN-SUFFIX,jcloudcache.net
   - DOMAIN-SUFFIX,jdcloud-api.net
-  - DOMAIN-SUFFIX,cloud-ordos.com
-  - DOMAIN-SUFFIX,cloudjining.com
-  - DOMAIN-SUFFIX,cloudfuqing.com
+  - DOMAIN-SUFFIX,jcloudcache.com
+  - DOMAIN-SUFFIX,cloud-wuhan.com
+  - DOMAIN-SUFFIX,cloudfoshan.com
   - DOMAIN-SUFFIX,cloudsiping.com
+  - DOMAIN-SUFFIX,blackdragon.com
+  - DOMAIN-SUFFIX,cloudjining.com
+  - DOMAIN-SUFFIX,cloudanqing.com
+  - DOMAIN-SUFFIX,jdworldwide.com
+  - DOMAIN-SUFFIX,jcloudvideo.net
+  - DOMAIN-SUFFIX,cloudxining.com
+  - DOMAIN-SUFFIX,cloud-ordos.com
   - DOMAIN-SUFFIX,cloudzhuhai.com
+  - DOMAIN-SUFFIX,clouddalian.com
+  - DOMAIN-SUFFIX,jdcloudsite.com
+  - DOMAIN-SUFFIX,cloudleshan.com
   - DOMAIN-SUFFIX,jdcloud-api.com
-  - DOMAIN-SUFFIX,cloudmeishan.com
-  - DOMAIN-SUFFIX,jdcloud-mail.com
-  - DOMAIN-SUFFIX,cloud-ningbo.com
-  - DOMAIN-SUFFIX,cloudbinzhou.com
+  - DOMAIN-SUFFIX,jdcloudlive.com
+  - DOMAIN-SUFFIX,clouddatong.com
+  - DOMAIN-SUFFIX,cloudlishui.com
+  - DOMAIN-SUFFIX,cloudsuqian.com
+  - DOMAIN-SUFFIX,jdcloudedge.com
+  - DOMAIN-SUFFIX,cloudbeibei.com
+  - DOMAIN-SUFFIX,cloudfuqing.com
+  - DOMAIN-SUFFIX,jcloud-live.com
+  - DOMAIN-SUFFIX,jcloudvideo.com
   - DOMAIN-SUFFIX,cloudchangde.com
-  - DOMAIN-SUFFIX,jcloudstatic.net
-  - DOMAIN-SUFFIX,jdcloudcache.net
-  - DOMAIN-SUFFIX,yihaodianimg.com
   - DOMAIN-SUFFIX,cloudtianjin.com
-  - DOMAIN-SUFFIX,cloudnantong.com
-  - DOMAIN-SUFFIX,cloudnanning.com
-  - DOMAIN-SUFFIX,cloudchuzhou.com
-  - DOMAIN-SUFFIX,cloudhuaihua.com
-  - DOMAIN-SUFFIX,linglonglife.com
-  - DOMAIN-SUFFIX,cloudyueyang.com
-  - DOMAIN-SUFFIX,cloudlijiang.com
-  - DOMAIN-SUFFIX,cloudluoyang.com
-  - DOMAIN-SUFFIX,cloudhuizhou.com
-  - DOMAIN-SUFFIX,jdcloudvideo.net
-  - DOMAIN-SUFFIX,cloudchengde.com
-  - DOMAIN-SUFFIX,cloudnanjing.com
-  - DOMAIN-SUFFIX,jcloudwaftest.cn
-  - DOMAIN-SUFFIX,cloudchengdu.com
   - DOMAIN-SUFFIX,cloudganzhou.com
-  - DOMAIN-SUFFIX,cloudbaoshan.com
-  - DOMAIN-SUFFIX,jdcloudcache.com
-  - DOMAIN-SUFFIX,cloudhaidong.com
-  - DOMAIN-SUFFIX,jcloud-cache.net
-  - DOMAIN-SUFFIX,cloudxianyou.com
-  - DOMAIN-SUFFIX,jdcloudvideo.com
+  - DOMAIN-SUFFIX,cloudchengde.com
+  - DOMAIN-SUFFIX,jcloudwaftest.cn
+  - DOMAIN-SUFFIX,cloudnanjing.com
   - DOMAIN-SUFFIX,jcloudstatic.com
+  - DOMAIN-SUFFIX,cloud-ningbo.com
+  - DOMAIN-SUFFIX,jdcloudvideo.com
   - DOMAIN-SUFFIX,cloud-shiyan.com
-  - DOMAIN-SUFFIX,jcloud-cache.com
+  - DOMAIN-SUFFIX,cloudnanning.com
+  - DOMAIN-SUFFIX,cloudnantong.com
+  - DOMAIN-SUFFIX,jdcloudcache.net
+  - DOMAIN-SUFFIX,cloudhuaihua.com
+  - DOMAIN-SUFFIX,cloudhuizhou.com
+  - DOMAIN-SUFFIX,cloudchengdu.com
+  - DOMAIN-SUFFIX,jcloud-cache.net
+  - DOMAIN-SUFFIX,cloudlijiang.com
+  - DOMAIN-SUFFIX,jdcloud-mail.com
+  - DOMAIN-SUFFIX,cloudbaoshan.com
+  - DOMAIN-SUFFIX,yihaodianimg.com
+  - DOMAIN-SUFFIX,cloudxianyou.com
+  - DOMAIN-SUFFIX,cloudluoyang.com
   - DOMAIN-SUFFIX,cloudkunming.com
-  - DOMAIN-SUFFIX,cloudjingzhou.com
-  - DOMAIN-SUFFIX,cloud-beijing.com
-  - DOMAIN-SUFFIX,jdcloud-elite.com
-  - DOMAIN-SUFFIX,cloudyinchuan.com
+  - DOMAIN-SUFFIX,cloudmeishan.com
+  - DOMAIN-SUFFIX,cloudchuzhou.com
+  - DOMAIN-SUFFIX,jdcloudcache.com
+  - DOMAIN-SUFFIX,jcloud-cache.com
+  - DOMAIN-SUFFIX,cloudyueyang.com
+  - DOMAIN-SUFFIX,cloudbinzhou.com
+  - DOMAIN-SUFFIX,linglonglife.com
+  - DOMAIN-SUFFIX,cloudhaidong.com
+  - DOMAIN-SUFFIX,jdcloudvideo.net
+  - DOMAIN-SUFFIX,jcloudstatic.net
+  - DOMAIN-SUFFIX,cloudyuncheng.com
   - DOMAIN-SUFFIX,clouddongying.com
-  - DOMAIN-SUFFIX,jcloudwaftest.net
-  - DOMAIN-SUFFIX,jdcloudstatus.com
+  - DOMAIN-SUFFIX,cloudjinchang.com
   - DOMAIN-SUFFIX,jdcloudstatus.net
   - DOMAIN-SUFFIX,jdcloudstatic.net
-  - DOMAIN-SUFFIX,jdcloud-elive.com
   - DOMAIN-SUFFIX,jdcloudstatic.com
-  - DOMAIN-SUFFIX,cloudchaozhou.com
-  - DOMAIN-SUFFIX,cloudyuncheng.com
-  - DOMAIN-SUFFIX,cloudjinchang.com
-  - DOMAIN-SUFFIX,cloudjiujiang.com
-  - DOMAIN-SUFFIX,cloudtangshan.com
-  - DOMAIN-SUFFIX,cloudchangsha.com
-  - DOMAIN-SUFFIX,cloudxiangtan.com
+  - DOMAIN-SUFFIX,jdcloud-elite.com
+  - DOMAIN-SUFFIX,jcloudwaftest.com
+  - DOMAIN-SUFFIX,cloudyinchuan.com
+  - DOMAIN-SUFFIX,cloudhengshui.com
   - DOMAIN-SUFFIX,cloudquanzhou.com
   - DOMAIN-SUFFIX,cloudshaoyang.com
-  - DOMAIN-SUFFIX,cloudyancheng.com
-  - DOMAIN-SUFFIX,jcloudwaftest.com
   - DOMAIN-SUFFIX,cloudshanghai.com
-  - DOMAIN-SUFFIX,cloudhengshui.com
-  - DOMAIN-SUFFIX,jcloudresolve.net
+  - DOMAIN-SUFFIX,cloud-beijing.com
+  - DOMAIN-SUFFIX,jdcloudstatus.com
   - DOMAIN-SUFFIX,jcloudresolve.com
-  - DOMAIN-SUFFIX,prestodb-china.com
-  - DOMAIN-SUFFIX,cloud-shenzhen.com
-  - DOMAIN-SUFFIX,jdcloudresolve.net
-  - DOMAIN-SUFFIX,cloudzhongshan.com
-  - DOMAIN-SUFFIX,cloudtongchuan.com
-  - DOMAIN-SUFFIX,cloud-zhongwei.com
+  - DOMAIN-SUFFIX,cloudjingzhou.com
+  - DOMAIN-SUFFIX,jcloudresolve.net
+  - DOMAIN-SUFFIX,cloudjiujiang.com
+  - DOMAIN-SUFFIX,jcloudwaftest.net
+  - DOMAIN-SUFFIX,jdcloud-elive.com
+  - DOMAIN-SUFFIX,cloudtangshan.com
+  - DOMAIN-SUFFIX,cloudchangsha.com
+  - DOMAIN-SUFFIX,cloudyancheng.com
+  - DOMAIN-SUFFIX,cloudxiangtan.com
+  - DOMAIN-SUFFIX,cloudchaozhou.com
   - DOMAIN-SUFFIX,cloudchangzhou.com
-  - DOMAIN-SUFFIX,cloudguangzhou.com
+  - DOMAIN-SUFFIX,cloudtongchuan.com
+  - DOMAIN-SUFFIX,prestodb-china.com
+  - DOMAIN-SUFFIX,cloud-zhongwei.com
   - DOMAIN-SUFFIX,cloud-zhaoqing.com
+  - DOMAIN-SUFFIX,jdcloudresolve.net
   - DOMAIN-SUFFIX,cloudtongliang.com
+  - DOMAIN-SUFFIX,cloudzhongshan.com
+  - DOMAIN-SUFFIX,cloud-shenzhen.com
+  - DOMAIN-SUFFIX,cloudguangzhou.com
   - DOMAIN-SUFFIX,jdcloudresolve.com
-  - DOMAIN-SUFFIX,jingdongjinrong.com
   - DOMAIN-SUFFIX,jdcloud-openapi.com
   - DOMAIN-SUFFIX,jdcloud-livebuy.com
+  - DOMAIN-SUFFIX,jingdongjinrong.com
   - DOMAIN-SUFFIX,cloudshenfuxingqu.com
   - DOMAIN-SUFFIX,360buyinternational.com
   - DOMAIN-SUFFIX,jd.co.th
   - DOMAIN-SUFFIX,jd.com.cn
   - DOMAIN-SUFFIX,jdl.com.cn
-  - DOMAIN-SUFFIX,duiou.com.cn
   - DOMAIN-SUFFIX,jd-ex.com.cn
+  - DOMAIN-SUFFIX,duiou.com.cn
   - DOMAIN-SUFFIX,360buy.com.cn
   - DOMAIN-SUFFIX,prestodb.net.cn
   - DOMAIN-SUFFIX,chinabank.com.cn

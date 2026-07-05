@@ -1,10 +1,17 @@
 # NAME: Speedtest
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:12.393366+00:00
+# UPDATED: 2026-07-05T01:44:15.977584+00:00
 payload:
-  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN,www.speedtest.net.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,ookla.com
+  - DOMAIN-SUFFIX,cdnst.net
+  - DOMAIN-SUFFIX,ekahau.com
+  - DOMAIN-SUFFIX,webtest.net
+  - DOMAIN-SUFFIX,cellmaps.com
+  - DOMAIN-SUFFIX,ekahau.cloud
+  - DOMAIN-SUFFIX,pingtest.net
+  - DOMAIN-SUFFIX,speedtest.co
+  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ooklaserver.net
-  - DOMAIN-SUFFIX,speed.dler.io
-  - DOMAIN-SUFFIX,speed.cloudflare.com
-  - DOMAIN-KEYWORD,speedtest
-  - USER-AGENT,SpeedTest*
+  - DOMAIN-SUFFIX,speedtestcustom.com
+  - DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk

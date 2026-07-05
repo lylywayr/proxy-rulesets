@@ -1,36 +1,71 @@
 # NAME: Starbucks
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:12.522581+00:00
+# UPDATED: 2026-07-05T01:44:15.982707+00:00
 payload:
-  - DOMAIN-SUFFIX,starbucks.ie
-  - DOMAIN-SUFFIX,starbucks.ad
-  - DOMAIN-SUFFIX,starbucks.ca
-  - DOMAIN-SUFFIX,starbucks.be
   - DOMAIN-SUFFIX,starbucks.at
+  - DOMAIN-SUFFIX,starbucks.ru
+  - DOMAIN-SUFFIX,starbucks.pt
+  - DOMAIN-SUFFIX,starbucks.hu
+  - DOMAIN-SUFFIX,starbucks.pl
+  - DOMAIN-SUFFIX,starbucks.nl
+  - DOMAIN-SUFFIX,starbucks.ph
+  - DOMAIN-SUFFIX,starbucks.no
+  - DOMAIN-SUFFIX,starbucks.es
   - DOMAIN-SUFFIX,starbucks.ch
-  - DOMAIN-SUFFIX,starbucks.de
-  - DOMAIN-SUFFIX,sbuxcard.com
-  - DOMAIN-SUFFIX,starbucks.fr
+  - DOMAIN-SUFFIX,starbucks.ie
+  - DOMAIN-SUFFIX,starbucks.ca
+  - DOMAIN-SUFFIX,starbucks.ad
   - DOMAIN-SUFFIX,starbucks.bg
+  - DOMAIN-SUFFIX,starbucks.tt
+  - DOMAIN-SUFFIX,starbucks.vn
+  - DOMAIN-SUFFIX,starbucks.it
+  - DOMAIN-SUFFIX,starbucks.se
+  - DOMAIN-SUFFIX,sbuxcard.com
+  - DOMAIN-SUFFIX,starbucks.de
+  - DOMAIN-SUFFIX,starbucks.in
+  - DOMAIN-SUFFIX,starbucks.rs
+  - DOMAIN-SUFFIX,starbucks.be
+  - DOMAIN-SUFFIX,starbucks.fr
+  - DOMAIN-SUFFIX,starbucks.dk
   - DOMAIN-SUFFIX,starbucks.com
-  - DOMAIN-SUFFIX,starbucksathome.com
+  - DOMAIN-SUFFIX,starbucksavie.ca
+  - DOMAIN-SUFFIX,starbucksrtd.com
+  - DOMAIN-SUFFIX,starbuckscard.ph
+  - DOMAIN-SUFFIX,starbuckspoq.com
+  - DOMAIN-SUFFIX,starbuckscoffee.cz
+  - DOMAIN-SUFFIX,starbucksromania.ro
   - DOMAIN-SUFFIX,starbucks-stars.com
+  - DOMAIN-SUFFIX,starbucksathome.com
+  - DOMAIN-SUFFIX,starbucksforlife.ca
+  - DOMAIN-SUFFIX,starbucksforlife.com
   - DOMAIN-SUFFIX,starbucksreserve.com
+  - DOMAIN-SUFFIX,starbucksslovakia.sk
+  - DOMAIN-SUFFIX,starbuckscardb2b.com
+  - DOMAIN-SUFFIX,starbuckssummergame.ca
+  - DOMAIN-SUFFIX,starbuckscoffeegear.com
+  - DOMAIN-SUFFIX,starbuckssummergame.com
+  - DOMAIN-SUFFIX,starbucksrewardsstarland.ca
+  - DOMAIN-SUFFIX,starbuckscoffeegearstore.com
+  - DOMAIN-SUFFIX,starbucksrewardsstarland.com
   - DOMAIN-SUFFIX,sbux.com.my
-  - DOMAIN-SUFFIX,starbucks.co.jp
-  - DOMAIN-SUFFIX,starbucks.co.za
-  - DOMAIN-SUFFIX,starbucks.co.th
-  - DOMAIN-SUFFIX,starbucks.co.id
   - DOMAIN-SUFFIX,starbucks.co.nz
+  - DOMAIN-SUFFIX,starbucks.co.th
+  - DOMAIN-SUFFIX,starbucks.co.jp
+  - DOMAIN-SUFFIX,starbucks.co.id
+  - DOMAIN-SUFFIX,starbucks.co.za
   - DOMAIN-SUFFIX,starbucks.co.uk
-  - DOMAIN-SUFFIX,starbucks.com.kz
   - DOMAIN-SUFFIX,starbucks.com.kh
-  - DOMAIN-SUFFIX,starbucks.com.ar
-  - DOMAIN-SUFFIX,starbucks.com.mx
-  - DOMAIN-SUFFIX,starbucks.com.bn
-  - DOMAIN-SUFFIX,starbucks.com.gr
-  - DOMAIN-SUFFIX,starbucks.com.my
   - DOMAIN-SUFFIX,starbucks.com.cy
-  - DOMAIN-SUFFIX,starbucks.com.hk
   - DOMAIN-SUFFIX,starbucks.com.cn
+  - DOMAIN-SUFFIX,starbucks.com.ar
+  - DOMAIN-SUFFIX,starbucks.com.tr
+  - DOMAIN-SUFFIX,starbucks.com.hk
+  - DOMAIN-SUFFIX,starbucks.com.my
+  - DOMAIN-SUFFIX,starbucks.com.uy
   - DOMAIN-SUFFIX,starbucks.com.co
+  - DOMAIN-SUFFIX,starbucks.com.kz
+  - DOMAIN-SUFFIX,starbucks.com.bn
+  - DOMAIN-SUFFIX,starbucks.com.mx
+  - DOMAIN-SUFFIX,starbucks.com.pe
+  - DOMAIN-SUFFIX,starbucks.com.sg
+  - DOMAIN-SUFFIX,starbucks.com.gr

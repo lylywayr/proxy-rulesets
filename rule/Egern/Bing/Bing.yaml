@@ -1,14 +1,38 @@
 # NAME: Bing
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:16:36.932965+00:00
+# UPDATED: 2026-07-05T01:24:33.365360+00:00
 no_resolve: true
+domain_set:
+  - "location.microsoft.com"
 domain_suffix_set:
+  - "bing"
   - "bing.net"
   - "bing.com"
-  - "bingads.com"
+  - "dictate.ms"
+  - "copilot.com"
+  - "bing123.com"
+  - "bingapis.com"
   - "bingworld.com"
   - "bingsandbox.com"
+  - "office365tw.com"
+  - "sprinklesapp.com"
+  - "office365love.com"
+  - "bingparachute.com"
+  - "bluehatnights.com"
+  - "microsoft-give.com"
+  - "flipwithsurface.com"
   - "bingvisualsearch.com"
   - "bingagencyawards.com"
+  - "renovacionoffice.com"
   - "bingapistatistics.com"
+  - "masalladeloslimites.com"
+  - "microsoftdiplomados.com"
+  - "microsoftcloudsummit.com"
+  - "microsoftlatamholiday.com"
+  - "microsoftmxfilantropia.com"
+  - "msunlimitedcloudsummit.com"
+  - "microsoftpartnersolutions.com"
   - "bing.com.cn"
+  - "ditu.live.com"
+  - "copilot.microsoft.com"
+  - "copilot.cloud.microsoft"

@@ -1,22 +1,22 @@
 # NAME: YouMengChuangXiang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:17.756884+00:00
+# UPDATED: 2026-07-05T01:44:16.181767+00:00
 no_resolve: true
 domain_suffix_set:
-  - "xcmy0.cn"
   - "fldvz.cn"
-  - "ljnvb.cn"
   - "smmdn.cn"
-  - "sylqmn.cn"
+  - "xcmy0.cn"
+  - "ljnvb.cn"
   - "yblxyp.cn"
   - "97973.com"
+  - "sylqmn.cn"
   - "lccnxn.cn"
   - "jyjqdn.cn"
-  - "shsyfzq.cn"
-  - "lzcmm9x.cn"
   - "hj-dog.com"
-  - "maozhuar.cn"
+  - "lzcmm9x.cn"
+  - "shsyfzq.cn"
   - "carrydj.com"
+  - "maozhuar.cn"
   - "maozhuar.com"
   - "xuanyaodang.cn"
   - "xuanyaodang.com"

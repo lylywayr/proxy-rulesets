@@ -1,13 +1,13 @@
 # NAME: LianMeng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:05.377778+00:00
+# UPDATED: 2026-07-05T01:43:48.206682+00:00
 payload:
-  - DOMAIN-SUFFIX,faceu.com
   - DOMAIN-SUFFIX,faceu.net
   - DOMAIN-SUFFIX,qmoji.net
+  - DOMAIN-SUFFIX,faceu.com
   - DOMAIN-SUFFIX,bqtalk.com
-  - DOMAIN-SUFFIX,faceu.mobi
   - DOMAIN-SUFFIX,heycan.com
+  - DOMAIN-SUFFIX,faceu.mobi
   - DOMAIN-SUFFIX,qmoji.mobi
   - DOMAIN-SUFFIX,ulikecam.cn
   - DOMAIN-SUFFIX,ulikecam.com

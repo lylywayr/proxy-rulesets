@@ -1,30 +1,46 @@
-# AiQiCha
+# 爱企查
 
 ## 中文
 
-AiQiCha 规则集。
+AiQiCha 相关 AI 服务、模型平台与调用链路规则。
+
+### 导航
+
+- 所属分组：[AI 服务](../../../guide/groups/ai.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `1`
-- `DOMAIN-SUFFIX`: 1
+- 总数：`3`
+- `DOMAIN-SUFFIX`: 3
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/AiQiCha/AiQiCha.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AiQiCha/AiQiCha.list`
-- 已省略的不兼容类型: 无
+- 当前客户端：`Loon`
+- 分类标识：`AiQiCha`
+- 分类显示名：`爱企查`
+- 文件：`rule/Loon/AiQiCha/AiQiCha.list`
+- 当前直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AiQiCha/AiQiCha.list>
+- 已省略的不兼容类型：无
+
+### 客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AiQiCha/AiQiCha.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AiQiCha/AiQiCha.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AiQiCha/AiQiCha.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AiQiCha/AiQiCha.yaml>
 
 ### 数据来源
 
-- blackmatrix7 AiQiCha: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AiQiCha/AiQiCha.list
+- [v2fly geosite aiqicha](https://github.com/v2fly/domain-list-community/blob/master/data/aiqicha)
 
-## English
+<details>
+<summary>English</summary>
 
 AiQiCha rule set.
 
-- Client: `Loon`
-- File: `rule/Loon/AiQiCha/AiQiCha.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AiQiCha/AiQiCha.list`
-- Omitted unsupported types: `无`
+- Current client: `Loon`
+- Current raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AiQiCha/AiQiCha.list>
+
+</details>

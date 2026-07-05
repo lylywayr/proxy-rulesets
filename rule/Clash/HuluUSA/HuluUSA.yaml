@@ -1,47 +1,47 @@
 # NAME: HuluUSA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:02.853956+00:00
+# UPDATED: 2026-07-05T01:43:48.086670+00:00
 payload:
   - DOMAIN-SUFFIX,hulu.tv
   - DOMAIN-SUFFIX,hulu.us
-  - DOMAIN-SUFFIX,huloo.tv
+  - DOMAIN-SUFFIX,hoolu.tv
   - DOMAIN-SUFFIX,hulu.com
   - DOMAIN-SUFFIX,huloo.cc
-  - DOMAIN-SUFFIX,hoolu.tv
+  - DOMAIN-SUFFIX,huloo.tv
   - DOMAIN-SUFFIX,hu1u.com
   - DOMAIN-SUFFIX,hooloo.tv
   - DOMAIN-SUFFIX,hoolu.com
-  - DOMAIN-SUFFIX,huluad.com
   - DOMAIN-SUFFIX,hulugo.com
-  - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,myhulu.com
-  - DOMAIN-SUFFIX,huluim.com
   - DOMAIN-SUFFIX,huluqa.com
+  - DOMAIN-SUFFIX,huluim.com
+  - DOMAIN-SUFFIX,112263.com
+  - DOMAIN-SUFFIX,huluad.com
   - DOMAIN-SUFFIX,hulutv.com
   - DOMAIN-SUFFIX,huluapp.com
+  - DOMAIN-SUFFIX,hulunet.com
   - DOMAIN-SUFFIX,payhulu.com
   - DOMAIN-SUFFIX,huluusa.com
-  - DOMAIN-SUFFIX,hulunet.com
-  - DOMAIN-SUFFIX,mushymush.tv
   - DOMAIN-SUFFIX,hulugans.com
+  - DOMAIN-SUFFIX,hulucall.com
+  - DOMAIN-SUFFIX,huluplus.com
   - DOMAIN-SUFFIX,freehulu.com
   - DOMAIN-SUFFIX,huluteam.com
-  - DOMAIN-SUFFIX,huluplus.com
-  - DOMAIN-SUFFIX,hulucall.com
-  - DOMAIN-SUFFIX,huluasks.com
   - DOMAIN-SUFFIX,callhulu.com
+  - DOMAIN-SUFFIX,mushymush.tv
   - DOMAIN-SUFFIX,hulufree.com
+  - DOMAIN-SUFFIX,huluasks.com
   - DOMAIN-SUFFIX,huluitaly.com
   - DOMAIN-SUFFIX,huluspain.com
-  - DOMAIN-SUFFIX,huluaction.com
-  - DOMAIN-SUFFIX,joinmaidez.com
-  - DOMAIN-SUFFIX,hulusports.com
   - DOMAIN-SUFFIX,hulustream.com
   - DOMAIN-SUFFIX,hulurussia.com
+  - DOMAIN-SUFFIX,hulusports.com
+  - DOMAIN-SUFFIX,joinmaidez.com
+  - DOMAIN-SUFFIX,huluaction.com
+  - DOMAIN-SUFFIX,hulupremium.com
+  - DOMAIN-SUFFIX,hulugermany.com
   - DOMAIN-SUFFIX,wwwhuluplus.com
   - DOMAIN-SUFFIX,hulunetwork.com
-  - DOMAIN-SUFFIX,hulugermany.com
-  - DOMAIN-SUFFIX,hulupremium.com
   - DOMAIN-SUFFIX,registerhulu.com
   - DOMAIN-SUFFIX,hulupurchase.com
   - DOMAIN-SUFFIX,originalhulu.com
@@ -51,7 +51,6 @@ payload:
   - DOMAIN-SUFFIX,prod.hjholdings.tv
   - DOMAIN-SUFFIX,cws-hulu.conviva.com
   - DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
-  - DOMAIN-SUFFIX,hulu.sc.omtrdc.net
   - DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+  - DOMAIN-SUFFIX,hulu.sc.omtrdc.net
   - DOMAIN-SUFFIX,hulu.playback.edge.bamgrid.com
-  - PROCESS-NAME,com.hulu.plus

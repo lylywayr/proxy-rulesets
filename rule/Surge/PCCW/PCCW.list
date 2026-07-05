@@ -1,24 +1,30 @@
 # NAME: PCCW
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:09.339092+00:00
-# DOMAIN-SUFFIX: 25
-# TOTAL: 25
+# UPDATED: 2026-07-05T01:43:48.352649+00:00
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 24
+# DOMAIN-REGEX: 1
+# TOTAL: 28
 
-DOMAIN-SUFFIX,now.com
-DOMAIN-SUFFIX,hkt.com
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,moov.hk
 DOMAIN-SUFFIX,viu.com
-DOMAIN-SUFFIX,nowe.hk
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,hkt.com
 DOMAIN-SUFFIX,uhub.com
-DOMAIN-SUFFIX,pccw.com
 DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,pccw.com
 DOMAIN-SUFFIX,hkcsl.com
 DOMAIN-SUFFIX,now-tv.com
-DOMAIN-SUFFIX,hktshop.com
 DOMAIN-SUFFIX,hkt-eye.com
-DOMAIN-SUFFIX,netvigator.com
+DOMAIN-SUFFIX,hktshop.com
 DOMAIN-SUFFIX,pccwglobal.com
 DOMAIN-SUFFIX,now-ashare.com
+DOMAIN-SUFFIX,netvigator.com
 DOMAIN-SUFFIX,hktpremier.com
 DOMAIN-SUFFIX,esmarthealth.com
 DOMAIN-SUFFIX,hkteducation.com
@@ -27,5 +33,4 @@ DOMAIN-SUFFIX,hkt-enterprise.com
 DOMAIN-SUFFIX,now.com.hk
 DOMAIN-SUFFIX,1010.com.hk
 DOMAIN-SUFFIX,theclub.com.hk
-DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
-DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
+DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$

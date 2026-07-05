@@ -1,14 +1,14 @@
 # NAME: ViuTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T01:51:15.914878+00:00
+# UPDATED: 2026-07-05T01:44:16.099289+00:00
 no_resolve: true
 domain_suffix_set:
   - "viu.tv"
   - "viu.com"
   - "viu.now.com"
   - "dfp6rglgjqszk.cloudfront.net"
-  - "d1k2us671qcoau.cloudfront.net"
   - "d2anahhhmp1ffz.cloudfront.net"
+  - "d1k2us671qcoau.cloudfront.net"
   - "mobileanalytics.us-east-1.amazonaws.com"
   - "cognito-identity.us-east-1.amazonaws.com"
 user_agent_set:
