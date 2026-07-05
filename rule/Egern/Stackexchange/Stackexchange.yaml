@@ -1,24 +1,24 @@
 # NAME: Stackexchange
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:50.712506+00:00
+# UPDATED: 2026-07-05T00:48:44.631124+00:00
 no_resolve: true
 domain_suffix_set:
   - "sstatic.net"
   - "tex-talk.net"
-  - "stackmod.blog"
-  - "stackapps.com"
-  - "askubuntu.com"
   - "stackauth.com"
+  - "askubuntu.com"
   - "superuser.com"
+  - "stackapps.com"
+  - "stackmod.blog"
   - "thesffblog.com"
   - "serverfault.com"
   - "blogoverflow.com"
-  - "stackoverflow.co"
   - "mathoverflow.net"
-  - "stackoverflow.com"
-  - "codeforaliving.io"
-  - "stackexchange.com"
+  - "stackoverflow.co"
   - "stacksnippets.net"
+  - "codeforaliving.io"
+  - "stackoverflow.com"
+  - "stackexchange.com"
   - "stackoverflow.blog"
   - "stackoverflow.email"
   - "stackoverflowcareers.com"

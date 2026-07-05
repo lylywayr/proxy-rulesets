@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T23:53:22.637103+00:00",
+  "generated_at": "2026-07-05T00:14:16.858956+00:00",
   "public_repository": "lylywayr/proxy-rulesets",
   "categories": [
     {
@@ -10780,6 +10780,49 @@
       }
     },
     {
+      "name": "GamePlatforms",
+      "description_zh": "游戏平台与通用游戏服务规则集。",
+      "description_en": "Game platforms and general gaming service rules.",
+      "counts": {
+        "DOMAIN-SUFFIX": 539,
+        "DOMAIN": 8,
+        "DOMAIN-KEYWORD": 4,
+        "IP-CIDR": 46
+      },
+      "sources": [
+        {
+          "name": "blackmatrix7 Game",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
+        }
+      ],
+      "files": {
+        "Surge": {
+          "rule_path": "rule/Surge/GamePlatforms/GamePlatforms.list",
+          "readme_path": "rule/Surge/GamePlatforms/README.md",
+          "omitted": {},
+          "total": 597
+        },
+        "Loon": {
+          "rule_path": "rule/Loon/GamePlatforms/GamePlatforms.list",
+          "readme_path": "rule/Loon/GamePlatforms/README.md",
+          "omitted": {},
+          "total": 597
+        },
+        "Clash": {
+          "rule_path": "rule/Clash/GamePlatforms/GamePlatforms.yaml",
+          "readme_path": "rule/Clash/GamePlatforms/README.md",
+          "omitted": {},
+          "total": 597
+        },
+        "Egern": {
+          "rule_path": "rule/Egern/GamePlatforms/GamePlatforms.yaml",
+          "readme_path": "rule/Egern/GamePlatforms/README.md",
+          "omitted": {},
+          "total": 597
+        }
+      }
+    },
+    {
       "name": "GaoDe",
       "description_zh": "GaoDe 规则集。",
       "description_en": "GaoDe rule set.",
@@ -11123,6 +11166,10 @@
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml"
         },
         {
+          "name": "LM-Firefly Github list",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list"
+        },
+        {
           "name": "LM-Firefly Github classical",
           "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml"
         }
@@ -11415,13 +11462,17 @@
       "description_zh": "Google 通用服务规则，不含 YouTube 独立分类。",
       "description_en": "General Google service rules, excluding the separate YouTube category.",
       "counts": {
-        "DOMAIN-SUFFIX": 763,
+        "DOMAIN-SUFFIX": 792,
         "DOMAIN-KEYWORD": 2,
         "PROCESS-NAME": 7,
         "IP-CIDR": 4,
         "IP-CIDR6": 1
       },
       "sources": [
+        {
+          "name": "Loyalsoldier Google",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt"
+        },
         {
           "name": "blackmatrix7 Google source",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list"
@@ -11444,19 +11495,19 @@
           "rule_path": "rule/Surge/Google/Google.list",
           "readme_path": "rule/Surge/Google/README.md",
           "omitted": {},
-          "total": 777
+          "total": 806
         },
         "Loon": {
           "rule_path": "rule/Loon/Google/Google.list",
           "readme_path": "rule/Loon/Google/README.md",
           "omitted": {},
-          "total": 777
+          "total": 806
         },
         "Clash": {
           "rule_path": "rule/Clash/Google/Google.yaml",
           "readme_path": "rule/Clash/Google/README.md",
           "omitted": {},
-          "total": 777
+          "total": 806
         },
         "Egern": {
           "rule_path": "rule/Egern/Google/Google.yaml",
@@ -11464,7 +11515,7 @@
           "omitted": {
             "PROCESS-NAME": 7
           },
-          "total": 770
+          "total": 799
         }
       }
     },
@@ -16421,6 +16472,10 @@
         {
           "name": "ACL4SSR Microsoft list",
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list"
+        },
+        {
+          "name": "ACL4SSR Microsoft provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml"
         },
         {
           "name": "ACL4SSR OneDrive provider",
@@ -22518,6 +22573,10 @@
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list"
         },
         {
+          "name": "ACL4SSR Telegram provider",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml"
+        },
+        {
           "name": "Hackl0us Telegram",
           "url": "https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list"
         },
@@ -23181,6 +23240,10 @@
         {
           "name": "blackmatrix7 TikTok",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
+        },
+        {
+          "name": "ACL4SSR TikTok list",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list"
         },
         {
           "name": "ACL4SSR TikTok provider",
@@ -26375,6 +26438,10 @@
         {
           "name": "ACL4SSR YouTube provider",
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml"
+        },
+        {
+          "name": "LM-Firefly YouTube list",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/YouTube.list"
         }
       ],
       "files": {

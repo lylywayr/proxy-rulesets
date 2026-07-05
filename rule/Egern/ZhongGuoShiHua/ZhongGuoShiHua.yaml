@@ -1,10 +1,10 @@
 # NAME: ZhongGuoShiHua
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:54.592291+00:00
+# UPDATED: 2026-07-05T00:48:51.584222+00:00
 no_resolve: true
 domain_suffix_set:
   - "sinopec.com"
   - "sinopec-usa.com"
-  - "sinopecsales.com"
   - "sinopecgroup.com"
+  - "sinopecsales.com"
   - "sinopecnews.com.cn"

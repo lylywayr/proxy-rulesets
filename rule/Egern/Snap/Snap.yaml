@@ -1,11 +1,11 @@
 # NAME: Snap
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:50.687506+00:00
+# UPDATED: 2026-07-05T00:48:44.194721+00:00
 no_resolve: true
 domain_suffix_set:
   - "snap.com"
   - "snapkit.co"
   - "sc-cdn.net"
   - "snapads.com"
-  - "snapchat.com"
   - "snap-dev.net"
+  - "snapchat.com"

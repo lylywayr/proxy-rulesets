@@ -1,6 +1,6 @@
 # NAME: SouFang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:50.696506+00:00
+# UPDATED: 2026-07-05T00:48:44.357892+00:00
 payload:
   - DOMAIN-SUFFIX,nree.cn
   - DOMAIN-SUFFIX,txsf.com

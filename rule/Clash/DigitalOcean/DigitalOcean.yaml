@@ -1,6 +1,6 @@
 # NAME: DigitalOcean
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:02:34.024386+00:00
+# UPDATED: 2026-07-05T00:31:26.211349+00:00
 payload:
   - DOMAIN-SUFFIX,do.co
   - DOMAIN-SUFFIX,nginxconfig.io

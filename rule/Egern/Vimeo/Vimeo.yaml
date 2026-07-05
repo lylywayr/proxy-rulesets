@@ -1,21 +1,21 @@
 # NAME: Vimeo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:53.704253+00:00
+# UPDATED: 2026-07-05T00:48:48.254160+00:00
 no_resolve: true
 domain_suffix_set:
   - "vhx.tv"
   - "vimeo.fr"
   - "vimeo.com"
-  - "vhxqa3.com"
-  - "vhxqa2.com"
   - "vhxqa6.com"
-  - "vhxqa1.com"
+  - "vhxqa3.com"
   - "vhxqa4.com"
+  - "vhxqa1.com"
+  - "vhxqa2.com"
   - "vimeocdn.com"
-  - "vimeogoods.com"
   - "livestream.com"
+  - "vimeogoods.com"
   - "vimeostatus.com"
   - "vimeo-staging.com"
-  - "vimeoondemand.com"
   - "vimeobusiness.com"
+  - "vimeoondemand.com"
   - "vimeo-staging2.com"

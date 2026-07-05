@@ -1,6 +1,6 @@
 # NAME: GitHub
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:44.774839+00:00
+# UPDATED: 2026-07-05T00:48:31.287436+00:00
 # DOMAIN-SUFFIX: 30
 # DOMAIN-KEYWORD: 1
 # TOTAL: 31
@@ -9,26 +9,26 @@ DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,repo.new
-DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,myoctocat.com
-DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,opensource.guide
-DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubpreview.dev
-DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,thegithubshop.com
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubusercontent.com

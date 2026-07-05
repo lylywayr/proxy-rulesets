@@ -1,6 +1,6 @@
 # NAME: LvMiLianChuang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:46.581291+00:00
+# UPDATED: 2026-07-05T00:48:37.400076+00:00
 payload:
   - DOMAIN-SUFFIX,aqara.cn
   - DOMAIN-SUFFIX,aqara.com

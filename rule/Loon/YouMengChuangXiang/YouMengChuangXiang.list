@@ -1,23 +1,23 @@
 # NAME: YouMengChuangXiang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:53.838037+00:00
+# UPDATED: 2026-07-05T00:48:50.630583+00:00
 # DOMAIN-SUFFIX: 21
 # TOTAL: 21
 
 DOMAIN-SUFFIX,fldvz.cn
-DOMAIN-SUFFIX,xcmy0.cn
 DOMAIN-SUFFIX,ljnvb.cn
 DOMAIN-SUFFIX,smmdn.cn
-DOMAIN-SUFFIX,yblxyp.cn
+DOMAIN-SUFFIX,xcmy0.cn
 DOMAIN-SUFFIX,sylqmn.cn
-DOMAIN-SUFFIX,97973.com
-DOMAIN-SUFFIX,lccnxn.cn
 DOMAIN-SUFFIX,jyjqdn.cn
-DOMAIN-SUFFIX,hj-dog.com
+DOMAIN-SUFFIX,97973.com
+DOMAIN-SUFFIX,yblxyp.cn
+DOMAIN-SUFFIX,lccnxn.cn
 DOMAIN-SUFFIX,lzcmm9x.cn
+DOMAIN-SUFFIX,hj-dog.com
 DOMAIN-SUFFIX,shsyfzq.cn
-DOMAIN-SUFFIX,maozhuar.cn
 DOMAIN-SUFFIX,carrydj.com
+DOMAIN-SUFFIX,maozhuar.cn
 DOMAIN-SUFFIX,maozhuar.com
 DOMAIN-SUFFIX,xuanyaodang.cn
 DOMAIN-SUFFIX,xuanyaodang.com

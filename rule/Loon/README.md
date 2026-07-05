@@ -267,6 +267,7 @@
 | FuboTV | 2 | [规则](./FuboTV/FuboTV.list) | [说明](./FuboTV/README.md) |
 | Funshion | 10 | [规则](./Funshion/Funshion.list) | [说明](./Funshion/README.md) |
 | Game | 597 | [规则](./Game/Game.list) | [说明](./Game/README.md) |
+| GamePlatforms | 597 | [规则](./GamePlatforms/GamePlatforms.list) | [说明](./GamePlatforms/README.md) |
 | GaoDe | 9 | [规则](./GaoDe/GaoDe.list) | [说明](./GaoDe/README.md) |
 | Garena | 15 | [规则](./Garena/Garena.list) | [说明](./Garena/README.md) |
 | Geely | 50 | [规则](./Geely/Geely.list) | [说明](./Geely/README.md) |
@@ -282,7 +283,7 @@
 | GlobalScholar | 230 | [规则](./GlobalScholar/GlobalScholar.list) | [说明](./GlobalScholar/README.md) |
 | GlobalSign | 13 | [规则](./GlobalSign/GlobalSign.list) | [说明](./GlobalSign/README.md) |
 | Gog | 4 | [规则](./Gog/Gog.list) | [说明](./Gog/README.md) |
-| Google | 777 | [规则](./Google/Google.list) | [说明](./Google/README.md) |
+| Google | 806 | [规则](./Google/Google.list) | [说明](./Google/README.md) |
 | GoogleDrive | 9 | [规则](./GoogleDrive/GoogleDrive.list) | [说明](./GoogleDrive/README.md) |
 | GoogleEarth | 16 | [规则](./GoogleEarth/GoogleEarth.list) | [说明](./GoogleEarth/README.md) |
 | GoogleFCM | 41 | [规则](./GoogleFCM/GoogleFCM.list) | [说明](./GoogleFCM/README.md) |

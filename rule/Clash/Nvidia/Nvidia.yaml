@@ -1,66 +1,66 @@
 # NAME: Nvidia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:49.742686+00:00
+# UPDATED: 2026-07-05T00:48:39.906595+00:00
 payload:
-  - DOMAIN-SUFFIX,nvidia.de
-  - DOMAIN-SUFFIX,nvidia.no
-  - DOMAIN-SUFFIX,nvidia.tw
-  - DOMAIN-SUFFIX,nvidia.lu
-  - DOMAIN-SUFFIX,nvidia.se
-  - DOMAIN-SUFFIX,nvidia.mx
-  - DOMAIN-SUFFIX,nvidia.ro
-  - DOMAIN-SUFFIX,nvidia.cn
-  - DOMAIN-SUFFIX,nvidia.es
-  - DOMAIN-SUFFIX,nvidia.ru
-  - DOMAIN-SUFFIX,nvidia.pl
-  - DOMAIN-SUFFIX,nvidia.dk
-  - DOMAIN-SUFFIX,nvidia.be
-  - DOMAIN-SUFFIX,nvidia.at
-  - DOMAIN-SUFFIX,nvidia.in
-  - DOMAIN-SUFFIX,nvidia.jp
   - DOMAIN-SUFFIX,nvidia.cz
-  - DOMAIN-SUFFIX,nvidia.eu
-  - DOMAIN-SUFFIX,nvidia.it
-  - DOMAIN-SUFFIX,nvidia.nl
-  - DOMAIN-SUFFIX,nvidia.ch
-  - DOMAIN-SUFFIX,nvidia.fi
   - DOMAIN-SUFFIX,nvidia.fr
-  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,nvidia.tw
+  - DOMAIN-SUFFIX,nvidia.jp
+  - DOMAIN-SUFFIX,nvidia.cn
+  - DOMAIN-SUFFIX,nvidia.dk
+  - DOMAIN-SUFFIX,nvidia.ch
+  - DOMAIN-SUFFIX,nvidia.it
+  - DOMAIN-SUFFIX,nvidia.pl
+  - DOMAIN-SUFFIX,nvidia.fi
+  - DOMAIN-SUFFIX,nvidia.lu
+  - DOMAIN-SUFFIX,nvidia.eu
+  - DOMAIN-SUFFIX,nvidia.at
+  - DOMAIN-SUFFIX,nvidia.no
+  - DOMAIN-SUFFIX,nvidia.es
+  - DOMAIN-SUFFIX,nvidia.ro
+  - DOMAIN-SUFFIX,nvidia.in
+  - DOMAIN-SUFFIX,nvidia.mx
+  - DOMAIN-SUFFIX,nvidia.ru
+  - DOMAIN-SUFFIX,nvidia.de
+  - DOMAIN-SUFFIX,nvidia.se
+  - DOMAIN-SUFFIX,nvidia.nl
+  - DOMAIN-SUFFIX,nvidia.be
   - DOMAIN-SUFFIX,geforce.cn
-  - DOMAIN-SUFFIX,geforce.com
+  - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,nvidia.asia
+  - DOMAIN-SUFFIX,geforce.com
   - DOMAIN-SUFFIX,tegrazone.jp
   - DOMAIN-SUFFIX,tegrazone.co
   - DOMAIN-SUFFIX,tegrazone.kr
   - DOMAIN-SUFFIX,tegrazone.com
+  - DOMAIN-SUFFIX,nvidiagrid.net
   - DOMAIN-SUFFIX,gputechconf.in
   - DOMAIN-SUFFIX,gputechconf.eu
   - DOMAIN-SUFFIX,gputechconf.jp
-  - DOMAIN-SUFFIX,nvidiagrid.net
   - DOMAIN-SUFFIX,gputechconf.cn
   - DOMAIN-SUFFIX,nvidiaforhp.com
   - DOMAIN-SUFFIX,gputechconf.com
   - DOMAIN-SUFFIX,shotwithgeforce.com
+  - DOMAIN-SUFFIX,nvidia.co.in
+  - DOMAIN-SUFFIX,nvidia.co.at
   - DOMAIN-SUFFIX,nvidia.co.kr
   - DOMAIN-SUFFIX,nvidia.co.uk
-  - DOMAIN-SUFFIX,nvidia.co.in
   - DOMAIN-SUFFIX,nvidia.co.jp
-  - DOMAIN-SUFFIX,nvidia.co.at
-  - DOMAIN-SUFFIX,nvidia.com.ua
   - DOMAIN-SUFFIX,nvidia.com.br
-  - DOMAIN-SUFFIX,nvidia.com.pe
-  - DOMAIN-SUFFIX,nvidia.com.mx
-  - DOMAIN-SUFFIX,nvidia.com.tr
-  - DOMAIN-SUFFIX,nvidia.com.ve
-  - DOMAIN-SUFFIX,nvidia.com.au
   - DOMAIN-SUFFIX,nvidia.com.tw
+  - DOMAIN-SUFFIX,nvidia.com.mx
   - DOMAIN-SUFFIX,geforce.co.uk
-  - DOMAIN-SUFFIX,geforce.co.kr
   - DOMAIN-SUFFIX,nvidia.com.pl
+  - DOMAIN-SUFFIX,nvidia.com.ua
+  - DOMAIN-SUFFIX,nvidia.com.tr
+  - DOMAIN-SUFFIX,nvidia.com.au
+  - DOMAIN-SUFFIX,nvidia.com.ve
+  - DOMAIN-SUFFIX,geforce.co.kr
+  - DOMAIN-SUFFIX,nvidia.com.pe
   - DOMAIN-SUFFIX,geforce.com.tw
   - DOMAIN-SUFFIX,tegrazone.co.kr
   - DOMAIN-SUFFIX,gputechconf.co.kr
-  - DOMAIN-SUFFIX,gputechconf.com.tw
   - DOMAIN-SUFFIX,gputechconf.com.au
+  - DOMAIN-SUFFIX,gputechconf.com.tw
   - DOMAIN-SUFFIX,nvidia.tt.omtrdc.net
   - DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net

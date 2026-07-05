@@ -12,7 +12,7 @@
 - 规则来源：公开上游项目
 - 产物形式：`Surge`、`Loon`、`Clash`、`Egern`
 - 构建方式：私有构建仓自动抓取、合并、去重、生成并发布
-- 当前分类数：`666`
+- 当前分类数：`667`
 
 ## 支持客户端
 
@@ -297,6 +297,7 @@
 | FuboTV | [Surge](rule/Surge/FuboTV/FuboTV.list) | [Loon](rule/Loon/FuboTV/FuboTV.list) | [Clash](rule/Clash/FuboTV/FuboTV.yaml) | [Egern](rule/Egern/FuboTV/FuboTV.yaml) |
 | Funshion | [Surge](rule/Surge/Funshion/Funshion.list) | [Loon](rule/Loon/Funshion/Funshion.list) | [Clash](rule/Clash/Funshion/Funshion.yaml) | [Egern](rule/Egern/Funshion/Funshion.yaml) |
 | Game | [Surge](rule/Surge/Game/Game.list) | [Loon](rule/Loon/Game/Game.list) | [Clash](rule/Clash/Game/Game.yaml) | [Egern](rule/Egern/Game/Game.yaml) |
+| GamePlatforms | [Surge](rule/Surge/GamePlatforms/GamePlatforms.list) | [Loon](rule/Loon/GamePlatforms/GamePlatforms.list) | [Clash](rule/Clash/GamePlatforms/GamePlatforms.yaml) | [Egern](rule/Egern/GamePlatforms/GamePlatforms.yaml) |
 | GaoDe | [Surge](rule/Surge/GaoDe/GaoDe.list) | [Loon](rule/Loon/GaoDe/GaoDe.list) | [Clash](rule/Clash/GaoDe/GaoDe.yaml) | [Egern](rule/Egern/GaoDe/GaoDe.yaml) |
 | Garena | [Surge](rule/Surge/Garena/Garena.list) | [Loon](rule/Loon/Garena/Garena.list) | [Clash](rule/Clash/Garena/Garena.yaml) | [Egern](rule/Egern/Garena/Garena.yaml) |
 | Geely | [Surge](rule/Surge/Geely/Geely.list) | [Loon](rule/Loon/Geely/Geely.list) | [Clash](rule/Clash/Geely/Geely.yaml) | [Egern](rule/Egern/Geely/Geely.yaml) |

@@ -1,5 +1,5 @@
 # NAME: AddToAny
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T23:53:22.760778+00:00
+# UPDATED: 2026-07-05T00:14:18.858840+00:00
 payload:
   - DOMAIN-SUFFIX,addtoany.com

@@ -1,6 +1,6 @@
 # NAME: ZhuanZhuan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:54.601293+00:00
+# UPDATED: 2026-07-05T00:48:51.809940+00:00
 payload:
   - DOMAIN-SUFFIX,zhuancorp.com
   - DOMAIN-SUFFIX,zhuan-zhuan.cn

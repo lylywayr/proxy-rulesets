@@ -1,6 +1,6 @@
 # NAME: Yandex
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:53.824026+00:00
+# UPDATED: 2026-07-05T00:48:50.371384+00:00
 # DOMAIN-SUFFIX: 34
 # IP-CIDR: 16
 # IP-CIDR6: 2
@@ -9,36 +9,36 @@
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,yadi.sk
-DOMAIN-SUFFIX,yandex.by
-DOMAIN-SUFFIX,yandex.fr
-DOMAIN-SUFFIX,yandex.eu
-DOMAIN-SUFFIX,yandex.tj
-DOMAIN-SUFFIX,yandex.de
-DOMAIN-SUFFIX,yandex.ee
-DOMAIN-SUFFIX,yandex.md
-DOMAIN-SUFFIX,yandex.lt
+DOMAIN-SUFFIX,yandex.fi
 DOMAIN-SUFFIX,yandex.uz
-DOMAIN-SUFFIX,yandex.ua
+DOMAIN-SUFFIX,yandex.de
+DOMAIN-SUFFIX,yandex.sx
+DOMAIN-SUFFIX,yandex.eu
+DOMAIN-SUFFIX,yandex.lt
+DOMAIN-SUFFIX,yandex.by
 DOMAIN-SUFFIX,yandex.kz
 DOMAIN-SUFFIX,yandex.ru
-DOMAIN-SUFFIX,yandex.az
-DOMAIN-SUFFIX,yandex.sx
-DOMAIN-SUFFIX,yandex.kg
-DOMAIN-SUFFIX,yandex.tm
-DOMAIN-SUFFIX,yandex.lv
 DOMAIN-SUFFIX,yandex.st
-DOMAIN-SUFFIX,yandex.fi
-DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,yandex.ee
+DOMAIN-SUFFIX,yandex.az
+DOMAIN-SUFFIX,yandex.fr
+DOMAIN-SUFFIX,yandex.ua
+DOMAIN-SUFFIX,yandex.lv
+DOMAIN-SUFFIX,yandex.tj
+DOMAIN-SUFFIX,yandex.tm
+DOMAIN-SUFFIX,yandex.md
+DOMAIN-SUFFIX,yandex.kg
 DOMAIN-SUFFIX,yandex.net
-DOMAIN-SUFFIX,yandex.jobs
+DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yandex.aero
+DOMAIN-SUFFIX,yandex.jobs
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,yandex.co.il
-DOMAIN-SUFFIX,yandex.com.ru
-DOMAIN-SUFFIX,yandex.com.ge
 DOMAIN-SUFFIX,yandex.com.am
+DOMAIN-SUFFIX,yandex.com.ru
 DOMAIN-SUFFIX,yandex.com.ua
+DOMAIN-SUFFIX,yandex.com.ge
 DOMAIN-SUFFIX,yandex.com.tr
 IP-CIDR,5.45.192.0/18,no-resolve
 IP-CIDR,5.255.192.0/18,no-resolve

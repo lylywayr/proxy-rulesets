@@ -1,6 +1,6 @@
 # NAME: Dailymail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:02:33.960739+00:00
+# UPDATED: 2026-07-05T00:31:25.276261+00:00
 no_resolve: true
 domain_suffix_set:
   - "mol.im"
@@ -8,8 +8,8 @@ domain_suffix_set:
   - "thismon.ee"
   - "dailymail.dk"
   - "dailymail.com"
-  - "mailonline.com"
   - "mailhealth.com"
+  - "mailonline.com"
   - "mailonsunday.ie"
   - "dailymailonline.com"
   - "anm.co.uk"

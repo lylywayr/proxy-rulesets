@@ -1,13 +1,13 @@
 # NAME: SMZDM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:50.656372+00:00
+# UPDATED: 2026-07-05T00:48:44.155834+00:00
 payload:
   - DOMAIN-SUFFIX,zdm.net
   - DOMAIN-SUFFIX,smzdm.com
   - DOMAIN-SUFFIX,zdmimg.com
   - DOMAIN-SUFFIX,quaolai.com
-  - DOMAIN-SUFFIX,zhidemai.com
   - DOMAIN-SUFFIX,smzdmimg.com
+  - DOMAIN-SUFFIX,zhidemai.com
   - DOMAIN-SUFFIX,valueq-sea.com
   - DOMAIN-SUFFIX,wanwuzhinan.com
   - DOMAIN-SUFFIX,faxianpindao.com

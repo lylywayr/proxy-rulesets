@@ -1,6 +1,6 @@
 # NAME: Dailymail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:02:33.958833+00:00
+# UPDATED: 2026-07-05T00:31:25.275634+00:00
 # DOMAIN-SUFFIX: 17
 # TOTAL: 17
 
@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,dailym.ai
 DOMAIN-SUFFIX,thismon.ee
 DOMAIN-SUFFIX,dailymail.dk
 DOMAIN-SUFFIX,dailymail.com
-DOMAIN-SUFFIX,mailonline.com
 DOMAIN-SUFFIX,mailhealth.com
+DOMAIN-SUFFIX,mailonline.com
 DOMAIN-SUFFIX,mailonsunday.ie
 DOMAIN-SUFFIX,dailymailonline.com
 DOMAIN-SUFFIX,anm.co.uk

@@ -1,6 +1,6 @@
 # NAME: Nike
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:49.719017+00:00
+# UPDATED: 2026-07-05T00:48:39.530120+00:00
 # DOMAIN-SUFFIX: 11
 # TOTAL: 11
 
@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,nikecdn.com
 DOMAIN-SUFFIX,nikecloud.com
 DOMAIN-SUFFIX,static-nike.com
 DOMAIN-SUFFIX,niketracking.com
-DOMAIN-SUFFIX,nike.com.br
 DOMAIN-SUFFIX,nike.com.hk
+DOMAIN-SUFFIX,nike.com.br
 DOMAIN-SUFFIX,nikeinc.com.cn
 DOMAIN-SUFFIX,nikestore.com.au

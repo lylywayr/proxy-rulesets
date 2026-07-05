@@ -1,6 +1,6 @@
 # NAME: Gemini
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:43.331904+00:00
+# UPDATED: 2026-07-05T00:48:30.873658+00:00
 no_resolve: true
 domain_set:
   - "ai.google.dev"
@@ -11,8 +11,8 @@ domain_suffix_set:
   - "deepmind.com"
   - "deepmind.google"
   - "generativeai.google"
-  - "bard.google.com"
   - "apis.google.com"
+  - "bard.google.com"
   - "gemini.google.com"
   - "proactivebackend-pa.googleapis.com"
 domain_keyword_set:

@@ -25,6 +25,7 @@ YouTube 与 YouTube Music 相关规则。
 - blackmatrix7 YouTube: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list
 - ACL4SSR YouTube list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 - ACL4SSR YouTube provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml
+- LM-Firefly YouTube list: https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/YouTube.list
 
 ## English
 

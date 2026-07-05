@@ -1,6 +1,6 @@
 # NAME: 9News
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T23:53:22.718058+00:00
+# UPDATED: 2026-07-05T00:14:18.185872+00:00
 no_resolve: true
 domain_suffix_set:
   - "9cdn.net"
@@ -10,9 +10,9 @@ domain_suffix_set:
   - "nine.com.au"
   - "9news.com.au"
   - "yourtv.com.au"
-  - "static9.net.au"
-  - "9nation.com.au"
   - "ninemsn.com.au"
+  - "9nation.com.au"
+  - "static9.net.au"
   - "freeviewplus.net.au"
   - "ninemediaroom.com.au"
   - "nineentertainment.com.au"

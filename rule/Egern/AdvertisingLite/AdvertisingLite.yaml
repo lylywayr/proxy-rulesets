@@ -1,6 +1,6 @@
 # NAME: AdvertisingLite
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T23:53:22.791590+00:00
+# UPDATED: 2026-07-05T00:14:19.111481+00:00
 no_resolve: true
 domain_keyword_set:
   - "112wan"

@@ -24,6 +24,7 @@ Microsoft、OneDrive、Teams 等服务。
 
 - ACL4SSR OneDrive list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list
 - ACL4SSR Microsoft list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list
+- ACL4SSR Microsoft provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml
 - ACL4SSR OneDrive provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OneDrive.yaml
 - zqzess Microsoft list: https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Microsoft.list
 

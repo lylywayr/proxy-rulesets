@@ -1,43 +1,43 @@
 # NAME: UCloud
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:53.663798+00:00
+# UPDATED: 2026-07-05T00:48:47.563644+00:00
 # DOMAIN-SUFFIX: 37
 # TOTAL: 37
 
 DOMAIN-SUFFIX,ugslb.cn
 DOMAIN-SUFFIX,urome.cn
 DOMAIN-SUFFIX,uewaf.com
-DOMAIN-SUFFIX,u-cdn.net
-DOMAIN-SUFFIX,u-cdn.com
-DOMAIN-SUFFIX,ugslb.top
-DOMAIN-SUFFIX,ibusre.cn
-DOMAIN-SUFFIX,ipssh.net
+DOMAIN-SUFFIX,ucgslb.cn
 DOMAIN-SUFFIX,ugslb.com
 DOMAIN-SUFFIX,fshark.cn
-DOMAIN-SUFFIX,ucloud.cn
-DOMAIN-SUFFIX,ucgslb.cn
-DOMAIN-SUFFIX,cdndo.com
 DOMAIN-SUFFIX,ugslb.net
-DOMAIN-SUFFIX,ucgslb.com
+DOMAIN-SUFFIX,cdndo.com
+DOMAIN-SUFFIX,u-cdn.net
+DOMAIN-SUFFIX,ibusre.cn
+DOMAIN-SUFFIX,ipssh.net
+DOMAIN-SUFFIX,ugslb.top
+DOMAIN-SUFFIX,ucloud.cn
+DOMAIN-SUFFIX,u-cdn.com
+DOMAIN-SUFFIX,ucgslb.top
 DOMAIN-SUFFIX,ugslb.info
+DOMAIN-SUFFIX,ucgslb.com
 DOMAIN-SUFFIX,ugslb2.net
 DOMAIN-SUFFIX,ucgslb.net
-DOMAIN-SUFFIX,ucgslb.top
-DOMAIN-SUFFIX,ucgslb.info
-DOMAIN-SUFFIX,unaming.net
 DOMAIN-SUFFIX,ufileos.com
+DOMAIN-SUFFIX,ucgslb.info
 DOMAIN-SUFFIX,ipbaohe.com
+DOMAIN-SUFFIX,unaming.net
+DOMAIN-SUFFIX,ucloud365.com
 DOMAIN-SUFFIX,uhasadmin.com
 DOMAIN-SUFFIX,ucloudapi.com
-DOMAIN-SUFFIX,ucloudgda.com
 DOMAIN-SUFFIX,ucloudoss.com
-DOMAIN-SUFFIX,ucloud365.com
-DOMAIN-SUFFIX,ucloudstack.cn
+DOMAIN-SUFFIX,ucloudgda.com
 DOMAIN-SUFFIX,ecloud-gdu.com
+DOMAIN-SUFFIX,ucloudstack.cn
+DOMAIN-SUFFIX,ucloudufile.com
 DOMAIN-SUFFIX,ucloudadmin.com
 DOMAIN-SUFFIX,uclouduewaf.com
-DOMAIN-SUFFIX,ucloudstack.net
 DOMAIN-SUFFIX,ucloudstack.com
-DOMAIN-SUFFIX,ucloudufile.com
+DOMAIN-SUFFIX,ucloudstack.net
 DOMAIN-SUFFIX,urtc.com.cn
 DOMAIN-SUFFIX,ucloud.com.cn

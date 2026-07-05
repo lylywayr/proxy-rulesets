@@ -1,6 +1,6 @@
 # NAME: Jfrog
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:46.428418+00:00
+# UPDATED: 2026-07-05T00:48:35.028521+00:00
 payload:
   - DOMAIN-SUFFIX,jfrog.com
   - DOMAIN-SUFFIX,jfrog.org

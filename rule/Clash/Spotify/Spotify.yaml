@@ -1,6 +1,6 @@
 # NAME: Spotify
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:50.708507+00:00
+# UPDATED: 2026-07-05T00:48:44.555793+00:00
 payload:
   - DOMAIN,audio4-ak-spotify-com.akamaized.net
   - DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -14,10 +14,10 @@ payload:
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,tospotify.com
+  - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,spotify.design
   - DOMAIN-SUFFIX,spotilocal.com
   - DOMAIN-SUFFIX,spotifycdn.net
-  - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,spotifycodes.com
   - DOMAIN-SUFFIX,spotifycharts.com

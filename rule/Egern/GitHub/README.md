@@ -21,6 +21,7 @@ GitHub 网站、API 与静态资源。
 
 - ACL4SSR Github list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list
 - ACL4SSR Github provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml
+- LM-Firefly Github list: https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list
 - LM-Firefly Github classical: https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml
 
 ## English

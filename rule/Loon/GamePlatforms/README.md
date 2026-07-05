@@ -1,4 +1,4 @@
-﻿# GamePlatforms
+# GamePlatforms
 
 ## 中文
 
@@ -31,4 +31,3 @@ Game platforms and general gaming service rules.
 - File: `rule/Loon/GamePlatforms/GamePlatforms.list`
 - Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GamePlatforms/GamePlatforms.list`
 - Omitted unsupported types: `无`
-

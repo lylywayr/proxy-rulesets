@@ -1,14 +1,14 @@
 # NAME: HoYoverse
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:46.300642+00:00
+# UPDATED: 2026-07-05T00:48:33.284225+00:00
 no_resolve: true
 domain_suffix_set:
   - "hoyo.link"
   - "hoyolab.com"
   - "yuanshen.com"
-  - "starrails.com"
-  - "juequling.com"
   - "hoyoverse.com"
+  - "juequling.com"
+  - "starrails.com"
   - "themisweeps.com"
   - "n0vadesktop.com"
   - "honkaiimpact3.com"

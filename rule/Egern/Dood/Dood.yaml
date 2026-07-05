@@ -1,6 +1,6 @@
 # NAME: Dood
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:43.101137+00:00
+# UPDATED: 2026-07-05T00:48:28.419964+00:00
 no_resolve: true
 domain_suffix_set:
   - "dood.so"

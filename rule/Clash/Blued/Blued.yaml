@@ -1,34 +1,34 @@
 # NAME: Blued
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T23:53:24.173365+00:00
+# UPDATED: 2026-07-05T00:14:23.597960+00:00
 payload:
-  - DOMAIN-SUFFIX,bf99.com
   - DOMAIN-SUFFIX,blued.cn
-  - DOMAIN-SUFFIX,irisdt.cn
+  - DOMAIN-SUFFIX,bf99.com
   - DOMAIN-SUFFIX,blued.com
   - DOMAIN-SUFFIX,budimg.cn
   - DOMAIN-SUFFIX,irisgw.cn
+  - DOMAIN-SUFFIX,irisdt.cn
+  - DOMAIN-SUFFIX,irisgw.com
+  - DOMAIN-SUFFIX,irisgw.net
   - DOMAIN-SUFFIX,danlan.org
   - DOMAIN-SUFFIX,irisdt.com
-  - DOMAIN-SUFFIX,irisdt.net
   - DOMAIN-SUFFIX,bldimg.com
-  - DOMAIN-SUFFIX,irisgw.net
-  - DOMAIN-SUFFIX,irisgw.com
+  - DOMAIN-SUFFIX,irisdt.net
   - DOMAIN-SUFFIX,bldlive.com
-  - DOMAIN-SUFFIX,fleeper.com
   - DOMAIN-SUFFIX,bluedimg.cn
+  - DOMAIN-SUFFIX,fleeper.com
   - DOMAIN-SUFFIX,bluedimg.com
-  - DOMAIN-SUFFIX,yijian-app.cn
   - DOMAIN-SUFFIX,caihongqi.com
   - DOMAIN-SUFFIX,bluedgames.cn
   - DOMAIN-SUFFIX,danlanlove.cn
   - DOMAIN-SUFFIX,danlancare.cn
   - DOMAIN-SUFFIX,blue-city.com
-  - DOMAIN-SUFFIX,xiaolanapp.com
-  - DOMAIN-SUFFIX,ourbluecity.cn
+  - DOMAIN-SUFFIX,yijian-app.cn
   - DOMAIN-SUFFIX,danlancare.com
-  - DOMAIN-SUFFIX,danlanlove.com
+  - DOMAIN-SUFFIX,xiaolanapp.com
   - DOMAIN-SUFFIX,bluedgames.com
+  - DOMAIN-SUFFIX,danlanlove.com
+  - DOMAIN-SUFFIX,ourbluecity.cn
   - DOMAIN-SUFFIX,yijian-app.com
   - DOMAIN-SUFFIX,xiaogegelive.cn
   - DOMAIN-SUFFIX,ourbluecity.com

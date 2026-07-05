@@ -1,16 +1,16 @@
 # NAME: Ku6
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:46.487925+00:00
+# UPDATED: 2026-07-05T00:48:36.015583+00:00
 no_resolve: true
 domain_suffix_set:
   - "ku6.cn"
-  - "ku6.com"
   - "ku6.net"
+  - "ku6.com"
+  - "ku6vms.com"
   - "ku6img.com"
   - "juchang.cn"
-  - "ku6cdn.com"
-  - "ku6vms.com"
   - "feedsp.com"
+  - "ku6cdn.com"
   - "weiguan.com"
   - "ku6.com.cn"
   - "juchang.com.cn"

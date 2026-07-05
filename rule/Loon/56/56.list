@@ -1,14 +1,14 @@
 # NAME: 56
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T23:53:22.697148+00:00
+# UPDATED: 2026-07-05T00:14:17.882968+00:00
 # DOMAIN-SUFFIX: 10
 # TOTAL: 10
 
 DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,v-56.com
 DOMAIN-SUFFIX,56img.com
-DOMAIN-SUFFIX,56imgs.com
 DOMAIN-SUFFIX,somama.com
+DOMAIN-SUFFIX,56imgs.com
 DOMAIN-SUFFIX,qianfan.tv
 DOMAIN-SUFFIX,vicovico.com
 DOMAIN-SUFFIX,icaneasy.com

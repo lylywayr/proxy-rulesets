@@ -1,22 +1,22 @@
 # NAME: DingXiangYuan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:02:34.034045+00:00
+# UPDATED: 2026-07-05T00:31:26.350599+00:00
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
 
-DOMAIN-SUFFIX,dxy.me
 DOMAIN-SUFFIX,dxy.cn
-DOMAIN-SUFFIX,0dxy.cn
+DOMAIN-SUFFIX,dxy.me
 DOMAIN-SUFFIX,dxy.net
-DOMAIN-SUFFIX,dxy.com
 DOMAIN-SUFFIX,crou.cn
-DOMAIN-SUFFIX,dxyer.cn
+DOMAIN-SUFFIX,0dxy.cn
+DOMAIN-SUFFIX,dxy.com
 DOMAIN-SUFFIX,jobmd.cn
+DOMAIN-SUFFIX,dxyer.cn
+DOMAIN-SUFFIX,pubmed.cn
 DOMAIN-SUFFIX,dxyer.com
 DOMAIN-SUFFIX,mdnews.cn
-DOMAIN-SUFFIX,pubmed.cn
-DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,biomart.cn
+DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,guanlannet.com
 DOMAIN-SUFFIX,centerwatch.cn
 DOMAIN-SUFFIX,linkmed.com.cn

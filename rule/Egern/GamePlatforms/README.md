@@ -1,4 +1,4 @@
-﻿# GamePlatforms
+# GamePlatforms
 
 ## 中文
 
@@ -31,4 +31,3 @@ Game platforms and general gaming service rules.
 - File: `rule/Egern/GamePlatforms/GamePlatforms.yaml`
 - Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GamePlatforms/GamePlatforms.yaml`
 - Omitted unsupported types: `无`
-

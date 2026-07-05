@@ -1,14 +1,14 @@
 # NAME: Logitech
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:46.574291+00:00
+# UPDATED: 2026-07-05T00:48:37.224024+00:00
 no_resolve: true
 domain_suffix_set:
   - "logi.com"
   - "logitech.fr"
+  - "logitech.com"
   - "logitechg.fr"
   - "logitech.biz"
-  - "logitech.com"
-  - "logitechg.com"
   - "logicoolg.com"
+  - "logitechg.com"
   - "worldsfastestgamer.net"
   - "logicool.co.jp"

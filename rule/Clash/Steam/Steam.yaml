@@ -1,23 +1,23 @@
 # NAME: Steam
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:50.720341+00:00
+# UPDATED: 2026-07-05T00:48:44.750783+00:00
 payload:
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,steam.tv
   - DOMAIN-SUFFIX,steamstat.us
+  - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,steamdeck.com
   - DOMAIN-SUFFIX,steam-api.com
   - DOMAIN-SUFFIX,wmsjsteam.com
-  - DOMAIN-SUFFIX,steamdeck.com
-  - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,steam-chat.com
-  - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,playartifact.com
-  - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamunlocked.net
+  - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,valvesoftware.com
+  - DOMAIN-SUFFIX,steamunlocked.net
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,csgo.wmsj.cn
   - DOMAIN-SUFFIX,dota2.wmsj.cn
@@ -25,8 +25,8 @@ payload:
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcontent.tnkjmec.com
   - DOMAIN-SUFFIX,steammobile.akamaized.net
-  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   - DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   - DOMAIN-SUFFIX,steampipe-kr.akamaized.net
   - DOMAIN-SUFFIX,steambroadcast.akamaized.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
@@ -35,12 +35,12 @@ payload:
   - DOMAIN-SUFFIX,steampipe-partner.akamaized.net
   - DOMAIN-SUFFIX,st.dl.eccdnx.com
   - DOMAIN-SUFFIX,steam.cdn.on.net
-  - DOMAIN-SUFFIX,dl.steam.ksyna.com
   - DOMAIN-SUFFIX,steam.cdn.webra.ru
+  - DOMAIN-SUFFIX,dl.steam.ksyna.com
   - DOMAIN-SUFFIX,steam.ru.qtlglb.com
   - DOMAIN-SUFFIX,dl.steam.clngaa.com
-  - DOMAIN-SUFFIX,st.dl.bscstorage.net
   - DOMAIN-SUFFIX,steam.eca.qtlglb.com
+  - DOMAIN-SUFFIX,st.dl.bscstorage.net
   - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
   - DOMAIN-SUFFIX,steam.naeu.qtlglb.com
   - DOMAIN-SUFFIX,steam.apac.qtlglb.com

@@ -1,6 +1,6 @@
 # NAME: Actalis
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T23:53:22.750547+00:00
+# UPDATED: 2026-07-05T00:14:18.739775+00:00
 no_resolve: true
 domain_suffix_set:
   - "actalis.it"

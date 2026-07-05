@@ -1,6 +1,6 @@
 # NAME: PandoraTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:50.430100+00:00
+# UPDATED: 2026-07-05T00:48:40.975282+00:00
 no_resolve: true
 domain_suffix_set:
   - "pandora.tv"

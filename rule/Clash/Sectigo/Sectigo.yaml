@@ -1,11 +1,11 @@
 # NAME: Sectigo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:50.607570+00:00
+# UPDATED: 2026-07-05T00:48:43.274841+00:00
 payload:
   - DOMAIN-SUFFIX,sectigo.com
   - DOMAIN-SUFFIX,usertrust.com
-  - DOMAIN-SUFFIX,instantssl.com
   - DOMAIN-SUFFIX,optimumssl.com
+  - DOMAIN-SUFFIX,instantssl.com
   - DOMAIN-SUFFIX,positivessl.com
   - DOMAIN-SUFFIX,enterprisessl.com
   - DOMAIN-SUFFIX,hackerguardian.com

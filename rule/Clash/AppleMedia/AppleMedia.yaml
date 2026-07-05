@@ -1,37 +1,37 @@
 # NAME: AppleMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T23:53:24.027324+00:00
+# UPDATED: 2026-07-05T00:14:21.963507+00:00
 payload:
   - DOMAIN-SUFFIX,ibook.eu
   - DOMAIN-SUFFIX,imovie.eu
-  - DOMAIN-SUFFIX,iphoto.eu
+  - DOMAIN-SUFFIX,ibook.com
   - DOMAIN-SUFFIX,ibook.net
+  - DOMAIN-SUFFIX,iphoto.eu
   - DOMAIN-SUFFIX,iphoto.no
   - DOMAIN-SUFFIX,iphoto.se
-  - DOMAIN-SUFFIX,ibook.com
-  - DOMAIN-SUFFIX,i-book.com
-  - DOMAIN-SUFFIX,appletv.fr
-  - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,i-book.net
-  - DOMAIN-SUFFIX,appletv4.cn
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-SUFFIX,appletv.fr
+  - DOMAIN-SUFFIX,i-book.com
   - DOMAIN-SUFFIX,iphoto.wang
   - DOMAIN-SUFFIX,appletv.com
+  - DOMAIN-SUFFIX,appletv4.cn
   - DOMAIN-SUFFIX,musickit.net
-  - DOMAIN-SUFFIX,appletv.wang
   - DOMAIN-SUFFIX,applenews.tv
+  - DOMAIN-SUFFIX,appletv.wang
   - DOMAIN-SUFFIX,applemusic.co
   - DOMAIN-SUFFIX,appleenews.com
   - DOMAIN-SUFFIX,applemusic.com
   - DOMAIN-SUFFIX,imoviestage.com
   - DOMAIN-SUFFIX,applemusic.wang
+  - DOMAIN-SUFFIX,ibooksauthor.com
   - DOMAIN-SUFFIX,ibookpartner.com
   - DOMAIN-SUFFIX,applenews.berlin
   - DOMAIN-SUFFIX,appletvapp.apple
-  - DOMAIN-SUFFIX,ibooksauthor.com
   - DOMAIN-SUFFIX,imoviegallery.com
-  - DOMAIN-SUFFIX,wwwapplemusic.com
-  - DOMAIN-SUFFIX,applemusic.berlin
   - DOMAIN-SUFFIX,applenews.hamburg
+  - DOMAIN-SUFFIX,applemusic.berlin
+  - DOMAIN-SUFFIX,wwwapplemusic.com
   - DOMAIN-SUFFIX,applemusic.hamburg
   - DOMAIN-SUFFIX,applenewsformat.com
   - DOMAIN-SUFFIX,applemusicconnect.com
@@ -42,8 +42,8 @@ payload:
   - DOMAIN-SUFFIX,applemusic.com.au
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,news-edge.apple.com
-  - DOMAIN-SUFFIX,news-events.apple.com
   - DOMAIN-SUFFIX,news-client.apple.com
+  - DOMAIN-SUFFIX,news-events.apple.com
   - DOMAIN-SUFFIX,news-assets.apple.com
   - DOMAIN-SUFFIX,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,aod.itunes.apple.com
@@ -51,6 +51,6 @@ payload:
   - DOMAIN-SUFFIX,mvod.itunes.apple.com
   - DOMAIN-SUFFIX,audio.itunes.apple.com
   - DOMAIN-SUFFIX,hls-amt.itunes.apple.com
-  - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
   - DOMAIN-SUFFIX,play-edge.itunes.apple.com
+  - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
   - DOMAIN-SUFFIX,streamingaudio.itunes.apple.com

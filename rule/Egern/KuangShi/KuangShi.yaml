@@ -1,27 +1,27 @@
 # NAME: KuangShi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:46.518291+00:00
+# UPDATED: 2026-07-05T00:48:36.211492+00:00
 no_resolve: true
 domain_suffix_set:
   - "xlsdn.cn"
   - "xlsdn.com"
-  - "megvii.com"
-  - "megcup.com"
   - "faceid.com"
   - "brainpp.cn"
+  - "megvii.com"
+  - "megcup.com"
   - "datafun.vip"
   - "xcyuntech.cn"
-  - "kaolacam.net"
   - "koalacam.net"
+  - "kaolacam.net"
   - "xiaodaijl.com"
-  - "yuesuoping.com"
   - "megvii-inc.com"
-  - "faceplusplus.com"
+  - "yuesuoping.com"
   - "imageplusplus.cn"
+  - "faceplusplus.com"
   - "kuangshitech.com"
   - "visionhacker.com"
-  - "imageplusplus.net"
   - "imageplusplus.com"
+  - "imageplusplus.net"
   - "face-plus-plus.com"
   - "faceplusplus.com.cn"
   - "imageplusplus.com.cn"

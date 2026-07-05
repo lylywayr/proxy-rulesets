@@ -1,4 +1,4 @@
-﻿# GamePlatforms
+# GamePlatforms
 
 ## 中文
 
@@ -21,7 +21,7 @@
 
 ### 数据来源
 
-- blackmatrix7 Game: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GamePlatforms/GamePlatforms.list
+- blackmatrix7 Game: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list
 
 ## English
 
@@ -31,4 +31,3 @@ Game platforms and general gaming service rules.
 - File: `rule/Surge/GamePlatforms/GamePlatforms.list`
 - Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GamePlatforms/GamePlatforms.list`
 - Omitted unsupported types: `无`
-

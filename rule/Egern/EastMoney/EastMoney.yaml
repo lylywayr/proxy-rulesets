@@ -1,21 +1,21 @@
 # NAME: EastMoney
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:43.168423+00:00
+# UPDATED: 2026-07-05T00:48:29.052696+00:00
 no_resolve: true
 domain_suffix_set:
   - "18.cn"
-  - "emsec.hk"
   - "dfcfs.cn"
   - "caimi.cn"
-  - "dfcfw.com"
-  - "xzsec.com"
-  - "dfcfs.com"
-  - "uufund.cn"
-  - "95021.com"
+  - "emsec.hk"
   - "langke.tv"
-  - "txjhqh.com"
-  - "uufund.com"
+  - "dfcfw.com"
+  - "uufund.cn"
+  - "dfcfs.com"
+  - "xzsec.com"
+  - "95021.com"
   - "zhaiba.com"
+  - "uufund.com"
+  - "txjhqh.com"
   - "huoqibao.cn"
   - "huoqibao.com"
   - "dingqibao.cn"
@@ -33,6 +33,6 @@ domain_suffix_set:
   - "samacn.org.cn"
   - "1234567.com.cn"
   - "huoqibao.com.cn"
-  - "dingqibao.com.cn"
   - "caifutong.com.cn"
+  - "dingqibao.com.cn"
   - "zhongcaisuo.com.cn"

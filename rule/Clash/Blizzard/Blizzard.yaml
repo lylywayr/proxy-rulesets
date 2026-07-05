@@ -1,10 +1,10 @@
 # NAME: Blizzard
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T23:53:24.161414+00:00
+# UPDATED: 2026-07-05T00:14:23.457071+00:00
 payload:
   - DOMAIN-SUFFIX,battle.net
-  - DOMAIN-SUFFIX,blizzard.cn
   - DOMAIN-SUFFIX,diablo3.com
+  - DOMAIN-SUFFIX,blizzard.cn
   - DOMAIN-SUFFIX,blzstatic.cn
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,wowchina.com
@@ -12,8 +12,8 @@ payload:
   - DOMAIN-SUFFIX,starcraft.com
   - DOMAIN-SUFFIX,starcraft2.com
   - DOMAIN-SUFFIX,blizzardgames.cn
-  - DOMAIN-SUFFIX,playwarcraft3.com
   - DOMAIN-SUFFIX,playoverwatch.com
+  - DOMAIN-SUFFIX,playwarcraft3.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,worldofwarcraft.com
   - DOMAIN-SUFFIX,playhearthstone.com
@@ -24,16 +24,16 @@ payload:
   - DOMAIN-SUFFIX,bnet.163.com
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blznav.akamaized.net
-  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
   - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetshopus.akamaized.net
-  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
   - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+  - DOMAIN-SUFFIX,bnetshopus.akamaized.net
   - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
   - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
-  - DOMAIN-SUFFIX,blz.nosdn.127.net
-  - DOMAIN-SUFFIX,sc2.nosdn.127.net
   - DOMAIN-SUFFIX,wow.nosdn.127.net
+  - DOMAIN-SUFFIX,sc2.nosdn.127.net
+  - DOMAIN-SUFFIX,blz.nosdn.127.net
   - DOMAIN-SUFFIX,di.res.netease.com
   - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,diablo3.nosdn.127.net

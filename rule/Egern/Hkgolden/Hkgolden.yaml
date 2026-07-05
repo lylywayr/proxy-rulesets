@@ -1,6 +1,6 @@
 # NAME: Hkgolden
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:46.294124+00:00
+# UPDATED: 2026-07-05T00:48:33.185160+00:00
 no_resolve: true
 domain_suffix_set:
   - "hkgolden.com"

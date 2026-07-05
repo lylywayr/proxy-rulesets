@@ -1,6 +1,6 @@
 # NAME: Hupu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:46.328386+00:00
+# UPDATED: 2026-07-05T00:48:33.807013+00:00
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 
@@ -10,8 +10,8 @@ DOMAIN-SUFFIX,hupu.com
 DOMAIN-SUFFIX,shihuo.cn
 DOMAIN-SUFFIX,goalhi.cn
 DOMAIN-SUFFIX,hellof1.com
-DOMAIN-SUFFIX,hupujrs.com
 DOMAIN-SUFFIX,hupucdn.com
+DOMAIN-SUFFIX,hupujrs.com
 DOMAIN-SUFFIX,vwanjia.com
 DOMAIN-SUFFIX,hoopchina.com
 DOMAIN-SUFFIX,afpchinesesports.com

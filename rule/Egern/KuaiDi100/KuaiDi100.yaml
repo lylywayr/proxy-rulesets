@@ -1,11 +1,11 @@
 # NAME: KuaiDi100
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:46.489925+00:00
+# UPDATED: 2026-07-05T00:48:36.073657+00:00
 no_resolve: true
 domain_suffix_set:
   - "ckd.im"
   - "kd100.com"
-  - "baidiapp.com"
   - "baidinet.com"
-  - "kuaidilab.com"
+  - "baidiapp.com"
   - "kuaidi100.com"
+  - "kuaidilab.com"

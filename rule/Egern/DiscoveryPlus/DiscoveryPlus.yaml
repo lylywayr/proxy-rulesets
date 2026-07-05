@@ -1,6 +1,6 @@
 # NAME: DiscoveryPlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:11:43.072101+00:00
+# UPDATED: 2026-07-05T00:48:28.017602+00:00
 no_resolve: true
 domain_set:
   - "discovery-us.conax.cloud"
@@ -11,10 +11,10 @@ domain_suffix_set:
   - "dnitv.com"
   - "fwmrm.net"
   - "uplynk.com"
-  - "disco-api.com"
   - "discovery.com"
-  - "getblueshift.com"
+  - "disco-api.com"
   - "discoveryplus.in"
+  - "getblueshift.com"
   - "discoveryplus.com"
   - "discoveryplus.co.uk"
   - "mobile-collector.newrelic.com"

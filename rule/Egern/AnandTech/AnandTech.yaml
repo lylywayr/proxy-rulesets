@@ -1,6 +1,6 @@
 # NAME: AnandTech
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-04T23:53:22.921332+00:00
+# UPDATED: 2026-07-05T00:14:20.749498+00:00
 no_resolve: true
 domain_suffix_set:
   - "anandtech.com"
