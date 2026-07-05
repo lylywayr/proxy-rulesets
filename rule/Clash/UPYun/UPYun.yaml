@@ -1,20 +1,20 @@
 # NAME: UPYun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:44.585723+00:00
+# UPDATED: 2026-07-05T02:46:23.707860+00:00
 payload:
   - DOMAIN-SUFFIX,upai.com
-  - DOMAIN-SUFFIX,yupoo.com
-  - DOMAIN-SUFFIX,oncdp.com
   - DOMAIN-SUFFIX,aicdn.com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,upcdn.net
-  - DOMAIN-SUFFIX,aicdn3.com
+  - DOMAIN-SUFFIX,yupoo.com
+  - DOMAIN-SUFFIX,oncdp.com
   - DOMAIN-SUFFIX,sktcdn.com
-  - DOMAIN-SUFFIX,aicdn5.com
-  - DOMAIN-SUFFIX,aicdn4.com
+  - DOMAIN-SUFFIX,aicdn3.com
   - DOMAIN-SUFFIX,aicdn2.com
-  - DOMAIN-SUFFIX,authbus.com
+  - DOMAIN-SUFFIX,aicdn4.com
+  - DOMAIN-SUFFIX,aicdn5.com
   - DOMAIN-SUFFIX,upaiyun.com
+  - DOMAIN-SUFFIX,authbus.com
   - DOMAIN-SUFFIX,shangzhibo.tv
   - DOMAIN-SUFFIX,zhidian-inc.cn
   - DOMAIN-SUFFIX,shangketang.com

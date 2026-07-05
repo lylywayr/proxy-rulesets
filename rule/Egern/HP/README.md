@@ -1,30 +1,54 @@
-# HP
+# 惠普
 
 ## 中文
 
-HP 规则集。
+聚合 惠普 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`HP`
+- 当前客户端：`Egern`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `4`
+- 总数：`4`
 - `DOMAIN-SUFFIX`: 4
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/HP/HP.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HP/HP.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/HP/HP.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HP/HP.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FHP%2FHP.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E6%83%A0%E6%99%AE&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FHP%2FHP.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/HP/HP.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HP/HP.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/HP/HP.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HP/HP.yaml>
 
 ### 数据来源
 
-- blackmatrix7 HP: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HP/HP.list
+- [blackmatrix7 HP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HP/HP.list)
 
-## English
+<details>
+<summary>English</summary>
 
-HP rule set.
+Aggregated rules for HP, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `HP`
 - Client: `Egern`
-- File: `rule/Egern/HP/HP.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HP/HP.yaml`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HP/HP.yaml>
+
+</details>

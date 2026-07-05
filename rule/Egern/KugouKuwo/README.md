@@ -1,31 +1,55 @@
-# KugouKuwo
+# 酷狗酷我
 
 ## 中文
 
-KugouKuwo 规则集。
+聚合 酷狗酷我 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`KugouKuwo`
+- 当前客户端：`Egern`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `109`
+- 总数：`109`
 - `DOMAIN-SUFFIX`: 19
 - `IP-CIDR`: 90
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/KugouKuwo/KugouKuwo.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/KugouKuwo/KugouKuwo.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/KugouKuwo/KugouKuwo.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/KugouKuwo/KugouKuwo.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FKugouKuwo%2FKugouKuwo.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E9%85%B7%E7%8B%97%E9%85%B7%E6%88%91&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FKugouKuwo%2FKugouKuwo.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/KugouKuwo/KugouKuwo.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/KugouKuwo/KugouKuwo.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/KugouKuwo/KugouKuwo.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/KugouKuwo/KugouKuwo.yaml>
 
 ### 数据来源
 
-- blackmatrix7 KugouKuwo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KugouKuwo/KugouKuwo.list
+- [blackmatrix7 KugouKuwo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KugouKuwo/KugouKuwo.list)
 
-## English
+<details>
+<summary>English</summary>
 
-KugouKuwo rule set.
+Aggregated rules for KugouKuwo, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `KugouKuwo`
 - Client: `Egern`
-- File: `rule/Egern/KugouKuwo/KugouKuwo.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/KugouKuwo/KugouKuwo.yaml`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/KugouKuwo/KugouKuwo.yaml>
+
+</details>

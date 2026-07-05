@@ -1,7 +1,7 @@
 # NAME: XueErSi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:46.558730+00:00
+# UPDATED: 2026-07-05T02:46:23.909732+00:00
 payload:
   - DOMAIN-SUFFIX,xesimg.com
-  - DOMAIN-SUFFIX,xueersi.com
   - DOMAIN-SUFFIX,speiyou.com
+  - DOMAIN-SUFFIX,xueersi.com

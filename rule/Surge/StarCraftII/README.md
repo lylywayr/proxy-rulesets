@@ -2,29 +2,52 @@
 
 ## 中文
 
-StarCraftII 规则集。
+聚合 StarCraftII 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`StarCraftII`
+- 当前客户端：`Surge`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `8`
+- 总数：`8`
 - `IP-CIDR`: 8
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/StarCraftII/StarCraftII.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/StarCraftII/StarCraftII.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本 RULE-SET 列表`
+- 文件：`rule/Surge/StarCraftII/StarCraftII.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/StarCraftII/StarCraftII.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- 当前客户端暂不支持针对本规则产物的一键导入。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/StarCraftII/StarCraftII.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/StarCraftII/StarCraftII.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/StarCraftII/StarCraftII.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/StarCraftII/StarCraftII.yaml>
 
 ### 数据来源
 
-- blackmatrix7 StarCraftII: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/StarCraftII/StarCraftII.list
+- [blackmatrix7 StarCraftII](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/StarCraftII/StarCraftII.list)
 
-## English
+<details>
+<summary>English</summary>
 
-StarCraftII rule set.
+Aggregated rules for StarCraftII, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `StarCraftII`
 - Client: `Surge`
-- File: `rule/Surge/StarCraftII/StarCraftII.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/StarCraftII/StarCraftII.list`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `Plain external RULE-SET list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/StarCraftII/StarCraftII.list>
+
+</details>

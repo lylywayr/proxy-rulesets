@@ -1,14 +1,23 @@
-# ChinaMedia
+# 中国媒体
 
 ## 中文
 
-ChinaMedia 规则集。
+聚合 中国媒体 相关服务、域名、关键词与网络目标，面向 中国大陆服务 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`ChinaMedia`
+- 当前客户端：`Egern`
+- 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 专题入口：
+- [流媒体专题](../../../guide/topics/streaming-media.md)
+- [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
 ### 规则统计
 
-- 总数: `440`
-- `DOMAIN-SUFFIX`: 252
+- 总数：`440`
 - `DOMAIN`: 67
+- `DOMAIN-SUFFIX`: 252
 - `DOMAIN-KEYWORD`: 2
 - `USER-AGENT`: 35
 - `PROCESS-NAME`: 6
@@ -17,20 +26,36 @@ ChinaMedia 规则集。
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/ChinaMedia/ChinaMedia.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaMedia/ChinaMedia.yaml`
-- 已省略的不兼容类型: PROCESS-NAME=6
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/ChinaMedia/ChinaMedia.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaMedia/ChinaMedia.yaml>
+- 已省略的不兼容类型：`PROCESS-NAME`=6
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FChinaMedia%2FChinaMedia.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FChinaMedia%2FChinaMedia.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ChinaMedia/ChinaMedia.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ChinaMedia/ChinaMedia.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ChinaMedia/ChinaMedia.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaMedia/ChinaMedia.yaml>
 
 ### 数据来源
 
-- blackmatrix7 ChinaMedia: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list
+- [blackmatrix7 ChinaMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list)
 
-## English
+<details>
+<summary>English</summary>
 
-ChinaMedia rule set.
+Aggregated rules for ChinaMedia, covering related domains, keywords, and network targets for mainland routing workflows.
 
+- Category ID: `ChinaMedia`
 - Client: `Egern`
-- File: `rule/Egern/ChinaMedia/ChinaMedia.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaMedia/ChinaMedia.yaml`
-- Omitted unsupported types: `PROCESS-NAME=6`
+- Group: `Mainland`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaMedia/ChinaMedia.yaml>
+
+</details>

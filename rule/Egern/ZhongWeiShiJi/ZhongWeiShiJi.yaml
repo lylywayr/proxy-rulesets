@@ -1,22 +1,22 @@
 # NAME: ZhongWeiShiJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:47.755465+00:00
+# UPDATED: 2026-07-05T02:46:25.042939+00:00
 no_resolve: true
 domain_suffix_set:
   - "afdvr.cc"
   - "nvsip.com"
-  - "sunywo.com"
   - "soovvi.com"
-  - "jovmall.com"
+  - "sunywo.com"
   - "jovetech.cn"
   - "jovision.cn"
-  - "cloudsee.net"
-  - "cloudsee.com"
-  - "jovision.com"
+  - "jovmall.com"
   - "jovetech.com"
+  - "jovision.com"
+  - "cloudsee.com"
+  - "cloudsee.net"
   - "jovcloud.com"
   - "xunvision.com"
   - "jovisionai.com"
   - "cloudseetech.com"
-  - "aiwei365.com.cn"
   - "aiwei365.net.cn"
+  - "aiwei365.com.cn"

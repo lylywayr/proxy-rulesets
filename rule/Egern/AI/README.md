@@ -4,36 +4,60 @@
 
 聚合 AI 服务规则，合并 OpenAI、Claude、Gemini、Copilot、Anthropic 与 BardAI。
 
+### 分类信息
+
+- 分类标识：`AI`
+- 当前客户端：`Egern`
+- 所属分组：[AI 服务](../../../guide/groups/ai.md)
+- 专题入口：
+- [AI 专题](../../../guide/topics/ai-services.md)
+
 ### 规则统计
 
-- 总数: `72`
-- `DOMAIN-SUFFIX`: 37
+- 总数：`72`
 - `DOMAIN`: 26
+- `DOMAIN-SUFFIX`: 37
 - `DOMAIN-KEYWORD`: 5
 - `IP-ASN`: 2
 - `IP-CIDR`: 2
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/AI/AI.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AI/AI.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/AI/AI.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AI/AI.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAI%2FAI.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=AI&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAI%2FAI.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AI/AI.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AI/AI.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AI/AI.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AI/AI.yaml>
 
 ### 数据来源
 
-- blackmatrix7 OpenAI: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list
-- blackmatrix7 Claude: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list
-- blackmatrix7 Gemini: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list
-- blackmatrix7 Copilot: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list
-- blackmatrix7 Anthropic: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list
-- blackmatrix7 BardAI: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list
+- [blackmatrix7 OpenAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list)
+- [blackmatrix7 Claude](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list)
+- [blackmatrix7 Gemini](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list)
+- [blackmatrix7 Copilot](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list)
+- [blackmatrix7 Anthropic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list)
+- [blackmatrix7 BardAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list)
 
-## English
+<details>
+<summary>English</summary>
 
 Aggregated AI service rules combining OpenAI, Claude, Gemini, Copilot, Anthropic, and BardAI.
 
+- Category ID: `AI`
 - Client: `Egern`
-- File: `rule/Egern/AI/AI.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AI/AI.yaml`
-- Omitted unsupported types: `无`
+- Group: `Ai`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AI/AI.yaml>
+
+</details>

@@ -2,29 +2,52 @@
 
 ## 中文
 
-Wteam 规则集。
+聚合 Wteam 相关服务、域名、关键词与网络目标，面向 游戏平台 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`Wteam`
+- 当前客户端：`Clash`
+- 所属分组：[游戏平台](../../../guide/groups/gaming.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `1`
+- 总数：`1`
 - `DOMAIN-SUFFIX`: 1
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/Wteam/Wteam.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Wteam/Wteam.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML payload 规则集`
+- 文件：`rule/Clash/Wteam/Wteam.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Wteam/Wteam.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- 当前客户端暂不支持针对本规则产物的一键导入。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Wteam/Wteam.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Wteam/Wteam.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Wteam/Wteam.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Wteam/Wteam.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Wteam: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wteam/Wteam.list
+- [blackmatrix7 Wteam](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wteam/Wteam.list)
 
-## English
+<details>
+<summary>English</summary>
 
-Wteam rule set.
+Aggregated rules for Wteam, covering related domains, keywords, and network targets for gaming routing workflows.
 
+- Category ID: `Wteam`
 - Client: `Clash`
-- File: `rule/Clash/Wteam/Wteam.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Wteam/Wteam.yaml`
-- Omitted unsupported types: `无`
+- Group: `Gaming`
+- Format: `YAML payload ruleset`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Wteam/Wteam.yaml>
+
+</details>

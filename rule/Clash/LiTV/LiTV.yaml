@@ -1,6 +1,6 @@
 # NAME: LiTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:35.163393+00:00
+# UPDATED: 2026-07-05T02:46:15.328053+00:00
 payload:
   - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
   - DOMAIN-SUFFIX,litv.tv

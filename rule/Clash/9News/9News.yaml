@@ -1,6 +1,6 @@
 # NAME: 9News
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:08:37.584773+00:00
+# UPDATED: 2026-07-05T02:27:55.311925+00:00
 payload:
   - DOMAIN-SUFFIX,9cdn.net
   - DOMAIN-SUFFIX,mi9cdn.com

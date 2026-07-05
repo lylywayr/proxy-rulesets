@@ -1,0 +1,31 @@
+# 金融电商
+
+支付、电商、银行、证券、交易平台与消费服务相关规则。
+
+| 分类 | 说明 | Surge | Loon | Clash | Egern |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 阿里巴巴 | 聚合 阿里巴巴 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/Alibaba/README.md) | [Loon](../../rule/Loon/Alibaba/README.md) | [Clash](../../rule/Clash/Alibaba/README.md) | [Egern](../../rule/Egern/Alibaba/README.md) |
+| 支付宝 | 聚合 支付宝 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/AliPay/README.md) | [Loon](../../rule/Loon/AliPay/README.md) | [Clash](../../rule/Clash/AliPay/README.md) | [Egern](../../rule/Egern/AliPay/README.md) |
+| 亚马逊 | 聚合 亚马逊 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/Amazon/README.md) | [Loon](../../rule/Loon/Amazon/README.md) | [Clash](../../rule/Clash/Amazon/README.md) | [Egern](../../rule/Egern/Amazon/README.md) |
+| 亚马逊中国 | 聚合 亚马逊中国 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/AmazonCN/README.md) | [Loon](../../rule/Loon/AmazonCN/README.md) | [Clash](../../rule/Clash/AmazonCN/README.md) | [Egern](../../rule/Egern/AmazonCN/README.md) |
+| AmazonIP | 聚合 AmazonIP 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/AmazonIP/README.md) | [Loon](../../rule/Loon/AmazonIP/README.md) | [Clash](../../rule/Clash/AmazonIP/README.md) | [Egern](../../rule/Egern/AmazonIP/README.md) |
+| AmazonTrust | 聚合 AmazonTrust 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/AmazonTrust/README.md) | [Loon](../../rule/Loon/AmazonTrust/README.md) | [Clash](../../rule/Clash/AmazonTrust/README.md) | [Egern](../../rule/Egern/AmazonTrust/README.md) |
+| 币安 | 聚合 币安 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/Binance/README.md) | [Loon](../../rule/Loon/Binance/README.md) | [Clash](../../rule/Clash/Binance/README.md) | [Egern](../../rule/Egern/Binance/README.md) |
+| 中国银行 | 聚合 中国银行 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/BOC/README.md) | [Loon](../../rule/Loon/BOC/README.md) | [Clash](../../rule/Clash/BOC/README.md) | [Egern](../../rule/Egern/BOC/README.md) |
+| 交通银行 | 聚合 交通银行 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/BOCOM/README.md) | [Loon](../../rule/Loon/BOCOM/README.md) | [Clash](../../rule/Clash/BOCOM/README.md) | [Egern](../../rule/Egern/BOCOM/README.md) |
+| 建设银行 | 聚合 建设银行 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/CCB/README.md) | [Loon](../../rule/Loon/CCB/README.md) | [Clash](../../rule/Clash/CCB/README.md) | [Egern](../../rule/Egern/CCB/README.md) |
+| 光大银行 | 聚合 光大银行 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/CEB/README.md) | [Loon](../../rule/Loon/CEB/README.md) | [Clash](../../rule/Clash/CEB/README.md) | [Egern](../../rule/Egern/CEB/README.md) |
+| 广发银行 | 聚合 广发银行 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/CGB/README.md) | [Loon](../../rule/Loon/CGB/README.md) | [Clash](../../rule/Clash/CGB/README.md) | [Egern](../../rule/Egern/CGB/README.md) |
+| 招商银行 | 聚合 招商银行 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/CMB/README.md) | [Loon](../../rule/Loon/CMB/README.md) | [Clash](../../rule/Clash/CMB/README.md) | [Egern](../../rule/Egern/CMB/README.md) |
+| Crypto | 聚合 Crypto 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/Crypto/README.md) | [Loon](../../rule/Loon/Crypto/README.md) | [Clash](../../rule/Clash/Crypto/README.md) | [Egern](../../rule/Egern/Crypto/README.md) |
+| Cryptocurrency | 聚合 Cryptocurrency 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/Cryptocurrency/README.md) | [Loon](../../rule/Loon/Cryptocurrency/README.md) | [Clash](../../rule/Clash/Cryptocurrency/README.md) | [Egern](../../rule/Egern/Cryptocurrency/README.md) |
+| 工商银行 | 聚合 工商银行 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/ICBC/README.md) | [Loon](../../rule/Loon/ICBC/README.md) | [Clash](../../rule/Clash/ICBC/README.md) | [Egern](../../rule/Egern/ICBC/README.md) |
+| MOMOShop | 聚合 MOMOShop 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/MOMOShop/README.md) | [Loon](../../rule/Loon/MOMOShop/README.md) | [Clash](../../rule/Clash/MOMOShop/README.md) | [Egern](../../rule/Egern/MOMOShop/README.md) |
+| 欧易 | 聚合 欧易 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/OKX/README.md) | [Loon](../../rule/Loon/OKX/README.md) | [Clash](../../rule/Clash/OKX/README.md) | [Egern](../../rule/Egern/OKX/README.md) |
+| PayPal | 聚合 PayPal 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/PayPal/README.md) | [Loon](../../rule/Loon/PayPal/README.md) | [Clash](../../rule/Clash/PayPal/README.md) | [Egern](../../rule/Egern/PayPal/README.md) |
+| 邮储银行 | 聚合 邮储银行 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/PSBC/README.md) | [Loon](../../rule/Loon/PSBC/README.md) | [Clash](../../rule/Clash/PSBC/README.md) | [Egern](../../rule/Egern/PSBC/README.md) |
+| Shopee | 聚合 Shopee 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/Shopee/README.md) | [Loon](../../rule/Loon/Shopee/README.md) | [Clash](../../rule/Clash/Shopee/README.md) | [Egern](../../rule/Egern/Shopee/README.md) |
+| Shopify | 聚合 Shopify 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/Shopify/README.md) | [Loon](../../rule/Loon/Shopify/README.md) | [Clash](../../rule/Clash/Shopify/README.md) | [Egern](../../rule/Egern/Shopify/README.md) |
+| 银联 | 聚合 银联 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/UnionPay/README.md) | [Loon](../../rule/Loon/UnionPay/README.md) | [Clash](../../rule/Clash/UnionPay/README.md) | [Egern](../../rule/Egern/UnionPay/README.md) |
+| VipShop | 聚合 VipShop 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/VipShop/README.md) | [Loon](../../rule/Loon/VipShop/README.md) | [Clash](../../rule/Clash/VipShop/README.md) | [Egern](../../rule/Egern/VipShop/README.md) |
+| Visa | 聚合 Visa 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。 | [Surge](../../rule/Surge/VISA/README.md) | [Loon](../../rule/Loon/VISA/README.md) | [Clash](../../rule/Clash/VISA/README.md) | [Egern](../../rule/Egern/VISA/README.md) |

@@ -2,29 +2,53 @@
 
 ## 中文
 
-Zalo 规则集。
+聚合 Zalo 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`Zalo`
+- 当前客户端：`Egern`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `2`
+- 总数：`2`
 - `DOMAIN-SUFFIX`: 2
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Zalo/Zalo.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Zalo/Zalo.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/Zalo/Zalo.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Zalo/Zalo.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FZalo%2FZalo.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=Zalo&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FZalo%2FZalo.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Zalo/Zalo.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Zalo/Zalo.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Zalo/Zalo.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Zalo/Zalo.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Zalo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zalo/Zalo.list
+- [blackmatrix7 Zalo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zalo/Zalo.list)
 
-## English
+<details>
+<summary>English</summary>
 
-Zalo rule set.
+Aggregated rules for Zalo, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `Zalo`
 - Client: `Egern`
-- File: `rule/Egern/Zalo/Zalo.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Zalo/Zalo.yaml`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Zalo/Zalo.yaml>
+
+</details>

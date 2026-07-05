@@ -4,31 +4,55 @@
 
 GitHub 网站、API 与静态资源。
 
+### 分类信息
+
+- 分类标识：`GitHub`
+- 当前客户端：`Surge`
+- 所属分组：[开发者平台](../../../guide/groups/developer.md)
+- 专题入口：
+- [开发者栈专题](../../../guide/topics/developer-stack.md)
+- [云网络专题](../../../guide/topics/cloud-network.md)
+
 ### 规则统计
 
-- 总数: `31`
+- 总数：`31`
 - `DOMAIN-SUFFIX`: 30
 - `DOMAIN-KEYWORD`: 1
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/GitHub/GitHub.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GitHub/GitHub.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本 RULE-SET 列表`
+- 文件：`rule/Surge/GitHub/GitHub.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GitHub/GitHub.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- 当前客户端暂不支持针对本规则产物的一键导入。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GitHub/GitHub.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GitHub/GitHub.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GitHub/GitHub.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitHub/GitHub.yaml>
 
 ### 数据来源
 
-- ACL4SSR Github list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list
-- ACL4SSR Github provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml
-- LM-Firefly Github list: https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list
-- LM-Firefly Github classical: https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml
+- [ACL4SSR Github list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list)
+- [ACL4SSR Github provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml)
+- [LM-Firefly Github list](https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list)
+- [LM-Firefly Github classical](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml)
 
-## English
+<details>
+<summary>English</summary>
 
 GitHub web, API, and static assets.
 
+- Category ID: `GitHub`
 - Client: `Surge`
-- File: `rule/Surge/GitHub/GitHub.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GitHub/GitHub.list`
-- Omitted unsupported types: `无`
+- Group: `Developer`
+- Format: `Plain external RULE-SET list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GitHub/GitHub.list>
+
+</details>

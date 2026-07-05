@@ -4,28 +4,52 @@
 
 Anthropic 官方服务与相关域名。
 
+### 分类信息
+
+- 分类标识：`Anthropic`
+- 当前客户端：`Egern`
+- 所属分组：[AI 服务](../../../guide/groups/ai.md)
+- 专题入口：
+- [AI 专题](../../../guide/topics/ai-services.md)
+
 ### 规则统计
 
-- 总数: `3`
-- `DOMAIN-SUFFIX`: 2
+- 总数：`3`
 - `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 2
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Anthropic/Anthropic.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Anthropic/Anthropic.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/Anthropic/Anthropic.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Anthropic/Anthropic.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAnthropic%2FAnthropic.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=Anthropic&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAnthropic%2FAnthropic.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Anthropic/Anthropic.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anthropic/Anthropic.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Anthropic/Anthropic.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Anthropic/Anthropic.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Anthropic: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list
+- [blackmatrix7 Anthropic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list)
 
-## English
+<details>
+<summary>English</summary>
 
 Anthropic services and related domains.
 
+- Category ID: `Anthropic`
 - Client: `Egern`
-- File: `rule/Egern/Anthropic/Anthropic.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Anthropic/Anthropic.yaml`
-- Omitted unsupported types: `无`
+- Group: `Ai`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Anthropic/Anthropic.yaml>
+
+</details>

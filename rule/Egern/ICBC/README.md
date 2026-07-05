@@ -1,30 +1,54 @@
-# ICBC
+# 工商银行
 
 ## 中文
 
-ICBC 规则集。
+聚合 工商银行 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`ICBC`
+- 当前客户端：`Egern`
+- 所属分组：[金融电商](../../../guide/groups/finance.md)
+- 专题入口：
+- [金融电商专题](../../../guide/topics/finance-commerce.md)
 
 ### 规则统计
 
-- 总数: `58`
+- 总数：`58`
 - `DOMAIN-SUFFIX`: 58
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/ICBC/ICBC.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ICBC/ICBC.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/ICBC/ICBC.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ICBC/ICBC.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FICBC%2FICBC.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FICBC%2FICBC.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ICBC/ICBC.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ICBC/ICBC.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ICBC/ICBC.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ICBC/ICBC.yaml>
 
 ### 数据来源
 
-- blackmatrix7 ICBC: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ICBC/ICBC.list
+- [blackmatrix7 ICBC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ICBC/ICBC.list)
 
-## English
+<details>
+<summary>English</summary>
 
-ICBC rule set.
+Aggregated rules for ICBC, covering related domains, keywords, and network targets for finance routing workflows.
 
+- Category ID: `ICBC`
 - Client: `Egern`
-- File: `rule/Egern/ICBC/ICBC.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ICBC/ICBC.yaml`
-- Omitted unsupported types: `无`
+- Group: `Finance`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ICBC/ICBC.yaml>
+
+</details>

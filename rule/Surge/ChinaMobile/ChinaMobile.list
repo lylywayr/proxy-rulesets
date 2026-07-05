@@ -1,41 +1,41 @@
 # NAME: ChinaMobile
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:25:29.518816+00:00
+# UPDATED: 2026-07-05T02:37:11.048989+00:00
 # DOMAIN-SUFFIX: 35
 # IP-CIDR: 1
 # TOTAL: 36
 
-DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,139.com
-DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,andfx.cn
 DOMAIN-SUFFIX,lovev.cn
 DOMAIN-SUFFIX,cmdcl.cn
-DOMAIN-SUFFIX,migucc.cn
-DOMAIN-SUFFIX,zdsdp.com
+DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,12530.com
 DOMAIN-SUFFIX,andfx.net
 DOMAIN-SUFFIX,lovev.com
-DOMAIN-SUFFIX,migufm.com
+DOMAIN-SUFFIX,zdsdp.com
+DOMAIN-SUFFIX,migucc.cn
 DOMAIN-SUFFIX,cmicrwx.cn
-DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,migutv.com
-DOMAIN-SUFFIX,migugk.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,migufm.com
 DOMAIN-SUFFIX,migucdn.cn
-DOMAIN-SUFFIX,fxltsbl.com
-DOMAIN-SUFFIX,cmdcxls.com
-DOMAIN-SUFFIX,cmccb2b.com
+DOMAIN-SUFFIX,migugk.com
 DOMAIN-SUFFIX,mmarket.com
-DOMAIN-SUFFIX,mmarket6.com
+DOMAIN-SUFFIX,cmdcxls.com
+DOMAIN-SUFFIX,fxltsbl.com
+DOMAIN-SUFFIX,cmccb2b.com
 DOMAIN-SUFFIX,cxzx10086.cn
+DOMAIN-SUFFIX,mmarket6.com
 DOMAIN-SUFFIX,fetionpic.com
-DOMAIN-SUFFIX,monternet.com
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,monternet.com
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,chinamobile.com
-DOMAIN-SUFFIX,warmchina121.com
 DOMAIN-SUFFIX,10086kuaixiu.com
+DOMAIN-SUFFIX,warmchina121.com
 DOMAIN-SUFFIX,fetion-portal.com
 DOMAIN-SUFFIX,chinamobileltd.com
 DOMAIN-SUFFIX,chinamobiledevice.com

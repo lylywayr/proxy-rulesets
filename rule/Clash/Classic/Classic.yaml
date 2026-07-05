@@ -1,6 +1,6 @@
 # NAME: Classic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:25:30.222997+00:00
+# UPDATED: 2026-07-05T02:37:11.138738+00:00
 payload:
   - DOMAIN,asia.battle.net
   - DOMAIN,europe.battle.net

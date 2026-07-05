@@ -1,6 +1,6 @@
 # NAME: Dedao
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:25:31.507195+00:00
+# UPDATED: 2026-07-05T02:37:11.244482+00:00
 no_resolve: true
 domain_suffix_set:
   - "sao.cn"
@@ -8,6 +8,6 @@ domain_suffix_set:
   - "mogoo.com"
   - "igetget.cn"
   - "ddmogo.com"
-  - "saolife.com"
   - "igetget.com"
+  - "saolife.com"
   - "luojilab.com"

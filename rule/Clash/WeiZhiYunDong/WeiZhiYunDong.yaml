@@ -1,6 +1,6 @@
 # NAME: WeiZhiYunDong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:45.622047+00:00
+# UPDATED: 2026-07-05T02:46:23.802788+00:00
 payload:
   - DOMAIN-SUFFIX,wedcm.com
   - DOMAIN-SUFFIX,dicom365.com

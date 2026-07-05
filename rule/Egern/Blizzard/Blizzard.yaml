@@ -1,25 +1,25 @@
 # NAME: Blizzard
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:08:42.727472+00:00
+# UPDATED: 2026-07-05T02:27:57.019380+00:00
 no_resolve: true
 domain_suffix_set:
   - "battle.net"
   - "diablo3.com"
   - "blizzard.cn"
+  - "wowchina.com"
   - "blzstatic.cn"
   - "blizzard.com"
-  - "wowchina.com"
   - "battlenet.com"
   - "starcraft.com"
   - "starcraft2.com"
   - "blizzardgames.cn"
-  - "playoverwatch.com"
   - "playwarcraft3.com"
+  - "playoverwatch.com"
   - "diabloimmortal.com"
   - "playhearthstone.com"
   - "worldofwarcraft.com"
-  - "blz-contentstack.com"
   - "heroesofthestorm.com"
+  - "blz-contentstack.com"
   - "blizzardgearstore.com"
   - "firesidegatherings.com"
   - "bnet.163.com"
@@ -32,16 +32,16 @@ domain_suffix_set:
   - "bnetcmsus-a.akamaihd.net"
   - "blzddistkr1-a.akamaihd.net"
   - "bnetproduct-a.akamaihd.net"
-  - "sc2.nosdn.127.net"
   - "blz.nosdn.127.net"
   - "wow.nosdn.127.net"
+  - "sc2.nosdn.127.net"
   - "di.res.netease.com"
   - "diablo3.nosdn.127.net"
   - "cdp.cloud.unity3d.com"
   - "heroes.nos.netease.com"
   - "overwatch.nosdn.127.net"
-  - "hearthstone.nosdn.127.net"
   - "blizzard.nefficient.co.kr"
+  - "hearthstone.nosdn.127.net"
 ip_cidr_set:
   - "24.105.30.129/32"
   - "24.105.62.129/32"

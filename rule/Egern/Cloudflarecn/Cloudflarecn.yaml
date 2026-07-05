@@ -1,13 +1,13 @@
 # NAME: Cloudflarecn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:25:30.384511+00:00
+# UPDATED: 2026-07-05T02:37:11.149743+00:00
 no_resolve: true
 domain_suffix_set:
   - "cf-ns.net"
   - "cf-ns.com"
+  - "cftest6.cn"
   - "cf-ns.site"
   - "cf-ns.tech"
-  - "cftest6.cn"
   - "cftest5.cn"
   - "cftest8.com"
   - "cftest7.com"

@@ -1,30 +1,54 @@
-# Bestbuy
+# 百思买
 
 ## 中文
 
-Bestbuy 规则集。
+聚合 百思买 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`Bestbuy`
+- 当前客户端：`Egern`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `82`
+- 总数：`82`
 - `DOMAIN-SUFFIX`: 82
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Bestbuy/Bestbuy.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Bestbuy/Bestbuy.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/Bestbuy/Bestbuy.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Bestbuy/Bestbuy.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FBestbuy%2FBestbuy.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E7%99%BE%E6%80%9D%E4%B9%B0&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FBestbuy%2FBestbuy.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Bestbuy/Bestbuy.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Bestbuy/Bestbuy.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Bestbuy/Bestbuy.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Bestbuy/Bestbuy.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Bestbuy: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bestbuy/Bestbuy.list
+- [blackmatrix7 Bestbuy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bestbuy/Bestbuy.list)
 
-## English
+<details>
+<summary>English</summary>
 
-Bestbuy rule set.
+Aggregated rules for Bestbuy, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `Bestbuy`
 - Client: `Egern`
-- File: `rule/Egern/Bestbuy/Bestbuy.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Bestbuy/Bestbuy.yaml`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Bestbuy/Bestbuy.yaml>
+
+</details>

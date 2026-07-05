@@ -1,30 +1,54 @@
-# WeType
+# 微信输入法
 
 ## 中文
 
-WeType 规则集。
+聚合 微信输入法 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`WeType`
+- 当前客户端：`Egern`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `1`
+- 总数：`1`
 - `DOMAIN`: 1
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/WeType/WeType.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/WeType/WeType.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/WeType/WeType.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/WeType/WeType.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FWeType%2FWeType.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FWeType%2FWeType.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/WeType/WeType.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/WeType/WeType.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/WeType/WeType.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/WeType/WeType.yaml>
 
 ### 数据来源
 
-- blackmatrix7 WeType: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeType/WeType.list
+- [blackmatrix7 WeType](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeType/WeType.list)
 
-## English
+<details>
+<summary>English</summary>
 
-WeType rule set.
+Aggregated rules for WeType, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `WeType`
 - Client: `Egern`
-- File: `rule/Egern/WeType/WeType.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/WeType/WeType.yaml`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/WeType/WeType.yaml>
+
+</details>

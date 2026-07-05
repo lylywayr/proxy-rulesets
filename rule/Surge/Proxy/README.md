@@ -1,12 +1,20 @@
-# Proxy
+# 代理
 
 ## 中文
 
 常见代理分流集合。
 
+### 分类信息
+
+- 分类标识：`Proxy`
+- 当前客户端：`Surge`
+- 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
+- 专题入口：
+- [隐私分流专题](../../../guide/topics/privacy-routing.md)
+
 ### 规则统计
 
-- 总数: `131`
+- 总数：`131`
 - `DOMAIN-KEYWORD`: 26
 - `USER-AGENT`: 8
 - `IP-CIDR`: 93
@@ -14,20 +22,35 @@
 
 ### 使用说明
 
-- 客户端: `Surge`
-- 文件: `rule/Surge/Proxy/Proxy.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Proxy/Proxy.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本 RULE-SET 列表`
+- 文件：`rule/Surge/Proxy/Proxy.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Proxy/Proxy.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- 当前客户端暂不支持针对本规则产物的一键导入。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Proxy/Proxy.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Proxy/Proxy.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Proxy/Proxy.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Proxy: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list
+- [blackmatrix7 Proxy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list)
 
-## English
+<details>
+<summary>English</summary>
 
 Common proxy-routing rules.
 
+- Category ID: `Proxy`
 - Client: `Surge`
-- File: `rule/Surge/Proxy/Proxy.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Proxy/Proxy.list`
-- Omitted unsupported types: `无`
+- Group: `Security`
+- Format: `Plain external RULE-SET list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Proxy/Proxy.list>
+
+</details>

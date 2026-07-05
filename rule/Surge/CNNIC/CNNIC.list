@@ -1,6 +1,6 @@
 # NAME: CNNIC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:25:30.716304+00:00
+# UPDATED: 2026-07-05T02:37:11.172799+00:00
 # DOMAIN-SUFFIX: 33
 # TOTAL: 33
 
@@ -8,32 +8,32 @@ DOMAIN-SUFFIX,cdns.cn
 DOMAIN-SUFFIX,sdns.cn
 DOMAIN-SUFFIX,myid.cn
 DOMAIN-SUFFIX,apac.cn
-DOMAIN-SUFFIX,nanel.cn
-DOMAIN-SUFFIX,idpcn.cn
-DOMAIN-SUFFIX,cilab.cn
 DOMAIN-SUFFIX,cdnc.org
 DOMAIN-SUFFIX,cnnic.cn
+DOMAIN-SUFFIX,idpcn.cn
+DOMAIN-SUFFIX,cilab.cn
 DOMAIN-SUFFIX,cnidp.cn
-DOMAIN-SUFFIX,6pilot.cn
-DOMAIN-SUFFIX,dnslab.cn
-DOMAIN-SUFFIX,cnnic.net
-DOMAIN-SUFFIX,apira.org
+DOMAIN-SUFFIX,nanel.cn
 DOMAIN-SUFFIX,apirc.org
-DOMAIN-SUFFIX,surdata.cn
-DOMAIN-SUFFIX,snsroot.cn
-DOMAIN-SUFFIX,dnswood.cn
+DOMAIN-SUFFIX,6pilot.cn
+DOMAIN-SUFFIX,cnnic.net
+DOMAIN-SUFFIX,dnslab.cn
+DOMAIN-SUFFIX,apira.org
 DOMAIN-SUFFIX,dnscert.cn
+DOMAIN-SUFFIX,dnswood.cn
 DOMAIN-SUFFIX,cfidlab.cn
+DOMAIN-SUFFIX,snsroot.cn
 DOMAIN-SUFFIX,idatacn.cn
 DOMAIN-SUFFIX,v6pilot.cn
-DOMAIN-SUFFIX,cfid-lab.cn
+DOMAIN-SUFFIX,surdata.cn
 DOMAIN-SUFFIX,internet.cn
+DOMAIN-SUFFIX,cfid-lab.cn
 DOMAIN-SUFFIX,dns-cert.cn
 DOMAIN-SUFFIX,cyberspace.cn
 DOMAIN-SUFFIX,cnnicresearch.cn
 DOMAIN-SUFFIX,djt.org.cn
-DOMAIN-SUFFIX,apac.org.cn
 DOMAIN-SUFFIX,cnnic.ac.cn
-DOMAIN-SUFFIX,cnnic.org.cn
-DOMAIN-SUFFIX,cnnic.net.cn
+DOMAIN-SUFFIX,apac.org.cn
 DOMAIN-SUFFIX,cnnic.com.cn
+DOMAIN-SUFFIX,cnnic.net.cn
+DOMAIN-SUFFIX,cnnic.org.cn

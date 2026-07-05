@@ -1,14 +1,14 @@
 # NAME: Niconico
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:37.296369+00:00
+# UPDATED: 2026-07-05T02:46:18.670444+00:00
 payload:
-  - DOMAIN-SUFFIX,nimg.jp
   - DOMAIN-SUFFIX,simg.jp
+  - DOMAIN-SUFFIX,nimg.jp
   - DOMAIN-SUFFIX,dmc.nico
   - DOMAIN-SUFFIX,socdm.com
   - DOMAIN-SUFFIX,nicodic.jp
-  - DOMAIN-SUFFIX,nicoseiga.jp
-  - DOMAIN-SUFFIX,nicomanga.jp
-  - DOMAIN-SUFFIX,nicovideo.jp
   - DOMAIN-SUFFIX,niconico.com
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nicomanga.jp
+  - DOMAIN-SUFFIX,nicoseiga.jp
   - USER-AGENT,Niconico*

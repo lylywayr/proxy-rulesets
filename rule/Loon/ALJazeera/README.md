@@ -1,30 +1,53 @@
-# ALJazeera
+# 半岛电视台
 
 ## 中文
 
-ALJazeera 规则集。
+聚合 半岛电视台 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`ALJazeera`
+- 当前客户端：`Loon`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `7`
+- 总数：`7`
 - `DOMAIN-SUFFIX`: 7
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/ALJazeera/ALJazeera.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ALJazeera/ALJazeera.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/ALJazeera/ALJazeera.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ALJazeera/ALJazeera.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FALJazeera%2FALJazeera.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ALJazeera/ALJazeera.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ALJazeera/ALJazeera.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ALJazeera/ALJazeera.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ALJazeera/ALJazeera.yaml>
 
 ### 数据来源
 
-- blackmatrix7 ALJazeera: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ALJazeera/ALJazeera.list
+- [blackmatrix7 ALJazeera](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ALJazeera/ALJazeera.list)
 
-## English
+<details>
+<summary>English</summary>
 
-ALJazeera rule set.
+Aggregated rules for ALJazeera, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `ALJazeera`
 - Client: `Loon`
-- File: `rule/Loon/ALJazeera/ALJazeera.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ALJazeera/ALJazeera.list`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ALJazeera/ALJazeera.list>
+
+</details>

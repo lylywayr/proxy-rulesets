@@ -4,31 +4,56 @@
 
 GitHub 网站、API 与静态资源。
 
+### 分类信息
+
+- 分类标识：`GitHub`
+- 当前客户端：`Egern`
+- 所属分组：[开发者平台](../../../guide/groups/developer.md)
+- 专题入口：
+- [开发者栈专题](../../../guide/topics/developer-stack.md)
+- [云网络专题](../../../guide/topics/cloud-network.md)
+
 ### 规则统计
 
-- 总数: `31`
+- 总数：`31`
 - `DOMAIN-SUFFIX`: 30
 - `DOMAIN-KEYWORD`: 1
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/GitHub/GitHub.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitHub/GitHub.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/GitHub/GitHub.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitHub/GitHub.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FGitHub%2FGitHub.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=GitHub&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FGitHub%2FGitHub.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GitHub/GitHub.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GitHub/GitHub.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GitHub/GitHub.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitHub/GitHub.yaml>
 
 ### 数据来源
 
-- ACL4SSR Github list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list
-- ACL4SSR Github provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml
-- LM-Firefly Github list: https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list
-- LM-Firefly Github classical: https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml
+- [ACL4SSR Github list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list)
+- [ACL4SSR Github provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml)
+- [LM-Firefly Github list](https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list)
+- [LM-Firefly Github classical](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml)
 
-## English
+<details>
+<summary>English</summary>
 
 GitHub web, API, and static assets.
 
+- Category ID: `GitHub`
 - Client: `Egern`
-- File: `rule/Egern/GitHub/GitHub.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitHub/GitHub.yaml`
-- Omitted unsupported types: `无`
+- Group: `Developer`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitHub/GitHub.yaml>
+
+</details>

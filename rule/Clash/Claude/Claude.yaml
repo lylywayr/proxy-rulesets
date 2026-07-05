@@ -1,6 +1,6 @@
 # NAME: Claude
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:25:30.267165+00:00
+# UPDATED: 2026-07-05T02:37:11.141739+00:00
 payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,claude.ai

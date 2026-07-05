@@ -1,29 +1,29 @@
 # NAME: Twitter
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:44.122532+00:00
+# UPDATED: 2026-07-05T02:46:23.672317+00:00
 no_resolve: true
 domain_suffix_set:
   - "t.co"
   - "x.com"
-  - "pscp.tv"
   - "vine.co"
-  - "twimg.co"
+  - "pscp.tv"
   - "grok.com"
+  - "twimg.co"
+  - "twvid.com"
+  - "twttr.com"
   - "twimg.com"
   - "twttr.net"
-  - "twttr.com"
-  - "twvid.com"
   - "twimg.org"
   - "twitter.jp"
-  - "twtrdns.net"
   - "twitter.biz"
+  - "twtrdns.net"
   - "twitpic.com"
   - "twitter.com"
   - "periscope.tv"
-  - "tellapart.com"
   - "tweetdeck.com"
-  - "twitterstat.us"
+  - "tellapart.com"
   - "twitterinc.com"
+  - "twitterstat.us"
   - "ads-twitter.com"
   - "twitteroauth.com"
   - "twittercommunity.com"

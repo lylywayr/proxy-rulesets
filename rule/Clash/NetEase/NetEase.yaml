@@ -1,122 +1,122 @@
 # NAME: NetEase
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:36.988041+00:00
+# UPDATED: 2026-07-05T02:46:17.783446+00:00
 payload:
   - DOMAIN,netease.ugcvideoss.ourdvs.com
-  - DOMAIN-SUFFIX,126.fm
-  - DOMAIN-SUFFIX,163.fm
   - DOMAIN-SUFFIX,126.am
+  - DOMAIN-SUFFIX,163.fm
+  - DOMAIN-SUFFIX,126.fm
+  - DOMAIN-SUFFIX,127.com
+  - DOMAIN-SUFFIX,126.com
+  - DOMAIN-SUFFIX,166.net
+  - DOMAIN-SUFFIX,127.net
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,188.net
   - DOMAIN-SUFFIX,126.net
   - DOMAIN-SUFFIX,188.com
-  - DOMAIN-SUFFIX,126.com
-  - DOMAIN-SUFFIX,127.net
   - DOMAIN-SUFFIX,166.com
-  - DOMAIN-SUFFIX,166.net
-  - DOMAIN-SUFFIX,127.com
-  - DOMAIN-SUFFIX,188.net
-  - DOMAIN-SUFFIX,163.com
-  - DOMAIN-SUFFIX,yeah.net
   - DOMAIN-SUFFIX,163.link
-  - DOMAIN-SUFFIX,yodao.cn
   - DOMAIN-SUFFIX,ytiao.cn
-  - DOMAIN-SUFFIX,kada.com
   - DOMAIN-SUFFIX,ytiny.cn
   - DOMAIN-SUFFIX,126.link
-  - DOMAIN-SUFFIX,tx163.com
-  - DOMAIN-SUFFIX,nease.net
-  - DOMAIN-SUFFIX,163cms.cn
-  - DOMAIN-SUFFIX,lf127.net
+  - DOMAIN-SUFFIX,kada.com
+  - DOMAIN-SUFFIX,yodao.cn
+  - DOMAIN-SUFFIX,yeah.net
   - DOMAIN-SUFFIX,huihui.cn
+  - DOMAIN-SUFFIX,lf126.net
+  - DOMAIN-SUFFIX,tx163.com
+  - DOMAIN-SUFFIX,lf127.net
+  - DOMAIN-SUFFIX,yodao.net
+  - DOMAIN-SUFFIX,yqkk.link
+  - DOMAIN-SUFFIX,nease.net
   - DOMAIN-SUFFIX,163img.cn
   - DOMAIN-SUFFIX,ndiip.com
   - DOMAIN-SUFFIX,yodao.org
-  - DOMAIN-SUFFIX,lf126.net
-  - DOMAIN-SUFFIX,yqkk.link
+  - DOMAIN-SUFFIX,163cms.cn
   - DOMAIN-SUFFIX,yodao.com
-  - DOMAIN-SUFFIX,yodao.net
-  - DOMAIN-SUFFIX,ntes53.com
-  - DOMAIN-SUFFIX,youdao.com
-  - DOMAIN-SUFFIX,166dns.com
-  - DOMAIN-SUFFIX,qiyukf.com
-  - DOMAIN-SUFFIX,166cdn.com
-  - DOMAIN-SUFFIX,adl163.com
-  - DOMAIN-SUFFIX,qiyukf.net
-  - DOMAIN-SUFFIX,163nos.com
-  - DOMAIN-SUFFIX,nbhuke.com
-  - DOMAIN-SUFFIX,yaoluu.com
-  - DOMAIN-SUFFIX,hukelc.com
-  - DOMAIN-SUFFIX,21cntx.com
   - DOMAIN-SUFFIX,163img.com
-  - DOMAIN-SUFFIX,163cms.com
-  - DOMAIN-SUFFIX,ntes53.net
-  - DOMAIN-SUFFIX,yodao.info
-  - DOMAIN-SUFFIX,127cdn.com
-  - DOMAIN-SUFFIX,188cdn.com
-  - DOMAIN-SUFFIX,haowu.link
   - DOMAIN-SUFFIX,njdiip.com
-  - DOMAIN-SUFFIX,hukewq.com
-  - DOMAIN-SUFFIX,playfab.cn
-  - DOMAIN-SUFFIX,hukenb.com
-  - DOMAIN-SUFFIX,163adl.com
-  - DOMAIN-SUFFIX,lofter.com
+  - DOMAIN-SUFFIX,ntes53.net
+  - DOMAIN-SUFFIX,adl163.com
   - DOMAIN-SUFFIX,hukecs.com
-  - DOMAIN-SUFFIX,163yun.com
-  - DOMAIN-SUFFIX,netease.im
-  - DOMAIN-SUFFIX,hukeck.com
+  - DOMAIN-SUFFIX,hukelc.com
+  - DOMAIN-SUFFIX,127cdn.com
+  - DOMAIN-SUFFIX,playfab.cn
+  - DOMAIN-SUFFIX,nbhuke.com
+  - DOMAIN-SUFFIX,ntes53.com
+  - DOMAIN-SUFFIX,163adl.com
   - DOMAIN-SUFFIX,163fen.com
-  - DOMAIN-SUFFIX,ydstatic.cn
-  - DOMAIN-SUFFIX,321fenx.com
-  - DOMAIN-SUFFIX,hukefjb.com
-  - DOMAIN-SUFFIX,easebar.net
-  - DOMAIN-SUFFIX,163mail.com
-  - DOMAIN-SUFFIX,yun-app.net
-  - DOMAIN-SUFFIX,163kada.com
-  - DOMAIN-SUFFIX,163mail.net
-  - DOMAIN-SUFFIX,netease.com
-  - DOMAIN-SUFFIX,ntescdn.com
-  - DOMAIN-SUFFIX,easebar.com
-  - DOMAIN-SUFFIX,hukesxm.com
-  - DOMAIN-SUFFIX,chatnos.com
-  - DOMAIN-SUFFIX,hukexyy.com
-  - DOMAIN-SUFFIX,163nasa.com
-  - DOMAIN-SUFFIX,kada163.com
-  - DOMAIN-SUFFIX,hukecwx.com
+  - DOMAIN-SUFFIX,netease.im
+  - DOMAIN-SUFFIX,166dns.com
+  - DOMAIN-SUFFIX,163nos.com
+  - DOMAIN-SUFFIX,hukewq.com
+  - DOMAIN-SUFFIX,163yun.com
+  - DOMAIN-SUFFIX,163cms.com
+  - DOMAIN-SUFFIX,youdao.com
+  - DOMAIN-SUFFIX,hukenb.com
+  - DOMAIN-SUFFIX,yodao.info
+  - DOMAIN-SUFFIX,hukeck.com
+  - DOMAIN-SUFFIX,qiyukf.com
+  - DOMAIN-SUFFIX,lofter.com
+  - DOMAIN-SUFFIX,21cntx.com
+  - DOMAIN-SUFFIX,qiyukf.net
+  - DOMAIN-SUFFIX,166cdn.com
+  - DOMAIN-SUFFIX,188cdn.com
+  - DOMAIN-SUFFIX,yaoluu.com
+  - DOMAIN-SUFFIX,haowu.link
   - DOMAIN-SUFFIX,hukehyh.com
-  - DOMAIN-SUFFIX,163jiasu.com
-  - DOMAIN-SUFFIX,yunxinfw.com
-  - DOMAIN-SUFFIX,ydstatic.com
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,163kada.com
+  - DOMAIN-SUFFIX,easebar.com
+  - DOMAIN-SUFFIX,ntescdn.com
+  - DOMAIN-SUFFIX,163mail.net
+  - DOMAIN-SUFFIX,chatnos.com
+  - DOMAIN-SUFFIX,yun-app.net
+  - DOMAIN-SUFFIX,163mail.com
+  - DOMAIN-SUFFIX,hukecwx.com
+  - DOMAIN-SUFFIX,321fenx.com
+  - DOMAIN-SUFFIX,hukexyy.com
+  - DOMAIN-SUFFIX,easebar.net
+  - DOMAIN-SUFFIX,hukefjb.com
+  - DOMAIN-SUFFIX,kada163.com
+  - DOMAIN-SUFFIX,hukesxm.com
+  - DOMAIN-SUFFIX,163nasa.com
+  - DOMAIN-SUFFIX,ydstatic.cn
+  - DOMAIN-SUFFIX,zhuanzfx.com
   - DOMAIN-SUFFIX,yunxinhi.com
   - DOMAIN-SUFFIX,yunxinhy.com
+  - DOMAIN-SUFFIX,163jiasu.com
   - DOMAIN-SUFFIX,dingwei.link
-  - DOMAIN-SUFFIX,zhuanzfx.com
-  - DOMAIN-SUFFIX,gameviewer.cn
-  - DOMAIN-SUFFIX,gamehaopu.com
-  - DOMAIN-SUFFIX,netstatic.net
-  - DOMAIN-SUFFIX,yunxindns.com
+  - DOMAIN-SUFFIX,ydstatic.com
+  - DOMAIN-SUFFIX,yunxinfw.com
   - DOMAIN-SUFFIX,yunxin163.com
-  - DOMAIN-SUFFIX,yunxinapi.com
+  - DOMAIN-SUFFIX,gameviewer.cn
   - DOMAIN-SUFFIX,yunxinrtc.com
-  - DOMAIN-SUFFIX,static163.net
   - DOMAIN-SUFFIX,yunxinsvr.com
+  - DOMAIN-SUFFIX,static163.net
+  - DOMAIN-SUFFIX,netstatic.net
+  - DOMAIN-SUFFIX,yunxinapi.com
   - DOMAIN-SUFFIX,icourse163.cn
-  - DOMAIN-SUFFIX,gameviewer.com
+  - DOMAIN-SUFFIX,yunxindns.com
+  - DOMAIN-SUFFIX,gamehaopu.com
   - DOMAIN-SUFFIX,yunxingslb.com
-  - DOMAIN-SUFFIX,icourse163.org
+  - DOMAIN-SUFFIX,yunxinsvip.com
   - DOMAIN-SUFFIX,icourses163.cn
   - DOMAIN-SUFFIX,icourse163.com
-  - DOMAIN-SUFFIX,yunxinsvip.com
-  - DOMAIN-SUFFIX,yunxinvideo.com
-  - DOMAIN-SUFFIX,netease-inc.com
-  - DOMAIN-SUFFIX,laiqukankan.com
-  - DOMAIN-SUFFIX,neteasegame.net
-  - DOMAIN-SUFFIX,163industry.com
-  - DOMAIN-SUFFIX,icourses163.org
+  - DOMAIN-SUFFIX,icourse163.org
+  - DOMAIN-SUFFIX,gameviewer.com
   - DOMAIN-SUFFIX,icourses163.com
+  - DOMAIN-SUFFIX,icourses163.org
+  - DOMAIN-SUFFIX,netease-inc.com
   - DOMAIN-SUFFIX,neteasegame.com
+  - DOMAIN-SUFFIX,laiqukankan.com
+  - DOMAIN-SUFFIX,163industry.com
+  - DOMAIN-SUFFIX,neteasegame.net
+  - DOMAIN-SUFFIX,yunxinvideo.com
   - DOMAIN-SUFFIX,neteasegames.net
+  - DOMAIN-SUFFIX,neteasegames.com
   - DOMAIN-SUFFIX,yunxinvcloud.com
   - DOMAIN-SUFFIX,playdisorder.com
-  - DOMAIN-SUFFIX,neteasegames.com
   - DOMAIN-SUFFIX,infiniteborders3kingdoms.com
   - DOMAIN-SUFFIX,marvelunlimitedresources.com
   - DOMAIN-SUFFIX,yodao.com.cn

@@ -1,6 +1,6 @@
 # NAME: Salesforce
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:40.378562+00:00
+# UPDATED: 2026-07-05T02:46:19.895592+00:00
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 
@@ -8,12 +8,12 @@ DOMAIN-SUFFIX,force.com
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,tableau.com
 DOMAIN-SUFFIX,mulesoft.com
+DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-SUFFIX,trailhead.com
 DOMAIN-SUFFIX,herokuapp.com
-DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-SUFFIX,salesforce.com
-DOMAIN-SUFFIX,trailblazer.me
-DOMAIN-SUFFIX,salesforce.org
 DOMAIN-SUFFIX,sfdcstatic.com
+DOMAIN-SUFFIX,salesforce.org
+DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,sfdcdigital.com
 DOMAIN-SUFFIX,salesforceliveagent.com

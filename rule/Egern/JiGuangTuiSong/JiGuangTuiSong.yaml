@@ -1,23 +1,23 @@
 # NAME: JiGuangTuiSong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:33.518167+00:00
+# UPDATED: 2026-07-05T02:46:15.123071+00:00
 no_resolve: true
 domain_suffix_set:
   - "e0n.cn"
-  - "42r.cn"
-  - "s0n.cn"
   - "n0q.cn"
   - "kc9.cn"
+  - "s0n.cn"
+  - "42r.cn"
   - "jmlk.co"
-  - "jpush.io"
   - "japps.cn"
-  - "jpush.cn"
+  - "jpush.io"
   - "jchat.io"
+  - "jpush.cn"
   - "jvoice.cn"
-  - "5566ua.com"
-  - "jiguang.cn"
   - "jsurvey.cn"
-  - "jpushoa.com"
+  - "jiguang.cn"
+  - "5566ua.com"
   - "pushcfg.com"
+  - "jpushoa.com"
   - "aurorapush.cn"
   - "easytomessage.com"

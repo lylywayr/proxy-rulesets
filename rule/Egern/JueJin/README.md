@@ -1,30 +1,54 @@
-# JueJin
+# 掘金
 
 ## 中文
 
-JueJin 规则集。
+聚合 掘金 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`JueJin`
+- 当前客户端：`Egern`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `12`
+- 总数：`12`
 - `DOMAIN-SUFFIX`: 12
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/JueJin/JueJin.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/JueJin/JueJin.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/JueJin/JueJin.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/JueJin/JueJin.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FJueJin%2FJueJin.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E6%8E%98%E9%87%91&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FJueJin%2FJueJin.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/JueJin/JueJin.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/JueJin/JueJin.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/JueJin/JueJin.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/JueJin/JueJin.yaml>
 
 ### 数据来源
 
-- blackmatrix7 JueJin: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JueJin/JueJin.list
+- [blackmatrix7 JueJin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JueJin/JueJin.list)
 
-## English
+<details>
+<summary>English</summary>
 
-JueJin rule set.
+Aggregated rules for JueJin, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `JueJin`
 - Client: `Egern`
-- File: `rule/Egern/JueJin/JueJin.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/JueJin/JueJin.yaml`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/JueJin/JueJin.yaml>
+
+</details>

@@ -2,13 +2,21 @@
 
 ## 中文
 
-ProxyLite 规则集。
+聚合 ProxyLite 相关服务、域名、关键词与网络目标，面向 隐私与基础分流 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`ProxyLite`
+- 当前客户端：`Egern`
+- 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `982`
-- `DOMAIN-SUFFIX`: 843
+- 总数：`982`
 - `DOMAIN`: 23
+- `DOMAIN-SUFFIX`: 843
 - `DOMAIN-KEYWORD`: 20
 - `USER-AGENT`: 6
 - `IP-CIDR`: 86
@@ -16,20 +24,36 @@ ProxyLite 规则集。
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/ProxyLite/ProxyLite.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ProxyLite/ProxyLite.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/ProxyLite/ProxyLite.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ProxyLite/ProxyLite.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FProxyLite%2FProxyLite.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=ProxyLite&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FProxyLite%2FProxyLite.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ProxyLite/ProxyLite.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ProxyLite/ProxyLite.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ProxyLite/ProxyLite.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ProxyLite/ProxyLite.yaml>
 
 ### 数据来源
 
-- blackmatrix7 ProxyLite: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ProxyLite/ProxyLite.list
+- [blackmatrix7 ProxyLite](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ProxyLite/ProxyLite.list)
 
-## English
+<details>
+<summary>English</summary>
 
-ProxyLite rule set.
+Aggregated rules for ProxyLite, covering related domains, keywords, and network targets for security routing workflows.
 
+- Category ID: `ProxyLite`
 - Client: `Egern`
-- File: `rule/Egern/ProxyLite/ProxyLite.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ProxyLite/ProxyLite.yaml`
-- Omitted unsupported types: `无`
+- Group: `Security`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ProxyLite/ProxyLite.yaml>
+
+</details>

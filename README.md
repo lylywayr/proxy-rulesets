@@ -1,716 +1,695 @@
 # proxy-rulesets
 
-中文为默认文档语言。英文入口见 [README_EN.md](README_EN.md)。
+中文为默认文档语言，英文为可选补充。
 
-这是 `lylywayr/proxy-rulesets` 的公开规则仓库，仅存放构建产物。
-
-我们不生产规则，我们只做开源规则的整理、合并、去重与分发。
-
-## 仓库定位
-
-- 默认语言：中文
-- 规则来源：公开上游项目
-- 产物形式：`Surge`、`Loon`、`Clash`、`Egern`
-- 构建方式：私有构建仓自动抓取、合并、去重、生成并发布
-- 当前分类数：`667`
-
-## 支持客户端
-
-- `Surge`
-- `Loon`
-- `Clash`
-- `Egern`
+这是公开规则产物仓库，默认发布 `Surge`、`Loon`、`Clash` 与 `Egern` 四类规则文件、索引文档、分组导航、专题入口与 GitHub Pages 站点。
 
 ## 快速入口
 
+- Pages 站点：<https://lylywayr.github.io/proxy-rulesets/>
+- 客户端导航：[guide/clients/README.md](guide/clients/README.md)
+- 分组导航：[guide/groups/README.md](guide/groups/README.md)
+- 专题入口：[guide/topics/README.md](guide/topics/README.md)
 - 规则总索引：[rule/README.md](rule/README.md)
-- Surge 索引：[rule/Surge/README.md](rule/Surge/README.md)
-- Loon 索引：[rule/Loon/README.md](rule/Loon/README.md)
-- Clash 索引：[rule/Clash/README.md](rule/Clash/README.md)
-- Egern 索引：[rule/Egern/README.md](rule/Egern/README.md)
 - 元数据清单：[meta/index.json](meta/index.json)
+- 开源协议：[LICENSE](LICENSE)
+
+## 仓库概览
+
+- 分类数量：`667`
+- 客户端数量：`4`
+- 分组数量：`13`
+- 专题数量：`11`
+- 最近生成时间：`2026-07-05T02:27:55.231857+00:00`
 
 ## 规则目录
 
-| 分类 | Surge | Loon | Clash | Egern |
-| ---- | ---- | ---- | ---- | ---- |
-| 115 | [Surge](rule/Surge/115/115.list) | [Loon](rule/Loon/115/115.list) | [Clash](rule/Clash/115/115.yaml) | [Egern](rule/Egern/115/115.yaml) |
-| 12306 | [Surge](rule/Surge/12306/12306.list) | [Loon](rule/Loon/12306/12306.list) | [Clash](rule/Clash/12306/12306.yaml) | [Egern](rule/Egern/12306/12306.yaml) |
-| 1337x | [Surge](rule/Surge/1337x/1337x.list) | [Loon](rule/Loon/1337x/1337x.list) | [Clash](rule/Clash/1337x/1337x.yaml) | [Egern](rule/Egern/1337x/1337x.yaml) |
-| 17173 | [Surge](rule/Surge/17173/17173.list) | [Loon](rule/Loon/17173/17173.list) | [Clash](rule/Clash/17173/17173.yaml) | [Egern](rule/Egern/17173/17173.yaml) |
-| 178 | [Surge](rule/Surge/178/178.list) | [Loon](rule/Loon/178/178.list) | [Clash](rule/Clash/178/178.yaml) | [Egern](rule/Egern/178/178.yaml) |
-| 17zuoye | [Surge](rule/Surge/17zuoye/17zuoye.list) | [Loon](rule/Loon/17zuoye/17zuoye.list) | [Clash](rule/Clash/17zuoye/17zuoye.yaml) | [Egern](rule/Egern/17zuoye/17zuoye.yaml) |
-| 2KGames | [Surge](rule/Surge/2KGames/2KGames.list) | [Loon](rule/Loon/2KGames/2KGames.list) | [Clash](rule/Clash/2KGames/2KGames.yaml) | [Egern](rule/Egern/2KGames/2KGames.yaml) |
-| 360 | [Surge](rule/Surge/360/360.list) | [Loon](rule/Loon/360/360.list) | [Clash](rule/Clash/360/360.yaml) | [Egern](rule/Egern/360/360.yaml) |
-| 36kr | [Surge](rule/Surge/36kr/36kr.list) | [Loon](rule/Loon/36kr/36kr.list) | [Clash](rule/Clash/36kr/36kr.yaml) | [Egern](rule/Egern/36kr/36kr.yaml) |
-| 3dm | [Surge](rule/Surge/3dm/3dm.list) | [Loon](rule/Loon/3dm/3dm.list) | [Clash](rule/Clash/3dm/3dm.yaml) | [Egern](rule/Egern/3dm/3dm.yaml) |
-| 3Type | [Surge](rule/Surge/3Type/3Type.list) | [Loon](rule/Loon/3Type/3Type.list) | [Clash](rule/Clash/3Type/3Type.yaml) | [Egern](rule/Egern/3Type/3Type.yaml) |
-| 4399 | [Surge](rule/Surge/4399/4399.list) | [Loon](rule/Loon/4399/4399.list) | [Clash](rule/Clash/4399/4399.yaml) | [Egern](rule/Egern/4399/4399.yaml) |
-| 4chan | [Surge](rule/Surge/4chan/4chan.list) | [Loon](rule/Loon/4chan/4chan.list) | [Clash](rule/Clash/4chan/4chan.yaml) | [Egern](rule/Egern/4chan/4chan.yaml) |
-| 4Paradigm | [Surge](rule/Surge/4Paradigm/4Paradigm.list) | [Loon](rule/Loon/4Paradigm/4Paradigm.list) | [Clash](rule/Clash/4Paradigm/4Paradigm.yaml) | [Egern](rule/Egern/4Paradigm/4Paradigm.yaml) |
-| 51Job | [Surge](rule/Surge/51Job/51Job.list) | [Loon](rule/Loon/51Job/51Job.list) | [Clash](rule/Clash/51Job/51Job.yaml) | [Egern](rule/Egern/51Job/51Job.yaml) |
-| 51nod | [Surge](rule/Surge/51nod/51nod.list) | [Loon](rule/Loon/51nod/51nod.list) | [Clash](rule/Clash/51nod/51nod.yaml) | [Egern](rule/Egern/51nod/51nod.yaml) |
-| 56 | [Surge](rule/Surge/56/56.list) | [Loon](rule/Loon/56/56.list) | [Clash](rule/Clash/56/56.yaml) | [Egern](rule/Egern/56/56.yaml) |
-| 58TongCheng | [Surge](rule/Surge/58TongCheng/58TongCheng.list) | [Loon](rule/Loon/58TongCheng/58TongCheng.list) | [Clash](rule/Clash/58TongCheng/58TongCheng.yaml) | [Egern](rule/Egern/58TongCheng/58TongCheng.yaml) |
-| 6JianFang | [Surge](rule/Surge/6JianFang/6JianFang.list) | [Loon](rule/Loon/6JianFang/6JianFang.list) | [Clash](rule/Clash/6JianFang/6JianFang.yaml) | [Egern](rule/Egern/6JianFang/6JianFang.yaml) |
-| 6park | [Surge](rule/Surge/6park/6park.list) | [Loon](rule/Loon/6park/6park.list) | [Clash](rule/Clash/6park/6park.yaml) | [Egern](rule/Egern/6park/6park.yaml) |
-| 8btc | [Surge](rule/Surge/8btc/8btc.list) | [Loon](rule/Loon/8btc/8btc.list) | [Clash](rule/Clash/8btc/8btc.yaml) | [Egern](rule/Egern/8btc/8btc.yaml) |
-| 9News | [Surge](rule/Surge/9News/9News.list) | [Loon](rule/Loon/9News/9News.list) | [Clash](rule/Clash/9News/9News.yaml) | [Egern](rule/Egern/9News/9News.yaml) |
-| 9to5 | [Surge](rule/Surge/9to5/9to5.list) | [Loon](rule/Loon/9to5/9to5.list) | [Clash](rule/Clash/9to5/9to5.yaml) | [Egern](rule/Egern/9to5/9to5.yaml) |
-| ABC | [Surge](rule/Surge/ABC/ABC.list) | [Loon](rule/Loon/ABC/ABC.list) | [Clash](rule/Clash/ABC/ABC.yaml) | [Egern](rule/Egern/ABC/ABC.yaml) |
-| Abema | [Surge](rule/Surge/Abema/Abema.list) | [Loon](rule/Loon/Abema/Abema.list) | [Clash](rule/Clash/Abema/Abema.yaml) | [Egern](rule/Egern/Abema/Abema.yaml) |
-| AbemaTV | [Surge](rule/Surge/AbemaTV/AbemaTV.list) | [Loon](rule/Loon/AbemaTV/AbemaTV.list) | [Clash](rule/Clash/AbemaTV/AbemaTV.yaml) | [Egern](rule/Egern/AbemaTV/AbemaTV.yaml) |
-| Accuweather | [Surge](rule/Surge/Accuweather/Accuweather.list) | [Loon](rule/Loon/Accuweather/Accuweather.list) | [Clash](rule/Clash/Accuweather/Accuweather.yaml) | [Egern](rule/Egern/Accuweather/Accuweather.yaml) |
-| Acer | [Surge](rule/Surge/Acer/Acer.list) | [Loon](rule/Loon/Acer/Acer.list) | [Clash](rule/Clash/Acer/Acer.yaml) | [Egern](rule/Egern/Acer/Acer.yaml) |
-| AcFun | [Surge](rule/Surge/AcFun/AcFun.list) | [Loon](rule/Loon/AcFun/AcFun.list) | [Clash](rule/Clash/AcFun/AcFun.yaml) | [Egern](rule/Egern/AcFun/AcFun.yaml) |
-| Acplay | [Surge](rule/Surge/Acplay/Acplay.list) | [Loon](rule/Loon/Acplay/Acplay.list) | [Clash](rule/Clash/Acplay/Acplay.yaml) | [Egern](rule/Egern/Acplay/Acplay.yaml) |
-| Actalis | [Surge](rule/Surge/Actalis/Actalis.list) | [Loon](rule/Loon/Actalis/Actalis.list) | [Clash](rule/Clash/Actalis/Actalis.yaml) | [Egern](rule/Egern/Actalis/Actalis.yaml) |
-| AdColony | [Surge](rule/Surge/AdColony/AdColony.list) | [Loon](rule/Loon/AdColony/AdColony.list) | [Clash](rule/Clash/AdColony/AdColony.yaml) | [Egern](rule/Egern/AdColony/AdColony.yaml) |
-| Addthis | [Surge](rule/Surge/Addthis/Addthis.list) | [Loon](rule/Loon/Addthis/Addthis.list) | [Clash](rule/Clash/Addthis/Addthis.yaml) | [Egern](rule/Egern/Addthis/Addthis.yaml) |
-| AddToAny | [Surge](rule/Surge/AddToAny/AddToAny.list) | [Loon](rule/Loon/AddToAny/AddToAny.list) | [Clash](rule/Clash/AddToAny/AddToAny.yaml) | [Egern](rule/Egern/AddToAny/AddToAny.yaml) |
-| Adidas | [Surge](rule/Surge/Adidas/Adidas.list) | [Loon](rule/Loon/Adidas/Adidas.list) | [Clash](rule/Clash/Adidas/Adidas.yaml) | [Egern](rule/Egern/Adidas/Adidas.yaml) |
-| Adobe | [Surge](rule/Surge/Adobe/Adobe.list) | [Loon](rule/Loon/Adobe/Adobe.list) | [Clash](rule/Clash/Adobe/Adobe.yaml) | [Egern](rule/Egern/Adobe/Adobe.yaml) |
-| AdobeActivation | [Surge](rule/Surge/AdobeActivation/AdobeActivation.list) | [Loon](rule/Loon/AdobeActivation/AdobeActivation.list) | [Clash](rule/Clash/AdobeActivation/AdobeActivation.yaml) | [Egern](rule/Egern/AdobeActivation/AdobeActivation.yaml) |
-| Advertising | [Surge](rule/Surge/Advertising/Advertising.list) | [Loon](rule/Loon/Advertising/Advertising.list) | [Clash](rule/Clash/Advertising/Advertising.yaml) | [Egern](rule/Egern/Advertising/Advertising.yaml) |
-| AdvertisingLite | [Surge](rule/Surge/AdvertisingLite/AdvertisingLite.list) | [Loon](rule/Loon/AdvertisingLite/AdvertisingLite.list) | [Clash](rule/Clash/AdvertisingLite/AdvertisingLite.yaml) | [Egern](rule/Egern/AdvertisingLite/AdvertisingLite.yaml) |
-| AdvertisingMiTV | [Surge](rule/Surge/AdvertisingMiTV/AdvertisingMiTV.list) | [Loon](rule/Loon/AdvertisingMiTV/AdvertisingMiTV.list) | [Clash](rule/Clash/AdvertisingMiTV/AdvertisingMiTV.yaml) | [Egern](rule/Egern/AdvertisingMiTV/AdvertisingMiTV.yaml) |
-| AdvertisingTest | [Surge](rule/Surge/AdvertisingTest/AdvertisingTest.list) | [Loon](rule/Loon/AdvertisingTest/AdvertisingTest.list) | [Clash](rule/Clash/AdvertisingTest/AdvertisingTest.yaml) | [Egern](rule/Egern/AdvertisingTest/AdvertisingTest.yaml) |
-| Aerogard | [Surge](rule/Surge/Aerogard/Aerogard.list) | [Loon](rule/Loon/Aerogard/Aerogard.list) | [Clash](rule/Clash/Aerogard/Aerogard.yaml) | [Egern](rule/Egern/Aerogard/Aerogard.yaml) |
-| Afdian | [Surge](rule/Surge/Afdian/Afdian.list) | [Loon](rule/Loon/Afdian/Afdian.list) | [Clash](rule/Clash/Afdian/Afdian.yaml) | [Egern](rule/Egern/Afdian/Afdian.yaml) |
-| AFP | [Surge](rule/Surge/AFP/AFP.list) | [Loon](rule/Loon/AFP/AFP.list) | [Clash](rule/Clash/AFP/AFP.yaml) | [Egern](rule/Egern/AFP/AFP.yaml) |
-| Agora | [Surge](rule/Surge/Agora/Agora.list) | [Loon](rule/Loon/Agora/Agora.list) | [Clash](rule/Clash/Agora/Agora.yaml) | [Egern](rule/Egern/Agora/Agora.yaml) |
-| AI | [Surge](rule/Surge/AI/AI.list) | [Loon](rule/Loon/AI/AI.list) | [Clash](rule/Clash/AI/AI.yaml) | [Egern](rule/Egern/AI/AI.yaml) |
-| AiQiCha | [Surge](rule/Surge/AiQiCha/AiQiCha.list) | [Loon](rule/Loon/AiQiCha/AiQiCha.list) | [Clash](rule/Clash/AiQiCha/AiQiCha.yaml) | [Egern](rule/Egern/AiQiCha/AiQiCha.yaml) |
-| AirChina | [Surge](rule/Surge/AirChina/AirChina.list) | [Loon](rule/Loon/AirChina/AirChina.list) | [Clash](rule/Clash/AirChina/AirChina.yaml) | [Egern](rule/Egern/AirChina/AirChina.yaml) |
-| AirWick | [Surge](rule/Surge/AirWick/AirWick.list) | [Loon](rule/Loon/AirWick/AirWick.list) | [Clash](rule/Clash/AirWick/AirWick.yaml) | [Egern](rule/Egern/AirWick/AirWick.yaml) |
-| aiXcoder | [Surge](rule/Surge/aiXcoder/aiXcoder.list) | [Loon](rule/Loon/aiXcoder/aiXcoder.list) | [Clash](rule/Clash/aiXcoder/aiXcoder.yaml) | [Egern](rule/Egern/aiXcoder/aiXcoder.yaml) |
-| Akamai | [Surge](rule/Surge/Akamai/Akamai.list) | [Loon](rule/Loon/Akamai/Akamai.list) | [Clash](rule/Clash/Akamai/Akamai.yaml) | [Egern](rule/Egern/Akamai/Akamai.yaml) |
-| Ali213 | [Surge](rule/Surge/Ali213/Ali213.list) | [Loon](rule/Loon/Ali213/Ali213.list) | [Clash](rule/Clash/Ali213/Ali213.yaml) | [Egern](rule/Egern/Ali213/Ali213.yaml) |
-| Alibaba | [Surge](rule/Surge/Alibaba/Alibaba.list) | [Loon](rule/Loon/Alibaba/Alibaba.list) | [Clash](rule/Clash/Alibaba/Alibaba.yaml) | [Egern](rule/Egern/Alibaba/Alibaba.yaml) |
-| AliPay | [Surge](rule/Surge/AliPay/AliPay.list) | [Loon](rule/Loon/AliPay/AliPay.list) | [Clash](rule/Clash/AliPay/AliPay.yaml) | [Egern](rule/Egern/AliPay/AliPay.yaml) |
-| ALJazeera | [Surge](rule/Surge/ALJazeera/ALJazeera.list) | [Loon](rule/Loon/ALJazeera/ALJazeera.list) | [Clash](rule/Clash/ALJazeera/ALJazeera.yaml) | [Egern](rule/Egern/ALJazeera/ALJazeera.yaml) |
-| All4 | [Surge](rule/Surge/All4/All4.list) | [Loon](rule/Loon/All4/All4.list) | [Clash](rule/Clash/All4/All4.yaml) | [Egern](rule/Egern/All4/All4.yaml) |
-| Amazon | [Surge](rule/Surge/Amazon/Amazon.list) | [Loon](rule/Loon/Amazon/Amazon.list) | [Clash](rule/Clash/Amazon/Amazon.yaml) | [Egern](rule/Egern/Amazon/Amazon.yaml) |
-| AmazonCN | [Surge](rule/Surge/AmazonCN/AmazonCN.list) | [Loon](rule/Loon/AmazonCN/AmazonCN.list) | [Clash](rule/Clash/AmazonCN/AmazonCN.yaml) | [Egern](rule/Egern/AmazonCN/AmazonCN.yaml) |
-| AmazonIP | [Surge](rule/Surge/AmazonIP/AmazonIP.list) | [Loon](rule/Loon/AmazonIP/AmazonIP.list) | [Clash](rule/Clash/AmazonIP/AmazonIP.yaml) | [Egern](rule/Egern/AmazonIP/AmazonIP.yaml) |
-| AmazonPrimeVideo | [Surge](rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list) | [Loon](rule/Loon/AmazonPrimeVideo/AmazonPrimeVideo.list) | [Clash](rule/Clash/AmazonPrimeVideo/AmazonPrimeVideo.yaml) | [Egern](rule/Egern/AmazonPrimeVideo/AmazonPrimeVideo.yaml) |
-| AmazonTrust | [Surge](rule/Surge/AmazonTrust/AmazonTrust.list) | [Loon](rule/Loon/AmazonTrust/AmazonTrust.list) | [Clash](rule/Clash/AmazonTrust/AmazonTrust.yaml) | [Egern](rule/Egern/AmazonTrust/AmazonTrust.yaml) |
-| AMD | [Surge](rule/Surge/AMD/AMD.list) | [Loon](rule/Loon/AMD/AMD.list) | [Clash](rule/Clash/AMD/AMD.yaml) | [Egern](rule/Egern/AMD/AMD.yaml) |
-| Americasvoice | [Surge](rule/Surge/Americasvoice/Americasvoice.list) | [Loon](rule/Loon/Americasvoice/Americasvoice.list) | [Clash](rule/Clash/Americasvoice/Americasvoice.yaml) | [Egern](rule/Egern/Americasvoice/Americasvoice.yaml) |
-| AMP | [Surge](rule/Surge/AMP/AMP.list) | [Loon](rule/Loon/AMP/AMP.list) | [Clash](rule/Clash/AMP/AMP.yaml) | [Egern](rule/Egern/AMP/AMP.yaml) |
-| Anaconda | [Surge](rule/Surge/Anaconda/Anaconda.list) | [Loon](rule/Loon/Anaconda/Anaconda.list) | [Clash](rule/Clash/Anaconda/Anaconda.yaml) | [Egern](rule/Egern/Anaconda/Anaconda.yaml) |
-| AnandTech | [Surge](rule/Surge/AnandTech/AnandTech.list) | [Loon](rule/Loon/AnandTech/AnandTech.list) | [Clash](rule/Clash/AnandTech/AnandTech.yaml) | [Egern](rule/Egern/AnandTech/AnandTech.yaml) |
-| Android | [Surge](rule/Surge/Android/Android.list) | [Loon](rule/Loon/Android/Android.list) | [Clash](rule/Clash/Android/Android.yaml) | [Egern](rule/Egern/Android/Android.yaml) |
-| Anime | [Surge](rule/Surge/Anime/Anime.list) | [Loon](rule/Loon/Anime/Anime.list) | [Clash](rule/Clash/Anime/Anime.yaml) | [Egern](rule/Egern/Anime/Anime.yaml) |
-| Anjuke | [Surge](rule/Surge/Anjuke/Anjuke.list) | [Loon](rule/Loon/Anjuke/Anjuke.list) | [Clash](rule/Clash/Anjuke/Anjuke.yaml) | [Egern](rule/Egern/Anjuke/Anjuke.yaml) |
-| Anonv | [Surge](rule/Surge/Anonv/Anonv.list) | [Loon](rule/Loon/Anonv/Anonv.list) | [Clash](rule/Clash/Anonv/Anonv.yaml) | [Egern](rule/Egern/Anonv/Anonv.yaml) |
-| Anthropic | [Surge](rule/Surge/Anthropic/Anthropic.list) | [Loon](rule/Loon/Anthropic/Anthropic.list) | [Clash](rule/Clash/Anthropic/Anthropic.yaml) | [Egern](rule/Egern/Anthropic/Anthropic.yaml) |
-| AnTianKeJi | [Surge](rule/Surge/AnTianKeJi/AnTianKeJi.list) | [Loon](rule/Loon/AnTianKeJi/AnTianKeJi.list) | [Clash](rule/Clash/AnTianKeJi/AnTianKeJi.yaml) | [Egern](rule/Egern/AnTianKeJi/AnTianKeJi.yaml) |
-| Antutu | [Surge](rule/Surge/Antutu/Antutu.list) | [Loon](rule/Loon/Antutu/Antutu.list) | [Clash](rule/Clash/Antutu/Antutu.yaml) | [Egern](rule/Egern/Antutu/Antutu.yaml) |
-| AOL | [Surge](rule/Surge/AOL/AOL.list) | [Loon](rule/Loon/AOL/AOL.list) | [Clash](rule/Clash/AOL/AOL.yaml) | [Egern](rule/Egern/AOL/AOL.yaml) |
-| Apifox | [Surge](rule/Surge/Apifox/Apifox.list) | [Loon](rule/Loon/Apifox/Apifox.list) | [Clash](rule/Clash/Apifox/Apifox.yaml) | [Egern](rule/Egern/Apifox/Apifox.yaml) |
-| APKCombo | [Surge](rule/Surge/APKCombo/APKCombo.list) | [Loon](rule/Loon/APKCombo/APKCombo.list) | [Clash](rule/Clash/APKCombo/APKCombo.yaml) | [Egern](rule/Egern/APKCombo/APKCombo.yaml) |
-| Apkpure | [Surge](rule/Surge/Apkpure/Apkpure.list) | [Loon](rule/Loon/Apkpure/Apkpure.list) | [Clash](rule/Clash/Apkpure/Apkpure.yaml) | [Egern](rule/Egern/Apkpure/Apkpure.yaml) |
-| Apple | [Surge](rule/Surge/Apple/Apple.list) | [Loon](rule/Loon/Apple/Apple.list) | [Clash](rule/Clash/Apple/Apple.yaml) | [Egern](rule/Egern/Apple/Apple.yaml) |
-| AppleDaily | [Surge](rule/Surge/AppleDaily/AppleDaily.list) | [Loon](rule/Loon/AppleDaily/AppleDaily.list) | [Clash](rule/Clash/AppleDaily/AppleDaily.yaml) | [Egern](rule/Egern/AppleDaily/AppleDaily.yaml) |
-| AppleDev | [Surge](rule/Surge/AppleDev/AppleDev.list) | [Loon](rule/Loon/AppleDev/AppleDev.list) | [Clash](rule/Clash/AppleDev/AppleDev.yaml) | [Egern](rule/Egern/AppleDev/AppleDev.yaml) |
-| AppleFirmware | [Surge](rule/Surge/AppleFirmware/AppleFirmware.list) | [Loon](rule/Loon/AppleFirmware/AppleFirmware.list) | [Clash](rule/Clash/AppleFirmware/AppleFirmware.yaml) | [Egern](rule/Egern/AppleFirmware/AppleFirmware.yaml) |
-| AppleHardware | [Surge](rule/Surge/AppleHardware/AppleHardware.list) | [Loon](rule/Loon/AppleHardware/AppleHardware.list) | [Clash](rule/Clash/AppleHardware/AppleHardware.yaml) | [Egern](rule/Egern/AppleHardware/AppleHardware.yaml) |
-| AppleID | [Surge](rule/Surge/AppleID/AppleID.list) | [Loon](rule/Loon/AppleID/AppleID.list) | [Clash](rule/Clash/AppleID/AppleID.yaml) | [Egern](rule/Egern/AppleID/AppleID.yaml) |
-| AppleMail | [Surge](rule/Surge/AppleMail/AppleMail.list) | [Loon](rule/Loon/AppleMail/AppleMail.list) | [Clash](rule/Clash/AppleMail/AppleMail.yaml) | [Egern](rule/Egern/AppleMail/AppleMail.yaml) |
-| AppleMedia | [Surge](rule/Surge/AppleMedia/AppleMedia.list) | [Loon](rule/Loon/AppleMedia/AppleMedia.list) | [Clash](rule/Clash/AppleMedia/AppleMedia.yaml) | [Egern](rule/Egern/AppleMedia/AppleMedia.yaml) |
-| AppleMusic | [Surge](rule/Surge/AppleMusic/AppleMusic.list) | [Loon](rule/Loon/AppleMusic/AppleMusic.list) | [Clash](rule/Clash/AppleMusic/AppleMusic.yaml) | [Egern](rule/Egern/AppleMusic/AppleMusic.yaml) |
-| AppleNews | [Surge](rule/Surge/AppleNews/AppleNews.list) | [Loon](rule/Loon/AppleNews/AppleNews.list) | [Clash](rule/Clash/AppleNews/AppleNews.yaml) | [Egern](rule/Egern/AppleNews/AppleNews.yaml) |
-| AppleProxy | [Surge](rule/Surge/AppleProxy/AppleProxy.list) | [Loon](rule/Loon/AppleProxy/AppleProxy.list) | [Clash](rule/Clash/AppleProxy/AppleProxy.yaml) | [Egern](rule/Egern/AppleProxy/AppleProxy.yaml) |
-| AppleTV | [Surge](rule/Surge/AppleTV/AppleTV.list) | [Loon](rule/Loon/AppleTV/AppleTV.list) | [Clash](rule/Clash/AppleTV/AppleTV.yaml) | [Egern](rule/Egern/AppleTV/AppleTV.yaml) |
-| AppLovin | [Surge](rule/Surge/AppLovin/AppLovin.list) | [Loon](rule/Loon/AppLovin/AppLovin.list) | [Clash](rule/Clash/AppLovin/AppLovin.yaml) | [Egern](rule/Egern/AppLovin/AppLovin.yaml) |
-| AppStore | [Surge](rule/Surge/AppStore/AppStore.list) | [Loon](rule/Loon/AppStore/AppStore.list) | [Clash](rule/Clash/AppStore/AppStore.yaml) | [Egern](rule/Egern/AppStore/AppStore.yaml) |
-| Arphic | [Surge](rule/Surge/Arphic/Arphic.list) | [Loon](rule/Loon/Arphic/Arphic.list) | [Clash](rule/Clash/Arphic/Arphic.yaml) | [Egern](rule/Egern/Arphic/Arphic.yaml) |
-| Asahi | [Surge](rule/Surge/Asahi/Asahi.list) | [Loon](rule/Loon/Asahi/Asahi.list) | [Clash](rule/Clash/Asahi/Asahi.yaml) | [Egern](rule/Egern/Asahi/Asahi.yaml) |
-| AsianMedia | [Surge](rule/Surge/AsianMedia/AsianMedia.list) | [Loon](rule/Loon/AsianMedia/AsianMedia.list) | [Clash](rule/Clash/AsianMedia/AsianMedia.yaml) | [Egern](rule/Egern/AsianMedia/AsianMedia.yaml) |
-| Atlassian | [Surge](rule/Surge/Atlassian/Atlassian.list) | [Loon](rule/Loon/Atlassian/Atlassian.list) | [Clash](rule/Clash/Atlassian/Atlassian.yaml) | [Egern](rule/Egern/Atlassian/Atlassian.yaml) |
-| Atomdata | [Surge](rule/Surge/Atomdata/Atomdata.list) | [Loon](rule/Loon/Atomdata/Atomdata.list) | [Clash](rule/Clash/Atomdata/Atomdata.yaml) | [Egern](rule/Egern/Atomdata/Atomdata.yaml) |
-| ATTWatchTV | [Surge](rule/Surge/ATTWatchTV/ATTWatchTV.list) | [Loon](rule/Loon/ATTWatchTV/ATTWatchTV.list) | [Clash](rule/Clash/ATTWatchTV/ATTWatchTV.yaml) | [Egern](rule/Egern/ATTWatchTV/ATTWatchTV.yaml) |
-| Bahamut | [Surge](rule/Surge/Bahamut/Bahamut.list) | [Loon](rule/Loon/Bahamut/Bahamut.list) | [Clash](rule/Clash/Bahamut/Bahamut.yaml) | [Egern](rule/Egern/Bahamut/Bahamut.yaml) |
-| Baidu | [Surge](rule/Surge/Baidu/Baidu.list) | [Loon](rule/Loon/Baidu/Baidu.list) | [Clash](rule/Clash/Baidu/Baidu.yaml) | [Egern](rule/Egern/Baidu/Baidu.yaml) |
-| BaiDuTieBa | [Surge](rule/Surge/BaiDuTieBa/BaiDuTieBa.list) | [Loon](rule/Loon/BaiDuTieBa/BaiDuTieBa.list) | [Clash](rule/Clash/BaiDuTieBa/BaiDuTieBa.yaml) | [Egern](rule/Egern/BaiDuTieBa/BaiDuTieBa.yaml) |
-| BaiFenDian | [Surge](rule/Surge/BaiFenDian/BaiFenDian.list) | [Loon](rule/Loon/BaiFenDian/BaiFenDian.list) | [Clash](rule/Clash/BaiFenDian/BaiFenDian.yaml) | [Egern](rule/Egern/BaiFenDian/BaiFenDian.yaml) |
-| BaiShanYunKeJi | [Surge](rule/Surge/BaiShanYunKeJi/BaiShanYunKeJi.list) | [Loon](rule/Loon/BaiShanYunKeJi/BaiShanYunKeJi.list) | [Clash](rule/Clash/BaiShanYunKeJi/BaiShanYunKeJi.yaml) | [Egern](rule/Egern/BaiShanYunKeJi/BaiShanYunKeJi.yaml) |
-| BaoFengYingYin | [Surge](rule/Surge/BaoFengYingYin/BaoFengYingYin.list) | [Loon](rule/Loon/BaoFengYingYin/BaoFengYingYin.list) | [Clash](rule/Clash/BaoFengYingYin/BaoFengYingYin.yaml) | [Egern](rule/Egern/BaoFengYingYin/BaoFengYingYin.yaml) |
-| BardAI | [Surge](rule/Surge/BardAI/BardAI.list) | [Loon](rule/Loon/BardAI/BardAI.list) | [Clash](rule/Clash/BardAI/BardAI.yaml) | [Egern](rule/Egern/BardAI/BardAI.yaml) |
-| Battle | [Surge](rule/Surge/Battle/Battle.list) | [Loon](rule/Loon/Battle/Battle.list) | [Clash](rule/Clash/Battle/Battle.yaml) | [Egern](rule/Egern/Battle/Battle.yaml) |
-| BBC | [Surge](rule/Surge/BBC/BBC.list) | [Loon](rule/Loon/BBC/BBC.list) | [Clash](rule/Clash/BBC/BBC.yaml) | [Egern](rule/Egern/BBC/BBC.yaml) |
-| Beats | [Surge](rule/Surge/Beats/Beats.list) | [Loon](rule/Loon/Beats/Beats.list) | [Clash](rule/Clash/Beats/Beats.yaml) | [Egern](rule/Egern/Beats/Beats.yaml) |
-| Bestbuy | [Surge](rule/Surge/Bestbuy/Bestbuy.list) | [Loon](rule/Loon/Bestbuy/Bestbuy.list) | [Clash](rule/Clash/Bestbuy/Bestbuy.yaml) | [Egern](rule/Egern/Bestbuy/Bestbuy.yaml) |
-| BeStore | [Surge](rule/Surge/BeStore/BeStore.list) | [Loon](rule/Loon/BeStore/BeStore.list) | [Clash](rule/Clash/BeStore/BeStore.yaml) | [Egern](rule/Egern/BeStore/BeStore.yaml) |
-| BesTV | [Surge](rule/Surge/BesTV/BesTV.list) | [Loon](rule/Loon/BesTV/BesTV.list) | [Clash](rule/Clash/BesTV/BesTV.yaml) | [Egern](rule/Egern/BesTV/BesTV.yaml) |
-| BianFeng | [Surge](rule/Surge/BianFeng/BianFeng.list) | [Loon](rule/Loon/BianFeng/BianFeng.list) | [Clash](rule/Clash/BianFeng/BianFeng.yaml) | [Egern](rule/Egern/BianFeng/BianFeng.yaml) |
-| BiliBili | [Surge](rule/Surge/BiliBili/BiliBili.list) | [Loon](rule/Loon/BiliBili/BiliBili.list) | [Clash](rule/Clash/BiliBili/BiliBili.yaml) | [Egern](rule/Egern/BiliBili/BiliBili.yaml) |
-| BiliBiliIntl | [Surge](rule/Surge/BiliBiliIntl/BiliBiliIntl.list) | [Loon](rule/Loon/BiliBiliIntl/BiliBiliIntl.list) | [Clash](rule/Clash/BiliBiliIntl/BiliBiliIntl.yaml) | [Egern](rule/Egern/BiliBiliIntl/BiliBiliIntl.yaml) |
-| Binance | [Surge](rule/Surge/Binance/Binance.list) | [Loon](rule/Loon/Binance/Binance.list) | [Clash](rule/Clash/Binance/Binance.yaml) | [Egern](rule/Egern/Binance/Binance.yaml) |
-| Bing | [Surge](rule/Surge/Bing/Bing.list) | [Loon](rule/Loon/Bing/Bing.list) | [Clash](rule/Clash/Bing/Bing.yaml) | [Egern](rule/Egern/Bing/Bing.yaml) |
-| Blizzard | [Surge](rule/Surge/Blizzard/Blizzard.list) | [Loon](rule/Loon/Blizzard/Blizzard.list) | [Clash](rule/Clash/Blizzard/Blizzard.yaml) | [Egern](rule/Egern/Blizzard/Blizzard.yaml) |
-| BlockHttpDNS | [Surge](rule/Surge/BlockHttpDNS/BlockHttpDNS.list) | [Loon](rule/Loon/BlockHttpDNS/BlockHttpDNS.list) | [Clash](rule/Clash/BlockHttpDNS/BlockHttpDNS.yaml) | [Egern](rule/Egern/BlockHttpDNS/BlockHttpDNS.yaml) |
-| Bloomberg | [Surge](rule/Surge/Bloomberg/Bloomberg.list) | [Loon](rule/Loon/Bloomberg/Bloomberg.list) | [Clash](rule/Clash/Bloomberg/Bloomberg.yaml) | [Egern](rule/Egern/Bloomberg/Bloomberg.yaml) |
-| Blued | [Surge](rule/Surge/Blued/Blued.list) | [Loon](rule/Loon/Blued/Blued.list) | [Clash](rule/Clash/Blued/Blued.yaml) | [Egern](rule/Egern/Blued/Blued.yaml) |
-| BMW | [Surge](rule/Surge/BMW/BMW.list) | [Loon](rule/Loon/BMW/BMW.list) | [Clash](rule/Clash/BMW/BMW.yaml) | [Egern](rule/Egern/BMW/BMW.yaml) |
-| BOC | [Surge](rule/Surge/BOC/BOC.list) | [Loon](rule/Loon/BOC/BOC.list) | [Clash](rule/Clash/BOC/BOC.yaml) | [Egern](rule/Egern/BOC/BOC.yaml) |
-| BOCOM | [Surge](rule/Surge/BOCOM/BOCOM.list) | [Loon](rule/Loon/BOCOM/BOCOM.list) | [Clash](rule/Clash/BOCOM/BOCOM.yaml) | [Egern](rule/Egern/BOCOM/BOCOM.yaml) |
-| Bootcss | [Surge](rule/Surge/Bootcss/Bootcss.list) | [Loon](rule/Loon/Bootcss/Bootcss.list) | [Clash](rule/Clash/Bootcss/Bootcss.yaml) | [Egern](rule/Egern/Bootcss/Bootcss.yaml) |
-| BoXun | [Surge](rule/Surge/BoXun/BoXun.list) | [Loon](rule/Loon/BoXun/BoXun.list) | [Clash](rule/Clash/BoXun/BoXun.yaml) | [Egern](rule/Egern/BoXun/BoXun.yaml) |
-| BrightCove | [Surge](rule/Surge/BrightCove/BrightCove.list) | [Loon](rule/Loon/BrightCove/BrightCove.list) | [Clash](rule/Clash/BrightCove/BrightCove.yaml) | [Egern](rule/Egern/BrightCove/BrightCove.yaml) |
-| BritboxUK | [Surge](rule/Surge/BritboxUK/BritboxUK.list) | [Loon](rule/Loon/BritboxUK/BritboxUK.list) | [Clash](rule/Clash/BritboxUK/BritboxUK.yaml) | [Egern](rule/Egern/BritboxUK/BritboxUK.yaml) |
-| Buypass | [Surge](rule/Surge/Buypass/Buypass.list) | [Loon](rule/Loon/Buypass/Buypass.list) | [Clash](rule/Clash/Buypass/Buypass.yaml) | [Egern](rule/Egern/Buypass/Buypass.yaml) |
-| ByteDance | [Surge](rule/Surge/ByteDance/ByteDance.list) | [Loon](rule/Loon/ByteDance/ByteDance.list) | [Clash](rule/Clash/ByteDance/ByteDance.yaml) | [Egern](rule/Egern/ByteDance/ByteDance.yaml) |
-| CableTV | [Surge](rule/Surge/CableTV/CableTV.list) | [Loon](rule/Loon/CableTV/CableTV.list) | [Clash](rule/Clash/CableTV/CableTV.yaml) | [Egern](rule/Egern/CableTV/CableTV.yaml) |
-| CaiNiao | [Surge](rule/Surge/CaiNiao/CaiNiao.list) | [Loon](rule/Loon/CaiNiao/CaiNiao.list) | [Clash](rule/Clash/CaiNiao/CaiNiao.yaml) | [Egern](rule/Egern/CaiNiao/CaiNiao.yaml) |
-| CaiXinChuanMei | [Surge](rule/Surge/CaiXinChuanMei/CaiXinChuanMei.list) | [Loon](rule/Loon/CaiXinChuanMei/CaiXinChuanMei.list) | [Clash](rule/Clash/CaiXinChuanMei/CaiXinChuanMei.yaml) | [Egern](rule/Egern/CaiXinChuanMei/CaiXinChuanMei.yaml) |
-| Cake | [Surge](rule/Surge/Cake/Cake.list) | [Loon](rule/Loon/Cake/Cake.list) | [Clash](rule/Clash/Cake/Cake.yaml) | [Egern](rule/Egern/Cake/Cake.yaml) |
-| Camera360 | [Surge](rule/Surge/Camera360/Camera360.list) | [Loon](rule/Loon/Camera360/Camera360.list) | [Clash](rule/Clash/Camera360/Camera360.yaml) | [Egern](rule/Egern/Camera360/Camera360.yaml) |
-| Canon | [Surge](rule/Surge/Canon/Canon.list) | [Loon](rule/Loon/Canon/Canon.list) | [Clash](rule/Clash/Canon/Canon.yaml) | [Egern](rule/Egern/Canon/Canon.yaml) |
-| CAS | [Surge](rule/Surge/CAS/CAS.list) | [Loon](rule/Loon/CAS/CAS.list) | [Clash](rule/Clash/CAS/CAS.yaml) | [Egern](rule/Egern/CAS/CAS.yaml) |
-| CBS | [Surge](rule/Surge/CBS/CBS.list) | [Loon](rule/Loon/CBS/CBS.list) | [Clash](rule/Clash/CBS/CBS.yaml) | [Egern](rule/Egern/CBS/CBS.yaml) |
-| CCB | [Surge](rule/Surge/CCB/CCB.list) | [Loon](rule/Loon/CCB/CCB.list) | [Clash](rule/Clash/CCB/CCB.yaml) | [Egern](rule/Egern/CCB/CCB.yaml) |
-| CCTV | [Surge](rule/Surge/CCTV/CCTV.list) | [Loon](rule/Loon/CCTV/CCTV.list) | [Clash](rule/Clash/CCTV/CCTV.yaml) | [Egern](rule/Egern/CCTV/CCTV.yaml) |
-| CEB | [Surge](rule/Surge/CEB/CEB.list) | [Loon](rule/Loon/CEB/CEB.list) | [Clash](rule/Clash/CEB/CEB.yaml) | [Egern](rule/Egern/CEB/CEB.yaml) |
-| CETV | [Surge](rule/Surge/CETV/CETV.list) | [Loon](rule/Loon/CETV/CETV.list) | [Clash](rule/Clash/CETV/CETV.yaml) | [Egern](rule/Egern/CETV/CETV.yaml) |
-| CGB | [Surge](rule/Surge/CGB/CGB.list) | [Loon](rule/Loon/CGB/CGB.list) | [Clash](rule/Clash/CGB/CGB.yaml) | [Egern](rule/Egern/CGB/CGB.yaml) |
-| ChengTongWangPan | [Surge](rule/Surge/ChengTongWangPan/ChengTongWangPan.list) | [Loon](rule/Loon/ChengTongWangPan/ChengTongWangPan.list) | [Clash](rule/Clash/ChengTongWangPan/ChengTongWangPan.yaml) | [Egern](rule/Egern/ChengTongWangPan/ChengTongWangPan.yaml) |
-| China | [Surge](rule/Surge/China/China.list) | [Loon](rule/Loon/China/China.list) | [Clash](rule/Clash/China/China.yaml) | [Egern](rule/Egern/China/China.yaml) |
-| ChinaASN | [Surge](rule/Surge/ChinaASN/ChinaASN.list) | [Loon](rule/Loon/ChinaASN/ChinaASN.list) | [Clash](rule/Clash/ChinaASN/ChinaASN.yaml) | [Egern](rule/Egern/ChinaASN/ChinaASN.yaml) |
-| ChinaDNS | [Surge](rule/Surge/ChinaDNS/ChinaDNS.list) | [Loon](rule/Loon/ChinaDNS/ChinaDNS.list) | [Clash](rule/Clash/ChinaDNS/ChinaDNS.yaml) | [Egern](rule/Egern/ChinaDNS/ChinaDNS.yaml) |
-| ChinaIPs | [Surge](rule/Surge/ChinaIPs/ChinaIPs.list) | [Loon](rule/Loon/ChinaIPs/ChinaIPs.list) | [Clash](rule/Clash/ChinaIPs/ChinaIPs.yaml) | [Egern](rule/Egern/ChinaIPs/ChinaIPs.yaml) |
-| ChinaIPsBGP | [Surge](rule/Surge/ChinaIPsBGP/ChinaIPsBGP.list) | [Loon](rule/Loon/ChinaIPsBGP/ChinaIPsBGP.list) | [Clash](rule/Clash/ChinaIPsBGP/ChinaIPsBGP.yaml) | [Egern](rule/Egern/ChinaIPsBGP/ChinaIPsBGP.yaml) |
-| ChinaMax | [Surge](rule/Surge/ChinaMax/ChinaMax.list) | [Loon](rule/Loon/ChinaMax/ChinaMax.list) | [Clash](rule/Clash/ChinaMax/ChinaMax.yaml) | [Egern](rule/Egern/ChinaMax/ChinaMax.yaml) |
-| ChinaMaxNoIP | [Surge](rule/Surge/ChinaMaxNoIP/ChinaMaxNoIP.list) | [Loon](rule/Loon/ChinaMaxNoIP/ChinaMaxNoIP.list) | [Clash](rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml) | [Egern](rule/Egern/ChinaMaxNoIP/ChinaMaxNoIP.yaml) |
-| ChinaMaxNoMedia | [Surge](rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list) | [Loon](rule/Loon/ChinaMaxNoMedia/ChinaMaxNoMedia.list) | [Clash](rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.yaml) | [Egern](rule/Egern/ChinaMaxNoMedia/ChinaMaxNoMedia.yaml) |
-| ChinaMedia | [Surge](rule/Surge/ChinaMedia/ChinaMedia.list) | [Loon](rule/Loon/ChinaMedia/ChinaMedia.list) | [Clash](rule/Clash/ChinaMedia/ChinaMedia.yaml) | [Egern](rule/Egern/ChinaMedia/ChinaMedia.yaml) |
-| ChinaMobile | [Surge](rule/Surge/ChinaMobile/ChinaMobile.list) | [Loon](rule/Loon/ChinaMobile/ChinaMobile.list) | [Clash](rule/Clash/ChinaMobile/ChinaMobile.yaml) | [Egern](rule/Egern/ChinaMobile/ChinaMobile.yaml) |
-| ChinaNews | [Surge](rule/Surge/ChinaNews/ChinaNews.list) | [Loon](rule/Loon/ChinaNews/ChinaNews.list) | [Clash](rule/Clash/ChinaNews/ChinaNews.yaml) | [Egern](rule/Egern/ChinaNews/ChinaNews.yaml) |
-| ChinaNoMedia | [Surge](rule/Surge/ChinaNoMedia/ChinaNoMedia.list) | [Loon](rule/Loon/ChinaNoMedia/ChinaNoMedia.list) | [Clash](rule/Clash/ChinaNoMedia/ChinaNoMedia.yaml) | [Egern](rule/Egern/ChinaNoMedia/ChinaNoMedia.yaml) |
-| ChinaTelecom | [Surge](rule/Surge/ChinaTelecom/ChinaTelecom.list) | [Loon](rule/Loon/ChinaTelecom/ChinaTelecom.list) | [Clash](rule/Clash/ChinaTelecom/ChinaTelecom.yaml) | [Egern](rule/Egern/ChinaTelecom/ChinaTelecom.yaml) |
-| ChinaTest | [Surge](rule/Surge/ChinaTest/ChinaTest.list) | [Loon](rule/Loon/ChinaTest/ChinaTest.list) | [Clash](rule/Clash/ChinaTest/ChinaTest.yaml) | [Egern](rule/Egern/ChinaTest/ChinaTest.yaml) |
-| ChinaUnicom | [Surge](rule/Surge/ChinaUnicom/ChinaUnicom.list) | [Loon](rule/Loon/ChinaUnicom/ChinaUnicom.list) | [Clash](rule/Clash/ChinaUnicom/ChinaUnicom.yaml) | [Egern](rule/Egern/ChinaUnicom/ChinaUnicom.yaml) |
-| Chromecast | [Surge](rule/Surge/Chromecast/Chromecast.list) | [Loon](rule/Loon/Chromecast/Chromecast.list) | [Clash](rule/Clash/Chromecast/Chromecast.yaml) | [Egern](rule/Egern/Chromecast/Chromecast.yaml) |
-| CHT | [Surge](rule/Surge/CHT/CHT.list) | [Loon](rule/Loon/CHT/CHT.list) | [Clash](rule/Clash/CHT/CHT.yaml) | [Egern](rule/Egern/CHT/CHT.yaml) |
-| ChuangKeTie | [Surge](rule/Surge/ChuangKeTie/ChuangKeTie.list) | [Loon](rule/Loon/ChuangKeTie/ChuangKeTie.list) | [Clash](rule/Clash/ChuangKeTie/ChuangKeTie.yaml) | [Egern](rule/Egern/ChuangKeTie/ChuangKeTie.yaml) |
-| ChunYou | [Surge](rule/Surge/ChunYou/ChunYou.list) | [Loon](rule/Loon/ChunYou/ChunYou.list) | [Clash](rule/Clash/ChunYou/ChunYou.yaml) | [Egern](rule/Egern/ChunYou/ChunYou.yaml) |
-| CIBN | [Surge](rule/Surge/CIBN/CIBN.list) | [Loon](rule/Loon/CIBN/CIBN.list) | [Clash](rule/Clash/CIBN/CIBN.yaml) | [Egern](rule/Egern/CIBN/CIBN.yaml) |
-| Cisco | [Surge](rule/Surge/Cisco/Cisco.list) | [Loon](rule/Loon/Cisco/Cisco.list) | [Clash](rule/Clash/Cisco/Cisco.yaml) | [Egern](rule/Egern/Cisco/Cisco.yaml) |
-| Civitai | [Surge](rule/Surge/Civitai/Civitai.list) | [Loon](rule/Loon/Civitai/Civitai.list) | [Clash](rule/Clash/Civitai/Civitai.yaml) | [Egern](rule/Egern/Civitai/Civitai.yaml) |
-| CKJR | [Surge](rule/Surge/CKJR/CKJR.list) | [Loon](rule/Loon/CKJR/CKJR.list) | [Clash](rule/Clash/CKJR/CKJR.yaml) | [Egern](rule/Egern/CKJR/CKJR.yaml) |
-| Classic | [Surge](rule/Surge/Classic/Classic.list) | [Loon](rule/Loon/Classic/Classic.list) | [Clash](rule/Clash/Classic/Classic.yaml) | [Egern](rule/Egern/Classic/Classic.yaml) |
-| Claude | [Surge](rule/Surge/Claude/Claude.list) | [Loon](rule/Loon/Claude/Claude.list) | [Clash](rule/Clash/Claude/Claude.yaml) | [Egern](rule/Egern/Claude/Claude.yaml) |
-| Cloudflare | [Surge](rule/Surge/Cloudflare/Cloudflare.list) | [Loon](rule/Loon/Cloudflare/Cloudflare.list) | [Clash](rule/Clash/Cloudflare/Cloudflare.yaml) | [Egern](rule/Egern/Cloudflare/Cloudflare.yaml) |
-| Cloudflarecn | [Surge](rule/Surge/Cloudflarecn/Cloudflarecn.list) | [Loon](rule/Loon/Cloudflarecn/Cloudflarecn.list) | [Clash](rule/Clash/Cloudflarecn/Cloudflarecn.yaml) | [Egern](rule/Egern/Cloudflarecn/Cloudflarecn.yaml) |
-| Clubhouse | [Surge](rule/Surge/Clubhouse/Clubhouse.list) | [Loon](rule/Loon/Clubhouse/Clubhouse.list) | [Clash](rule/Clash/Clubhouse/Clubhouse.yaml) | [Egern](rule/Egern/Clubhouse/Clubhouse.yaml) |
-| ClubhouseIP | [Surge](rule/Surge/ClubhouseIP/ClubhouseIP.list) | [Loon](rule/Loon/ClubhouseIP/ClubhouseIP.list) | [Clash](rule/Clash/ClubhouseIP/ClubhouseIP.yaml) | [Egern](rule/Egern/ClubhouseIP/ClubhouseIP.yaml) |
-| CMB | [Surge](rule/Surge/CMB/CMB.list) | [Loon](rule/Loon/CMB/CMB.list) | [Clash](rule/Clash/CMB/CMB.yaml) | [Egern](rule/Egern/CMB/CMB.yaml) |
-| Cnet | [Surge](rule/Surge/Cnet/Cnet.list) | [Loon](rule/Loon/Cnet/Cnet.list) | [Clash](rule/Clash/Cnet/Cnet.yaml) | [Egern](rule/Egern/Cnet/Cnet.yaml) |
-| CNKI | [Surge](rule/Surge/CNKI/CNKI.list) | [Loon](rule/Loon/CNKI/CNKI.list) | [Clash](rule/Clash/CNKI/CNKI.yaml) | [Egern](rule/Egern/CNKI/CNKI.yaml) |
-| CNN | [Surge](rule/Surge/CNN/CNN.list) | [Loon](rule/Loon/CNN/CNN.list) | [Clash](rule/Clash/CNN/CNN.yaml) | [Egern](rule/Egern/CNN/CNN.yaml) |
-| CNNIC | [Surge](rule/Surge/CNNIC/CNNIC.list) | [Loon](rule/Loon/CNNIC/CNNIC.list) | [Clash](rule/Clash/CNNIC/CNNIC.yaml) | [Egern](rule/Egern/CNNIC/CNNIC.yaml) |
-| Collabora | [Surge](rule/Surge/Collabora/Collabora.list) | [Loon](rule/Loon/Collabora/Collabora.list) | [Clash](rule/Clash/Collabora/Collabora.yaml) | [Egern](rule/Egern/Collabora/Collabora.yaml) |
-| Comodo | [Surge](rule/Surge/Comodo/Comodo.list) | [Loon](rule/Loon/Comodo/Comodo.list) | [Clash](rule/Clash/Comodo/Comodo.yaml) | [Egern](rule/Egern/Comodo/Comodo.yaml) |
-| Contentful | [Surge](rule/Surge/Contentful/Contentful.list) | [Loon](rule/Loon/Contentful/Contentful.list) | [Clash](rule/Clash/Contentful/Contentful.yaml) | [Egern](rule/Egern/Contentful/Contentful.yaml) |
-| Coolapk | [Surge](rule/Surge/Coolapk/Coolapk.list) | [Loon](rule/Loon/Coolapk/Coolapk.list) | [Clash](rule/Clash/Coolapk/Coolapk.yaml) | [Egern](rule/Egern/Coolapk/Coolapk.yaml) |
-| Copilot | [Surge](rule/Surge/Copilot/Copilot.list) | [Loon](rule/Loon/Copilot/Copilot.list) | [Clash](rule/Clash/Copilot/Copilot.yaml) | [Egern](rule/Egern/Copilot/Copilot.yaml) |
-| Crypto | [Surge](rule/Surge/Crypto/Crypto.list) | [Loon](rule/Loon/Crypto/Crypto.list) | [Clash](rule/Clash/Crypto/Crypto.yaml) | [Egern](rule/Egern/Crypto/Crypto.yaml) |
-| Cryptocurrency | [Surge](rule/Surge/Cryptocurrency/Cryptocurrency.list) | [Loon](rule/Loon/Cryptocurrency/Cryptocurrency.list) | [Clash](rule/Clash/Cryptocurrency/Cryptocurrency.yaml) | [Egern](rule/Egern/Cryptocurrency/Cryptocurrency.yaml) |
-| CSDN | [Surge](rule/Surge/CSDN/CSDN.list) | [Loon](rule/Loon/CSDN/CSDN.list) | [Clash](rule/Clash/CSDN/CSDN.yaml) | [Egern](rule/Egern/CSDN/CSDN.yaml) |
-| CWSeed | [Surge](rule/Surge/CWSeed/CWSeed.list) | [Loon](rule/Loon/CWSeed/CWSeed.list) | [Clash](rule/Clash/CWSeed/CWSeed.yaml) | [Egern](rule/Egern/CWSeed/CWSeed.yaml) |
-| CyberTrust | [Surge](rule/Surge/CyberTrust/CyberTrust.list) | [Loon](rule/Loon/CyberTrust/CyberTrust.list) | [Clash](rule/Clash/CyberTrust/CyberTrust.yaml) | [Egern](rule/Egern/CyberTrust/CyberTrust.yaml) |
-| Dailymail | [Surge](rule/Surge/Dailymail/Dailymail.list) | [Loon](rule/Loon/Dailymail/Dailymail.list) | [Clash](rule/Clash/Dailymail/Dailymail.yaml) | [Egern](rule/Egern/Dailymail/Dailymail.yaml) |
-| Dailymotion | [Surge](rule/Surge/Dailymotion/Dailymotion.list) | [Loon](rule/Loon/Dailymotion/Dailymotion.list) | [Clash](rule/Clash/Dailymotion/Dailymotion.yaml) | [Egern](rule/Egern/Dailymotion/Dailymotion.yaml) |
-| DaMai | [Surge](rule/Surge/DaMai/DaMai.list) | [Loon](rule/Loon/DaMai/DaMai.list) | [Clash](rule/Clash/DaMai/DaMai.yaml) | [Egern](rule/Egern/DaMai/DaMai.yaml) |
-| Dandanplay | [Surge](rule/Surge/Dandanplay/Dandanplay.list) | [Loon](rule/Loon/Dandanplay/Dandanplay.list) | [Clash](rule/Clash/Dandanplay/Dandanplay.yaml) | [Egern](rule/Egern/Dandanplay/Dandanplay.yaml) |
-| DanDanZan | [Surge](rule/Surge/DanDanZan/DanDanZan.list) | [Loon](rule/Loon/DanDanZan/DanDanZan.list) | [Clash](rule/Clash/DanDanZan/DanDanZan.yaml) | [Egern](rule/Egern/DanDanZan/DanDanZan.yaml) |
-| DangDang | [Surge](rule/Surge/DangDang/DangDang.list) | [Loon](rule/Loon/DangDang/DangDang.list) | [Clash](rule/Clash/DangDang/DangDang.yaml) | [Egern](rule/Egern/DangDang/DangDang.yaml) |
-| DAZN | [Surge](rule/Surge/DAZN/DAZN.list) | [Loon](rule/Loon/DAZN/DAZN.list) | [Clash](rule/Clash/DAZN/DAZN.yaml) | [Egern](rule/Egern/DAZN/DAZN.yaml) |
-| Dedao | [Surge](rule/Surge/Dedao/Dedao.list) | [Loon](rule/Loon/Dedao/Dedao.list) | [Clash](rule/Clash/Dedao/Dedao.yaml) | [Egern](rule/Egern/Dedao/Dedao.yaml) |
-| Deepin | [Surge](rule/Surge/Deepin/Deepin.list) | [Loon](rule/Loon/Deepin/Deepin.list) | [Clash](rule/Clash/Deepin/Deepin.yaml) | [Egern](rule/Egern/Deepin/Deepin.yaml) |
-| Deezer | [Surge](rule/Surge/Deezer/Deezer.list) | [Loon](rule/Loon/Deezer/Deezer.list) | [Clash](rule/Clash/Deezer/Deezer.yaml) | [Egern](rule/Egern/Deezer/Deezer.yaml) |
-| Dell | [Surge](rule/Surge/Dell/Dell.list) | [Loon](rule/Loon/Dell/Dell.list) | [Clash](rule/Clash/Dell/Dell.yaml) | [Egern](rule/Egern/Dell/Dell.yaml) |
-| Developer | [Surge](rule/Surge/Developer/Developer.list) | [Loon](rule/Loon/Developer/Developer.list) | [Clash](rule/Clash/Developer/Developer.yaml) | [Egern](rule/Egern/Developer/Developer.yaml) |
-| DiabloIII | [Surge](rule/Surge/DiabloIII/DiabloIII.list) | [Loon](rule/Loon/DiabloIII/DiabloIII.list) | [Clash](rule/Clash/DiabloIII/DiabloIII.yaml) | [Egern](rule/Egern/DiabloIII/DiabloIII.yaml) |
-| DianCeWangKe | [Surge](rule/Surge/DianCeWangKe/DianCeWangKe.list) | [Loon](rule/Loon/DianCeWangKe/DianCeWangKe.list) | [Clash](rule/Clash/DianCeWangKe/DianCeWangKe.yaml) | [Egern](rule/Egern/DianCeWangKe/DianCeWangKe.yaml) |
-| DiDi | [Surge](rule/Surge/DiDi/DiDi.list) | [Loon](rule/Loon/DiDi/DiDi.list) | [Clash](rule/Clash/DiDi/DiDi.yaml) | [Egern](rule/Egern/DiDi/DiDi.yaml) |
-| DigiCert | [Surge](rule/Surge/DigiCert/DigiCert.list) | [Loon](rule/Loon/DigiCert/DigiCert.list) | [Clash](rule/Clash/DigiCert/DigiCert.yaml) | [Egern](rule/Egern/DigiCert/DigiCert.yaml) |
-| DigitalOcean | [Surge](rule/Surge/DigitalOcean/DigitalOcean.list) | [Loon](rule/Loon/DigitalOcean/DigitalOcean.list) | [Clash](rule/Clash/DigitalOcean/DigitalOcean.yaml) | [Egern](rule/Egern/DigitalOcean/DigitalOcean.yaml) |
-| DiLianWangLuo | [Surge](rule/Surge/DiLianWangLuo/DiLianWangLuo.list) | [Loon](rule/Loon/DiLianWangLuo/DiLianWangLuo.list) | [Clash](rule/Clash/DiLianWangLuo/DiLianWangLuo.yaml) | [Egern](rule/Egern/DiLianWangLuo/DiLianWangLuo.yaml) |
-| DingTalk | [Surge](rule/Surge/DingTalk/DingTalk.list) | [Loon](rule/Loon/DingTalk/DingTalk.list) | [Clash](rule/Clash/DingTalk/DingTalk.yaml) | [Egern](rule/Egern/DingTalk/DingTalk.yaml) |
-| DingXiangYuan | [Surge](rule/Surge/DingXiangYuan/DingXiangYuan.list) | [Loon](rule/Loon/DingXiangYuan/DingXiangYuan.list) | [Clash](rule/Clash/DingXiangYuan/DingXiangYuan.yaml) | [Egern](rule/Egern/DingXiangYuan/DingXiangYuan.yaml) |
-| Direct | [Surge](rule/Surge/Direct/Direct.list) | [Loon](rule/Loon/Direct/Direct.list) | [Clash](rule/Clash/Direct/Direct.yaml) | [Egern](rule/Egern/Direct/Direct.yaml) |
-| Discord | [Surge](rule/Surge/Discord/Discord.list) | [Loon](rule/Loon/Discord/Discord.list) | [Clash](rule/Clash/Discord/Discord.yaml) | [Egern](rule/Egern/Discord/Discord.yaml) |
-| DiscoveryPlus | [Surge](rule/Surge/DiscoveryPlus/DiscoveryPlus.list) | [Loon](rule/Loon/DiscoveryPlus/DiscoveryPlus.list) | [Clash](rule/Clash/DiscoveryPlus/DiscoveryPlus.yaml) | [Egern](rule/Egern/DiscoveryPlus/DiscoveryPlus.yaml) |
-| DiSiFanShi | [Surge](rule/Surge/DiSiFanShi/DiSiFanShi.list) | [Loon](rule/Loon/DiSiFanShi/DiSiFanShi.list) | [Clash](rule/Clash/DiSiFanShi/DiSiFanShi.yaml) | [Egern](rule/Egern/DiSiFanShi/DiSiFanShi.yaml) |
-| Disney | [Surge](rule/Surge/Disney/Disney.list) | [Loon](rule/Loon/Disney/Disney.list) | [Clash](rule/Clash/Disney/Disney.yaml) | [Egern](rule/Egern/Disney/Disney.yaml) |
-| Disqus | [Surge](rule/Surge/Disqus/Disqus.list) | [Loon](rule/Loon/Disqus/Disqus.list) | [Clash](rule/Clash/Disqus/Disqus.yaml) | [Egern](rule/Egern/Disqus/Disqus.yaml) |
-| DMM | [Surge](rule/Surge/DMM/DMM.list) | [Loon](rule/Loon/DMM/DMM.list) | [Clash](rule/Clash/DMM/DMM.yaml) | [Egern](rule/Egern/DMM/DMM.yaml) |
-| DNS | [Surge](rule/Surge/DNS/DNS.list) | [Loon](rule/Loon/DNS/DNS.list) | [Clash](rule/Clash/DNS/DNS.yaml) | [Egern](rule/Egern/DNS/DNS.yaml) |
-| Docker | [Surge](rule/Surge/Docker/Docker.list) | [Loon](rule/Loon/Docker/Docker.list) | [Clash](rule/Clash/Docker/Docker.yaml) | [Egern](rule/Egern/Docker/Docker.yaml) |
-| Domob | [Surge](rule/Surge/Domob/Domob.list) | [Loon](rule/Loon/Domob/Domob.list) | [Clash](rule/Clash/Domob/Domob.yaml) | [Egern](rule/Egern/Domob/Domob.yaml) |
-| Dood | [Surge](rule/Surge/Dood/Dood.list) | [Loon](rule/Loon/Dood/Dood.list) | [Clash](rule/Clash/Dood/Dood.yaml) | [Egern](rule/Egern/Dood/Dood.yaml) |
-| DouBan | [Surge](rule/Surge/DouBan/DouBan.list) | [Loon](rule/Loon/DouBan/DouBan.list) | [Clash](rule/Clash/DouBan/DouBan.yaml) | [Egern](rule/Egern/DouBan/DouBan.yaml) |
-| DouYin | [Surge](rule/Surge/DouYin/DouYin.list) | [Loon](rule/Loon/DouYin/DouYin.list) | [Clash](rule/Clash/DouYin/DouYin.yaml) | [Egern](rule/Egern/DouYin/DouYin.yaml) |
-| Douyu | [Surge](rule/Surge/Douyu/Douyu.list) | [Loon](rule/Loon/Douyu/Douyu.list) | [Clash](rule/Clash/Douyu/Douyu.yaml) | [Egern](rule/Egern/Douyu/Douyu.yaml) |
-| Download | [Surge](rule/Surge/Download/Download.list) | [Loon](rule/Loon/Download/Download.list) | [Clash](rule/Clash/Download/Download.yaml) | [Egern](rule/Egern/Download/Download.yaml) |
-| Dropbox | [Surge](rule/Surge/Dropbox/Dropbox.list) | [Loon](rule/Loon/Dropbox/Dropbox.list) | [Clash](rule/Clash/Dropbox/Dropbox.yaml) | [Egern](rule/Egern/Dropbox/Dropbox.yaml) |
-| DtDNS | [Surge](rule/Surge/DtDNS/DtDNS.list) | [Loon](rule/Loon/DtDNS/DtDNS.list) | [Clash](rule/Clash/DtDNS/DtDNS.yaml) | [Egern](rule/Egern/DtDNS/DtDNS.yaml) |
-| Dubox | [Surge](rule/Surge/Dubox/Dubox.list) | [Loon](rule/Loon/Dubox/Dubox.list) | [Clash](rule/Clash/Dubox/Dubox.yaml) | [Egern](rule/Egern/Dubox/Dubox.yaml) |
-| Duckduckgo | [Surge](rule/Surge/Duckduckgo/Duckduckgo.list) | [Loon](rule/Loon/Duckduckgo/Duckduckgo.list) | [Clash](rule/Clash/Duckduckgo/Duckduckgo.yaml) | [Egern](rule/Egern/Duckduckgo/Duckduckgo.yaml) |
-| Duolingo | [Surge](rule/Surge/Duolingo/Duolingo.list) | [Loon](rule/Loon/Duolingo/Duolingo.list) | [Clash](rule/Clash/Duolingo/Duolingo.yaml) | [Egern](rule/Egern/Duolingo/Duolingo.yaml) |
-| DuoWan | [Surge](rule/Surge/DuoWan/DuoWan.list) | [Loon](rule/Loon/DuoWan/DuoWan.list) | [Clash](rule/Clash/DuoWan/DuoWan.yaml) | [Egern](rule/Egern/DuoWan/DuoWan.yaml) |
-| DynDNS | [Surge](rule/Surge/DynDNS/DynDNS.list) | [Loon](rule/Loon/DynDNS/DynDNS.list) | [Clash](rule/Clash/DynDNS/DynDNS.yaml) | [Egern](rule/Egern/DynDNS/DynDNS.yaml) |
-| Dynu | [Surge](rule/Surge/Dynu/Dynu.list) | [Loon](rule/Loon/Dynu/Dynu.list) | [Clash](rule/Clash/Dynu/Dynu.yaml) | [Egern](rule/Egern/Dynu/Dynu.yaml) |
-| EA | [Surge](rule/Surge/EA/EA.list) | [Loon](rule/Loon/EA/EA.list) | [Clash](rule/Clash/EA/EA.yaml) | [Egern](rule/Egern/EA/EA.yaml) |
-| EastMoney | [Surge](rule/Surge/EastMoney/EastMoney.list) | [Loon](rule/Loon/EastMoney/EastMoney.list) | [Clash](rule/Clash/EastMoney/EastMoney.yaml) | [Egern](rule/Egern/EastMoney/EastMoney.yaml) |
-| eBay | [Surge](rule/Surge/eBay/eBay.list) | [Loon](rule/Loon/eBay/eBay.list) | [Clash](rule/Clash/eBay/eBay.yaml) | [Egern](rule/Egern/eBay/eBay.yaml) |
-| EHGallery | [Surge](rule/Surge/EHGallery/EHGallery.list) | [Loon](rule/Loon/EHGallery/EHGallery.list) | [Clash](rule/Clash/EHGallery/EHGallery.yaml) | [Egern](rule/Egern/EHGallery/EHGallery.yaml) |
-| Electron | [Surge](rule/Surge/Electron/Electron.list) | [Loon](rule/Loon/Electron/Electron.list) | [Clash](rule/Clash/Electron/Electron.yaml) | [Egern](rule/Egern/Electron/Electron.yaml) |
-| Eleme | [Surge](rule/Surge/Eleme/Eleme.list) | [Loon](rule/Loon/Eleme/Eleme.list) | [Clash](rule/Clash/Eleme/Eleme.yaml) | [Egern](rule/Egern/Eleme/Eleme.yaml) |
-| Embl | [Surge](rule/Surge/Embl/Embl.list) | [Loon](rule/Loon/Embl/Embl.list) | [Clash](rule/Clash/Embl/Embl.yaml) | [Egern](rule/Egern/Embl/Embl.yaml) |
-| Emby | [Surge](rule/Surge/Emby/Emby.list) | [Loon](rule/Loon/Emby/Emby.list) | [Clash](rule/Clash/Emby/Emby.yaml) | [Egern](rule/Egern/Emby/Emby.yaml) |
-| Emojipedia | [Surge](rule/Surge/Emojipedia/Emojipedia.list) | [Loon](rule/Loon/Emojipedia/Emojipedia.list) | [Clash](rule/Clash/Emojipedia/Emojipedia.yaml) | [Egern](rule/Egern/Emojipedia/Emojipedia.yaml) |
-| EncoreTVB | [Surge](rule/Surge/EncoreTVB/EncoreTVB.list) | [Loon](rule/Loon/EncoreTVB/EncoreTVB.list) | [Clash](rule/Clash/EncoreTVB/EncoreTVB.yaml) | [Egern](rule/Egern/EncoreTVB/EncoreTVB.yaml) |
-| Entrust | [Surge](rule/Surge/Entrust/Entrust.list) | [Loon](rule/Loon/Entrust/Entrust.list) | [Clash](rule/Clash/Entrust/Entrust.yaml) | [Egern](rule/Egern/Entrust/Entrust.yaml) |
-| Epic | [Surge](rule/Surge/Epic/Epic.list) | [Loon](rule/Loon/Epic/Epic.list) | [Clash](rule/Clash/Epic/Epic.yaml) | [Egern](rule/Egern/Epic/Epic.yaml) |
-| Espn | [Surge](rule/Surge/Espn/Espn.list) | [Loon](rule/Loon/Espn/Espn.list) | [Clash](rule/Clash/Espn/Espn.yaml) | [Egern](rule/Egern/Espn/Espn.yaml) |
-| Facebook | [Surge](rule/Surge/Facebook/Facebook.list) | [Loon](rule/Loon/Facebook/Facebook.list) | [Clash](rule/Clash/Facebook/Facebook.yaml) | [Egern](rule/Egern/Facebook/Facebook.yaml) |
-| FanFou | [Surge](rule/Surge/FanFou/FanFou.list) | [Loon](rule/Loon/FanFou/FanFou.list) | [Clash](rule/Clash/FanFou/FanFou.yaml) | [Egern](rule/Egern/FanFou/FanFou.yaml) |
-| FangZhengDianZi | [Surge](rule/Surge/FangZhengDianZi/FangZhengDianZi.list) | [Loon](rule/Loon/FangZhengDianZi/FangZhengDianZi.list) | [Clash](rule/Clash/FangZhengDianZi/FangZhengDianZi.yaml) | [Egern](rule/Egern/FangZhengDianZi/FangZhengDianZi.yaml) |
-| Faronics | [Surge](rule/Surge/Faronics/Faronics.list) | [Loon](rule/Loon/Faronics/Faronics.list) | [Clash](rule/Clash/Faronics/Faronics.yaml) | [Egern](rule/Egern/Faronics/Faronics.yaml) |
-| FeiZhu | [Surge](rule/Surge/FeiZhu/FeiZhu.list) | [Loon](rule/Loon/FeiZhu/FeiZhu.list) | [Clash](rule/Clash/FeiZhu/FeiZhu.yaml) | [Egern](rule/Egern/FeiZhu/FeiZhu.yaml) |
-| FengHuangWang | [Surge](rule/Surge/FengHuangWang/FengHuangWang.list) | [Loon](rule/Loon/FengHuangWang/FengHuangWang.list) | [Clash](rule/Clash/FengHuangWang/FengHuangWang.yaml) | [Egern](rule/Egern/FengHuangWang/FengHuangWang.yaml) |
-| FengXiaWangLuo | [Surge](rule/Surge/FengXiaWangLuo/FengXiaWangLuo.list) | [Loon](rule/Loon/FengXiaWangLuo/FengXiaWangLuo.list) | [Clash](rule/Clash/FengXiaWangLuo/FengXiaWangLuo.yaml) | [Egern](rule/Egern/FengXiaWangLuo/FengXiaWangLuo.yaml) |
-| Figma | [Surge](rule/Surge/Figma/Figma.list) | [Loon](rule/Loon/Figma/Figma.list) | [Clash](rule/Clash/Figma/Figma.yaml) | [Egern](rule/Egern/Figma/Figma.yaml) |
-| Fiio | [Surge](rule/Surge/Fiio/Fiio.list) | [Loon](rule/Loon/Fiio/Fiio.list) | [Clash](rule/Clash/Fiio/Fiio.yaml) | [Egern](rule/Egern/Fiio/Fiio.yaml) |
-| FindMy | [Surge](rule/Surge/FindMy/FindMy.list) | [Loon](rule/Loon/FindMy/FindMy.list) | [Clash](rule/Clash/FindMy/FindMy.yaml) | [Egern](rule/Egern/FindMy/FindMy.yaml) |
-| FitnessPlus | [Surge](rule/Surge/FitnessPlus/FitnessPlus.list) | [Loon](rule/Loon/FitnessPlus/FitnessPlus.list) | [Clash](rule/Clash/FitnessPlus/FitnessPlus.yaml) | [Egern](rule/Egern/FitnessPlus/FitnessPlus.yaml) |
-| FlipBoard | [Surge](rule/Surge/FlipBoard/FlipBoard.list) | [Loon](rule/Loon/FlipBoard/FlipBoard.list) | [Clash](rule/Clash/FlipBoard/FlipBoard.yaml) | [Egern](rule/Egern/FlipBoard/FlipBoard.yaml) |
-| Flurry | [Surge](rule/Surge/Flurry/Flurry.list) | [Loon](rule/Loon/Flurry/Flurry.list) | [Clash](rule/Clash/Flurry/Flurry.yaml) | [Egern](rule/Egern/Flurry/Flurry.yaml) |
-| Fox | [Surge](rule/Surge/Fox/Fox.list) | [Loon](rule/Loon/Fox/Fox.list) | [Clash](rule/Clash/Fox/Fox.yaml) | [Egern](rule/Egern/Fox/Fox.yaml) |
-| FOXNOW | [Surge](rule/Surge/FOXNOW/FOXNOW.list) | [Loon](rule/Loon/FOXNOW/FOXNOW.list) | [Clash](rule/Clash/FOXNOW/FOXNOW.yaml) | [Egern](rule/Egern/FOXNOW/FOXNOW.yaml) |
-| FOXPlus | [Surge](rule/Surge/FOXPlus/FOXPlus.list) | [Loon](rule/Loon/FOXPlus/FOXPlus.list) | [Clash](rule/Clash/FOXPlus/FOXPlus.yaml) | [Egern](rule/Egern/FOXPlus/FOXPlus.yaml) |
-| FreeCodeCamp | [Surge](rule/Surge/FreeCodeCamp/FreeCodeCamp.list) | [Loon](rule/Loon/FreeCodeCamp/FreeCodeCamp.list) | [Clash](rule/Clash/FreeCodeCamp/FreeCodeCamp.yaml) | [Egern](rule/Egern/FreeCodeCamp/FreeCodeCamp.yaml) |
-| friDay | [Surge](rule/Surge/friDay/friDay.list) | [Loon](rule/Loon/friDay/friDay.list) | [Clash](rule/Clash/friDay/friDay.yaml) | [Egern](rule/Egern/friDay/friDay.yaml) |
-| FuboTV | [Surge](rule/Surge/FuboTV/FuboTV.list) | [Loon](rule/Loon/FuboTV/FuboTV.list) | [Clash](rule/Clash/FuboTV/FuboTV.yaml) | [Egern](rule/Egern/FuboTV/FuboTV.yaml) |
-| Funshion | [Surge](rule/Surge/Funshion/Funshion.list) | [Loon](rule/Loon/Funshion/Funshion.list) | [Clash](rule/Clash/Funshion/Funshion.yaml) | [Egern](rule/Egern/Funshion/Funshion.yaml) |
-| Game | [Surge](rule/Surge/Game/Game.list) | [Loon](rule/Loon/Game/Game.list) | [Clash](rule/Clash/Game/Game.yaml) | [Egern](rule/Egern/Game/Game.yaml) |
-| GamePlatforms | [Surge](rule/Surge/GamePlatforms/GamePlatforms.list) | [Loon](rule/Loon/GamePlatforms/GamePlatforms.list) | [Clash](rule/Clash/GamePlatforms/GamePlatforms.yaml) | [Egern](rule/Egern/GamePlatforms/GamePlatforms.yaml) |
-| GaoDe | [Surge](rule/Surge/GaoDe/GaoDe.list) | [Loon](rule/Loon/GaoDe/GaoDe.list) | [Clash](rule/Clash/GaoDe/GaoDe.yaml) | [Egern](rule/Egern/GaoDe/GaoDe.yaml) |
-| Garena | [Surge](rule/Surge/Garena/Garena.list) | [Loon](rule/Loon/Garena/Garena.list) | [Clash](rule/Clash/Garena/Garena.yaml) | [Egern](rule/Egern/Garena/Garena.yaml) |
-| Geely | [Surge](rule/Surge/Geely/Geely.list) | [Loon](rule/Loon/Geely/Geely.list) | [Clash](rule/Clash/Geely/Geely.yaml) | [Egern](rule/Egern/Geely/Geely.yaml) |
-| Gemini | [Surge](rule/Surge/Gemini/Gemini.list) | [Loon](rule/Loon/Gemini/Gemini.list) | [Clash](rule/Clash/Gemini/Gemini.yaml) | [Egern](rule/Egern/Gemini/Gemini.yaml) |
-| Gettyimages | [Surge](rule/Surge/Gettyimages/Gettyimages.list) | [Loon](rule/Loon/Gettyimages/Gettyimages.list) | [Clash](rule/Clash/Gettyimages/Gettyimages.yaml) | [Egern](rule/Egern/Gettyimages/Gettyimages.yaml) |
-| Gigabyte | [Surge](rule/Surge/Gigabyte/Gigabyte.list) | [Loon](rule/Loon/Gigabyte/Gigabyte.list) | [Clash](rule/Clash/Gigabyte/Gigabyte.yaml) | [Egern](rule/Egern/Gigabyte/Gigabyte.yaml) |
-| GitBook | [Surge](rule/Surge/GitBook/GitBook.list) | [Loon](rule/Loon/GitBook/GitBook.list) | [Clash](rule/Clash/GitBook/GitBook.yaml) | [Egern](rule/Egern/GitBook/GitBook.yaml) |
-| Gitee | [Surge](rule/Surge/Gitee/Gitee.list) | [Loon](rule/Loon/Gitee/Gitee.list) | [Clash](rule/Clash/Gitee/Gitee.yaml) | [Egern](rule/Egern/Gitee/Gitee.yaml) |
-| GitHub | [Surge](rule/Surge/GitHub/GitHub.list) | [Loon](rule/Loon/GitHub/GitHub.list) | [Clash](rule/Clash/GitHub/GitHub.yaml) | [Egern](rule/Egern/GitHub/GitHub.yaml) |
-| GitLab | [Surge](rule/Surge/GitLab/GitLab.list) | [Loon](rule/Loon/GitLab/GitLab.list) | [Clash](rule/Clash/GitLab/GitLab.yaml) | [Egern](rule/Egern/GitLab/GitLab.yaml) |
-| Global | [Surge](rule/Surge/Global/Global.list) | [Loon](rule/Loon/Global/Global.list) | [Clash](rule/Clash/Global/Global.yaml) | [Egern](rule/Egern/Global/Global.yaml) |
-| GlobalMedia | [Surge](rule/Surge/GlobalMedia/GlobalMedia.list) | [Loon](rule/Loon/GlobalMedia/GlobalMedia.list) | [Clash](rule/Clash/GlobalMedia/GlobalMedia.yaml) | [Egern](rule/Egern/GlobalMedia/GlobalMedia.yaml) |
-| GlobalScholar | [Surge](rule/Surge/GlobalScholar/GlobalScholar.list) | [Loon](rule/Loon/GlobalScholar/GlobalScholar.list) | [Clash](rule/Clash/GlobalScholar/GlobalScholar.yaml) | [Egern](rule/Egern/GlobalScholar/GlobalScholar.yaml) |
-| GlobalSign | [Surge](rule/Surge/GlobalSign/GlobalSign.list) | [Loon](rule/Loon/GlobalSign/GlobalSign.list) | [Clash](rule/Clash/GlobalSign/GlobalSign.yaml) | [Egern](rule/Egern/GlobalSign/GlobalSign.yaml) |
-| Gog | [Surge](rule/Surge/Gog/Gog.list) | [Loon](rule/Loon/Gog/Gog.list) | [Clash](rule/Clash/Gog/Gog.yaml) | [Egern](rule/Egern/Gog/Gog.yaml) |
-| Google | [Surge](rule/Surge/Google/Google.list) | [Loon](rule/Loon/Google/Google.list) | [Clash](rule/Clash/Google/Google.yaml) | [Egern](rule/Egern/Google/Google.yaml) |
-| GoogleDrive | [Surge](rule/Surge/GoogleDrive/GoogleDrive.list) | [Loon](rule/Loon/GoogleDrive/GoogleDrive.list) | [Clash](rule/Clash/GoogleDrive/GoogleDrive.yaml) | [Egern](rule/Egern/GoogleDrive/GoogleDrive.yaml) |
-| GoogleEarth | [Surge](rule/Surge/GoogleEarth/GoogleEarth.list) | [Loon](rule/Loon/GoogleEarth/GoogleEarth.list) | [Clash](rule/Clash/GoogleEarth/GoogleEarth.yaml) | [Egern](rule/Egern/GoogleEarth/GoogleEarth.yaml) |
-| GoogleFCM | [Surge](rule/Surge/GoogleFCM/GoogleFCM.list) | [Loon](rule/Loon/GoogleFCM/GoogleFCM.list) | [Clash](rule/Clash/GoogleFCM/GoogleFCM.yaml) | [Egern](rule/Egern/GoogleFCM/GoogleFCM.yaml) |
-| GoogleSearch | [Surge](rule/Surge/GoogleSearch/GoogleSearch.list) | [Loon](rule/Loon/GoogleSearch/GoogleSearch.list) | [Clash](rule/Clash/GoogleSearch/GoogleSearch.yaml) | [Egern](rule/Egern/GoogleSearch/GoogleSearch.yaml) |
-| GoogleVoice | [Surge](rule/Surge/GoogleVoice/GoogleVoice.list) | [Loon](rule/Loon/GoogleVoice/GoogleVoice.list) | [Clash](rule/Clash/GoogleVoice/GoogleVoice.yaml) | [Egern](rule/Egern/GoogleVoice/GoogleVoice.yaml) |
-| GovCN | [Surge](rule/Surge/GovCN/GovCN.list) | [Loon](rule/Loon/GovCN/GovCN.list) | [Clash](rule/Clash/GovCN/GovCN.yaml) | [Egern](rule/Egern/GovCN/GovCN.yaml) |
-| Gucci | [Surge](rule/Surge/Gucci/Gucci.list) | [Loon](rule/Loon/Gucci/Gucci.list) | [Clash](rule/Clash/Gucci/Gucci.yaml) | [Egern](rule/Egern/Gucci/Gucci.yaml) |
-| GuiGuDongLi | [Surge](rule/Surge/GuiGuDongLi/GuiGuDongLi.list) | [Loon](rule/Loon/GuiGuDongLi/GuiGuDongLi.list) | [Clash](rule/Clash/GuiGuDongLi/GuiGuDongLi.yaml) | [Egern](rule/Egern/GuiGuDongLi/GuiGuDongLi.yaml) |
-| HaiNanHangKong | [Surge](rule/Surge/HaiNanHangKong/HaiNanHangKong.list) | [Loon](rule/Loon/HaiNanHangKong/HaiNanHangKong.list) | [Clash](rule/Clash/HaiNanHangKong/HaiNanHangKong.yaml) | [Egern](rule/Egern/HaiNanHangKong/HaiNanHangKong.yaml) |
-| HamiVideo | [Surge](rule/Surge/HamiVideo/HamiVideo.list) | [Loon](rule/Loon/HamiVideo/HamiVideo.list) | [Clash](rule/Clash/HamiVideo/HamiVideo.yaml) | [Egern](rule/Egern/HamiVideo/HamiVideo.yaml) |
-| HanYi | [Surge](rule/Surge/HanYi/HanYi.list) | [Loon](rule/Loon/HanYi/HanYi.list) | [Clash](rule/Clash/HanYi/HanYi.yaml) | [Egern](rule/Egern/HanYi/HanYi.yaml) |
-| HashiCorp | [Surge](rule/Surge/HashiCorp/HashiCorp.list) | [Loon](rule/Loon/HashiCorp/HashiCorp.list) | [Clash](rule/Clash/HashiCorp/HashiCorp.yaml) | [Egern](rule/Egern/HashiCorp/HashiCorp.yaml) |
-| Haveibeenpwned | [Surge](rule/Surge/Haveibeenpwned/Haveibeenpwned.list) | [Loon](rule/Loon/Haveibeenpwned/Haveibeenpwned.list) | [Clash](rule/Clash/Haveibeenpwned/Haveibeenpwned.yaml) | [Egern](rule/Egern/Haveibeenpwned/Haveibeenpwned.yaml) |
-| HBO | [Surge](rule/Surge/HBO/HBO.list) | [Loon](rule/Loon/HBO/HBO.list) | [Clash](rule/Clash/HBO/HBO.yaml) | [Egern](rule/Egern/HBO/HBO.yaml) |
-| HBOAsia | [Surge](rule/Surge/HBOAsia/HBOAsia.list) | [Loon](rule/Loon/HBOAsia/HBOAsia.list) | [Clash](rule/Clash/HBOAsia/HBOAsia.yaml) | [Egern](rule/Egern/HBOAsia/HBOAsia.yaml) |
-| HBOHK | [Surge](rule/Surge/HBOHK/HBOHK.list) | [Loon](rule/Loon/HBOHK/HBOHK.list) | [Clash](rule/Clash/HBOHK/HBOHK.yaml) | [Egern](rule/Egern/HBOHK/HBOHK.yaml) |
-| HBOUSA | [Surge](rule/Surge/HBOUSA/HBOUSA.list) | [Loon](rule/Loon/HBOUSA/HBOUSA.list) | [Clash](rule/Clash/HBOUSA/HBOUSA.yaml) | [Egern](rule/Egern/HBOUSA/HBOUSA.yaml) |
-| Hearthstone | [Surge](rule/Surge/Hearthstone/Hearthstone.list) | [Loon](rule/Loon/Hearthstone/Hearthstone.list) | [Clash](rule/Clash/Hearthstone/Hearthstone.yaml) | [Egern](rule/Egern/Hearthstone/Hearthstone.yaml) |
-| HeMa | [Surge](rule/Surge/HeMa/HeMa.list) | [Loon](rule/Loon/HeMa/HeMa.list) | [Clash](rule/Clash/HeMa/HeMa.yaml) | [Egern](rule/Egern/HeMa/HeMa.yaml) |
-| HeroesoftheStorm | [Surge](rule/Surge/HeroesoftheStorm/HeroesoftheStorm.list) | [Loon](rule/Loon/HeroesoftheStorm/HeroesoftheStorm.list) | [Clash](rule/Clash/HeroesoftheStorm/HeroesoftheStorm.yaml) | [Egern](rule/Egern/HeroesoftheStorm/HeroesoftheStorm.yaml) |
-| Heroku | [Surge](rule/Surge/Heroku/Heroku.list) | [Loon](rule/Loon/Heroku/Heroku.list) | [Clash](rule/Clash/Heroku/Heroku.yaml) | [Egern](rule/Egern/Heroku/Heroku.yaml) |
-| HibyMusic | [Surge](rule/Surge/HibyMusic/HibyMusic.list) | [Loon](rule/Loon/HibyMusic/HibyMusic.list) | [Clash](rule/Clash/HibyMusic/HibyMusic.yaml) | [Egern](rule/Egern/HibyMusic/HibyMusic.yaml) |
-| Hijacking | [Surge](rule/Surge/Hijacking/Hijacking.list) | [Loon](rule/Loon/Hijacking/Hijacking.list) | [Clash](rule/Clash/Hijacking/Hijacking.yaml) | [Egern](rule/Egern/Hijacking/Hijacking.yaml) |
-| Himalaya | [Surge](rule/Surge/Himalaya/Himalaya.list) | [Loon](rule/Loon/Himalaya/Himalaya.list) | [Clash](rule/Clash/Himalaya/Himalaya.yaml) | [Egern](rule/Egern/Himalaya/Himalaya.yaml) |
-| HKBN | [Surge](rule/Surge/HKBN/HKBN.list) | [Loon](rule/Loon/HKBN/HKBN.list) | [Clash](rule/Clash/HKBN/HKBN.yaml) | [Egern](rule/Egern/HKBN/HKBN.yaml) |
-| HKedcity | [Surge](rule/Surge/HKedcity/HKedcity.list) | [Loon](rule/Loon/HKedcity/HKedcity.list) | [Clash](rule/Clash/HKedcity/HKedcity.yaml) | [Egern](rule/Egern/HKedcity/HKedcity.yaml) |
-| Hkgolden | [Surge](rule/Surge/Hkgolden/Hkgolden.list) | [Loon](rule/Loon/Hkgolden/Hkgolden.list) | [Clash](rule/Clash/Hkgolden/Hkgolden.yaml) | [Egern](rule/Egern/Hkgolden/Hkgolden.yaml) |
-| HKOpenTV | [Surge](rule/Surge/HKOpenTV/HKOpenTV.list) | [Loon](rule/Loon/HKOpenTV/HKOpenTV.list) | [Clash](rule/Clash/HKOpenTV/HKOpenTV.yaml) | [Egern](rule/Egern/HKOpenTV/HKOpenTV.yaml) |
-| HoYoverse | [Surge](rule/Surge/HoYoverse/HoYoverse.list) | [Loon](rule/Loon/HoYoverse/HoYoverse.list) | [Clash](rule/Clash/HoYoverse/HoYoverse.yaml) | [Egern](rule/Egern/HoYoverse/HoYoverse.yaml) |
-| HP | [Surge](rule/Surge/HP/HP.list) | [Loon](rule/Loon/HP/HP.list) | [Clash](rule/Clash/HP/HP.yaml) | [Egern](rule/Egern/HP/HP.yaml) |
-| Hpplay | [Surge](rule/Surge/Hpplay/Hpplay.list) | [Loon](rule/Loon/Hpplay/Hpplay.list) | [Clash](rule/Clash/Hpplay/Hpplay.yaml) | [Egern](rule/Egern/Hpplay/Hpplay.yaml) |
-| HuanJu | [Surge](rule/Surge/HuanJu/HuanJu.list) | [Loon](rule/Loon/HuanJu/HuanJu.list) | [Clash](rule/Clash/HuanJu/HuanJu.yaml) | [Egern](rule/Egern/HuanJu/HuanJu.yaml) |
-| HuaShuTV | [Surge](rule/Surge/HuaShuTV/HuaShuTV.list) | [Loon](rule/Loon/HuaShuTV/HuaShuTV.list) | [Clash](rule/Clash/HuaShuTV/HuaShuTV.yaml) | [Egern](rule/Egern/HuaShuTV/HuaShuTV.yaml) |
-| Huawei | [Surge](rule/Surge/Huawei/Huawei.list) | [Loon](rule/Loon/Huawei/Huawei.list) | [Clash](rule/Clash/Huawei/Huawei.yaml) | [Egern](rule/Egern/Huawei/Huawei.yaml) |
-| Huffpost | [Surge](rule/Surge/Huffpost/Huffpost.list) | [Loon](rule/Loon/Huffpost/Huffpost.list) | [Clash](rule/Clash/Huffpost/Huffpost.yaml) | [Egern](rule/Egern/Huffpost/Huffpost.yaml) |
-| Hulu | [Surge](rule/Surge/Hulu/Hulu.list) | [Loon](rule/Loon/Hulu/Hulu.list) | [Clash](rule/Clash/Hulu/Hulu.yaml) | [Egern](rule/Egern/Hulu/Hulu.yaml) |
-| HuluJP | [Surge](rule/Surge/HuluJP/HuluJP.list) | [Loon](rule/Loon/HuluJP/HuluJP.list) | [Clash](rule/Clash/HuluJP/HuluJP.yaml) | [Egern](rule/Egern/HuluJP/HuluJP.yaml) |
-| HuluUSA | [Surge](rule/Surge/HuluUSA/HuluUSA.list) | [Loon](rule/Loon/HuluUSA/HuluUSA.list) | [Clash](rule/Clash/HuluUSA/HuluUSA.yaml) | [Egern](rule/Egern/HuluUSA/HuluUSA.yaml) |
-| HunanTV | [Surge](rule/Surge/HunanTV/HunanTV.list) | [Loon](rule/Loon/HunanTV/HunanTV.list) | [Clash](rule/Clash/HunanTV/HunanTV.yaml) | [Egern](rule/Egern/HunanTV/HunanTV.yaml) |
-| Hupu | [Surge](rule/Surge/Hupu/Hupu.list) | [Loon](rule/Loon/Hupu/Hupu.list) | [Clash](rule/Clash/Hupu/Hupu.yaml) | [Egern](rule/Egern/Hupu/Hupu.yaml) |
-| HuYa | [Surge](rule/Surge/HuYa/HuYa.list) | [Loon](rule/Loon/HuYa/HuYa.list) | [Clash](rule/Clash/HuYa/HuYa.yaml) | [Egern](rule/Egern/HuYa/HuYa.yaml) |
-| HWTV | [Surge](rule/Surge/HWTV/HWTV.list) | [Loon](rule/Loon/HWTV/HWTV.list) | [Clash](rule/Clash/HWTV/HWTV.yaml) | [Egern](rule/Egern/HWTV/HWTV.yaml) |
-| IBM | [Surge](rule/Surge/IBM/IBM.list) | [Loon](rule/Loon/IBM/IBM.list) | [Clash](rule/Clash/IBM/IBM.yaml) | [Egern](rule/Egern/IBM/IBM.yaml) |
-| ICBC | [Surge](rule/Surge/ICBC/ICBC.list) | [Loon](rule/Loon/ICBC/ICBC.list) | [Clash](rule/Clash/ICBC/ICBC.yaml) | [Egern](rule/Egern/ICBC/ICBC.yaml) |
-| iCloud | [Surge](rule/Surge/iCloud/iCloud.list) | [Loon](rule/Loon/iCloud/iCloud.list) | [Clash](rule/Clash/iCloud/iCloud.yaml) | [Egern](rule/Egern/iCloud/iCloud.yaml) |
-| iCloudPrivateRelay | [Surge](rule/Surge/iCloudPrivateRelay/iCloudPrivateRelay.list) | [Loon](rule/Loon/iCloudPrivateRelay/iCloudPrivateRelay.list) | [Clash](rule/Clash/iCloudPrivateRelay/iCloudPrivateRelay.yaml) | [Egern](rule/Egern/iCloudPrivateRelay/iCloudPrivateRelay.yaml) |
-| Identrust | [Surge](rule/Surge/Identrust/Identrust.list) | [Loon](rule/Loon/Identrust/Identrust.list) | [Clash](rule/Clash/Identrust/Identrust.yaml) | [Egern](rule/Egern/Identrust/Identrust.yaml) |
-| ifanr | [Surge](rule/Surge/ifanr/ifanr.list) | [Loon](rule/Loon/ifanr/ifanr.list) | [Clash](rule/Clash/ifanr/ifanr.yaml) | [Egern](rule/Egern/ifanr/ifanr.yaml) |
-| iFlytek | [Surge](rule/Surge/iFlytek/iFlytek.list) | [Loon](rule/Loon/iFlytek/iFlytek.list) | [Clash](rule/Clash/iFlytek/iFlytek.yaml) | [Egern](rule/Egern/iFlytek/iFlytek.yaml) |
-| IKEA | [Surge](rule/Surge/IKEA/IKEA.list) | [Loon](rule/Loon/IKEA/IKEA.list) | [Clash](rule/Clash/IKEA/IKEA.yaml) | [Egern](rule/Egern/IKEA/IKEA.yaml) |
-| IMDB | [Surge](rule/Surge/IMDB/IMDB.list) | [Loon](rule/Loon/IMDB/IMDB.list) | [Clash](rule/Clash/IMDB/IMDB.yaml) | [Egern](rule/Egern/IMDB/IMDB.yaml) |
-| Imgur | [Surge](rule/Surge/Imgur/Imgur.list) | [Loon](rule/Loon/Imgur/Imgur.list) | [Clash](rule/Clash/Imgur/Imgur.yaml) | [Egern](rule/Egern/Imgur/Imgur.yaml) |
-| Instagram | [Surge](rule/Surge/Instagram/Instagram.list) | [Loon](rule/Loon/Instagram/Instagram.list) | [Clash](rule/Clash/Instagram/Instagram.yaml) | [Egern](rule/Egern/Instagram/Instagram.yaml) |
-| Intel | [Surge](rule/Surge/Intel/Intel.list) | [Loon](rule/Loon/Intel/Intel.list) | [Clash](rule/Clash/Intel/Intel.yaml) | [Egern](rule/Egern/Intel/Intel.yaml) |
-| Intercom | [Surge](rule/Surge/Intercom/Intercom.list) | [Loon](rule/Loon/Intercom/Intercom.list) | [Clash](rule/Clash/Intercom/Intercom.yaml) | [Egern](rule/Egern/Intercom/Intercom.yaml) |
-| IPTVMainland | [Surge](rule/Surge/IPTVMainland/IPTVMainland.list) | [Loon](rule/Loon/IPTVMainland/IPTVMainland.list) | [Clash](rule/Clash/IPTVMainland/IPTVMainland.yaml) | [Egern](rule/Egern/IPTVMainland/IPTVMainland.yaml) |
-| IPTVOther | [Surge](rule/Surge/IPTVOther/IPTVOther.list) | [Loon](rule/Loon/IPTVOther/IPTVOther.list) | [Clash](rule/Clash/IPTVOther/IPTVOther.yaml) | [Egern](rule/Egern/IPTVOther/IPTVOther.yaml) |
-| iQIYI | [Surge](rule/Surge/iQIYI/iQIYI.list) | [Loon](rule/Loon/iQIYI/iQIYI.list) | [Clash](rule/Clash/iQIYI/iQIYI.yaml) | [Egern](rule/Egern/iQIYI/iQIYI.yaml) |
-| iQIYIIntl | [Surge](rule/Surge/iQIYIIntl/iQIYIIntl.list) | [Loon](rule/Loon/iQIYIIntl/iQIYIIntl.list) | [Clash](rule/Clash/iQIYIIntl/iQIYIIntl.yaml) | [Egern](rule/Egern/iQIYIIntl/iQIYIIntl.yaml) |
-| iTalkBB | [Surge](rule/Surge/iTalkBB/iTalkBB.list) | [Loon](rule/Loon/iTalkBB/iTalkBB.list) | [Clash](rule/Clash/iTalkBB/iTalkBB.yaml) | [Egern](rule/Egern/iTalkBB/iTalkBB.yaml) |
-| ITV | [Surge](rule/Surge/ITV/ITV.list) | [Loon](rule/Loon/ITV/ITV.list) | [Clash](rule/Clash/ITV/ITV.yaml) | [Egern](rule/Egern/ITV/ITV.yaml) |
-| Japonx | [Surge](rule/Surge/Japonx/Japonx.list) | [Loon](rule/Loon/Japonx/Japonx.list) | [Clash](rule/Clash/Japonx/Japonx.yaml) | [Egern](rule/Egern/Japonx/Japonx.yaml) |
-| Jetbrains | [Surge](rule/Surge/Jetbrains/Jetbrains.list) | [Loon](rule/Loon/Jetbrains/Jetbrains.list) | [Clash](rule/Clash/Jetbrains/Jetbrains.yaml) | [Egern](rule/Egern/Jetbrains/Jetbrains.yaml) |
-| Jfrog | [Surge](rule/Surge/Jfrog/Jfrog.list) | [Loon](rule/Loon/Jfrog/Jfrog.list) | [Clash](rule/Clash/Jfrog/Jfrog.yaml) | [Egern](rule/Egern/Jfrog/Jfrog.yaml) |
-| JianGuoYun | [Surge](rule/Surge/JianGuoYun/JianGuoYun.list) | [Loon](rule/Loon/JianGuoYun/JianGuoYun.list) | [Clash](rule/Clash/JianGuoYun/JianGuoYun.yaml) | [Egern](rule/Egern/JianGuoYun/JianGuoYun.yaml) |
-| JianShu | [Surge](rule/Surge/JianShu/JianShu.list) | [Loon](rule/Loon/JianShu/JianShu.list) | [Clash](rule/Clash/JianShu/JianShu.yaml) | [Egern](rule/Egern/JianShu/JianShu.yaml) |
-| JiGuangTuiSong | [Surge](rule/Surge/JiGuangTuiSong/JiGuangTuiSong.list) | [Loon](rule/Loon/JiGuangTuiSong/JiGuangTuiSong.list) | [Clash](rule/Clash/JiGuangTuiSong/JiGuangTuiSong.yaml) | [Egern](rule/Egern/JiGuangTuiSong/JiGuangTuiSong.yaml) |
-| JingDong | [Surge](rule/Surge/JingDong/JingDong.list) | [Loon](rule/Loon/JingDong/JingDong.list) | [Clash](rule/Clash/JingDong/JingDong.yaml) | [Egern](rule/Egern/JingDong/JingDong.yaml) |
-| JinJiangWenXue | [Surge](rule/Surge/JinJiangWenXue/JinJiangWenXue.list) | [Loon](rule/Loon/JinJiangWenXue/JinJiangWenXue.list) | [Clash](rule/Clash/JinJiangWenXue/JinJiangWenXue.yaml) | [Egern](rule/Egern/JinJiangWenXue/JinJiangWenXue.yaml) |
-| JOOX | [Surge](rule/Surge/JOOX/JOOX.list) | [Loon](rule/Loon/JOOX/JOOX.list) | [Clash](rule/Clash/JOOX/JOOX.yaml) | [Egern](rule/Egern/JOOX/JOOX.yaml) |
-| Jquery | [Surge](rule/Surge/Jquery/Jquery.list) | [Loon](rule/Loon/Jquery/Jquery.list) | [Clash](rule/Clash/Jquery/Jquery.yaml) | [Egern](rule/Egern/Jquery/Jquery.yaml) |
-| Jsdelivr | [Surge](rule/Surge/Jsdelivr/Jsdelivr.list) | [Loon](rule/Loon/Jsdelivr/Jsdelivr.list) | [Clash](rule/Clash/Jsdelivr/Jsdelivr.yaml) | [Egern](rule/Egern/Jsdelivr/Jsdelivr.yaml) |
-| JueJin | [Surge](rule/Surge/JueJin/JueJin.list) | [Loon](rule/Loon/JueJin/JueJin.list) | [Clash](rule/Clash/JueJin/JueJin.yaml) | [Egern](rule/Egern/JueJin/JueJin.yaml) |
-| Jwplayer | [Surge](rule/Surge/Jwplayer/Jwplayer.list) | [Loon](rule/Loon/Jwplayer/Jwplayer.list) | [Clash](rule/Clash/Jwplayer/Jwplayer.yaml) | [Egern](rule/Egern/Jwplayer/Jwplayer.yaml) |
-| KakaoTalk | [Surge](rule/Surge/KakaoTalk/KakaoTalk.list) | [Loon](rule/Loon/KakaoTalk/KakaoTalk.list) | [Clash](rule/Clash/KakaoTalk/KakaoTalk.yaml) | [Egern](rule/Egern/KakaoTalk/KakaoTalk.yaml) |
-| Kantv | [Surge](rule/Surge/Kantv/Kantv.list) | [Loon](rule/Loon/Kantv/Kantv.list) | [Clash](rule/Clash/Kantv/Kantv.yaml) | [Egern](rule/Egern/Kantv/Kantv.yaml) |
-| Keep | [Surge](rule/Surge/Keep/Keep.list) | [Loon](rule/Loon/Keep/Keep.list) | [Clash](rule/Clash/Keep/Keep.yaml) | [Egern](rule/Egern/Keep/Keep.yaml) |
-| KingSmith | [Surge](rule/Surge/KingSmith/KingSmith.list) | [Loon](rule/Loon/KingSmith/KingSmith.list) | [Clash](rule/Clash/KingSmith/KingSmith.yaml) | [Egern](rule/Egern/KingSmith/KingSmith.yaml) |
-| Kingsoft | [Surge](rule/Surge/Kingsoft/Kingsoft.list) | [Loon](rule/Loon/Kingsoft/Kingsoft.list) | [Clash](rule/Clash/Kingsoft/Kingsoft.yaml) | [Egern](rule/Egern/Kingsoft/Kingsoft.yaml) |
-| KKBOX | [Surge](rule/Surge/KKBOX/KKBOX.list) | [Loon](rule/Loon/KKBOX/KKBOX.list) | [Clash](rule/Clash/KKBOX/KKBOX.yaml) | [Egern](rule/Egern/KKBOX/KKBOX.yaml) |
-| KKTV | [Surge](rule/Surge/KKTV/KKTV.list) | [Loon](rule/Loon/KKTV/KKTV.list) | [Clash](rule/Clash/KKTV/KKTV.yaml) | [Egern](rule/Egern/KKTV/KKTV.yaml) |
-| KouDaiShiShang | [Surge](rule/Surge/KouDaiShiShang/KouDaiShiShang.list) | [Loon](rule/Loon/KouDaiShiShang/KouDaiShiShang.list) | [Clash](rule/Clash/KouDaiShiShang/KouDaiShiShang.yaml) | [Egern](rule/Egern/KouDaiShiShang/KouDaiShiShang.yaml) |
-| Ku6 | [Surge](rule/Surge/Ku6/Ku6.list) | [Loon](rule/Loon/Ku6/Ku6.list) | [Clash](rule/Clash/Ku6/Ku6.yaml) | [Egern](rule/Egern/Ku6/Ku6.yaml) |
-| KuaiDi100 | [Surge](rule/Surge/KuaiDi100/KuaiDi100.list) | [Loon](rule/Loon/KuaiDi100/KuaiDi100.list) | [Clash](rule/Clash/KuaiDi100/KuaiDi100.yaml) | [Egern](rule/Egern/KuaiDi100/KuaiDi100.yaml) |
-| KuaiShou | [Surge](rule/Surge/KuaiShou/KuaiShou.list) | [Loon](rule/Loon/KuaiShou/KuaiShou.list) | [Clash](rule/Clash/KuaiShou/KuaiShou.yaml) | [Egern](rule/Egern/KuaiShou/KuaiShou.yaml) |
-| KuangShi | [Surge](rule/Surge/KuangShi/KuangShi.list) | [Loon](rule/Loon/KuangShi/KuangShi.list) | [Clash](rule/Clash/KuangShi/KuangShi.yaml) | [Egern](rule/Egern/KuangShi/KuangShi.yaml) |
-| KugouKuwo | [Surge](rule/Surge/KugouKuwo/KugouKuwo.list) | [Loon](rule/Loon/KugouKuwo/KugouKuwo.list) | [Clash](rule/Clash/KugouKuwo/KugouKuwo.yaml) | [Egern](rule/Egern/KugouKuwo/KugouKuwo.yaml) |
-| KuKeMusic | [Surge](rule/Surge/KuKeMusic/KuKeMusic.list) | [Loon](rule/Loon/KuKeMusic/KuKeMusic.list) | [Clash](rule/Clash/KuKeMusic/KuKeMusic.yaml) | [Egern](rule/Egern/KuKeMusic/KuKeMusic.yaml) |
-| Lan | [Surge](rule/Surge/Lan/Lan.list) | [Loon](rule/Loon/Lan/Lan.list) | [Clash](rule/Clash/Lan/Lan.yaml) | [Egern](rule/Egern/Lan/Lan.yaml) |
-| LanZouYun | [Surge](rule/Surge/LanZouYun/LanZouYun.list) | [Loon](rule/Loon/LanZouYun/LanZouYun.list) | [Clash](rule/Clash/LanZouYun/LanZouYun.yaml) | [Egern](rule/Egern/LanZouYun/LanZouYun.yaml) |
-| LastFM | [Surge](rule/Surge/LastFM/LastFM.list) | [Loon](rule/Loon/LastFM/LastFM.list) | [Clash](rule/Clash/LastFM/LastFM.yaml) | [Egern](rule/Egern/LastFM/LastFM.yaml) |
-| LastPass | [Surge](rule/Surge/LastPass/LastPass.list) | [Loon](rule/Loon/LastPass/LastPass.list) | [Clash](rule/Clash/LastPass/LastPass.yaml) | [Egern](rule/Egern/LastPass/LastPass.yaml) |
-| LeJu | [Surge](rule/Surge/LeJu/LeJu.list) | [Loon](rule/Loon/LeJu/LeJu.list) | [Clash](rule/Clash/LeJu/LeJu.yaml) | [Egern](rule/Egern/LeJu/LeJu.yaml) |
-| Lenovo | [Surge](rule/Surge/Lenovo/Lenovo.list) | [Loon](rule/Loon/Lenovo/Lenovo.list) | [Clash](rule/Clash/Lenovo/Lenovo.yaml) | [Egern](rule/Egern/Lenovo/Lenovo.yaml) |
-| LeTV | [Surge](rule/Surge/LeTV/LeTV.list) | [Loon](rule/Loon/LeTV/LeTV.list) | [Clash](rule/Clash/LeTV/LeTV.yaml) | [Egern](rule/Egern/LeTV/LeTV.yaml) |
-| LG | [Surge](rule/Surge/LG/LG.list) | [Loon](rule/Loon/LG/LG.list) | [Clash](rule/Clash/LG/LG.yaml) | [Egern](rule/Egern/LG/LG.yaml) |
-| LianMeng | [Surge](rule/Surge/LianMeng/LianMeng.list) | [Loon](rule/Loon/LianMeng/LianMeng.list) | [Clash](rule/Clash/LianMeng/LianMeng.yaml) | [Egern](rule/Egern/LianMeng/LianMeng.yaml) |
-| Limelight | [Surge](rule/Surge/Limelight/Limelight.list) | [Loon](rule/Loon/Limelight/Limelight.list) | [Clash](rule/Clash/Limelight/Limelight.yaml) | [Egern](rule/Egern/Limelight/Limelight.yaml) |
-| Line | [Surge](rule/Surge/Line/Line.list) | [Loon](rule/Loon/Line/Line.list) | [Clash](rule/Clash/Line/Line.yaml) | [Egern](rule/Egern/Line/Line.yaml) |
-| LineTV | [Surge](rule/Surge/LineTV/LineTV.list) | [Loon](rule/Loon/LineTV/LineTV.list) | [Clash](rule/Clash/LineTV/LineTV.yaml) | [Egern](rule/Egern/LineTV/LineTV.yaml) |
-| Linguee | [Surge](rule/Surge/Linguee/Linguee.list) | [Loon](rule/Loon/Linguee/Linguee.list) | [Clash](rule/Clash/Linguee/Linguee.yaml) | [Egern](rule/Egern/Linguee/Linguee.yaml) |
-| LinkedIn | [Surge](rule/Surge/LinkedIn/LinkedIn.list) | [Loon](rule/Loon/LinkedIn/LinkedIn.list) | [Clash](rule/Clash/LinkedIn/LinkedIn.yaml) | [Egern](rule/Egern/LinkedIn/LinkedIn.yaml) |
-| Linux | [Surge](rule/Surge/Linux/Linux.list) | [Loon](rule/Loon/Linux/Linux.list) | [Clash](rule/Clash/Linux/Linux.yaml) | [Egern](rule/Egern/Linux/Linux.yaml) |
-| LiTV | [Surge](rule/Surge/LiTV/LiTV.list) | [Loon](rule/Loon/LiTV/LiTV.list) | [Clash](rule/Clash/LiTV/LiTV.yaml) | [Egern](rule/Egern/LiTV/LiTV.yaml) |
-| LivePerson | [Surge](rule/Surge/LivePerson/LivePerson.list) | [Loon](rule/Loon/LivePerson/LivePerson.list) | [Clash](rule/Clash/LivePerson/LivePerson.yaml) | [Egern](rule/Egern/LivePerson/LivePerson.yaml) |
-| Logitech | [Surge](rule/Surge/Logitech/Logitech.list) | [Loon](rule/Loon/Logitech/Logitech.list) | [Clash](rule/Clash/Logitech/Logitech.yaml) | [Egern](rule/Egern/Logitech/Logitech.yaml) |
-| LondonReal | [Surge](rule/Surge/LondonReal/LondonReal.list) | [Loon](rule/Loon/LondonReal/LondonReal.list) | [Clash](rule/Clash/LondonReal/LondonReal.yaml) | [Egern](rule/Egern/LondonReal/LondonReal.yaml) |
-| LuDaShi | [Surge](rule/Surge/LuDaShi/LuDaShi.list) | [Loon](rule/Loon/LuDaShi/LuDaShi.list) | [Clash](rule/Clash/LuDaShi/LuDaShi.yaml) | [Egern](rule/Egern/LuDaShi/LuDaShi.yaml) |
-| LvMiLianChuang | [Surge](rule/Surge/LvMiLianChuang/LvMiLianChuang.list) | [Loon](rule/Loon/LvMiLianChuang/LvMiLianChuang.list) | [Clash](rule/Clash/LvMiLianChuang/LvMiLianChuang.yaml) | [Egern](rule/Egern/LvMiLianChuang/LvMiLianChuang.yaml) |
-| Mail | [Surge](rule/Surge/Mail/Mail.list) | [Loon](rule/Loon/Mail/Mail.list) | [Clash](rule/Clash/Mail/Mail.yaml) | [Egern](rule/Egern/Mail/Mail.yaml) |
-| Mailru | [Surge](rule/Surge/Mailru/Mailru.list) | [Loon](rule/Loon/Mailru/Mailru.list) | [Clash](rule/Clash/Mailru/Mailru.yaml) | [Egern](rule/Egern/Mailru/Mailru.yaml) |
-| Majsoul | [Surge](rule/Surge/Majsoul/Majsoul.list) | [Loon](rule/Loon/Majsoul/Majsoul.list) | [Clash](rule/Clash/Majsoul/Majsoul.yaml) | [Egern](rule/Egern/Majsoul/Majsoul.yaml) |
-| Manorama | [Surge](rule/Surge/Manorama/Manorama.list) | [Loon](rule/Loon/Manorama/Manorama.list) | [Clash](rule/Clash/Manorama/Manorama.yaml) | [Egern](rule/Egern/Manorama/Manorama.yaml) |
-| Maocloud | [Surge](rule/Surge/Maocloud/Maocloud.list) | [Loon](rule/Loon/Maocloud/Maocloud.list) | [Clash](rule/Clash/Maocloud/Maocloud.yaml) | [Egern](rule/Egern/Maocloud/Maocloud.yaml) |
-| Marketing | [Surge](rule/Surge/Marketing/Marketing.list) | [Loon](rule/Loon/Marketing/Marketing.list) | [Clash](rule/Clash/Marketing/Marketing.yaml) | [Egern](rule/Egern/Marketing/Marketing.yaml) |
-| McDonalds | [Surge](rule/Surge/McDonalds/McDonalds.list) | [Loon](rule/Loon/McDonalds/McDonalds.list) | [Clash](rule/Clash/McDonalds/McDonalds.yaml) | [Egern](rule/Egern/McDonalds/McDonalds.yaml) |
-| MEGA | [Surge](rule/Surge/MEGA/MEGA.list) | [Loon](rule/Loon/MEGA/MEGA.list) | [Clash](rule/Clash/MEGA/MEGA.yaml) | [Egern](rule/Egern/MEGA/MEGA.yaml) |
-| MeiTu | [Surge](rule/Surge/MeiTu/MeiTu.list) | [Loon](rule/Loon/MeiTu/MeiTu.list) | [Clash](rule/Clash/MeiTu/MeiTu.yaml) | [Egern](rule/Egern/MeiTu/MeiTu.yaml) |
-| MeiTuan | [Surge](rule/Surge/MeiTuan/MeiTuan.list) | [Loon](rule/Loon/MeiTuan/MeiTuan.list) | [Clash](rule/Clash/MeiTuan/MeiTuan.yaml) | [Egern](rule/Egern/MeiTuan/MeiTuan.yaml) |
-| MeiZu | [Surge](rule/Surge/MeiZu/MeiZu.list) | [Loon](rule/Loon/MeiZu/MeiZu.list) | [Clash](rule/Clash/MeiZu/MeiZu.yaml) | [Egern](rule/Egern/MeiZu/MeiZu.yaml) |
-| MeWatch | [Surge](rule/Surge/MeWatch/MeWatch.list) | [Loon](rule/Loon/MeWatch/MeWatch.list) | [Clash](rule/Clash/MeWatch/MeWatch.yaml) | [Egern](rule/Egern/MeWatch/MeWatch.yaml) |
-| Microsoft | [Surge](rule/Surge/Microsoft/Microsoft.list) | [Loon](rule/Loon/Microsoft/Microsoft.list) | [Clash](rule/Clash/Microsoft/Microsoft.yaml) | [Egern](rule/Egern/Microsoft/Microsoft.yaml) |
-| MicrosoftEdge | [Surge](rule/Surge/MicrosoftEdge/MicrosoftEdge.list) | [Loon](rule/Loon/MicrosoftEdge/MicrosoftEdge.list) | [Clash](rule/Clash/MicrosoftEdge/MicrosoftEdge.yaml) | [Egern](rule/Egern/MicrosoftEdge/MicrosoftEdge.yaml) |
-| Migu | [Surge](rule/Surge/Migu/Migu.list) | [Loon](rule/Loon/Migu/Migu.list) | [Clash](rule/Clash/Migu/Migu.yaml) | [Egern](rule/Egern/Migu/Migu.yaml) |
-| MingLueZhaoHui | [Surge](rule/Surge/MingLueZhaoHui/MingLueZhaoHui.list) | [Loon](rule/Loon/MingLueZhaoHui/MingLueZhaoHui.list) | [Clash](rule/Clash/MingLueZhaoHui/MingLueZhaoHui.yaml) | [Egern](rule/Egern/MingLueZhaoHui/MingLueZhaoHui.yaml) |
-| MIUIPrivacy | [Surge](rule/Surge/MIUIPrivacy/MIUIPrivacy.list) | [Loon](rule/Loon/MIUIPrivacy/MIUIPrivacy.list) | [Clash](rule/Clash/MIUIPrivacy/MIUIPrivacy.yaml) | [Egern](rule/Egern/MIUIPrivacy/MIUIPrivacy.yaml) |
-| MiWu | [Surge](rule/Surge/MiWu/MiWu.list) | [Loon](rule/Loon/MiWu/MiWu.list) | [Clash](rule/Clash/MiWu/MiWu.yaml) | [Egern](rule/Egern/MiWu/MiWu.yaml) |
-| Mogujie | [Surge](rule/Surge/Mogujie/Mogujie.list) | [Loon](rule/Loon/Mogujie/Mogujie.list) | [Clash](rule/Clash/Mogujie/Mogujie.yaml) | [Egern](rule/Egern/Mogujie/Mogujie.yaml) |
-| Mojitianqi | [Surge](rule/Surge/Mojitianqi/Mojitianqi.list) | [Loon](rule/Loon/Mojitianqi/Mojitianqi.list) | [Clash](rule/Clash/Mojitianqi/Mojitianqi.yaml) | [Egern](rule/Egern/Mojitianqi/Mojitianqi.yaml) |
-| MOMOShop | [Surge](rule/Surge/MOMOShop/MOMOShop.list) | [Loon](rule/Loon/MOMOShop/MOMOShop.list) | [Clash](rule/Clash/MOMOShop/MOMOShop.yaml) | [Egern](rule/Egern/MOMOShop/MOMOShop.yaml) |
-| MOOMusic | [Surge](rule/Surge/MOOMusic/MOOMusic.list) | [Loon](rule/Loon/MOOMusic/MOOMusic.list) | [Clash](rule/Clash/MOOMusic/MOOMusic.yaml) | [Egern](rule/Egern/MOOMusic/MOOMusic.yaml) |
-| MOOV | [Surge](rule/Surge/MOOV/MOOV.list) | [Loon](rule/Loon/MOOV/MOOV.list) | [Clash](rule/Clash/MOOV/MOOV.yaml) | [Egern](rule/Egern/MOOV/MOOV.yaml) |
-| Movefree | [Surge](rule/Surge/Movefree/Movefree.list) | [Loon](rule/Loon/Movefree/Movefree.list) | [Clash](rule/Clash/Movefree/Movefree.yaml) | [Egern](rule/Egern/Movefree/Movefree.yaml) |
-| Mozilla | [Surge](rule/Surge/Mozilla/Mozilla.list) | [Loon](rule/Loon/Mozilla/Mozilla.list) | [Clash](rule/Clash/Mozilla/Mozilla.yaml) | [Egern](rule/Egern/Mozilla/Mozilla.yaml) |
-| My5 | [Surge](rule/Surge/My5/My5.list) | [Loon](rule/Loon/My5/My5.list) | [Clash](rule/Clash/My5/My5.yaml) | [Egern](rule/Egern/My5/My5.yaml) |
-| myTVSUPER | [Surge](rule/Surge/myTVSUPER/myTVSUPER.list) | [Loon](rule/Loon/myTVSUPER/myTVSUPER.list) | [Clash](rule/Clash/myTVSUPER/myTVSUPER.yaml) | [Egern](rule/Egern/myTVSUPER/myTVSUPER.yaml) |
-| NaSDDNS | [Surge](rule/Surge/NaSDDNS/NaSDDNS.list) | [Loon](rule/Loon/NaSDDNS/NaSDDNS.list) | [Clash](rule/Clash/NaSDDNS/NaSDDNS.yaml) | [Egern](rule/Egern/NaSDDNS/NaSDDNS.yaml) |
-| Naver | [Surge](rule/Surge/Naver/Naver.list) | [Loon](rule/Loon/Naver/Naver.list) | [Clash](rule/Clash/Naver/Naver.yaml) | [Egern](rule/Egern/Naver/Naver.yaml) |
-| NaverTV | [Surge](rule/Surge/NaverTV/NaverTV.list) | [Loon](rule/Loon/NaverTV/NaverTV.list) | [Clash](rule/Clash/NaverTV/NaverTV.yaml) | [Egern](rule/Egern/NaverTV/NaverTV.yaml) |
-| NBC | [Surge](rule/Surge/NBC/NBC.list) | [Loon](rule/Loon/NBC/NBC.list) | [Clash](rule/Clash/NBC/NBC.yaml) | [Egern](rule/Egern/NBC/NBC.yaml) |
-| NetEase | [Surge](rule/Surge/NetEase/NetEase.list) | [Loon](rule/Loon/NetEase/NetEase.list) | [Clash](rule/Clash/NetEase/NetEase.yaml) | [Egern](rule/Egern/NetEase/NetEase.yaml) |
-| NetEaseMusic | [Surge](rule/Surge/NetEaseMusic/NetEaseMusic.list) | [Loon](rule/Loon/NetEaseMusic/NetEaseMusic.list) | [Clash](rule/Clash/NetEaseMusic/NetEaseMusic.yaml) | [Egern](rule/Egern/NetEaseMusic/NetEaseMusic.yaml) |
-| Netflix | [Surge](rule/Surge/Netflix/Netflix.list) | [Loon](rule/Loon/Netflix/Netflix.list) | [Clash](rule/Clash/Netflix/Netflix.yaml) | [Egern](rule/Egern/Netflix/Netflix.yaml) |
-| NGA | [Surge](rule/Surge/NGA/NGA.list) | [Loon](rule/Loon/NGA/NGA.list) | [Clash](rule/Clash/NGA/NGA.yaml) | [Egern](rule/Egern/NGA/NGA.yaml) |
-| NGAA | [Surge](rule/Surge/NGAA/NGAA.list) | [Loon](rule/Loon/NGAA/NGAA.list) | [Clash](rule/Clash/NGAA/NGAA.yaml) | [Egern](rule/Egern/NGAA/NGAA.yaml) |
-| Niconico | [Surge](rule/Surge/Niconico/Niconico.list) | [Loon](rule/Loon/Niconico/Niconico.list) | [Clash](rule/Clash/Niconico/Niconico.yaml) | [Egern](rule/Egern/Niconico/Niconico.yaml) |
-| Nike | [Surge](rule/Surge/Nike/Nike.list) | [Loon](rule/Loon/Nike/Nike.list) | [Clash](rule/Clash/Nike/Nike.yaml) | [Egern](rule/Egern/Nike/Nike.yaml) |
-| Nikkei | [Surge](rule/Surge/Nikkei/Nikkei.list) | [Loon](rule/Loon/Nikkei/Nikkei.list) | [Clash](rule/Clash/Nikkei/Nikkei.yaml) | [Egern](rule/Egern/Nikkei/Nikkei.yaml) |
-| Nintendo | [Surge](rule/Surge/Nintendo/Nintendo.list) | [Loon](rule/Loon/Nintendo/Nintendo.list) | [Clash](rule/Clash/Nintendo/Nintendo.yaml) | [Egern](rule/Egern/Nintendo/Nintendo.yaml) |
-| NivodTV | [Surge](rule/Surge/NivodTV/NivodTV.list) | [Loon](rule/Loon/NivodTV/NivodTV.list) | [Clash](rule/Clash/NivodTV/NivodTV.yaml) | [Egern](rule/Egern/NivodTV/NivodTV.yaml) |
-| Notion | [Surge](rule/Surge/Notion/Notion.list) | [Loon](rule/Loon/Notion/Notion.list) | [Clash](rule/Clash/Notion/Notion.yaml) | [Egern](rule/Egern/Notion/Notion.yaml) |
-| NowE | [Surge](rule/Surge/NowE/NowE.list) | [Loon](rule/Loon/NowE/NowE.list) | [Clash](rule/Clash/NowE/NowE.yaml) | [Egern](rule/Egern/NowE/NowE.yaml) |
-| Npmjs | [Surge](rule/Surge/Npmjs/Npmjs.list) | [Loon](rule/Loon/Npmjs/Npmjs.list) | [Clash](rule/Clash/Npmjs/Npmjs.yaml) | [Egern](rule/Egern/Npmjs/Npmjs.yaml) |
-| NTPService | [Surge](rule/Surge/NTPService/NTPService.list) | [Loon](rule/Loon/NTPService/NTPService.list) | [Clash](rule/Clash/NTPService/NTPService.yaml) | [Egern](rule/Egern/NTPService/NTPService.yaml) |
-| Nvidia | [Surge](rule/Surge/Nvidia/Nvidia.list) | [Loon](rule/Loon/Nvidia/Nvidia.list) | [Clash](rule/Clash/Nvidia/Nvidia.yaml) | [Egern](rule/Egern/Nvidia/Nvidia.yaml) |
-| NYPost | [Surge](rule/Surge/NYPost/NYPost.list) | [Loon](rule/Loon/NYPost/NYPost.list) | [Clash](rule/Clash/NYPost/NYPost.yaml) | [Egern](rule/Egern/NYPost/NYPost.yaml) |
-| NYTimes | [Surge](rule/Surge/NYTimes/NYTimes.list) | [Loon](rule/Loon/NYTimes/NYTimes.list) | [Clash](rule/Clash/NYTimes/NYTimes.yaml) | [Egern](rule/Egern/NYTimes/NYTimes.yaml) |
-| OKX | [Surge](rule/Surge/OKX/OKX.list) | [Loon](rule/Loon/OKX/OKX.list) | [Clash](rule/Clash/OKX/OKX.yaml) | [Egern](rule/Egern/OKX/OKX.yaml) |
-| Olevod | [Surge](rule/Surge/Olevod/Olevod.list) | [Loon](rule/Loon/Olevod/Olevod.list) | [Clash](rule/Clash/Olevod/Olevod.yaml) | [Egern](rule/Egern/Olevod/Olevod.yaml) |
-| OneDrive | [Surge](rule/Surge/OneDrive/OneDrive.list) | [Loon](rule/Loon/OneDrive/OneDrive.list) | [Clash](rule/Clash/OneDrive/OneDrive.yaml) | [Egern](rule/Egern/OneDrive/OneDrive.yaml) |
-| OnePlus | [Surge](rule/Surge/OnePlus/OnePlus.list) | [Loon](rule/Loon/OnePlus/OnePlus.list) | [Clash](rule/Clash/OnePlus/OnePlus.yaml) | [Egern](rule/Egern/OnePlus/OnePlus.yaml) |
-| OP | [Surge](rule/Surge/OP/OP.list) | [Loon](rule/Loon/OP/OP.list) | [Clash](rule/Clash/OP/OP.yaml) | [Egern](rule/Egern/OP/OP.yaml) |
-| OpenAI | [Surge](rule/Surge/OpenAI/OpenAI.list) | [Loon](rule/Loon/OpenAI/OpenAI.list) | [Clash](rule/Clash/OpenAI/OpenAI.yaml) | [Egern](rule/Egern/OpenAI/OpenAI.yaml) |
-| Opera | [Surge](rule/Surge/Opera/Opera.list) | [Loon](rule/Loon/Opera/Opera.list) | [Clash](rule/Clash/Opera/Opera.yaml) | [Egern](rule/Egern/Opera/Opera.yaml) |
-| OPPO | [Surge](rule/Surge/OPPO/OPPO.list) | [Loon](rule/Loon/OPPO/OPPO.list) | [Clash](rule/Clash/OPPO/OPPO.yaml) | [Egern](rule/Egern/OPPO/OPPO.yaml) |
-| Oracle | [Surge](rule/Surge/Oracle/Oracle.list) | [Loon](rule/Loon/Oracle/Oracle.list) | [Clash](rule/Clash/Oracle/Oracle.yaml) | [Egern](rule/Egern/Oracle/Oracle.yaml) |
-| Oreilly | [Surge](rule/Surge/Oreilly/Oreilly.list) | [Loon](rule/Loon/Oreilly/Oreilly.list) | [Clash](rule/Clash/Oreilly/Oreilly.yaml) | [Egern](rule/Egern/Oreilly/Oreilly.yaml) |
-| Origin | [Surge](rule/Surge/Origin/Origin.list) | [Loon](rule/Loon/Origin/Origin.list) | [Clash](rule/Clash/Origin/Origin.yaml) | [Egern](rule/Egern/Origin/Origin.yaml) |
-| OuPeng | [Surge](rule/Surge/OuPeng/OuPeng.list) | [Loon](rule/Loon/OuPeng/OuPeng.list) | [Clash](rule/Clash/OuPeng/OuPeng.yaml) | [Egern](rule/Egern/OuPeng/OuPeng.yaml) |
-| Overcast | [Surge](rule/Surge/Overcast/Overcast.list) | [Loon](rule/Loon/Overcast/Overcast.list) | [Clash](rule/Clash/Overcast/Overcast.yaml) | [Egern](rule/Egern/Overcast/Overcast.yaml) |
-| Overwatch | [Surge](rule/Surge/Overwatch/Overwatch.list) | [Loon](rule/Loon/Overwatch/Overwatch.list) | [Clash](rule/Clash/Overwatch/Overwatch.yaml) | [Egern](rule/Egern/Overwatch/Overwatch.yaml) |
-| Pandora | [Surge](rule/Surge/Pandora/Pandora.list) | [Loon](rule/Loon/Pandora/Pandora.list) | [Clash](rule/Clash/Pandora/Pandora.yaml) | [Egern](rule/Egern/Pandora/Pandora.yaml) |
-| PandoraTV | [Surge](rule/Surge/PandoraTV/PandoraTV.list) | [Loon](rule/Loon/PandoraTV/PandoraTV.list) | [Clash](rule/Clash/PandoraTV/PandoraTV.yaml) | [Egern](rule/Egern/PandoraTV/PandoraTV.yaml) |
-| ParamountPlus | [Surge](rule/Surge/ParamountPlus/ParamountPlus.list) | [Loon](rule/Loon/ParamountPlus/ParamountPlus.list) | [Clash](rule/Clash/ParamountPlus/ParamountPlus.yaml) | [Egern](rule/Egern/ParamountPlus/ParamountPlus.yaml) |
-| Patreon | [Surge](rule/Surge/Patreon/Patreon.list) | [Loon](rule/Loon/Patreon/Patreon.list) | [Clash](rule/Clash/Patreon/Patreon.yaml) | [Egern](rule/Egern/Patreon/Patreon.yaml) |
-| PayPal | [Surge](rule/Surge/PayPal/PayPal.list) | [Loon](rule/Loon/PayPal/PayPal.list) | [Clash](rule/Clash/PayPal/PayPal.yaml) | [Egern](rule/Egern/PayPal/PayPal.yaml) |
-| PBS | [Surge](rule/Surge/PBS/PBS.list) | [Loon](rule/Loon/PBS/PBS.list) | [Clash](rule/Clash/PBS/PBS.yaml) | [Egern](rule/Egern/PBS/PBS.yaml) |
-| PCCW | [Surge](rule/Surge/PCCW/PCCW.list) | [Loon](rule/Loon/PCCW/PCCW.list) | [Clash](rule/Clash/PCCW/PCCW.yaml) | [Egern](rule/Egern/PCCW/PCCW.yaml) |
-| PChome | [Surge](rule/Surge/PChome/PChome.list) | [Loon](rule/Loon/PChome/PChome.list) | [Clash](rule/Clash/PChome/PChome.yaml) | [Egern](rule/Egern/PChome/PChome.yaml) |
-| PChomeTW | [Surge](rule/Surge/PChomeTW/PChomeTW.list) | [Loon](rule/Loon/PChomeTW/PChomeTW.list) | [Clash](rule/Clash/PChomeTW/PChomeTW.yaml) | [Egern](rule/Egern/PChomeTW/PChomeTW.yaml) |
-| Peacock | [Surge](rule/Surge/Peacock/Peacock.list) | [Loon](rule/Loon/Peacock/Peacock.list) | [Clash](rule/Clash/Peacock/Peacock.yaml) | [Egern](rule/Egern/Peacock/Peacock.yaml) |
-| Picacg | [Surge](rule/Surge/Picacg/Picacg.list) | [Loon](rule/Loon/Picacg/Picacg.list) | [Clash](rule/Clash/Picacg/Picacg.yaml) | [Egern](rule/Egern/Picacg/Picacg.yaml) |
-| Picsee | [Surge](rule/Surge/Picsee/Picsee.list) | [Loon](rule/Loon/Picsee/Picsee.list) | [Clash](rule/Clash/Picsee/Picsee.yaml) | [Egern](rule/Egern/Picsee/Picsee.yaml) |
-| PikPak | [Surge](rule/Surge/PikPak/PikPak.list) | [Loon](rule/Loon/PikPak/PikPak.list) | [Clash](rule/Clash/PikPak/PikPak.yaml) | [Egern](rule/Egern/PikPak/PikPak.yaml) |
-| Pinduoduo | [Surge](rule/Surge/Pinduoduo/Pinduoduo.list) | [Loon](rule/Loon/Pinduoduo/Pinduoduo.list) | [Clash](rule/Clash/Pinduoduo/Pinduoduo.yaml) | [Egern](rule/Egern/Pinduoduo/Pinduoduo.yaml) |
-| PingAn | [Surge](rule/Surge/PingAn/PingAn.list) | [Loon](rule/Loon/PingAn/PingAn.list) | [Clash](rule/Clash/PingAn/PingAn.yaml) | [Egern](rule/Egern/PingAn/PingAn.yaml) |
-| Pinterest | [Surge](rule/Surge/Pinterest/Pinterest.list) | [Loon](rule/Loon/Pinterest/Pinterest.list) | [Clash](rule/Clash/Pinterest/Pinterest.yaml) | [Egern](rule/Egern/Pinterest/Pinterest.yaml) |
-| Pixiv | [Surge](rule/Surge/Pixiv/Pixiv.list) | [Loon](rule/Loon/Pixiv/Pixiv.list) | [Clash](rule/Clash/Pixiv/Pixiv.yaml) | [Egern](rule/Egern/Pixiv/Pixiv.yaml) |
-| Pixnet | [Surge](rule/Surge/Pixnet/Pixnet.list) | [Loon](rule/Loon/Pixnet/Pixnet.list) | [Clash](rule/Clash/Pixnet/Pixnet.yaml) | [Egern](rule/Egern/Pixnet/Pixnet.yaml) |
-| PlayStation | [Surge](rule/Surge/PlayStation/PlayStation.list) | [Loon](rule/Loon/PlayStation/PlayStation.list) | [Clash](rule/Clash/PlayStation/PlayStation.yaml) | [Egern](rule/Egern/PlayStation/PlayStation.yaml) |
-| PotatoChat | [Surge](rule/Surge/PotatoChat/PotatoChat.list) | [Loon](rule/Loon/PotatoChat/PotatoChat.list) | [Clash](rule/Clash/PotatoChat/PotatoChat.yaml) | [Egern](rule/Egern/PotatoChat/PotatoChat.yaml) |
-| PPTV | [Surge](rule/Surge/PPTV/PPTV.list) | [Loon](rule/Loon/PPTV/PPTV.list) | [Clash](rule/Clash/PPTV/PPTV.yaml) | [Egern](rule/Egern/PPTV/PPTV.yaml) |
-| PrimeVideo | [Surge](rule/Surge/PrimeVideo/PrimeVideo.list) | [Loon](rule/Loon/PrimeVideo/PrimeVideo.list) | [Clash](rule/Clash/PrimeVideo/PrimeVideo.yaml) | [Egern](rule/Egern/PrimeVideo/PrimeVideo.yaml) |
-| Privacy | [Surge](rule/Surge/Privacy/Privacy.list) | [Loon](rule/Loon/Privacy/Privacy.list) | [Clash](rule/Clash/Privacy/Privacy.yaml) | [Egern](rule/Egern/Privacy/Privacy.yaml) |
-| PrivateTracker | [Surge](rule/Surge/PrivateTracker/PrivateTracker.list) | [Loon](rule/Loon/PrivateTracker/PrivateTracker.list) | [Clash](rule/Clash/PrivateTracker/PrivateTracker.yaml) | [Egern](rule/Egern/PrivateTracker/PrivateTracker.yaml) |
-| Protonmail | [Surge](rule/Surge/Protonmail/Protonmail.list) | [Loon](rule/Loon/Protonmail/Protonmail.list) | [Clash](rule/Clash/Protonmail/Protonmail.yaml) | [Egern](rule/Egern/Protonmail/Protonmail.yaml) |
-| Proxy | [Surge](rule/Surge/Proxy/Proxy.list) | [Loon](rule/Loon/Proxy/Proxy.list) | [Clash](rule/Clash/Proxy/Proxy.yaml) | [Egern](rule/Egern/Proxy/Proxy.yaml) |
-| ProxyLite | [Surge](rule/Surge/ProxyLite/ProxyLite.list) | [Loon](rule/Loon/ProxyLite/ProxyLite.list) | [Clash](rule/Clash/ProxyLite/ProxyLite.yaml) | [Egern](rule/Egern/ProxyLite/ProxyLite.yaml) |
-| PSBC | [Surge](rule/Surge/PSBC/PSBC.list) | [Loon](rule/Loon/PSBC/PSBC.list) | [Clash](rule/Clash/PSBC/PSBC.yaml) | [Egern](rule/Egern/PSBC/PSBC.yaml) |
-| Pubmatic | [Surge](rule/Surge/Pubmatic/Pubmatic.list) | [Loon](rule/Loon/Pubmatic/Pubmatic.list) | [Clash](rule/Clash/Pubmatic/Pubmatic.yaml) | [Egern](rule/Egern/Pubmatic/Pubmatic.yaml) |
-| Purikonejp | [Surge](rule/Surge/Purikonejp/Purikonejp.list) | [Loon](rule/Loon/Purikonejp/Purikonejp.list) | [Clash](rule/Clash/Purikonejp/Purikonejp.yaml) | [Egern](rule/Egern/Purikonejp/Purikonejp.yaml) |
-| Python | [Surge](rule/Surge/Python/Python.list) | [Loon](rule/Loon/Python/Python.list) | [Clash](rule/Clash/Python/Python.yaml) | [Egern](rule/Egern/Python/Python.yaml) |
-| QingCloud | [Surge](rule/Surge/QingCloud/QingCloud.list) | [Loon](rule/Loon/QingCloud/QingCloud.list) | [Clash](rule/Clash/QingCloud/QingCloud.yaml) | [Egern](rule/Egern/QingCloud/QingCloud.yaml) |
-| QiNiuYun | [Surge](rule/Surge/QiNiuYun/QiNiuYun.list) | [Loon](rule/Loon/QiNiuYun/QiNiuYun.list) | [Clash](rule/Clash/QiNiuYun/QiNiuYun.yaml) | [Egern](rule/Egern/QiNiuYun/QiNiuYun.yaml) |
-| Qobuz | [Surge](rule/Surge/Qobuz/Qobuz.list) | [Loon](rule/Loon/Qobuz/Qobuz.list) | [Clash](rule/Clash/Qobuz/Qobuz.yaml) | [Egern](rule/Egern/Qobuz/Qobuz.yaml) |
-| Qualcomm | [Surge](rule/Surge/Qualcomm/Qualcomm.list) | [Loon](rule/Loon/Qualcomm/Qualcomm.list) | [Clash](rule/Clash/Qualcomm/Qualcomm.yaml) | [Egern](rule/Egern/Qualcomm/Qualcomm.yaml) |
-| QuickConnect | [Surge](rule/Surge/QuickConnect/QuickConnect.list) | [Loon](rule/Loon/QuickConnect/QuickConnect.list) | [Clash](rule/Clash/QuickConnect/QuickConnect.yaml) | [Egern](rule/Egern/QuickConnect/QuickConnect.yaml) |
-| Qyyjt | [Surge](rule/Surge/Qyyjt/Qyyjt.list) | [Loon](rule/Loon/Qyyjt/Qyyjt.list) | [Clash](rule/Clash/Qyyjt/Qyyjt.yaml) | [Egern](rule/Egern/Qyyjt/Qyyjt.yaml) |
-| Rakuten | [Surge](rule/Surge/Rakuten/Rakuten.list) | [Loon](rule/Loon/Rakuten/Rakuten.list) | [Clash](rule/Clash/Rakuten/Rakuten.yaml) | [Egern](rule/Egern/Rakuten/Rakuten.yaml) |
-| Rarbg | [Surge](rule/Surge/Rarbg/Rarbg.list) | [Loon](rule/Loon/Rarbg/Rarbg.list) | [Clash](rule/Clash/Rarbg/Rarbg.yaml) | [Egern](rule/Egern/Rarbg/Rarbg.yaml) |
-| Razer | [Surge](rule/Surge/Razer/Razer.list) | [Loon](rule/Loon/Razer/Razer.list) | [Clash](rule/Clash/Razer/Razer.yaml) | [Egern](rule/Egern/Razer/Razer.yaml) |
-| Reabble | [Surge](rule/Surge/Reabble/Reabble.list) | [Loon](rule/Loon/Reabble/Reabble.list) | [Clash](rule/Clash/Reabble/Reabble.yaml) | [Egern](rule/Egern/Reabble/Reabble.yaml) |
-| Reddit | [Surge](rule/Surge/Reddit/Reddit.list) | [Loon](rule/Loon/Reddit/Reddit.list) | [Clash](rule/Clash/Reddit/Reddit.yaml) | [Egern](rule/Egern/Reddit/Reddit.yaml) |
-| Riot | [Surge](rule/Surge/Riot/Riot.list) | [Loon](rule/Loon/Riot/Riot.list) | [Clash](rule/Clash/Riot/Riot.yaml) | [Egern](rule/Egern/Riot/Riot.yaml) |
-| Rockstar | [Surge](rule/Surge/Rockstar/Rockstar.list) | [Loon](rule/Loon/Rockstar/Rockstar.list) | [Clash](rule/Clash/Rockstar/Rockstar.yaml) | [Egern](rule/Egern/Rockstar/Rockstar.yaml) |
-| RTHK | [Surge](rule/Surge/RTHK/RTHK.list) | [Loon](rule/Loon/RTHK/RTHK.list) | [Clash](rule/Clash/RTHK/RTHK.yaml) | [Egern](rule/Egern/RTHK/RTHK.yaml) |
-| RuanMei | [Surge](rule/Surge/RuanMei/RuanMei.list) | [Loon](rule/Loon/RuanMei/RuanMei.list) | [Clash](rule/Clash/RuanMei/RuanMei.yaml) | [Egern](rule/Egern/RuanMei/RuanMei.yaml) |
-| Salesforce | [Surge](rule/Surge/Salesforce/Salesforce.list) | [Loon](rule/Loon/Salesforce/Salesforce.list) | [Clash](rule/Clash/Salesforce/Salesforce.yaml) | [Egern](rule/Egern/Salesforce/Salesforce.yaml) |
-| Samsung | [Surge](rule/Surge/Samsung/Samsung.list) | [Loon](rule/Loon/Samsung/Samsung.list) | [Clash](rule/Clash/Samsung/Samsung.yaml) | [Egern](rule/Egern/Samsung/Samsung.yaml) |
-| Scaleflex | [Surge](rule/Surge/Scaleflex/Scaleflex.list) | [Loon](rule/Loon/Scaleflex/Scaleflex.list) | [Clash](rule/Clash/Scaleflex/Scaleflex.yaml) | [Egern](rule/Egern/Scaleflex/Scaleflex.yaml) |
-| Scholar | [Surge](rule/Surge/Scholar/Scholar.list) | [Loon](rule/Loon/Scholar/Scholar.list) | [Clash](rule/Clash/Scholar/Scholar.yaml) | [Egern](rule/Egern/Scholar/Scholar.yaml) |
-| Sectigo | [Surge](rule/Surge/Sectigo/Sectigo.list) | [Loon](rule/Loon/Sectigo/Sectigo.list) | [Clash](rule/Clash/Sectigo/Sectigo.yaml) | [Egern](rule/Egern/Sectigo/Sectigo.yaml) |
-| SFExpress | [Surge](rule/Surge/SFExpress/SFExpress.list) | [Loon](rule/Loon/SFExpress/SFExpress.list) | [Clash](rule/Clash/SFExpress/SFExpress.yaml) | [Egern](rule/Egern/SFExpress/SFExpress.yaml) |
-| ShangHaiJuXiao | [Surge](rule/Surge/ShangHaiJuXiao/ShangHaiJuXiao.list) | [Loon](rule/Loon/ShangHaiJuXiao/ShangHaiJuXiao.list) | [Clash](rule/Clash/ShangHaiJuXiao/ShangHaiJuXiao.yaml) | [Egern](rule/Egern/ShangHaiJuXiao/ShangHaiJuXiao.yaml) |
-| Shanling | [Surge](rule/Surge/Shanling/Shanling.list) | [Loon](rule/Loon/Shanling/Shanling.list) | [Clash](rule/Clash/Shanling/Shanling.yaml) | [Egern](rule/Egern/Shanling/Shanling.yaml) |
-| Sharethis | [Surge](rule/Surge/Sharethis/Sharethis.list) | [Loon](rule/Loon/Sharethis/Sharethis.list) | [Clash](rule/Clash/Sharethis/Sharethis.yaml) | [Egern](rule/Egern/Sharethis/Sharethis.yaml) |
-| ShenMa | [Surge](rule/Surge/ShenMa/ShenMa.list) | [Loon](rule/Loon/ShenMa/ShenMa.list) | [Clash](rule/Clash/ShenMa/ShenMa.yaml) | [Egern](rule/Egern/ShenMa/ShenMa.yaml) |
-| ShiJiChaoXing | [Surge](rule/Surge/ShiJiChaoXing/ShiJiChaoXing.list) | [Loon](rule/Loon/ShiJiChaoXing/ShiJiChaoXing.list) | [Clash](rule/Clash/ShiJiChaoXing/ShiJiChaoXing.yaml) | [Egern](rule/Egern/ShiJiChaoXing/ShiJiChaoXing.yaml) |
-| ShiNongZhiKe | [Surge](rule/Surge/ShiNongZhiKe/ShiNongZhiKe.list) | [Loon](rule/Loon/ShiNongZhiKe/ShiNongZhiKe.list) | [Clash](rule/Clash/ShiNongZhiKe/ShiNongZhiKe.yaml) | [Egern](rule/Egern/ShiNongZhiKe/ShiNongZhiKe.yaml) |
-| Shopee | [Surge](rule/Surge/Shopee/Shopee.list) | [Loon](rule/Loon/Shopee/Shopee.list) | [Clash](rule/Clash/Shopee/Shopee.yaml) | [Egern](rule/Egern/Shopee/Shopee.yaml) |
-| Shopify | [Surge](rule/Surge/Shopify/Shopify.list) | [Loon](rule/Loon/Shopify/Shopify.list) | [Clash](rule/Clash/Shopify/Shopify.yaml) | [Egern](rule/Egern/Shopify/Shopify.yaml) |
-| Sina | [Surge](rule/Surge/Sina/Sina.list) | [Loon](rule/Loon/Sina/Sina.list) | [Clash](rule/Clash/Sina/Sina.yaml) | [Egern](rule/Egern/Sina/Sina.yaml) |
-| Siri | [Surge](rule/Surge/Siri/Siri.list) | [Loon](rule/Loon/Siri/Siri.list) | [Clash](rule/Clash/Siri/Siri.yaml) | [Egern](rule/Egern/Siri/Siri.yaml) |
-| SkyGO | [Surge](rule/Surge/SkyGO/SkyGO.list) | [Loon](rule/Loon/SkyGO/SkyGO.list) | [Clash](rule/Clash/SkyGO/SkyGO.yaml) | [Egern](rule/Egern/SkyGO/SkyGO.yaml) |
-| Slack | [Surge](rule/Surge/Slack/Slack.list) | [Loon](rule/Loon/Slack/Slack.list) | [Clash](rule/Clash/Slack/Slack.yaml) | [Egern](rule/Egern/Slack/Slack.yaml) |
-| SlideShare | [Surge](rule/Surge/SlideShare/SlideShare.list) | [Loon](rule/Loon/SlideShare/SlideShare.list) | [Clash](rule/Clash/SlideShare/SlideShare.yaml) | [Egern](rule/Egern/SlideShare/SlideShare.yaml) |
-| Sling | [Surge](rule/Surge/Sling/Sling.list) | [Loon](rule/Loon/Sling/Sling.list) | [Clash](rule/Clash/Sling/Sling.yaml) | [Egern](rule/Egern/Sling/Sling.yaml) |
-| SmarTone | [Surge](rule/Surge/SmarTone/SmarTone.list) | [Loon](rule/Loon/SmarTone/SmarTone.list) | [Clash](rule/Clash/SmarTone/SmarTone.yaml) | [Egern](rule/Egern/SmarTone/SmarTone.yaml) |
-| SMG | [Surge](rule/Surge/SMG/SMG.list) | [Loon](rule/Loon/SMG/SMG.list) | [Clash](rule/Clash/SMG/SMG.yaml) | [Egern](rule/Egern/SMG/SMG.yaml) |
-| SMZDM | [Surge](rule/Surge/SMZDM/SMZDM.list) | [Loon](rule/Loon/SMZDM/SMZDM.list) | [Clash](rule/Clash/SMZDM/SMZDM.yaml) | [Egern](rule/Egern/SMZDM/SMZDM.yaml) |
-| Snap | [Surge](rule/Surge/Snap/Snap.list) | [Loon](rule/Loon/Snap/Snap.list) | [Clash](rule/Clash/Snap/Snap.yaml) | [Egern](rule/Egern/Snap/Snap.yaml) |
-| Sohu | [Surge](rule/Surge/Sohu/Sohu.list) | [Loon](rule/Loon/Sohu/Sohu.list) | [Clash](rule/Clash/Sohu/Sohu.yaml) | [Egern](rule/Egern/Sohu/Sohu.yaml) |
-| Sony | [Surge](rule/Surge/Sony/Sony.list) | [Loon](rule/Loon/Sony/Sony.list) | [Clash](rule/Clash/Sony/Sony.yaml) | [Egern](rule/Egern/Sony/Sony.yaml) |
-| SouFang | [Surge](rule/Surge/SouFang/SouFang.list) | [Loon](rule/Loon/SouFang/SouFang.list) | [Clash](rule/Clash/SouFang/SouFang.yaml) | [Egern](rule/Egern/SouFang/SouFang.yaml) |
-| SoundCloud | [Surge](rule/Surge/SoundCloud/SoundCloud.list) | [Loon](rule/Loon/SoundCloud/SoundCloud.list) | [Clash](rule/Clash/SoundCloud/SoundCloud.yaml) | [Egern](rule/Egern/SoundCloud/SoundCloud.yaml) |
-| SourceForge | [Surge](rule/Surge/SourceForge/SourceForge.list) | [Loon](rule/Loon/SourceForge/SourceForge.list) | [Clash](rule/Clash/SourceForge/SourceForge.yaml) | [Egern](rule/Egern/SourceForge/SourceForge.yaml) |
-| Spark | [Surge](rule/Surge/Spark/Spark.list) | [Loon](rule/Loon/Spark/Spark.list) | [Clash](rule/Clash/Spark/Spark.yaml) | [Egern](rule/Egern/Spark/Spark.yaml) |
-| Speedtest | [Surge](rule/Surge/Speedtest/Speedtest.list) | [Loon](rule/Loon/Speedtest/Speedtest.list) | [Clash](rule/Clash/Speedtest/Speedtest.yaml) | [Egern](rule/Egern/Speedtest/Speedtest.yaml) |
-| Spotify | [Surge](rule/Surge/Spotify/Spotify.list) | [Loon](rule/Loon/Spotify/Spotify.list) | [Clash](rule/Clash/Spotify/Spotify.yaml) | [Egern](rule/Egern/Spotify/Spotify.yaml) |
-| Stackexchange | [Surge](rule/Surge/Stackexchange/Stackexchange.list) | [Loon](rule/Loon/Stackexchange/Stackexchange.list) | [Clash](rule/Clash/Stackexchange/Stackexchange.yaml) | [Egern](rule/Egern/Stackexchange/Stackexchange.yaml) |
-| Starbucks | [Surge](rule/Surge/Starbucks/Starbucks.list) | [Loon](rule/Loon/Starbucks/Starbucks.list) | [Clash](rule/Clash/Starbucks/Starbucks.yaml) | [Egern](rule/Egern/Starbucks/Starbucks.yaml) |
-| StarCraftII | [Surge](rule/Surge/StarCraftII/StarCraftII.list) | [Loon](rule/Loon/StarCraftII/StarCraftII.list) | [Clash](rule/Clash/StarCraftII/StarCraftII.yaml) | [Egern](rule/Egern/StarCraftII/StarCraftII.yaml) |
-| Steam | [Surge](rule/Surge/Steam/Steam.list) | [Loon](rule/Loon/Steam/Steam.list) | [Clash](rule/Clash/Steam/Steam.yaml) | [Egern](rule/Egern/Steam/Steam.yaml) |
-| SteamCN | [Surge](rule/Surge/SteamCN/SteamCN.list) | [Loon](rule/Loon/SteamCN/SteamCN.list) | [Clash](rule/Clash/SteamCN/SteamCN.yaml) | [Egern](rule/Egern/SteamCN/SteamCN.yaml) |
-| Stripe | [Surge](rule/Surge/Stripe/Stripe.list) | [Loon](rule/Loon/Stripe/Stripe.list) | [Clash](rule/Clash/Stripe/Stripe.yaml) | [Egern](rule/Egern/Stripe/Stripe.yaml) |
-| STUN | [Surge](rule/Surge/STUN/STUN.list) | [Loon](rule/Loon/STUN/STUN.list) | [Clash](rule/Clash/STUN/STUN.yaml) | [Egern](rule/Egern/STUN/STUN.yaml) |
-| SublimeText | [Surge](rule/Surge/SublimeText/SublimeText.list) | [Loon](rule/Loon/SublimeText/SublimeText.list) | [Clash](rule/Clash/SublimeText/SublimeText.yaml) | [Egern](rule/Egern/SublimeText/SublimeText.yaml) |
-| SuiShiChuanMei | [Surge](rule/Surge/SuiShiChuanMei/SuiShiChuanMei.list) | [Loon](rule/Loon/SuiShiChuanMei/SuiShiChuanMei.list) | [Clash](rule/Clash/SuiShiChuanMei/SuiShiChuanMei.yaml) | [Egern](rule/Egern/SuiShiChuanMei/SuiShiChuanMei.yaml) |
-| SuNing | [Surge](rule/Surge/SuNing/SuNing.list) | [Loon](rule/Loon/SuNing/SuNing.list) | [Clash](rule/Clash/SuNing/SuNing.yaml) | [Egern](rule/Egern/SuNing/SuNing.yaml) |
-| Supercell | [Surge](rule/Surge/Supercell/Supercell.list) | [Loon](rule/Loon/Supercell/Supercell.list) | [Clash](rule/Clash/Supercell/Supercell.yaml) | [Egern](rule/Egern/Supercell/Supercell.yaml) |
-| Synology | [Surge](rule/Surge/Synology/Synology.list) | [Loon](rule/Loon/Synology/Synology.list) | [Clash](rule/Clash/Synology/Synology.yaml) | [Egern](rule/Egern/Synology/Synology.yaml) |
-| SystemOTA | [Surge](rule/Surge/SystemOTA/SystemOTA.list) | [Loon](rule/Loon/SystemOTA/SystemOTA.list) | [Clash](rule/Clash/SystemOTA/SystemOTA.yaml) | [Egern](rule/Egern/SystemOTA/SystemOTA.yaml) |
-| TaiheMusic | [Surge](rule/Surge/TaiheMusic/TaiheMusic.list) | [Loon](rule/Loon/TaiheMusic/TaiheMusic.list) | [Clash](rule/Clash/TaiheMusic/TaiheMusic.yaml) | [Egern](rule/Egern/TaiheMusic/TaiheMusic.yaml) |
-| TaiKang | [Surge](rule/Surge/TaiKang/TaiKang.list) | [Loon](rule/Loon/TaiKang/TaiKang.list) | [Clash](rule/Clash/TaiKang/TaiKang.yaml) | [Egern](rule/Egern/TaiKang/TaiKang.yaml) |
-| TaiWanGood | [Surge](rule/Surge/TaiWanGood/TaiWanGood.list) | [Loon](rule/Loon/TaiWanGood/TaiWanGood.list) | [Clash](rule/Clash/TaiWanGood/TaiWanGood.yaml) | [Egern](rule/Egern/TaiWanGood/TaiWanGood.yaml) |
-| TapTap | [Surge](rule/Surge/TapTap/TapTap.list) | [Loon](rule/Loon/TapTap/TapTap.list) | [Clash](rule/Clash/TapTap/TapTap.yaml) | [Egern](rule/Egern/TapTap/TapTap.yaml) |
-| TCL | [Surge](rule/Surge/TCL/TCL.list) | [Loon](rule/Loon/TCL/TCL.list) | [Clash](rule/Clash/TCL/TCL.yaml) | [Egern](rule/Egern/TCL/TCL.yaml) |
-| Teambition | [Surge](rule/Surge/Teambition/Teambition.list) | [Loon](rule/Loon/Teambition/Teambition.list) | [Clash](rule/Clash/Teambition/Teambition.yaml) | [Egern](rule/Egern/Teambition/Teambition.yaml) |
-| Teams | [Surge](rule/Surge/Teams/Teams.list) | [Loon](rule/Loon/Teams/Teams.list) | [Clash](rule/Clash/Teams/Teams.yaml) | [Egern](rule/Egern/Teams/Teams.yaml) |
-| TeamViewer | [Surge](rule/Surge/TeamViewer/TeamViewer.list) | [Loon](rule/Loon/TeamViewer/TeamViewer.list) | [Clash](rule/Clash/TeamViewer/TeamViewer.yaml) | [Egern](rule/Egern/TeamViewer/TeamViewer.yaml) |
-| Telegram | [Surge](rule/Surge/Telegram/Telegram.list) | [Loon](rule/Loon/Telegram/Telegram.list) | [Clash](rule/Clash/Telegram/Telegram.yaml) | [Egern](rule/Egern/Telegram/Telegram.yaml) |
-| TelegramNL | [Surge](rule/Surge/TelegramNL/TelegramNL.list) | [Loon](rule/Loon/TelegramNL/TelegramNL.list) | [Clash](rule/Clash/TelegramNL/TelegramNL.yaml) | [Egern](rule/Egern/TelegramNL/TelegramNL.yaml) |
-| TelegramSG | [Surge](rule/Surge/TelegramSG/TelegramSG.list) | [Loon](rule/Loon/TelegramSG/TelegramSG.list) | [Clash](rule/Clash/TelegramSG/TelegramSG.yaml) | [Egern](rule/Egern/TelegramSG/TelegramSG.yaml) |
-| TelegramUS | [Surge](rule/Surge/TelegramUS/TelegramUS.list) | [Loon](rule/Loon/TelegramUS/TelegramUS.list) | [Clash](rule/Clash/TelegramUS/TelegramUS.yaml) | [Egern](rule/Egern/TelegramUS/TelegramUS.yaml) |
-| Tencent | [Surge](rule/Surge/Tencent/Tencent.list) | [Loon](rule/Loon/Tencent/Tencent.list) | [Clash](rule/Clash/Tencent/Tencent.yaml) | [Egern](rule/Egern/Tencent/Tencent.yaml) |
-| TencentVideo | [Surge](rule/Surge/TencentVideo/TencentVideo.list) | [Loon](rule/Loon/TencentVideo/TencentVideo.list) | [Clash](rule/Clash/TencentVideo/TencentVideo.yaml) | [Egern](rule/Egern/TencentVideo/TencentVideo.yaml) |
-| TeraBox | [Surge](rule/Surge/TeraBox/TeraBox.list) | [Loon](rule/Loon/TeraBox/TeraBox.list) | [Clash](rule/Clash/TeraBox/TeraBox.yaml) | [Egern](rule/Egern/TeraBox/TeraBox.yaml) |
-| Tesla | [Surge](rule/Surge/Tesla/Tesla.list) | [Loon](rule/Loon/Tesla/Tesla.list) | [Clash](rule/Clash/Tesla/Tesla.yaml) | [Egern](rule/Egern/Tesla/Tesla.yaml) |
-| TestFlight | [Surge](rule/Surge/TestFlight/TestFlight.list) | [Loon](rule/Loon/TestFlight/TestFlight.list) | [Clash](rule/Clash/TestFlight/TestFlight.yaml) | [Egern](rule/Egern/TestFlight/TestFlight.yaml) |
-| ThomsonReuters | [Surge](rule/Surge/ThomsonReuters/ThomsonReuters.list) | [Loon](rule/Loon/ThomsonReuters/ThomsonReuters.list) | [Clash](rule/Clash/ThomsonReuters/ThomsonReuters.yaml) | [Egern](rule/Egern/ThomsonReuters/ThomsonReuters.yaml) |
-| Threads | [Surge](rule/Surge/Threads/Threads.list) | [Loon](rule/Loon/Threads/Threads.list) | [Clash](rule/Clash/Threads/Threads.yaml) | [Egern](rule/Egern/Threads/Threads.yaml) |
-| TianTianKanKan | [Surge](rule/Surge/TianTianKanKan/TianTianKanKan.list) | [Loon](rule/Loon/TianTianKanKan/TianTianKanKan.list) | [Clash](rule/Clash/TianTianKanKan/TianTianKanKan.yaml) | [Egern](rule/Egern/TianTianKanKan/TianTianKanKan.yaml) |
-| TianWeiChengXin | [Surge](rule/Surge/TianWeiChengXin/TianWeiChengXin.list) | [Loon](rule/Loon/TianWeiChengXin/TianWeiChengXin.list) | [Clash](rule/Clash/TianWeiChengXin/TianWeiChengXin.yaml) | [Egern](rule/Egern/TianWeiChengXin/TianWeiChengXin.yaml) |
-| TianYaForum | [Surge](rule/Surge/TianYaForum/TianYaForum.list) | [Loon](rule/Loon/TianYaForum/TianYaForum.list) | [Clash](rule/Clash/TianYaForum/TianYaForum.yaml) | [Egern](rule/Egern/TianYaForum/TianYaForum.yaml) |
-| TIDAL | [Surge](rule/Surge/TIDAL/TIDAL.list) | [Loon](rule/Loon/TIDAL/TIDAL.list) | [Clash](rule/Clash/TIDAL/TIDAL.yaml) | [Egern](rule/Egern/TIDAL/TIDAL.yaml) |
-| TigerFintech | [Surge](rule/Surge/TigerFintech/TigerFintech.list) | [Loon](rule/Loon/TigerFintech/TigerFintech.list) | [Clash](rule/Clash/TigerFintech/TigerFintech.yaml) | [Egern](rule/Egern/TigerFintech/TigerFintech.yaml) |
-| TikTok | [Surge](rule/Surge/TikTok/TikTok.list) | [Loon](rule/Loon/TikTok/TikTok.list) | [Clash](rule/Clash/TikTok/TikTok.yaml) | [Egern](rule/Egern/TikTok/TikTok.yaml) |
-| Tmdb | [Surge](rule/Surge/Tmdb/Tmdb.list) | [Loon](rule/Loon/Tmdb/Tmdb.list) | [Clash](rule/Clash/Tmdb/Tmdb.yaml) | [Egern](rule/Egern/Tmdb/Tmdb.yaml) |
-| TongCheng | [Surge](rule/Surge/TongCheng/TongCheng.list) | [Loon](rule/Loon/TongCheng/TongCheng.list) | [Clash](rule/Clash/TongCheng/TongCheng.yaml) | [Egern](rule/Egern/TongCheng/TongCheng.yaml) |
-| TrustWave | [Surge](rule/Surge/TrustWave/TrustWave.list) | [Loon](rule/Loon/TrustWave/TrustWave.list) | [Clash](rule/Clash/TrustWave/TrustWave.yaml) | [Egern](rule/Egern/TrustWave/TrustWave.yaml) |
-| TruthSocial | [Surge](rule/Surge/TruthSocial/TruthSocial.list) | [Loon](rule/Loon/TruthSocial/TruthSocial.list) | [Clash](rule/Clash/TruthSocial/TruthSocial.yaml) | [Egern](rule/Egern/TruthSocial/TruthSocial.yaml) |
-| Tumblr | [Surge](rule/Surge/Tumblr/Tumblr.list) | [Loon](rule/Loon/Tumblr/Tumblr.list) | [Clash](rule/Clash/Tumblr/Tumblr.yaml) | [Egern](rule/Egern/Tumblr/Tumblr.yaml) |
-| TVB | [Surge](rule/Surge/TVB/TVB.list) | [Loon](rule/Loon/TVB/TVB.list) | [Clash](rule/Clash/TVB/TVB.yaml) | [Egern](rule/Egern/TVB/TVB.yaml) |
-| TVer | [Surge](rule/Surge/TVer/TVer.list) | [Loon](rule/Loon/TVer/TVer.list) | [Clash](rule/Clash/TVer/TVer.yaml) | [Egern](rule/Egern/TVer/TVer.yaml) |
-| Twitch | [Surge](rule/Surge/Twitch/Twitch.list) | [Loon](rule/Loon/Twitch/Twitch.list) | [Clash](rule/Clash/Twitch/Twitch.yaml) | [Egern](rule/Egern/Twitch/Twitch.yaml) |
-| Twitter | [Surge](rule/Surge/Twitter/Twitter.list) | [Loon](rule/Loon/Twitter/Twitter.list) | [Clash](rule/Clash/Twitter/Twitter.yaml) | [Egern](rule/Egern/Twitter/Twitter.yaml) |
-| U17 | [Surge](rule/Surge/U17/U17.list) | [Loon](rule/Loon/U17/U17.list) | [Clash](rule/Clash/U17/U17.yaml) | [Egern](rule/Egern/U17/U17.yaml) |
-| UBI | [Surge](rule/Surge/UBI/UBI.list) | [Loon](rule/Loon/UBI/UBI.list) | [Clash](rule/Clash/UBI/UBI.yaml) | [Egern](rule/Egern/UBI/UBI.yaml) |
-| Ubisoft | [Surge](rule/Surge/Ubisoft/Ubisoft.list) | [Loon](rule/Loon/Ubisoft/Ubisoft.list) | [Clash](rule/Clash/Ubisoft/Ubisoft.yaml) | [Egern](rule/Egern/Ubisoft/Ubisoft.yaml) |
-| Ubuntu | [Surge](rule/Surge/Ubuntu/Ubuntu.list) | [Loon](rule/Loon/Ubuntu/Ubuntu.list) | [Clash](rule/Clash/Ubuntu/Ubuntu.yaml) | [Egern](rule/Egern/Ubuntu/Ubuntu.yaml) |
-| UC | [Surge](rule/Surge/UC/UC.list) | [Loon](rule/Loon/UC/UC.list) | [Clash](rule/Clash/UC/UC.yaml) | [Egern](rule/Egern/UC/UC.yaml) |
-| UCloud | [Surge](rule/Surge/UCloud/UCloud.list) | [Loon](rule/Loon/UCloud/UCloud.list) | [Clash](rule/Clash/UCloud/UCloud.yaml) | [Egern](rule/Egern/UCloud/UCloud.yaml) |
-| Udacity | [Surge](rule/Surge/Udacity/Udacity.list) | [Loon](rule/Loon/Udacity/Udacity.list) | [Clash](rule/Clash/Udacity/Udacity.yaml) | [Egern](rule/Egern/Udacity/Udacity.yaml) |
-| UKMedia | [Surge](rule/Surge/UKMedia/UKMedia.list) | [Loon](rule/Loon/UKMedia/UKMedia.list) | [Clash](rule/Clash/UKMedia/UKMedia.yaml) | [Egern](rule/Egern/UKMedia/UKMedia.yaml) |
-| UnionPay | [Surge](rule/Surge/UnionPay/UnionPay.list) | [Loon](rule/Loon/UnionPay/UnionPay.list) | [Clash](rule/Clash/UnionPay/UnionPay.yaml) | [Egern](rule/Egern/UnionPay/UnionPay.yaml) |
-| Unity | [Surge](rule/Surge/Unity/Unity.list) | [Loon](rule/Loon/Unity/Unity.list) | [Clash](rule/Clash/Unity/Unity.yaml) | [Egern](rule/Egern/Unity/Unity.yaml) |
-| UPYun | [Surge](rule/Surge/UPYun/UPYun.list) | [Loon](rule/Loon/UPYun/UPYun.list) | [Clash](rule/Clash/UPYun/UPYun.yaml) | [Egern](rule/Egern/UPYun/UPYun.yaml) |
-| USMedia | [Surge](rule/Surge/USMedia/USMedia.list) | [Loon](rule/Loon/USMedia/USMedia.list) | [Clash](rule/Clash/USMedia/USMedia.yaml) | [Egern](rule/Egern/USMedia/USMedia.yaml) |
-| Vancl | [Surge](rule/Surge/Vancl/Vancl.list) | [Loon](rule/Loon/Vancl/Vancl.list) | [Clash](rule/Clash/Vancl/Vancl.yaml) | [Egern](rule/Egern/Vancl/Vancl.yaml) |
-| Vercel | [Surge](rule/Surge/Vercel/Vercel.list) | [Loon](rule/Loon/Vercel/Vercel.list) | [Clash](rule/Clash/Vercel/Vercel.yaml) | [Egern](rule/Egern/Vercel/Vercel.yaml) |
-| Verisign | [Surge](rule/Surge/Verisign/Verisign.list) | [Loon](rule/Loon/Verisign/Verisign.list) | [Clash](rule/Clash/Verisign/Verisign.yaml) | [Egern](rule/Egern/Verisign/Verisign.yaml) |
-| Verizon | [Surge](rule/Surge/Verizon/Verizon.list) | [Loon](rule/Loon/Verizon/Verizon.list) | [Clash](rule/Clash/Verizon/Verizon.yaml) | [Egern](rule/Egern/Verizon/Verizon.yaml) |
-| VidolTV | [Surge](rule/Surge/VidolTV/VidolTV.list) | [Loon](rule/Loon/VidolTV/VidolTV.list) | [Clash](rule/Clash/VidolTV/VidolTV.yaml) | [Egern](rule/Egern/VidolTV/VidolTV.yaml) |
-| VikACG | [Surge](rule/Surge/VikACG/VikACG.list) | [Loon](rule/Loon/VikACG/VikACG.list) | [Clash](rule/Clash/VikACG/VikACG.yaml) | [Egern](rule/Egern/VikACG/VikACG.yaml) |
-| Viki | [Surge](rule/Surge/Viki/Viki.list) | [Loon](rule/Loon/Viki/Viki.list) | [Clash](rule/Clash/Viki/Viki.yaml) | [Egern](rule/Egern/Viki/Viki.yaml) |
-| Vimeo | [Surge](rule/Surge/Vimeo/Vimeo.list) | [Loon](rule/Loon/Vimeo/Vimeo.list) | [Clash](rule/Clash/Vimeo/Vimeo.yaml) | [Egern](rule/Egern/Vimeo/Vimeo.yaml) |
-| VipShop | [Surge](rule/Surge/VipShop/VipShop.list) | [Loon](rule/Loon/VipShop/VipShop.list) | [Clash](rule/Clash/VipShop/VipShop.yaml) | [Egern](rule/Egern/VipShop/VipShop.yaml) |
-| VISA | [Surge](rule/Surge/VISA/VISA.list) | [Loon](rule/Loon/VISA/VISA.list) | [Clash](rule/Clash/VISA/VISA.yaml) | [Egern](rule/Egern/VISA/VISA.yaml) |
-| ViuTV | [Surge](rule/Surge/ViuTV/ViuTV.list) | [Loon](rule/Loon/ViuTV/ViuTV.list) | [Clash](rule/Clash/ViuTV/ViuTV.yaml) | [Egern](rule/Egern/ViuTV/ViuTV.yaml) |
-| Vivo | [Surge](rule/Surge/Vivo/Vivo.list) | [Loon](rule/Loon/Vivo/Vivo.list) | [Clash](rule/Clash/Vivo/Vivo.yaml) | [Egern](rule/Egern/Vivo/Vivo.yaml) |
-| VK | [Surge](rule/Surge/VK/VK.list) | [Loon](rule/Loon/VK/VK.list) | [Clash](rule/Clash/VK/VK.yaml) | [Egern](rule/Egern/VK/VK.yaml) |
-| VOA | [Surge](rule/Surge/VOA/VOA.list) | [Loon](rule/Loon/VOA/VOA.list) | [Clash](rule/Clash/VOA/VOA.yaml) | [Egern](rule/Egern/VOA/VOA.yaml) |
-| Voxmedia | [Surge](rule/Surge/Voxmedia/Voxmedia.list) | [Loon](rule/Loon/Voxmedia/Voxmedia.list) | [Clash](rule/Clash/Voxmedia/Voxmedia.yaml) | [Egern](rule/Egern/Voxmedia/Voxmedia.yaml) |
-| W3schools | [Surge](rule/Surge/W3schools/W3schools.list) | [Loon](rule/Loon/W3schools/W3schools.list) | [Clash](rule/Clash/W3schools/W3schools.yaml) | [Egern](rule/Egern/W3schools/W3schools.yaml) |
-| Wanfang | [Surge](rule/Surge/Wanfang/Wanfang.list) | [Loon](rule/Loon/Wanfang/Wanfang.list) | [Clash](rule/Clash/Wanfang/Wanfang.yaml) | [Egern](rule/Egern/Wanfang/Wanfang.yaml) |
-| WangSuKeJi | [Surge](rule/Surge/WangSuKeJi/WangSuKeJi.list) | [Loon](rule/Loon/WangSuKeJi/WangSuKeJi.list) | [Clash](rule/Clash/WangSuKeJi/WangSuKeJi.yaml) | [Egern](rule/Egern/WangSuKeJi/WangSuKeJi.yaml) |
-| WangXinKeJi | [Surge](rule/Surge/WangXinKeJi/WangXinKeJi.list) | [Loon](rule/Loon/WangXinKeJi/WangXinKeJi.list) | [Clash](rule/Clash/WangXinKeJi/WangXinKeJi.yaml) | [Egern](rule/Egern/WangXinKeJi/WangXinKeJi.yaml) |
-| WanKaHuanJu | [Surge](rule/Surge/WanKaHuanJu/WanKaHuanJu.list) | [Loon](rule/Loon/WanKaHuanJu/WanKaHuanJu.list) | [Clash](rule/Clash/WanKaHuanJu/WanKaHuanJu.yaml) | [Egern](rule/Egern/WanKaHuanJu/WanKaHuanJu.yaml) |
-| WanMeiShiJie | [Surge](rule/Surge/WanMeiShiJie/WanMeiShiJie.list) | [Loon](rule/Loon/WanMeiShiJie/WanMeiShiJie.list) | [Clash](rule/Clash/WanMeiShiJie/WanMeiShiJie.yaml) | [Egern](rule/Egern/WanMeiShiJie/WanMeiShiJie.yaml) |
-| WeChat | [Surge](rule/Surge/WeChat/WeChat.list) | [Loon](rule/Loon/WeChat/WeChat.list) | [Clash](rule/Clash/WeChat/WeChat.yaml) | [Egern](rule/Egern/WeChat/WeChat.yaml) |
-| Weibo | [Surge](rule/Surge/Weibo/Weibo.list) | [Loon](rule/Loon/Weibo/Weibo.list) | [Clash](rule/Clash/Weibo/Weibo.yaml) | [Egern](rule/Egern/Weibo/Weibo.yaml) |
-| WeiZhiYunDong | [Surge](rule/Surge/WeiZhiYunDong/WeiZhiYunDong.list) | [Loon](rule/Loon/WeiZhiYunDong/WeiZhiYunDong.list) | [Clash](rule/Clash/WeiZhiYunDong/WeiZhiYunDong.yaml) | [Egern](rule/Egern/WeiZhiYunDong/WeiZhiYunDong.yaml) |
-| WenJuanXing | [Surge](rule/Surge/WenJuanXing/WenJuanXing.list) | [Loon](rule/Loon/WenJuanXing/WenJuanXing.list) | [Clash](rule/Clash/WenJuanXing/WenJuanXing.yaml) | [Egern](rule/Egern/WenJuanXing/WenJuanXing.yaml) |
-| Westerndigital | [Surge](rule/Surge/Westerndigital/Westerndigital.list) | [Loon](rule/Loon/Westerndigital/Westerndigital.list) | [Clash](rule/Clash/Westerndigital/Westerndigital.yaml) | [Egern](rule/Egern/Westerndigital/Westerndigital.yaml) |
-| WeTV | [Surge](rule/Surge/WeTV/WeTV.list) | [Loon](rule/Loon/WeTV/WeTV.list) | [Clash](rule/Clash/WeTV/WeTV.yaml) | [Egern](rule/Egern/WeTV/WeTV.yaml) |
-| WeType | [Surge](rule/Surge/WeType/WeType.list) | [Loon](rule/Loon/WeType/WeType.list) | [Clash](rule/Clash/WeType/WeType.yaml) | [Egern](rule/Egern/WeType/WeType.yaml) |
-| Whatsapp | [Surge](rule/Surge/Whatsapp/Whatsapp.list) | [Loon](rule/Loon/Whatsapp/Whatsapp.list) | [Clash](rule/Clash/Whatsapp/Whatsapp.yaml) | [Egern](rule/Egern/Whatsapp/Whatsapp.yaml) |
-| WiFiMaster | [Surge](rule/Surge/WiFiMaster/WiFiMaster.list) | [Loon](rule/Loon/WiFiMaster/WiFiMaster.list) | [Clash](rule/Clash/WiFiMaster/WiFiMaster.yaml) | [Egern](rule/Egern/WiFiMaster/WiFiMaster.yaml) |
-| Wikimedia | [Surge](rule/Surge/Wikimedia/Wikimedia.list) | [Loon](rule/Loon/Wikimedia/Wikimedia.list) | [Clash](rule/Clash/Wikimedia/Wikimedia.yaml) | [Egern](rule/Egern/Wikimedia/Wikimedia.yaml) |
-| Wikipedia | [Surge](rule/Surge/Wikipedia/Wikipedia.list) | [Loon](rule/Loon/Wikipedia/Wikipedia.list) | [Clash](rule/Clash/Wikipedia/Wikipedia.yaml) | [Egern](rule/Egern/Wikipedia/Wikipedia.yaml) |
-| WildRift | [Surge](rule/Surge/WildRift/WildRift.list) | [Loon](rule/Loon/WildRift/WildRift.list) | [Clash](rule/Clash/WildRift/WildRift.yaml) | [Egern](rule/Egern/WildRift/WildRift.yaml) |
-| WIX | [Surge](rule/Surge/WIX/WIX.list) | [Loon](rule/Loon/WIX/WIX.list) | [Clash](rule/Clash/WIX/WIX.yaml) | [Egern](rule/Egern/WIX/WIX.yaml) |
-| WoLai | [Surge](rule/Surge/WoLai/WoLai.list) | [Loon](rule/Loon/WoLai/WoLai.list) | [Clash](rule/Clash/WoLai/WoLai.yaml) | [Egern](rule/Egern/WoLai/WoLai.yaml) |
-| Wordpress | [Surge](rule/Surge/Wordpress/Wordpress.list) | [Loon](rule/Loon/Wordpress/Wordpress.list) | [Clash](rule/Clash/Wordpress/Wordpress.yaml) | [Egern](rule/Egern/Wordpress/Wordpress.yaml) |
-| WorldofWarcraft | [Surge](rule/Surge/WorldofWarcraft/WorldofWarcraft.list) | [Loon](rule/Loon/WorldofWarcraft/WorldofWarcraft.list) | [Clash](rule/Clash/WorldofWarcraft/WorldofWarcraft.yaml) | [Egern](rule/Egern/WorldofWarcraft/WorldofWarcraft.yaml) |
-| Wteam | [Surge](rule/Surge/Wteam/Wteam.list) | [Loon](rule/Loon/Wteam/Wteam.list) | [Clash](rule/Clash/Wteam/Wteam.yaml) | [Egern](rule/Egern/Wteam/Wteam.yaml) |
-| Xbox | [Surge](rule/Surge/Xbox/Xbox.list) | [Loon](rule/Loon/Xbox/Xbox.list) | [Clash](rule/Clash/Xbox/Xbox.yaml) | [Egern](rule/Egern/Xbox/Xbox.yaml) |
-| XiamiMusic | [Surge](rule/Surge/XiamiMusic/XiamiMusic.list) | [Loon](rule/Loon/XiamiMusic/XiamiMusic.list) | [Clash](rule/Clash/XiamiMusic/XiamiMusic.yaml) | [Egern](rule/Egern/XiamiMusic/XiamiMusic.yaml) |
-| XianYu | [Surge](rule/Surge/XianYu/XianYu.list) | [Loon](rule/Loon/XianYu/XianYu.list) | [Clash](rule/Clash/XianYu/XianYu.yaml) | [Egern](rule/Egern/XianYu/XianYu.yaml) |
-| XiaoGouKeJi | [Surge](rule/Surge/XiaoGouKeJi/XiaoGouKeJi.list) | [Loon](rule/Loon/XiaoGouKeJi/XiaoGouKeJi.list) | [Clash](rule/Clash/XiaoGouKeJi/XiaoGouKeJi.yaml) | [Egern](rule/Egern/XiaoGouKeJi/XiaoGouKeJi.yaml) |
-| XiaoHongShu | [Surge](rule/Surge/XiaoHongShu/XiaoHongShu.list) | [Loon](rule/Loon/XiaoHongShu/XiaoHongShu.list) | [Clash](rule/Clash/XiaoHongShu/XiaoHongShu.yaml) | [Egern](rule/Egern/XiaoHongShu/XiaoHongShu.yaml) |
-| XiaoMi | [Surge](rule/Surge/XiaoMi/XiaoMi.list) | [Loon](rule/Loon/XiaoMi/XiaoMi.list) | [Clash](rule/Clash/XiaoMi/XiaoMi.yaml) | [Egern](rule/Egern/XiaoMi/XiaoMi.yaml) |
-| XiaoYuanKeJi | [Surge](rule/Surge/XiaoYuanKeJi/XiaoYuanKeJi.list) | [Loon](rule/Loon/XiaoYuanKeJi/XiaoYuanKeJi.list) | [Clash](rule/Clash/XiaoYuanKeJi/XiaoYuanKeJi.yaml) | [Egern](rule/Egern/XiaoYuanKeJi/XiaoYuanKeJi.yaml) |
-| XieCheng | [Surge](rule/Surge/XieCheng/XieCheng.list) | [Loon](rule/Loon/XieCheng/XieCheng.list) | [Clash](rule/Clash/XieCheng/XieCheng.yaml) | [Egern](rule/Egern/XieCheng/XieCheng.yaml) |
-| XingKongWuXian | [Surge](rule/Surge/XingKongWuXian/XingKongWuXian.list) | [Loon](rule/Loon/XingKongWuXian/XingKongWuXian.list) | [Clash](rule/Clash/XingKongWuXian/XingKongWuXian.yaml) | [Egern](rule/Egern/XingKongWuXian/XingKongWuXian.yaml) |
-| XueErSi | [Surge](rule/Surge/XueErSi/XueErSi.list) | [Loon](rule/Loon/XueErSi/XueErSi.list) | [Clash](rule/Clash/XueErSi/XueErSi.yaml) | [Egern](rule/Egern/XueErSi/XueErSi.yaml) |
-| XueQiu | [Surge](rule/Surge/XueQiu/XueQiu.list) | [Loon](rule/Loon/XueQiu/XueQiu.list) | [Clash](rule/Clash/XueQiu/XueQiu.yaml) | [Egern](rule/Egern/XueQiu/XueQiu.yaml) |
-| Xunlei | [Surge](rule/Surge/Xunlei/Xunlei.list) | [Loon](rule/Loon/Xunlei/Xunlei.list) | [Clash](rule/Clash/Xunlei/Xunlei.yaml) | [Egern](rule/Egern/Xunlei/Xunlei.yaml) |
-| Yandex | [Surge](rule/Surge/Yandex/Yandex.list) | [Loon](rule/Loon/Yandex/Yandex.list) | [Clash](rule/Clash/Yandex/Yandex.yaml) | [Egern](rule/Egern/Yandex/Yandex.yaml) |
-| YiChe | [Surge](rule/Surge/YiChe/YiChe.list) | [Loon](rule/Loon/YiChe/YiChe.list) | [Clash](rule/Clash/YiChe/YiChe.yaml) | [Egern](rule/Egern/YiChe/YiChe.yaml) |
-| YiXiaKeJi | [Surge](rule/Surge/YiXiaKeJi/YiXiaKeJi.list) | [Loon](rule/Loon/YiXiaKeJi/YiXiaKeJi.list) | [Clash](rule/Clash/YiXiaKeJi/YiXiaKeJi.yaml) | [Egern](rule/Egern/YiXiaKeJi/YiXiaKeJi.yaml) |
-| YiZhiBo | [Surge](rule/Surge/YiZhiBo/YiZhiBo.list) | [Loon](rule/Loon/YiZhiBo/YiZhiBo.list) | [Clash](rule/Clash/YiZhiBo/YiZhiBo.yaml) | [Egern](rule/Egern/YiZhiBo/YiZhiBo.yaml) |
-| Youku | [Surge](rule/Surge/Youku/Youku.list) | [Loon](rule/Loon/Youku/Youku.list) | [Clash](rule/Clash/Youku/Youku.yaml) | [Egern](rule/Egern/Youku/Youku.yaml) |
-| YouMengChuangXiang | [Surge](rule/Surge/YouMengChuangXiang/YouMengChuangXiang.list) | [Loon](rule/Loon/YouMengChuangXiang/YouMengChuangXiang.list) | [Clash](rule/Clash/YouMengChuangXiang/YouMengChuangXiang.yaml) | [Egern](rule/Egern/YouMengChuangXiang/YouMengChuangXiang.yaml) |
-| YouTube | [Surge](rule/Surge/YouTube/YouTube.list) | [Loon](rule/Loon/YouTube/YouTube.list) | [Clash](rule/Clash/YouTube/YouTube.yaml) | [Egern](rule/Egern/YouTube/YouTube.yaml) |
-| YouTubeMusic | [Surge](rule/Surge/YouTubeMusic/YouTubeMusic.list) | [Loon](rule/Loon/YouTubeMusic/YouTubeMusic.list) | [Clash](rule/Clash/YouTubeMusic/YouTubeMusic.yaml) | [Egern](rule/Egern/YouTubeMusic/YouTubeMusic.yaml) |
-| YouZan | [Surge](rule/Surge/YouZan/YouZan.list) | [Loon](rule/Loon/YouZan/YouZan.list) | [Clash](rule/Clash/YouZan/YouZan.yaml) | [Egern](rule/Egern/YouZan/YouZan.yaml) |
-| YuanFuDao | [Surge](rule/Surge/YuanFuDao/YuanFuDao.list) | [Loon](rule/Loon/YuanFuDao/YuanFuDao.list) | [Clash](rule/Clash/YuanFuDao/YuanFuDao.yaml) | [Egern](rule/Egern/YuanFuDao/YuanFuDao.yaml) |
-| YunFanJiaSu | [Surge](rule/Surge/YunFanJiaSu/YunFanJiaSu.list) | [Loon](rule/Loon/YunFanJiaSu/YunFanJiaSu.list) | [Clash](rule/Clash/YunFanJiaSu/YunFanJiaSu.yaml) | [Egern](rule/Egern/YunFanJiaSu/YunFanJiaSu.yaml) |
-| YYeTs | [Surge](rule/Surge/YYeTs/YYeTs.list) | [Loon](rule/Loon/YYeTs/YYeTs.list) | [Clash](rule/Clash/YYeTs/YYeTs.yaml) | [Egern](rule/Egern/YYeTs/YYeTs.yaml) |
-| Zalo | [Surge](rule/Surge/Zalo/Zalo.list) | [Loon](rule/Loon/Zalo/Zalo.list) | [Clash](rule/Clash/Zalo/Zalo.yaml) | [Egern](rule/Egern/Zalo/Zalo.yaml) |
-| ZDNS | [Surge](rule/Surge/ZDNS/ZDNS.list) | [Loon](rule/Loon/ZDNS/ZDNS.list) | [Clash](rule/Clash/ZDNS/ZDNS.yaml) | [Egern](rule/Egern/ZDNS/ZDNS.yaml) |
-| Zee | [Surge](rule/Surge/Zee/Zee.list) | [Loon](rule/Loon/Zee/Zee.list) | [Clash](rule/Clash/Zee/Zee.yaml) | [Egern](rule/Egern/Zee/Zee.yaml) |
-| ZeeTV | [Surge](rule/Surge/ZeeTV/ZeeTV.list) | [Loon](rule/Loon/ZeeTV/ZeeTV.list) | [Clash](rule/Clash/ZeeTV/ZeeTV.yaml) | [Egern](rule/Egern/ZeeTV/ZeeTV.yaml) |
-| Zendesk | [Surge](rule/Surge/Zendesk/Zendesk.list) | [Loon](rule/Loon/Zendesk/Zendesk.list) | [Clash](rule/Clash/Zendesk/Zendesk.yaml) | [Egern](rule/Egern/Zendesk/Zendesk.yaml) |
-| ZhangYue | [Surge](rule/Surge/ZhangYue/ZhangYue.list) | [Loon](rule/Loon/ZhangYue/ZhangYue.list) | [Clash](rule/Clash/ZhangYue/ZhangYue.yaml) | [Egern](rule/Egern/ZhangYue/ZhangYue.yaml) |
-| zhanqi | [Surge](rule/Surge/zhanqi/zhanqi.list) | [Loon](rule/Loon/zhanqi/zhanqi.list) | [Clash](rule/Clash/zhanqi/zhanqi.yaml) | [Egern](rule/Egern/zhanqi/zhanqi.yaml) |
-| Zhihu | [Surge](rule/Surge/Zhihu/Zhihu.list) | [Loon](rule/Loon/Zhihu/Zhihu.list) | [Clash](rule/Clash/Zhihu/Zhihu.yaml) | [Egern](rule/Egern/Zhihu/Zhihu.yaml) |
-| ZhihuAds | [Surge](rule/Surge/ZhihuAds/ZhihuAds.list) | [Loon](rule/Loon/ZhihuAds/ZhihuAds.list) | [Clash](rule/Clash/ZhihuAds/ZhihuAds.yaml) | [Egern](rule/Egern/ZhihuAds/ZhihuAds.yaml) |
-| ZhiYinManKe | [Surge](rule/Surge/ZhiYinManKe/ZhiYinManKe.list) | [Loon](rule/Loon/ZhiYinManKe/ZhiYinManKe.list) | [Clash](rule/Clash/ZhiYinManKe/ZhiYinManKe.yaml) | [Egern](rule/Egern/ZhiYinManKe/ZhiYinManKe.yaml) |
-| ZhiYunZhong | [Surge](rule/Surge/ZhiYunZhong/ZhiYunZhong.list) | [Loon](rule/Loon/ZhiYunZhong/ZhiYunZhong.list) | [Clash](rule/Clash/ZhiYunZhong/ZhiYunZhong.yaml) | [Egern](rule/Egern/ZhiYunZhong/ZhiYunZhong.yaml) |
-| ZhongGuoShiHua | [Surge](rule/Surge/ZhongGuoShiHua/ZhongGuoShiHua.list) | [Loon](rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list) | [Clash](rule/Clash/ZhongGuoShiHua/ZhongGuoShiHua.yaml) | [Egern](rule/Egern/ZhongGuoShiHua/ZhongGuoShiHua.yaml) |
-| ZhongWeiShiJi | [Surge](rule/Surge/ZhongWeiShiJi/ZhongWeiShiJi.list) | [Loon](rule/Loon/ZhongWeiShiJi/ZhongWeiShiJi.list) | [Clash](rule/Clash/ZhongWeiShiJi/ZhongWeiShiJi.yaml) | [Egern](rule/Egern/ZhongWeiShiJi/ZhongWeiShiJi.yaml) |
-| ZhongXingTongXun | [Surge](rule/Surge/ZhongXingTongXun/ZhongXingTongXun.list) | [Loon](rule/Loon/ZhongXingTongXun/ZhongXingTongXun.list) | [Clash](rule/Clash/ZhongXingTongXun/ZhongXingTongXun.yaml) | [Egern](rule/Egern/ZhongXingTongXun/ZhongXingTongXun.yaml) |
-| ZhongYuanYiShang | [Surge](rule/Surge/ZhongYuanYiShang/ZhongYuanYiShang.list) | [Loon](rule/Loon/ZhongYuanYiShang/ZhongYuanYiShang.list) | [Clash](rule/Clash/ZhongYuanYiShang/ZhongYuanYiShang.yaml) | [Egern](rule/Egern/ZhongYuanYiShang/ZhongYuanYiShang.yaml) |
-| ZhuanZhuan | [Surge](rule/Surge/ZhuanZhuan/ZhuanZhuan.list) | [Loon](rule/Loon/ZhuanZhuan/ZhuanZhuan.list) | [Clash](rule/Clash/ZhuanZhuan/ZhuanZhuan.yaml) | [Egern](rule/Egern/ZhuanZhuan/ZhuanZhuan.yaml) |
-| Zoho | [Surge](rule/Surge/Zoho/Zoho.list) | [Loon](rule/Loon/Zoho/Zoho.list) | [Clash](rule/Clash/Zoho/Zoho.yaml) | [Egern](rule/Egern/Zoho/Zoho.yaml) |
-
-## 数据来源与生成方式
-
-- 上游来源清单由私有构建仓维护
-- 每个分类 README 会列出实际使用的数据来源
-- 构建流程会执行抓取、去重、域名覆盖合并与网段折叠
-- 公开仓库只存放最终产物与说明入口
-
-## 原始链接示例
-
-- Surge: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AI/AI.list`
-- Clash: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AI/AI.yaml`
-- Egern: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AI/AI.yaml`
+| 分类 | 分组 | Surge | Loon | Clash | Egern |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 115网盘 | 生活与工具 | [Surge](rule/Surge/115/README.md) | [Loon](rule/Loon/115/README.md) | [Clash](rule/Clash/115/README.md) | [Egern](rule/Egern/115/README.md) |
+| 12306 | 生活与工具 | [Surge](rule/Surge/12306/README.md) | [Loon](rule/Loon/12306/README.md) | [Clash](rule/Clash/12306/README.md) | [Egern](rule/Egern/12306/README.md) |
+| 1337x | 生活与工具 | [Surge](rule/Surge/1337x/README.md) | [Loon](rule/Loon/1337x/README.md) | [Clash](rule/Clash/1337x/README.md) | [Egern](rule/Egern/1337x/README.md) |
+| 17173 | 生活与工具 | [Surge](rule/Surge/17173/README.md) | [Loon](rule/Loon/17173/README.md) | [Clash](rule/Clash/17173/README.md) | [Egern](rule/Egern/17173/README.md) |
+| 178 | 生活与工具 | [Surge](rule/Surge/178/README.md) | [Loon](rule/Loon/178/README.md) | [Clash](rule/Clash/178/README.md) | [Egern](rule/Egern/178/README.md) |
+| 一起作业 | 生活与工具 | [Surge](rule/Surge/17zuoye/README.md) | [Loon](rule/Loon/17zuoye/README.md) | [Clash](rule/Clash/17zuoye/README.md) | [Egern](rule/Egern/17zuoye/README.md) |
+| 2K Games | 游戏平台 | [Surge](rule/Surge/2KGames/README.md) | [Loon](rule/Loon/2KGames/README.md) | [Clash](rule/Clash/2KGames/README.md) | [Egern](rule/Egern/2KGames/README.md) |
+| 360 | 生活与工具 | [Surge](rule/Surge/360/README.md) | [Loon](rule/Loon/360/README.md) | [Clash](rule/Clash/360/README.md) | [Egern](rule/Egern/360/README.md) |
+| 36氪 | 生活与工具 | [Surge](rule/Surge/36kr/README.md) | [Loon](rule/Loon/36kr/README.md) | [Clash](rule/Clash/36kr/README.md) | [Egern](rule/Egern/36kr/README.md) |
+| 3DM | 生活与工具 | [Surge](rule/Surge/3dm/README.md) | [Loon](rule/Loon/3dm/README.md) | [Clash](rule/Clash/3dm/README.md) | [Egern](rule/Egern/3dm/README.md) |
+| 三言两语 | 生活与工具 | [Surge](rule/Surge/3Type/README.md) | [Loon](rule/Loon/3Type/README.md) | [Clash](rule/Clash/3Type/README.md) | [Egern](rule/Egern/3Type/README.md) |
+| 4399 | 生活与工具 | [Surge](rule/Surge/4399/README.md) | [Loon](rule/Loon/4399/README.md) | [Clash](rule/Clash/4399/README.md) | [Egern](rule/Egern/4399/README.md) |
+| 4chan | 生活与工具 | [Surge](rule/Surge/4chan/README.md) | [Loon](rule/Loon/4chan/README.md) | [Clash](rule/Clash/4chan/README.md) | [Egern](rule/Egern/4chan/README.md) |
+| 第四范式 | 生活与工具 | [Surge](rule/Surge/4Paradigm/README.md) | [Loon](rule/Loon/4Paradigm/README.md) | [Clash](rule/Clash/4Paradigm/README.md) | [Egern](rule/Egern/4Paradigm/README.md) |
+| 前程无忧 | 生活与工具 | [Surge](rule/Surge/51Job/README.md) | [Loon](rule/Loon/51Job/README.md) | [Clash](rule/Clash/51Job/README.md) | [Egern](rule/Egern/51Job/README.md) |
+| 51Nod | 生活与工具 | [Surge](rule/Surge/51nod/README.md) | [Loon](rule/Loon/51nod/README.md) | [Clash](rule/Clash/51nod/README.md) | [Egern](rule/Egern/51nod/README.md) |
+| 56网 | 生活与工具 | [Surge](rule/Surge/56/README.md) | [Loon](rule/Loon/56/README.md) | [Clash](rule/Clash/56/README.md) | [Egern](rule/Egern/56/README.md) |
+| 58同城 | 生活与工具 | [Surge](rule/Surge/58TongCheng/README.md) | [Loon](rule/Loon/58TongCheng/README.md) | [Clash](rule/Clash/58TongCheng/README.md) | [Egern](rule/Egern/58TongCheng/README.md) |
+| 六间房 | 生活与工具 | [Surge](rule/Surge/6JianFang/README.md) | [Loon](rule/Loon/6JianFang/README.md) | [Clash](rule/Clash/6JianFang/README.md) | [Egern](rule/Egern/6JianFang/README.md) |
+| 留园网 | 生活与工具 | [Surge](rule/Surge/6park/README.md) | [Loon](rule/Loon/6park/README.md) | [Clash](rule/Clash/6park/README.md) | [Egern](rule/Egern/6park/README.md) |
+| 巴比特 | 生活与工具 | [Surge](rule/Surge/8btc/README.md) | [Loon](rule/Loon/8btc/README.md) | [Clash](rule/Clash/8btc/README.md) | [Egern](rule/Egern/8btc/README.md) |
+| 9News | 流媒体与内容 | [Surge](rule/Surge/9News/README.md) | [Loon](rule/Loon/9News/README.md) | [Clash](rule/Clash/9News/README.md) | [Egern](rule/Egern/9News/README.md) |
+| 9to5 | 生活与工具 | [Surge](rule/Surge/9to5/README.md) | [Loon](rule/Loon/9to5/README.md) | [Clash](rule/Clash/9to5/README.md) | [Egern](rule/Egern/9to5/README.md) |
+| 农业银行 | 生活与工具 | [Surge](rule/Surge/ABC/README.md) | [Loon](rule/Loon/ABC/README.md) | [Clash](rule/Clash/ABC/README.md) | [Egern](rule/Egern/ABC/README.md) |
+| Abema | 生活与工具 | [Surge](rule/Surge/Abema/README.md) | [Loon](rule/Loon/Abema/README.md) | [Clash](rule/Clash/Abema/README.md) | [Egern](rule/Egern/Abema/README.md) |
+| AbemaTV | 流媒体与内容 | [Surge](rule/Surge/AbemaTV/README.md) | [Loon](rule/Loon/AbemaTV/README.md) | [Clash](rule/Clash/AbemaTV/README.md) | [Egern](rule/Egern/AbemaTV/README.md) |
+| AccuWeather | 游戏平台 | [Surge](rule/Surge/Accuweather/README.md) | [Loon](rule/Loon/Accuweather/README.md) | [Clash](rule/Clash/Accuweather/README.md) | [Egern](rule/Egern/Accuweather/README.md) |
+| Acer | 品牌与硬件 | [Surge](rule/Surge/Acer/README.md) | [Loon](rule/Loon/Acer/README.md) | [Clash](rule/Clash/Acer/README.md) | [Egern](rule/Egern/Acer/README.md) |
+| AcFun | 生活与工具 | [Surge](rule/Surge/AcFun/README.md) | [Loon](rule/Loon/AcFun/README.md) | [Clash](rule/Clash/AcFun/README.md) | [Egern](rule/Egern/AcFun/README.md) |
+| Acplay | 生活与工具 | [Surge](rule/Surge/Acplay/README.md) | [Loon](rule/Loon/Acplay/README.md) | [Clash](rule/Clash/Acplay/README.md) | [Egern](rule/Egern/Acplay/README.md) |
+| Actalis | 生活与工具 | [Surge](rule/Surge/Actalis/README.md) | [Loon](rule/Loon/Actalis/README.md) | [Clash](rule/Clash/Actalis/README.md) | [Egern](rule/Egern/Actalis/README.md) |
+| AdColony | 生活与工具 | [Surge](rule/Surge/AdColony/README.md) | [Loon](rule/Loon/AdColony/README.md) | [Clash](rule/Clash/AdColony/README.md) | [Egern](rule/Egern/AdColony/README.md) |
+| Addthis | 生活与工具 | [Surge](rule/Surge/Addthis/README.md) | [Loon](rule/Loon/Addthis/README.md) | [Clash](rule/Clash/Addthis/README.md) | [Egern](rule/Egern/Addthis/README.md) |
+| AddToAny | 生活与工具 | [Surge](rule/Surge/AddToAny/README.md) | [Loon](rule/Loon/AddToAny/README.md) | [Clash](rule/Clash/AddToAny/README.md) | [Egern](rule/Egern/AddToAny/README.md) |
+| Adidas | 生活与工具 | [Surge](rule/Surge/Adidas/README.md) | [Loon](rule/Loon/Adidas/README.md) | [Clash](rule/Clash/Adidas/README.md) | [Egern](rule/Egern/Adidas/README.md) |
+| Adobe | 生活与工具 | [Surge](rule/Surge/Adobe/README.md) | [Loon](rule/Loon/Adobe/README.md) | [Clash](rule/Clash/Adobe/README.md) | [Egern](rule/Egern/Adobe/README.md) |
+| AdobeActivation | 游戏平台 | [Surge](rule/Surge/AdobeActivation/README.md) | [Loon](rule/Loon/AdobeActivation/README.md) | [Clash](rule/Clash/AdobeActivation/README.md) | [Egern](rule/Egern/AdobeActivation/README.md) |
+| Advertising | 生活与工具 | [Surge](rule/Surge/Advertising/README.md) | [Loon](rule/Loon/Advertising/README.md) | [Clash](rule/Clash/Advertising/README.md) | [Egern](rule/Egern/Advertising/README.md) |
+| AdvertisingLite | 生活与工具 | [Surge](rule/Surge/AdvertisingLite/README.md) | [Loon](rule/Loon/AdvertisingLite/README.md) | [Clash](rule/Clash/AdvertisingLite/README.md) | [Egern](rule/Egern/AdvertisingLite/README.md) |
+| AdvertisingMiTV | 流媒体与内容 | [Surge](rule/Surge/AdvertisingMiTV/README.md) | [Loon](rule/Loon/AdvertisingMiTV/README.md) | [Clash](rule/Clash/AdvertisingMiTV/README.md) | [Egern](rule/Egern/AdvertisingMiTV/README.md) |
+| AdvertisingTest | 生活与工具 | [Surge](rule/Surge/AdvertisingTest/README.md) | [Loon](rule/Loon/AdvertisingTest/README.md) | [Clash](rule/Clash/AdvertisingTest/README.md) | [Egern](rule/Egern/AdvertisingTest/README.md) |
+| Aerogard | 生活与工具 | [Surge](rule/Surge/Aerogard/README.md) | [Loon](rule/Loon/Aerogard/README.md) | [Clash](rule/Clash/Aerogard/README.md) | [Egern](rule/Egern/Aerogard/README.md) |
+| 爱发电 | 生活与工具 | [Surge](rule/Surge/Afdian/README.md) | [Loon](rule/Loon/Afdian/README.md) | [Clash](rule/Clash/Afdian/README.md) | [Egern](rule/Egern/Afdian/README.md) |
+| 法新社 | 生活与工具 | [Surge](rule/Surge/AFP/README.md) | [Loon](rule/Loon/AFP/README.md) | [Clash](rule/Clash/AFP/README.md) | [Egern](rule/Egern/AFP/README.md) |
+| 声网 | 生活与工具 | [Surge](rule/Surge/Agora/README.md) | [Loon](rule/Loon/Agora/README.md) | [Clash](rule/Clash/Agora/README.md) | [Egern](rule/Egern/Agora/README.md) |
+| AI | AI 服务 | [Surge](rule/Surge/AI/README.md) | [Loon](rule/Loon/AI/README.md) | [Clash](rule/Clash/AI/README.md) | [Egern](rule/Egern/AI/README.md) |
+| 爱企查 | AI 服务 | [Surge](rule/Surge/AiQiCha/README.md) | [Loon](rule/Loon/AiQiCha/README.md) | [Clash](rule/Clash/AiQiCha/README.md) | [Egern](rule/Egern/AiQiCha/README.md) |
+| 中国国航 | AI 服务 | [Surge](rule/Surge/AirChina/README.md) | [Loon](rule/Loon/AirChina/README.md) | [Clash](rule/Clash/AirChina/README.md) | [Egern](rule/Egern/AirChina/README.md) |
+| AirWick | AI 服务 | [Surge](rule/Surge/AirWick/README.md) | [Loon](rule/Loon/AirWick/README.md) | [Clash](rule/Clash/AirWick/README.md) | [Egern](rule/Egern/AirWick/README.md) |
+| aiXcoder | AI 服务 | [Surge](rule/Surge/aiXcoder/README.md) | [Loon](rule/Loon/aiXcoder/README.md) | [Clash](rule/Clash/aiXcoder/README.md) | [Egern](rule/Egern/aiXcoder/README.md) |
+| Akamai | AI 服务 | [Surge](rule/Surge/Akamai/README.md) | [Loon](rule/Loon/Akamai/README.md) | [Clash](rule/Clash/Akamai/README.md) | [Egern](rule/Egern/Akamai/README.md) |
+| 游侠网 | 生活与工具 | [Surge](rule/Surge/Ali213/README.md) | [Loon](rule/Loon/Ali213/README.md) | [Clash](rule/Clash/Ali213/README.md) | [Egern](rule/Egern/Ali213/README.md) |
+| 阿里巴巴 | 金融电商 | [Surge](rule/Surge/Alibaba/README.md) | [Loon](rule/Loon/Alibaba/README.md) | [Clash](rule/Clash/Alibaba/README.md) | [Egern](rule/Egern/Alibaba/README.md) |
+| 支付宝 | 金融电商 | [Surge](rule/Surge/AliPay/README.md) | [Loon](rule/Loon/AliPay/README.md) | [Clash](rule/Clash/AliPay/README.md) | [Egern](rule/Egern/AliPay/README.md) |
+| 半岛电视台 | 生活与工具 | [Surge](rule/Surge/ALJazeera/README.md) | [Loon](rule/Loon/ALJazeera/README.md) | [Clash](rule/Clash/ALJazeera/README.md) | [Egern](rule/Egern/ALJazeera/README.md) |
+| All4 | 生活与工具 | [Surge](rule/Surge/All4/README.md) | [Loon](rule/Loon/All4/README.md) | [Clash](rule/Clash/All4/README.md) | [Egern](rule/Egern/All4/README.md) |
+| 亚马逊 | 金融电商 | [Surge](rule/Surge/Amazon/README.md) | [Loon](rule/Loon/Amazon/README.md) | [Clash](rule/Clash/Amazon/README.md) | [Egern](rule/Egern/Amazon/README.md) |
+| 亚马逊中国 | 金融电商 | [Surge](rule/Surge/AmazonCN/README.md) | [Loon](rule/Loon/AmazonCN/README.md) | [Clash](rule/Clash/AmazonCN/README.md) | [Egern](rule/Egern/AmazonCN/README.md) |
+| AmazonIP | 金融电商 | [Surge](rule/Surge/AmazonIP/README.md) | [Loon](rule/Loon/AmazonIP/README.md) | [Clash](rule/Clash/AmazonIP/README.md) | [Egern](rule/Egern/AmazonIP/README.md) |
+| Prime Video | 流媒体与内容 | [Surge](rule/Surge/AmazonPrimeVideo/README.md) | [Loon](rule/Loon/AmazonPrimeVideo/README.md) | [Clash](rule/Clash/AmazonPrimeVideo/README.md) | [Egern](rule/Egern/AmazonPrimeVideo/README.md) |
+| AmazonTrust | 金融电商 | [Surge](rule/Surge/AmazonTrust/README.md) | [Loon](rule/Loon/AmazonTrust/README.md) | [Clash](rule/Clash/AmazonTrust/README.md) | [Egern](rule/Egern/AmazonTrust/README.md) |
+| AMD | 品牌与硬件 | [Surge](rule/Surge/AMD/README.md) | [Loon](rule/Loon/AMD/README.md) | [Clash](rule/Clash/AMD/README.md) | [Egern](rule/Egern/AMD/README.md) |
+| Americasvoice | 生活与工具 | [Surge](rule/Surge/Americasvoice/README.md) | [Loon](rule/Loon/Americasvoice/README.md) | [Clash](rule/Clash/Americasvoice/README.md) | [Egern](rule/Egern/Americasvoice/README.md) |
+| AMP | 生活与工具 | [Surge](rule/Surge/AMP/README.md) | [Loon](rule/Loon/AMP/README.md) | [Clash](rule/Clash/AMP/README.md) | [Egern](rule/Egern/AMP/README.md) |
+| Anaconda | 生活与工具 | [Surge](rule/Surge/Anaconda/README.md) | [Loon](rule/Loon/Anaconda/README.md) | [Clash](rule/Clash/Anaconda/README.md) | [Egern](rule/Egern/Anaconda/README.md) |
+| AnandTech | 生活与工具 | [Surge](rule/Surge/AnandTech/README.md) | [Loon](rule/Loon/AnandTech/README.md) | [Clash](rule/Clash/AnandTech/README.md) | [Egern](rule/Egern/AnandTech/README.md) |
+| 安卓 | 生活与工具 | [Surge](rule/Surge/Android/README.md) | [Loon](rule/Loon/Android/README.md) | [Clash](rule/Clash/Android/README.md) | [Egern](rule/Egern/Android/README.md) |
+| Anime | 生活与工具 | [Surge](rule/Surge/Anime/README.md) | [Loon](rule/Loon/Anime/README.md) | [Clash](rule/Clash/Anime/README.md) | [Egern](rule/Egern/Anime/README.md) |
+| 安居客 | 生活与工具 | [Surge](rule/Surge/Anjuke/README.md) | [Loon](rule/Loon/Anjuke/README.md) | [Clash](rule/Clash/Anjuke/README.md) | [Egern](rule/Egern/Anjuke/README.md) |
+| Anonv | 生活与工具 | [Surge](rule/Surge/Anonv/README.md) | [Loon](rule/Loon/Anonv/README.md) | [Clash](rule/Clash/Anonv/README.md) | [Egern](rule/Egern/Anonv/README.md) |
+| Anthropic | AI 服务 | [Surge](rule/Surge/Anthropic/README.md) | [Loon](rule/Loon/Anthropic/README.md) | [Clash](rule/Clash/Anthropic/README.md) | [Egern](rule/Egern/Anthropic/README.md) |
+| 安天科技 | 生活与工具 | [Surge](rule/Surge/AnTianKeJi/README.md) | [Loon](rule/Loon/AnTianKeJi/README.md) | [Clash](rule/Clash/AnTianKeJi/README.md) | [Egern](rule/Egern/AnTianKeJi/README.md) |
+| 安兔兔 | 生活与工具 | [Surge](rule/Surge/Antutu/README.md) | [Loon](rule/Loon/Antutu/README.md) | [Clash](rule/Clash/Antutu/README.md) | [Egern](rule/Egern/Antutu/README.md) |
+| AOL | 生活与工具 | [Surge](rule/Surge/AOL/README.md) | [Loon](rule/Loon/AOL/README.md) | [Clash](rule/Clash/AOL/README.md) | [Egern](rule/Egern/AOL/README.md) |
+| Apifox | 生活与工具 | [Surge](rule/Surge/Apifox/README.md) | [Loon](rule/Loon/Apifox/README.md) | [Clash](rule/Clash/Apifox/README.md) | [Egern](rule/Egern/Apifox/README.md) |
+| APKCombo | 生活与工具 | [Surge](rule/Surge/APKCombo/README.md) | [Loon](rule/Loon/APKCombo/README.md) | [Clash](rule/Clash/APKCombo/README.md) | [Egern](rule/Egern/APKCombo/README.md) |
+| Apkpure | 生活与工具 | [Surge](rule/Surge/Apkpure/README.md) | [Loon](rule/Loon/Apkpure/README.md) | [Clash](rule/Clash/Apkpure/README.md) | [Egern](rule/Egern/Apkpure/README.md) |
+| 苹果 | 苹果生态 | [Surge](rule/Surge/Apple/README.md) | [Loon](rule/Loon/Apple/README.md) | [Clash](rule/Clash/Apple/README.md) | [Egern](rule/Egern/Apple/README.md) |
+| 苹果日报 | AI 服务 | [Surge](rule/Surge/AppleDaily/README.md) | [Loon](rule/Loon/AppleDaily/README.md) | [Clash](rule/Clash/AppleDaily/README.md) | [Egern](rule/Egern/AppleDaily/README.md) |
+| 苹果开发者 | 苹果生态 | [Surge](rule/Surge/AppleDev/README.md) | [Loon](rule/Loon/AppleDev/README.md) | [Clash](rule/Clash/AppleDev/README.md) | [Egern](rule/Egern/AppleDev/README.md) |
+| 苹果固件 | 苹果生态 | [Surge](rule/Surge/AppleFirmware/README.md) | [Loon](rule/Loon/AppleFirmware/README.md) | [Clash](rule/Clash/AppleFirmware/README.md) | [Egern](rule/Egern/AppleFirmware/README.md) |
+| 苹果硬件 | 苹果生态 | [Surge](rule/Surge/AppleHardware/README.md) | [Loon](rule/Loon/AppleHardware/README.md) | [Clash](rule/Clash/AppleHardware/README.md) | [Egern](rule/Egern/AppleHardware/README.md) |
+| 苹果账号 | 苹果生态 | [Surge](rule/Surge/AppleID/README.md) | [Loon](rule/Loon/AppleID/README.md) | [Clash](rule/Clash/AppleID/README.md) | [Egern](rule/Egern/AppleID/README.md) |
+| 苹果邮件 | AI 服务 | [Surge](rule/Surge/AppleMail/README.md) | [Loon](rule/Loon/AppleMail/README.md) | [Clash](rule/Clash/AppleMail/README.md) | [Egern](rule/Egern/AppleMail/README.md) |
+| 苹果媒体 | 苹果生态 | [Surge](rule/Surge/AppleMedia/README.md) | [Loon](rule/Loon/AppleMedia/README.md) | [Clash](rule/Clash/AppleMedia/README.md) | [Egern](rule/Egern/AppleMedia/README.md) |
+| 苹果音乐 | 苹果生态 | [Surge](rule/Surge/AppleMusic/README.md) | [Loon](rule/Loon/AppleMusic/README.md) | [Clash](rule/Clash/AppleMusic/README.md) | [Egern](rule/Egern/AppleMusic/README.md) |
+| 苹果新闻 | 苹果生态 | [Surge](rule/Surge/AppleNews/README.md) | [Loon](rule/Loon/AppleNews/README.md) | [Clash](rule/Clash/AppleNews/README.md) | [Egern](rule/Egern/AppleNews/README.md) |
+| 苹果代理 | 苹果生态 | [Surge](rule/Surge/AppleProxy/README.md) | [Loon](rule/Loon/AppleProxy/README.md) | [Clash](rule/Clash/AppleProxy/README.md) | [Egern](rule/Egern/AppleProxy/README.md) |
+| Apple TV+ | 苹果生态 | [Surge](rule/Surge/AppleTV/README.md) | [Loon](rule/Loon/AppleTV/README.md) | [Clash](rule/Clash/AppleTV/README.md) | [Egern](rule/Egern/AppleTV/README.md) |
+| AppLovin | 生活与工具 | [Surge](rule/Surge/AppLovin/README.md) | [Loon](rule/Loon/AppLovin/README.md) | [Clash](rule/Clash/AppLovin/README.md) | [Egern](rule/Egern/AppLovin/README.md) |
+| App Store | 苹果生态 | [Surge](rule/Surge/AppStore/README.md) | [Loon](rule/Loon/AppStore/README.md) | [Clash](rule/Clash/AppStore/README.md) | [Egern](rule/Egern/AppStore/README.md) |
+| 文鼎字库 | 生活与工具 | [Surge](rule/Surge/Arphic/README.md) | [Loon](rule/Loon/Arphic/README.md) | [Clash](rule/Clash/Arphic/README.md) | [Egern](rule/Egern/Arphic/README.md) |
+| Asahi | 生活与工具 | [Surge](rule/Surge/Asahi/README.md) | [Loon](rule/Loon/Asahi/README.md) | [Clash](rule/Clash/Asahi/README.md) | [Egern](rule/Egern/Asahi/README.md) |
+| AsianMedia | 流媒体与内容 | [Surge](rule/Surge/AsianMedia/README.md) | [Loon](rule/Loon/AsianMedia/README.md) | [Clash](rule/Clash/AsianMedia/README.md) | [Egern](rule/Egern/AsianMedia/README.md) |
+| Atlassian | 开发者平台 | [Surge](rule/Surge/Atlassian/README.md) | [Loon](rule/Loon/Atlassian/README.md) | [Clash](rule/Clash/Atlassian/README.md) | [Egern](rule/Egern/Atlassian/README.md) |
+| Atomdata | 生活与工具 | [Surge](rule/Surge/Atomdata/README.md) | [Loon](rule/Loon/Atomdata/README.md) | [Clash](rule/Clash/Atomdata/README.md) | [Egern](rule/Egern/Atomdata/README.md) |
+| ATTWatchTV | 流媒体与内容 | [Surge](rule/Surge/ATTWatchTV/README.md) | [Loon](rule/Loon/ATTWatchTV/README.md) | [Clash](rule/Clash/ATTWatchTV/README.md) | [Egern](rule/Egern/ATTWatchTV/README.md) |
+| 巴哈姆特 | 生活与工具 | [Surge](rule/Surge/Bahamut/README.md) | [Loon](rule/Loon/Bahamut/README.md) | [Clash](rule/Clash/Bahamut/README.md) | [Egern](rule/Egern/Bahamut/README.md) |
+| 百度 | AI 服务 | [Surge](rule/Surge/Baidu/README.md) | [Loon](rule/Loon/Baidu/README.md) | [Clash](rule/Clash/Baidu/README.md) | [Egern](rule/Egern/Baidu/README.md) |
+| 百度贴吧 | AI 服务 | [Surge](rule/Surge/BaiDuTieBa/README.md) | [Loon](rule/Loon/BaiDuTieBa/README.md) | [Clash](rule/Clash/BaiDuTieBa/README.md) | [Egern](rule/Egern/BaiDuTieBa/README.md) |
+| 百分点 | AI 服务 | [Surge](rule/Surge/BaiFenDian/README.md) | [Loon](rule/Loon/BaiFenDian/README.md) | [Clash](rule/Clash/BaiFenDian/README.md) | [Egern](rule/Egern/BaiFenDian/README.md) |
+| 白山云 | AI 服务 | [Surge](rule/Surge/BaiShanYunKeJi/README.md) | [Loon](rule/Loon/BaiShanYunKeJi/README.md) | [Clash](rule/Clash/BaiShanYunKeJi/README.md) | [Egern](rule/Egern/BaiShanYunKeJi/README.md) |
+| 暴风影音 | 生活与工具 | [Surge](rule/Surge/BaoFengYingYin/README.md) | [Loon](rule/Loon/BaoFengYingYin/README.md) | [Clash](rule/Clash/BaoFengYingYin/README.md) | [Egern](rule/Egern/BaoFengYingYin/README.md) |
+| Bard / Gemini | AI 服务 | [Surge](rule/Surge/BardAI/README.md) | [Loon](rule/Loon/BardAI/README.md) | [Clash](rule/Clash/BardAI/README.md) | [Egern](rule/Egern/BardAI/README.md) |
+| 战网 | 游戏平台 | [Surge](rule/Surge/Battle/README.md) | [Loon](rule/Loon/Battle/README.md) | [Clash](rule/Clash/Battle/README.md) | [Egern](rule/Egern/Battle/README.md) |
+| BBC | 生活与工具 | [Surge](rule/Surge/BBC/README.md) | [Loon](rule/Loon/BBC/README.md) | [Clash](rule/Clash/BBC/README.md) | [Egern](rule/Egern/BBC/README.md) |
+| Beats | 游戏平台 | [Surge](rule/Surge/Beats/README.md) | [Loon](rule/Loon/Beats/README.md) | [Clash](rule/Clash/Beats/README.md) | [Egern](rule/Egern/Beats/README.md) |
+| 百思买 | 生活与工具 | [Surge](rule/Surge/Bestbuy/README.md) | [Loon](rule/Loon/Bestbuy/README.md) | [Clash](rule/Clash/Bestbuy/README.md) | [Egern](rule/Egern/Bestbuy/README.md) |
+| 倍思 | 生活与工具 | [Surge](rule/Surge/BeStore/README.md) | [Loon](rule/Loon/BeStore/README.md) | [Clash](rule/Clash/BeStore/README.md) | [Egern](rule/Egern/BeStore/README.md) |
+| 百视通 | 流媒体与内容 | [Surge](rule/Surge/BesTV/README.md) | [Loon](rule/Loon/BesTV/README.md) | [Clash](rule/Clash/BesTV/README.md) | [Egern](rule/Egern/BesTV/README.md) |
+| 边锋 | 生活与工具 | [Surge](rule/Surge/BianFeng/README.md) | [Loon](rule/Loon/BianFeng/README.md) | [Clash](rule/Clash/BianFeng/README.md) | [Egern](rule/Egern/BianFeng/README.md) |
+| 哔哩哔哩 | 中国大陆服务 | [Surge](rule/Surge/BiliBili/README.md) | [Loon](rule/Loon/BiliBili/README.md) | [Clash](rule/Clash/BiliBili/README.md) | [Egern](rule/Egern/BiliBili/README.md) |
+| 哔哩哔哩国际版 | 中国大陆服务 | [Surge](rule/Surge/BiliBiliIntl/README.md) | [Loon](rule/Loon/BiliBiliIntl/README.md) | [Clash](rule/Clash/BiliBiliIntl/README.md) | [Egern](rule/Egern/BiliBiliIntl/README.md) |
+| 币安 | 金融电商 | [Surge](rule/Surge/Binance/README.md) | [Loon](rule/Loon/Binance/README.md) | [Clash](rule/Clash/Binance/README.md) | [Egern](rule/Egern/Binance/README.md) |
+| 必应 | 生活与工具 | [Surge](rule/Surge/Bing/README.md) | [Loon](rule/Loon/Bing/README.md) | [Clash](rule/Clash/Bing/README.md) | [Egern](rule/Egern/Bing/README.md) |
+| 暴雪 | 游戏平台 | [Surge](rule/Surge/Blizzard/README.md) | [Loon](rule/Loon/Blizzard/README.md) | [Clash](rule/Clash/Blizzard/README.md) | [Egern](rule/Egern/Blizzard/README.md) |
+| 屏蔽 HTTPDNS | 云与网络 | [Surge](rule/Surge/BlockHttpDNS/README.md) | [Loon](rule/Loon/BlockHttpDNS/README.md) | [Clash](rule/Clash/BlockHttpDNS/README.md) | [Egern](rule/Egern/BlockHttpDNS/README.md) |
+| 彭博 | 生活与工具 | [Surge](rule/Surge/Bloomberg/README.md) | [Loon](rule/Loon/Bloomberg/README.md) | [Clash](rule/Clash/Bloomberg/README.md) | [Egern](rule/Egern/Bloomberg/README.md) |
+| Blued | 生活与工具 | [Surge](rule/Surge/Blued/README.md) | [Loon](rule/Loon/Blued/README.md) | [Clash](rule/Clash/Blued/README.md) | [Egern](rule/Egern/Blued/README.md) |
+| 宝马 | 品牌与硬件 | [Surge](rule/Surge/BMW/README.md) | [Loon](rule/Loon/BMW/README.md) | [Clash](rule/Clash/BMW/README.md) | [Egern](rule/Egern/BMW/README.md) |
+| 中国银行 | 金融电商 | [Surge](rule/Surge/BOC/README.md) | [Loon](rule/Loon/BOC/README.md) | [Clash](rule/Clash/BOC/README.md) | [Egern](rule/Egern/BOC/README.md) |
+| 交通银行 | 金融电商 | [Surge](rule/Surge/BOCOM/README.md) | [Loon](rule/Loon/BOCOM/README.md) | [Clash](rule/Clash/BOCOM/README.md) | [Egern](rule/Egern/BOCOM/README.md) |
+| Bootstrap 中文网 | 生活与工具 | [Surge](rule/Surge/Bootcss/README.md) | [Loon](rule/Loon/Bootcss/README.md) | [Clash](rule/Clash/Bootcss/README.md) | [Egern](rule/Egern/Bootcss/README.md) |
+| BoXun | 生活与工具 | [Surge](rule/Surge/BoXun/README.md) | [Loon](rule/Loon/BoXun/README.md) | [Clash](rule/Clash/BoXun/README.md) | [Egern](rule/Egern/BoXun/README.md) |
+| BrightCove | 生活与工具 | [Surge](rule/Surge/BrightCove/README.md) | [Loon](rule/Loon/BrightCove/README.md) | [Clash](rule/Clash/BrightCove/README.md) | [Egern](rule/Egern/BrightCove/README.md) |
+| BritboxUK | 生活与工具 | [Surge](rule/Surge/BritboxUK/README.md) | [Loon](rule/Loon/BritboxUK/README.md) | [Clash](rule/Clash/BritboxUK/README.md) | [Egern](rule/Egern/BritboxUK/README.md) |
+| Buypass | 生活与工具 | [Surge](rule/Surge/Buypass/README.md) | [Loon](rule/Loon/Buypass/README.md) | [Clash](rule/Clash/Buypass/README.md) | [Egern](rule/Egern/Buypass/README.md) |
+| 字节跳动 | 生活与工具 | [Surge](rule/Surge/ByteDance/README.md) | [Loon](rule/Loon/ByteDance/README.md) | [Clash](rule/Clash/ByteDance/README.md) | [Egern](rule/Egern/ByteDance/README.md) |
+| CableTV | 流媒体与内容 | [Surge](rule/Surge/CableTV/README.md) | [Loon](rule/Loon/CableTV/README.md) | [Clash](rule/Clash/CableTV/README.md) | [Egern](rule/Egern/CableTV/README.md) |
+| 菜鸟 | AI 服务 | [Surge](rule/Surge/CaiNiao/README.md) | [Loon](rule/Loon/CaiNiao/README.md) | [Clash](rule/Clash/CaiNiao/README.md) | [Egern](rule/Egern/CaiNiao/README.md) |
+| 财新传媒 | AI 服务 | [Surge](rule/Surge/CaiXinChuanMei/README.md) | [Loon](rule/Loon/CaiXinChuanMei/README.md) | [Clash](rule/Clash/CaiXinChuanMei/README.md) | [Egern](rule/Egern/CaiXinChuanMei/README.md) |
+| Cake | 生活与工具 | [Surge](rule/Surge/Cake/README.md) | [Loon](rule/Loon/Cake/README.md) | [Clash](rule/Clash/Cake/README.md) | [Egern](rule/Egern/Cake/README.md) |
+| 相机360 | 生活与工具 | [Surge](rule/Surge/Camera360/README.md) | [Loon](rule/Loon/Camera360/README.md) | [Clash](rule/Clash/Camera360/README.md) | [Egern](rule/Egern/Camera360/README.md) |
+| 佳能 | 品牌与硬件 | [Surge](rule/Surge/Canon/README.md) | [Loon](rule/Loon/Canon/README.md) | [Clash](rule/Clash/Canon/README.md) | [Egern](rule/Egern/Canon/README.md) |
+| 中国科学院 | 生活与工具 | [Surge](rule/Surge/CAS/README.md) | [Loon](rule/Loon/CAS/README.md) | [Clash](rule/Clash/CAS/README.md) | [Egern](rule/Egern/CAS/README.md) |
+| CBS | 生活与工具 | [Surge](rule/Surge/CBS/README.md) | [Loon](rule/Loon/CBS/README.md) | [Clash](rule/Clash/CBS/README.md) | [Egern](rule/Egern/CBS/README.md) |
+| 建设银行 | 金融电商 | [Surge](rule/Surge/CCB/README.md) | [Loon](rule/Loon/CCB/README.md) | [Clash](rule/Clash/CCB/README.md) | [Egern](rule/Egern/CCB/README.md) |
+| 央视 | 流媒体与内容 | [Surge](rule/Surge/CCTV/README.md) | [Loon](rule/Loon/CCTV/README.md) | [Clash](rule/Clash/CCTV/README.md) | [Egern](rule/Egern/CCTV/README.md) |
+| 光大银行 | 金融电商 | [Surge](rule/Surge/CEB/README.md) | [Loon](rule/Loon/CEB/README.md) | [Clash](rule/Clash/CEB/README.md) | [Egern](rule/Egern/CEB/README.md) |
+| 中国教育电视台 | 流媒体与内容 | [Surge](rule/Surge/CETV/README.md) | [Loon](rule/Loon/CETV/README.md) | [Clash](rule/Clash/CETV/README.md) | [Egern](rule/Egern/CETV/README.md) |
+| 广发银行 | 金融电商 | [Surge](rule/Surge/CGB/README.md) | [Loon](rule/Loon/CGB/README.md) | [Clash](rule/Clash/CGB/README.md) | [Egern](rule/Egern/CGB/README.md) |
+| 城通网盘 | 生活与工具 | [Surge](rule/Surge/ChengTongWangPan/README.md) | [Loon](rule/Loon/ChengTongWangPan/README.md) | [Clash](rule/Clash/ChengTongWangPan/README.md) | [Egern](rule/Egern/ChengTongWangPan/README.md) |
+| 中国大陆 | 中国大陆服务 | [Surge](rule/Surge/China/README.md) | [Loon](rule/Loon/China/README.md) | [Clash](rule/Clash/China/README.md) | [Egern](rule/Egern/China/README.md) |
+| 中国 ASN | 中国大陆服务 | [Surge](rule/Surge/ChinaASN/README.md) | [Loon](rule/Loon/ChinaASN/README.md) | [Clash](rule/Clash/ChinaASN/README.md) | [Egern](rule/Egern/ChinaASN/README.md) |
+| 中国 DNS | 云与网络 | [Surge](rule/Surge/ChinaDNS/README.md) | [Loon](rule/Loon/ChinaDNS/README.md) | [Clash](rule/Clash/ChinaDNS/README.md) | [Egern](rule/Egern/ChinaDNS/README.md) |
+| 中国 IP | AI 服务 | [Surge](rule/Surge/ChinaIPs/README.md) | [Loon](rule/Loon/ChinaIPs/README.md) | [Clash](rule/Clash/ChinaIPs/README.md) | [Egern](rule/Egern/ChinaIPs/README.md) |
+| 中国 IP BGP | AI 服务 | [Surge](rule/Surge/ChinaIPsBGP/README.md) | [Loon](rule/Loon/ChinaIPsBGP/README.md) | [Clash](rule/Clash/ChinaIPsBGP/README.md) | [Egern](rule/Egern/ChinaIPsBGP/README.md) |
+| 中国大陆全量 | 中国大陆服务 | [Surge](rule/Surge/ChinaMax/README.md) | [Loon](rule/Loon/ChinaMax/README.md) | [Clash](rule/Clash/ChinaMax/README.md) | [Egern](rule/Egern/ChinaMax/README.md) |
+| 中国大陆全量无 IP | 中国大陆服务 | [Surge](rule/Surge/ChinaMaxNoIP/README.md) | [Loon](rule/Loon/ChinaMaxNoIP/README.md) | [Clash](rule/Clash/ChinaMaxNoIP/README.md) | [Egern](rule/Egern/ChinaMaxNoIP/README.md) |
+| 中国大陆全量无媒体 | 流媒体与内容 | [Surge](rule/Surge/ChinaMaxNoMedia/README.md) | [Loon](rule/Loon/ChinaMaxNoMedia/README.md) | [Clash](rule/Clash/ChinaMaxNoMedia/README.md) | [Egern](rule/Egern/ChinaMaxNoMedia/README.md) |
+| 中国媒体 | 中国大陆服务 | [Surge](rule/Surge/ChinaMedia/README.md) | [Loon](rule/Loon/ChinaMedia/README.md) | [Clash](rule/Clash/ChinaMedia/README.md) | [Egern](rule/Egern/ChinaMedia/README.md) |
+| 中国移动 | 中国大陆服务 | [Surge](rule/Surge/ChinaMobile/README.md) | [Loon](rule/Loon/ChinaMobile/README.md) | [Clash](rule/Clash/ChinaMobile/README.md) | [Egern](rule/Egern/ChinaMobile/README.md) |
+| 中国新闻 | 流媒体与内容 | [Surge](rule/Surge/ChinaNews/README.md) | [Loon](rule/Loon/ChinaNews/README.md) | [Clash](rule/Clash/ChinaNews/README.md) | [Egern](rule/Egern/ChinaNews/README.md) |
+| 中国大陆无媒体 | 流媒体与内容 | [Surge](rule/Surge/ChinaNoMedia/README.md) | [Loon](rule/Loon/ChinaNoMedia/README.md) | [Clash](rule/Clash/ChinaNoMedia/README.md) | [Egern](rule/Egern/ChinaNoMedia/README.md) |
+| 中国电信 | 中国大陆服务 | [Surge](rule/Surge/ChinaTelecom/README.md) | [Loon](rule/Loon/ChinaTelecom/README.md) | [Clash](rule/Clash/ChinaTelecom/README.md) | [Egern](rule/Egern/ChinaTelecom/README.md) |
+| 中国大陆测试 | 中国大陆服务 | [Surge](rule/Surge/ChinaTest/README.md) | [Loon](rule/Loon/ChinaTest/README.md) | [Clash](rule/Clash/ChinaTest/README.md) | [Egern](rule/Egern/ChinaTest/README.md) |
+| 中国联通 | 中国大陆服务 | [Surge](rule/Surge/ChinaUnicom/README.md) | [Loon](rule/Loon/ChinaUnicom/README.md) | [Clash](rule/Clash/ChinaUnicom/README.md) | [Egern](rule/Egern/ChinaUnicom/README.md) |
+| Chromecast | 生活与工具 | [Surge](rule/Surge/Chromecast/README.md) | [Loon](rule/Loon/Chromecast/README.md) | [Clash](rule/Clash/Chromecast/README.md) | [Egern](rule/Egern/Chromecast/README.md) |
+| 中华电信 | 生活与工具 | [Surge](rule/Surge/CHT/README.md) | [Loon](rule/Loon/CHT/README.md) | [Clash](rule/Clash/CHT/README.md) | [Egern](rule/Egern/CHT/README.md) |
+| 创客贴 | 生活与工具 | [Surge](rule/Surge/ChuangKeTie/README.md) | [Loon](rule/Loon/ChuangKeTie/README.md) | [Clash](rule/Clash/ChuangKeTie/README.md) | [Egern](rule/Egern/ChuangKeTie/README.md) |
+| 久游 | 生活与工具 | [Surge](rule/Surge/ChunYou/README.md) | [Loon](rule/Loon/ChunYou/README.md) | [Clash](rule/Clash/ChunYou/README.md) | [Egern](rule/Egern/ChunYou/README.md) |
+| CIBN | 生活与工具 | [Surge](rule/Surge/CIBN/README.md) | [Loon](rule/Loon/CIBN/README.md) | [Clash](rule/Clash/CIBN/README.md) | [Egern](rule/Egern/CIBN/README.md) |
+| 思科 | 云与网络 | [Surge](rule/Surge/Cisco/README.md) | [Loon](rule/Loon/Cisco/README.md) | [Clash](rule/Clash/Cisco/README.md) | [Egern](rule/Egern/Cisco/README.md) |
+| Civitai | AI 服务 | [Surge](rule/Surge/Civitai/README.md) | [Loon](rule/Loon/Civitai/README.md) | [Clash](rule/Clash/Civitai/README.md) | [Egern](rule/Egern/Civitai/README.md) |
+| CKJR | 生活与工具 | [Surge](rule/Surge/CKJR/README.md) | [Loon](rule/Loon/CKJR/README.md) | [Clash](rule/Clash/CKJR/README.md) | [Egern](rule/Egern/CKJR/README.md) |
+| Classic | 生活与工具 | [Surge](rule/Surge/Classic/README.md) | [Loon](rule/Loon/Classic/README.md) | [Clash](rule/Clash/Classic/README.md) | [Egern](rule/Egern/Classic/README.md) |
+| Claude | AI 服务 | [Surge](rule/Surge/Claude/README.md) | [Loon](rule/Loon/Claude/README.md) | [Clash](rule/Clash/Claude/README.md) | [Egern](rule/Egern/Claude/README.md) |
+| Cloudflare | 云与网络 | [Surge](rule/Surge/Cloudflare/README.md) | [Loon](rule/Loon/Cloudflare/README.md) | [Clash](rule/Clash/Cloudflare/README.md) | [Egern](rule/Egern/Cloudflare/README.md) |
+| Cloudflare 中国 | 云与网络 | [Surge](rule/Surge/Cloudflarecn/README.md) | [Loon](rule/Loon/Cloudflarecn/README.md) | [Clash](rule/Clash/Cloudflarecn/README.md) | [Egern](rule/Egern/Cloudflarecn/README.md) |
+| Clubhouse | 社交通信 | [Surge](rule/Surge/Clubhouse/README.md) | [Loon](rule/Loon/Clubhouse/README.md) | [Clash](rule/Clash/Clubhouse/README.md) | [Egern](rule/Egern/Clubhouse/README.md) |
+| ClubhouseIP | 社交通信 | [Surge](rule/Surge/ClubhouseIP/README.md) | [Loon](rule/Loon/ClubhouseIP/README.md) | [Clash](rule/Clash/ClubhouseIP/README.md) | [Egern](rule/Egern/ClubhouseIP/README.md) |
+| 招商银行 | 金融电商 | [Surge](rule/Surge/CMB/README.md) | [Loon](rule/Loon/CMB/README.md) | [Clash](rule/Clash/CMB/README.md) | [Egern](rule/Egern/CMB/README.md) |
+| Cnet | 中国大陆服务 | [Surge](rule/Surge/Cnet/README.md) | [Loon](rule/Loon/Cnet/README.md) | [Clash](rule/Clash/Cnet/README.md) | [Egern](rule/Egern/Cnet/README.md) |
+| 知网 | 中国大陆服务 | [Surge](rule/Surge/CNKI/README.md) | [Loon](rule/Loon/CNKI/README.md) | [Clash](rule/Clash/CNKI/README.md) | [Egern](rule/Egern/CNKI/README.md) |
+| CNN | 中国大陆服务 | [Surge](rule/Surge/CNN/README.md) | [Loon](rule/Loon/CNN/README.md) | [Clash](rule/Clash/CNN/README.md) | [Egern](rule/Egern/CNN/README.md) |
+| CNNIC | 中国大陆服务 | [Surge](rule/Surge/CNNIC/README.md) | [Loon](rule/Loon/CNNIC/README.md) | [Clash](rule/Clash/CNNIC/README.md) | [Egern](rule/Egern/CNNIC/README.md) |
+| Collabora | 生活与工具 | [Surge](rule/Surge/Collabora/README.md) | [Loon](rule/Loon/Collabora/README.md) | [Clash](rule/Clash/Collabora/README.md) | [Egern](rule/Egern/Collabora/README.md) |
+| Comodo | 生活与工具 | [Surge](rule/Surge/Comodo/README.md) | [Loon](rule/Loon/Comodo/README.md) | [Clash](rule/Clash/Comodo/README.md) | [Egern](rule/Egern/Comodo/README.md) |
+| Contentful | 生活与工具 | [Surge](rule/Surge/Contentful/README.md) | [Loon](rule/Loon/Contentful/README.md) | [Clash](rule/Clash/Contentful/README.md) | [Egern](rule/Egern/Contentful/README.md) |
+| 酷安 | 生活与工具 | [Surge](rule/Surge/Coolapk/README.md) | [Loon](rule/Loon/Coolapk/README.md) | [Clash](rule/Clash/Coolapk/README.md) | [Egern](rule/Egern/Coolapk/README.md) |
+| Copilot | AI 服务 | [Surge](rule/Surge/Copilot/README.md) | [Loon](rule/Loon/Copilot/README.md) | [Clash](rule/Clash/Copilot/README.md) | [Egern](rule/Egern/Copilot/README.md) |
+| Crypto | 金融电商 | [Surge](rule/Surge/Crypto/README.md) | [Loon](rule/Loon/Crypto/README.md) | [Clash](rule/Clash/Crypto/README.md) | [Egern](rule/Egern/Crypto/README.md) |
+| Cryptocurrency | 金融电商 | [Surge](rule/Surge/Cryptocurrency/README.md) | [Loon](rule/Loon/Cryptocurrency/README.md) | [Clash](rule/Clash/Cryptocurrency/README.md) | [Egern](rule/Egern/Cryptocurrency/README.md) |
+| CSDN | 生活与工具 | [Surge](rule/Surge/CSDN/README.md) | [Loon](rule/Loon/CSDN/README.md) | [Clash](rule/Clash/CSDN/README.md) | [Egern](rule/Egern/CSDN/README.md) |
+| CWSeed | 生活与工具 | [Surge](rule/Surge/CWSeed/README.md) | [Loon](rule/Loon/CWSeed/README.md) | [Clash](rule/Clash/CWSeed/README.md) | [Egern](rule/Egern/CWSeed/README.md) |
+| CyberTrust | 生活与工具 | [Surge](rule/Surge/CyberTrust/README.md) | [Loon](rule/Loon/CyberTrust/README.md) | [Clash](rule/Clash/CyberTrust/README.md) | [Egern](rule/Egern/CyberTrust/README.md) |
+| Dailymail | AI 服务 | [Surge](rule/Surge/Dailymail/README.md) | [Loon](rule/Loon/Dailymail/README.md) | [Clash](rule/Clash/Dailymail/README.md) | [Egern](rule/Egern/Dailymail/README.md) |
+| Dailymotion | AI 服务 | [Surge](rule/Surge/Dailymotion/README.md) | [Loon](rule/Loon/Dailymotion/README.md) | [Clash](rule/Clash/Dailymotion/README.md) | [Egern](rule/Egern/Dailymotion/README.md) |
+| 大麦 | AI 服务 | [Surge](rule/Surge/DaMai/README.md) | [Loon](rule/Loon/DaMai/README.md) | [Clash](rule/Clash/DaMai/README.md) | [Egern](rule/Egern/DaMai/README.md) |
+| 弹弹play | 生活与工具 | [Surge](rule/Surge/Dandanplay/README.md) | [Loon](rule/Loon/Dandanplay/README.md) | [Clash](rule/Clash/Dandanplay/README.md) | [Egern](rule/Egern/Dandanplay/README.md) |
+| 蛋蛋赞 | 生活与工具 | [Surge](rule/Surge/DanDanZan/README.md) | [Loon](rule/Loon/DanDanZan/README.md) | [Clash](rule/Clash/DanDanZan/README.md) | [Egern](rule/Egern/DanDanZan/README.md) |
+| 当当 | 生活与工具 | [Surge](rule/Surge/DangDang/README.md) | [Loon](rule/Loon/DangDang/README.md) | [Clash](rule/Clash/DangDang/README.md) | [Egern](rule/Egern/DangDang/README.md) |
+| DAZN | 生活与工具 | [Surge](rule/Surge/DAZN/README.md) | [Loon](rule/Loon/DAZN/README.md) | [Clash](rule/Clash/DAZN/README.md) | [Egern](rule/Egern/DAZN/README.md) |
+| 得到 | 生活与工具 | [Surge](rule/Surge/Dedao/README.md) | [Loon](rule/Loon/Dedao/README.md) | [Clash](rule/Clash/Dedao/README.md) | [Egern](rule/Egern/Dedao/README.md) |
+| 深度 | 生活与工具 | [Surge](rule/Surge/Deepin/README.md) | [Loon](rule/Loon/Deepin/README.md) | [Clash](rule/Clash/Deepin/README.md) | [Egern](rule/Egern/Deepin/README.md) |
+| Deezer | 生活与工具 | [Surge](rule/Surge/Deezer/README.md) | [Loon](rule/Loon/Deezer/README.md) | [Clash](rule/Clash/Deezer/README.md) | [Egern](rule/Egern/Deezer/README.md) |
+| 戴尔 | 生活与工具 | [Surge](rule/Surge/Dell/README.md) | [Loon](rule/Loon/Dell/README.md) | [Clash](rule/Clash/Dell/README.md) | [Egern](rule/Egern/Dell/README.md) |
+| 开发者服务 | 开发者平台 | [Surge](rule/Surge/Developer/README.md) | [Loon](rule/Loon/Developer/README.md) | [Clash](rule/Clash/Developer/README.md) | [Egern](rule/Egern/Developer/README.md) |
+| DiabloIII | 生活与工具 | [Surge](rule/Surge/DiabloIII/README.md) | [Loon](rule/Loon/DiabloIII/README.md) | [Clash](rule/Clash/DiabloIII/README.md) | [Egern](rule/Egern/DiabloIII/README.md) |
+| 电策网课 | 生活与工具 | [Surge](rule/Surge/DianCeWangKe/README.md) | [Loon](rule/Loon/DianCeWangKe/README.md) | [Clash](rule/Clash/DianCeWangKe/README.md) | [Egern](rule/Egern/DianCeWangKe/README.md) |
+| 滴滴 | 生活与工具 | [Surge](rule/Surge/DiDi/README.md) | [Loon](rule/Loon/DiDi/README.md) | [Clash](rule/Clash/DiDi/README.md) | [Egern](rule/Egern/DiDi/README.md) |
+| DigiCert | 云与网络 | [Surge](rule/Surge/DigiCert/README.md) | [Loon](rule/Loon/DigiCert/README.md) | [Clash](rule/Clash/DigiCert/README.md) | [Egern](rule/Egern/DigiCert/README.md) |
+| DigitalOcean | 游戏平台 | [Surge](rule/Surge/DigitalOcean/README.md) | [Loon](rule/Loon/DigitalOcean/README.md) | [Clash](rule/Clash/DigitalOcean/README.md) | [Egern](rule/Egern/DigitalOcean/README.md) |
+| 帝联网络 | 生活与工具 | [Surge](rule/Surge/DiLianWangLuo/README.md) | [Loon](rule/Loon/DiLianWangLuo/README.md) | [Clash](rule/Clash/DiLianWangLuo/README.md) | [Egern](rule/Egern/DiLianWangLuo/README.md) |
+| 钉钉 | 生活与工具 | [Surge](rule/Surge/DingTalk/README.md) | [Loon](rule/Loon/DingTalk/README.md) | [Clash](rule/Clash/DingTalk/README.md) | [Egern](rule/Egern/DingTalk/README.md) |
+| 丁香园 | 生活与工具 | [Surge](rule/Surge/DingXiangYuan/README.md) | [Loon](rule/Loon/DingXiangYuan/README.md) | [Clash](rule/Clash/DingXiangYuan/README.md) | [Egern](rule/Egern/DingXiangYuan/README.md) |
+| 直连 | 隐私与基础分流 | [Surge](rule/Surge/Direct/README.md) | [Loon](rule/Loon/Direct/README.md) | [Clash](rule/Clash/Direct/README.md) | [Egern](rule/Egern/Direct/README.md) |
+| Discord | 社交通信 | [Surge](rule/Surge/Discord/README.md) | [Loon](rule/Loon/Discord/README.md) | [Clash](rule/Clash/Discord/README.md) | [Egern](rule/Egern/Discord/README.md) |
+| DiscoveryPlus | 生活与工具 | [Surge](rule/Surge/DiscoveryPlus/README.md) | [Loon](rule/Loon/DiscoveryPlus/README.md) | [Clash](rule/Clash/DiscoveryPlus/README.md) | [Egern](rule/Egern/DiscoveryPlus/README.md) |
+| DiSiFanShi | 生活与工具 | [Surge](rule/Surge/DiSiFanShi/README.md) | [Loon](rule/Loon/DiSiFanShi/README.md) | [Clash](rule/Clash/DiSiFanShi/README.md) | [Egern](rule/Egern/DiSiFanShi/README.md) |
+| 迪士尼 | 流媒体与内容 | [Surge](rule/Surge/Disney/README.md) | [Loon](rule/Loon/Disney/README.md) | [Clash](rule/Clash/Disney/README.md) | [Egern](rule/Egern/Disney/README.md) |
+| Disqus | 生活与工具 | [Surge](rule/Surge/Disqus/README.md) | [Loon](rule/Loon/Disqus/README.md) | [Clash](rule/Clash/Disqus/README.md) | [Egern](rule/Egern/Disqus/README.md) |
+| DMM | 生活与工具 | [Surge](rule/Surge/DMM/README.md) | [Loon](rule/Loon/DMM/README.md) | [Clash](rule/Clash/DMM/README.md) | [Egern](rule/Egern/DMM/README.md) |
+| DNS | 云与网络 | [Surge](rule/Surge/DNS/README.md) | [Loon](rule/Loon/DNS/README.md) | [Clash](rule/Clash/DNS/README.md) | [Egern](rule/Egern/DNS/README.md) |
+| Docker | 开发者平台 | [Surge](rule/Surge/Docker/README.md) | [Loon](rule/Loon/Docker/README.md) | [Clash](rule/Clash/Docker/README.md) | [Egern](rule/Egern/Docker/README.md) |
+| Domob | 生活与工具 | [Surge](rule/Surge/Domob/README.md) | [Loon](rule/Loon/Domob/README.md) | [Clash](rule/Clash/Domob/README.md) | [Egern](rule/Egern/Domob/README.md) |
+| Dood | 生活与工具 | [Surge](rule/Surge/Dood/README.md) | [Loon](rule/Loon/Dood/README.md) | [Clash](rule/Clash/Dood/README.md) | [Egern](rule/Egern/Dood/README.md) |
+| 豆瓣 | 生活与工具 | [Surge](rule/Surge/DouBan/README.md) | [Loon](rule/Loon/DouBan/README.md) | [Clash](rule/Clash/DouBan/README.md) | [Egern](rule/Egern/DouBan/README.md) |
+| 抖音 | 中国大陆服务 | [Surge](rule/Surge/DouYin/README.md) | [Loon](rule/Loon/DouYin/README.md) | [Clash](rule/Clash/DouYin/README.md) | [Egern](rule/Egern/DouYin/README.md) |
+| 斗鱼 | 生活与工具 | [Surge](rule/Surge/Douyu/README.md) | [Loon](rule/Loon/Douyu/README.md) | [Clash](rule/Clash/Douyu/README.md) | [Egern](rule/Egern/Douyu/README.md) |
+| 下载服务 | 生活与工具 | [Surge](rule/Surge/Download/README.md) | [Loon](rule/Loon/Download/README.md) | [Clash](rule/Clash/Download/README.md) | [Egern](rule/Egern/Download/README.md) |
+| Dropbox | 办公协作 | [Surge](rule/Surge/Dropbox/README.md) | [Loon](rule/Loon/Dropbox/README.md) | [Clash](rule/Clash/Dropbox/README.md) | [Egern](rule/Egern/Dropbox/README.md) |
+| DtDNS | 云与网络 | [Surge](rule/Surge/DtDNS/README.md) | [Loon](rule/Loon/DtDNS/README.md) | [Clash](rule/Clash/DtDNS/README.md) | [Egern](rule/Egern/DtDNS/README.md) |
+| Dubox | 生活与工具 | [Surge](rule/Surge/Dubox/README.md) | [Loon](rule/Loon/Dubox/README.md) | [Clash](rule/Clash/Dubox/README.md) | [Egern](rule/Egern/Dubox/README.md) |
+| Duckduckgo | 生活与工具 | [Surge](rule/Surge/Duckduckgo/README.md) | [Loon](rule/Loon/Duckduckgo/README.md) | [Clash](rule/Clash/Duckduckgo/README.md) | [Egern](rule/Egern/Duckduckgo/README.md) |
+| 多邻国 | 生活与工具 | [Surge](rule/Surge/Duolingo/README.md) | [Loon](rule/Loon/Duolingo/README.md) | [Clash](rule/Clash/Duolingo/README.md) | [Egern](rule/Egern/Duolingo/README.md) |
+| 多玩 | 生活与工具 | [Surge](rule/Surge/DuoWan/README.md) | [Loon](rule/Loon/DuoWan/README.md) | [Clash](rule/Clash/DuoWan/README.md) | [Egern](rule/Egern/DuoWan/README.md) |
+| DynDNS | 云与网络 | [Surge](rule/Surge/DynDNS/README.md) | [Loon](rule/Loon/DynDNS/README.md) | [Clash](rule/Clash/DynDNS/README.md) | [Egern](rule/Egern/DynDNS/README.md) |
+| Dynu | 生活与工具 | [Surge](rule/Surge/Dynu/README.md) | [Loon](rule/Loon/Dynu/README.md) | [Clash](rule/Clash/Dynu/README.md) | [Egern](rule/Egern/Dynu/README.md) |
+| EA | 游戏平台 | [Surge](rule/Surge/EA/README.md) | [Loon](rule/Loon/EA/README.md) | [Clash](rule/Clash/EA/README.md) | [Egern](rule/Egern/EA/README.md) |
+| 东方财富 | 游戏平台 | [Surge](rule/Surge/EastMoney/README.md) | [Loon](rule/Loon/EastMoney/README.md) | [Clash](rule/Clash/EastMoney/README.md) | [Egern](rule/Egern/EastMoney/README.md) |
+| eBay | 生活与工具 | [Surge](rule/Surge/eBay/README.md) | [Loon](rule/Loon/eBay/README.md) | [Clash](rule/Clash/eBay/README.md) | [Egern](rule/Egern/eBay/README.md) |
+| EHGallery | 生活与工具 | [Surge](rule/Surge/EHGallery/README.md) | [Loon](rule/Loon/EHGallery/README.md) | [Clash](rule/Clash/EHGallery/README.md) | [Egern](rule/Egern/EHGallery/README.md) |
+| Electron | 生活与工具 | [Surge](rule/Surge/Electron/README.md) | [Loon](rule/Loon/Electron/README.md) | [Clash](rule/Clash/Electron/README.md) | [Egern](rule/Egern/Electron/README.md) |
+| 饿了么 | 生活与工具 | [Surge](rule/Surge/Eleme/README.md) | [Loon](rule/Loon/Eleme/README.md) | [Clash](rule/Clash/Eleme/README.md) | [Egern](rule/Egern/Eleme/README.md) |
+| Embl | 生活与工具 | [Surge](rule/Surge/Embl/README.md) | [Loon](rule/Loon/Embl/README.md) | [Clash](rule/Clash/Embl/README.md) | [Egern](rule/Egern/Embl/README.md) |
+| Emby | 生活与工具 | [Surge](rule/Surge/Emby/README.md) | [Loon](rule/Loon/Emby/README.md) | [Clash](rule/Clash/Emby/README.md) | [Egern](rule/Egern/Emby/README.md) |
+| Emojipedia | 生活与工具 | [Surge](rule/Surge/Emojipedia/README.md) | [Loon](rule/Loon/Emojipedia/README.md) | [Clash](rule/Clash/Emojipedia/README.md) | [Egern](rule/Egern/Emojipedia/README.md) |
+| EncoreTVB | 流媒体与内容 | [Surge](rule/Surge/EncoreTVB/README.md) | [Loon](rule/Loon/EncoreTVB/README.md) | [Clash](rule/Clash/EncoreTVB/README.md) | [Egern](rule/Egern/EncoreTVB/README.md) |
+| Entrust | 生活与工具 | [Surge](rule/Surge/Entrust/README.md) | [Loon](rule/Loon/Entrust/README.md) | [Clash](rule/Clash/Entrust/README.md) | [Egern](rule/Egern/Entrust/README.md) |
+| Epic Games | 游戏平台 | [Surge](rule/Surge/Epic/README.md) | [Loon](rule/Loon/Epic/README.md) | [Clash](rule/Clash/Epic/README.md) | [Egern](rule/Egern/Epic/README.md) |
+| Espn | 生活与工具 | [Surge](rule/Surge/Espn/README.md) | [Loon](rule/Loon/Espn/README.md) | [Clash](rule/Clash/Espn/README.md) | [Egern](rule/Egern/Espn/README.md) |
+| 脸书 | 社交通信 | [Surge](rule/Surge/Facebook/README.md) | [Loon](rule/Loon/Facebook/README.md) | [Clash](rule/Clash/Facebook/README.md) | [Egern](rule/Egern/Facebook/README.md) |
+| 饭否 | 生活与工具 | [Surge](rule/Surge/FanFou/README.md) | [Loon](rule/Loon/FanFou/README.md) | [Clash](rule/Clash/FanFou/README.md) | [Egern](rule/Egern/FanFou/README.md) |
+| 方正电子 | 生活与工具 | [Surge](rule/Surge/FangZhengDianZi/README.md) | [Loon](rule/Loon/FangZhengDianZi/README.md) | [Clash](rule/Clash/FangZhengDianZi/README.md) | [Egern](rule/Egern/FangZhengDianZi/README.md) |
+| Faronics | 生活与工具 | [Surge](rule/Surge/Faronics/README.md) | [Loon](rule/Loon/Faronics/README.md) | [Clash](rule/Clash/Faronics/README.md) | [Egern](rule/Egern/Faronics/README.md) |
+| 飞猪 | 生活与工具 | [Surge](rule/Surge/FeiZhu/README.md) | [Loon](rule/Loon/FeiZhu/README.md) | [Clash](rule/Clash/FeiZhu/README.md) | [Egern](rule/Egern/FeiZhu/README.md) |
+| 凤凰网 | 生活与工具 | [Surge](rule/Surge/FengHuangWang/README.md) | [Loon](rule/Loon/FengHuangWang/README.md) | [Clash](rule/Clash/FengHuangWang/README.md) | [Egern](rule/Egern/FengHuangWang/README.md) |
+| 烽侠网络 | 生活与工具 | [Surge](rule/Surge/FengXiaWangLuo/README.md) | [Loon](rule/Loon/FengXiaWangLuo/README.md) | [Clash](rule/Clash/FengXiaWangLuo/README.md) | [Egern](rule/Egern/FengXiaWangLuo/README.md) |
+| Figma | 生活与工具 | [Surge](rule/Surge/Figma/README.md) | [Loon](rule/Loon/Figma/README.md) | [Clash](rule/Clash/Figma/README.md) | [Egern](rule/Egern/Figma/README.md) |
+| Fiio | 生活与工具 | [Surge](rule/Surge/Fiio/README.md) | [Loon](rule/Loon/Fiio/README.md) | [Clash](rule/Clash/Fiio/README.md) | [Egern](rule/Egern/Fiio/README.md) |
+| 查找 | 苹果生态 | [Surge](rule/Surge/FindMy/README.md) | [Loon](rule/Loon/FindMy/README.md) | [Clash](rule/Clash/FindMy/README.md) | [Egern](rule/Egern/FindMy/README.md) |
+| FitnessPlus | 生活与工具 | [Surge](rule/Surge/FitnessPlus/README.md) | [Loon](rule/Loon/FitnessPlus/README.md) | [Clash](rule/Clash/FitnessPlus/README.md) | [Egern](rule/Egern/FitnessPlus/README.md) |
+| FlipBoard | 生活与工具 | [Surge](rule/Surge/FlipBoard/README.md) | [Loon](rule/Loon/FlipBoard/README.md) | [Clash](rule/Clash/FlipBoard/README.md) | [Egern](rule/Egern/FlipBoard/README.md) |
+| Flurry | 生活与工具 | [Surge](rule/Surge/Flurry/README.md) | [Loon](rule/Loon/Flurry/README.md) | [Clash](rule/Clash/Flurry/README.md) | [Egern](rule/Egern/Flurry/README.md) |
+| 福克斯 | 生活与工具 | [Surge](rule/Surge/Fox/README.md) | [Loon](rule/Loon/Fox/README.md) | [Clash](rule/Clash/Fox/README.md) | [Egern](rule/Egern/Fox/README.md) |
+| FOXNOW | 生活与工具 | [Surge](rule/Surge/FOXNOW/README.md) | [Loon](rule/Loon/FOXNOW/README.md) | [Clash](rule/Clash/FOXNOW/README.md) | [Egern](rule/Egern/FOXNOW/README.md) |
+| FOXPlus | 生活与工具 | [Surge](rule/Surge/FOXPlus/README.md) | [Loon](rule/Loon/FOXPlus/README.md) | [Clash](rule/Clash/FOXPlus/README.md) | [Egern](rule/Egern/FOXPlus/README.md) |
+| FreeCodeCamp | 生活与工具 | [Surge](rule/Surge/FreeCodeCamp/README.md) | [Loon](rule/Loon/FreeCodeCamp/README.md) | [Clash](rule/Clash/FreeCodeCamp/README.md) | [Egern](rule/Egern/FreeCodeCamp/README.md) |
+| friDay | 生活与工具 | [Surge](rule/Surge/friDay/README.md) | [Loon](rule/Loon/friDay/README.md) | [Clash](rule/Clash/friDay/README.md) | [Egern](rule/Egern/friDay/README.md) |
+| FuboTV | 流媒体与内容 | [Surge](rule/Surge/FuboTV/README.md) | [Loon](rule/Loon/FuboTV/README.md) | [Clash](rule/Clash/FuboTV/README.md) | [Egern](rule/Egern/FuboTV/README.md) |
+| Funshion | 生活与工具 | [Surge](rule/Surge/Funshion/README.md) | [Loon](rule/Loon/Funshion/README.md) | [Clash](rule/Clash/Funshion/README.md) | [Egern](rule/Egern/Funshion/README.md) |
+| 游戏平台 | 游戏平台 | [Surge](rule/Surge/Game/README.md) | [Loon](rule/Loon/Game/README.md) | [Clash](rule/Clash/Game/README.md) | [Egern](rule/Egern/Game/README.md) |
+| 游戏平台 | 游戏平台 | [Surge](rule/Surge/GamePlatforms/README.md) | [Loon](rule/Loon/GamePlatforms/README.md) | [Clash](rule/Clash/GamePlatforms/README.md) | [Egern](rule/Egern/GamePlatforms/README.md) |
+| 高德地图 | 生活与工具 | [Surge](rule/Surge/GaoDe/README.md) | [Loon](rule/Loon/GaoDe/README.md) | [Clash](rule/Clash/GaoDe/README.md) | [Egern](rule/Egern/GaoDe/README.md) |
+| Garena | 生活与工具 | [Surge](rule/Surge/Garena/README.md) | [Loon](rule/Loon/Garena/README.md) | [Clash](rule/Clash/Garena/README.md) | [Egern](rule/Egern/Garena/README.md) |
+| 吉利 | 生活与工具 | [Surge](rule/Surge/Geely/README.md) | [Loon](rule/Loon/Geely/README.md) | [Clash](rule/Clash/Geely/README.md) | [Egern](rule/Egern/Geely/README.md) |
+| Gemini | AI 服务 | [Surge](rule/Surge/Gemini/README.md) | [Loon](rule/Loon/Gemini/README.md) | [Clash](rule/Clash/Gemini/README.md) | [Egern](rule/Egern/Gemini/README.md) |
+| Gettyimages | 生活与工具 | [Surge](rule/Surge/Gettyimages/README.md) | [Loon](rule/Loon/Gettyimages/README.md) | [Clash](rule/Clash/Gettyimages/README.md) | [Egern](rule/Egern/Gettyimages/README.md) |
+| Gigabyte | 生活与工具 | [Surge](rule/Surge/Gigabyte/README.md) | [Loon](rule/Loon/Gigabyte/README.md) | [Clash](rule/Clash/Gigabyte/README.md) | [Egern](rule/Egern/Gigabyte/README.md) |
+| GitBook | 开发者平台 | [Surge](rule/Surge/GitBook/README.md) | [Loon](rule/Loon/GitBook/README.md) | [Clash](rule/Clash/GitBook/README.md) | [Egern](rule/Egern/GitBook/README.md) |
+| Gitee | 开发者平台 | [Surge](rule/Surge/Gitee/README.md) | [Loon](rule/Loon/Gitee/README.md) | [Clash](rule/Clash/Gitee/README.md) | [Egern](rule/Egern/Gitee/README.md) |
+| GitHub | 开发者平台 | [Surge](rule/Surge/GitHub/README.md) | [Loon](rule/Loon/GitHub/README.md) | [Clash](rule/Clash/GitHub/README.md) | [Egern](rule/Egern/GitHub/README.md) |
+| GitLab | 开发者平台 | [Surge](rule/Surge/GitLab/README.md) | [Loon](rule/Loon/GitLab/README.md) | [Clash](rule/Clash/GitLab/README.md) | [Egern](rule/Egern/GitLab/README.md) |
+| Global | 生活与工具 | [Surge](rule/Surge/Global/README.md) | [Loon](rule/Loon/Global/README.md) | [Clash](rule/Clash/Global/README.md) | [Egern](rule/Egern/Global/README.md) |
+| 国际媒体 | 流媒体与内容 | [Surge](rule/Surge/GlobalMedia/README.md) | [Loon](rule/Loon/GlobalMedia/README.md) | [Clash](rule/Clash/GlobalMedia/README.md) | [Egern](rule/Egern/GlobalMedia/README.md) |
+| GlobalScholar | 生活与工具 | [Surge](rule/Surge/GlobalScholar/README.md) | [Loon](rule/Loon/GlobalScholar/README.md) | [Clash](rule/Clash/GlobalScholar/README.md) | [Egern](rule/Egern/GlobalScholar/README.md) |
+| GlobalSign | 生活与工具 | [Surge](rule/Surge/GlobalSign/README.md) | [Loon](rule/Loon/GlobalSign/README.md) | [Clash](rule/Clash/GlobalSign/README.md) | [Egern](rule/Egern/GlobalSign/README.md) |
+| Gog | 生活与工具 | [Surge](rule/Surge/Gog/README.md) | [Loon](rule/Loon/Gog/README.md) | [Clash](rule/Clash/Gog/README.md) | [Egern](rule/Egern/Gog/README.md) |
+| 谷歌 | 办公协作 | [Surge](rule/Surge/Google/README.md) | [Loon](rule/Loon/Google/README.md) | [Clash](rule/Clash/Google/README.md) | [Egern](rule/Egern/Google/README.md) |
+| Google Drive | 办公协作 | [Surge](rule/Surge/GoogleDrive/README.md) | [Loon](rule/Loon/GoogleDrive/README.md) | [Clash](rule/Clash/GoogleDrive/README.md) | [Egern](rule/Egern/GoogleDrive/README.md) |
+| GoogleEarth | 办公协作 | [Surge](rule/Surge/GoogleEarth/README.md) | [Loon](rule/Loon/GoogleEarth/README.md) | [Clash](rule/Clash/GoogleEarth/README.md) | [Egern](rule/Egern/GoogleEarth/README.md) |
+| Google FCM | 办公协作 | [Surge](rule/Surge/GoogleFCM/README.md) | [Loon](rule/Loon/GoogleFCM/README.md) | [Clash](rule/Clash/GoogleFCM/README.md) | [Egern](rule/Egern/GoogleFCM/README.md) |
+| GoogleSearch | 办公协作 | [Surge](rule/Surge/GoogleSearch/README.md) | [Loon](rule/Loon/GoogleSearch/README.md) | [Clash](rule/Clash/GoogleSearch/README.md) | [Egern](rule/Egern/GoogleSearch/README.md) |
+| GoogleVoice | 办公协作 | [Surge](rule/Surge/GoogleVoice/README.md) | [Loon](rule/Loon/GoogleVoice/README.md) | [Clash](rule/Clash/GoogleVoice/README.md) | [Egern](rule/Egern/GoogleVoice/README.md) |
+| 中国政务 | 中国大陆服务 | [Surge](rule/Surge/GovCN/README.md) | [Loon](rule/Loon/GovCN/README.md) | [Clash](rule/Clash/GovCN/README.md) | [Egern](rule/Egern/GovCN/README.md) |
+| Gucci | 生活与工具 | [Surge](rule/Surge/Gucci/README.md) | [Loon](rule/Loon/Gucci/README.md) | [Clash](rule/Clash/Gucci/README.md) | [Egern](rule/Egern/Gucci/README.md) |
+| 硅谷动力 | 生活与工具 | [Surge](rule/Surge/GuiGuDongLi/README.md) | [Loon](rule/Loon/GuiGuDongLi/README.md) | [Clash](rule/Clash/GuiGuDongLi/README.md) | [Egern](rule/Egern/GuiGuDongLi/README.md) |
+| 海南航空 | AI 服务 | [Surge](rule/Surge/HaiNanHangKong/README.md) | [Loon](rule/Loon/HaiNanHangKong/README.md) | [Clash](rule/Clash/HaiNanHangKong/README.md) | [Egern](rule/Egern/HaiNanHangKong/README.md) |
+| HamiVideo | 流媒体与内容 | [Surge](rule/Surge/HamiVideo/README.md) | [Loon](rule/Loon/HamiVideo/README.md) | [Clash](rule/Clash/HamiVideo/README.md) | [Egern](rule/Egern/HamiVideo/README.md) |
+| 汉仪 | 生活与工具 | [Surge](rule/Surge/HanYi/README.md) | [Loon](rule/Loon/HanYi/README.md) | [Clash](rule/Clash/HanYi/README.md) | [Egern](rule/Egern/HanYi/README.md) |
+| HashiCorp | 开发者平台 | [Surge](rule/Surge/HashiCorp/README.md) | [Loon](rule/Loon/HashiCorp/README.md) | [Clash](rule/Clash/HashiCorp/README.md) | [Egern](rule/Egern/HashiCorp/README.md) |
+| Haveibeenpwned | 生活与工具 | [Surge](rule/Surge/Haveibeenpwned/README.md) | [Loon](rule/Loon/Haveibeenpwned/README.md) | [Clash](rule/Clash/Haveibeenpwned/README.md) | [Egern](rule/Egern/Haveibeenpwned/README.md) |
+| HBO | 生活与工具 | [Surge](rule/Surge/HBO/README.md) | [Loon](rule/Loon/HBO/README.md) | [Clash](rule/Clash/HBO/README.md) | [Egern](rule/Egern/HBO/README.md) |
+| HBOAsia | 生活与工具 | [Surge](rule/Surge/HBOAsia/README.md) | [Loon](rule/Loon/HBOAsia/README.md) | [Clash](rule/Clash/HBOAsia/README.md) | [Egern](rule/Egern/HBOAsia/README.md) |
+| HBOHK | 生活与工具 | [Surge](rule/Surge/HBOHK/README.md) | [Loon](rule/Loon/HBOHK/README.md) | [Clash](rule/Clash/HBOHK/README.md) | [Egern](rule/Egern/HBOHK/README.md) |
+| HBOUSA | 生活与工具 | [Surge](rule/Surge/HBOUSA/README.md) | [Loon](rule/Loon/HBOUSA/README.md) | [Clash](rule/Clash/HBOUSA/README.md) | [Egern](rule/Egern/HBOUSA/README.md) |
+| Hearthstone | 游戏平台 | [Surge](rule/Surge/Hearthstone/README.md) | [Loon](rule/Loon/Hearthstone/README.md) | [Clash](rule/Clash/Hearthstone/README.md) | [Egern](rule/Egern/Hearthstone/README.md) |
+| 盒马 | 生活与工具 | [Surge](rule/Surge/HeMa/README.md) | [Loon](rule/Loon/HeMa/README.md) | [Clash](rule/Clash/HeMa/README.md) | [Egern](rule/Egern/HeMa/README.md) |
+| HeroesoftheStorm | 生活与工具 | [Surge](rule/Surge/HeroesoftheStorm/README.md) | [Loon](rule/Loon/HeroesoftheStorm/README.md) | [Clash](rule/Clash/HeroesoftheStorm/README.md) | [Egern](rule/Egern/HeroesoftheStorm/README.md) |
+| Heroku | 生活与工具 | [Surge](rule/Surge/Heroku/README.md) | [Loon](rule/Loon/Heroku/README.md) | [Clash](rule/Clash/Heroku/README.md) | [Egern](rule/Egern/Heroku/README.md) |
+| HibyMusic | 流媒体与内容 | [Surge](rule/Surge/HibyMusic/README.md) | [Loon](rule/Loon/HibyMusic/README.md) | [Clash](rule/Clash/HibyMusic/README.md) | [Egern](rule/Egern/HibyMusic/README.md) |
+| Hijacking | 隐私与基础分流 | [Surge](rule/Surge/Hijacking/README.md) | [Loon](rule/Loon/Hijacking/README.md) | [Clash](rule/Clash/Hijacking/README.md) | [Egern](rule/Egern/Hijacking/README.md) |
+| 喜马拉雅 | 生活与工具 | [Surge](rule/Surge/Himalaya/README.md) | [Loon](rule/Loon/Himalaya/README.md) | [Clash](rule/Clash/Himalaya/README.md) | [Egern](rule/Egern/Himalaya/README.md) |
+| HKBN | 生活与工具 | [Surge](rule/Surge/HKBN/README.md) | [Loon](rule/Loon/HKBN/README.md) | [Clash](rule/Clash/HKBN/README.md) | [Egern](rule/Egern/HKBN/README.md) |
+| HKedcity | 生活与工具 | [Surge](rule/Surge/HKedcity/README.md) | [Loon](rule/Loon/HKedcity/README.md) | [Clash](rule/Clash/HKedcity/README.md) | [Egern](rule/Egern/HKedcity/README.md) |
+| Hkgolden | 生活与工具 | [Surge](rule/Surge/Hkgolden/README.md) | [Loon](rule/Loon/Hkgolden/README.md) | [Clash](rule/Clash/Hkgolden/README.md) | [Egern](rule/Egern/Hkgolden/README.md) |
+| HKOpenTV | 流媒体与内容 | [Surge](rule/Surge/HKOpenTV/README.md) | [Loon](rule/Loon/HKOpenTV/README.md) | [Clash](rule/Clash/HKOpenTV/README.md) | [Egern](rule/Egern/HKOpenTV/README.md) |
+| 米哈游 | 生活与工具 | [Surge](rule/Surge/HoYoverse/README.md) | [Loon](rule/Loon/HoYoverse/README.md) | [Clash](rule/Clash/HoYoverse/README.md) | [Egern](rule/Egern/HoYoverse/README.md) |
+| 惠普 | 生活与工具 | [Surge](rule/Surge/HP/README.md) | [Loon](rule/Loon/HP/README.md) | [Clash](rule/Clash/HP/README.md) | [Egern](rule/Egern/HP/README.md) |
+| 乐播投屏 | 生活与工具 | [Surge](rule/Surge/Hpplay/README.md) | [Loon](rule/Loon/Hpplay/README.md) | [Clash](rule/Clash/Hpplay/README.md) | [Egern](rule/Egern/Hpplay/README.md) |
+| 欢聚时代 | 生活与工具 | [Surge](rule/Surge/HuanJu/README.md) | [Loon](rule/Loon/HuanJu/README.md) | [Clash](rule/Clash/HuanJu/README.md) | [Egern](rule/Egern/HuanJu/README.md) |
+| 华数 TV | 流媒体与内容 | [Surge](rule/Surge/HuaShuTV/README.md) | [Loon](rule/Loon/HuaShuTV/README.md) | [Clash](rule/Clash/HuaShuTV/README.md) | [Egern](rule/Egern/HuaShuTV/README.md) |
+| 华为 | 品牌与硬件 | [Surge](rule/Surge/Huawei/README.md) | [Loon](rule/Loon/Huawei/README.md) | [Clash](rule/Clash/Huawei/README.md) | [Egern](rule/Egern/Huawei/README.md) |
+| Huffpost | 生活与工具 | [Surge](rule/Surge/Huffpost/README.md) | [Loon](rule/Loon/Huffpost/README.md) | [Clash](rule/Clash/Huffpost/README.md) | [Egern](rule/Egern/Huffpost/README.md) |
+| Hulu | 流媒体与内容 | [Surge](rule/Surge/Hulu/README.md) | [Loon](rule/Loon/Hulu/README.md) | [Clash](rule/Clash/Hulu/README.md) | [Egern](rule/Egern/Hulu/README.md) |
+| HuluJP | 流媒体与内容 | [Surge](rule/Surge/HuluJP/README.md) | [Loon](rule/Loon/HuluJP/README.md) | [Clash](rule/Clash/HuluJP/README.md) | [Egern](rule/Egern/HuluJP/README.md) |
+| HuluUSA | 流媒体与内容 | [Surge](rule/Surge/HuluUSA/README.md) | [Loon](rule/Loon/HuluUSA/README.md) | [Clash](rule/Clash/HuluUSA/README.md) | [Egern](rule/Egern/HuluUSA/README.md) |
+| 湖南卫视 | 流媒体与内容 | [Surge](rule/Surge/HunanTV/README.md) | [Loon](rule/Loon/HunanTV/README.md) | [Clash](rule/Clash/HunanTV/README.md) | [Egern](rule/Egern/HunanTV/README.md) |
+| 虎扑 | 生活与工具 | [Surge](rule/Surge/Hupu/README.md) | [Loon](rule/Loon/Hupu/README.md) | [Clash](rule/Clash/Hupu/README.md) | [Egern](rule/Egern/Hupu/README.md) |
+| 虎牙 | 生活与工具 | [Surge](rule/Surge/HuYa/README.md) | [Loon](rule/Loon/HuYa/README.md) | [Clash](rule/Clash/HuYa/README.md) | [Egern](rule/Egern/HuYa/README.md) |
+| HWTV | 流媒体与内容 | [Surge](rule/Surge/HWTV/README.md) | [Loon](rule/Loon/HWTV/README.md) | [Clash](rule/Clash/HWTV/README.md) | [Egern](rule/Egern/HWTV/README.md) |
+| IBM | 生活与工具 | [Surge](rule/Surge/IBM/README.md) | [Loon](rule/Loon/IBM/README.md) | [Clash](rule/Clash/IBM/README.md) | [Egern](rule/Egern/IBM/README.md) |
+| 工商银行 | 金融电商 | [Surge](rule/Surge/ICBC/README.md) | [Loon](rule/Loon/ICBC/README.md) | [Clash](rule/Clash/ICBC/README.md) | [Egern](rule/Egern/ICBC/README.md) |
+| iCloud | 苹果生态 | [Surge](rule/Surge/iCloud/README.md) | [Loon](rule/Loon/iCloud/README.md) | [Clash](rule/Clash/iCloud/README.md) | [Egern](rule/Egern/iCloud/README.md) |
+| iCloud 私密中继 | 苹果生态 | [Surge](rule/Surge/iCloudPrivateRelay/README.md) | [Loon](rule/Loon/iCloudPrivateRelay/README.md) | [Clash](rule/Clash/iCloudPrivateRelay/README.md) | [Egern](rule/Egern/iCloudPrivateRelay/README.md) |
+| Identrust | 生活与工具 | [Surge](rule/Surge/Identrust/README.md) | [Loon](rule/Loon/Identrust/README.md) | [Clash](rule/Clash/Identrust/README.md) | [Egern](rule/Egern/Identrust/README.md) |
+| 爱范儿 | 生活与工具 | [Surge](rule/Surge/ifanr/README.md) | [Loon](rule/Loon/ifanr/README.md) | [Clash](rule/Clash/ifanr/README.md) | [Egern](rule/Egern/ifanr/README.md) |
+| 讯飞 | 生活与工具 | [Surge](rule/Surge/iFlytek/README.md) | [Loon](rule/Loon/iFlytek/README.md) | [Clash](rule/Clash/iFlytek/README.md) | [Egern](rule/Egern/iFlytek/README.md) |
+| IKEA | 游戏平台 | [Surge](rule/Surge/IKEA/README.md) | [Loon](rule/Loon/IKEA/README.md) | [Clash](rule/Clash/IKEA/README.md) | [Egern](rule/Egern/IKEA/README.md) |
+| IMDb | 生活与工具 | [Surge](rule/Surge/IMDB/README.md) | [Loon](rule/Loon/IMDB/README.md) | [Clash](rule/Clash/IMDB/README.md) | [Egern](rule/Egern/IMDB/README.md) |
+| Imgur | 生活与工具 | [Surge](rule/Surge/Imgur/README.md) | [Loon](rule/Loon/Imgur/README.md) | [Clash](rule/Clash/Imgur/README.md) | [Egern](rule/Egern/Imgur/README.md) |
+| Instagram | 社交通信 | [Surge](rule/Surge/Instagram/README.md) | [Loon](rule/Loon/Instagram/README.md) | [Clash](rule/Clash/Instagram/README.md) | [Egern](rule/Egern/Instagram/README.md) |
+| 英特尔 | 品牌与硬件 | [Surge](rule/Surge/Intel/README.md) | [Loon](rule/Loon/Intel/README.md) | [Clash](rule/Clash/Intel/README.md) | [Egern](rule/Egern/Intel/README.md) |
+| Intercom | 生活与工具 | [Surge](rule/Surge/Intercom/README.md) | [Loon](rule/Loon/Intercom/README.md) | [Clash](rule/Clash/Intercom/README.md) | [Egern](rule/Egern/Intercom/README.md) |
+| IPTVMainland | AI 服务 | [Surge](rule/Surge/IPTVMainland/README.md) | [Loon](rule/Loon/IPTVMainland/README.md) | [Clash](rule/Clash/IPTVMainland/README.md) | [Egern](rule/Egern/IPTVMainland/README.md) |
+| IPTVOther | 流媒体与内容 | [Surge](rule/Surge/IPTVOther/README.md) | [Loon](rule/Loon/IPTVOther/README.md) | [Clash](rule/Clash/IPTVOther/README.md) | [Egern](rule/Egern/IPTVOther/README.md) |
+| 爱奇艺 | 中国大陆服务 | [Surge](rule/Surge/iQIYI/README.md) | [Loon](rule/Loon/iQIYI/README.md) | [Clash](rule/Clash/iQIYI/README.md) | [Egern](rule/Egern/iQIYI/README.md) |
+| 爱奇艺国际版 | 中国大陆服务 | [Surge](rule/Surge/iQIYIIntl/README.md) | [Loon](rule/Loon/iQIYIIntl/README.md) | [Clash](rule/Clash/iQIYIIntl/README.md) | [Egern](rule/Egern/iQIYIIntl/README.md) |
+| iTalkBB | 生活与工具 | [Surge](rule/Surge/iTalkBB/README.md) | [Loon](rule/Loon/iTalkBB/README.md) | [Clash](rule/Clash/iTalkBB/README.md) | [Egern](rule/Egern/iTalkBB/README.md) |
+| ITV | 流媒体与内容 | [Surge](rule/Surge/ITV/README.md) | [Loon](rule/Loon/ITV/README.md) | [Clash](rule/Clash/ITV/README.md) | [Egern](rule/Egern/ITV/README.md) |
+| Japonx | 生活与工具 | [Surge](rule/Surge/Japonx/README.md) | [Loon](rule/Loon/Japonx/README.md) | [Clash](rule/Clash/Japonx/README.md) | [Egern](rule/Egern/Japonx/README.md) |
+| JetBrains | AI 服务 | [Surge](rule/Surge/Jetbrains/README.md) | [Loon](rule/Loon/Jetbrains/README.md) | [Clash](rule/Clash/Jetbrains/README.md) | [Egern](rule/Egern/Jetbrains/README.md) |
+| JFrog | 开发者平台 | [Surge](rule/Surge/Jfrog/README.md) | [Loon](rule/Loon/Jfrog/README.md) | [Clash](rule/Clash/Jfrog/README.md) | [Egern](rule/Egern/Jfrog/README.md) |
+| 坚果云 | 生活与工具 | [Surge](rule/Surge/JianGuoYun/README.md) | [Loon](rule/Loon/JianGuoYun/README.md) | [Clash](rule/Clash/JianGuoYun/README.md) | [Egern](rule/Egern/JianGuoYun/README.md) |
+| 简书 | 生活与工具 | [Surge](rule/Surge/JianShu/README.md) | [Loon](rule/Loon/JianShu/README.md) | [Clash](rule/Clash/JianShu/README.md) | [Egern](rule/Egern/JianShu/README.md) |
+| 极光推送 | 生活与工具 | [Surge](rule/Surge/JiGuangTuiSong/README.md) | [Loon](rule/Loon/JiGuangTuiSong/README.md) | [Clash](rule/Clash/JiGuangTuiSong/README.md) | [Egern](rule/Egern/JiGuangTuiSong/README.md) |
+| 京东 | 生活与工具 | [Surge](rule/Surge/JingDong/README.md) | [Loon](rule/Loon/JingDong/README.md) | [Clash](rule/Clash/JingDong/README.md) | [Egern](rule/Egern/JingDong/README.md) |
+| 晋江文学城 | 生活与工具 | [Surge](rule/Surge/JinJiangWenXue/README.md) | [Loon](rule/Loon/JinJiangWenXue/README.md) | [Clash](rule/Clash/JinJiangWenXue/README.md) | [Egern](rule/Egern/JinJiangWenXue/README.md) |
+| JOOX | 生活与工具 | [Surge](rule/Surge/JOOX/README.md) | [Loon](rule/Loon/JOOX/README.md) | [Clash](rule/Clash/JOOX/README.md) | [Egern](rule/Egern/JOOX/README.md) |
+| jQuery | 生活与工具 | [Surge](rule/Surge/Jquery/README.md) | [Loon](rule/Loon/Jquery/README.md) | [Clash](rule/Clash/Jquery/README.md) | [Egern](rule/Egern/Jquery/README.md) |
+| Jsdelivr | 生活与工具 | [Surge](rule/Surge/Jsdelivr/README.md) | [Loon](rule/Loon/Jsdelivr/README.md) | [Clash](rule/Clash/Jsdelivr/README.md) | [Egern](rule/Egern/Jsdelivr/README.md) |
+| 掘金 | 生活与工具 | [Surge](rule/Surge/JueJin/README.md) | [Loon](rule/Loon/JueJin/README.md) | [Clash](rule/Clash/JueJin/README.md) | [Egern](rule/Egern/JueJin/README.md) |
+| Jwplayer | 生活与工具 | [Surge](rule/Surge/Jwplayer/README.md) | [Loon](rule/Loon/Jwplayer/README.md) | [Clash](rule/Clash/Jwplayer/README.md) | [Egern](rule/Egern/Jwplayer/README.md) |
+| KakaoTalk | 社交通信 | [Surge](rule/Surge/KakaoTalk/README.md) | [Loon](rule/Loon/KakaoTalk/README.md) | [Clash](rule/Clash/KakaoTalk/README.md) | [Egern](rule/Egern/KakaoTalk/README.md) |
+| Kantv | 流媒体与内容 | [Surge](rule/Surge/Kantv/README.md) | [Loon](rule/Loon/Kantv/README.md) | [Clash](rule/Clash/Kantv/README.md) | [Egern](rule/Egern/Kantv/README.md) |
+| Keep | 生活与工具 | [Surge](rule/Surge/Keep/README.md) | [Loon](rule/Loon/Keep/README.md) | [Clash](rule/Clash/Keep/README.md) | [Egern](rule/Egern/Keep/README.md) |
+| KingSmith | 生活与工具 | [Surge](rule/Surge/KingSmith/README.md) | [Loon](rule/Loon/KingSmith/README.md) | [Clash](rule/Clash/KingSmith/README.md) | [Egern](rule/Egern/KingSmith/README.md) |
+| 金山 | 生活与工具 | [Surge](rule/Surge/Kingsoft/README.md) | [Loon](rule/Loon/Kingsoft/README.md) | [Clash](rule/Clash/Kingsoft/README.md) | [Egern](rule/Egern/Kingsoft/README.md) |
+| KKBOX | 生活与工具 | [Surge](rule/Surge/KKBOX/README.md) | [Loon](rule/Loon/KKBOX/README.md) | [Clash](rule/Clash/KKBOX/README.md) | [Egern](rule/Egern/KKBOX/README.md) |
+| KKTV | 流媒体与内容 | [Surge](rule/Surge/KKTV/README.md) | [Loon](rule/Loon/KKTV/README.md) | [Clash](rule/Clash/KKTV/README.md) | [Egern](rule/Egern/KKTV/README.md) |
+| 口袋时尚 | AI 服务 | [Surge](rule/Surge/KouDaiShiShang/README.md) | [Loon](rule/Loon/KouDaiShiShang/README.md) | [Clash](rule/Clash/KouDaiShiShang/README.md) | [Egern](rule/Egern/KouDaiShiShang/README.md) |
+| 酷6 | 生活与工具 | [Surge](rule/Surge/Ku6/README.md) | [Loon](rule/Loon/Ku6/README.md) | [Clash](rule/Clash/Ku6/README.md) | [Egern](rule/Egern/Ku6/README.md) |
+| 快递100 | AI 服务 | [Surge](rule/Surge/KuaiDi100/README.md) | [Loon](rule/Loon/KuaiDi100/README.md) | [Clash](rule/Clash/KuaiDi100/README.md) | [Egern](rule/Egern/KuaiDi100/README.md) |
+| 快手 | AI 服务 | [Surge](rule/Surge/KuaiShou/README.md) | [Loon](rule/Loon/KuaiShou/README.md) | [Clash](rule/Clash/KuaiShou/README.md) | [Egern](rule/Egern/KuaiShou/README.md) |
+| 旷视 | 生活与工具 | [Surge](rule/Surge/KuangShi/README.md) | [Loon](rule/Loon/KuangShi/README.md) | [Clash](rule/Clash/KuangShi/README.md) | [Egern](rule/Egern/KuangShi/README.md) |
+| 酷狗酷我 | 生活与工具 | [Surge](rule/Surge/KugouKuwo/README.md) | [Loon](rule/Loon/KugouKuwo/README.md) | [Clash](rule/Clash/KugouKuwo/README.md) | [Egern](rule/Egern/KugouKuwo/README.md) |
+| 库客音乐 | 流媒体与内容 | [Surge](rule/Surge/KuKeMusic/README.md) | [Loon](rule/Loon/KuKeMusic/README.md) | [Clash](rule/Clash/KuKeMusic/README.md) | [Egern](rule/Egern/KuKeMusic/README.md) |
+| Lan | 生活与工具 | [Surge](rule/Surge/Lan/README.md) | [Loon](rule/Loon/Lan/README.md) | [Clash](rule/Clash/Lan/README.md) | [Egern](rule/Egern/Lan/README.md) |
+| 蓝奏云 | 生活与工具 | [Surge](rule/Surge/LanZouYun/README.md) | [Loon](rule/Loon/LanZouYun/README.md) | [Clash](rule/Clash/LanZouYun/README.md) | [Egern](rule/Egern/LanZouYun/README.md) |
+| LastFM | 生活与工具 | [Surge](rule/Surge/LastFM/README.md) | [Loon](rule/Loon/LastFM/README.md) | [Clash](rule/Clash/LastFM/README.md) | [Egern](rule/Egern/LastFM/README.md) |
+| LastPass | 生活与工具 | [Surge](rule/Surge/LastPass/README.md) | [Loon](rule/Loon/LastPass/README.md) | [Clash](rule/Clash/LastPass/README.md) | [Egern](rule/Egern/LastPass/README.md) |
+| 乐居 | 生活与工具 | [Surge](rule/Surge/LeJu/README.md) | [Loon](rule/Loon/LeJu/README.md) | [Clash](rule/Clash/LeJu/README.md) | [Egern](rule/Egern/LeJu/README.md) |
+| 联想 | 品牌与硬件 | [Surge](rule/Surge/Lenovo/README.md) | [Loon](rule/Loon/Lenovo/README.md) | [Clash](rule/Clash/Lenovo/README.md) | [Egern](rule/Egern/Lenovo/README.md) |
+| 乐视 | 流媒体与内容 | [Surge](rule/Surge/LeTV/README.md) | [Loon](rule/Loon/LeTV/README.md) | [Clash](rule/Clash/LeTV/README.md) | [Egern](rule/Egern/LeTV/README.md) |
+| LG | 生活与工具 | [Surge](rule/Surge/LG/README.md) | [Loon](rule/Loon/LG/README.md) | [Clash](rule/Clash/LG/README.md) | [Egern](rule/Egern/LG/README.md) |
+| LianMeng | 生活与工具 | [Surge](rule/Surge/LianMeng/README.md) | [Loon](rule/Loon/LianMeng/README.md) | [Clash](rule/Clash/LianMeng/README.md) | [Egern](rule/Egern/LianMeng/README.md) |
+| Limelight | 生活与工具 | [Surge](rule/Surge/Limelight/README.md) | [Loon](rule/Loon/Limelight/README.md) | [Clash](rule/Clash/Limelight/README.md) | [Egern](rule/Egern/Limelight/README.md) |
+| LINE | 社交通信 | [Surge](rule/Surge/Line/README.md) | [Loon](rule/Loon/Line/README.md) | [Clash](rule/Clash/Line/README.md) | [Egern](rule/Egern/Line/README.md) |
+| LineTV | 社交通信 | [Surge](rule/Surge/LineTV/README.md) | [Loon](rule/Loon/LineTV/README.md) | [Clash](rule/Clash/LineTV/README.md) | [Egern](rule/Egern/LineTV/README.md) |
+| Linguee | 生活与工具 | [Surge](rule/Surge/Linguee/README.md) | [Loon](rule/Loon/Linguee/README.md) | [Clash](rule/Clash/Linguee/README.md) | [Egern](rule/Egern/Linguee/README.md) |
+| 领英 | 生活与工具 | [Surge](rule/Surge/LinkedIn/README.md) | [Loon](rule/Loon/LinkedIn/README.md) | [Clash](rule/Clash/LinkedIn/README.md) | [Egern](rule/Egern/LinkedIn/README.md) |
+| Linux | 生活与工具 | [Surge](rule/Surge/Linux/README.md) | [Loon](rule/Loon/Linux/README.md) | [Clash](rule/Clash/Linux/README.md) | [Egern](rule/Egern/Linux/README.md) |
+| LiTV | 流媒体与内容 | [Surge](rule/Surge/LiTV/README.md) | [Loon](rule/Loon/LiTV/README.md) | [Clash](rule/Clash/LiTV/README.md) | [Egern](rule/Egern/LiTV/README.md) |
+| LivePerson | 生活与工具 | [Surge](rule/Surge/LivePerson/README.md) | [Loon](rule/Loon/LivePerson/README.md) | [Clash](rule/Clash/LivePerson/README.md) | [Egern](rule/Egern/LivePerson/README.md) |
+| Logitech | 生活与工具 | [Surge](rule/Surge/Logitech/README.md) | [Loon](rule/Loon/Logitech/README.md) | [Clash](rule/Clash/Logitech/README.md) | [Egern](rule/Egern/Logitech/README.md) |
+| LondonReal | 游戏平台 | [Surge](rule/Surge/LondonReal/README.md) | [Loon](rule/Loon/LondonReal/README.md) | [Clash](rule/Clash/LondonReal/README.md) | [Egern](rule/Egern/LondonReal/README.md) |
+| 鲁大师 | 生活与工具 | [Surge](rule/Surge/LuDaShi/README.md) | [Loon](rule/Loon/LuDaShi/README.md) | [Clash](rule/Clash/LuDaShi/README.md) | [Egern](rule/Egern/LuDaShi/README.md) |
+| 绿米联创 | 生活与工具 | [Surge](rule/Surge/LvMiLianChuang/README.md) | [Loon](rule/Loon/LvMiLianChuang/README.md) | [Clash](rule/Clash/LvMiLianChuang/README.md) | [Egern](rule/Egern/LvMiLianChuang/README.md) |
+| 邮件服务 | AI 服务 | [Surge](rule/Surge/Mail/README.md) | [Loon](rule/Loon/Mail/README.md) | [Clash](rule/Clash/Mail/README.md) | [Egern](rule/Egern/Mail/README.md) |
+| Mailru | AI 服务 | [Surge](rule/Surge/Mailru/README.md) | [Loon](rule/Loon/Mailru/README.md) | [Clash](rule/Clash/Mailru/README.md) | [Egern](rule/Egern/Mailru/README.md) |
+| Majsoul | 生活与工具 | [Surge](rule/Surge/Majsoul/README.md) | [Loon](rule/Loon/Majsoul/README.md) | [Clash](rule/Clash/Majsoul/README.md) | [Egern](rule/Egern/Majsoul/README.md) |
+| Manorama | 生活与工具 | [Surge](rule/Surge/Manorama/README.md) | [Loon](rule/Loon/Manorama/README.md) | [Clash](rule/Clash/Manorama/README.md) | [Egern](rule/Egern/Manorama/README.md) |
+| Maocloud | 云与网络 | [Surge](rule/Surge/Maocloud/README.md) | [Loon](rule/Loon/Maocloud/README.md) | [Clash](rule/Clash/Maocloud/README.md) | [Egern](rule/Egern/Maocloud/README.md) |
+| Marketing | 生活与工具 | [Surge](rule/Surge/Marketing/README.md) | [Loon](rule/Loon/Marketing/README.md) | [Clash](rule/Clash/Marketing/README.md) | [Egern](rule/Egern/Marketing/README.md) |
+| McDonalds | 生活与工具 | [Surge](rule/Surge/McDonalds/README.md) | [Loon](rule/Loon/McDonalds/README.md) | [Clash](rule/Clash/McDonalds/README.md) | [Egern](rule/Egern/McDonalds/README.md) |
+| MEGA | 生活与工具 | [Surge](rule/Surge/MEGA/README.md) | [Loon](rule/Loon/MEGA/README.md) | [Clash](rule/Clash/MEGA/README.md) | [Egern](rule/Egern/MEGA/README.md) |
+| 美图 | 生活与工具 | [Surge](rule/Surge/MeiTu/README.md) | [Loon](rule/Loon/MeiTu/README.md) | [Clash](rule/Clash/MeiTu/README.md) | [Egern](rule/Egern/MeiTu/README.md) |
+| 美团 | 生活与工具 | [Surge](rule/Surge/MeiTuan/README.md) | [Loon](rule/Loon/MeiTuan/README.md) | [Clash](rule/Clash/MeiTuan/README.md) | [Egern](rule/Egern/MeiTuan/README.md) |
+| 魅族 | 生活与工具 | [Surge](rule/Surge/MeiZu/README.md) | [Loon](rule/Loon/MeiZu/README.md) | [Clash](rule/Clash/MeiZu/README.md) | [Egern](rule/Egern/MeiZu/README.md) |
+| MeWatch | 生活与工具 | [Surge](rule/Surge/MeWatch/README.md) | [Loon](rule/Loon/MeWatch/README.md) | [Clash](rule/Clash/MeWatch/README.md) | [Egern](rule/Egern/MeWatch/README.md) |
+| 微软 | 办公协作 | [Surge](rule/Surge/Microsoft/README.md) | [Loon](rule/Loon/Microsoft/README.md) | [Clash](rule/Clash/Microsoft/README.md) | [Egern](rule/Egern/Microsoft/README.md) |
+| 微软 Edge | 办公协作 | [Surge](rule/Surge/MicrosoftEdge/README.md) | [Loon](rule/Loon/MicrosoftEdge/README.md) | [Clash](rule/Clash/MicrosoftEdge/README.md) | [Egern](rule/Egern/MicrosoftEdge/README.md) |
+| 咪咕 | 生活与工具 | [Surge](rule/Surge/Migu/README.md) | [Loon](rule/Loon/Migu/README.md) | [Clash](rule/Clash/Migu/README.md) | [Egern](rule/Egern/Migu/README.md) |
+| 明略昭辉 | 生活与工具 | [Surge](rule/Surge/MingLueZhaoHui/README.md) | [Loon](rule/Loon/MingLueZhaoHui/README.md) | [Clash](rule/Clash/MingLueZhaoHui/README.md) | [Egern](rule/Egern/MingLueZhaoHui/README.md) |
+| MIUIPrivacy | 隐私与基础分流 | [Surge](rule/Surge/MIUIPrivacy/README.md) | [Loon](rule/Loon/MIUIPrivacy/README.md) | [Clash](rule/Clash/MIUIPrivacy/README.md) | [Egern](rule/Egern/MIUIPrivacy/README.md) |
+| MiWu | 生活与工具 | [Surge](rule/Surge/MiWu/README.md) | [Loon](rule/Loon/MiWu/README.md) | [Clash](rule/Clash/MiWu/README.md) | [Egern](rule/Egern/MiWu/README.md) |
+| 蘑菇街 | 生活与工具 | [Surge](rule/Surge/Mogujie/README.md) | [Loon](rule/Loon/Mogujie/README.md) | [Clash](rule/Clash/Mogujie/README.md) | [Egern](rule/Egern/Mogujie/README.md) |
+| 墨迹天气 | 生活与工具 | [Surge](rule/Surge/Mojitianqi/README.md) | [Loon](rule/Loon/Mojitianqi/README.md) | [Clash](rule/Clash/Mojitianqi/README.md) | [Egern](rule/Egern/Mojitianqi/README.md) |
+| MOMOShop | 金融电商 | [Surge](rule/Surge/MOMOShop/README.md) | [Loon](rule/Loon/MOMOShop/README.md) | [Clash](rule/Clash/MOMOShop/README.md) | [Egern](rule/Egern/MOMOShop/README.md) |
+| MOO 音乐 | 流媒体与内容 | [Surge](rule/Surge/MOOMusic/README.md) | [Loon](rule/Loon/MOOMusic/README.md) | [Clash](rule/Clash/MOOMusic/README.md) | [Egern](rule/Egern/MOOMusic/README.md) |
+| MOOV | 生活与工具 | [Surge](rule/Surge/MOOV/README.md) | [Loon](rule/Loon/MOOV/README.md) | [Clash](rule/Clash/MOOV/README.md) | [Egern](rule/Egern/MOOV/README.md) |
+| Movefree | 生活与工具 | [Surge](rule/Surge/Movefree/README.md) | [Loon](rule/Loon/Movefree/README.md) | [Clash](rule/Clash/Movefree/README.md) | [Egern](rule/Egern/Movefree/README.md) |
+| Mozilla | 生活与工具 | [Surge](rule/Surge/Mozilla/README.md) | [Loon](rule/Loon/Mozilla/README.md) | [Clash](rule/Clash/Mozilla/README.md) | [Egern](rule/Egern/Mozilla/README.md) |
+| My5 | 生活与工具 | [Surge](rule/Surge/My5/README.md) | [Loon](rule/Loon/My5/README.md) | [Clash](rule/Clash/My5/README.md) | [Egern](rule/Egern/My5/README.md) |
+| myTVSUPER | 流媒体与内容 | [Surge](rule/Surge/myTVSUPER/README.md) | [Loon](rule/Loon/myTVSUPER/README.md) | [Clash](rule/Clash/myTVSUPER/README.md) | [Egern](rule/Egern/myTVSUPER/README.md) |
+| NaSDDNS | 云与网络 | [Surge](rule/Surge/NaSDDNS/README.md) | [Loon](rule/Loon/NaSDDNS/README.md) | [Clash](rule/Clash/NaSDDNS/README.md) | [Egern](rule/Egern/NaSDDNS/README.md) |
+| Naver | 生活与工具 | [Surge](rule/Surge/Naver/README.md) | [Loon](rule/Loon/Naver/README.md) | [Clash](rule/Clash/Naver/README.md) | [Egern](rule/Egern/Naver/README.md) |
+| Naver TV | 流媒体与内容 | [Surge](rule/Surge/NaverTV/README.md) | [Loon](rule/Loon/NaverTV/README.md) | [Clash](rule/Clash/NaverTV/README.md) | [Egern](rule/Egern/NaverTV/README.md) |
+| NBC | 生活与工具 | [Surge](rule/Surge/NBC/README.md) | [Loon](rule/Loon/NBC/README.md) | [Clash](rule/Clash/NBC/README.md) | [Egern](rule/Egern/NBC/README.md) |
+| 网易 | 游戏平台 | [Surge](rule/Surge/NetEase/README.md) | [Loon](rule/Loon/NetEase/README.md) | [Clash](rule/Clash/NetEase/README.md) | [Egern](rule/Egern/NetEase/README.md) |
+| 网易云音乐 | 流媒体与内容 | [Surge](rule/Surge/NetEaseMusic/README.md) | [Loon](rule/Loon/NetEaseMusic/README.md) | [Clash](rule/Clash/NetEaseMusic/README.md) | [Egern](rule/Egern/NetEaseMusic/README.md) |
+| 奈飞 | 流媒体与内容 | [Surge](rule/Surge/Netflix/README.md) | [Loon](rule/Loon/Netflix/README.md) | [Clash](rule/Clash/Netflix/README.md) | [Egern](rule/Egern/Netflix/README.md) |
+| NGA | 生活与工具 | [Surge](rule/Surge/NGA/README.md) | [Loon](rule/Loon/NGA/README.md) | [Clash](rule/Clash/NGA/README.md) | [Egern](rule/Egern/NGA/README.md) |
+| NGA玩家社区 | 生活与工具 | [Surge](rule/Surge/NGAA/README.md) | [Loon](rule/Loon/NGAA/README.md) | [Clash](rule/Clash/NGAA/README.md) | [Egern](rule/Egern/NGAA/README.md) |
+| Niconico | 生活与工具 | [Surge](rule/Surge/Niconico/README.md) | [Loon](rule/Loon/Niconico/README.md) | [Clash](rule/Clash/Niconico/README.md) | [Egern](rule/Egern/Niconico/README.md) |
+| Nike | 生活与工具 | [Surge](rule/Surge/Nike/README.md) | [Loon](rule/Loon/Nike/README.md) | [Clash](rule/Clash/Nike/README.md) | [Egern](rule/Egern/Nike/README.md) |
+| Nikkei | 生活与工具 | [Surge](rule/Surge/Nikkei/README.md) | [Loon](rule/Loon/Nikkei/README.md) | [Clash](rule/Clash/Nikkei/README.md) | [Egern](rule/Egern/Nikkei/README.md) |
+| 任天堂 | 游戏平台 | [Surge](rule/Surge/Nintendo/README.md) | [Loon](rule/Loon/Nintendo/README.md) | [Clash](rule/Clash/Nintendo/README.md) | [Egern](rule/Egern/Nintendo/README.md) |
+| NivodTV | 流媒体与内容 | [Surge](rule/Surge/NivodTV/README.md) | [Loon](rule/Loon/NivodTV/README.md) | [Clash](rule/Clash/NivodTV/README.md) | [Egern](rule/Egern/NivodTV/README.md) |
+| Notion | 办公协作 | [Surge](rule/Surge/Notion/README.md) | [Loon](rule/Loon/Notion/README.md) | [Clash](rule/Clash/Notion/README.md) | [Egern](rule/Egern/Notion/README.md) |
+| NowE | 生活与工具 | [Surge](rule/Surge/NowE/README.md) | [Loon](rule/Loon/NowE/README.md) | [Clash](rule/Clash/NowE/README.md) | [Egern](rule/Egern/NowE/README.md) |
+| npm | 开发者平台 | [Surge](rule/Surge/Npmjs/README.md) | [Loon](rule/Loon/Npmjs/README.md) | [Clash](rule/Clash/Npmjs/README.md) | [Egern](rule/Egern/Npmjs/README.md) |
+| NTPService | 生活与工具 | [Surge](rule/Surge/NTPService/README.md) | [Loon](rule/Loon/NTPService/README.md) | [Clash](rule/Clash/NTPService/README.md) | [Egern](rule/Egern/NTPService/README.md) |
+| 英伟达 | 品牌与硬件 | [Surge](rule/Surge/Nvidia/README.md) | [Loon](rule/Loon/Nvidia/README.md) | [Clash](rule/Clash/Nvidia/README.md) | [Egern](rule/Egern/Nvidia/README.md) |
+| NYPost | 生活与工具 | [Surge](rule/Surge/NYPost/README.md) | [Loon](rule/Loon/NYPost/README.md) | [Clash](rule/Clash/NYPost/README.md) | [Egern](rule/Egern/NYPost/README.md) |
+| NYTimes | 生活与工具 | [Surge](rule/Surge/NYTimes/README.md) | [Loon](rule/Loon/NYTimes/README.md) | [Clash](rule/Clash/NYTimes/README.md) | [Egern](rule/Egern/NYTimes/README.md) |
+| 欧易 | 金融电商 | [Surge](rule/Surge/OKX/README.md) | [Loon](rule/Loon/OKX/README.md) | [Clash](rule/Clash/OKX/README.md) | [Egern](rule/Egern/OKX/README.md) |
+| Olevod | 生活与工具 | [Surge](rule/Surge/Olevod/README.md) | [Loon](rule/Loon/Olevod/README.md) | [Clash](rule/Clash/Olevod/README.md) | [Egern](rule/Egern/Olevod/README.md) |
+| OneDrive | 办公协作 | [Surge](rule/Surge/OneDrive/README.md) | [Loon](rule/Loon/OneDrive/README.md) | [Clash](rule/Clash/OneDrive/README.md) | [Egern](rule/Egern/OneDrive/README.md) |
+| 一加 | 生活与工具 | [Surge](rule/Surge/OnePlus/README.md) | [Loon](rule/Loon/OnePlus/README.md) | [Clash](rule/Clash/OnePlus/README.md) | [Egern](rule/Egern/OnePlus/README.md) |
+| OP | 生活与工具 | [Surge](rule/Surge/OP/README.md) | [Loon](rule/Loon/OP/README.md) | [Clash](rule/Clash/OP/README.md) | [Egern](rule/Egern/OP/README.md) |
+| OpenAI | AI 服务 | [Surge](rule/Surge/OpenAI/README.md) | [Loon](rule/Loon/OpenAI/README.md) | [Clash](rule/Clash/OpenAI/README.md) | [Egern](rule/Egern/OpenAI/README.md) |
+| Opera | 生活与工具 | [Surge](rule/Surge/Opera/README.md) | [Loon](rule/Loon/Opera/README.md) | [Clash](rule/Clash/Opera/README.md) | [Egern](rule/Egern/Opera/README.md) |
+| OPPO | 品牌与硬件 | [Surge](rule/Surge/OPPO/README.md) | [Loon](rule/Loon/OPPO/README.md) | [Clash](rule/Clash/OPPO/README.md) | [Egern](rule/Egern/OPPO/README.md) |
+| 甲骨文 | 云与网络 | [Surge](rule/Surge/Oracle/README.md) | [Loon](rule/Loon/Oracle/README.md) | [Clash](rule/Clash/Oracle/README.md) | [Egern](rule/Egern/Oracle/README.md) |
+| Oreilly | 生活与工具 | [Surge](rule/Surge/Oreilly/README.md) | [Loon](rule/Loon/Oreilly/README.md) | [Clash](rule/Clash/Oreilly/README.md) | [Egern](rule/Egern/Oreilly/README.md) |
+| Origin | 生活与工具 | [Surge](rule/Surge/Origin/README.md) | [Loon](rule/Loon/Origin/README.md) | [Clash](rule/Clash/Origin/README.md) | [Egern](rule/Egern/Origin/README.md) |
+| 欧朋 | 生活与工具 | [Surge](rule/Surge/OuPeng/README.md) | [Loon](rule/Loon/OuPeng/README.md) | [Clash](rule/Clash/OuPeng/README.md) | [Egern](rule/Egern/OuPeng/README.md) |
+| Overcast | 生活与工具 | [Surge](rule/Surge/Overcast/README.md) | [Loon](rule/Loon/Overcast/README.md) | [Clash](rule/Clash/Overcast/README.md) | [Egern](rule/Egern/Overcast/README.md) |
+| Overwatch | 生活与工具 | [Surge](rule/Surge/Overwatch/README.md) | [Loon](rule/Loon/Overwatch/README.md) | [Clash](rule/Clash/Overwatch/README.md) | [Egern](rule/Egern/Overwatch/README.md) |
+| Pandora | 生活与工具 | [Surge](rule/Surge/Pandora/README.md) | [Loon](rule/Loon/Pandora/README.md) | [Clash](rule/Clash/Pandora/README.md) | [Egern](rule/Egern/Pandora/README.md) |
+| PandoraTV | 流媒体与内容 | [Surge](rule/Surge/PandoraTV/README.md) | [Loon](rule/Loon/PandoraTV/README.md) | [Clash](rule/Clash/PandoraTV/README.md) | [Egern](rule/Egern/PandoraTV/README.md) |
+| ParamountPlus | 生活与工具 | [Surge](rule/Surge/ParamountPlus/README.md) | [Loon](rule/Loon/ParamountPlus/README.md) | [Clash](rule/Clash/ParamountPlus/README.md) | [Egern](rule/Egern/ParamountPlus/README.md) |
+| Patreon | 生活与工具 | [Surge](rule/Surge/Patreon/README.md) | [Loon](rule/Loon/Patreon/README.md) | [Clash](rule/Clash/Patreon/README.md) | [Egern](rule/Egern/Patreon/README.md) |
+| PayPal | 金融电商 | [Surge](rule/Surge/PayPal/README.md) | [Loon](rule/Loon/PayPal/README.md) | [Clash](rule/Clash/PayPal/README.md) | [Egern](rule/Egern/PayPal/README.md) |
+| PBS | 生活与工具 | [Surge](rule/Surge/PBS/README.md) | [Loon](rule/Loon/PBS/README.md) | [Clash](rule/Clash/PBS/README.md) | [Egern](rule/Egern/PBS/README.md) |
+| 电讯盈科 | 生活与工具 | [Surge](rule/Surge/PCCW/README.md) | [Loon](rule/Loon/PCCW/README.md) | [Clash](rule/Clash/PCCW/README.md) | [Egern](rule/Egern/PCCW/README.md) |
+| PChome | 生活与工具 | [Surge](rule/Surge/PChome/README.md) | [Loon](rule/Loon/PChome/README.md) | [Clash](rule/Clash/PChome/README.md) | [Egern](rule/Egern/PChome/README.md) |
+| PChomeTW | 生活与工具 | [Surge](rule/Surge/PChomeTW/README.md) | [Loon](rule/Loon/PChomeTW/README.md) | [Clash](rule/Clash/PChomeTW/README.md) | [Egern](rule/Egern/PChomeTW/README.md) |
+| Peacock | 游戏平台 | [Surge](rule/Surge/Peacock/README.md) | [Loon](rule/Loon/Peacock/README.md) | [Clash](rule/Clash/Peacock/README.md) | [Egern](rule/Egern/Peacock/README.md) |
+| Picacg | 生活与工具 | [Surge](rule/Surge/Picacg/README.md) | [Loon](rule/Loon/Picacg/README.md) | [Clash](rule/Clash/Picacg/README.md) | [Egern](rule/Egern/Picacg/README.md) |
+| Picsee | 生活与工具 | [Surge](rule/Surge/Picsee/README.md) | [Loon](rule/Loon/Picsee/README.md) | [Clash](rule/Clash/Picsee/README.md) | [Egern](rule/Egern/Picsee/README.md) |
+| PikPak | 生活与工具 | [Surge](rule/Surge/PikPak/README.md) | [Loon](rule/Loon/PikPak/README.md) | [Clash](rule/Clash/PikPak/README.md) | [Egern](rule/Egern/PikPak/README.md) |
+| 拼多多 | 生活与工具 | [Surge](rule/Surge/Pinduoduo/README.md) | [Loon](rule/Loon/Pinduoduo/README.md) | [Clash](rule/Clash/Pinduoduo/README.md) | [Egern](rule/Egern/Pinduoduo/README.md) |
+| 平安 | 生活与工具 | [Surge](rule/Surge/PingAn/README.md) | [Loon](rule/Loon/PingAn/README.md) | [Clash](rule/Clash/PingAn/README.md) | [Egern](rule/Egern/PingAn/README.md) |
+| Pinterest | 生活与工具 | [Surge](rule/Surge/Pinterest/README.md) | [Loon](rule/Loon/Pinterest/README.md) | [Clash](rule/Clash/Pinterest/README.md) | [Egern](rule/Egern/Pinterest/README.md) |
+| Pixiv | 生活与工具 | [Surge](rule/Surge/Pixiv/README.md) | [Loon](rule/Loon/Pixiv/README.md) | [Clash](rule/Clash/Pixiv/README.md) | [Egern](rule/Egern/Pixiv/README.md) |
+| Pixnet | 生活与工具 | [Surge](rule/Surge/Pixnet/README.md) | [Loon](rule/Loon/Pixnet/README.md) | [Clash](rule/Clash/Pixnet/README.md) | [Egern](rule/Egern/Pixnet/README.md) |
+| PlayStation | 游戏平台 | [Surge](rule/Surge/PlayStation/README.md) | [Loon](rule/Loon/PlayStation/README.md) | [Clash](rule/Clash/PlayStation/README.md) | [Egern](rule/Egern/PlayStation/README.md) |
+| PotatoChat | 生活与工具 | [Surge](rule/Surge/PotatoChat/README.md) | [Loon](rule/Loon/PotatoChat/README.md) | [Clash](rule/Clash/PotatoChat/README.md) | [Egern](rule/Egern/PotatoChat/README.md) |
+| PPTV | 流媒体与内容 | [Surge](rule/Surge/PPTV/README.md) | [Loon](rule/Loon/PPTV/README.md) | [Clash](rule/Clash/PPTV/README.md) | [Egern](rule/Egern/PPTV/README.md) |
+| Prime Video | 流媒体与内容 | [Surge](rule/Surge/PrimeVideo/README.md) | [Loon](rule/Loon/PrimeVideo/README.md) | [Clash](rule/Clash/PrimeVideo/README.md) | [Egern](rule/Egern/PrimeVideo/README.md) |
+| Privacy | 隐私与基础分流 | [Surge](rule/Surge/Privacy/README.md) | [Loon](rule/Loon/Privacy/README.md) | [Clash](rule/Clash/Privacy/README.md) | [Egern](rule/Egern/Privacy/README.md) |
+| PrivateTracker | 生活与工具 | [Surge](rule/Surge/PrivateTracker/README.md) | [Loon](rule/Loon/PrivateTracker/README.md) | [Clash](rule/Clash/PrivateTracker/README.md) | [Egern](rule/Egern/PrivateTracker/README.md) |
+| Protonmail | AI 服务 | [Surge](rule/Surge/Protonmail/README.md) | [Loon](rule/Loon/Protonmail/README.md) | [Clash](rule/Clash/Protonmail/README.md) | [Egern](rule/Egern/Protonmail/README.md) |
+| 代理 | 隐私与基础分流 | [Surge](rule/Surge/Proxy/README.md) | [Loon](rule/Loon/Proxy/README.md) | [Clash](rule/Clash/Proxy/README.md) | [Egern](rule/Egern/Proxy/README.md) |
+| ProxyLite | 隐私与基础分流 | [Surge](rule/Surge/ProxyLite/README.md) | [Loon](rule/Loon/ProxyLite/README.md) | [Clash](rule/Clash/ProxyLite/README.md) | [Egern](rule/Egern/ProxyLite/README.md) |
+| 邮储银行 | 金融电商 | [Surge](rule/Surge/PSBC/README.md) | [Loon](rule/Loon/PSBC/README.md) | [Clash](rule/Clash/PSBC/README.md) | [Egern](rule/Egern/PSBC/README.md) |
+| Pubmatic | 生活与工具 | [Surge](rule/Surge/Pubmatic/README.md) | [Loon](rule/Loon/Pubmatic/README.md) | [Clash](rule/Clash/Pubmatic/README.md) | [Egern](rule/Egern/Pubmatic/README.md) |
+| Purikonejp | 生活与工具 | [Surge](rule/Surge/Purikonejp/README.md) | [Loon](rule/Loon/Purikonejp/README.md) | [Clash](rule/Clash/Purikonejp/README.md) | [Egern](rule/Egern/Purikonejp/README.md) |
+| Python | 生活与工具 | [Surge](rule/Surge/Python/README.md) | [Loon](rule/Loon/Python/README.md) | [Clash](rule/Clash/Python/README.md) | [Egern](rule/Egern/Python/README.md) |
+| 青云 | 云与网络 | [Surge](rule/Surge/QingCloud/README.md) | [Loon](rule/Loon/QingCloud/README.md) | [Clash](rule/Clash/QingCloud/README.md) | [Egern](rule/Egern/QingCloud/README.md) |
+| 七牛云 | 生活与工具 | [Surge](rule/Surge/QiNiuYun/README.md) | [Loon](rule/Loon/QiNiuYun/README.md) | [Clash](rule/Clash/QiNiuYun/README.md) | [Egern](rule/Egern/QiNiuYun/README.md) |
+| Qobuz | 生活与工具 | [Surge](rule/Surge/Qobuz/README.md) | [Loon](rule/Loon/Qobuz/README.md) | [Clash](rule/Clash/Qobuz/README.md) | [Egern](rule/Egern/Qobuz/README.md) |
+| 高通 | 生活与工具 | [Surge](rule/Surge/Qualcomm/README.md) | [Loon](rule/Loon/Qualcomm/README.md) | [Clash](rule/Clash/Qualcomm/README.md) | [Egern](rule/Egern/Qualcomm/README.md) |
+| QuickConnect | 生活与工具 | [Surge](rule/Surge/QuickConnect/README.md) | [Loon](rule/Loon/QuickConnect/README.md) | [Clash](rule/Clash/QuickConnect/README.md) | [Egern](rule/Egern/QuickConnect/README.md) |
+| 企业云集团 | 生活与工具 | [Surge](rule/Surge/Qyyjt/README.md) | [Loon](rule/Loon/Qyyjt/README.md) | [Clash](rule/Clash/Qyyjt/README.md) | [Egern](rule/Egern/Qyyjt/README.md) |
+| Rakuten | 生活与工具 | [Surge](rule/Surge/Rakuten/README.md) | [Loon](rule/Loon/Rakuten/README.md) | [Clash](rule/Clash/Rakuten/README.md) | [Egern](rule/Egern/Rakuten/README.md) |
+| Rarbg | 生活与工具 | [Surge](rule/Surge/Rarbg/README.md) | [Loon](rule/Loon/Rarbg/README.md) | [Clash](rule/Clash/Rarbg/README.md) | [Egern](rule/Egern/Rarbg/README.md) |
+| 雷蛇 | 生活与工具 | [Surge](rule/Surge/Razer/README.md) | [Loon](rule/Loon/Razer/README.md) | [Clash](rule/Clash/Razer/README.md) | [Egern](rule/Egern/Razer/README.md) |
+| Reabble | 游戏平台 | [Surge](rule/Surge/Reabble/README.md) | [Loon](rule/Loon/Reabble/README.md) | [Clash](rule/Clash/Reabble/README.md) | [Egern](rule/Egern/Reabble/README.md) |
+| Reddit | 社交通信 | [Surge](rule/Surge/Reddit/README.md) | [Loon](rule/Loon/Reddit/README.md) | [Clash](rule/Clash/Reddit/README.md) | [Egern](rule/Egern/Reddit/README.md) |
+| 拳头游戏 | 游戏平台 | [Surge](rule/Surge/Riot/README.md) | [Loon](rule/Loon/Riot/README.md) | [Clash](rule/Clash/Riot/README.md) | [Egern](rule/Egern/Riot/README.md) |
+| Rockstar | 生活与工具 | [Surge](rule/Surge/Rockstar/README.md) | [Loon](rule/Loon/Rockstar/README.md) | [Clash](rule/Clash/Rockstar/README.md) | [Egern](rule/Egern/Rockstar/README.md) |
+| 香港电台 | 生活与工具 | [Surge](rule/Surge/RTHK/README.md) | [Loon](rule/Loon/RTHK/README.md) | [Clash](rule/Clash/RTHK/README.md) | [Egern](rule/Egern/RTHK/README.md) |
+| 软媒 | 生活与工具 | [Surge](rule/Surge/RuanMei/README.md) | [Loon](rule/Loon/RuanMei/README.md) | [Clash](rule/Clash/RuanMei/README.md) | [Egern](rule/Egern/RuanMei/README.md) |
+| Salesforce | 生活与工具 | [Surge](rule/Surge/Salesforce/README.md) | [Loon](rule/Loon/Salesforce/README.md) | [Clash](rule/Clash/Salesforce/README.md) | [Egern](rule/Egern/Salesforce/README.md) |
+| 三星 | 品牌与硬件 | [Surge](rule/Surge/Samsung/README.md) | [Loon](rule/Loon/Samsung/README.md) | [Clash](rule/Clash/Samsung/README.md) | [Egern](rule/Egern/Samsung/README.md) |
+| Scaleflex | 生活与工具 | [Surge](rule/Surge/Scaleflex/README.md) | [Loon](rule/Loon/Scaleflex/README.md) | [Clash](rule/Clash/Scaleflex/README.md) | [Egern](rule/Egern/Scaleflex/README.md) |
+| Scholar | 生活与工具 | [Surge](rule/Surge/Scholar/README.md) | [Loon](rule/Loon/Scholar/README.md) | [Clash](rule/Clash/Scholar/README.md) | [Egern](rule/Egern/Scholar/README.md) |
+| Sectigo | 云与网络 | [Surge](rule/Surge/Sectigo/README.md) | [Loon](rule/Loon/Sectigo/README.md) | [Clash](rule/Clash/Sectigo/README.md) | [Egern](rule/Egern/Sectigo/README.md) |
+| 顺丰 | 生活与工具 | [Surge](rule/Surge/SFExpress/README.md) | [Loon](rule/Loon/SFExpress/README.md) | [Clash](rule/Clash/SFExpress/README.md) | [Egern](rule/Egern/SFExpress/README.md) |
+| 上海巨校 | AI 服务 | [Surge](rule/Surge/ShangHaiJuXiao/README.md) | [Loon](rule/Loon/ShangHaiJuXiao/README.md) | [Clash](rule/Clash/ShangHaiJuXiao/README.md) | [Egern](rule/Egern/ShangHaiJuXiao/README.md) |
+| Shanling | 生活与工具 | [Surge](rule/Surge/Shanling/README.md) | [Loon](rule/Loon/Shanling/README.md) | [Clash](rule/Clash/Shanling/README.md) | [Egern](rule/Egern/Shanling/README.md) |
+| Sharethis | 生活与工具 | [Surge](rule/Surge/Sharethis/README.md) | [Loon](rule/Loon/Sharethis/README.md) | [Clash](rule/Clash/Sharethis/README.md) | [Egern](rule/Egern/Sharethis/README.md) |
+| 神马搜索 | 生活与工具 | [Surge](rule/Surge/ShenMa/README.md) | [Loon](rule/Loon/ShenMa/README.md) | [Clash](rule/Clash/ShenMa/README.md) | [Egern](rule/Egern/ShenMa/README.md) |
+| 世纪超星 | 生活与工具 | [Surge](rule/Surge/ShiJiChaoXing/README.md) | [Loon](rule/Loon/ShiJiChaoXing/README.md) | [Clash](rule/Clash/ShiJiChaoXing/README.md) | [Egern](rule/Egern/ShiJiChaoXing/README.md) |
+| 世农智科 | 生活与工具 | [Surge](rule/Surge/ShiNongZhiKe/README.md) | [Loon](rule/Loon/ShiNongZhiKe/README.md) | [Clash](rule/Clash/ShiNongZhiKe/README.md) | [Egern](rule/Egern/ShiNongZhiKe/README.md) |
+| Shopee | 金融电商 | [Surge](rule/Surge/Shopee/README.md) | [Loon](rule/Loon/Shopee/README.md) | [Clash](rule/Clash/Shopee/README.md) | [Egern](rule/Egern/Shopee/README.md) |
+| Shopify | 金融电商 | [Surge](rule/Surge/Shopify/README.md) | [Loon](rule/Loon/Shopify/README.md) | [Clash](rule/Clash/Shopify/README.md) | [Egern](rule/Egern/Shopify/README.md) |
+| 新浪 | 生活与工具 | [Surge](rule/Surge/Sina/README.md) | [Loon](rule/Loon/Sina/README.md) | [Clash](rule/Clash/Sina/README.md) | [Egern](rule/Egern/Sina/README.md) |
+| Siri | 苹果生态 | [Surge](rule/Surge/Siri/README.md) | [Loon](rule/Loon/Siri/README.md) | [Clash](rule/Clash/Siri/README.md) | [Egern](rule/Egern/Siri/README.md) |
+| SkyGO | 生活与工具 | [Surge](rule/Surge/SkyGO/README.md) | [Loon](rule/Loon/SkyGO/README.md) | [Clash](rule/Clash/SkyGO/README.md) | [Egern](rule/Egern/SkyGO/README.md) |
+| Slack | 办公协作 | [Surge](rule/Surge/Slack/README.md) | [Loon](rule/Loon/Slack/README.md) | [Clash](rule/Clash/Slack/README.md) | [Egern](rule/Egern/Slack/README.md) |
+| SlideShare | 生活与工具 | [Surge](rule/Surge/SlideShare/README.md) | [Loon](rule/Loon/SlideShare/README.md) | [Clash](rule/Clash/SlideShare/README.md) | [Egern](rule/Egern/SlideShare/README.md) |
+| Sling | 生活与工具 | [Surge](rule/Surge/Sling/README.md) | [Loon](rule/Loon/Sling/README.md) | [Clash](rule/Clash/Sling/README.md) | [Egern](rule/Egern/Sling/README.md) |
+| SmarTone | 生活与工具 | [Surge](rule/Surge/SmarTone/README.md) | [Loon](rule/Loon/SmarTone/README.md) | [Clash](rule/Clash/SmarTone/README.md) | [Egern](rule/Egern/SmarTone/README.md) |
+| 上海文广 | 生活与工具 | [Surge](rule/Surge/SMG/README.md) | [Loon](rule/Loon/SMG/README.md) | [Clash](rule/Clash/SMG/README.md) | [Egern](rule/Egern/SMG/README.md) |
+| 什么值得买 | 生活与工具 | [Surge](rule/Surge/SMZDM/README.md) | [Loon](rule/Loon/SMZDM/README.md) | [Clash](rule/Clash/SMZDM/README.md) | [Egern](rule/Egern/SMZDM/README.md) |
+| Snap | 生活与工具 | [Surge](rule/Surge/Snap/README.md) | [Loon](rule/Loon/Snap/README.md) | [Clash](rule/Clash/Snap/README.md) | [Egern](rule/Egern/Snap/README.md) |
+| 搜狐 | 生活与工具 | [Surge](rule/Surge/Sohu/README.md) | [Loon](rule/Loon/Sohu/README.md) | [Clash](rule/Clash/Sohu/README.md) | [Egern](rule/Egern/Sohu/README.md) |
+| 索尼 | 品牌与硬件 | [Surge](rule/Surge/Sony/README.md) | [Loon](rule/Loon/Sony/README.md) | [Clash](rule/Clash/Sony/README.md) | [Egern](rule/Egern/Sony/README.md) |
+| 搜房 | 生活与工具 | [Surge](rule/Surge/SouFang/README.md) | [Loon](rule/Loon/SouFang/README.md) | [Clash](rule/Clash/SouFang/README.md) | [Egern](rule/Egern/SouFang/README.md) |
+| SoundCloud | 云与网络 | [Surge](rule/Surge/SoundCloud/README.md) | [Loon](rule/Loon/SoundCloud/README.md) | [Clash](rule/Clash/SoundCloud/README.md) | [Egern](rule/Egern/SoundCloud/README.md) |
+| SourceForge | 开发者平台 | [Surge](rule/Surge/SourceForge/README.md) | [Loon](rule/Loon/SourceForge/README.md) | [Clash](rule/Clash/SourceForge/README.md) | [Egern](rule/Egern/SourceForge/README.md) |
+| Spark | 生活与工具 | [Surge](rule/Surge/Spark/README.md) | [Loon](rule/Loon/Spark/README.md) | [Clash](rule/Clash/Spark/README.md) | [Egern](rule/Egern/Spark/README.md) |
+| 测速服务 | 隐私与基础分流 | [Surge](rule/Surge/Speedtest/README.md) | [Loon](rule/Loon/Speedtest/README.md) | [Clash](rule/Clash/Speedtest/README.md) | [Egern](rule/Egern/Speedtest/README.md) |
+| Spotify | 流媒体与内容 | [Surge](rule/Surge/Spotify/README.md) | [Loon](rule/Loon/Spotify/README.md) | [Clash](rule/Clash/Spotify/README.md) | [Egern](rule/Egern/Spotify/README.md) |
+| Stackexchange | 生活与工具 | [Surge](rule/Surge/Stackexchange/README.md) | [Loon](rule/Loon/Stackexchange/README.md) | [Clash](rule/Clash/Stackexchange/README.md) | [Egern](rule/Egern/Stackexchange/README.md) |
+| Starbucks | 生活与工具 | [Surge](rule/Surge/Starbucks/README.md) | [Loon](rule/Loon/Starbucks/README.md) | [Clash](rule/Clash/Starbucks/README.md) | [Egern](rule/Egern/Starbucks/README.md) |
+| StarCraftII | 生活与工具 | [Surge](rule/Surge/StarCraftII/README.md) | [Loon](rule/Loon/StarCraftII/README.md) | [Clash](rule/Clash/StarCraftII/README.md) | [Egern](rule/Egern/StarCraftII/README.md) |
+| Steam | 游戏平台 | [Surge](rule/Surge/Steam/README.md) | [Loon](rule/Loon/Steam/README.md) | [Clash](rule/Clash/Steam/README.md) | [Egern](rule/Egern/Steam/README.md) |
+| 蒸汽平台 | 游戏平台 | [Surge](rule/Surge/SteamCN/README.md) | [Loon](rule/Loon/SteamCN/README.md) | [Clash](rule/Clash/SteamCN/README.md) | [Egern](rule/Egern/SteamCN/README.md) |
+| Stripe | 生活与工具 | [Surge](rule/Surge/Stripe/README.md) | [Loon](rule/Loon/Stripe/README.md) | [Clash](rule/Clash/Stripe/README.md) | [Egern](rule/Egern/Stripe/README.md) |
+| STUN | 隐私与基础分流 | [Surge](rule/Surge/STUN/README.md) | [Loon](rule/Loon/STUN/README.md) | [Clash](rule/Clash/STUN/README.md) | [Egern](rule/Egern/STUN/README.md) |
+| SublimeText | 生活与工具 | [Surge](rule/Surge/SublimeText/README.md) | [Loon](rule/Loon/SublimeText/README.md) | [Clash](rule/Clash/SublimeText/README.md) | [Egern](rule/Egern/SublimeText/README.md) |
+| SuiShiChuanMei | 生活与工具 | [Surge](rule/Surge/SuiShiChuanMei/README.md) | [Loon](rule/Loon/SuiShiChuanMei/README.md) | [Clash](rule/Clash/SuiShiChuanMei/README.md) | [Egern](rule/Egern/SuiShiChuanMei/README.md) |
+| 苏宁 | 生活与工具 | [Surge](rule/Surge/SuNing/README.md) | [Loon](rule/Loon/SuNing/README.md) | [Clash](rule/Clash/SuNing/README.md) | [Egern](rule/Egern/SuNing/README.md) |
+| Supercell | 生活与工具 | [Surge](rule/Surge/Supercell/README.md) | [Loon](rule/Loon/Supercell/README.md) | [Clash](rule/Clash/Supercell/README.md) | [Egern](rule/Egern/Supercell/README.md) |
+| 群晖 | 生活与工具 | [Surge](rule/Surge/Synology/README.md) | [Loon](rule/Loon/Synology/README.md) | [Clash](rule/Clash/Synology/README.md) | [Egern](rule/Egern/Synology/README.md) |
+| 系统更新 | 生活与工具 | [Surge](rule/Surge/SystemOTA/README.md) | [Loon](rule/Loon/SystemOTA/README.md) | [Clash](rule/Clash/SystemOTA/README.md) | [Egern](rule/Egern/SystemOTA/README.md) |
+| 太合音乐 | AI 服务 | [Surge](rule/Surge/TaiheMusic/README.md) | [Loon](rule/Loon/TaiheMusic/README.md) | [Clash](rule/Clash/TaiheMusic/README.md) | [Egern](rule/Egern/TaiheMusic/README.md) |
+| 泰康 | AI 服务 | [Surge](rule/Surge/TaiKang/README.md) | [Loon](rule/Loon/TaiKang/README.md) | [Clash](rule/Clash/TaiKang/README.md) | [Egern](rule/Egern/TaiKang/README.md) |
+| TaiWanGood | AI 服务 | [Surge](rule/Surge/TaiWanGood/README.md) | [Loon](rule/Loon/TaiWanGood/README.md) | [Clash](rule/Clash/TaiWanGood/README.md) | [Egern](rule/Egern/TaiWanGood/README.md) |
+| TapTap | 生活与工具 | [Surge](rule/Surge/TapTap/README.md) | [Loon](rule/Loon/TapTap/README.md) | [Clash](rule/Clash/TapTap/README.md) | [Egern](rule/Egern/TapTap/README.md) |
+| TCL | 生活与工具 | [Surge](rule/Surge/TCL/README.md) | [Loon](rule/Loon/TCL/README.md) | [Clash](rule/Clash/TCL/README.md) | [Egern](rule/Egern/TCL/README.md) |
+| Teambition | 游戏平台 | [Surge](rule/Surge/Teambition/README.md) | [Loon](rule/Loon/Teambition/README.md) | [Clash](rule/Clash/Teambition/README.md) | [Egern](rule/Egern/Teambition/README.md) |
+| Teams | 办公协作 | [Surge](rule/Surge/Teams/README.md) | [Loon](rule/Loon/Teams/README.md) | [Clash](rule/Clash/Teams/README.md) | [Egern](rule/Egern/Teams/README.md) |
+| TeamViewer | 游戏平台 | [Surge](rule/Surge/TeamViewer/README.md) | [Loon](rule/Loon/TeamViewer/README.md) | [Clash](rule/Clash/TeamViewer/README.md) | [Egern](rule/Egern/TeamViewer/README.md) |
+| Telegram | 社交通信 | [Surge](rule/Surge/Telegram/README.md) | [Loon](rule/Loon/Telegram/README.md) | [Clash](rule/Clash/Telegram/README.md) | [Egern](rule/Egern/Telegram/README.md) |
+| TelegramNL | 社交通信 | [Surge](rule/Surge/TelegramNL/README.md) | [Loon](rule/Loon/TelegramNL/README.md) | [Clash](rule/Clash/TelegramNL/README.md) | [Egern](rule/Egern/TelegramNL/README.md) |
+| TelegramSG | 社交通信 | [Surge](rule/Surge/TelegramSG/README.md) | [Loon](rule/Loon/TelegramSG/README.md) | [Clash](rule/Clash/TelegramSG/README.md) | [Egern](rule/Egern/TelegramSG/README.md) |
+| TelegramUS | 社交通信 | [Surge](rule/Surge/TelegramUS/README.md) | [Loon](rule/Loon/TelegramUS/README.md) | [Clash](rule/Clash/TelegramUS/README.md) | [Egern](rule/Egern/TelegramUS/README.md) |
+| 腾讯 | 生活与工具 | [Surge](rule/Surge/Tencent/README.md) | [Loon](rule/Loon/Tencent/README.md) | [Clash](rule/Clash/Tencent/README.md) | [Egern](rule/Egern/Tencent/README.md) |
+| 腾讯视频 | 流媒体与内容 | [Surge](rule/Surge/TencentVideo/README.md) | [Loon](rule/Loon/TencentVideo/README.md) | [Clash](rule/Clash/TencentVideo/README.md) | [Egern](rule/Egern/TencentVideo/README.md) |
+| TeraBox | 生活与工具 | [Surge](rule/Surge/TeraBox/README.md) | [Loon](rule/Loon/TeraBox/README.md) | [Clash](rule/Clash/TeraBox/README.md) | [Egern](rule/Egern/TeraBox/README.md) |
+| 特斯拉 | 品牌与硬件 | [Surge](rule/Surge/Tesla/README.md) | [Loon](rule/Loon/Tesla/README.md) | [Clash](rule/Clash/Tesla/README.md) | [Egern](rule/Egern/Tesla/README.md) |
+| TestFlight | 苹果生态 | [Surge](rule/Surge/TestFlight/README.md) | [Loon](rule/Loon/TestFlight/README.md) | [Clash](rule/Clash/TestFlight/README.md) | [Egern](rule/Egern/TestFlight/README.md) |
+| ThomsonReuters | 生活与工具 | [Surge](rule/Surge/ThomsonReuters/README.md) | [Loon](rule/Loon/ThomsonReuters/README.md) | [Clash](rule/Clash/ThomsonReuters/README.md) | [Egern](rule/Egern/ThomsonReuters/README.md) |
+| Threads | 社交通信 | [Surge](rule/Surge/Threads/README.md) | [Loon](rule/Loon/Threads/README.md) | [Clash](rule/Clash/Threads/README.md) | [Egern](rule/Egern/Threads/README.md) |
+| 天天看 | 生活与工具 | [Surge](rule/Surge/TianTianKanKan/README.md) | [Loon](rule/Loon/TianTianKanKan/README.md) | [Clash](rule/Clash/TianTianKanKan/README.md) | [Egern](rule/Egern/TianTianKanKan/README.md) |
+| 天威诚信 | 生活与工具 | [Surge](rule/Surge/TianWeiChengXin/README.md) | [Loon](rule/Loon/TianWeiChengXin/README.md) | [Clash](rule/Clash/TianWeiChengXin/README.md) | [Egern](rule/Egern/TianWeiChengXin/README.md) |
+| 天涯论坛 | 生活与工具 | [Surge](rule/Surge/TianYaForum/README.md) | [Loon](rule/Loon/TianYaForum/README.md) | [Clash](rule/Clash/TianYaForum/README.md) | [Egern](rule/Egern/TianYaForum/README.md) |
+| TIDAL | 生活与工具 | [Surge](rule/Surge/TIDAL/README.md) | [Loon](rule/Loon/TIDAL/README.md) | [Clash](rule/Clash/TIDAL/README.md) | [Egern](rule/Egern/TIDAL/README.md) |
+| TigerFintech | 生活与工具 | [Surge](rule/Surge/TigerFintech/README.md) | [Loon](rule/Loon/TigerFintech/README.md) | [Clash](rule/Clash/TigerFintech/README.md) | [Egern](rule/Egern/TigerFintech/README.md) |
+| TikTok | 流媒体与内容 | [Surge](rule/Surge/TikTok/README.md) | [Loon](rule/Loon/TikTok/README.md) | [Clash](rule/Clash/TikTok/README.md) | [Egern](rule/Egern/TikTok/README.md) |
+| TMDb | 生活与工具 | [Surge](rule/Surge/Tmdb/README.md) | [Loon](rule/Loon/Tmdb/README.md) | [Clash](rule/Clash/Tmdb/README.md) | [Egern](rule/Egern/Tmdb/README.md) |
+| 同程 | 生活与工具 | [Surge](rule/Surge/TongCheng/README.md) | [Loon](rule/Loon/TongCheng/README.md) | [Clash](rule/Clash/TongCheng/README.md) | [Egern](rule/Egern/TongCheng/README.md) |
+| TrustWave | 生活与工具 | [Surge](rule/Surge/TrustWave/README.md) | [Loon](rule/Loon/TrustWave/README.md) | [Clash](rule/Clash/TrustWave/README.md) | [Egern](rule/Egern/TrustWave/README.md) |
+| TruthSocial | 生活与工具 | [Surge](rule/Surge/TruthSocial/README.md) | [Loon](rule/Loon/TruthSocial/README.md) | [Clash](rule/Clash/TruthSocial/README.md) | [Egern](rule/Egern/TruthSocial/README.md) |
+| Tumblr | 生活与工具 | [Surge](rule/Surge/Tumblr/README.md) | [Loon](rule/Loon/Tumblr/README.md) | [Clash](rule/Clash/Tumblr/README.md) | [Egern](rule/Egern/Tumblr/README.md) |
+| TVB | 流媒体与内容 | [Surge](rule/Surge/TVB/README.md) | [Loon](rule/Loon/TVB/README.md) | [Clash](rule/Clash/TVB/README.md) | [Egern](rule/Egern/TVB/README.md) |
+| TVer | 流媒体与内容 | [Surge](rule/Surge/TVer/README.md) | [Loon](rule/Loon/TVer/README.md) | [Clash](rule/Clash/TVer/README.md) | [Egern](rule/Egern/TVer/README.md) |
+| Twitch | 流媒体与内容 | [Surge](rule/Surge/Twitch/README.md) | [Loon](rule/Loon/Twitch/README.md) | [Clash](rule/Clash/Twitch/README.md) | [Egern](rule/Egern/Twitch/README.md) |
+| 推特 | 社交通信 | [Surge](rule/Surge/Twitter/README.md) | [Loon](rule/Loon/Twitter/README.md) | [Clash](rule/Clash/Twitter/README.md) | [Egern](rule/Egern/Twitter/README.md) |
+| 有妖气 | 生活与工具 | [Surge](rule/Surge/U17/README.md) | [Loon](rule/Loon/U17/README.md) | [Clash](rule/Clash/U17/README.md) | [Egern](rule/Egern/U17/README.md) |
+| 育碧 | 生活与工具 | [Surge](rule/Surge/UBI/README.md) | [Loon](rule/Loon/UBI/README.md) | [Clash](rule/Clash/UBI/README.md) | [Egern](rule/Egern/UBI/README.md) |
+| 育碧 | 游戏平台 | [Surge](rule/Surge/Ubisoft/README.md) | [Loon](rule/Loon/Ubisoft/README.md) | [Clash](rule/Clash/Ubisoft/README.md) | [Egern](rule/Egern/Ubisoft/README.md) |
+| Ubuntu | 生活与工具 | [Surge](rule/Surge/Ubuntu/README.md) | [Loon](rule/Loon/Ubuntu/README.md) | [Clash](rule/Clash/Ubuntu/README.md) | [Egern](rule/Egern/Ubuntu/README.md) |
+| UC | 生活与工具 | [Surge](rule/Surge/UC/README.md) | [Loon](rule/Loon/UC/README.md) | [Clash](rule/Clash/UC/README.md) | [Egern](rule/Egern/UC/README.md) |
+| UCloud | 云与网络 | [Surge](rule/Surge/UCloud/README.md) | [Loon](rule/Loon/UCloud/README.md) | [Clash](rule/Clash/UCloud/README.md) | [Egern](rule/Egern/UCloud/README.md) |
+| Udacity | 生活与工具 | [Surge](rule/Surge/Udacity/README.md) | [Loon](rule/Loon/Udacity/README.md) | [Clash](rule/Clash/Udacity/README.md) | [Egern](rule/Egern/Udacity/README.md) |
+| UKMedia | 流媒体与内容 | [Surge](rule/Surge/UKMedia/README.md) | [Loon](rule/Loon/UKMedia/README.md) | [Clash](rule/Clash/UKMedia/README.md) | [Egern](rule/Egern/UKMedia/README.md) |
+| 银联 | 金融电商 | [Surge](rule/Surge/UnionPay/README.md) | [Loon](rule/Loon/UnionPay/README.md) | [Clash](rule/Clash/UnionPay/README.md) | [Egern](rule/Egern/UnionPay/README.md) |
+| Unity | 生活与工具 | [Surge](rule/Surge/Unity/README.md) | [Loon](rule/Loon/Unity/README.md) | [Clash](rule/Clash/Unity/README.md) | [Egern](rule/Egern/Unity/README.md) |
+| 又拍云 | 生活与工具 | [Surge](rule/Surge/UPYun/README.md) | [Loon](rule/Loon/UPYun/README.md) | [Clash](rule/Clash/UPYun/README.md) | [Egern](rule/Egern/UPYun/README.md) |
+| USMedia | 流媒体与内容 | [Surge](rule/Surge/USMedia/README.md) | [Loon](rule/Loon/USMedia/README.md) | [Clash](rule/Clash/USMedia/README.md) | [Egern](rule/Egern/USMedia/README.md) |
+| Vancl | 生活与工具 | [Surge](rule/Surge/Vancl/README.md) | [Loon](rule/Loon/Vancl/README.md) | [Clash](rule/Clash/Vancl/README.md) | [Egern](rule/Egern/Vancl/README.md) |
+| Vercel | 开发者平台 | [Surge](rule/Surge/Vercel/README.md) | [Loon](rule/Loon/Vercel/README.md) | [Clash](rule/Clash/Vercel/README.md) | [Egern](rule/Egern/Vercel/README.md) |
+| Verisign | 云与网络 | [Surge](rule/Surge/Verisign/README.md) | [Loon](rule/Loon/Verisign/README.md) | [Clash](rule/Clash/Verisign/README.md) | [Egern](rule/Egern/Verisign/README.md) |
+| Verizon | 生活与工具 | [Surge](rule/Surge/Verizon/README.md) | [Loon](rule/Loon/Verizon/README.md) | [Clash](rule/Clash/Verizon/README.md) | [Egern](rule/Egern/Verizon/README.md) |
+| VidolTV | 流媒体与内容 | [Surge](rule/Surge/VidolTV/README.md) | [Loon](rule/Loon/VidolTV/README.md) | [Clash](rule/Clash/VidolTV/README.md) | [Egern](rule/Egern/VidolTV/README.md) |
+| VikACG | 生活与工具 | [Surge](rule/Surge/VikACG/README.md) | [Loon](rule/Loon/VikACG/README.md) | [Clash](rule/Clash/VikACG/README.md) | [Egern](rule/Egern/VikACG/README.md) |
+| Viki | 生活与工具 | [Surge](rule/Surge/Viki/README.md) | [Loon](rule/Loon/Viki/README.md) | [Clash](rule/Clash/Viki/README.md) | [Egern](rule/Egern/Viki/README.md) |
+| Vimeo | 生活与工具 | [Surge](rule/Surge/Vimeo/README.md) | [Loon](rule/Loon/Vimeo/README.md) | [Clash](rule/Clash/Vimeo/README.md) | [Egern](rule/Egern/Vimeo/README.md) |
+| VipShop | 金融电商 | [Surge](rule/Surge/VipShop/README.md) | [Loon](rule/Loon/VipShop/README.md) | [Clash](rule/Clash/VipShop/README.md) | [Egern](rule/Egern/VipShop/README.md) |
+| Visa | 金融电商 | [Surge](rule/Surge/VISA/README.md) | [Loon](rule/Loon/VISA/README.md) | [Clash](rule/Clash/VISA/README.md) | [Egern](rule/Egern/VISA/README.md) |
+| ViuTV | 流媒体与内容 | [Surge](rule/Surge/ViuTV/README.md) | [Loon](rule/Loon/ViuTV/README.md) | [Clash](rule/Clash/ViuTV/README.md) | [Egern](rule/Egern/ViuTV/README.md) |
+| vivo | 品牌与硬件 | [Surge](rule/Surge/Vivo/README.md) | [Loon](rule/Loon/Vivo/README.md) | [Clash](rule/Clash/Vivo/README.md) | [Egern](rule/Egern/Vivo/README.md) |
+| VK | 生活与工具 | [Surge](rule/Surge/VK/README.md) | [Loon](rule/Loon/VK/README.md) | [Clash](rule/Clash/VK/README.md) | [Egern](rule/Egern/VK/README.md) |
+| 美国之音 | 生活与工具 | [Surge](rule/Surge/VOA/README.md) | [Loon](rule/Loon/VOA/README.md) | [Clash](rule/Clash/VOA/README.md) | [Egern](rule/Egern/VOA/README.md) |
+| Voxmedia | 流媒体与内容 | [Surge](rule/Surge/Voxmedia/README.md) | [Loon](rule/Loon/Voxmedia/README.md) | [Clash](rule/Clash/Voxmedia/README.md) | [Egern](rule/Egern/Voxmedia/README.md) |
+| W3Schools | 生活与工具 | [Surge](rule/Surge/W3schools/README.md) | [Loon](rule/Loon/W3schools/README.md) | [Clash](rule/Clash/W3schools/README.md) | [Egern](rule/Egern/W3schools/README.md) |
+| 万方 | 生活与工具 | [Surge](rule/Surge/Wanfang/README.md) | [Loon](rule/Loon/Wanfang/README.md) | [Clash](rule/Clash/Wanfang/README.md) | [Egern](rule/Egern/Wanfang/README.md) |
+| 网宿科技 | 生活与工具 | [Surge](rule/Surge/WangSuKeJi/README.md) | [Loon](rule/Loon/WangSuKeJi/README.md) | [Clash](rule/Clash/WangSuKeJi/README.md) | [Egern](rule/Egern/WangSuKeJi/README.md) |
+| 网心科技 | 生活与工具 | [Surge](rule/Surge/WangXinKeJi/README.md) | [Loon](rule/Loon/WangXinKeJi/README.md) | [Clash](rule/Clash/WangXinKeJi/README.md) | [Egern](rule/Egern/WangXinKeJi/README.md) |
+| 玩咖欢聚 | 生活与工具 | [Surge](rule/Surge/WanKaHuanJu/README.md) | [Loon](rule/Loon/WanKaHuanJu/README.md) | [Clash](rule/Clash/WanKaHuanJu/README.md) | [Egern](rule/Egern/WanKaHuanJu/README.md) |
+| 完美世界 | 生活与工具 | [Surge](rule/Surge/WanMeiShiJie/README.md) | [Loon](rule/Loon/WanMeiShiJie/README.md) | [Clash](rule/Clash/WanMeiShiJie/README.md) | [Egern](rule/Egern/WanMeiShiJie/README.md) |
+| 微信 | 社交通信 | [Surge](rule/Surge/WeChat/README.md) | [Loon](rule/Loon/WeChat/README.md) | [Clash](rule/Clash/WeChat/README.md) | [Egern](rule/Egern/WeChat/README.md) |
+| 微博 | 中国大陆服务 | [Surge](rule/Surge/Weibo/README.md) | [Loon](rule/Loon/Weibo/README.md) | [Clash](rule/Clash/Weibo/README.md) | [Egern](rule/Egern/Weibo/README.md) |
+| WeiZhiYunDong | 生活与工具 | [Surge](rule/Surge/WeiZhiYunDong/README.md) | [Loon](rule/Loon/WeiZhiYunDong/README.md) | [Clash](rule/Clash/WeiZhiYunDong/README.md) | [Egern](rule/Egern/WeiZhiYunDong/README.md) |
+| 问卷星 | 生活与工具 | [Surge](rule/Surge/WenJuanXing/README.md) | [Loon](rule/Loon/WenJuanXing/README.md) | [Clash](rule/Clash/WenJuanXing/README.md) | [Egern](rule/Egern/WenJuanXing/README.md) |
+| Westerndigital | 生活与工具 | [Surge](rule/Surge/Westerndigital/README.md) | [Loon](rule/Loon/Westerndigital/README.md) | [Clash](rule/Clash/Westerndigital/README.md) | [Egern](rule/Egern/Westerndigital/README.md) |
+| WeTV | 流媒体与内容 | [Surge](rule/Surge/WeTV/README.md) | [Loon](rule/Loon/WeTV/README.md) | [Clash](rule/Clash/WeTV/README.md) | [Egern](rule/Egern/WeTV/README.md) |
+| 微信输入法 | 生活与工具 | [Surge](rule/Surge/WeType/README.md) | [Loon](rule/Loon/WeType/README.md) | [Clash](rule/Clash/WeType/README.md) | [Egern](rule/Egern/WeType/README.md) |
+| Whatsapp | 社交通信 | [Surge](rule/Surge/Whatsapp/README.md) | [Loon](rule/Loon/Whatsapp/README.md) | [Clash](rule/Clash/Whatsapp/README.md) | [Egern](rule/Egern/Whatsapp/README.md) |
+| WiFi 万能钥匙 | 生活与工具 | [Surge](rule/Surge/WiFiMaster/README.md) | [Loon](rule/Loon/WiFiMaster/README.md) | [Clash](rule/Clash/WiFiMaster/README.md) | [Egern](rule/Egern/WiFiMaster/README.md) |
+| 维基媒体 | 流媒体与内容 | [Surge](rule/Surge/Wikimedia/README.md) | [Loon](rule/Loon/Wikimedia/README.md) | [Clash](rule/Clash/Wikimedia/README.md) | [Egern](rule/Egern/Wikimedia/README.md) |
+| 维基百科 | 生活与工具 | [Surge](rule/Surge/Wikipedia/README.md) | [Loon](rule/Loon/Wikipedia/README.md) | [Clash](rule/Clash/Wikipedia/README.md) | [Egern](rule/Egern/Wikipedia/README.md) |
+| WildRift | 生活与工具 | [Surge](rule/Surge/WildRift/README.md) | [Loon](rule/Loon/WildRift/README.md) | [Clash](rule/Clash/WildRift/README.md) | [Egern](rule/Egern/WildRift/README.md) |
+| WIX | 生活与工具 | [Surge](rule/Surge/WIX/README.md) | [Loon](rule/Loon/WIX/README.md) | [Clash](rule/Clash/WIX/README.md) | [Egern](rule/Egern/WIX/README.md) |
+| 我来 | AI 服务 | [Surge](rule/Surge/WoLai/README.md) | [Loon](rule/Loon/WoLai/README.md) | [Clash](rule/Clash/WoLai/README.md) | [Egern](rule/Egern/WoLai/README.md) |
+| WordPress | 生活与工具 | [Surge](rule/Surge/Wordpress/README.md) | [Loon](rule/Loon/Wordpress/README.md) | [Clash](rule/Clash/Wordpress/README.md) | [Egern](rule/Egern/Wordpress/README.md) |
+| WorldofWarcraft | 生活与工具 | [Surge](rule/Surge/WorldofWarcraft/README.md) | [Loon](rule/Loon/WorldofWarcraft/README.md) | [Clash](rule/Clash/WorldofWarcraft/README.md) | [Egern](rule/Egern/WorldofWarcraft/README.md) |
+| Wteam | 游戏平台 | [Surge](rule/Surge/Wteam/README.md) | [Loon](rule/Loon/Wteam/README.md) | [Clash](rule/Clash/Wteam/README.md) | [Egern](rule/Egern/Wteam/README.md) |
+| Xbox | 游戏平台 | [Surge](rule/Surge/Xbox/README.md) | [Loon](rule/Loon/Xbox/README.md) | [Clash](rule/Clash/Xbox/README.md) | [Egern](rule/Egern/Xbox/README.md) |
+| 虾米音乐 | 流媒体与内容 | [Surge](rule/Surge/XiamiMusic/README.md) | [Loon](rule/Loon/XiamiMusic/README.md) | [Clash](rule/Clash/XiamiMusic/README.md) | [Egern](rule/Egern/XiamiMusic/README.md) |
+| 闲鱼 | 生活与工具 | [Surge](rule/Surge/XianYu/README.md) | [Loon](rule/Loon/XianYu/README.md) | [Clash](rule/Clash/XianYu/README.md) | [Egern](rule/Egern/XianYu/README.md) |
+| 小狗科技 | 生活与工具 | [Surge](rule/Surge/XiaoGouKeJi/README.md) | [Loon](rule/Loon/XiaoGouKeJi/README.md) | [Clash](rule/Clash/XiaoGouKeJi/README.md) | [Egern](rule/Egern/XiaoGouKeJi/README.md) |
+| 小红书 | 生活与工具 | [Surge](rule/Surge/XiaoHongShu/README.md) | [Loon](rule/Loon/XiaoHongShu/README.md) | [Clash](rule/Clash/XiaoHongShu/README.md) | [Egern](rule/Egern/XiaoHongShu/README.md) |
+| 小米 | 品牌与硬件 | [Surge](rule/Surge/XiaoMi/README.md) | [Loon](rule/Loon/XiaoMi/README.md) | [Clash](rule/Clash/XiaoMi/README.md) | [Egern](rule/Egern/XiaoMi/README.md) |
+| 校园科技 | 生活与工具 | [Surge](rule/Surge/XiaoYuanKeJi/README.md) | [Loon](rule/Loon/XiaoYuanKeJi/README.md) | [Clash](rule/Clash/XiaoYuanKeJi/README.md) | [Egern](rule/Egern/XiaoYuanKeJi/README.md) |
+| 携程 | 生活与工具 | [Surge](rule/Surge/XieCheng/README.md) | [Loon](rule/Loon/XieCheng/README.md) | [Clash](rule/Clash/XieCheng/README.md) | [Egern](rule/Egern/XieCheng/README.md) |
+| 星空无限 | 生活与工具 | [Surge](rule/Surge/XingKongWuXian/README.md) | [Loon](rule/Loon/XingKongWuXian/README.md) | [Clash](rule/Clash/XingKongWuXian/README.md) | [Egern](rule/Egern/XingKongWuXian/README.md) |
+| 学而思 | 生活与工具 | [Surge](rule/Surge/XueErSi/README.md) | [Loon](rule/Loon/XueErSi/README.md) | [Clash](rule/Clash/XueErSi/README.md) | [Egern](rule/Egern/XueErSi/README.md) |
+| 雪球 | 中国大陆服务 | [Surge](rule/Surge/XueQiu/README.md) | [Loon](rule/Loon/XueQiu/README.md) | [Clash](rule/Clash/XueQiu/README.md) | [Egern](rule/Egern/XueQiu/README.md) |
+| 迅雷 | 生活与工具 | [Surge](rule/Surge/Xunlei/README.md) | [Loon](rule/Loon/Xunlei/README.md) | [Clash](rule/Clash/Xunlei/README.md) | [Egern](rule/Egern/Xunlei/README.md) |
+| Yandex | 生活与工具 | [Surge](rule/Surge/Yandex/README.md) | [Loon](rule/Loon/Yandex/README.md) | [Clash](rule/Clash/Yandex/README.md) | [Egern](rule/Egern/Yandex/README.md) |
+| 易车 | 生活与工具 | [Surge](rule/Surge/YiChe/README.md) | [Loon](rule/Loon/YiChe/README.md) | [Clash](rule/Clash/YiChe/README.md) | [Egern](rule/Egern/YiChe/README.md) |
+| 一下科技 | 生活与工具 | [Surge](rule/Surge/YiXiaKeJi/README.md) | [Loon](rule/Loon/YiXiaKeJi/README.md) | [Clash](rule/Clash/YiXiaKeJi/README.md) | [Egern](rule/Egern/YiXiaKeJi/README.md) |
+| 一直播 | 生活与工具 | [Surge](rule/Surge/YiZhiBo/README.md) | [Loon](rule/Loon/YiZhiBo/README.md) | [Clash](rule/Clash/YiZhiBo/README.md) | [Egern](rule/Egern/YiZhiBo/README.md) |
+| 优酷 | 中国大陆服务 | [Surge](rule/Surge/Youku/README.md) | [Loon](rule/Loon/Youku/README.md) | [Clash](rule/Clash/Youku/README.md) | [Egern](rule/Egern/Youku/README.md) |
+| 友盟+ | 生活与工具 | [Surge](rule/Surge/YouMengChuangXiang/README.md) | [Loon](rule/Loon/YouMengChuangXiang/README.md) | [Clash](rule/Clash/YouMengChuangXiang/README.md) | [Egern](rule/Egern/YouMengChuangXiang/README.md) |
+| YouTube | 流媒体与内容 | [Surge](rule/Surge/YouTube/README.md) | [Loon](rule/Loon/YouTube/README.md) | [Clash](rule/Clash/YouTube/README.md) | [Egern](rule/Egern/YouTube/README.md) |
+| YouTube Music | 流媒体与内容 | [Surge](rule/Surge/YouTubeMusic/README.md) | [Loon](rule/Loon/YouTubeMusic/README.md) | [Clash](rule/Clash/YouTubeMusic/README.md) | [Egern](rule/Egern/YouTubeMusic/README.md) |
+| 有赞 | 生活与工具 | [Surge](rule/Surge/YouZan/README.md) | [Loon](rule/Loon/YouZan/README.md) | [Clash](rule/Clash/YouZan/README.md) | [Egern](rule/Egern/YouZan/README.md) |
+| 猿辅导 | 生活与工具 | [Surge](rule/Surge/YuanFuDao/README.md) | [Loon](rule/Loon/YuanFuDao/README.md) | [Clash](rule/Clash/YuanFuDao/README.md) | [Egern](rule/Egern/YuanFuDao/README.md) |
+| 云帆加速 | 生活与工具 | [Surge](rule/Surge/YunFanJiaSu/README.md) | [Loon](rule/Loon/YunFanJiaSu/README.md) | [Clash](rule/Clash/YunFanJiaSu/README.md) | [Egern](rule/Egern/YunFanJiaSu/README.md) |
+| 人人影视 | 生活与工具 | [Surge](rule/Surge/YYeTs/README.md) | [Loon](rule/Loon/YYeTs/README.md) | [Clash](rule/Clash/YYeTs/README.md) | [Egern](rule/Egern/YYeTs/README.md) |
+| Zalo | 生活与工具 | [Surge](rule/Surge/Zalo/README.md) | [Loon](rule/Loon/Zalo/README.md) | [Clash](rule/Clash/Zalo/README.md) | [Egern](rule/Egern/Zalo/README.md) |
+| 知道创宇 DNS | 云与网络 | [Surge](rule/Surge/ZDNS/README.md) | [Loon](rule/Loon/ZDNS/README.md) | [Clash](rule/Clash/ZDNS/README.md) | [Egern](rule/Egern/ZDNS/README.md) |
+| Zee | 生活与工具 | [Surge](rule/Surge/Zee/README.md) | [Loon](rule/Loon/Zee/README.md) | [Clash](rule/Clash/Zee/README.md) | [Egern](rule/Egern/Zee/README.md) |
+| ZeeTV | 流媒体与内容 | [Surge](rule/Surge/ZeeTV/README.md) | [Loon](rule/Loon/ZeeTV/README.md) | [Clash](rule/Clash/ZeeTV/README.md) | [Egern](rule/Egern/ZeeTV/README.md) |
+| Zendesk | 生活与工具 | [Surge](rule/Surge/Zendesk/README.md) | [Loon](rule/Loon/Zendesk/README.md) | [Clash](rule/Clash/Zendesk/README.md) | [Egern](rule/Egern/Zendesk/README.md) |
+| 掌阅 | 生活与工具 | [Surge](rule/Surge/ZhangYue/README.md) | [Loon](rule/Loon/ZhangYue/README.md) | [Clash](rule/Clash/ZhangYue/README.md) | [Egern](rule/Egern/ZhangYue/README.md) |
+| 战旗直播 | 生活与工具 | [Surge](rule/Surge/zhanqi/README.md) | [Loon](rule/Loon/zhanqi/README.md) | [Clash](rule/Clash/zhanqi/README.md) | [Egern](rule/Egern/zhanqi/README.md) |
+| 知乎 | 生活与工具 | [Surge](rule/Surge/Zhihu/README.md) | [Loon](rule/Loon/Zhihu/README.md) | [Clash](rule/Clash/Zhihu/README.md) | [Egern](rule/Egern/Zhihu/README.md) |
+| 知乎广告 | 生活与工具 | [Surge](rule/Surge/ZhihuAds/README.md) | [Loon](rule/Loon/ZhihuAds/README.md) | [Clash](rule/Clash/ZhihuAds/README.md) | [Egern](rule/Egern/ZhihuAds/README.md) |
+| 知音漫客 | 生活与工具 | [Surge](rule/Surge/ZhiYinManKe/README.md) | [Loon](rule/Loon/ZhiYinManKe/README.md) | [Clash](rule/Clash/ZhiYinManKe/README.md) | [Egern](rule/Egern/ZhiYinManKe/README.md) |
+| 智云众 | 生活与工具 | [Surge](rule/Surge/ZhiYunZhong/README.md) | [Loon](rule/Loon/ZhiYunZhong/README.md) | [Clash](rule/Clash/ZhiYunZhong/README.md) | [Egern](rule/Egern/ZhiYunZhong/README.md) |
+| 中国石化 | 生活与工具 | [Surge](rule/Surge/ZhongGuoShiHua/README.md) | [Loon](rule/Loon/ZhongGuoShiHua/README.md) | [Clash](rule/Clash/ZhongGuoShiHua/README.md) | [Egern](rule/Egern/ZhongGuoShiHua/README.md) |
+| 中维世纪 | 生活与工具 | [Surge](rule/Surge/ZhongWeiShiJi/README.md) | [Loon](rule/Loon/ZhongWeiShiJi/README.md) | [Clash](rule/Clash/ZhongWeiShiJi/README.md) | [Egern](rule/Egern/ZhongWeiShiJi/README.md) |
+| 中兴通讯 | 生活与工具 | [Surge](rule/Surge/ZhongXingTongXun/README.md) | [Loon](rule/Loon/ZhongXingTongXun/README.md) | [Clash](rule/Clash/ZhongXingTongXun/README.md) | [Egern](rule/Egern/ZhongXingTongXun/README.md) |
+| 中原益商 | 生活与工具 | [Surge](rule/Surge/ZhongYuanYiShang/README.md) | [Loon](rule/Loon/ZhongYuanYiShang/README.md) | [Clash](rule/Clash/ZhongYuanYiShang/README.md) | [Egern](rule/Egern/ZhongYuanYiShang/README.md) |
+| 转转 | 生活与工具 | [Surge](rule/Surge/ZhuanZhuan/README.md) | [Loon](rule/Loon/ZhuanZhuan/README.md) | [Clash](rule/Clash/ZhuanZhuan/README.md) | [Egern](rule/Egern/ZhuanZhuan/README.md) |
+| Zoho | 生活与工具 | [Surge](rule/Surge/Zoho/README.md) | [Loon](rule/Loon/Zoho/README.md) | [Clash](rule/Clash/Zoho/README.md) | [Egern](rule/Egern/Zoho/README.md) |

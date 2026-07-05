@@ -2,30 +2,53 @@
 
 ## 中文
 
-Privacy 规则集。
+聚合 Privacy 相关服务、域名、关键词与网络目标，面向 隐私与基础分流 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`Privacy`
+- 当前客户端：`Clash`
+- 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `20`
+- 总数：`20`
 - `DOMAIN-KEYWORD`: 9
 - `IP-CIDR`: 11
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/Privacy/Privacy.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Privacy/Privacy.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML payload 规则集`
+- 文件：`rule/Clash/Privacy/Privacy.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Privacy/Privacy.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- 当前客户端暂不支持针对本规则产物的一键导入。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Privacy/Privacy.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Privacy/Privacy.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Privacy/Privacy.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Privacy/Privacy.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Privacy: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Privacy.list
+- [blackmatrix7 Privacy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Privacy.list)
 
-## English
+<details>
+<summary>English</summary>
 
-Privacy rule set.
+Aggregated rules for Privacy, covering related domains, keywords, and network targets for security routing workflows.
 
+- Category ID: `Privacy`
 - Client: `Clash`
-- File: `rule/Clash/Privacy/Privacy.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Privacy/Privacy.yaml`
-- Omitted unsupported types: `无`
+- Group: `Security`
+- Format: `YAML payload ruleset`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Privacy/Privacy.yaml>
+
+</details>

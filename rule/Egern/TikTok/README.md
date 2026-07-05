@@ -4,34 +4,58 @@
 
 TikTok 服务规则。
 
+### 分类信息
+
+- 分类标识：`TikTok`
+- 当前客户端：`Egern`
+- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
+- 专题入口：
+- [流媒体专题](../../../guide/topics/streaming-media.md)
+
 ### 规则统计
 
-- 总数: `34`
-- `DOMAIN-SUFFIX`: 25
+- 总数：`34`
 - `DOMAIN`: 4
+- `DOMAIN-SUFFIX`: 25
 - `DOMAIN-KEYWORD`: 4
 - `USER-AGENT`: 1
 - `PROCESS-NAME`: 1
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/TikTok/TikTok.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/TikTok/TikTok.yaml`
-- 已省略的不兼容类型: PROCESS-NAME=1
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/TikTok/TikTok.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/TikTok/TikTok.yaml>
+- 已省略的不兼容类型：`PROCESS-NAME`=1
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FTikTok%2FTikTok.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=TikTok&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FTikTok%2FTikTok.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/TikTok/TikTok.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/TikTok/TikTok.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/TikTok/TikTok.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/TikTok/TikTok.yaml>
 
 ### 数据来源
 
-- blackmatrix7 TikTok: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list
-- ACL4SSR TikTok list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list
-- ACL4SSR TikTok provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/TikTok.yaml
-- LM-Firefly TikTok list: https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/TikTok.list
+- [blackmatrix7 TikTok](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list)
+- [ACL4SSR TikTok list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list)
+- [ACL4SSR TikTok provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/TikTok.yaml)
+- [LM-Firefly TikTok list](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/TikTok.list)
 
-## English
+<details>
+<summary>English</summary>
 
 TikTok service rules.
 
+- Category ID: `TikTok`
 - Client: `Egern`
-- File: `rule/Egern/TikTok/TikTok.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/TikTok/TikTok.yaml`
-- Omitted unsupported types: `PROCESS-NAME=1`
+- Group: `Media`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/TikTok/TikTok.yaml>
+
+</details>

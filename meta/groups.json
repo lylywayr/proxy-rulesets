@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "ai",
+    "name_zh": "AI 服务",
+    "name_en": "Ai",
+    "description_zh": "聚合生成式 AI、智能助理、模型平台与推理接入相关规则。",
+    "description_en": "聚合生成式 AI、智能助理、模型平台与推理接入相关规则。",
+    "count": 40
+  },
+  {
+    "slug": "mainland",
+    "name_zh": "中国大陆服务",
+    "name_en": "Mainland",
+    "description_zh": "中国大陆站点、媒体、网络环境与本地化服务相关规则。",
+    "description_en": "中国大陆站点、媒体、网络环境与本地化服务相关规则。",
+    "count": 22
+  },
+  {
+    "slug": "network",
+    "name_zh": "云与网络",
+    "name_en": "Network",
+    "description_zh": "云服务、CDN、证书、DNS、边缘网络与基础设施相关规则。",
+    "description_en": "云服务、CDN、证书、DNS、边缘网络与基础设施相关规则。",
+    "count": 18
+  },
+  {
+    "slug": "office",
+    "name_zh": "办公协作",
+    "name_en": "Office",
+    "description_zh": "办公套件、网盘、协作平台与效率工具相关规则。",
+    "description_en": "办公套件、网盘、协作平台与效率工具相关规则。",
+    "count": 13
+  },
+  {
+    "slug": "brands",
+    "name_zh": "品牌与硬件",
+    "name_en": "Brands",
+    "description_zh": "设备厂商、硬件品牌、消费电子与系统服务相关规则。",
+    "description_en": "设备厂商、硬件品牌、消费电子与系统服务相关规则。",
+    "count": 14
+  },
+  {
+    "slug": "developer",
+    "name_zh": "开发者平台",
+    "name_en": "Developer",
+    "description_zh": "代码托管、包管理、DevOps、文档托管与开发工具相关规则。",
+    "description_en": "代码托管、包管理、DevOps、文档托管与开发工具相关规则。",
+    "count": 12
+  },
+  {
+    "slug": "media",
+    "name_zh": "流媒体与内容",
+    "name_en": "Media",
+    "description_zh": "视频、音乐、新闻、内容平台与媒体分发相关规则。",
+    "description_en": "视频、音乐、新闻、内容平台与媒体分发相关规则。",
+    "count": 59
+  },
+  {
+    "slug": "gaming",
+    "name_zh": "游戏平台",
+    "name_en": "Gaming",
+    "description_zh": "游戏平台、发行网络、游戏服务与下载分发相关规则。",
+    "description_en": "游戏平台、发行网络、游戏服务与下载分发相关规则。",
+    "count": 28
+  },
+  {
+    "slug": "lifestyle",
+    "name_zh": "生活与工具",
+    "name_en": "Lifestyle",
+    "description_zh": "出行、教育、工具、内容聚合与通用互联网服务相关规则。",
+    "description_en": "出行、教育、工具、内容聚合与通用互联网服务相关规则。",
+    "count": 395
+  },
+  {
+    "slug": "social",
+    "name_zh": "社交通信",
+    "name_en": "Social",
+    "description_zh": "即时通信、社交网络、论坛社区与社群平台相关规则。",
+    "description_en": "即时通信、社交网络、论坛社区与社群平台相关规则。",
+    "count": 17
+  },
+  {
+    "slug": "apple",
+    "name_zh": "苹果生态",
+    "name_en": "Apple",
+    "description_zh": "Apple 设备、系统服务、内容服务与开发者生态相关规则。",
+    "description_en": "Apple 设备、系统服务、内容服务与开发者生态相关规则。",
+    "count": 16
+  },
+  {
+    "slug": "finance",
+    "name_zh": "金融电商",
+    "name_en": "Finance",
+    "description_zh": "支付、电商、银行、证券、交易平台与消费服务相关规则。",
+    "description_en": "支付、电商、银行、证券、交易平台与消费服务相关规则。",
+    "count": 25
+  },
+  {
+    "slug": "security",
+    "name_zh": "隐私与基础分流",
+    "name_en": "Security",
+    "description_zh": "直连、代理、测速、DNS、隐私与基础分流能力相关规则。",
+    "description_en": "直连、代理、测速、DNS、隐私与基础分流能力相关规则。",
+    "count": 8
+  }
+]

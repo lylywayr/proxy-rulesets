@@ -1,27 +1,27 @@
 # NAME: KugouKuwo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:34.389778+00:00
+# UPDATED: 2026-07-05T02:46:15.223186+00:00
 # DOMAIN-SUFFIX: 19
 # IP-CIDR: 90
 # TOTAL: 109
 
-DOMAIN-SUFFIX,ktv.com
-DOMAIN-SUFFIX,kufm.cn
-DOMAIN-SUFFIX,2496.cn
 DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,2496.cn
+DOMAIN-SUFFIX,kufm.cn
+DOMAIN-SUFFIX,ktv.com
 DOMAIN-SUFFIX,koowo.cn
 DOMAIN-SUFFIX,kumi.com
-DOMAIN-SUFFIX,kugoo.com
-DOMAIN-SUFFIX,kgimg.com
-DOMAIN-SUFFIX,kugou.net
 DOMAIN-SUFFIX,koowo.com
-DOMAIN-SUFFIX,kglink.cn
-DOMAIN-SUFFIX,gouwo.com
+DOMAIN-SUFFIX,kugou.net
 DOMAIN-SUFFIX,shuoba.me
+DOMAIN-SUFFIX,kugoo.com
+DOMAIN-SUFFIX,gouwo.com
+DOMAIN-SUFFIX,kglink.cn
+DOMAIN-SUFFIX,kgimg.com
 DOMAIN-SUFFIX,kugou.com
-DOMAIN-SUFFIX,shuoba.org
-DOMAIN-SUFFIX,shuoba.com
 DOMAIN-SUFFIX,kkzhan.com
+DOMAIN-SUFFIX,shuoba.com
+DOMAIN-SUFFIX,shuoba.org
 DOMAIN-SUFFIX,kugouipv6.com
 DOMAIN-SUFFIX,tingkanbao.com
 IP-CIDR,1.82.220.0/24,no-resolve

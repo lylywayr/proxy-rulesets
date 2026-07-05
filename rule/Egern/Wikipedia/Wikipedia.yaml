@@ -1,17 +1,17 @@
 # NAME: Wikipedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:45.940484+00:00
+# UPDATED: 2026-07-05T02:46:23.831788+00:00
 no_resolve: true
 domain_suffix_set:
-  - "wikinews.org"
   - "wikidata.org"
-  - "wikimedia.org"
-  - "wikiquote.org"
+  - "wikinews.org"
   - "wikibooks.org"
-  - "mediawiki.org"
   - "wikipedia.org"
   - "wikileaks.org"
-  - "wiktionary.org"
+  - "wikiquote.org"
+  - "mediawiki.org"
+  - "wikimedia.org"
   - "wikisource.org"
+  - "wiktionary.org"
   - "wikivoyage.org"
   - "wikiversity.org"

@@ -1,6 +1,6 @@
 # NAME: Steam
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:41.845826+00:00
+# UPDATED: 2026-07-05T02:46:20.013701+00:00
 # DOMAIN-SUFFIX: 51
 # DOMAIN-KEYWORD: 3
 # TOTAL: 54
@@ -8,50 +8,50 @@
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,steam.tv
 DOMAIN-SUFFIX,steamstat.us
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steamdeck.com
-DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,playartifact.com
-DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,valvesoftware.com
+DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steamunlocked.net
+DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
-DOMAIN-SUFFIX,steamstore-a.akamaihd.net
 DOMAIN-SUFFIX,steammobile.akamaized.net
+DOMAIN-SUFFIX,steamstore-a.akamaihd.net
 DOMAIN-SUFFIX,steampipe-kr.akamaized.net
 DOMAIN-SUFFIX,steambroadcast.akamaized.net
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
-DOMAIN-SUFFIX,steampipe-partner.akamaized.net
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+DOMAIN-SUFFIX,steampipe-partner.akamaized.net
 DOMAIN-SUFFIX,steam.cdn.on.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
-DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,steam.cdn.webra.ru
+DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,steam.ru.qtlglb.com
 DOMAIN-SUFFIX,steam.eca.qtlglb.com
 DOMAIN-SUFFIX,st.dl.bscstorage.net
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,steam.naeu.qtlglb.com
 DOMAIN-SUFFIX,steam.apac.qtlglb.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN-SUFFIX,steampowered.com.8686c.com
-DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
 DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
 DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
 DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz

@@ -1,33 +1,57 @@
-# AppleTV
+# Apple TV+
 
 ## 中文
 
-AppleTV 规则集。
+聚合 Apple TV+ 相关服务、域名、关键词与网络目标，面向 苹果生态 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`AppleTV`
+- 当前客户端：`Egern`
+- 所属分组：[苹果生态](../../../guide/groups/apple.md)
+- 专题入口：
+- [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
 ### 规则统计
 
-- 总数: `9`
-- `DOMAIN-SUFFIX`: 1
+- 总数：`9`
 - `DOMAIN`: 6
+- `DOMAIN-SUFFIX`: 1
 - `USER-AGENT`: 2
 - `PROCESS-NAME`: 1
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/AppleTV/AppleTV.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AppleTV/AppleTV.yaml`
-- 已省略的不兼容类型: PROCESS-NAME=1
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/AppleTV/AppleTV.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AppleTV/AppleTV.yaml>
+- 已省略的不兼容类型：`PROCESS-NAME`=1
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAppleTV%2FAppleTV.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=Apple%20TV%2B&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAppleTV%2FAppleTV.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AppleTV/AppleTV.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AppleTV/AppleTV.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AppleTV/AppleTV.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AppleTV/AppleTV.yaml>
 
 ### 数据来源
 
-- blackmatrix7 AppleTV: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleTV/AppleTV.list
+- [blackmatrix7 AppleTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleTV/AppleTV.list)
 
-## English
+<details>
+<summary>English</summary>
 
-AppleTV rule set.
+Aggregated rules for AppleTV, covering related domains, keywords, and network targets for apple routing workflows.
 
+- Category ID: `AppleTV`
 - Client: `Egern`
-- File: `rule/Egern/AppleTV/AppleTV.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AppleTV/AppleTV.yaml`
-- Omitted unsupported types: `PROCESS-NAME=1`
+- Group: `Apple`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AppleTV/AppleTV.yaml>
+
+</details>

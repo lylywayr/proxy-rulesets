@@ -1,14 +1,14 @@
 # NAME: Garena
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:29.734936+00:00
+# UPDATED: 2026-07-05T02:46:11.215305+00:00
 no_resolve: true
 domain_suffix_set:
-  - "garena.my"
-  - "garena.ph"
   - "garena.vn"
+  - "garena.ph"
   - "garena.tw"
-  - "garena.tv"
   - "garena.sg"
+  - "garena.tv"
+  - "garena.my"
   - "garena.com"
   - "garena.live"
   - "seagroup.com"

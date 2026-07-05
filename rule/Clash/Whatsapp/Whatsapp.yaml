@@ -1,6 +1,6 @@
 # NAME: Whatsapp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:45.827681+00:00
+# UPDATED: 2026-07-05T02:46:23.820788+00:00
 payload:
   - DOMAIN,graph.facebook.com
   - DOMAIN-SUFFIX,bintray.com

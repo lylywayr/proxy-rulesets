@@ -1,30 +1,53 @@
-# HeMa
+# 盒马
 
 ## 中文
 
-HeMa 规则集。
+聚合 盒马 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`HeMa`
+- 当前客户端：`Loon`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `12`
+- 总数：`12`
 - `DOMAIN-SUFFIX`: 12
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/HeMa/HeMa.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HeMa/HeMa.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/HeMa/HeMa.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HeMa/HeMa.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FHeMa%2FHeMa.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/HeMa/HeMa.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HeMa/HeMa.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/HeMa/HeMa.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HeMa/HeMa.yaml>
 
 ### 数据来源
 
-- blackmatrix7 HeMa: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeMa/HeMa.list
+- [blackmatrix7 HeMa](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeMa/HeMa.list)
 
-## English
+<details>
+<summary>English</summary>
 
-HeMa rule set.
+Aggregated rules for HeMa, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `HeMa`
 - Client: `Loon`
-- File: `rule/Loon/HeMa/HeMa.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HeMa/HeMa.list`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/HeMa/HeMa.list>
+
+</details>

@@ -1,12 +1,20 @@
-# ChinaTest
+# 中国大陆测试
 
 ## 中文
 
-ChinaTest 规则集。
+聚合 中国大陆测试 相关服务、域名、关键词与网络目标，面向 中国大陆服务 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`ChinaTest`
+- 当前客户端：`Egern`
+- 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `99`
+- 总数：`99`
 - `DOMAIN-SUFFIX`: 44
 - `DOMAIN-KEYWORD`: 9
 - `USER-AGENT`: 31
@@ -15,20 +23,36 @@ ChinaTest 规则集。
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/ChinaTest/ChinaTest.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaTest/ChinaTest.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/ChinaTest/ChinaTest.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaTest/ChinaTest.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FChinaTest%2FChinaTest.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B5%8B%E8%AF%95&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FChinaTest%2FChinaTest.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ChinaTest/ChinaTest.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ChinaTest/ChinaTest.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ChinaTest/ChinaTest.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaTest/ChinaTest.yaml>
 
 ### 数据来源
 
-- blackmatrix7 ChinaTest: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest.list
+- [blackmatrix7 ChinaTest](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest.list)
 
-## English
+<details>
+<summary>English</summary>
 
-ChinaTest rule set.
+Aggregated rules for ChinaTest, covering related domains, keywords, and network targets for mainland routing workflows.
 
+- Category ID: `ChinaTest`
 - Client: `Egern`
-- File: `rule/Egern/ChinaTest/ChinaTest.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaTest/ChinaTest.yaml`
-- Omitted unsupported types: `无`
+- Group: `Mainland`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaTest/ChinaTest.yaml>
+
+</details>

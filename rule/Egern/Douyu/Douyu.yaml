@@ -1,18 +1,18 @@
 # NAME: Douyu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:27.718007+00:00
+# UPDATED: 2026-07-05T02:46:11.010820+00:00
 no_resolve: true
 domain_suffix_set:
   - "douyu.tv"
-  - "douyu.com"
   - "oywtv.com"
+  - "douyu.com"
   - "douyuba.cn"
-  - "doyonoc.com"
-  - "douyucdn.cn"
   - "douyutv.com"
+  - "douyucdn.cn"
   - "edgesrv.com"
-  - "douyupcdn.cn"
+  - "doyonoc.com"
   - "douyucdn2.cn"
-  - "guguyuyin.com"
+  - "douyupcdn.cn"
   - "douyuscdn.com"
+  - "guguyuyin.com"
   - "bytefcdnrd.com"

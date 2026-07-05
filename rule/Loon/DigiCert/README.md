@@ -2,29 +2,52 @@
 
 ## 中文
 
-DigiCert 规则集。
+聚合 DigiCert 相关服务、域名、关键词与网络目标，面向 云与网络 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`DigiCert`
+- 当前客户端：`Loon`
+- 所属分组：[云与网络](../../../guide/groups/network.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `14`
+- 总数：`14`
 - `DOMAIN-SUFFIX`: 14
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/DigiCert/DigiCert.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/DigiCert/DigiCert.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/DigiCert/DigiCert.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/DigiCert/DigiCert.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FDigiCert%2FDigiCert.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/DigiCert/DigiCert.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/DigiCert/DigiCert.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/DigiCert/DigiCert.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/DigiCert/DigiCert.yaml>
 
 ### 数据来源
 
-- blackmatrix7 DigiCert: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigiCert/DigiCert.list
+- [blackmatrix7 DigiCert](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigiCert/DigiCert.list)
 
-## English
+<details>
+<summary>English</summary>
 
-DigiCert rule set.
+Aggregated rules for DigiCert, covering related domains, keywords, and network targets for network routing workflows.
 
+- Category ID: `DigiCert`
 - Client: `Loon`
-- File: `rule/Loon/DigiCert/DigiCert.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/DigiCert/DigiCert.list`
-- Omitted unsupported types: `无`
+- Group: `Network`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/DigiCert/DigiCert.list>
+
+</details>

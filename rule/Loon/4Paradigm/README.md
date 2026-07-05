@@ -1,30 +1,53 @@
-# 4Paradigm
+# 第四范式
 
 ## 中文
 
-4Paradigm 规则集。
+聚合 第四范式 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`4Paradigm`
+- 当前客户端：`Loon`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `1`
+- 总数：`1`
 - `DOMAIN-SUFFIX`: 1
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/4Paradigm/4Paradigm.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4Paradigm/4Paradigm.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/4Paradigm/4Paradigm.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4Paradigm/4Paradigm.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2F4Paradigm%2F4Paradigm.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/4Paradigm/4Paradigm.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4Paradigm/4Paradigm.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/4Paradigm/4Paradigm.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/4Paradigm/4Paradigm.yaml>
 
 ### 数据来源
 
-- blackmatrix7 4Paradigm: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4Paradigm/4Paradigm.list
+- [blackmatrix7 4Paradigm](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4Paradigm/4Paradigm.list)
 
-## English
+<details>
+<summary>English</summary>
 
-4Paradigm rule set.
+Aggregated rules for 4Paradigm, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `4Paradigm`
 - Client: `Loon`
-- File: `rule/Loon/4Paradigm/4Paradigm.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4Paradigm/4Paradigm.list`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/4Paradigm/4Paradigm.list>
+
+</details>

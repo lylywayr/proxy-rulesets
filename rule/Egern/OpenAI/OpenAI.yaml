@@ -1,6 +1,6 @@
 # NAME: OpenAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:38.057292+00:00
+# UPDATED: 2026-07-05T02:46:19.664009+00:00
 no_resolve: true
 domain_set:
   - "browser-intake-datadoghq.com"
@@ -15,15 +15,15 @@ domain_suffix_set:
   - "sora.com"
   - "sentry.io"
   - "auth0.com"
+  - "segment.io"
   - "openai.com"
   - "stripe.com"
-  - "segment.io"
   - "intercom.io"
-  - "chatgpt.com"
   - "algolia.net"
+  - "chatgpt.com"
+  - "observeit.net"
   - "identrust.com"
   - "oaistatic.com"
-  - "observeit.net"
   - "intercomcdn.com"
   - "launchdarkly.com"
   - "featuregates.org"

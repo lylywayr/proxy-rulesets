@@ -1,12 +1,12 @@
 # NAME: Cloudflarecn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:25:30.384182+00:00
+# UPDATED: 2026-07-05T02:37:11.148743+00:00
 payload:
   - DOMAIN-SUFFIX,cf-ns.net
   - DOMAIN-SUFFIX,cf-ns.com
+  - DOMAIN-SUFFIX,cftest6.cn
   - DOMAIN-SUFFIX,cf-ns.site
   - DOMAIN-SUFFIX,cf-ns.tech
-  - DOMAIN-SUFFIX,cftest6.cn
   - DOMAIN-SUFFIX,cftest5.cn
   - DOMAIN-SUFFIX,cftest8.com
   - DOMAIN-SUFFIX,cftest7.com

@@ -1,6 +1,6 @@
 # NAME: Hkgolden
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:31.752444+00:00
+# UPDATED: 2026-07-05T02:46:14.945837+00:00
 payload:
   - DOMAIN-SUFFIX,hkgolden.com
   - DOMAIN-SUFFIX,hkgolden.media

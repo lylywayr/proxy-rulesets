@@ -1,11 +1,11 @@
 # NAME: LG
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:34.799230+00:00
+# UPDATED: 2026-07-05T02:46:15.299308+00:00
 payload:
   - DOMAIN-SUFFIX,lg.com
   - DOMAIN-SUFFIX,kidc.net
-  - DOMAIN-SUFFIX,dacom.co.kr
   - DOMAIN-SUFFIX,uplus.co.kr
+  - DOMAIN-SUFFIX,dacom.co.kr
   - IP-CIDR,103.226.96.0/22
   - IP-CIDR,106.103.189.0/24
   - IP-CIDR,106.103.191.0/24

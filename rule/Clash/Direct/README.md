@@ -1,35 +1,59 @@
-# Direct
+# 直连
 
 ## 中文
 
 适合直连的通用规则集合。
 
+### 分类信息
+
+- 分类标识：`Direct`
+- 当前客户端：`Clash`
+- 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
+- 专题入口：
+- [中国大陆分流专题](../../../guide/topics/china-direct.md)
+- [隐私分流专题](../../../guide/topics/privacy-routing.md)
+
 ### 规则统计
 
-- 总数: `112396`
-- `DOMAIN-SUFFIX`: 111881
+- 总数：`112396`
 - `DOMAIN`: 442
+- `DOMAIN-SUFFIX`: 111881
 - `DOMAIN-KEYWORD`: 36
 - `USER-AGENT`: 1
 - `PROCESS-NAME`: 36
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/Direct/Direct.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Direct/Direct.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML payload 规则集`
+- 文件：`rule/Clash/Direct/Direct.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Direct/Direct.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- 当前客户端暂不支持针对本规则产物的一键导入。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Direct/Direct.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Direct/Direct.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Direct/Direct.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Direct/Direct.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Direct: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Direct/Direct.list
-- Loyalsoldier direct domains: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt
+- [blackmatrix7 Direct](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Direct/Direct.list)
+- [Loyalsoldier direct domains](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt)
 
-## English
+<details>
+<summary>English</summary>
 
 General direct-routing rules.
 
+- Category ID: `Direct`
 - Client: `Clash`
-- File: `rule/Clash/Direct/Direct.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Direct/Direct.yaml`
-- Omitted unsupported types: `无`
+- Group: `Security`
+- Format: `YAML payload ruleset`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Direct/Direct.yaml>
+
+</details>

@@ -1,6 +1,6 @@
 # NAME: AI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:08:38.854634+00:00
+# UPDATED: 2026-07-05T02:27:55.414880+00:00
 no_resolve: true
 domain_set:
   - "ai.google.dev"
@@ -34,17 +34,17 @@ domain_suffix_set:
   - "claude.ai"
   - "sentry.io"
   - "auth0.com"
+  - "segment.io"
   - "openai.com"
   - "stripe.com"
-  - "segment.io"
   - "intercom.io"
-  - "chatgpt.com"
   - "algolia.net"
+  - "chatgpt.com"
   - "deepmind.com"
-  - "identrust.com"
-  - "oaistatic.com"
   - "observeit.net"
+  - "identrust.com"
   - "anthropic.com"
+  - "oaistatic.com"
   - "intercomcdn.com"
   - "deepmind.google"
   - "launchdarkly.com"
@@ -52,15 +52,15 @@ domain_suffix_set:
   - "oaiusercontent.com"
   - "generativeai.google"
   - "bard.google.com"
-  - "api.statsig.com"
   - "apis.google.com"
+  - "api.statsig.com"
   - "gemini.google.com"
   - "turn.livekit.cloud"
   - "host.livekit.cloud"
   - "openaicom.imgix.net"
   - "api.microsoftapp.net"
-  - "edgeservices.bing.com"
   - "events.statsigapi.net"
+  - "edgeservices.bing.com"
   - "chatgpt.livekit.cloud"
   - "client-api.arkoselabs.com"
   - "challenges.cloudflare.com"

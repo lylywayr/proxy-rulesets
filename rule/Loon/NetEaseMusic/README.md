@@ -1,33 +1,56 @@
-# NetEaseMusic
+# 网易云音乐
 
 ## 中文
 
-NetEaseMusic 规则集。
+聚合 网易云音乐 相关服务、域名、关键词与网络目标，面向 流媒体与内容 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`NetEaseMusic`
+- 当前客户端：`Loon`
+- 所属分组：[流媒体与内容](../../../guide/groups/media.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `30`
-- `DOMAIN-SUFFIX`: 9
+- 总数：`30`
 - `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 9
 - `USER-AGENT`: 2
 - `IP-CIDR`: 18
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/NetEaseMusic/NetEaseMusic.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/NetEaseMusic/NetEaseMusic.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/NetEaseMusic/NetEaseMusic.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/NetEaseMusic/NetEaseMusic.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FNetEaseMusic%2FNetEaseMusic.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/NetEaseMusic/NetEaseMusic.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/NetEaseMusic/NetEaseMusic.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/NetEaseMusic/NetEaseMusic.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/NetEaseMusic/NetEaseMusic.yaml>
 
 ### 数据来源
 
-- blackmatrix7 NetEaseMusic: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEaseMusic/NetEaseMusic.list
+- [blackmatrix7 NetEaseMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEaseMusic/NetEaseMusic.list)
 
-## English
+<details>
+<summary>English</summary>
 
-NetEaseMusic rule set.
+Aggregated rules for NetEaseMusic, covering related domains, keywords, and network targets for media routing workflows.
 
+- Category ID: `NetEaseMusic`
 - Client: `Loon`
-- File: `rule/Loon/NetEaseMusic/NetEaseMusic.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/NetEaseMusic/NetEaseMusic.list`
-- Omitted unsupported types: `无`
+- Group: `Media`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/NetEaseMusic/NetEaseMusic.list>
+
+</details>

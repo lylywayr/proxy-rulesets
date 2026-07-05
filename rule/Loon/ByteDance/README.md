@@ -1,12 +1,20 @@
-# ByteDance
+# 字节跳动
 
 ## 中文
 
-ByteDance 规则集。
+聚合 字节跳动 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`ByteDance`
+- 当前客户端：`Loon`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `372`
+- 总数：`372`
 - `DOMAIN-SUFFIX`: 369
 - `USER-AGENT`: 1
 - `PROCESS-NAME`: 1
@@ -14,20 +22,35 @@ ByteDance 规则集。
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/ByteDance/ByteDance.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/ByteDance/ByteDance.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FByteDance%2FByteDance.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ByteDance/ByteDance.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ByteDance/ByteDance.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ByteDance/ByteDance.yaml>
 
 ### 数据来源
 
-- blackmatrix7 ByteDance: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list
+- [blackmatrix7 ByteDance](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list)
 
-## English
+<details>
+<summary>English</summary>
 
-ByteDance rule set.
+Aggregated rules for ByteDance, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `ByteDance`
 - Client: `Loon`
-- File: `rule/Loon/ByteDance/ByteDance.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ByteDance/ByteDance.list>
+
+</details>

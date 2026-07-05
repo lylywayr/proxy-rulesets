@@ -1,6 +1,6 @@
 # NAME: 4399
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:08:37.134580+00:00
+# UPDATED: 2026-07-05T02:27:55.278462+00:00
 payload:
   - DOMAIN-SUFFIX,4399.cn
   - DOMAIN-SUFFIX,4399.net
@@ -10,8 +10,8 @@ payload:
   - DOMAIN-SUFFIX,4399sj.com
   - DOMAIN-SUFFIX,4399pk.com
   - DOMAIN-SUFFIX,5054399.com
-  - DOMAIN-SUFFIX,edu4399.com
   - DOMAIN-SUFFIX,img4399.com
   - DOMAIN-SUFFIX,4399api.com
+  - DOMAIN-SUFFIX,edu4399.com
   - DOMAIN-SUFFIX,4399dmw.com
   - DOMAIN-SUFFIX,funnycore.com

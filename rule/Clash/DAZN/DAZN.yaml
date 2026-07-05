@@ -1,6 +1,6 @@
 # NAME: DAZN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:25:31.464602+00:00
+# UPDATED: 2026-07-05T02:37:11.240439+00:00
 payload:
   - DOMAIN-SUFFIX,dazn.com
   - DOMAIN-SUFFIX,sentry.io
@@ -10,8 +10,8 @@ payload:
   - DOMAIN-SUFFIX,dazn-api.com
   - DOMAIN-SUFFIX,indaznlab.com
   - DOMAIN-SUFFIX,s.yimg.jp
-  - DOMAIN-SUFFIX,logx.optimizely.com
   - DOMAIN-SUFFIX,control.kochava.com
+  - DOMAIN-SUFFIX,logx.optimizely.com
   - DOMAIN-SUFFIX,dcblivedazn.akamaized.net
   - DOMAIN-SUFFIX,dcalivedazn.akamaized.net
   - DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net

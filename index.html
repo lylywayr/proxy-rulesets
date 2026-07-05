@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>proxy-rulesets</title>
+  <meta name="description" content="多客户端规则仓库导航与可视化入口。">
+  <link rel="stylesheet" href="./assets/site.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">proxy-rulesets</p>
+        <h1>多客户端规则导航</h1>
+        <p class="lede">默认中文，英文可选。直观查看客户端、分组、专题、数据来源、直链与可跳转导入入口。</p>
+      </div>
+      <div class="toolbar">
+        <button id="lang-zh" class="toolbar-btn is-active" type="button">中文</button>
+        <button id="lang-en" class="toolbar-btn" type="button">EN</button>
+        <a class="toolbar-link" href="https://lylywayr.github.io/proxy-rulesets/" target="_blank" rel="noreferrer">Pages</a>
+        <a class="toolbar-link" href="./README.md" target="_blank" rel="noreferrer">README</a>
+      </div>
+    </header>
+
+    <section class="summary-band" id="summary-band"></section>
+
+    <section class="controls-band">
+      <div class="control-block search-block">
+        <label for="search-input">搜索分类</label>
+        <input id="search-input" type="search" placeholder="分类名 / 原名 / 分组 / 专题">
+      </div>
+      <div class="control-block">
+        <label for="client-filter">客户端</label>
+        <select id="client-filter"></select>
+      </div>
+      <div class="control-block">
+        <label for="group-filter">分组</label>
+        <select id="group-filter"></select>
+      </div>
+      <div class="control-block">
+        <label for="topic-filter">专题</label>
+        <select id="topic-filter"></select>
+      </div>
+    </section>
+
+    <main class="main-grid">
+      <section class="content-panel">
+        <div class="section-head">
+          <h2>分类列表</h2>
+          <p id="result-count"></p>
+        </div>
+        <div id="category-grid" class="category-grid"></div>
+      </section>
+
+      <aside class="side-panel">
+        <section class="side-section">
+          <div class="section-head">
+            <h3>客户端层</h3>
+          </div>
+          <div id="client-overview" class="stack-list"></div>
+        </section>
+        <section class="side-section">
+          <div class="section-head">
+            <h3>分组导航</h3>
+          </div>
+          <div id="group-overview" class="stack-list"></div>
+        </section>
+        <section class="side-section">
+          <div class="section-head">
+            <h3>专题入口</h3>
+          </div>
+          <div id="topic-overview" class="stack-list"></div>
+        </section>
+      </aside>
+    </main>
+  </div>
+
+  <script src="./assets/site-data.js"></script>
+  <script src="./assets/site.js"></script>
+</body>
+</html>

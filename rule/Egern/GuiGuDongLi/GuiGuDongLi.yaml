@@ -1,6 +1,6 @@
 # NAME: GuiGuDongLi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:31.012731+00:00
+# UPDATED: 2026-07-05T02:46:14.879144+00:00
 no_resolve: true
 domain_suffix_set:
   - "ezhu.cn"

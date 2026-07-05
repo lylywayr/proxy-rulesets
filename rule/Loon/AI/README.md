@@ -4,36 +4,59 @@
 
 聚合 AI 服务规则，合并 OpenAI、Claude、Gemini、Copilot、Anthropic 与 BardAI。
 
+### 分类信息
+
+- 分类标识：`AI`
+- 当前客户端：`Loon`
+- 所属分组：[AI 服务](../../../guide/groups/ai.md)
+- 专题入口：
+- [AI 专题](../../../guide/topics/ai-services.md)
+
 ### 规则统计
 
-- 总数: `72`
-- `DOMAIN-SUFFIX`: 37
+- 总数：`72`
 - `DOMAIN`: 26
+- `DOMAIN-SUFFIX`: 37
 - `DOMAIN-KEYWORD`: 5
 - `IP-ASN`: 2
 - `IP-CIDR`: 2
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/AI/AI.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AI/AI.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/AI/AI.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AI/AI.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FAI%2FAI.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AI/AI.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AI/AI.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AI/AI.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AI/AI.yaml>
 
 ### 数据来源
 
-- blackmatrix7 OpenAI: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list
-- blackmatrix7 Claude: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list
-- blackmatrix7 Gemini: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list
-- blackmatrix7 Copilot: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list
-- blackmatrix7 Anthropic: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list
-- blackmatrix7 BardAI: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list
+- [blackmatrix7 OpenAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list)
+- [blackmatrix7 Claude](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list)
+- [blackmatrix7 Gemini](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list)
+- [blackmatrix7 Copilot](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list)
+- [blackmatrix7 Anthropic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list)
+- [blackmatrix7 BardAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list)
 
-## English
+<details>
+<summary>English</summary>
 
 Aggregated AI service rules combining OpenAI, Claude, Gemini, Copilot, Anthropic, and BardAI.
 
+- Category ID: `AI`
 - Client: `Loon`
-- File: `rule/Loon/AI/AI.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AI/AI.list`
-- Omitted unsupported types: `无`
+- Group: `Ai`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AI/AI.list>
+
+</details>

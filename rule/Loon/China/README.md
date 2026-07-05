@@ -1,35 +1,58 @@
-# China
+# 中国大陆
 
 ## 中文
 
 中国大陆常用服务域名与网段。
 
+### 分类信息
+
+- 分类标识：`China`
+- 当前客户端：`Loon`
+- 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 专题入口：
+- [中国大陆分流专题](../../../guide/topics/china-direct.md)
+
 ### 规则统计
 
-- 总数: `117855`
-- `DOMAIN-SUFFIX`: 111755
+- 总数：`117855`
 - `DOMAIN`: 413
+- `DOMAIN-SUFFIX`: 111755
 - `IP-CIDR`: 4217
 - `IP-CIDR6`: 1470
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/China/China.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/China/China.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/China/China.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/China/China.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FChina%2FChina.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/China/China.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/China/China.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/China/China.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/China/China.yaml>
 
 ### 数据来源
 
-- blackmatrix7 China source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
-- Loyalsoldier direct domains: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt
-- Loyalsoldier CN CIDR: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt
+- [blackmatrix7 China source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list)
+- [Loyalsoldier direct domains](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt)
+- [Loyalsoldier CN CIDR](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt)
 
-## English
+<details>
+<summary>English</summary>
 
 China mainland service domains and networks.
 
+- Category ID: `China`
 - Client: `Loon`
-- File: `rule/Loon/China/China.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/China/China.list`
-- Omitted unsupported types: `无`
+- Group: `Mainland`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/China/China.list>
+
+</details>

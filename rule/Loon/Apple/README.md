@@ -1,39 +1,62 @@
-# Apple
+# 苹果
 
 ## 中文
 
 Apple 生态、App Store、iCloud 与 TestFlight。
 
+### 分类信息
+
+- 分类标识：`Apple`
+- 当前客户端：`Loon`
+- 所属分组：[苹果生态](../../../guide/groups/apple.md)
+- 专题入口：
+- [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
+
 ### 规则统计
 
-- 总数: `81`
-- `DOMAIN-SUFFIX`: 68
+- 总数：`81`
 - `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 68
 - `DOMAIN-KEYWORD`: 1
 - `PROCESS-NAME`: 1
 - `IP-CIDR`: 10
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Apple/Apple.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apple/Apple.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/Apple/Apple.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apple/Apple.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FApple%2FApple.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Apple/Apple.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apple/Apple.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Apple/Apple.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Apple/Apple.yaml>
 
 ### 数据来源
 
-- ACL4SSR Apple list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list
-- Loyalsoldier Apple: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt
-- Loyalsoldier iCloud: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt
-- blackmatrix7 AppStore source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppStore/AppStore.list
-- blackmatrix7 TestFlight source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list
-- blackmatrix7 AppleBlock source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list
+- [ACL4SSR Apple list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list)
+- [Loyalsoldier Apple](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt)
+- [Loyalsoldier iCloud](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt)
+- [blackmatrix7 AppStore source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppStore/AppStore.list)
+- [blackmatrix7 TestFlight source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list)
+- [blackmatrix7 AppleBlock source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list)
 
-## English
+<details>
+<summary>English</summary>
 
 Apple ecosystem, App Store, iCloud, and TestFlight.
 
+- Category ID: `Apple`
 - Client: `Loon`
-- File: `rule/Loon/Apple/Apple.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apple/Apple.list`
-- Omitted unsupported types: `无`
+- Group: `Apple`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apple/Apple.list>
+
+</details>

@@ -1,30 +1,53 @@
-# ZhongGuoShiHua
+# 中国石化
 
 ## 中文
 
-ZhongGuoShiHua 规则集。
+聚合 中国石化 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`ZhongGuoShiHua`
+- 当前客户端：`Loon`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `5`
+- 总数：`5`
 - `DOMAIN-SUFFIX`: 5
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FZhongGuoShiHua%2FZhongGuoShiHua.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ZhongGuoShiHua/ZhongGuoShiHua.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ZhongGuoShiHua/ZhongGuoShiHua.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ZhongGuoShiHua/ZhongGuoShiHua.yaml>
 
 ### 数据来源
 
-- blackmatrix7 ZhongGuoShiHua: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongGuoShiHua/ZhongGuoShiHua.list
+- [blackmatrix7 ZhongGuoShiHua](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongGuoShiHua/ZhongGuoShiHua.list)
 
-## English
+<details>
+<summary>English</summary>
 
-ZhongGuoShiHua rule set.
+Aggregated rules for ZhongGuoShiHua, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `ZhongGuoShiHua`
 - Client: `Loon`
-- File: `rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list>
+
+</details>

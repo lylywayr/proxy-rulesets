@@ -1,11 +1,11 @@
 # NAME: Embl
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:28.377780+00:00
+# UPDATED: 2026-07-05T02:46:11.068820+00:00
 no_resolve: true
 domain_suffix_set:
-  - "embl.fr"
-  - "embl.it"
   - "embl.de"
+  - "embl.it"
+  - "embl.fr"
   - "embl.org"
   - "emblstatic.net"
   - "embl-hamburg.de"

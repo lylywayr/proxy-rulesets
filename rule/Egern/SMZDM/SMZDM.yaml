@@ -1,14 +1,14 @@
 # NAME: SMZDM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:41.292567+00:00
+# UPDATED: 2026-07-05T02:46:19.973567+00:00
 no_resolve: true
 domain_suffix_set:
   - "zdm.net"
   - "smzdm.com"
   - "zdmimg.com"
   - "quaolai.com"
-  - "zhidemai.com"
   - "smzdmimg.com"
+  - "zhidemai.com"
   - "valueq-sea.com"
   - "wanwuzhinan.com"
   - "faxianpindao.com"

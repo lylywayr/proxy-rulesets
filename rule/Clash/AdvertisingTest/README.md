@@ -2,11 +2,19 @@
 
 ## 中文
 
-AdvertisingTest 规则集。
+聚合 AdvertisingTest 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`AdvertisingTest`
+- 当前客户端：`Clash`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `805`
+- 总数：`805`
 - `DOMAIN-KEYWORD`: 280
 - `IP-CIDR`: 508
 - `IP-CIDR6`: 3
@@ -14,20 +22,35 @@ AdvertisingTest 规则集。
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/AdvertisingTest/AdvertisingTest.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AdvertisingTest/AdvertisingTest.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML payload 规则集`
+- 文件：`rule/Clash/AdvertisingTest/AdvertisingTest.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AdvertisingTest/AdvertisingTest.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- 当前客户端暂不支持针对本规则产物的一键导入。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AdvertisingTest/AdvertisingTest.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/AdvertisingTest/AdvertisingTest.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AdvertisingTest/AdvertisingTest.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AdvertisingTest/AdvertisingTest.yaml>
 
 ### 数据来源
 
-- blackmatrix7 AdvertisingTest: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingTest/AdvertisingTest.list
+- [blackmatrix7 AdvertisingTest](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingTest/AdvertisingTest.list)
 
-## English
+<details>
+<summary>English</summary>
 
-AdvertisingTest rule set.
+Aggregated rules for AdvertisingTest, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `AdvertisingTest`
 - Client: `Clash`
-- File: `rule/Clash/AdvertisingTest/AdvertisingTest.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AdvertisingTest/AdvertisingTest.yaml`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `YAML payload ruleset`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AdvertisingTest/AdvertisingTest.yaml>
+
+</details>

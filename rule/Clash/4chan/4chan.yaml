@@ -1,6 +1,6 @@
 # NAME: 4chan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:08:37.179868+00:00
+# UPDATED: 2026-07-05T02:27:55.281628+00:00
 payload:
   - DOMAIN-SUFFIX,4cdn.org
   - DOMAIN-SUFFIX,4chan.org

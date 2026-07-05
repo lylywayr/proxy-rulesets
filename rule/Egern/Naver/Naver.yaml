@@ -1,6 +1,6 @@
 # NAME: Naver
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:36.849392+00:00
+# UPDATED: 2026-07-05T02:46:17.772933+00:00
 no_resolve: true
 domain_set:
   - "d17lx9ucc6k9fc.cloudfront.net"
@@ -9,20 +9,20 @@ domain_suffix_set:
   - "lin.ee"
   - "line.me"
   - "naver.jp"
-  - "plug.game"
-  - "naver.com"
   - "linetv.tw"
+  - "plug.game"
   - "naver.net"
+  - "naver.com"
   - "nhncorp.jp"
-  - "linegame.jp"
   - "pstatic.net"
+  - "linegame.jp"
+  - "linecorp.com"
+  - "line-cdn.net"
   - "grafolio.com"
   - "line-beta.me"
-  - "linecorp.com"
   - "webtoons.com"
-  - "line-cdn.net"
-  - "line-apps.com"
   - "line-scdn.net"
+  - "line-apps.com"
   - "navercorp.com"
   - "linemobile.com"
   - "linefriends.com"

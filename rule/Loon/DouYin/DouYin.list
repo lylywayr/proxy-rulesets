@@ -1,6 +1,6 @@
 # NAME: DouYin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:27.673114+00:00
+# UPDATED: 2026-07-05T02:46:11.005820+00:00
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 11
 # TOTAL: 13
@@ -9,8 +9,8 @@ DOMAIN,lf3-static.bytednsdoc.com
 DOMAIN,v5-dy-o-abtest.zjcdn.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,douyinpic.com

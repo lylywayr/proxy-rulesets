@@ -2,29 +2,52 @@
 
 ## 中文
 
-Buypass 规则集。
+聚合 Buypass 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`Buypass`
+- 当前客户端：`Loon`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `5`
+- 总数：`5`
 - `DOMAIN-SUFFIX`: 5
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/Buypass/Buypass.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Buypass/Buypass.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/Buypass/Buypass.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Buypass/Buypass.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FBuypass%2FBuypass.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Buypass/Buypass.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Buypass/Buypass.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Buypass/Buypass.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Buypass/Buypass.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Buypass: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Buypass/Buypass.list
+- [blackmatrix7 Buypass](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Buypass/Buypass.list)
 
-## English
+<details>
+<summary>English</summary>
 
-Buypass rule set.
+Aggregated rules for Buypass, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `Buypass`
 - Client: `Loon`
-- File: `rule/Loon/Buypass/Buypass.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Buypass/Buypass.list`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Buypass/Buypass.list>
+
+</details>

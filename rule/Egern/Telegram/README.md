@@ -4,9 +4,18 @@
 
 Telegram 域名与 CIDR 规则。
 
+### 分类信息
+
+- 分类标识：`Telegram`
+- 当前客户端：`Egern`
+- 所属分组：[社交通信](../../../guide/groups/social.md)
+- 专题入口：
+- [社交通信专题](../../../guide/topics/social-communication.md)
+- [隐私分流专题](../../../guide/topics/privacy-routing.md)
+
 ### 规则统计
 
-- 总数: `17`
+- 总数：`17`
 - `DOMAIN-SUFFIX`: 6
 - `DOMAIN-KEYWORD`: 1
 - `IP-CIDR`: 6
@@ -14,24 +23,40 @@ Telegram 域名与 CIDR 规则。
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Telegram/Telegram.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Telegram/Telegram.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/Telegram/Telegram.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Telegram/Telegram.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FTelegram%2FTelegram.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=Telegram&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FTelegram%2FTelegram.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Telegram/Telegram.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Telegram/Telegram.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Telegram/Telegram.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Telegram/Telegram.yaml>
 
 ### 数据来源
 
-- ACL4SSR Telegram list: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list
-- ACL4SSR Telegram provider: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml
-- Hackl0us Telegram: https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list
-- Loyalsoldier Telegram CIDR: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt
-- Loyalsoldier Clash Telegram CIDR: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt
+- [ACL4SSR Telegram list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list)
+- [ACL4SSR Telegram provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml)
+- [Hackl0us Telegram](https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list)
+- [Loyalsoldier Telegram CIDR](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt)
+- [Loyalsoldier Clash Telegram CIDR](https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt)
 
-## English
+<details>
+<summary>English</summary>
 
 Telegram domain and CIDR rules.
 
+- Category ID: `Telegram`
 - Client: `Egern`
-- File: `rule/Egern/Telegram/Telegram.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Telegram/Telegram.yaml`
-- Omitted unsupported types: `无`
+- Group: `Social`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Telegram/Telegram.yaml>
+
+</details>

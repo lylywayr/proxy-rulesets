@@ -1,0 +1,217 @@
+[
+  {
+    "slug": "ai-services",
+    "title_zh": "AI 专题",
+    "title_en": "Ai Services",
+    "description_zh": "适合智能助理、模型服务、代码补全与生成式 AI 相关分流。",
+    "description_en": "适合智能助理、模型服务、代码补全与生成式 AI 相关分流。",
+    "categories": [
+      "AI",
+      "aiXcoder",
+      "Anthropic",
+      "BardAI",
+      "Civitai",
+      "Claude",
+      "Copilot",
+      "Gemini",
+      "OpenAI"
+    ]
+  },
+  {
+    "slug": "china-direct",
+    "title_zh": "中国大陆分流专题",
+    "title_en": "China Direct",
+    "description_zh": "适合直连国内站点、媒体、本地网络与大陆服务优化场景。",
+    "description_en": "适合直连国内站点、媒体、本地网络与大陆服务优化场景。",
+    "categories": [
+      "China",
+      "ChinaDNS",
+      "ChinaMedia",
+      "ChinaMobile",
+      "ChinaNews",
+      "ChinaTelecom",
+      "ChinaUnicom",
+      "Direct",
+      "GovCN"
+    ]
+  },
+  {
+    "slug": "cloud-network",
+    "title_zh": "云网络专题",
+    "title_en": "Cloud Network",
+    "description_zh": "适合云服务、CDN、DNS、证书与边缘网络能力场景。",
+    "description_en": "适合云服务、CDN、DNS、证书与边缘网络能力场景。",
+    "categories": [
+      "Akamai",
+      "Cloudflare",
+      "Cloudflarecn",
+      "DigitalOcean",
+      "Docker",
+      "GitHub",
+      "GoogleFCM",
+      "Microsoft",
+      "Oracle"
+    ]
+  },
+  {
+    "slug": "office-collaboration",
+    "title_zh": "办公协作专题",
+    "title_en": "Office Collaboration",
+    "description_zh": "适合 Microsoft、Google、协作工具、网盘与在线文档场景。",
+    "description_en": "适合 Microsoft、Google、协作工具、网盘与在线文档场景。",
+    "categories": [
+      "Dropbox",
+      "Google",
+      "Mail",
+      "Microsoft",
+      "Notion",
+      "OneDrive",
+      "Slack",
+      "Teams"
+    ]
+  },
+  {
+    "slug": "developer-stack",
+    "title_zh": "开发者栈专题",
+    "title_en": "Developer Stack",
+    "description_zh": "适合代码托管、CI/CD、包仓库、开发工具与云开发平台场景。",
+    "description_en": "适合代码托管、CI/CD、包仓库、开发工具与云开发平台场景。",
+    "categories": [
+      "Atlassian",
+      "Developer",
+      "Docker",
+      "GitBook",
+      "Gitee",
+      "GitHub",
+      "GitLab",
+      "HashiCorp",
+      "Jetbrains",
+      "Jfrog",
+      "Npmjs",
+      "SourceForge",
+      "Vercel"
+    ]
+  },
+  {
+    "slug": "streaming-media",
+    "title_zh": "流媒体专题",
+    "title_en": "Streaming Media",
+    "description_zh": "适合视频、音乐、媒体内容分发与国际内容访问场景。",
+    "description_en": "适合视频、音乐、媒体内容分发与国际内容访问场景。",
+    "categories": [
+      "BiliBili",
+      "BiliBiliIntl",
+      "ChinaMedia",
+      "Disney",
+      "GlobalMedia",
+      "Hulu",
+      "Netflix",
+      "PrimeVideo",
+      "Spotify",
+      "TikTok",
+      "Twitch",
+      "YouTube",
+      "YouTubeMusic"
+    ]
+  },
+  {
+    "slug": "gaming-platforms",
+    "title_zh": "游戏平台专题",
+    "title_en": "Gaming Platforms",
+    "description_zh": "适合游戏平台登录、游戏下载、内容分发与联机场景。",
+    "description_en": "适合游戏平台登录、游戏下载、内容分发与联机场景。",
+    "categories": [
+      "Battle",
+      "Blizzard",
+      "EA",
+      "Epic",
+      "Game",
+      "GamePlatforms",
+      "Nintendo",
+      "PlayStation",
+      "Riot",
+      "Steam",
+      "SteamCN",
+      "Ubisoft",
+      "Xbox"
+    ]
+  },
+  {
+    "slug": "social-communication",
+    "title_zh": "社交通信专题",
+    "title_en": "Social Communication",
+    "description_zh": "适合即时通信、社区讨论、社交媒体与跨地区沟通场景。",
+    "description_en": "适合即时通信、社区讨论、社交媒体与跨地区沟通场景。",
+    "categories": [
+      "Clubhouse",
+      "Discord",
+      "Facebook",
+      "Instagram",
+      "KakaoTalk",
+      "Line",
+      "Reddit",
+      "Telegram",
+      "Threads",
+      "Twitter",
+      "WeChat",
+      "Whatsapp"
+    ]
+  },
+  {
+    "slug": "apple-ecosystem",
+    "title_zh": "苹果生态专题",
+    "title_en": "Apple Ecosystem",
+    "description_zh": "覆盖 Apple 系统服务、账户、内容分发、云同步与开发者相关能力。",
+    "description_en": "覆盖 Apple 系统服务、账户、内容分发、云同步与开发者相关能力。",
+    "categories": [
+      "Apple",
+      "AppleDev",
+      "AppleID",
+      "AppleMusic",
+      "AppleNews",
+      "AppleTV",
+      "AppStore",
+      "FindMy",
+      "iCloud",
+      "iCloudPrivateRelay",
+      "Siri",
+      "TestFlight"
+    ]
+  },
+  {
+    "slug": "finance-commerce",
+    "title_zh": "金融电商专题",
+    "title_en": "Finance Commerce",
+    "description_zh": "适合支付、电商、银行、交易所与消费服务分流场景。",
+    "description_en": "适合支付、电商、银行、交易所与消费服务分流场景。",
+    "categories": [
+      "AliPay",
+      "Amazon",
+      "AmazonCN",
+      "BOC",
+      "CEB",
+      "CGB",
+      "Crypto",
+      "ICBC",
+      "PayPal"
+    ]
+  },
+  {
+    "slug": "privacy-routing",
+    "title_zh": "隐私分流专题",
+    "title_en": "Privacy Routing",
+    "description_zh": "适合代理、直连、测速、DNS 与网络基础分流场景。",
+    "description_en": "适合代理、直连、测速、DNS 与网络基础分流场景。",
+    "categories": [
+      "ChinaASN",
+      "ChinaDNS",
+      "ChinaIPs",
+      "Cloudflare",
+      "Direct",
+      "Hijacking",
+      "Proxy",
+      "Speedtest",
+      "Telegram"
+    ]
+  }
+]

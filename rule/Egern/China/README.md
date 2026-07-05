@@ -1,35 +1,59 @@
-# China
+# 中国大陆
 
 ## 中文
 
 中国大陆常用服务域名与网段。
 
+### 分类信息
+
+- 分类标识：`China`
+- 当前客户端：`Egern`
+- 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 专题入口：
+- [中国大陆分流专题](../../../guide/topics/china-direct.md)
+
 ### 规则统计
 
-- 总数: `117855`
-- `DOMAIN-SUFFIX`: 111755
+- 总数：`117855`
 - `DOMAIN`: 413
+- `DOMAIN-SUFFIX`: 111755
 - `IP-CIDR`: 4217
 - `IP-CIDR6`: 1470
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/China/China.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/China/China.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/China/China.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/China/China.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FChina%2FChina.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FChina%2FChina.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/China/China.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/China/China.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/China/China.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/China/China.yaml>
 
 ### 数据来源
 
-- blackmatrix7 China source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
-- Loyalsoldier direct domains: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt
-- Loyalsoldier CN CIDR: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt
+- [blackmatrix7 China source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list)
+- [Loyalsoldier direct domains](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt)
+- [Loyalsoldier CN CIDR](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt)
 
-## English
+<details>
+<summary>English</summary>
 
 China mainland service domains and networks.
 
+- Category ID: `China`
 - Client: `Egern`
-- File: `rule/Egern/China/China.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/China/China.yaml`
-- Omitted unsupported types: `无`
+- Group: `Mainland`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/China/China.yaml>
+
+</details>

@@ -1,6 +1,6 @@
 # NAME: Rockstar
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:40.261160+00:00
+# UPDATED: 2026-07-05T02:46:19.887588+00:00
 no_resolve: true
 domain_suffix_set:
   - "rsg.sc"

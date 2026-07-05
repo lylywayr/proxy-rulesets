@@ -1,28 +1,28 @@
 # NAME: GitHub
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:42:30.183282+00:00
+# UPDATED: 2026-07-05T02:46:13.093478+00:00
 payload:
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,repo.new
+  - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,npmjs.org
-  - DOMAIN-SUFFIX,npmjs.com
-  - DOMAIN-SUFFIX,github.dev
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.dev
   - DOMAIN-SUFFIX,rawgit.com
   - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,rawgithub.com
   - DOMAIN-SUFFIX,npm.community
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,githubapp.com
-  - DOMAIN-SUFFIX,rawgithub.com
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,githubnext.com
-  - DOMAIN-SUFFIX,githubstatus.com
   - DOMAIN-SUFFIX,github.community
-  - DOMAIN-SUFFIX,opensource.guide
+  - DOMAIN-SUFFIX,githubstatus.com
   - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-SUFFIX,githubcopilot.com

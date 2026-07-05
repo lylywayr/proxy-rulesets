@@ -1,24 +1,24 @@
 # NAME: Adidas
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:08:38.166090+00:00
+# UPDATED: 2026-07-05T02:27:55.355925+00:00
 no_resolve: true
 domain_suffix_set:
-  - "adidas.ch"
-  - "adidas.se"
-  - "adidas.it"
-  - "adidas.nl"
-  - "adidas.dk"
-  - "adidas.ru"
-  - "adidas.ie"
-  - "adidas.at"
-  - "adidas.cz"
-  - "adidas.pl"
   - "adidas.de"
+  - "adidas.dk"
+  - "adidas.it"
+  - "adidas.at"
+  - "adidas.se"
+  - "adidas.ch"
   - "adidas.be"
+  - "adidas.nl"
+  - "adidas.ru"
+  - "adidas.cz"
   - "adidas.hu"
+  - "adidas.pl"
+  - "adidas.ie"
   - "adidas.com"
   - "adidas.co.uk"
   - "adidas.co.in"
   - "adidas.com.sa"
-  - "adidas.com.tw"
   - "adidas.com.cn"
+  - "adidas.com.tw"

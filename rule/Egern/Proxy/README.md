@@ -1,12 +1,20 @@
-# Proxy
+# 代理
 
 ## 中文
 
 常见代理分流集合。
 
+### 分类信息
+
+- 分类标识：`Proxy`
+- 当前客户端：`Egern`
+- 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
+- 专题入口：
+- [隐私分流专题](../../../guide/topics/privacy-routing.md)
+
 ### 规则统计
 
-- 总数: `131`
+- 总数：`131`
 - `DOMAIN-KEYWORD`: 26
 - `USER-AGENT`: 8
 - `IP-CIDR`: 93
@@ -14,20 +22,36 @@
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Proxy/Proxy.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/Proxy/Proxy.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FProxy%2FProxy.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E4%BB%A3%E7%90%86&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FProxy%2FProxy.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Proxy/Proxy.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Proxy/Proxy.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Proxy/Proxy.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Proxy: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list
+- [blackmatrix7 Proxy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list)
 
-## English
+<details>
+<summary>English</summary>
 
 Common proxy-routing rules.
 
+- Category ID: `Proxy`
 - Client: `Egern`
-- File: `rule/Egern/Proxy/Proxy.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml`
-- Omitted unsupported types: `无`
+- Group: `Security`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml>
+
+</details>

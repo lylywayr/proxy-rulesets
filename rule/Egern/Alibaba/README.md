@@ -1,12 +1,20 @@
-# Alibaba
+# 阿里巴巴
 
 ## 中文
 
-Alibaba 规则集。
+聚合 阿里巴巴 相关服务、域名、关键词与网络目标，面向 金融电商 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`Alibaba`
+- 当前客户端：`Egern`
+- 所属分组：[金融电商](../../../guide/groups/finance.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `57`
+- 总数：`57`
 - `DOMAIN-SUFFIX`: 3
 - `PROCESS-NAME`: 1
 - `IP-CIDR`: 53
@@ -14,20 +22,36 @@ Alibaba 规则集。
 
 ### 使用说明
 
-- 客户端: `Egern`
-- 文件: `rule/Egern/Alibaba/Alibaba.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml`
-- 已省略的不兼容类型: PROCESS-NAME=1
+- 规则格式：`YAML Rule Set`
+- 文件：`rule/Egern/Alibaba/Alibaba.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml>
+- 已省略的不兼容类型：`PROCESS-NAME`=1
+
+### 客户端入口
+
+- [Egern 一键预填](egern:/rules/new?type=rule_set&match=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAlibaba%2FAlibaba.yaml): 在 Egern 中预填 rule_set 规则，策略可在跳转后自行选择。
+- [Egern 新建配置](egern:/profiles/new?name=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4&url=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FEgern%2FAlibaba%2FAlibaba.yaml): 按官方 URL Scheme 预填配置地址。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Alibaba/Alibaba.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Alibaba/Alibaba.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Alibaba/Alibaba.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Alibaba: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba.list
+- [blackmatrix7 Alibaba](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba.list)
 
-## English
+<details>
+<summary>English</summary>
 
-Alibaba rule set.
+Aggregated rules for Alibaba, covering related domains, keywords, and network targets for finance routing workflows.
 
+- Category ID: `Alibaba`
 - Client: `Egern`
-- File: `rule/Egern/Alibaba/Alibaba.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml`
-- Omitted unsupported types: `PROCESS-NAME=1`
+- Group: `Finance`
+- Format: `YAML Rule Set`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Alibaba/Alibaba.yaml>
+
+</details>

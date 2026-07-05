@@ -1,30 +1,53 @@
-# Nvidia
+# 英伟达
 
 ## 中文
 
-Nvidia 规则集。
+聚合 英伟达 相关服务、域名、关键词与网络目标，面向 品牌与硬件 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`Nvidia`
+- 当前客户端：`Clash`
+- 所属分组：[品牌与硬件](../../../guide/groups/brands.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `62`
+- 总数：`62`
 - `DOMAIN-SUFFIX`: 62
 
 ### 使用说明
 
-- 客户端: `Clash`
-- 文件: `rule/Clash/Nvidia/Nvidia.yaml`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Nvidia/Nvidia.yaml`
-- 已省略的不兼容类型: 无
+- 规则格式：`YAML payload 规则集`
+- 文件：`rule/Clash/Nvidia/Nvidia.yaml`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Nvidia/Nvidia.yaml>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- 当前客户端暂不支持针对本规则产物的一键导入。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Nvidia/Nvidia.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Nvidia/Nvidia.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Nvidia/Nvidia.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Nvidia/Nvidia.yaml>
 
 ### 数据来源
 
-- blackmatrix7 Nvidia: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nvidia/Nvidia.list
+- [blackmatrix7 Nvidia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nvidia/Nvidia.list)
 
-## English
+<details>
+<summary>English</summary>
 
-Nvidia rule set.
+Aggregated rules for Nvidia, covering related domains, keywords, and network targets for brands routing workflows.
 
+- Category ID: `Nvidia`
 - Client: `Clash`
-- File: `rule/Clash/Nvidia/Nvidia.yaml`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Nvidia/Nvidia.yaml`
-- Omitted unsupported types: `无`
+- Group: `Brands`
+- Format: `YAML payload ruleset`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Nvidia/Nvidia.yaml>
+
+</details>

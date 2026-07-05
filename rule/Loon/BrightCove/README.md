@@ -2,29 +2,52 @@
 
 ## 中文
 
-BrightCove 规则集。
+聚合 BrightCove 相关服务、域名、关键词与网络目标，面向 生活与工具 场景下的规则分流、客户端引用与统一维护。
+
+### 分类信息
+
+- 分类标识：`BrightCove`
+- 当前客户端：`Loon`
+- 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 专题入口：
+- 暂无
 
 ### 规则统计
 
-- 总数: `14`
+- 总数：`14`
 - `DOMAIN-SUFFIX`: 14
 
 ### 使用说明
 
-- 客户端: `Loon`
-- 文件: `rule/Loon/BrightCove/BrightCove.list`
-- 直链: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list`
-- 已省略的不兼容类型: 无
+- 规则格式：`纯文本远程规则列表`
+- 文件：`rule/Loon/BrightCove/BrightCove.list`
+- 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list>
+- 已省略的不兼容类型：无
+
+### 客户端入口
+
+- [Loon 一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Flylywayr%2Fproxy-rulesets%2Fmain%2Frule%2FLoon%2FBrightCove%2FBrightCove.list): 通过 Loon 统一链接直接添加远程规则。
+
+### 其他客户端直链
+
+- `Surge`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/BrightCove/BrightCove.list>
+- `Loon`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list>
+- `Clash`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/BrightCove/BrightCove.yaml>
+- `Egern`: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BrightCove/BrightCove.yaml>
 
 ### 数据来源
 
-- blackmatrix7 BrightCove: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BrightCove/BrightCove.list
+- [blackmatrix7 BrightCove](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BrightCove/BrightCove.list)
 
-## English
+<details>
+<summary>English</summary>
 
-BrightCove rule set.
+Aggregated rules for BrightCove, covering related domains, keywords, and network targets for lifestyle routing workflows.
 
+- Category ID: `BrightCove`
 - Client: `Loon`
-- File: `rule/Loon/BrightCove/BrightCove.list`
-- Raw URL: `https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list`
-- Omitted unsupported types: `无`
+- Group: `Lifestyle`
+- Format: `Plain remote rules list`
+- Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BrightCove/BrightCove.list>
+
+</details>
