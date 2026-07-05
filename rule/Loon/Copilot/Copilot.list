@@ -1,6 +1,6 @@
 # NAME: Copilot
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:31:24.944497+00:00
+# UPDATED: 2026-07-05T01:33:42.076616+00:00
 # DOMAIN: 20
 # DOMAIN-SUFFIX: 26
 # DOMAIN-KEYWORD: 1
@@ -28,27 +28,27 @@ DOMAIN,services.bingapis.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
-DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,api.microsoftapp.net
-DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com

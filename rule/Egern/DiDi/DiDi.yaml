@@ -1,28 +1,28 @@
 # NAME: DiDi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:31:26.092989+00:00
+# UPDATED: 2026-07-05T01:33:42.934536+00:00
 no_resolve: true
 domain_suffix_set:
   - "didi.cn"
   - "didi.xin"
   - "udache.com"
   - "cxyule.com"
-  - "didiyun.org"
   - "didiyun.com"
+  - "didiyun.org"
   - "diditaxi.com"
   - "didi-food.com"
   - "didiqiche.com"
   - "didialift.com"
-  - "didiwuxian.com"
-  - "didiglobal.com"
-  - "didiyunapi.com"
-  - "didistatic.com"
-  - "xiaojuchefu.cn"
   - "xiaojukeji.com"
+  - "didiwuxian.com"
+  - "didiyunapi.com"
+  - "xiaojuchefu.cn"
+  - "didiglobal.com"
+  - "didistatic.com"
   - "didichuxing.com"
   - "didiopenapi.com"
-  - "juyanwenjuan.com"
   - "didimobility.com"
+  - "juyanwenjuan.com"
   - "didiaustralia.blog"
   - "didiapp.net.cn"
   - "apptaxi.com.cn"

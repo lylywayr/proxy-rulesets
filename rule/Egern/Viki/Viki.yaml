@@ -1,11 +1,11 @@
 # NAME: Viki
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:48.213096+00:00
+# UPDATED: 2026-07-05T01:51:15.763177+00:00
 no_resolve: true
 domain_suffix_set:
   - "viki.io"
-  - "viki.net"
   - "viki.com"
+  - "viki.net"
   - "vikiplatform.com"
   - "twemoji.maxcdn.com"
   - "vikidash.akamaized.net"

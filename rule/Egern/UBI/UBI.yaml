@@ -1,10 +1,10 @@
 # NAME: UBI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:47.356374+00:00
+# UPDATED: 2026-07-05T01:51:14.973363+00:00
 no_resolve: true
 domain_suffix_set:
   - "ubi.com"
   - "uplay.com"
   - "ubisoft.com"
-  - "ubisoft-orbit-savegames.s3.amazonaws.com"
   - "ubisoft-uplay-savegames.s3.amazonaws.com"
+  - "ubisoft-orbit-savegames.s3.amazonaws.com"

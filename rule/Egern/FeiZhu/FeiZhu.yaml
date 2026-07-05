@@ -1,25 +1,25 @@
 # NAME: FeiZhu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:29.827385+00:00
+# UPDATED: 2026-07-05T01:50:59.395174+00:00
 no_resolve: true
 domain_suffix_set:
-  - "vfvdf.com"
-  - "zzxca.com"
-  - "fliggy.hk"
-  - "xcvvs.com"
-  - "fdfgdf.cn"
-  - "zxczw.com"
   - "bcvbw.com"
+  - "vfvdf.com"
   - "feizhu.cn"
+  - "xcvvs.com"
+  - "fliggy.hk"
+  - "fdfgdf.cn"
   - "ujmjk.com"
-  - "fliggy.com"
-  - "asczwa.com"
-  - "feizhu.com"
+  - "zzxca.com"
+  - "zxczw.com"
   - "jhgtgb.com"
-  - "iuynfg.com"
+  - "fliggy.com"
+  - "feizhu.com"
   - "edcdfg.com"
+  - "asczwa.com"
   - "dfkhgj.com"
-  - "mnbvbqw.com"
-  - "alitrip.com"
+  - "iuynfg.com"
   - "ereuiib.com"
+  - "alitrip.com"
+  - "mnbvbqw.com"
   - "asczxcefsv.com"

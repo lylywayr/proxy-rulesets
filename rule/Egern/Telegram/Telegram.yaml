@@ -1,14 +1,14 @@
 # NAME: Telegram
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:45.903678+00:00
+# UPDATED: 2026-07-05T01:51:13.613846+00:00
 no_resolve: true
 domain_suffix_set:
   - "t.me"
-  - "telesco.pe"
   - "telegra.ph"
+  - "telesco.pe"
   - "telegram.me"
-  - "telegram.org"
   - "tdesktop.com"
+  - "telegram.org"
 domain_keyword_set:
   - "telegram"
 ip_cidr_set:

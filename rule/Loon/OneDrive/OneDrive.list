@@ -1,6 +1,6 @@
 # NAME: OneDrive
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:40.119295+00:00
+# UPDATED: 2026-07-05T01:51:08.479065+00:00
 # DOMAIN-SUFFIX: 13
 # DOMAIN-KEYWORD: 3
 # PROCESS-NAME: 2
@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,microsoftpersonalcontent.com
 DOMAIN-SUFFIX,photos.live.com
 DOMAIN-SUFFIX,storage.msn.com
-DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,skydrive.wns.windows.com

@@ -1,25 +1,25 @@
 # NAME: LeJu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:36.597676+00:00
+# UPDATED: 2026-07-05T01:51:05.212033+00:00
 no_resolve: true
 domain_suffix_set:
   - "leju.cn"
-  - "leju.com"
   - "ileju.cn"
-  - "91leju.cn"
+  - "leju.com"
   - "ileju.com"
   - "ljimg.com"
+  - "91leju.cn"
   - "esfimg.com"
+  - "91leju.net"
+  - "sousea.com"
+  - "dichan.com"
   - "dichan.net"
   - "quanup.com"
-  - "dichan.com"
-  - "sousea.com"
-  - "91leju.net"
-  - "xhaiwai.com"
   - "xhwhouse.cn"
+  - "xhaiwai.com"
   - "xhwhouse.com"
-  - "jiajuimg.com"
   - "houseimg.com"
+  - "jiajuimg.com"
   - "fangdudu.com"
   - "yiqisooimg.com"
   - "91leju.com.cn"

@@ -1,22 +1,22 @@
 # NAME: TianWeiChengXin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:46.430646+00:00
+# UPDATED: 2026-07-05T01:51:14.105544+00:00
 payload:
   - DOMAIN-SUFFIX,itrus.cn
   - DOMAIN-SUFFIX,ev-ssl.cn
   - DOMAIN-SUFFIX,mj365.vip
-  - DOMAIN-SUFFIX,fxg365.cn
-  - DOMAIN-SUFFIX,dcocsp.cn
-  - DOMAIN-SUFFIX,itrus.com
   - DOMAIN-SUFFIX,yunssl.cn
-  - DOMAIN-SUFFIX,mj365.site
-  - DOMAIN-SUFFIX,helloid.cn
-  - DOMAIN-SUFFIX,yunssl.com
-  - DOMAIN-SUFFIX,6rencn.com
+  - DOMAIN-SUFFIX,fxg365.cn
+  - DOMAIN-SUFFIX,itrus.com
+  - DOMAIN-SUFFIX,dcocsp.cn
   - DOMAIN-SUFFIX,mj365.club
+  - DOMAIN-SUFFIX,6rencn.com
+  - DOMAIN-SUFFIX,yunssl.com
+  - DOMAIN-SUFFIX,helloid.cn
+  - DOMAIN-SUFFIX,mj365.site
   - DOMAIN-SUFFIX,itrusign.cn
-  - DOMAIN-SUFFIX,itrusign.com
   - DOMAIN-SUFFIX,nowhttps.com
+  - DOMAIN-SUFFIX,itrusign.com
   - DOMAIN-SUFFIX,4006663999.cn
   - DOMAIN-SUFFIX,itruscloud.com
   - DOMAIN-SUFFIX,mingjian365.cn

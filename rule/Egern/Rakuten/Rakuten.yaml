@@ -1,23 +1,23 @@
 # NAME: Rakuten
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:42.669118+00:00
+# UPDATED: 2026-07-05T01:51:10.753640+00:00
 no_resolve: true
 domain_suffix_set:
   - "o50.jp"
   - "r10.to"
   - "r10s.jp"
   - "r10s.com"
-  - "viber.com"
   - "rclon.com"
+  - "viber.com"
   - "rakuten.tw"
   - "rebates.jp"
-  - "ebates.com"
   - "rakuten.ca"
+  - "ebates.com"
   - "rakuten.com"
   - "rakuten-static.com"
   - "viber.co.jp"
   - "rakuten.co.jp"
   - "rakuten.ne.jp"
   - "infoseek.co.jp"
-  - "rakuten.com.tw"
   - "showtime.co.jp"
+  - "rakuten.com.tw"

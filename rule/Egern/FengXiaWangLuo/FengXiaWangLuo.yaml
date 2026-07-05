@@ -1,13 +1,13 @@
 # NAME: FengXiaWangLuo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:29.926617+00:00
+# UPDATED: 2026-07-05T01:50:59.493424+00:00
 no_resolve: true
 domain_suffix_set:
   - "158c.com"
   - "fhyx.com"
-  - "wy213.net"
   - "wy213.com"
-  - "fengyx.com"
+  - "wy213.net"
   - "qu2345.com"
   - "ali213.net"
+  - "fengyx.com"
   - "iyouxia.com"

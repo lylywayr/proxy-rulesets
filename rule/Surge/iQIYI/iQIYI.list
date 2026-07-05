@@ -1,6 +1,6 @@
 # NAME: iQIYI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:34.703036+00:00
+# UPDATED: 2026-07-05T01:51:03.729109+00:00
 # DOMAIN-SUFFIX: 34
 # DOMAIN-KEYWORD: 1
 # USER-AGENT: 6
@@ -9,34 +9,34 @@
 # TOTAL: 63
 
 DOMAIN-SUFFIX,71.am
-DOMAIN-SUFFIX,qy.net
-DOMAIN-SUFFIX,qy.com
-DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,pps.tv
-DOMAIN-SUFFIX,gitv.tv
-DOMAIN-SUFFIX,qiyi.cn
+DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,qy.com
 DOMAIN-SUFFIX,gitv.cn
-DOMAIN-SUFFIX,suike.cn
+DOMAIN-SUFFIX,qiyi.cn
+DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,qiyi.com
-DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,suike.cn
 DOMAIN-SUFFIX,aianno.cn
-DOMAIN-SUFFIX,71edge.net
-DOMAIN-SUFFIX,ppsurl.com
+DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,aianno.com
 DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,ppsimg.com
-DOMAIN-SUFFIX,qiyipic.com
+DOMAIN-SUFFIX,71edge.net
+DOMAIN-SUFFIX,ppsurl.com
 DOMAIN-SUFFIX,baiying.com
 DOMAIN-SUFFIX,ppstream.cn
+DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,ppstream.com
 DOMAIN-SUFFIX,jiangbing.cn
-DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,ppstream.net
 DOMAIN-SUFFIX,ibkstore.com
+DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,iqiyiedge.com
 DOMAIN-SUFFIX,iqiyiedge.net
-DOMAIN-SUFFIX,aiqiyicloud.net
 DOMAIN-SUFFIX,aiqiyicloud.com
+DOMAIN-SUFFIX,aiqiyicloud.net
 DOMAIN-SUFFIX,aiqiyicloud-mgmt.com
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,iqiyi.demo.uwp

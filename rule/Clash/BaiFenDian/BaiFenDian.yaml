@@ -1,14 +1,14 @@
 # NAME: BaiFenDian
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:22.656223+00:00
+# UPDATED: 2026-07-05T01:16:36.285949+00:00
 payload:
+  - DOMAIN-SUFFIX,bfdcdn.com
   - DOMAIN-SUFFIX,percent.cn
   - DOMAIN-SUFFIX,pertalk.cn
-  - DOMAIN-SUFFIX,bfdcdn.com
   - DOMAIN-SUFFIX,marimall.cn
   - DOMAIN-SUFFIX,bfdcloud.com
   - DOMAIN-SUFFIX,mediaforce.cn
   - DOMAIN-SUFFIX,baifendian.com
-  - DOMAIN-SUFFIX,blingoffice.com
   - DOMAIN-SUFFIX,pdeepmatrix.com
+  - DOMAIN-SUFFIX,blingoffice.com
   - DOMAIN-SUFFIX,xworld.net.cn

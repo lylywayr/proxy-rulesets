@@ -1,6 +1,6 @@
 # NAME: TencentVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:46.100681+00:00
+# UPDATED: 2026-07-05T01:51:13.833094+00:00
 # DOMAIN: 14
 # DOMAIN-SUFFIX: 5
 # IP-CIDR: 3
@@ -23,8 +23,8 @@ DOMAIN,video-vip-1258344701.shiply-cdn.qq.com
 DOMAIN,yoo.gtimg.com
 DOMAIN-SUFFIX,v.qq.com
 DOMAIN-SUFFIX,video.qq.com
-DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,qqvideo.gtimg.com
 IP-CIDR,58.49.111.79/32,no-resolve
 IP-CIDR,58.49.111.95/32,no-resolve

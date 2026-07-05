@@ -1,6 +1,6 @@
 # NAME: Discord
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:27.970490+00:00
+# UPDATED: 2026-07-05T01:50:57.717080+00:00
 no_resolve: true
 domain_suffix_set:
   - "dis.gd"
@@ -10,23 +10,23 @@ domain_suffix_set:
   - "discord.dev"
   - "discord.new"
   - "discord.gift"
-  - "discord.media"
-  - "discordapp.io"
   - "discord.tools"
   - "discord.gifts"
+  - "discordapp.io"
   - "discord.store"
+  - "discord.media"
   - "discordapp.com"
-  - "airhornbot.com"
-  - "discord.design"
   - "discordcdn.com"
+  - "discord.design"
+  - "airhornbot.com"
   - "discordapp.net"
   - "discordsays.com"
   - "discordmerch.com"
-  - "discordstatus.com"
   - "airhorn.solutions"
+  - "discordstatus.com"
   - "bigbeans.solutions"
-  - "discordactivities.com"
   - "discordpartygames.com"
+  - "discordactivities.com"
   - "discord-activities.com"
   - "watchanimeattheoffice.com"
   - "discordapp.page.link"

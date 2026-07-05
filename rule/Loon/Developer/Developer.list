@@ -1,6 +1,6 @@
 # NAME: Developer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:31:25.879814+00:00
+# UPDATED: 2026-07-05T01:33:42.812557+00:00
 # DOMAIN-SUFFIX: 70
 # TOTAL: 70
 
@@ -8,55 +8,55 @@ DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,maven.org
-DOMAIN-SUFFIX,spring.io
-DOMAIN-SUFFIX,jetbra.in
-DOMAIN-SUFFIX,unpkg.com
-DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,swift.org
+DOMAIN-SUFFIX,spring.io
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,jetbra.in
 DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,webkit.org
-DOMAIN-SUFFIX,jitpack.io
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,spring.net
-DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,redhat.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,webkit.org
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,spring.net
+DOMAIN-SUFFIX,debian.com
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,elastic.co
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,jitpack.io
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,debian.com
-DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,carekit.org
-DOMAIN-SUFFIX,macruby.net
 DOMAIN-SUFFIX,macruby.org
 DOMAIN-SUFFIX,macruby.com
 DOMAIN-SUFFIX,elastic.com
+DOMAIN-SUFFIX,macruby.net
 DOMAIN-SUFFIX,sonatype.org
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,webkitgtk.org
 DOMAIN-SUFFIX,wpewebkit.org
-DOMAIN-SUFFIX,macosforge.org
+DOMAIN-SUFFIX,webobjects.com
+DOMAIN-SUFFIX,appleswift.com
 DOMAIN-SUFFIX,servicetalk.io
 DOMAIN-SUFFIX,researchkit.tv
-DOMAIN-SUFFIX,webobjects.com
 DOMAIN-SUFFIX,macosicons.com
-DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,macosforge.org
 DOMAIN-SUFFIX,researchkit.hk
-DOMAIN-SUFFIX,appleswift.com
-DOMAIN-SUFFIX,researchkit.net
+DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,researchkit.net
 DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,researchkit.org
-DOMAIN-SUFFIX,foundationdb.org
-DOMAIN-SUFFIX,postman-echo.com
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,foundationdb.org
 DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,postman-echo.com
 DOMAIN-SUFFIX,mvnrepository.com
-DOMAIN-SUFFIX,calendarserver.org
+DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,researchandcare.org
 DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,researchkit.com.cn

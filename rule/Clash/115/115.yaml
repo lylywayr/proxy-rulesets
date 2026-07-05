@@ -1,6 +1,6 @@
 # NAME: 115
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:16.925412+00:00
+# UPDATED: 2026-07-05T01:16:31.162154+00:00
 payload:
   - DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
   - DOMAIN-SUFFIX,sq.cc
@@ -9,6 +9,6 @@ payload:
   - DOMAIN-SUFFIX,116cd.com
   - DOMAIN-SUFFIX,116cd.net
   - DOMAIN-SUFFIX,anxia.com
-  - DOMAIN-SUFFIX,115img.com
   - DOMAIN-SUFFIX,115cdn.com
   - DOMAIN-SUFFIX,115cdn.net
+  - DOMAIN-SUFFIX,115img.com

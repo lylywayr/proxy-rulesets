@@ -1,6 +1,6 @@
 # NAME: Teambition
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:45.599759+00:00
+# UPDATED: 2026-07-05T01:51:13.226844+00:00
 payload:
   - DOMAIN-SUFFIX,talk.ai
   - DOMAIN-SUFFIX,tburl.in
@@ -9,6 +9,6 @@ payload:
   - DOMAIN-SUFFIX,project.ai
   - DOMAIN-SUFFIX,jianliao.com
   - DOMAIN-SUFFIX,teambition.io
-  - DOMAIN-SUFFIX,teambition.net
   - DOMAIN-SUFFIX,teambition.com
+  - DOMAIN-SUFFIX,teambition.net
   - DOMAIN-SUFFIX,teambitionapis.com

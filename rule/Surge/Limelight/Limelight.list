@@ -1,14 +1,14 @@
 # NAME: Limelight
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:36.856789+00:00
+# UPDATED: 2026-07-05T01:51:05.416308+00:00
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 
-DOMAIN-SUFFIX,llnw.com
 DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,llnw.com
 DOMAIN-SUFFIX,lldns.net
-DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,llnwi.net
+DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,limelight.com
 DOMAIN-SUFFIX,llnw-trials.com
 DOMAIN-SUFFIX,delvenetworks.com

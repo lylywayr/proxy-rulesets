@@ -1,17 +1,17 @@
 # NAME: IBM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:33.989286+00:00
+# UPDATED: 2026-07-05T01:51:03.052363+00:00
 no_resolve: true
 domain_suffix_set:
   - "ibm"
   - "weatherchannel"
-  - "ibm.eu"
   - "ibm.us"
+  - "ibm.eu"
   - "ibm.com"
   - "ibm.net"
   - "s81c.com"
-  - "bluemix.com"
   - "weather.com"
   - "bluemix.net"
+  - "bluemix.com"
   - "s-bluemix.net"
   - "appdomain.cloud"

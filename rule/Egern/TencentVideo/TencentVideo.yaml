@@ -1,6 +1,6 @@
 # NAME: TencentVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:46.101769+00:00
+# UPDATED: 2026-07-05T01:51:13.834202+00:00
 no_resolve: true
 domain_set:
   - "00713915daab0be43def5c338c02c80b.dlied1.cdntips.net"
@@ -20,8 +20,8 @@ domain_set:
 domain_suffix_set:
   - "v.qq.com"
   - "video.qq.com"
-  - "pgdt.gtimg.cn"
   - "v.smtcdns.com"
+  - "pgdt.gtimg.cn"
   - "qqvideo.gtimg.com"
 ip_cidr_set:
   - "58.49.111.79/32"

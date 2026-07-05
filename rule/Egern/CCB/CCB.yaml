@@ -1,6 +1,6 @@
 # NAME: CCB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:24.674146+00:00
+# UPDATED: 2026-07-05T01:16:38.051008+00:00
 no_resolve: true
 domain_suffix_set:
   - "ccb.cn"
@@ -9,15 +9,15 @@ domain_suffix_set:
   - "ccbhome.cn"
   - "ccbcos.com"
   - "ccbfund.cn"
-  - "ccbhome.net"
   - "ccbfund.com"
+  - "ccbhome.net"
   - "ccbseoul.com"
   - "ccbfutures.cn"
-  - "ccbleasing.com"
   - "ccbfutures.com"
+  - "ccbleasing.com"
   - "ccb.com.cn"
   - "ccbintl.com.hk"
   - "ccbfund.com.cn"
-  - "ccbtrust.com.cn"
   - "ccb-life.com.cn"
+  - "ccbtrust.com.cn"
   - "ccblife-test.com.cn"

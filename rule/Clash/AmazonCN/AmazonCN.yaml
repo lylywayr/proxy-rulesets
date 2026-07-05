@@ -1,43 +1,43 @@
 # NAME: AmazonCN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:20.284435+00:00
+# UPDATED: 2026-07-05T01:16:33.926504+00:00
 payload:
   - DOMAIN-SUFFIX,z.cn
   - DOMAIN-SUFFIX,kindle.cn
   - DOMAIN-SUFFIX,amazon.cn
-  - DOMAIN-SUFFIX,nwcddns.cn
   - DOMAIN-SUFFIX,awsapps.cn
-  - DOMAIN-SUFFIX,route53.cn
+  - DOMAIN-SUFFIX,nwcddns.cn
   - DOMAIN-SUFFIX,yamaxun.cn
+  - DOMAIN-SUFFIX,route53.cn
   - DOMAIN-SUFFIX,primeday.cn
   - DOMAIN-SUFFIX,awsstatic.cn
-  - DOMAIN-SUFFIX,nwcdcloud.cn
   - DOMAIN-SUFFIX,amazonaws.cn
   - DOMAIN-SUFFIX,amazonnow.cn
+  - DOMAIN-SUFFIX,nwcdcloud.cn
   - DOMAIN-SUFFIX,alexafund.cn
-  - DOMAIN-SUFFIX,cloudfront.cn
   - DOMAIN-SUFFIX,aws-border.cn
-  - DOMAIN-SUFFIX,kindleoasis.cn
-  - DOMAIN-SUFFIX,nwcdinfosec.cn
+  - DOMAIN-SUFFIX,cloudfront.cn
   - DOMAIN-SUFFIX,aboutamazon.cn
+  - DOMAIN-SUFFIX,nwcdinfosec.cn
+  - DOMAIN-SUFFIX,kindleoasis.cn
   - DOMAIN-SUFFIX,assoc-amazon.cn
   - DOMAIN-SUFFIX,amazonchoice.cn
-  - DOMAIN-SUFFIX,amazonchoices.cn
   - DOMAIN-SUFFIX,amazoninspire.cn
-  - DOMAIN-SUFFIX,amazonworkdocs.cn
+  - DOMAIN-SUFFIX,amazonchoices.cn
   - DOMAIN-SUFFIX,amazonbusiness.cn
-  - DOMAIN-SUFFIX,amazonlaunchpad.cn
+  - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,cloudfront-test.cn
+  - DOMAIN-SUFFIX,amazonlaunchpad.cn
   - DOMAIN-SUFFIX,amazonprimevideo.cn
   - DOMAIN-SUFFIX,aws-icp-domain-manager.cn
   - DOMAIN-SUFFIX,a2z.org.cn
   - DOMAIN-SUFFIX,awsapps.com.cn
   - DOMAIN-SUFFIX,primeday.com.cn
-  - DOMAIN-SUFFIX,alexafund.com.cn
-  - DOMAIN-SUFFIX,amazonnow.com.cn
   - DOMAIN-SUFFIX,nwcdcloud.com.cn
-  - DOMAIN-SUFFIX,sagemaker.com.cn
   - DOMAIN-SUFFIX,amazonaws.com.cn
+  - DOMAIN-SUFFIX,sagemaker.com.cn
+  - DOMAIN-SUFFIX,amazonnow.com.cn
+  - DOMAIN-SUFFIX,alexafund.com.cn
   - DOMAIN-SUFFIX,kindleoasis.com.cn
   - DOMAIN-SUFFIX,amazonchoice.com.cn
   - DOMAIN-SUFFIX,amazonlending.com.cn
@@ -45,7 +45,7 @@ payload:
   - DOMAIN-SUFFIX,amazoninspire.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com.cn
   - DOMAIN-SUFFIX,amazonbusiness.com.cn
-  - DOMAIN-SUFFIX,amazonlaunchpad.com.cn
   - DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
+  - DOMAIN-SUFFIX,amazonlaunchpad.com.cn
   - DOMAIN-SUFFIX,amazonprimevideo.com.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn

@@ -1,6 +1,6 @@
 # NAME: BritboxUK
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:23.999491+00:00
+# UPDATED: 2026-07-05T01:16:37.526646+00:00
 no_resolve: true
 domain_set:
   - "itvpnp.live.ott.irdeto.com"

@@ -1,6 +1,6 @@
 # NAME: Dropbox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:28.607830+00:00
+# UPDATED: 2026-07-05T01:50:58.322398+00:00
 # DOMAIN-SUFFIX: 17
 # TOTAL: 17
 
@@ -15,9 +15,9 @@ DOMAIN-SUFFIX,dropboxforum.com
 DOMAIN-SUFFIX,dropboxforums.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxcaptcha.com
-DOMAIN-SUFFIX,dropboxbusiness.com
 DOMAIN-SUFFIX,dropboxinsiders.com
 DOMAIN-SUFFIX,dropboxpartners.com
+DOMAIN-SUFFIX,dropboxbusiness.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,dropbox.zendesk.com
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com

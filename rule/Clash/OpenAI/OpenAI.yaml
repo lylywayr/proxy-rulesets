@@ -1,6 +1,6 @@
 # NAME: OpenAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:40.461461+00:00
+# UPDATED: 2026-07-05T01:51:08.688415+00:00
 payload:
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
@@ -11,24 +11,24 @@ payload:
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,sora.com
-  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,api.statsig.com
-  - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-SUFFIX,host.livekit.cloud
+  - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-SUFFIX,openaicom.imgix.net
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud

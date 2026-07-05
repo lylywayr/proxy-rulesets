@@ -1,6 +1,6 @@
 # NAME: TelegramNL
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:45.943106+00:00
+# UPDATED: 2026-07-05T01:51:13.655350+00:00
 no_resolve: true
 ip_cidr_set:
   - "91.108.4.0/22"

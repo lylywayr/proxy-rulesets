@@ -1,6 +1,6 @@
 # NAME: WoLai
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:49.543130+00:00
+# UPDATED: 2026-07-05T01:51:16.916476+00:00
 payload:
   - DOMAIN-SUFFIX,wol.tv
   - DOMAIN-SUFFIX,wolai.ren

@@ -1,35 +1,35 @@
 # NAME: ifanr
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:34.201997+00:00
+# UPDATED: 2026-07-05T01:51:03.262386+00:00
 payload:
-  - DOMAIN-SUFFIX,jmp.gd
   - DOMAIN-SUFFIX,app.so
+  - DOMAIN-SUFFIX,jmp.gd
   - DOMAIN-SUFFIX,fabu.io
-  - DOMAIN-SUFFIX,ifanr.cn
   - DOMAIN-SUFFIX,ifanr.in
-  - DOMAIN-SUFFIX,menhu.io
   - DOMAIN-SUFFIX,bitbe.at
-  - DOMAIN-SUFFIX,xiaoma.io
+  - DOMAIN-SUFFIX,ifanr.cn
+  - DOMAIN-SUFFIX,menhu.io
   - DOMAIN-SUFFIX,weimen.hu
+  - DOMAIN-SUFFIX,xiaoma.io
   - DOMAIN-SUFFIX,01hub.com
   - DOMAIN-SUFFIX,ifanr.com
-  - DOMAIN-SUFFIX,xiaoapp.io
-  - DOMAIN-SUFFIX,wuzhii.com
-  - DOMAIN-SUFFIX,tyqian.com
-  - DOMAIN-SUFFIX,wantwu.com
   - DOMAIN-SUFFIX,minapp.com
+  - DOMAIN-SUFFIX,xiaoapp.io
+  - DOMAIN-SUFFIX,tyqian.com
+  - DOMAIN-SUFFIX,wuzhii.com
+  - DOMAIN-SUFFIX,wantwu.com
   - DOMAIN-SUFFIX,minshop.com
   - DOMAIN-SUFFIX,coolbuy.com
   - DOMAIN-SUFFIX,ifanrprod.cn
-  - DOMAIN-SUFFIX,triorder.com
   - DOMAIN-SUFFIX,mindstore.io
-  - DOMAIN-SUFFIX,socialbase.cn
-  - DOMAIN-SUFFIX,ifanrprod.com
+  - DOMAIN-SUFFIX,triorder.com
   - DOMAIN-SUFFIX,haomaishe.com
+  - DOMAIN-SUFFIX,socialbase.cn
   - DOMAIN-SUFFIX,ifanrprod.net
-  - DOMAIN-SUFFIX,ifanrcloud.com
-  - DOMAIN-SUFFIX,dongchehui.net
+  - DOMAIN-SUFFIX,ifanrprod.com
   - DOMAIN-SUFFIX,ifdesigninc.cn
+  - DOMAIN-SUFFIX,dongchehui.net
+  - DOMAIN-SUFFIX,ifanrcloud.com
   - DOMAIN-SUFFIX,appsolution.cc
   - DOMAIN-SUFFIX,ifdesignstudio.cn
   - DOMAIN-SUFFIX,zhixiaochengxu.com

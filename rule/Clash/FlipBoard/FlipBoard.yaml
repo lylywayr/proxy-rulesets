@@ -1,6 +1,6 @@
 # NAME: FlipBoard
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:30.173437+00:00
+# UPDATED: 2026-07-05T01:50:59.689802+00:00
 payload:
   - DOMAIN-SUFFIX,flipchina.cn
   - DOMAIN-SUFFIX,flipboard.com

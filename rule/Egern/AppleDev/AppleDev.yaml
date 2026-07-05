@@ -1,6 +1,6 @@
 # NAME: AppleDev
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:21.743579+00:00
+# UPDATED: 2026-07-05T01:16:35.233822+00:00
 no_resolve: true
 domain_suffix_set:
   - "cups.org"
@@ -8,24 +8,24 @@ domain_suffix_set:
   - "webkit.org"
   - "swiftui.cn"
   - "carekit.org"
-  - "macruby.net"
   - "macruby.org"
   - "macruby.com"
+  - "macruby.net"
   - "webkitgtk.org"
   - "wpewebkit.org"
-  - "macosforge.org"
+  - "webobjects.com"
+  - "appleswift.com"
   - "servicetalk.io"
   - "researchkit.tv"
-  - "webobjects.com"
-  - "researchkit.cn"
-  - "appleswift.com"
+  - "macosforge.org"
   - "researchkit.hk"
+  - "researchkit.cn"
   - "researchkit.net"
   - "researchkit.org"
   - "foundationdb.org"
   - "apple-mapkit.com"
-  - "calendarserver.org"
   - "apple-cloudkit.com"
+  - "calendarserver.org"
   - "researchandcare.org"
   - "swiftui.com.cn"
   - "researchkit.com.cn"

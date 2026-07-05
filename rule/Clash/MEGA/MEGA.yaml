@@ -1,6 +1,6 @@
 # NAME: MEGA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:37.838645+00:00
+# UPDATED: 2026-07-05T01:51:06.224765+00:00
 payload:
   - DOMAIN-SUFFIX,mega.io
   - DOMAIN-SUFFIX,mega.nz

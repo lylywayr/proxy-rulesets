@@ -1,6 +1,6 @@
 # NAME: Blizzard
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:23.457384+00:00
+# UPDATED: 2026-07-05T01:16:36.982880+00:00
 no_resolve: true
 domain_suffix_set:
   - "battle.net"
@@ -13,11 +13,11 @@ domain_suffix_set:
   - "starcraft.com"
   - "starcraft2.com"
   - "blizzardgames.cn"
-  - "playoverwatch.com"
   - "playwarcraft3.com"
+  - "playoverwatch.com"
   - "diabloimmortal.com"
-  - "worldofwarcraft.com"
   - "playhearthstone.com"
+  - "worldofwarcraft.com"
   - "heroesofthestorm.com"
   - "blz-contentstack.com"
   - "blizzardgearstore.com"
@@ -25,19 +25,19 @@ domain_suffix_set:
   - "bnet.163.com"
   - "battlenet.com.cn"
   - "blznav.akamaized.net"
-  - "blizzcon-a.akamaihd.net"
   - "blzmedia-a.akamaihd.net"
+  - "blizzcon-a.akamaihd.net"
+  - "bnetshopus.akamaized.net"
   - "bnetcmsus-a.akamaihd.net"
   - "blzddist1-a.akamaihd.net"
-  - "bnetshopus.akamaized.net"
   - "blzddistkr1-a.akamaihd.net"
   - "bnetproduct-a.akamaihd.net"
   - "wow.nosdn.127.net"
-  - "sc2.nosdn.127.net"
   - "blz.nosdn.127.net"
+  - "sc2.nosdn.127.net"
   - "di.res.netease.com"
-  - "cdp.cloud.unity3d.com"
   - "diablo3.nosdn.127.net"
+  - "cdp.cloud.unity3d.com"
   - "heroes.nos.netease.com"
   - "overwatch.nosdn.127.net"
   - "blizzard.nefficient.co.kr"

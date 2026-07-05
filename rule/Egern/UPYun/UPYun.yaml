@@ -1,21 +1,21 @@
 # NAME: UPYun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:47.831624+00:00
+# UPDATED: 2026-07-05T01:51:15.341110+00:00
 no_resolve: true
 domain_suffix_set:
   - "upai.com"
+  - "upcdn.net"
+  - "aicdn.com"
   - "oncdp.com"
   - "yupoo.com"
   - "upyun.com"
-  - "upcdn.net"
-  - "aicdn.com"
   - "aicdn4.com"
   - "aicdn5.com"
-  - "aicdn3.com"
   - "aicdn2.com"
   - "sktcdn.com"
-  - "upaiyun.com"
+  - "aicdn3.com"
   - "authbus.com"
+  - "upaiyun.com"
   - "shangzhibo.tv"
   - "zhidian-inc.cn"
   - "shangketang.com"

@@ -1,6 +1,6 @@
 # NAME: BardAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:22.796987+00:00
+# UPDATED: 2026-07-05T01:16:36.376560+00:00
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com

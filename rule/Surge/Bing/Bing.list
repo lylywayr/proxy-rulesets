@@ -1,15 +1,15 @@
 # NAME: Bing
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:23.417937+00:00
+# UPDATED: 2026-07-05T01:16:36.931780+00:00
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bingads.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,bingsandbox.com
-DOMAIN-SUFFIX,bingagencyawards.com
 DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN-SUFFIX,bingagencyawards.com
 DOMAIN-SUFFIX,bingapistatistics.com
 DOMAIN-SUFFIX,bing.com.cn

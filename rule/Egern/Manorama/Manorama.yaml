@@ -1,6 +1,6 @@
 # NAME: Manorama
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:37.615770+00:00
+# UPDATED: 2026-07-05T01:51:06.048960+00:00
 no_resolve: true
 domain_suffix_set:
   - "theman.in"
@@ -9,9 +9,9 @@ domain_suffix_set:
   - "manorama.com"
   - "radiomango.fm"
   - "onmanorama.com"
+  - "manoramanews.com"
   - "vanitaonline.com"
   - "vanithaveedu.com"
-  - "manoramanews.com"
   - "manoramaonline.com"
   - "manoramayearbook.in"
   - "malayalamanorama.com"

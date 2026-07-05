@@ -1,12 +1,12 @@
 # NAME: MeiTuan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:37.916473+00:00
+# UPDATED: 2026-07-05T01:51:06.302795+00:00
 no_resolve: true
 domain_suffix_set:
   - "mtyun.com"
   - "neixin.cn"
   - "maoyan.com"
-  - "meituan.net"
-  - "meituan.com"
   - "sankuai.com"
+  - "meituan.com"
+  - "meituan.net"
   - "dianping.com"

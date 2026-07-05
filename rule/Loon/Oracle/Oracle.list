@@ -1,6 +1,6 @@
 # NAME: Oracle
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:40.616425+00:00
+# UPDATED: 2026-07-05T01:51:08.824273+00:00
 # DOMAIN-SUFFIX: 25
 # TOTAL: 25
 
@@ -8,20 +8,20 @@ DOMAIN-SUFFIX,java
 DOMAIN-SUFFIX,oracle
 DOMAIN-SUFFIX,sun.com
 DOMAIN-SUFFIX,java.net
-DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,en25.com
-DOMAIN-SUFFIX,bronto.com
+DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,eloqua.com
-DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,bronto.com
 DOMAIN-SUFFIX,bluekai.com
-DOMAIN-SUFFIX,covid19rx.org
+DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,responsys.net
-DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,covid19rx.org
 DOMAIN-SUFFIX,covid19-rx.org
-DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
+DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,ateam-oracle.com
 DOMAIN-SUFFIX,eloquaeditors.com
 DOMAIN-SUFFIX,oracleinfinity.io

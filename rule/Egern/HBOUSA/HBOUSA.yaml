@@ -1,15 +1,15 @@
 # NAME: HBOUSA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:32.696071+00:00
+# UPDATED: 2026-07-05T01:51:01.971000+00:00
 no_resolve: true
 domain_set:
   - "wmff.warnermediacdn.com"
 domain_suffix_set:
-  - "max.com"
   - "h264.io"
+  - "max.com"
   - "maxgo.com"
-  - "hbonow.com"
   - "hbomax.com"
+  - "hbonow.com"
   - "cinemax.com"
   - "discomax.com"
   - "hbomaxcdn.com"

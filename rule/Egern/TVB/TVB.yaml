@@ -1,6 +1,6 @@
 # NAME: TVB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:47.143807+00:00
+# UPDATED: 2026-07-05T01:51:14.744098+00:00
 no_resolve: true
 domain_set:
   - "bcbolt446c5271-a.akamaihd.net"
@@ -9,9 +9,9 @@ domain_set:
 domain_suffix_set:
   - "tvb.com"
   - "tvbusa.com"
-  - "tvbweekly.com"
   - "mytvsuper.com"
   - "encoretvb.com"
+  - "tvbweekly.com"
   - "bigbigshop.com"
   - "tvbanywhere.com"
   - "youboranqs01.com"
@@ -20,11 +20,11 @@ domain_suffix_set:
   - "tvmedia.net.au"
   - "tvbanywhere.com.sg"
   - "videos-f.jwpsrv.com"
-  - "tvbeventpower.com.hk"
   - "bigbigchannel.com.hk"
+  - "tvbeventpower.com.hk"
   - "content.jwplatform.com"
-  - "mytvsuperlimited.sc.omtrdc.net"
   - "mytvsuperlimited.hb.omtrdc.net"
+  - "mytvsuperlimited.sc.omtrdc.net"
 user_agent_set:
   - "encoreTVB*"
   - "mytv*"

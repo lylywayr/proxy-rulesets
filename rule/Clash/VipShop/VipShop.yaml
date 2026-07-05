@@ -1,6 +1,6 @@
 # NAME: VipShop
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:48.298075+00:00
+# UPDATED: 2026-07-05T01:51:15.834785+00:00
 payload:
   - DOMAIN-SUFFIX,vip.com
   - DOMAIN-SUFFIX,appsimg.com

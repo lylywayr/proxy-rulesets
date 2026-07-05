@@ -1,6 +1,6 @@
 # NAME: MEGA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:37.838960+00:00
+# UPDATED: 2026-07-05T01:51:06.225127+00:00
 no_resolve: true
 domain_suffix_set:
   - "mega.io"

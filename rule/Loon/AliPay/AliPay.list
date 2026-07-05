@@ -1,6 +1,6 @@
 # NAME: AliPay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:14:20.088900+00:00
+# UPDATED: 2026-07-05T01:16:33.743394+00:00
 # DOMAIN-SUFFIX: 21
 # TOTAL: 21
 
@@ -10,14 +10,14 @@ DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,alipay.net
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipaymo.com
-DOMAIN-SUFFIX,alipaydns.com
 DOMAIN-SUFFIX,alipaylog.com
 DOMAIN-SUFFIX,alipaydev.com
+DOMAIN-SUFFIX,alipaydns.com
 DOMAIN-SUFFIX,alipay-inc.com
-DOMAIN-SUFFIX,alipayplus.com
 DOMAIN-SUFFIX,alipay-eco.com
-DOMAIN-SUFFIX,alipayeshop.com
+DOMAIN-SUFFIX,alipayplus.com
 DOMAIN-SUFFIX,alipay-corp.com
+DOMAIN-SUFFIX,alipayeshop.com
 DOMAIN-SUFFIX,alipaydesign.com
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,luohanacademy.com

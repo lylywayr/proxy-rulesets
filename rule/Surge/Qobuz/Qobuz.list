@@ -1,37 +1,37 @@
 # NAME: Qobuz
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T00:48:42.467698+00:00
+# UPDATED: 2026-07-05T01:51:10.549420+00:00
 # DOMAIN-SUFFIX: 31
 # IP-CIDR: 2
 # TOTAL: 33
 
+DOMAIN-SUFFIX,qobuz.be
+DOMAIN-SUFFIX,qobuz.fr
+DOMAIN-SUFFIX,qobuz.eu
+DOMAIN-SUFFIX,qobuz.us
 DOMAIN-SUFFIX,qobuz.fi
+DOMAIN-SUFFIX,qobuz.ca
+DOMAIN-SUFFIX,qobuz.pl
+DOMAIN-SUFFIX,qobuz.gr
+DOMAIN-SUFFIX,qobuz.de
 DOMAIN-SUFFIX,qobuz.tv
+DOMAIN-SUFFIX,qobuz.it
+DOMAIN-SUFFIX,qobuz.lu
+DOMAIN-SUFFIX,qobuz.lt
 DOMAIN-SUFFIX,kobuz.fr
 DOMAIN-SUFFIX,qobuz.hk
-DOMAIN-SUFFIX,qobuz.ca
-DOMAIN-SUFFIX,qobuz.lt
-DOMAIN-SUFFIX,qobuz.eu
-DOMAIN-SUFFIX,qobuz.se
 DOMAIN-SUFFIX,cobuz.fr
 DOMAIN-SUFFIX,qobuz.ch
-DOMAIN-SUFFIX,qobuz.ro
-DOMAIN-SUFFIX,qobuz.us
-DOMAIN-SUFFIX,qobuz.de
-DOMAIN-SUFFIX,qobuz.pl
-DOMAIN-SUFFIX,qobuz.fr
 DOMAIN-SUFFIX,qobuz.at
-DOMAIN-SUFFIX,qobuz.it
-DOMAIN-SUFFIX,qobuz.gr
-DOMAIN-SUFFIX,qobuz.be
-DOMAIN-SUFFIX,qobuz.lu
+DOMAIN-SUFFIX,qobuz.se
+DOMAIN-SUFFIX,qobuz.ro
+DOMAIN-SUFFIX,cobeuz.fr
+DOMAIN-SUFFIX,cobuzz.fr
 DOMAIN-SUFFIX,qobuz.biz
-DOMAIN-SUFFIX,qobuz.org
-DOMAIN-SUFFIX,qobuz.net
 DOMAIN-SUFFIX,quobuz.fr
 DOMAIN-SUFFIX,qobuz.com
-DOMAIN-SUFFIX,cobuzz.fr
-DOMAIN-SUFFIX,cobeuz.fr
+DOMAIN-SUFFIX,qobuz.org
+DOMAIN-SUFFIX,qobuz.net
 DOMAIN-SUFFIX,qobuz.info
 DOMAIN-SUFFIX,quobuz.com
 DOMAIN-SUFFIX,static-qobuz.com
