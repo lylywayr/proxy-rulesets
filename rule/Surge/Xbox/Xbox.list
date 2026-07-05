@@ -1,6 +1,6 @@
 # NAME: Xbox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:23.851787+00:00
+# UPDATED: 2026-07-05T03:21:05.245183+00:00
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 38
 # TOTAL: 42
@@ -10,39 +10,39 @@ DOMAIN,login.live.com
 DOMAIN,logincdn.msauth.net
 DOMAIN,store-images.s-microsoft.com
 DOMAIN-SUFFIX,xbx.lv
-DOMAIN-SUFFIX,xbox.co
 DOMAIN-SUFFIX,xbox.eu
+DOMAIN-SUFFIX,xbox.co
 DOMAIN-SUFFIX,xbox.org
 DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxone.eu
+DOMAIN-SUFFIX,beth.games
+DOMAIN-SUFFIX,xboxone.co
+DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xbox360.eu
 DOMAIN-SUFFIX,xbox360.co
 DOMAIN-SUFFIX,xboxab.net
-DOMAIN-SUFFIX,mojang.com
-DOMAIN-SUFFIX,xboxone.eu
-DOMAIN-SUFFIX,xboxone.co
-DOMAIN-SUFFIX,beth.games
-DOMAIN-SUFFIX,xbox360.eu
-DOMAIN-SUFFIX,xboxab.com
-DOMAIN-SUFFIX,xboxone.com
-DOMAIN-SUFFIX,xbox360.com
+DOMAIN-SUFFIX,xbox360.org
 DOMAIN-SUFFIX,forzarc.com
 DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-SUFFIX,xbox360.org
+DOMAIN-SUFFIX,xboxone.com
+DOMAIN-SUFFIX,xbox360.com
+DOMAIN-SUFFIX,bethsoft.com
+DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,gamepass.com
-DOMAIN-SUFFIX,bethesda.net
-DOMAIN-SUFFIX,bethsoft.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,xboxservice.com
-DOMAIN-SUFFIX,xboxgamepass.com
 DOMAIN-SUFFIX,xboxservices.com
-DOMAIN-SUFFIX,tellmewhygame.com
-DOMAIN-SUFFIX,msgamestudios.com
+DOMAIN-SUFFIX,xboxgamepass.com
 DOMAIN-SUFFIX,minecraftshop.com
-DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,msgamestudios.com
+DOMAIN-SUFFIX,tellmewhygame.com
 DOMAIN-SUFFIX,xboxgamestudios.com
+DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
 DOMAIN-SUFFIX,bethesdagamestudios.com

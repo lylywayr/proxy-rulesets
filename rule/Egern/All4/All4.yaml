@@ -1,6 +1,6 @@
 # NAME: All4
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:55.449428+00:00
+# UPDATED: 2026-07-05T02:48:01.045193+00:00
 no_resolve: true
 domain_suffix_set:
   - "c4assets.com"

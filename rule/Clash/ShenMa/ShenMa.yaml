@@ -1,6 +1,6 @@
 # NAME: ShenMa
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:19.928985+00:00
+# UPDATED: 2026-07-05T03:20:56.362021+00:00
 payload:
   - DOMAIN-SUFFIX,sm.cn
   - DOMAIN-SUFFIX,uczzd.cn
@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,shenma-inc.com
   - DOMAIN-SUFFIX,xiaoshuo3-sm.com
   - DOMAIN-SUFFIX,xiaoshuo1-sm.com
-  - DOMAIN-SUFFIX,xiaoshuo2-sm.com
-  - DOMAIN-SUFFIX,xiaoshuo4-sm.com
   - DOMAIN-SUFFIX,xiaoshuo5-sm.com
+  - DOMAIN-SUFFIX,xiaoshuo4-sm.com
+  - DOMAIN-SUFFIX,xiaoshuo2-sm.com
   - DOMAIN-SUFFIX,uczzd.com.cn

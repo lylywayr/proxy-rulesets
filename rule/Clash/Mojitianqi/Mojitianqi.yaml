@@ -1,6 +1,6 @@
 # NAME: Mojitianqi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:17.733157+00:00
+# UPDATED: 2026-07-05T03:20:48.441973+00:00
 payload:
   - DOMAIN-SUFFIX,moji.com
   - DOMAIN-SUFFIX,xiaomo.cn

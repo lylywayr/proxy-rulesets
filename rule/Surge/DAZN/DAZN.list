@@ -1,6 +1,6 @@
 # NAME: DAZN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:37:11.238256+00:00
+# UPDATED: 2026-07-05T03:04:23.350622+00:00
 # DOMAIN-SUFFIX: 17
 # DOMAIN-KEYWORD: 1
 # USER-AGENT: 1
@@ -8,8 +8,8 @@
 
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,indazn.com
+DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,indaznlab.com

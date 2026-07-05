@@ -1,12 +1,12 @@
 # NAME: Wordpress
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:23.843788+00:00
+# UPDATED: 2026-07-05T03:21:05.029067+00:00
 payload:
   - DOMAIN-SUFFIX,w.org
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,wpvip.com
   - DOMAIN-SUFFIX,wordpress.tv
-  - DOMAIN-SUFFIX,wordpress.org
   - DOMAIN-SUFFIX,wp-themes.com
+  - DOMAIN-SUFFIX,wordpress.org
   - DOMAIN-SUFFIX,wordpress.com
   - DOMAIN-SUFFIX,videopress.com

@@ -1,6 +1,6 @@
 # NAME: Linguee
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:15.316811+00:00
+# UPDATED: 2026-07-05T03:20:46.119613+00:00
 payload:
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,linguee.com

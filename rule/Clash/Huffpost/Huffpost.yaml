@@ -1,22 +1,22 @@
 # NAME: Huffpost
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:14.974145+00:00
+# UPDATED: 2026-07-05T03:20:41.380238+00:00
 payload:
   - DOMAIN-SUFFIX,huffpost.com
-  - DOMAIN-SUFFIX,huffingtonpost.de
-  - DOMAIN-SUFFIX,huffingtonpost.kr
-  - DOMAIN-SUFFIX,huffingtonpost.jp
-  - DOMAIN-SUFFIX,huffingtonpost.fr
-  - DOMAIN-SUFFIX,huffingtonpost.in
+  - DOMAIN-SUFFIX,huffingtonpost.es
+  - DOMAIN-SUFFIX,huffingtonpost.ca
   - DOMAIN-SUFFIX,huffingtonpost.it
   - DOMAIN-SUFFIX,huffpostarabi.com
+  - DOMAIN-SUFFIX,huffingtonpost.de
+  - DOMAIN-SUFFIX,huffingtonpost.jp
+  - DOMAIN-SUFFIX,huffingtonpost.in
+  - DOMAIN-SUFFIX,huffingtonpost.kr
   - DOMAIN-SUFFIX,huffingtonpost.gr
-  - DOMAIN-SUFFIX,huffingtonpost.ca
-  - DOMAIN-SUFFIX,huffingtonpost.es
+  - DOMAIN-SUFFIX,huffingtonpost.fr
   - DOMAIN-SUFFIX,huffpostbrasil.com
   - DOMAIN-SUFFIX,huffingtonpost.com
   - DOMAIN-SUFFIX,huffpostmaghreb.com
-  - DOMAIN-SUFFIX,huffingtonpost.co.uk
   - DOMAIN-SUFFIX,huffingtonpost.co.za
-  - DOMAIN-SUFFIX,huffingtonpost.com.au
+  - DOMAIN-SUFFIX,huffingtonpost.co.uk
   - DOMAIN-SUFFIX,huffingtonpost.com.mx
+  - DOMAIN-SUFFIX,huffingtonpost.com.au

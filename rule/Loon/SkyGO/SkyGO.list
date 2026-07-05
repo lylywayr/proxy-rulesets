@@ -1,6 +1,6 @@
 # NAME: SkyGO
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:19.952057+00:00
+# UPDATED: 2026-07-05T03:20:56.892972+00:00
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 9
 # DOMAIN-KEYWORD: 3
@@ -11,8 +11,8 @@ DOMAIN,clientstream.launchdarkly.com
 DOMAIN,sky.com.ssl.d1.sc.omtrdc.net
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,2cnt.net
-DOMAIN-SUFFIX,skycdp.com
 DOMAIN-SUFFIX,epgsky.com
+DOMAIN-SUFFIX,skycdp.com
 DOMAIN-SUFFIX,skysports.com
 DOMAIN-SUFFIX,skyanywhere.com
 DOMAIN-SUFFIX,skygo.co.nz

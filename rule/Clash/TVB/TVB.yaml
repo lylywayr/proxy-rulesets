@@ -1,14 +1,14 @@
 # NAME: TVB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:23.661318+00:00
+# UPDATED: 2026-07-05T03:21:01.560360+00:00
 payload:
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN,edge.api.brightcove.com
   - DOMAIN,tvbtracking.azurewebsites.net
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-SUFFIX,tvbusa.com
-  - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN-SUFFIX,tvbweekly.com
   - DOMAIN-SUFFIX,bigbigshop.com
   - DOMAIN-SUFFIX,tvbanywhere.com
@@ -18,10 +18,10 @@ payload:
   - DOMAIN-SUFFIX,tvmedia.net.au
   - DOMAIN-SUFFIX,tvbanywhere.com.sg
   - DOMAIN-SUFFIX,videos-f.jwpsrv.com
-  - DOMAIN-SUFFIX,bigbigchannel.com.hk
   - DOMAIN-SUFFIX,tvbeventpower.com.hk
+  - DOMAIN-SUFFIX,bigbigchannel.com.hk
   - DOMAIN-SUFFIX,content.jwplatform.com
-  - DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
+  - DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
   - USER-AGENT,encoreTVB*
   - USER-AGENT,mytv*

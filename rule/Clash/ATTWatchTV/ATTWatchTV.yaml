@@ -1,6 +1,6 @@
 # NAME: ATTWatchTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:56.914327+00:00
+# UPDATED: 2026-07-05T02:48:04.485380+00:00
 payload:
   - DOMAIN-SUFFIX,att.tv
   - DOMAIN-SUFFIX,dtvce.com

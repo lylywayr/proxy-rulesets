@@ -1,6 +1,6 @@
 # NAME: ITV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:15.102311+00:00
+# UPDATED: 2026-07-05T03:20:43.174298+00:00
 payload:
   - DOMAIN,itvpnpmobile-a.akamaihd.net
   - DOMAIN-SUFFIX,itv.com

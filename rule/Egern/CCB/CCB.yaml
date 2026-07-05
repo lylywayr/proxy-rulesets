@@ -1,6 +1,6 @@
 # NAME: CCB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:57.132994+00:00
+# UPDATED: 2026-07-05T02:48:07.371391+00:00
 no_resolve: true
 domain_suffix_set:
   - "ccb.cn"

@@ -1,6 +1,6 @@
 # NAME: KKTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:15.178894+00:00
+# UPDATED: 2026-07-05T03:20:44.583256+00:00
 payload:
   - DOMAIN,kktv-theater.kk.stream
   - DOMAIN,theater-kktv.cdn.hinet.net

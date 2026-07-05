@@ -1,12 +1,12 @@
 # NAME: DAZN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:37:11.241438+00:00
+# UPDATED: 2026-07-05T03:04:23.351624+00:00
 no_resolve: true
 domain_suffix_set:
   - "dazn.com"
   - "sentry.io"
-  - "dazndn.com"
   - "indazn.com"
+  - "dazndn.com"
   - "intercom.io"
   - "dazn-api.com"
   - "indaznlab.com"

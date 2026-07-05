@@ -1,6 +1,6 @@
 # NAME: YouZan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:24.978803+00:00
+# UPDATED: 2026-07-05T03:21:06.983544+00:00
 payload:
   - DOMAIN-SUFFIX,yzcdn.cn
   - DOMAIN-SUFFIX,youzan.com

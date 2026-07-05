@@ -1,7 +1,7 @@
 # NAME: BeStore
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:56.989906+00:00
+# UPDATED: 2026-07-05T02:48:05.335989+00:00
 payload:
   - DOMAIN-SUFFIX,lppz.com
-  - DOMAIN-SUFFIX,517lppz.com
   - DOMAIN-SUFFIX,lppzimg.com
+  - DOMAIN-SUFFIX,517lppz.com

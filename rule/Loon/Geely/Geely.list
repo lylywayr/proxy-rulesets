@@ -1,49 +1,49 @@
 # NAME: Geely
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:11.217305+00:00
+# UPDATED: 2026-07-05T03:20:37.380061+00:00
 # DOMAIN-SUFFIX: 50
 # TOTAL: 50
 
 DOMAIN-SUFFIX,zgh.com
-DOMAIN-SUFFIX,geely.pe
 DOMAIN-SUFFIX,levc.com
+DOMAIN-SUFFIX,geely.pe
 DOMAIN-SUFFIX,geely.com
 DOMAIN-SUFFIX,skspace.cn
-DOMAIN-SUFFIX,51caocao.cn
+DOMAIN-SUFFIX,polestar.cn
 DOMAIN-SUFFIX,geelysc.com
 DOMAIN-SUFFIX,geelycv.com
+DOMAIN-SUFFIX,51caocao.cn
 DOMAIN-SUFFIX,geelyph.com
-DOMAIN-SUFFIX,polestar.cn
 DOMAIN-SUFFIX,vipcaocao.cn
-DOMAIN-SUFFIX,zjcarnet.com
+DOMAIN-SUFFIX,51caocao.net
 DOMAIN-SUFFIX,omnicloud.cn
 DOMAIN-SUFFIX,geespace.com
-DOMAIN-SUFFIX,51caocao.net
+DOMAIN-SUFFIX,zjcarnet.com
 DOMAIN-SUFFIX,gplus-lab.com
-DOMAIN-SUFFIX,volvocars.com
-DOMAIN-SUFFIX,caocaotrip.cn
 DOMAIN-SUFFIX,caocaokeji.cn
-DOMAIN-SUFFIX,vipcaocao.com
-DOMAIN-SUFFIX,geelylaos.com
+DOMAIN-SUFFIX,caocaotrip.cn
+DOMAIN-SUFFIX,volvocars.com
 DOMAIN-SUFFIX,caocaotrip.cc
+DOMAIN-SUFFIX,geelylaos.com
+DOMAIN-SUFFIX,vipcaocao.com
 DOMAIN-SUFFIX,zeekrlife.com
-DOMAIN-SUFFIX,caocaotrip.com
 DOMAIN-SUFFIX,caocaomedia.cc
+DOMAIN-SUFFIX,caocaotrip.com
 DOMAIN-SUFFIX,geely-test.com
 DOMAIN-SUFFIX,caocaokeji.net
+DOMAIN-SUFFIX,caocaotravel.cc
 DOMAIN-SUFFIX,lynkco-test.com
 DOMAIN-SUFFIX,geelydesign.com
-DOMAIN-SUFFIX,caocaotravel.cc
 DOMAIN-SUFFIX,caocaoglobal.com
-DOMAIN-SUFFIX,geometryauto.com
-DOMAIN-SUFFIX,geelyholding.com
-DOMAIN-SUFFIX,caocaoproduct.cc
-DOMAIN-SUFFIX,shikongdaoyu.com
-DOMAIN-SUFFIX,geely-motors.com
-DOMAIN-SUFFIX,caocaoservice.cc
 DOMAIN-SUFFIX,caocaojourney.cc
-DOMAIN-SUFFIX,caocaocustomer.cc
+DOMAIN-SUFFIX,geely-motors.com
+DOMAIN-SUFFIX,caocaoproduct.cc
+DOMAIN-SUFFIX,geelyholding.com
+DOMAIN-SUFFIX,caocaoservice.cc
+DOMAIN-SUFFIX,geometryauto.com
+DOMAIN-SUFFIX,shikongdaoyu.com
 DOMAIN-SUFFIX,caocaobusiness.cc
+DOMAIN-SUFFIX,caocaocustomer.cc
 DOMAIN-SUFFIX,caocaopromotion.cc
 DOMAIN-SUFFIX,caocaomarketing.cc
 DOMAIN-SUFFIX,geelyminiprogram.com
@@ -52,5 +52,5 @@ DOMAIN-SUFFIX,geely.com.qa
 DOMAIN-SUFFIX,lynkco.com.cn
 DOMAIN-SUFFIX,lishufu.org.cn
 DOMAIN-SUFFIX,geelyauto.com.hk
-DOMAIN-SUFFIX,volvocars.com.cn
 DOMAIN-SUFFIX,lotuscars.com.cn
+DOMAIN-SUFFIX,volvocars.com.cn

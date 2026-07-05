@@ -1,13 +1,13 @@
 # NAME: Picacg
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:19.731682+00:00
+# UPDATED: 2026-07-05T03:20:52.954799+00:00
 payload:
-  - DOMAIN-SUFFIX,bikaa.xyz
   - DOMAIN-SUFFIX,bikac.xyz
+  - DOMAIN-SUFFIX,bikaa.xyz
   - DOMAIN-SUFFIX,picacn.xyz
+  - DOMAIN-SUFFIX,picacgp.com
   - DOMAIN-SUFFIX,picacgy.com
   - DOMAIN-SUFFIX,bikaios.xyz
-  - DOMAIN-SUFFIX,picacgp.com
   - DOMAIN-SUFFIX,wikawika.xyz
   - DOMAIN-SUFFIX,picacomic.com
   - DOMAIN-SUFFIX,picacomic.xyz

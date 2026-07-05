@@ -1,6 +1,6 @@
 # NAME: AppleProxy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:56.878364+00:00
+# UPDATED: 2026-07-05T02:48:03.926020+00:00
 # DOMAIN: 27
 # DOMAIN-SUFFIX: 12
 # USER-AGENT: 5
@@ -37,8 +37,8 @@ DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,apps.apple.com

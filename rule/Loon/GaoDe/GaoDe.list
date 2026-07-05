@@ -1,15 +1,15 @@
 # NAME: GaoDe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:11.211133+00:00
+# UPDATED: 2026-07-05T03:20:37.254351+00:00
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 
 DOMAIN-SUFFIX,a-map.cn
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,anav.com
+DOMAIN-SUFFIX,a-map.co
+DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,gaode.com
 DOMAIN-SUFFIX,a-map.vip
 DOMAIN-SUFFIX,a-map.link
-DOMAIN-SUFFIX,amapauto.com
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,amapauto.com

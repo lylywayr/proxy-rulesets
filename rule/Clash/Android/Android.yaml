@@ -1,5 +1,5 @@
 # NAME: Android
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:55.504914+00:00
+# UPDATED: 2026-07-05T02:48:01.823534+00:00
 payload:
   - DOMAIN,aida.googleapis.com

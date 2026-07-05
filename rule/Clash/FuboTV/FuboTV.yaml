@@ -1,6 +1,6 @@
 # NAME: FuboTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:11.185139+00:00
+# UPDATED: 2026-07-05T03:20:37.000840+00:00
 payload:
   - DOMAIN-SUFFIX,fubo.tv
   - DOMAIN-SUFFIX,fubotv.com

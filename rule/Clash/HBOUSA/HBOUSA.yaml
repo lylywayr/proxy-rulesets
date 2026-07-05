@@ -1,13 +1,13 @@
 # NAME: HBOUSA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:14.909945+00:00
+# UPDATED: 2026-07-05T03:20:40.149767+00:00
 payload:
   - DOMAIN,wmff.warnermediacdn.com
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,h264.io
   - DOMAIN-SUFFIX,maxgo.com
-  - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,discomax.com
   - DOMAIN-SUFFIX,hbomaxcdn.com

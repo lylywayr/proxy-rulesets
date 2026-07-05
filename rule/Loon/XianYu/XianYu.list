@@ -1,22 +1,22 @@
 # NAME: XianYu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:23.859787+00:00
+# UPDATED: 2026-07-05T03:21:05.393615+00:00
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
 
 DOMAIN-SUFFIX,tfgvb.com
-DOMAIN-SUFFIX,xcbbtf.com
-DOMAIN-SUFFIX,ewqcxz.com
-DOMAIN-SUFFIX,svfrrg.com
-DOMAIN-SUFFIX,redfcv.com
 DOMAIN-SUFFIX,vbmnmy.com
-DOMAIN-SUFFIX,lkjujm.com
 DOMAIN-SUFFIX,qazasd.com
-DOMAIN-SUFFIX,uyhjnm.com
 DOMAIN-SUFFIX,wsxsdf.com
-DOMAIN-SUFFIX,mnbvdfg.com
-DOMAIN-SUFFIX,poiuytw.com
+DOMAIN-SUFFIX,ewqcxz.com
+DOMAIN-SUFFIX,lkjujm.com
+DOMAIN-SUFFIX,uyhjnm.com
+DOMAIN-SUFFIX,redfcv.com
+DOMAIN-SUFFIX,svfrrg.com
+DOMAIN-SUFFIX,xcbbtf.com
 DOMAIN-SUFFIX,hjkhjkl.com
+DOMAIN-SUFFIX,nfmrtfv.com
+DOMAIN-SUFFIX,poiuytw.com
+DOMAIN-SUFFIX,mnbvdfg.com
 DOMAIN-SUFFIX,iopiopl.com
 DOMAIN-SUFFIX,xianyu.mobi
-DOMAIN-SUFFIX,nfmrtfv.com

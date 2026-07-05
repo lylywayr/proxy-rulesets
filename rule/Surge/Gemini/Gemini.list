@@ -1,6 +1,6 @@
 # NAME: Gemini
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:11.220304+00:00
+# UPDATED: 2026-07-05T03:20:37.479598+00:00
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 7
 # DOMAIN-KEYWORD: 3
@@ -13,8 +13,8 @@ DOMAIN,makersuite.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-KEYWORD,colab

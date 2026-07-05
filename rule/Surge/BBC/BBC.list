@@ -1,6 +1,6 @@
 # NAME: BBC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:56.954595+00:00
+# UPDATED: 2026-07-05T02:48:05.054957+00:00
 # DOMAIN: 11
 # DOMAIN-SUFFIX: 15
 # DOMAIN-KEYWORD: 2
@@ -23,8 +23,8 @@ DOMAIN-SUFFIX,bbc.in
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co
-DOMAIN-SUFFIX,bbcchinese.com
 DOMAIN-SUFFIX,bbcpersian.com
+DOMAIN-SUFFIX,bbcchinese.com
 DOMAIN-SUFFIX,bbcverticals.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk

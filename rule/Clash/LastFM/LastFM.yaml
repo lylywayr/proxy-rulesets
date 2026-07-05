@@ -1,35 +1,35 @@
 # NAME: LastFM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:15.239098+00:00
+# UPDATED: 2026-07-05T03:20:45.435903+00:00
 payload:
   - DOMAIN,last.us11.list-manage.com
   - DOMAIN,lastfm-img2.akamaized.net
   - DOMAIN-SUFFIX,last.fm
   - DOMAIN-SUFFIX,kwcnn.tk
-  - DOMAIN-SUFFIX,mwrel.tk
   - DOMAIN-SUFFIX,pqqx2.tk
-  - DOMAIN-SUFFIX,bc9oa.tk
-  - DOMAIN-SUFFIX,bvuno.tk
   - DOMAIN-SUFFIX,wznka.tk
-  - DOMAIN-SUFFIX,bbfc1.tk
-  - DOMAIN-SUFFIX,rmohl.tk
-  - DOMAIN-SUFFIX,tnjqk.tk
-  - DOMAIN-SUFFIX,jdw1v.tk
-  - DOMAIN-SUFFIX,itnnl.tk
-  - DOMAIN-SUFFIX,rfnva.tk
-  - DOMAIN-SUFFIX,halkz.tk
-  - DOMAIN-SUFFIX,kn5ak.tk
   - DOMAIN-SUFFIX,cqyos.tk
-  - DOMAIN-SUFFIX,lastfm.ru
+  - DOMAIN-SUFFIX,rfnva.tk
+  - DOMAIN-SUFFIX,tnjqk.tk
+  - DOMAIN-SUFFIX,bbfc1.tk
+  - DOMAIN-SUFFIX,bvuno.tk
+  - DOMAIN-SUFFIX,kn5ak.tk
+  - DOMAIN-SUFFIX,rmohl.tk
+  - DOMAIN-SUFFIX,itnnl.tk
+  - DOMAIN-SUFFIX,halkz.tk
+  - DOMAIN-SUFFIX,mwrel.tk
+  - DOMAIN-SUFFIX,jdw1v.tk
+  - DOMAIN-SUFFIX,bc9oa.tk
   - DOMAIN-SUFFIX,lastfm.ph
-  - DOMAIN-SUFFIX,lastfm.eu
-  - DOMAIN-SUFFIX,lastfm.es
   - DOMAIN-SUFFIX,lastfm.cn
-  - DOMAIN-SUFFIX,lastfm.de
+  - DOMAIN-SUFFIX,lastfm.es
+  - DOMAIN-SUFFIX,lastfm.ru
   - DOMAIN-SUFFIX,lastfm.pl
+  - DOMAIN-SUFFIX,lastfm.eu
+  - DOMAIN-SUFFIX,lastfm.de
   - DOMAIN-SUFFIX,ouchmonkey.com
   - DOMAIN-SUFFIX,fuckyeahtfx.com
   - DOMAIN-SUFFIX,oilofhaemony.com
-  - DOMAIN-SUFFIX,lastfmpresents.com
   - DOMAIN-SUFFIX,audioscrobbler.com
+  - DOMAIN-SUFFIX,lastfmpresents.com
   - DOMAIN-SUFFIX,lastfm.freetls.fastly.net

@@ -1,27 +1,27 @@
 # NAME: KouDaiShiShang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:15.183894+00:00
+# UPDATED: 2026-07-05T03:20:44.665826+00:00
 no_resolve: true
 domain_suffix_set:
   - "v5.cc"
   - "fang.xin"
   - "geili.cn"
+  - "vdian.com"
   - "kou6ai.cn"
   - "koudai.cn"
-  - "vdian.com"
-  - "91ruyu.com"
   - "koudai.com"
+  - "weidian.cn"
+  - "91ruyu.com"
   - "bibikan.cn"
   - "weidian.cc"
-  - "weidian.cn"
   - "weidian.com"
   - "fangxin.com"
   - "wdfangyi.com"
   - "geilicdn.com"
-  - "youshop01.com"
-  - "youshop02.com"
-  - "youshop03.com"
   - "youshop04.com"
-  - "weidian-inc.com"
+  - "youshop02.com"
+  - "youshop01.com"
+  - "youshop03.com"
   - "weidianfans.com"
+  - "weidian-inc.com"
   - "xihuan.com.cn"

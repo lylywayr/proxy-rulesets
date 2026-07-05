@@ -1,6 +1,6 @@
 # NAME: Snap
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:19.975567+00:00
+# UPDATED: 2026-07-05T03:20:57.306554+00:00
 payload:
   - DOMAIN-SUFFIX,snap.com
   - DOMAIN-SUFFIX,snapkit.co

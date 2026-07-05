@@ -1,6 +1,6 @@
 # NAME: Copilot
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:37:11.189841+00:00
+# UPDATED: 2026-07-05T03:04:22.258676+00:00
 # DOMAIN: 20
 # DOMAIN-SUFFIX: 26
 # DOMAIN-KEYWORD: 1
@@ -30,14 +30,14 @@ DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,launchdarkly.com
@@ -47,11 +47,11 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,api.microsoftapp.net
-DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
-DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
 DOMAIN-KEYWORD,openaicom-api

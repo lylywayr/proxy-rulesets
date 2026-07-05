@@ -1,6 +1,6 @@
 # NAME: Sling
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:19.962566+00:00
+# UPDATED: 2026-07-05T03:20:57.073834+00:00
 payload:
   - DOMAIN-SUFFIX,sling.com
   - DOMAIN-SUFFIX,movetv.com

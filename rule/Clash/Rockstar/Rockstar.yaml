@@ -1,6 +1,6 @@
 # NAME: Rockstar
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:19.886588+00:00
+# UPDATED: 2026-07-05T03:20:55.417883+00:00
 payload:
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,rockstargames.com

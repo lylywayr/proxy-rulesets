@@ -1,6 +1,6 @@
 # NAME: ChinaUnicom
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:37:11.069264+00:00
+# UPDATED: 2026-07-05T03:04:20.239237+00:00
 no_resolve: true
 domain_suffix_set:
   - "wo.cn"
@@ -10,30 +10,30 @@ domain_suffix_set:
   - "10010.cn"
   - "unimip.cn"
   - "mucfc.com"
+  - "10010.net"
   - "10010.com"
   - "gd165.com"
-  - "10010.net"
-  - "wom186.com"
-  - "cu5gaia.cn"
   - "wobaif.com"
+  - "cu5gaia.cn"
+  - "wom186.com"
   - "gd10010.cn"
   - "cu5gaia.com"
-  - "wo-link.tech"
   - "unicomgd.com"
+  - "wo-link.tech"
   - "chinaunicom.cn"
   - "chinaunicom.com"
   - "unicompayment.cn"
-  - "mychinaunicom.com"
-  - "unicompayment.org"
   - "unicompayment.net"
+  - "unicompayment.org"
   - "unicompayment.com"
-  - "chinaunicombidding.cn"
+  - "mychinaunicom.com"
   - "chinaunicomglobal.com"
+  - "chinaunicombidding.cn"
   - "wo.com.cn"
   - "gnoc.com.cn"
   - "10010.com.cn"
-  - "e-engine.com.cn"
   - "gd116114.net.cn"
+  - "e-engine.com.cn"
   - "chinaunicom.com.cn"
   - "chinaunicom.com.hk"
 ip_cidr_set:

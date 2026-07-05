@@ -1,10 +1,10 @@
 # NAME: HuluJP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:14.981153+00:00
+# UPDATED: 2026-07-05T03:20:41.519436+00:00
 no_resolve: true
 domain_suffix_set:
   - "hulu.jp"
-  - "streaks.jp"
   - "happyon.jp"
+  - "streaks.jp"
   - "hjholdings.jp"
   - "yb.uncn.jp"

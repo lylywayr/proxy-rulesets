@@ -1,12 +1,12 @@
 # NAME: Anjuke
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:55.513767+00:00
+# UPDATED: 2026-07-05T02:48:01.962480+00:00
 no_resolve: true
 domain_suffix_set:
   - "anjuke.cn"
-  - "jikejia.cn"
   - "aifcdn.com"
-  - "anjuke.com"
   - "aifang.com"
+  - "jikejia.cn"
+  - "anjuke.com"
   - "ajkinclude.com"
   - "anjukestatic.com"

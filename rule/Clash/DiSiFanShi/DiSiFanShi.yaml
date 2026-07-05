@@ -1,6 +1,6 @@
 # NAME: DiSiFanShi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:10.973730+00:00
+# UPDATED: 2026-07-05T03:20:33.602161+00:00
 payload:
   - DOMAIN-SUFFIX,aihero100.com
   - DOMAIN-SUFFIX,v1zhushou.com

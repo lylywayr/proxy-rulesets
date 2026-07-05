@@ -1,50 +1,50 @@
 # NAME: Cloudflare
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:37:11.143739+00:00
+# UPDATED: 2026-07-05T03:04:21.177915+00:00
 # DOMAIN-SUFFIX: 43
 # IP-CIDR: 15
 # IP-CIDR6: 7
 # TOTAL: 65
 
-DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,cf-ns.net
-DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,cf-ns.com
-DOMAIN-SUFFIX,cftest6.cn
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,cf-ns.site
 DOMAIN-SUFFIX,cf-ns.tech
 DOMAIN-SUFFIX,cftest5.cn
-DOMAIN-SUFFIX,cftest8.com
+DOMAIN-SUFFIX,cftest6.cn
 DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cftest8.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cftest7.com
-DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,every1dns.net
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,pacloudflare.com
-DOMAIN-SUFFIX,cloudflarecn.net
 DOMAIN-SUFFIX,cloudflareok.com
+DOMAIN-SUFFIX,cloudflarecn.net
 DOMAIN-SUFFIX,videodelivery.net
-DOMAIN-SUFFIX,cloudflare-cn.com
-DOMAIN-SUFFIX,cloudflaressl.com
 DOMAIN-SUFFIX,trycloudflare.com
-DOMAIN-SUFFIX,cloudflareapps.com
+DOMAIN-SUFFIX,cloudflaressl.com
+DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,cloudflaretest.com
-DOMAIN-SUFFIX,cloudflarebolt.com
 DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflarewarp.com
+DOMAIN-SUFFIX,cloudflarebolt.com
+DOMAIN-SUFFIX,cloudflareapps.com
+DOMAIN-SUFFIX,cloudflaretest.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cloudflarestatus.com
-DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudflareaccess.com
-DOMAIN-SUFFIX,cloudflarepreview.com
+DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudflarestaging.com
-DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,cloudflarepreview.com
 DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
 DOMAIN-SUFFIX,cloudflareinsights-cn.com

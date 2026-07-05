@@ -1,6 +1,6 @@
 # NAME: Nike
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:18.674616+00:00
+# UPDATED: 2026-07-05T03:20:49.920361+00:00
 payload:
   - DOMAIN-SUFFIX,swoo.sh
   - DOMAIN-SUFFIX,nike.com

@@ -1,92 +1,92 @@
 # NAME: USMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:23.711942+00:00
+# UPDATED: 2026-07-05T03:21:02.605407+00:00
 payload:
   - DOMAIN,espn.api.edge.bamgrid.com
   - DOMAIN,espn.hb.omtrdc.net
   - DOMAIN,espndotcom.tt.omtrdc.net
   - DOMAIN,link.theplatform.com
   - DOMAIN-SUFFIX,dtci.co
-  - DOMAIN-SUFFIX,cbs.com
-  - DOMAIN-SUFFIX,hulu.us
-  - DOMAIN-SUFFIX,hulu.tv
   - DOMAIN-SUFFIX,amlg.io
-  - DOMAIN-SUFFIX,hu1u.com
-  - DOMAIN-SUFFIX,hulu.com
-  - DOMAIN-SUFFIX,huloo.cc
-  - DOMAIN-SUFFIX,cbsi.com
-  - DOMAIN-SUFFIX,hoolu.tv
+  - DOMAIN-SUFFIX,hulu.tv
+  - DOMAIN-SUFFIX,hulu.us
+  - DOMAIN-SUFFIX,cbs.com
   - DOMAIN-SUFFIX,huloo.tv
-  - DOMAIN-SUFFIX,espn.net
-  - DOMAIN-SUFFIX,espn.com
+  - DOMAIN-SUFFIX,hoolu.tv
+  - DOMAIN-SUFFIX,hulu.com
   - DOMAIN-SUFFIX,pluto.tv
+  - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,huloo.cc
+  - DOMAIN-SUFFIX,hu1u.com
+  - DOMAIN-SUFFIX,espn.com
+  - DOMAIN-SUFFIX,espn.net
   - DOMAIN-SUFFIX,hooloo.tv
-  - DOMAIN-SUFFIX,cbsig.net
   - DOMAIN-SUFFIX,hoolu.com
-  - DOMAIN-SUFFIX,huluad.com
-  - DOMAIN-SUFFIX,cbsi.video
-  - DOMAIN-SUFFIX,hulutv.com
-  - DOMAIN-SUFFIX,myhulu.com
-  - DOMAIN-SUFFIX,cbsimg.net
-  - DOMAIN-SUFFIX,112263.com
-  - DOMAIN-SUFFIX,viacbs.com
-  - DOMAIN-SUFFIX,hulugo.com
+  - DOMAIN-SUFFIX,cbsig.net
   - DOMAIN-SUFFIX,huluim.com
+  - DOMAIN-SUFFIX,huluad.com
+  - DOMAIN-SUFFIX,viacbs.com
   - DOMAIN-SUFFIX,espnqa.com
+  - DOMAIN-SUFFIX,hulutv.com
+  - DOMAIN-SUFFIX,cbsimg.net
   - DOMAIN-SUFFIX,viacom.com
   - DOMAIN-SUFFIX,cbsiam.com
   - DOMAIN-SUFFIX,huluqa.com
-  - DOMAIN-SUFFIX,huluapp.com
-  - DOMAIN-SUFFIX,cbsnews.com
-  - DOMAIN-SUFFIX,huluusa.com
+  - DOMAIN-SUFFIX,hulugo.com
+  - DOMAIN-SUFFIX,myhulu.com
+  - DOMAIN-SUFFIX,cbsi.video
+  - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,hulunet.com
   - DOMAIN-SUFFIX,payhulu.com
   - DOMAIN-SUFFIX,espncdn.com
-  - DOMAIN-SUFFIX,mushymush.tv
-  - DOMAIN-SUFFIX,cbsstore.com
-  - DOMAIN-SUFFIX,freehulu.com
-  - DOMAIN-SUFFIX,huluplus.com
-  - DOMAIN-SUFFIX,huluteam.com
-  - DOMAIN-SUFFIX,hulugans.com
-  - DOMAIN-SUFFIX,cbsradio.com
+  - DOMAIN-SUFFIX,huluapp.com
+  - DOMAIN-SUFFIX,cbsnews.com
+  - DOMAIN-SUFFIX,huluusa.com
   - DOMAIN-SUFFIX,showtime.com
   - DOMAIN-SUFFIX,hulufree.com
-  - DOMAIN-SUFFIX,huluasks.com
+  - DOMAIN-SUFFIX,huluplus.com
   - DOMAIN-SUFFIX,hulucall.com
+  - DOMAIN-SUFFIX,mushymush.tv
+  - DOMAIN-SUFFIX,huluteam.com
+  - DOMAIN-SUFFIX,freehulu.com
+  - DOMAIN-SUFFIX,cbsstore.com
   - DOMAIN-SUFFIX,callhulu.com
-  - DOMAIN-SUFFIX,cbssports.com
-  - DOMAIN-SUFFIX,huluitaly.com
-  - DOMAIN-SUFFIX,paramount.com
-  - DOMAIN-SUFFIX,cbsivideo.com
-  - DOMAIN-SUFFIX,cbsstatic.com
+  - DOMAIN-SUFFIX,hulugans.com
+  - DOMAIN-SUFFIX,cbsradio.com
+  - DOMAIN-SUFFIX,huluasks.com
   - DOMAIN-SUFFIX,watchespn.com
-  - DOMAIN-SUFFIX,cbssvideo.com
-  - DOMAIN-SUFFIX,huluspain.com
+  - DOMAIN-SUFFIX,huluitaly.com
+  - DOMAIN-SUFFIX,cbsstatic.com
+  - DOMAIN-SUFFIX,paramount.com
   - DOMAIN-SUFFIX,viacomcbs.com
-  - DOMAIN-SUFFIX,hulustream.com
-  - DOMAIN-SUFFIX,hulurussia.com
-  - DOMAIN-SUFFIX,joinmaidez.com
+  - DOMAIN-SUFFIX,huluspain.com
+  - DOMAIN-SUFFIX,cbssports.com
+  - DOMAIN-SUFFIX,cbssvideo.com
+  - DOMAIN-SUFFIX,cbsivideo.com
   - DOMAIN-SUFFIX,cbsistatic.com
-  - DOMAIN-SUFFIX,hulusports.com
-  - DOMAIN-SUFFIX,huluaction.com
+  - DOMAIN-SUFFIX,hulustream.com
   - DOMAIN-SUFFIX,cbsaavideo.com
-  - DOMAIN-SUFFIX,wwwhuluplus.com
+  - DOMAIN-SUFFIX,hulurussia.com
+  - DOMAIN-SUFFIX,huluaction.com
+  - DOMAIN-SUFFIX,hulusports.com
+  - DOMAIN-SUFFIX,joinmaidez.com
   - DOMAIN-SUFFIX,hulugermany.com
-  - DOMAIN-SUFFIX,dtci.technology
   - DOMAIN-SUFFIX,hulunetwork.com
+  - DOMAIN-SUFFIX,dtci.technology
   - DOMAIN-SUFFIX,pplusstatic.com
   - DOMAIN-SUFFIX,hulupremium.com
-  - DOMAIN-SUFFIX,registerhulu.com
+  - DOMAIN-SUFFIX,wwwhuluplus.com
   - DOMAIN-SUFFIX,originalhulu.com
-  - DOMAIN-SUFFIX,hulupurchase.com
+  - DOMAIN-SUFFIX,registerhulu.com
   - DOMAIN-SUFFIX,mtvnservices.com
+  - DOMAIN-SUFFIX,hulupurchase.com
   - DOMAIN-SUFFIX,paramountplus.com
+  - DOMAIN-SUFFIX,cbsinteractive.com
   - DOMAIN-SUFFIX,findyourlimits.com
   - DOMAIN-SUFFIX,cbscorporation.com
-  - DOMAIN-SUFFIX,cbsinteractive.com
   - DOMAIN-SUFFIX,cbspressexpress.com
-  - DOMAIN-SUFFIX,cbstelevisioncity.com
   - DOMAIN-SUFFIX,thehulubraintrust.com
+  - DOMAIN-SUFFIX,cbstelevisioncity.com
   - DOMAIN-SUFFIX,huluinstantmessenger.com
   - DOMAIN-SUFFIX,viacomcbspressexpress.com
   - DOMAIN-SUFFIX,espn.co.uk

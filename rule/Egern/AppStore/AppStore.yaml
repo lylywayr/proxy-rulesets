@@ -1,6 +1,6 @@
 # NAME: AppStore
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:56.892391+00:00
+# UPDATED: 2026-07-05T02:48:04.095376+00:00
 no_resolve: true
 domain_set:
   - "apps.apple.com"

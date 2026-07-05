@@ -1,13 +1,13 @@
 # NAME: DingTalk
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:37:11.283800+00:00
+# UPDATED: 2026-07-05T03:04:24.268438+00:00
 payload:
   - DOMAIN-SUFFIX,ddurl.to
   - DOMAIN-SUFFIX,lwurl.to
   - DOMAIN-SUFFIX,dg-work.cn
-  - DOMAIN-SUFFIX,laiwang.com
-  - DOMAIN-SUFFIX,realapp.xin
   - DOMAIN-SUFFIX,dingtalk.cn
+  - DOMAIN-SUFFIX,realapp.xin
+  - DOMAIN-SUFFIX,laiwang.com
   - DOMAIN-SUFFIX,dingtalk.net
   - DOMAIN-SUFFIX,dingding.xin
   - DOMAIN-SUFFIX,dingtalk.com

@@ -1,16 +1,16 @@
 # NAME: Samsung
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:19.898592+00:00
+# UPDATED: 2026-07-05T03:20:55.751223+00:00
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 
-DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,knoxemm.com
+DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,anrdoezrs.net
 DOMAIN-SUFFIX,samsungdm.com
 DOMAIN-SUFFIX,samsungqbe.com
-DOMAIN-SUFFIX,galaxymobile.jp
 DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,galaxymobile.jp
 DOMAIN-SUFFIX,samsungknox.com
 DOMAIN-SUFFIX,samsungcloud.com
 DOMAIN-SUFFIX,game-platform.net

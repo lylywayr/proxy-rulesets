@@ -1,8 +1,8 @@
 # NAME: FOXNOW
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:11.171032+00:00
+# UPDATED: 2026-07-05T03:20:36.762216+00:00
 payload:
   - DOMAIN-SUFFIX,fox.com
-  - DOMAIN-SUFFIX,uplynk.com
   - DOMAIN-SUFFIX,foxdcg.com
+  - DOMAIN-SUFFIX,uplynk.com
   - USER-AGENT,FOX%20NOW*

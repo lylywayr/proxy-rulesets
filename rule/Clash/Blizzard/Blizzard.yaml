@@ -1,13 +1,13 @@
 # NAME: Blizzard
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:57.018389+00:00
+# UPDATED: 2026-07-05T02:48:05.799640+00:00
 payload:
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,diablo3.com
   - DOMAIN-SUFFIX,blizzard.cn
-  - DOMAIN-SUFFIX,wowchina.com
-  - DOMAIN-SUFFIX,blzstatic.cn
   - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,blzstatic.cn
+  - DOMAIN-SUFFIX,wowchina.com
   - DOMAIN-SUFFIX,battlenet.com
   - DOMAIN-SUFFIX,starcraft.com
   - DOMAIN-SUFFIX,starcraft2.com
@@ -24,23 +24,23 @@ payload:
   - DOMAIN-SUFFIX,bnet.163.com
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blznav.akamaized.net
-  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
   - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
+  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
   - DOMAIN-SUFFIX,bnetshopus.akamaized.net
   - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
-  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
   - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
-  - DOMAIN-SUFFIX,blz.nosdn.127.net
+  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
   - DOMAIN-SUFFIX,wow.nosdn.127.net
   - DOMAIN-SUFFIX,sc2.nosdn.127.net
+  - DOMAIN-SUFFIX,blz.nosdn.127.net
   - DOMAIN-SUFFIX,di.res.netease.com
   - DOMAIN-SUFFIX,diablo3.nosdn.127.net
   - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,heroes.nos.netease.com
   - DOMAIN-SUFFIX,overwatch.nosdn.127.net
-  - DOMAIN-SUFFIX,blizzard.nefficient.co.kr
   - DOMAIN-SUFFIX,hearthstone.nosdn.127.net
+  - DOMAIN-SUFFIX,blizzard.nefficient.co.kr
   - IP-CIDR,24.105.30.129/32
   - IP-CIDR,24.105.62.129/32
   - IP-CIDR,54.94.196.47/32

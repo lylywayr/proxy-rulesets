@@ -1,6 +1,6 @@
 # NAME: Jquery
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:15.142869+00:00
+# UPDATED: 2026-07-05T03:20:43.892063+00:00
 no_resolve: true
 domain_suffix_set:
   - "jquery.com"

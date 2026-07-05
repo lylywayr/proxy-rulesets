@@ -1,29 +1,29 @@
 # NAME: WangXinKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:23.782904+00:00
+# UPDATED: 2026-07-05T03:21:03.910099+00:00
 payload:
   - DOMAIN-SUFFIX,xylive.tv
-  - DOMAIN-SUFFIX,wzhibo.tv
-  - DOMAIN-SUFFIX,xycdn.com
   - DOMAIN-SUFFIX,uhabo.com
-  - DOMAIN-SUFFIX,wezhibo.tv
+  - DOMAIN-SUFFIX,xycdn.com
+  - DOMAIN-SUFFIX,wzhibo.tv
   - DOMAIN-SUFFIX,wzhibo.net
+  - DOMAIN-SUFFIX,wezhibo.tv
   - DOMAIN-SUFFIX,xycloud.com
   - DOMAIN-SUFFIX,0101cdn.com
   - DOMAIN-SUFFIX,wezhibo.net
-  - DOMAIN-SUFFIX,kuiniuca.com
-  - DOMAIN-SUFFIX,ionecloud.cn
   - DOMAIN-SUFFIX,onething.net
-  - DOMAIN-SUFFIX,xunleioa.com
   - DOMAIN-SUFFIX,peiluyou.com
-  - DOMAIN-SUFFIX,onethingd.com
+  - DOMAIN-SUFFIX,kuiniuca.com
+  - DOMAIN-SUFFIX,xunleioa.com
+  - DOMAIN-SUFFIX,ionecloud.cn
   - DOMAIN-SUFFIX,walk-live.com
-  - DOMAIN-SUFFIX,onethingc.com
   - DOMAIN-SUFFIX,onethingn.com
+  - DOMAIN-SUFFIX,onethingc.com
+  - DOMAIN-SUFFIX,onethingd.com
   - DOMAIN-SUFFIX,hiveshared.com
   - DOMAIN-SUFFIX,onethingpcs.com
-  - DOMAIN-SUFFIX,onethingtech.net
   - DOMAIN-SUFFIX,onethingcloud.cn
+  - DOMAIN-SUFFIX,onethingtech.net
   - DOMAIN-SUFFIX,onethingcloud.com
   - DOMAIN-SUFFIX,seekr.com.cn
   - DOMAIN-SUFFIX,miuapp.com.cn

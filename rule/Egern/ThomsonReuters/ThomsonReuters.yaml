@@ -1,20 +1,20 @@
 # NAME: ThomsonReuters
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:22.329436+00:00
+# UPDATED: 2026-07-05T03:21:00.395604+00:00
 no_resolve: true
 domain_suffix_set:
   - "tr.com"
   - "tmsnrt.rs"
   - "elite.com"
   - "reuters.tv"
-  - "aranzadi.es"
   - "reuters.com"
+  - "aranzadi.es"
   - "reutersagency.cn"
-  - "reutersmedia.net"
   - "legaltracker.com"
-  - "thomsonreuters.ru"
-  - "thomsonreuters.in"
+  - "reutersmedia.net"
   - "thomsonreuters.ca"
+  - "thomsonreuters.in"
+  - "thomsonreuters.ru"
   - "thomsonreuters.es"
   - "thomsonreuters.cn"
   - "thomsonreuters.com"
@@ -25,12 +25,12 @@ domain_suffix_set:
   - "thomsonreuters.co.jp"
   - "thomsonreuters.co.uk"
   - "thomsonreuters.co.nz"
-  - "thomsonreuters.com.ar"
   - "thomsonreuters.com.au"
-  - "thomsonreuters.com.hk"
   - "sweetandmaxwell.co.uk"
-  - "thomsonreuters.com.my"
-  - "thomsonreuters.com.sg"
-  - "thomsonreuters.com.br"
   - "thomsonreuters.com.pe"
   - "thomsonreuters.com.tr"
+  - "thomsonreuters.com.ar"
+  - "thomsonreuters.com.hk"
+  - "thomsonreuters.com.br"
+  - "thomsonreuters.com.my"
+  - "thomsonreuters.com.sg"

@@ -1,9 +1,9 @@
 # NAME: Scaleflex
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:19.902592+00:00
+# UPDATED: 2026-07-05T03:20:55.813040+00:00
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 
 DOMAIN-SUFFIX,cloudimg.io
-DOMAIN-SUFFIX,scaleflex.com
 DOMAIN-SUFFIX,cloudimage.io
+DOMAIN-SUFFIX,scaleflex.com

@@ -1,6 +1,6 @@
 # NAME: BBC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:56.956624+00:00
+# UPDATED: 2026-07-05T02:48:05.055737+00:00
 payload:
   - DOMAIN,aod-dash-uk-live.akamaized.net
   - DOMAIN,aod-hls-uk-live.akamaized.net
@@ -18,8 +18,8 @@ payload:
   - DOMAIN-SUFFIX,bbc.co
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbci.co
-  - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbcpersian.com
+  - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbcverticals.com
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbci.co.uk

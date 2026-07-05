@@ -1,63 +1,63 @@
 # NAME: BaiShanYunKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:56.940217+00:00
+# UPDATED: 2026-07-05T02:48:04.844057+00:00
 payload:
-  - DOMAIN-SUFFIX,bainsx.cn
-  - DOMAIN-SUFFIX,bsydns.cn
-  - DOMAIN-SUFFIX,bsgslb.cn
   - DOMAIN-SUFFIX,bscdns.cn
-  - DOMAIN-SUFFIX,bsydns.com
-  - DOMAIN-SUFFIX,bsydns.net
-  - DOMAIN-SUFFIX,5gcdnx.com
-  - DOMAIN-SUFFIX,edgefn.net
-  - DOMAIN-SUFFIX,ldgslb.com
-  - DOMAIN-SUFFIX,bsclink.cn
-  - DOMAIN-SUFFIX,trpcdn.com
-  - DOMAIN-SUFFIX,eccdnx.com
-  - DOMAIN-SUFFIX,bsccdn.net
-  - DOMAIN-SUFFIX,bsccdn.com
-  - DOMAIN-SUFFIX,bscdns.com
-  - DOMAIN-SUFFIX,bsgslb.com
-  - DOMAIN-SUFFIX,solocdn.cn
+  - DOMAIN-SUFFIX,bainsx.cn
+  - DOMAIN-SUFFIX,bsgslb.cn
+  - DOMAIN-SUFFIX,bsydns.cn
   - DOMAIN-SUFFIX,trpcdn.net
+  - DOMAIN-SUFFIX,bsccdn.net
   - DOMAIN-SUFFIX,fnedge.net
   - DOMAIN-SUFFIX,zzcdnx.com
+  - DOMAIN-SUFFIX,5gcdnx.com
+  - DOMAIN-SUFFIX,bsccdn.com
+  - DOMAIN-SUFFIX,bsgslb.com
+  - DOMAIN-SUFFIX,solocdn.cn
+  - DOMAIN-SUFFIX,trpcdn.com
+  - DOMAIN-SUFFIX,bsydns.net
+  - DOMAIN-SUFFIX,bsydns.com
+  - DOMAIN-SUFFIX,bsclink.cn
+  - DOMAIN-SUFFIX,eccdnx.com
   - DOMAIN-SUFFIX,cncdnx.com
-  - DOMAIN-SUFFIX,baishan.com
-  - DOMAIN-SUFFIX,bscgslb.com
-  - DOMAIN-SUFFIX,bsclink.com
+  - DOMAIN-SUFFIX,bscdns.com
+  - DOMAIN-SUFFIX,ldgslb.com
+  - DOMAIN-SUFFIX,edgefn.net
   - DOMAIN-SUFFIX,baicdnx.com
-  - DOMAIN-SUFFIX,bscedge.com
+  - DOMAIN-SUFFIX,bsclink.com
   - DOMAIN-SUFFIX,saxysec.com
   - DOMAIN-SUFFIX,scdntop.com
+  - DOMAIN-SUFFIX,bscgslb.com
+  - DOMAIN-SUFFIX,baishan.com
+  - DOMAIN-SUFFIX,bscedge.com
   - DOMAIN-SUFFIX,qingcdn.com
   - DOMAIN-SUFFIX,crazyrtc.com
-  - DOMAIN-SUFFIX,whitecdnx.com
-  - DOMAIN-SUFFIX,dolfindnsx.cn
-  - DOMAIN-SUFFIX,bscstorage.cn
   - DOMAIN-SUFFIX,scdncloud.com
-  - DOMAIN-SUFFIX,dolfincdnx.cn
+  - DOMAIN-SUFFIX,dolfindnsx.cn
+  - DOMAIN-SUFFIX,whitecdnx.com
+  - DOMAIN-SUFFIX,bscstorage.cn
   - DOMAIN-SUFFIX,dolfindns.net
+  - DOMAIN-SUFFIX,dolfincdnx.cn
   - DOMAIN-SUFFIX,baishanyun.com
-  - DOMAIN-SUFFIX,dolfindnsx.com
-  - DOMAIN-SUFFIX,dolfincdnx.top
-  - DOMAIN-SUFFIX,bscstorage.com
-  - DOMAIN-SUFFIX,dolfincdnx.net
-  - DOMAIN-SUFFIX,dolfindnsx.net
-  - DOMAIN-SUFFIX,dolfindnsx.top
-  - DOMAIN-SUFFIX,baishangeek.cn
-  - DOMAIN-SUFFIX,baishandnsx.cn
-  - DOMAIN-SUFFIX,bscstorage.net
   - DOMAIN-SUFFIX,baishancdnx.cn
+  - DOMAIN-SUFFIX,baishangeek.cn
+  - DOMAIN-SUFFIX,bscstorage.net
+  - DOMAIN-SUFFIX,baishandnsx.cn
+  - DOMAIN-SUFFIX,dolfindnsx.net
   - DOMAIN-SUFFIX,dolfincdnx.com
-  - DOMAIN-SUFFIX,baishandnsx.com
-  - DOMAIN-SUFFIX,baishangeek.com
-  - DOMAIN-SUFFIX,baishancdnx.net
-  - DOMAIN-SUFFIX,baishandnsx.top
+  - DOMAIN-SUFFIX,dolfindnsx.com
+  - DOMAIN-SUFFIX,dolfincdnx.net
+  - DOMAIN-SUFFIX,bscstorage.com
+  - DOMAIN-SUFFIX,dolfincdnx.top
+  - DOMAIN-SUFFIX,dolfindnsx.top
+  - DOMAIN-SUFFIX,baishandnsx.net
   - DOMAIN-SUFFIX,baishancdnx.com
   - DOMAIN-SUFFIX,baishancdnx.top
-  - DOMAIN-SUFFIX,baishandnsx.net
+  - DOMAIN-SUFFIX,baishancdnx.net
+  - DOMAIN-SUFFIX,baishandnsx.top
+  - DOMAIN-SUFFIX,baishandnsx.com
+  - DOMAIN-SUFFIX,baishangeek.com
   - DOMAIN-SUFFIX,baishancloud.com
-  - DOMAIN-SUFFIX,baishan-cloud.net
   - DOMAIN-SUFFIX,baishan-cloud.com
+  - DOMAIN-SUFFIX,baishan-cloud.net
   - DOMAIN-SUFFIX,baishan-gateway.com

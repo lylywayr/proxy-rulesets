@@ -1,6 +1,6 @@
 # NAME: Mailru
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:15.352053+00:00
+# UPDATED: 2026-07-05T03:20:46.847252+00:00
 no_resolve: true
 domain_suffix_set:
   - "mail.ru"

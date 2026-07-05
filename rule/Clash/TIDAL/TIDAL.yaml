@@ -1,6 +1,6 @@
 # NAME: TIDAL
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:22.345436+00:00
+# UPDATED: 2026-07-05T03:21:00.732156+00:00
 payload:
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tidalhifi.com

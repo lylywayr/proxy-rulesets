@@ -1,14 +1,14 @@
 # NAME: KKBOX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:15.172894+00:00
+# UPDATED: 2026-07-05T03:20:44.526790+00:00
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 
 DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kkbox.com
-DOMAIN-SUFFIX,kktix.com
 DOMAIN-SUFFIX,kk.stream
+DOMAIN-SUFFIX,kktix.com
 DOMAIN-SUFFIX,kkbox-prime.com
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kkbox.com.tw

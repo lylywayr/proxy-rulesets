@@ -1,6 +1,6 @@
 # NAME: BlockHttpDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:27:57.022389+00:00
+# UPDATED: 2026-07-05T02:48:05.871668+00:00
 payload:
   - DOMAIN,dns.jd.com
   - DOMAIN,dns.weibo.cn

@@ -1,6 +1,6 @@
 # NAME: TigerFintech
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:22.348436+00:00
+# UPDATED: 2026-07-05T03:21:00.820342+00:00
 payload:
   - DOMAIN-SUFFIX,laohu8.com
   - DOMAIN-SUFFIX,itiger.com

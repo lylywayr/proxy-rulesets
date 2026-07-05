@@ -1,11 +1,11 @@
 # NAME: Python
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:46:19.840252+00:00
+# UPDATED: 2026-07-05T03:20:54.413813+00:00
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 
-DOMAIN-SUFFIX,pypa.io
 DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,pypa.io
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pycon.org
 DOMAIN-SUFFIX,python.org
