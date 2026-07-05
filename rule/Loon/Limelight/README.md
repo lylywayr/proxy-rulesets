@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Limelight](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Limelight/Limelight.list)
+- [blackmatrix7/ios_rule_script: Limelight](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Limelight/Limelight.list)
 
 <details>
 <summary>English</summary>

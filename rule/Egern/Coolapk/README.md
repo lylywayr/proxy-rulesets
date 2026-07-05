@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Coolapk](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Coolapk/Coolapk.list)
+- [blackmatrix7/ios_rule_script: Coolapk](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Coolapk/Coolapk.list)
 
 <details>
 <summary>English</summary>

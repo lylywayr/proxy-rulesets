@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CaiNiao](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CaiNiao/CaiNiao.list)
+- [blackmatrix7/ios_rule_script: CaiNiao](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CaiNiao/CaiNiao.list)
 
 <details>
 <summary>English</summary>

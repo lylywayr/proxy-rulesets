@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HaiNanHangKong](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HaiNanHangKong/HaiNanHangKong.list)
+- [blackmatrix7/ios_rule_script: HaiNanHangKong](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HaiNanHangKong/HaiNanHangKong.list)
 
 <details>
 <summary>English</summary>

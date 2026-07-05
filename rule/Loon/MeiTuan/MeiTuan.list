@@ -1,11 +1,11 @@
 # NAME: MeiTuan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:47.428608+00:00
+# UPDATED: 2026-07-05T06:32:07.996857+00:00
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 
-DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,sankuai.com

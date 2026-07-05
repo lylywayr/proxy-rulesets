@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Pixnet](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixnet/Pixnet.list)
+- [blackmatrix7/ios_rule_script: Pixnet](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixnet/Pixnet.list)
 
 <details>
 <summary>English</summary>

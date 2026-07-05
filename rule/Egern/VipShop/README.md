@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 VipShop](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VipShop/VipShop.list)
+- [blackmatrix7/ios_rule_script: VipShop](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VipShop/VipShop.list)
 
 <details>
 <summary>English</summary>

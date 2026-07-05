@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Jfrog](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jfrog/Jfrog.list)
+- [blackmatrix7/ios_rule_script: Jfrog](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jfrog/Jfrog.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 4chan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4chan/4chan.list)
+- [blackmatrix7/ios_rule_script: 4chan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4chan/4chan.list)
 
 <details>
 <summary>English</summary>

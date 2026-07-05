@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Overwatch](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Overwatch/Overwatch.list)
+- [blackmatrix7/ios_rule_script: Overwatch](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Overwatch/Overwatch.list)
 
 <details>
 <summary>English</summary>

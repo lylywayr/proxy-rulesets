@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Domob](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Domob/Domob.list)
+- [blackmatrix7/ios_rule_script: Domob](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Domob/Domob.list)
 
 <details>
 <summary>English</summary>

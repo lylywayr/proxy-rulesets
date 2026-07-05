@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Vancl](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vancl/Vancl.list)
+- [blackmatrix7/ios_rule_script: Vancl](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vancl/Vancl.list)
 
 <details>
 <summary>English</summary>

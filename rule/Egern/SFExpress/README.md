@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 SFExpress](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SFExpress/SFExpress.list)
+- [blackmatrix7/ios_rule_script: SFExpress](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SFExpress/SFExpress.list)
 
 <details>
 <summary>English</summary>

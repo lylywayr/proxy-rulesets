@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TapTap](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TapTap/TapTap.list)
+- [blackmatrix7/ios_rule_script: TapTap](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TapTap/TapTap.list)
 
 <details>
 <summary>English</summary>

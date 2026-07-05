@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Apkpure](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apkpure/Apkpure.list)
+- [blackmatrix7/ios_rule_script: Apkpure](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apkpure/Apkpure.list)
 
 <details>
 <summary>English</summary>

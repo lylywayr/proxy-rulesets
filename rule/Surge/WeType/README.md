@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 WeType](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeType/WeType.list)
+- [blackmatrix7/ios_rule_script: WeType](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeType/WeType.list)
 
 <details>
 <summary>English</summary>

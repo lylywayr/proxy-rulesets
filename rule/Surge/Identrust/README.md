@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Identrust](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Identrust/Identrust.list)
+- [blackmatrix7/ios_rule_script: Identrust](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Identrust/Identrust.list)
 
 <details>
 <summary>English</summary>

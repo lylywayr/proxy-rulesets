@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 JueJin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JueJin/JueJin.list)
+- [blackmatrix7/ios_rule_script: JueJin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JueJin/JueJin.list)
 
 <details>
 <summary>English</summary>

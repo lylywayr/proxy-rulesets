@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TruthSocial](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TruthSocial/TruthSocial.list)
+- [blackmatrix7/ios_rule_script: TruthSocial](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TruthSocial/TruthSocial.list)
 
 <details>
 <summary>English</summary>

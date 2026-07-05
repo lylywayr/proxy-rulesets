@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 RTHK](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/RTHK/RTHK.list)
+- [blackmatrix7/ios_rule_script: RTHK](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/RTHK/RTHK.list)
 
 <details>
 <summary>English</summary>

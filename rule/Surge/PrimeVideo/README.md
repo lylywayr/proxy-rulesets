@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 PrimeVideo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrimeVideo/PrimeVideo.list)
+- [blackmatrix7/ios_rule_script: PrimeVideo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrimeVideo/PrimeVideo.list)
 
 <details>
 <summary>English</summary>

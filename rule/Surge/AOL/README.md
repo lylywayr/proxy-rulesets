@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AOL](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AOL/AOL.list)
+- [blackmatrix7/ios_rule_script: AOL](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AOL/AOL.list)
 
 <details>
 <summary>English</summary>

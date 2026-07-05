@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LivePerson](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LivePerson/LivePerson.list)
+- [blackmatrix7/ios_rule_script: LivePerson](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LivePerson/LivePerson.list)
 
 <details>
 <summary>English</summary>

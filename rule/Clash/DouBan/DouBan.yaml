@@ -1,6 +1,6 @@
 # NAME: DouBan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:34.155047+00:00
+# UPDATED: 2026-07-05T06:31:30.883891+00:00
 payload:
   - DOMAIN-SUFFIX,douban.fm
   - DOMAIN-SUFFIX,douban.com

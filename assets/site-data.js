@@ -1,6 +1,6 @@
 window.__RULE_SITE_DATA__ = {
   "page_url": "https://lylywayr.github.io/proxy-rulesets/",
-  "generated_at": "2026-07-05T02:47:56.154346+00:00",
+  "generated_at": "2026-07-05T06:00:21.654326+00:00",
   "public_repository": "lylywayr/proxy-rulesets",
   "clients": [
     {
@@ -379,12 +379,16 @@ window.__RULE_SITE_DATA__ = {
       "group_name_en": "Lifestyle",
       "topics": [],
       "counts": {
-        "DOMAIN-SUFFIX": 9,
+        "DOMAIN-SUFFIX": 14,
         "DOMAIN": 1
       },
       "sources": [
         {
-          "name": "blackmatrix7 115",
+          "name": "v2fly/domain-list-community: 115 (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/115"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: 115",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list"
         }
       ],
@@ -458,7 +462,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 12306",
+          "name": "blackmatrix7/ios_rule_script: 12306",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/12306/12306.list"
         }
       ],
@@ -532,7 +536,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 1337x",
+          "name": "blackmatrix7/ios_rule_script: 1337x",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/1337x/1337x.list"
         }
       ],
@@ -606,7 +610,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 17173",
+          "name": "blackmatrix7/ios_rule_script: 17173",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/17173/17173.list"
         }
       ],
@@ -680,7 +684,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 178",
+          "name": "blackmatrix7/ios_rule_script: 178",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/178/178.list"
         }
       ],
@@ -754,7 +758,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 17zuoye",
+          "name": "blackmatrix7/ios_rule_script: 17zuoye",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/17zuoye/17zuoye.list"
         }
       ],
@@ -828,7 +832,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 2KGames",
+          "name": "blackmatrix7/ios_rule_script: 2KGames",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/2KGames/2KGames.list"
         }
       ],
@@ -902,7 +906,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 360",
+          "name": "blackmatrix7/ios_rule_script: 360",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360.list"
         }
       ],
@@ -976,7 +980,11 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 36kr",
+          "name": "v2fly/domain-list-community: 36kr (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/36kr"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: 36kr",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/36kr/36kr.list"
         }
       ],
@@ -1050,7 +1058,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 3dm",
+          "name": "blackmatrix7/ios_rule_script: 3dm",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/3dm/3dm.list"
         }
       ],
@@ -1124,7 +1132,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 3Type",
+          "name": "blackmatrix7/ios_rule_script: 3Type",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/3Type/3Type.list"
         }
       ],
@@ -1198,7 +1206,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 4399",
+          "name": "blackmatrix7/ios_rule_script: 4399",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4399/4399.list"
         }
       ],
@@ -1272,7 +1280,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 4chan",
+          "name": "blackmatrix7/ios_rule_script: 4chan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4chan/4chan.list"
         }
       ],
@@ -1346,7 +1354,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 4Paradigm",
+          "name": "blackmatrix7/ios_rule_script: 4Paradigm",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4Paradigm/4Paradigm.list"
         }
       ],
@@ -1420,7 +1428,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 51Job",
+          "name": "blackmatrix7/ios_rule_script: 51Job",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/51Job/51Job.list"
         }
       ],
@@ -1494,7 +1502,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 51nod",
+          "name": "blackmatrix7/ios_rule_script: 51nod",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/51nod/51nod.list"
         }
       ],
@@ -1568,7 +1576,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 56",
+          "name": "blackmatrix7/ios_rule_script: 56",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/56/56.list"
         }
       ],
@@ -1642,7 +1650,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 58TongCheng",
+          "name": "blackmatrix7/ios_rule_script: 58TongCheng",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/58TongCheng/58TongCheng.list"
         }
       ],
@@ -1716,7 +1724,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 6JianFang",
+          "name": "blackmatrix7/ios_rule_script: 6JianFang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/6JianFang/6JianFang.list"
         }
       ],
@@ -1790,7 +1798,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 6park",
+          "name": "blackmatrix7/ios_rule_script: 6park",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/6park/6park.list"
         }
       ],
@@ -1864,7 +1872,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 8btc",
+          "name": "blackmatrix7/ios_rule_script: 8btc",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/8btc/8btc.list"
         }
       ],
@@ -1938,7 +1946,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 9News",
+          "name": "blackmatrix7/ios_rule_script: 9News",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/9News/9News.list"
         }
       ],
@@ -2012,7 +2020,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 9to5",
+          "name": "blackmatrix7/ios_rule_script: 9to5",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/9to5/9to5.list"
         }
       ],
@@ -2086,7 +2094,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ABC",
+          "name": "blackmatrix7/ios_rule_script: ABC",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ABC/ABC.list"
         }
       ],
@@ -2161,7 +2169,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Abema",
+          "name": "blackmatrix7/ios_rule_script: Abema",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Abema/Abema.list"
         }
       ],
@@ -2237,7 +2245,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AbemaTV",
+          "name": "blackmatrix7/ios_rule_script: AbemaTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AbemaTV/AbemaTV.list"
         }
       ],
@@ -2311,7 +2319,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Accuweather",
+          "name": "blackmatrix7/ios_rule_script: Accuweather",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Accuweather/Accuweather.list"
         }
       ],
@@ -2385,7 +2393,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Acer",
+          "name": "blackmatrix7/ios_rule_script: Acer",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Acer/Acer.list"
         }
       ],
@@ -2460,7 +2468,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AcFun",
+          "name": "blackmatrix7/ios_rule_script: AcFun",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AcFun/AcFun.list"
         }
       ],
@@ -2534,7 +2542,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Acplay",
+          "name": "blackmatrix7/ios_rule_script: Acplay",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Acplay/Acplay.list"
         }
       ],
@@ -2608,7 +2616,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Actalis",
+          "name": "blackmatrix7/ios_rule_script: Actalis",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Actalis/Actalis.list"
         }
       ],
@@ -2682,7 +2690,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AdColony",
+          "name": "blackmatrix7/ios_rule_script: AdColony",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdColony/AdColony.list"
         }
       ],
@@ -2756,7 +2764,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Addthis",
+          "name": "blackmatrix7/ios_rule_script: Addthis",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Addthis/Addthis.list"
         }
       ],
@@ -2830,7 +2838,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AddToAny",
+          "name": "blackmatrix7/ios_rule_script: AddToAny",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AddToAny/AddToAny.list"
         }
       ],
@@ -2904,7 +2912,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Adidas",
+          "name": "blackmatrix7/ios_rule_script: Adidas",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Adidas/Adidas.list"
         }
       ],
@@ -2980,7 +2988,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Adobe",
+          "name": "blackmatrix7/ios_rule_script: Adobe",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Adobe/Adobe.list"
         }
       ],
@@ -3055,7 +3063,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AdobeActivation",
+          "name": "blackmatrix7/ios_rule_script: AdobeActivation",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdobeActivation/AdobeActivation.list"
         }
       ],
@@ -3132,7 +3140,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Advertising",
+          "name": "blackmatrix7/ios_rule_script: Advertising",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list"
         }
       ],
@@ -3209,7 +3217,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AdvertisingLite",
+          "name": "blackmatrix7/ios_rule_script: AdvertisingLite",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite.list"
         }
       ],
@@ -3283,7 +3291,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AdvertisingMiTV",
+          "name": "blackmatrix7/ios_rule_script: AdvertisingMiTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingMiTV/AdvertisingMiTV.list"
         }
       ],
@@ -3360,7 +3368,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AdvertisingTest",
+          "name": "blackmatrix7/ios_rule_script: AdvertisingTest",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingTest/AdvertisingTest.list"
         }
       ],
@@ -3434,7 +3442,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Aerogard",
+          "name": "blackmatrix7/ios_rule_script: Aerogard",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Aerogard/Aerogard.list"
         }
       ],
@@ -3508,7 +3516,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Afdian",
+          "name": "blackmatrix7/ios_rule_script: Afdian",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Afdian/Afdian.list"
         }
       ],
@@ -3582,7 +3590,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AFP",
+          "name": "blackmatrix7/ios_rule_script: AFP",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AFP/AFP.list"
         }
       ],
@@ -3656,7 +3664,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Agora",
+          "name": "blackmatrix7/ios_rule_script: Agora",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Agora/Agora.list"
         }
       ],
@@ -3734,36 +3742,41 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 37,
-        "DOMAIN": 26,
+        "DOMAIN-SUFFIX": 157,
+        "DOMAIN": 40,
         "DOMAIN-KEYWORD": 5,
+        "DOMAIN-REGEX": 1,
         "IP-ASN": 2,
         "IP-CIDR": 2
       },
       "sources": [
         {
-          "name": "blackmatrix7 OpenAI",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
+          "name": "v2fly/domain-list-community: category-ai-!cn (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-ai-!cn"
         },
         {
-          "name": "blackmatrix7 Claude",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
-        },
-        {
-          "name": "blackmatrix7 Gemini",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
-        },
-        {
-          "name": "blackmatrix7 Copilot",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list"
-        },
-        {
-          "name": "blackmatrix7 Anthropic",
+          "name": "blackmatrix7/ios_rule_script: Anthropic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
         },
         {
-          "name": "blackmatrix7 BardAI",
+          "name": "blackmatrix7/ios_rule_script: BardAI",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Claude",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Copilot",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Gemini",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: OpenAI",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
         }
       ],
       "files": {
@@ -3836,7 +3849,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AiQiCha",
+          "name": "blackmatrix7/ios_rule_script: AiQiCha",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AiQiCha/AiQiCha.list"
         }
       ],
@@ -3910,7 +3923,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AirChina",
+          "name": "blackmatrix7/ios_rule_script: AirChina",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AirChina/AirChina.list"
         }
       ],
@@ -3984,7 +3997,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AirWick",
+          "name": "blackmatrix7/ios_rule_script: AirWick",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AirWick/AirWick.list"
         }
       ],
@@ -4066,7 +4079,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 aiXcoder",
+          "name": "blackmatrix7/ios_rule_script: aiXcoder",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/aiXcoder/aiXcoder.list"
         }
       ],
@@ -4148,7 +4161,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Akamai",
+          "name": "blackmatrix7/ios_rule_script: Akamai",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Akamai/Akamai.list"
         }
       ],
@@ -4222,7 +4235,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Ali213",
+          "name": "blackmatrix7/ios_rule_script: Ali213",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ali213/Ali213.list"
         }
       ],
@@ -4299,7 +4312,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Alibaba",
+          "name": "blackmatrix7/ios_rule_script: Alibaba",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba.list"
         }
       ],
@@ -4381,7 +4394,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AliPay",
+          "name": "blackmatrix7/ios_rule_script: AliPay",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AliPay/AliPay.list"
         }
       ],
@@ -4455,7 +4468,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ALJazeera",
+          "name": "blackmatrix7/ios_rule_script: ALJazeera",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ALJazeera/ALJazeera.list"
         }
       ],
@@ -4530,7 +4543,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 All4",
+          "name": "blackmatrix7/ios_rule_script: All4",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/All4/All4.list"
         }
       ],
@@ -4617,7 +4630,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Amazon",
+          "name": "blackmatrix7/ios_rule_script: Amazon",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list"
         }
       ],
@@ -4699,7 +4712,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AmazonCN",
+          "name": "blackmatrix7/ios_rule_script: AmazonCN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonCN/AmazonCN.list"
         }
       ],
@@ -4773,7 +4786,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AmazonIP",
+          "name": "blackmatrix7/ios_rule_script: AmazonIP",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonIP/AmazonIP.list"
         }
       ],
@@ -4851,7 +4864,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AmazonPrimeVideo",
+          "name": "blackmatrix7/ios_rule_script: AmazonPrimeVideo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list"
         }
       ],
@@ -4925,7 +4938,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AmazonTrust",
+          "name": "blackmatrix7/ios_rule_script: AmazonTrust",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonTrust/AmazonTrust.list"
         }
       ],
@@ -4999,7 +5012,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AMD",
+          "name": "blackmatrix7/ios_rule_script: AMD",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMD/AMD.list"
         }
       ],
@@ -5073,7 +5086,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Americasvoice",
+          "name": "blackmatrix7/ios_rule_script: Americasvoice",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Americasvoice/Americasvoice.list"
         }
       ],
@@ -5148,7 +5161,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AMP",
+          "name": "blackmatrix7/ios_rule_script: AMP",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMP/AMP.list"
         }
       ],
@@ -5222,7 +5235,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Anaconda",
+          "name": "blackmatrix7/ios_rule_script: Anaconda",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anaconda/Anaconda.list"
         }
       ],
@@ -5296,7 +5309,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AnandTech",
+          "name": "blackmatrix7/ios_rule_script: AnandTech",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AnandTech/AnandTech.list"
         }
       ],
@@ -5370,7 +5383,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Android",
+          "name": "blackmatrix7/ios_rule_script: Android",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Android/Android.list"
         }
       ],
@@ -5444,7 +5457,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Anime",
+          "name": "blackmatrix7/ios_rule_script: Anime",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anime/Anime.list"
         }
       ],
@@ -5518,7 +5531,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Anjuke",
+          "name": "blackmatrix7/ios_rule_script: Anjuke",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anjuke/Anjuke.list"
         }
       ],
@@ -5592,7 +5605,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Anonv",
+          "name": "blackmatrix7/ios_rule_script: Anonv",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anonv/Anonv.list"
         }
       ],
@@ -5670,12 +5683,16 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 2,
+        "DOMAIN-SUFFIX": 7,
         "DOMAIN": 1
       },
       "sources": [
         {
-          "name": "blackmatrix7 Anthropic",
+          "name": "v2fly/domain-list-community: anthropic (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/anthropic"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Anthropic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
         }
       ],
@@ -5749,7 +5766,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AnTianKeJi",
+          "name": "blackmatrix7/ios_rule_script: AnTianKeJi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AnTianKeJi/AnTianKeJi.list"
         }
       ],
@@ -5823,7 +5840,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Antutu",
+          "name": "blackmatrix7/ios_rule_script: Antutu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Antutu/Antutu.list"
         }
       ],
@@ -5897,7 +5914,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AOL",
+          "name": "blackmatrix7/ios_rule_script: AOL",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AOL/AOL.list"
         }
       ],
@@ -5971,7 +5988,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Apifox",
+          "name": "blackmatrix7/ios_rule_script: Apifox",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apifox/Apifox.list"
         }
       ],
@@ -6045,7 +6062,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 APKCombo",
+          "name": "blackmatrix7/ios_rule_script: APKCombo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/APKCombo/APKCombo.list"
         }
       ],
@@ -6119,7 +6136,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Apkpure",
+          "name": "blackmatrix7/ios_rule_script: Apkpure",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apkpure/Apkpure.list"
         }
       ],
@@ -6197,36 +6214,40 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 68,
-        "DOMAIN": 1,
+        "DOMAIN-SUFFIX": 1539,
+        "DOMAIN": 6,
         "DOMAIN-KEYWORD": 1,
         "PROCESS-NAME": 1,
         "IP-CIDR": 10
       },
       "sources": [
         {
-          "name": "ACL4SSR Apple list",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list"
+          "name": "v2fly/domain-list-community: apple (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/apple"
         },
         {
-          "name": "Loyalsoldier Apple",
+          "name": "Loyalsoldier/surge-rules: apple",
           "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt"
         },
         {
-          "name": "Loyalsoldier iCloud",
+          "name": "Loyalsoldier/surge-rules: icloud",
           "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt"
         },
         {
-          "name": "blackmatrix7 AppStore source",
+          "name": "ACL4SSR/ACL4SSR: Apple",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: AppleBlock",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: AppStore",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppStore/AppStore.list"
         },
         {
-          "name": "blackmatrix7 TestFlight source",
+          "name": "blackmatrix7/ios_rule_script: TestFlight",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list"
-        },
-        {
-          "name": "blackmatrix7 AppleBlock source",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list"
         }
       ],
       "files": {
@@ -6299,7 +6320,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleDaily",
+          "name": "blackmatrix7/ios_rule_script: AppleDaily",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleDaily/AppleDaily.list"
         }
       ],
@@ -6381,7 +6402,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleDev",
+          "name": "blackmatrix7/ios_rule_script: AppleDev",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleDev/AppleDev.list"
         }
       ],
@@ -6456,7 +6477,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleFirmware",
+          "name": "blackmatrix7/ios_rule_script: AppleFirmware",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleFirmware/AppleFirmware.list"
         }
       ],
@@ -6530,7 +6551,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleHardware",
+          "name": "blackmatrix7/ios_rule_script: AppleHardware",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleHardware/AppleHardware.list"
         }
       ],
@@ -6612,7 +6633,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleID",
+          "name": "blackmatrix7/ios_rule_script: AppleID",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleID/AppleID.list"
         }
       ],
@@ -6686,7 +6707,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleMail",
+          "name": "blackmatrix7/ios_rule_script: AppleMail",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMail/AppleMail.list"
         }
       ],
@@ -6760,7 +6781,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleMedia",
+          "name": "blackmatrix7/ios_rule_script: AppleMedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMedia/AppleMedia.list"
         }
       ],
@@ -6845,7 +6866,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleMusic",
+          "name": "blackmatrix7/ios_rule_script: AppleMusic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMusic/AppleMusic.list"
         }
       ],
@@ -6927,7 +6948,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleNews",
+          "name": "blackmatrix7/ios_rule_script: AppleNews",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleNews/AppleNews.list"
         }
       ],
@@ -7004,7 +7025,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleProxy",
+          "name": "blackmatrix7/ios_rule_script: AppleProxy",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleProxy/AppleProxy.list"
         }
       ],
@@ -7089,7 +7110,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppleTV",
+          "name": "blackmatrix7/ios_rule_script: AppleTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleTV/AppleTV.list"
         }
       ],
@@ -7163,7 +7184,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppLovin",
+          "name": "blackmatrix7/ios_rule_script: AppLovin",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppLovin/AppLovin.list"
         }
       ],
@@ -7245,7 +7266,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AppStore",
+          "name": "blackmatrix7/ios_rule_script: AppStore",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppStore/AppStore.list"
         }
       ],
@@ -7319,7 +7340,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Arphic",
+          "name": "blackmatrix7/ios_rule_script: Arphic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Arphic/Arphic.list"
         }
       ],
@@ -7394,7 +7415,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Asahi",
+          "name": "blackmatrix7/ios_rule_script: Asahi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Asahi/Asahi.list"
         }
       ],
@@ -7471,7 +7492,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 AsianMedia",
+          "name": "blackmatrix7/ios_rule_script: AsianMedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia.list"
         }
       ],
@@ -7553,7 +7574,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Atlassian",
+          "name": "blackmatrix7/ios_rule_script: Atlassian",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Atlassian/Atlassian.list"
         }
       ],
@@ -7627,7 +7648,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Atomdata",
+          "name": "blackmatrix7/ios_rule_script: Atomdata",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Atomdata/Atomdata.list"
         }
       ],
@@ -7701,7 +7722,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ATTWatchTV",
+          "name": "blackmatrix7/ios_rule_script: ATTWatchTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ATTWatchTV/ATTWatchTV.list"
         }
       ],
@@ -7777,7 +7798,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Bahamut",
+          "name": "blackmatrix7/ios_rule_script: Bahamut",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list"
         }
       ],
@@ -7851,7 +7872,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Baidu",
+          "name": "blackmatrix7/ios_rule_script: Baidu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Baidu/Baidu.list"
         }
       ],
@@ -7926,7 +7947,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BaiDuTieBa",
+          "name": "blackmatrix7/ios_rule_script: BaiDuTieBa",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiDuTieBa/BaiDuTieBa.list"
         }
       ],
@@ -8000,7 +8021,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BaiFenDian",
+          "name": "blackmatrix7/ios_rule_script: BaiFenDian",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiFenDian/BaiFenDian.list"
         }
       ],
@@ -8074,7 +8095,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BaiShanYunKeJi",
+          "name": "blackmatrix7/ios_rule_script: BaiShanYunKeJi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiShanYunKeJi/BaiShanYunKeJi.list"
         }
       ],
@@ -8148,7 +8169,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BaoFengYingYin",
+          "name": "blackmatrix7/ios_rule_script: BaoFengYingYin",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaoFengYingYin/BaoFengYingYin.list"
         }
       ],
@@ -8226,12 +8247,16 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 6,
-        "DOMAIN": 4
+        "DOMAIN-SUFFIX": 28,
+        "DOMAIN": 11
       },
       "sources": [
         {
-          "name": "blackmatrix7 BardAI",
+          "name": "v2fly/domain-list-community: google-deepmind (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google-deepmind"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: BardAI",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list"
         }
       ],
@@ -8314,7 +8339,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Battle",
+          "name": "blackmatrix7/ios_rule_script: Battle",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Battle/Battle.list"
         }
       ],
@@ -8391,7 +8416,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BBC",
+          "name": "blackmatrix7/ios_rule_script: BBC",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC.list"
         }
       ],
@@ -8465,7 +8490,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Beats",
+          "name": "blackmatrix7/ios_rule_script: Beats",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Beats/Beats.list"
         }
       ],
@@ -8539,7 +8564,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Bestbuy",
+          "name": "blackmatrix7/ios_rule_script: Bestbuy",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bestbuy/Bestbuy.list"
         }
       ],
@@ -8613,7 +8638,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BeStore",
+          "name": "blackmatrix7/ios_rule_script: BeStore",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BeStore/BeStore.list"
         }
       ],
@@ -8687,7 +8712,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BesTV",
+          "name": "blackmatrix7/ios_rule_script: BesTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BesTV/BesTV.list"
         }
       ],
@@ -8761,7 +8786,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BianFeng",
+          "name": "blackmatrix7/ios_rule_script: BianFeng",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BianFeng/BianFeng.list"
         }
       ],
@@ -8847,7 +8872,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BiliBili",
+          "name": "blackmatrix7/ios_rule_script: BiliBili",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list"
         }
       ],
@@ -8930,7 +8955,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BiliBiliIntl",
+          "name": "blackmatrix7/ios_rule_script: BiliBiliIntl",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBiliIntl/BiliBiliIntl.list"
         }
       ],
@@ -9004,7 +9029,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Binance",
+          "name": "blackmatrix7/ios_rule_script: Binance",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Binance/Binance.list"
         }
       ],
@@ -9078,7 +9103,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Bing",
+          "name": "blackmatrix7/ios_rule_script: Bing",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bing/Bing.list"
         }
       ],
@@ -9161,7 +9186,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Blizzard",
+          "name": "blackmatrix7/ios_rule_script: Blizzard",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Blizzard/Blizzard.list"
         }
       ],
@@ -9238,7 +9263,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BlockHttpDNS",
+          "name": "blackmatrix7/ios_rule_script: BlockHttpDNS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlockHttpDNS/BlockHttpDNS.list"
         }
       ],
@@ -9312,7 +9337,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Bloomberg",
+          "name": "blackmatrix7/ios_rule_script: Bloomberg",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bloomberg/Bloomberg.list"
         }
       ],
@@ -9386,7 +9411,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Blued",
+          "name": "blackmatrix7/ios_rule_script: Blued",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Blued/Blued.list"
         }
       ],
@@ -9460,7 +9485,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BMW",
+          "name": "blackmatrix7/ios_rule_script: BMW",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BMW/BMW.list"
         }
       ],
@@ -9542,7 +9567,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BOC",
+          "name": "blackmatrix7/ios_rule_script: BOC",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOC/BOC.list"
         }
       ],
@@ -9616,7 +9641,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BOCOM",
+          "name": "blackmatrix7/ios_rule_script: BOCOM",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOCOM/BOCOM.list"
         }
       ],
@@ -9690,7 +9715,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Bootcss",
+          "name": "blackmatrix7/ios_rule_script: Bootcss",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bootcss/Bootcss.list"
         }
       ],
@@ -9764,7 +9789,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BoXun",
+          "name": "blackmatrix7/ios_rule_script: BoXun",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BoXun/BoXun.list"
         }
       ],
@@ -9838,7 +9863,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BrightCove",
+          "name": "blackmatrix7/ios_rule_script: BrightCove",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BrightCove/BrightCove.list"
         }
       ],
@@ -9913,7 +9938,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 BritboxUK",
+          "name": "blackmatrix7/ios_rule_script: BritboxUK",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BritboxUK/BritboxUK.list"
         }
       ],
@@ -9987,7 +10012,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Buypass",
+          "name": "blackmatrix7/ios_rule_script: Buypass",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Buypass/Buypass.list"
         }
       ],
@@ -10064,7 +10089,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ByteDance",
+          "name": "blackmatrix7/ios_rule_script: ByteDance",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list"
         }
       ],
@@ -10138,7 +10163,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CableTV",
+          "name": "blackmatrix7/ios_rule_script: CableTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CableTV/CableTV.list"
         }
       ],
@@ -10212,7 +10237,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CaiNiao",
+          "name": "blackmatrix7/ios_rule_script: CaiNiao",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CaiNiao/CaiNiao.list"
         }
       ],
@@ -10286,7 +10311,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CaiXinChuanMei",
+          "name": "blackmatrix7/ios_rule_script: CaiXinChuanMei",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CaiXinChuanMei/CaiXinChuanMei.list"
         }
       ],
@@ -10361,7 +10386,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Cake",
+          "name": "blackmatrix7/ios_rule_script: Cake",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cake/Cake.list"
         }
       ],
@@ -10435,7 +10460,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Camera360",
+          "name": "blackmatrix7/ios_rule_script: Camera360",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Camera360/Camera360.list"
         }
       ],
@@ -10509,7 +10534,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Canon",
+          "name": "blackmatrix7/ios_rule_script: Canon",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Canon/Canon.list"
         }
       ],
@@ -10583,7 +10608,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CAS",
+          "name": "blackmatrix7/ios_rule_script: CAS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CAS/CAS.list"
         }
       ],
@@ -10659,7 +10684,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CBS",
+          "name": "blackmatrix7/ios_rule_script: CBS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CBS/CBS.list"
         }
       ],
@@ -10733,7 +10758,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CCB",
+          "name": "blackmatrix7/ios_rule_script: CCB",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCB/CCB.list"
         }
       ],
@@ -10807,7 +10832,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CCTV",
+          "name": "blackmatrix7/ios_rule_script: CCTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCTV/CCTV.list"
         }
       ],
@@ -10889,7 +10914,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CEB",
+          "name": "blackmatrix7/ios_rule_script: CEB",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CEB/CEB.list"
         }
       ],
@@ -10963,7 +10988,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CETV",
+          "name": "blackmatrix7/ios_rule_script: CETV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CETV/CETV.list"
         }
       ],
@@ -11045,7 +11070,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CGB",
+          "name": "blackmatrix7/ios_rule_script: CGB",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CGB/CGB.list"
         }
       ],
@@ -11119,7 +11144,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChengTongWangPan",
+          "name": "blackmatrix7/ios_rule_script: ChengTongWangPan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChengTongWangPan/ChengTongWangPan.list"
         }
       ],
@@ -11197,23 +11222,32 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 111755,
-        "DOMAIN": 413,
+        "DOMAIN-SUFFIX": 112264,
+        "DOMAIN": 420,
+        "DOMAIN-REGEX": 3,
         "IP-CIDR": 4217,
         "IP-CIDR6": 1470
       },
       "sources": [
         {
-          "name": "blackmatrix7 China source",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list"
+          "name": "v2fly/domain-list-community: cn (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/cn"
         },
         {
-          "name": "Loyalsoldier direct domains",
+          "name": "Loyalsoldier/surge-rules: cncidr",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt"
+        },
+        {
+          "name": "Loyalsoldier/surge-rules: direct",
           "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt"
         },
         {
-          "name": "Loyalsoldier CN CIDR",
-          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt"
+          "name": "felixonmars/dnsmasq-china-list: accelerated-domains.china.conf",
+          "url": "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: China",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list"
         }
       ],
       "files": {
@@ -11294,7 +11328,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaASN",
+          "name": "blackmatrix7/ios_rule_script: ChinaASN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list"
         }
       ],
@@ -11379,12 +11413,16 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 3,
+        "DOMAIN-SUFFIX": 111690,
         "IP-CIDR": 1
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaDNS",
+          "name": "felixonmars/dnsmasq-china-list: accelerated-domains.china.conf",
+          "url": "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: ChinaDNS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaDNS/ChinaDNS.list"
         }
       ],
@@ -11467,7 +11505,11 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaIPs",
+          "name": "Loyalsoldier/surge-rules: cncidr",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: ChinaIPs",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPs.list"
         }
       ],
@@ -11541,7 +11583,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaIPsBGP",
+          "name": "blackmatrix7/ios_rule_script: ChinaIPsBGP",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPsBGP/ChinaIPsBGP.list"
         }
       ],
@@ -11621,7 +11663,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaMax",
+          "name": "blackmatrix7/ios_rule_script: ChinaMax",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax.list"
         }
       ],
@@ -11698,7 +11740,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaMaxNoIP",
+          "name": "blackmatrix7/ios_rule_script: ChinaMaxNoIP",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMaxNoIP/ChinaMaxNoIP.list"
         }
       ],
@@ -11778,7 +11820,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaMaxNoMedia",
+          "name": "blackmatrix7/ios_rule_script: ChinaMaxNoMedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list"
         }
       ],
@@ -11873,7 +11915,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaMedia",
+          "name": "blackmatrix7/ios_rule_script: ChinaMedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list"
         }
       ],
@@ -11956,7 +11998,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaMobile",
+          "name": "blackmatrix7/ios_rule_script: ChinaMobile",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMobile/ChinaMobile.list"
         }
       ],
@@ -12038,7 +12080,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaNews",
+          "name": "blackmatrix7/ios_rule_script: ChinaNews",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaNews/ChinaNews.list"
         }
       ],
@@ -12116,7 +12158,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaNoMedia",
+          "name": "blackmatrix7/ios_rule_script: ChinaNoMedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaNoMedia/ChinaNoMedia.list"
         }
       ],
@@ -12198,7 +12240,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaTelecom",
+          "name": "blackmatrix7/ios_rule_script: ChinaTelecom",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTelecom/ChinaTelecom.list"
         }
       ],
@@ -12276,7 +12318,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaTest",
+          "name": "blackmatrix7/ios_rule_script: ChinaTest",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest.list"
         }
       ],
@@ -12359,7 +12401,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChinaUnicom",
+          "name": "blackmatrix7/ios_rule_script: ChinaUnicom",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaUnicom/ChinaUnicom.list"
         }
       ],
@@ -12433,7 +12475,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Chromecast",
+          "name": "blackmatrix7/ios_rule_script: Chromecast",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Chromecast/Chromecast.list"
         }
       ],
@@ -12507,7 +12549,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CHT",
+          "name": "blackmatrix7/ios_rule_script: CHT",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CHT/CHT.list"
         }
       ],
@@ -12581,7 +12623,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChuangKeTie",
+          "name": "blackmatrix7/ios_rule_script: ChuangKeTie",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChuangKeTie/ChuangKeTie.list"
         }
       ],
@@ -12655,7 +12697,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ChunYou",
+          "name": "blackmatrix7/ios_rule_script: ChunYou",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChunYou/ChunYou.list"
         }
       ],
@@ -12729,7 +12771,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CIBN",
+          "name": "blackmatrix7/ios_rule_script: CIBN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CIBN/CIBN.list"
         }
       ],
@@ -12803,7 +12845,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Cisco",
+          "name": "blackmatrix7/ios_rule_script: Cisco",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cisco/Cisco.list"
         }
       ],
@@ -12885,7 +12927,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Civitai",
+          "name": "blackmatrix7/ios_rule_script: Civitai",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Civitai/Civitai.list"
         }
       ],
@@ -12959,7 +13001,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CKJR",
+          "name": "blackmatrix7/ios_rule_script: CKJR",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CKJR/CKJR.list"
         }
       ],
@@ -13033,7 +13075,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Classic",
+          "name": "blackmatrix7/ios_rule_script: Classic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Classic/Classic.list"
         }
       ],
@@ -13111,12 +13153,16 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 2,
-        "DOMAIN": 1
+        "DOMAIN-SUFFIX": 7,
+        "DOMAIN": 2
       },
       "sources": [
         {
-          "name": "blackmatrix7 Claude",
+          "name": "v2fly/domain-list-community: anthropic (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/anthropic"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Claude",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
         }
       ],
@@ -13201,13 +13247,17 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 43,
+        "DOMAIN-SUFFIX": 74,
         "IP-CIDR": 15,
         "IP-CIDR6": 7
       },
       "sources": [
         {
-          "name": "blackmatrix7 Cloudflare",
+          "name": "v2fly/domain-list-community: cloudflare (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/cloudflare"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Cloudflare",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflare/Cloudflare.list"
         }
       ],
@@ -13289,7 +13339,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Cloudflarecn",
+          "name": "blackmatrix7/ios_rule_script: Cloudflarecn",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflarecn/Cloudflarecn.list"
         }
       ],
@@ -13372,7 +13422,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Clubhouse",
+          "name": "blackmatrix7/ios_rule_script: Clubhouse",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Clubhouse/Clubhouse.list"
         }
       ],
@@ -13447,7 +13497,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ClubhouseIP",
+          "name": "blackmatrix7/ios_rule_script: ClubhouseIP",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ClubhouseIP/ClubhouseIP.list"
         }
       ],
@@ -13521,7 +13571,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CMB",
+          "name": "blackmatrix7/ios_rule_script: CMB",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CMB/CMB.list"
         }
       ],
@@ -13595,7 +13645,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Cnet",
+          "name": "blackmatrix7/ios_rule_script: Cnet",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cnet/Cnet.list"
         }
       ],
@@ -13669,7 +13719,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CNKI",
+          "name": "blackmatrix7/ios_rule_script: CNKI",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNKI/CNKI.list"
         }
       ],
@@ -13743,7 +13793,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CNN",
+          "name": "blackmatrix7/ios_rule_script: CNN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNN/CNN.list"
         }
       ],
@@ -13817,7 +13867,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CNNIC",
+          "name": "blackmatrix7/ios_rule_script: CNNIC",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNNIC/CNNIC.list"
         }
       ],
@@ -13891,7 +13941,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Collabora",
+          "name": "blackmatrix7/ios_rule_script: Collabora",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Collabora/Collabora.list"
         }
       ],
@@ -13965,7 +14015,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Comodo",
+          "name": "blackmatrix7/ios_rule_script: Comodo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Comodo/Comodo.list"
         }
       ],
@@ -14039,7 +14089,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Contentful",
+          "name": "blackmatrix7/ios_rule_script: Contentful",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Contentful/Contentful.list"
         }
       ],
@@ -14113,7 +14163,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Coolapk",
+          "name": "blackmatrix7/ios_rule_script: Coolapk",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Coolapk/Coolapk.list"
         }
       ],
@@ -14191,15 +14241,19 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 26,
-        "DOMAIN": 20,
+        "DOMAIN-SUFFIX": 27,
+        "DOMAIN": 25,
         "DOMAIN-KEYWORD": 1,
         "IP-ASN": 2,
         "IP-CIDR": 2
       },
       "sources": [
         {
-          "name": "blackmatrix7 Copilot",
+          "name": "v2fly/domain-list-community: github-copilot (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/github-copilot"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Copilot",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list"
         }
       ],
@@ -14283,7 +14337,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Crypto",
+          "name": "blackmatrix7/ios_rule_script: Crypto",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Crypto/Crypto.list"
         }
       ],
@@ -14357,7 +14411,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Cryptocurrency",
+          "name": "blackmatrix7/ios_rule_script: Cryptocurrency",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cryptocurrency/Cryptocurrency.list"
         }
       ],
@@ -14431,7 +14485,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CSDN",
+          "name": "blackmatrix7/ios_rule_script: CSDN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CSDN/CSDN.list"
         }
       ],
@@ -14507,7 +14561,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CWSeed",
+          "name": "blackmatrix7/ios_rule_script: CWSeed",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CWSeed/CWSeed.list"
         }
       ],
@@ -14581,7 +14635,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 CyberTrust",
+          "name": "blackmatrix7/ios_rule_script: CyberTrust",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CyberTrust/CyberTrust.list"
         }
       ],
@@ -14655,7 +14709,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Dailymail",
+          "name": "blackmatrix7/ios_rule_script: Dailymail",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dailymail/Dailymail.list"
         }
       ],
@@ -14729,7 +14783,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Dailymotion",
+          "name": "blackmatrix7/ios_rule_script: Dailymotion",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dailymotion/Dailymotion.list"
         }
       ],
@@ -14803,7 +14857,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DaMai",
+          "name": "blackmatrix7/ios_rule_script: DaMai",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DaMai/DaMai.list"
         }
       ],
@@ -14877,7 +14931,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Dandanplay",
+          "name": "blackmatrix7/ios_rule_script: Dandanplay",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dandanplay/Dandanplay.list"
         }
       ],
@@ -14951,7 +15005,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DanDanZan",
+          "name": "blackmatrix7/ios_rule_script: DanDanZan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DanDanZan/DanDanZan.list"
         }
       ],
@@ -15025,7 +15079,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DangDang",
+          "name": "blackmatrix7/ios_rule_script: DangDang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DangDang/DangDang.list"
         }
       ],
@@ -15101,7 +15155,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DAZN",
+          "name": "blackmatrix7/ios_rule_script: DAZN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DAZN/DAZN.list"
         }
       ],
@@ -15175,7 +15229,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Dedao",
+          "name": "blackmatrix7/ios_rule_script: Dedao",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dedao/Dedao.list"
         }
       ],
@@ -15249,7 +15303,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Deepin",
+          "name": "blackmatrix7/ios_rule_script: Deepin",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Deepin/Deepin.list"
         }
       ],
@@ -15324,7 +15378,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Deezer",
+          "name": "blackmatrix7/ios_rule_script: Deezer",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Deezer/Deezer.list"
         }
       ],
@@ -15398,7 +15452,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Dell",
+          "name": "blackmatrix7/ios_rule_script: Dell",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dell/Dell.list"
         }
       ],
@@ -15480,7 +15534,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Developer",
+          "name": "blackmatrix7/ios_rule_script: Developer",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Developer/Developer.list"
         }
       ],
@@ -15554,7 +15608,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DiabloIII",
+          "name": "blackmatrix7/ios_rule_script: DiabloIII",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiabloIII/DiabloIII.list"
         }
       ],
@@ -15628,7 +15682,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DianCeWangKe",
+          "name": "blackmatrix7/ios_rule_script: DianCeWangKe",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DianCeWangKe/DianCeWangKe.list"
         }
       ],
@@ -15702,7 +15756,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DiDi",
+          "name": "blackmatrix7/ios_rule_script: DiDi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiDi/DiDi.list"
         }
       ],
@@ -15776,7 +15830,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DigiCert",
+          "name": "blackmatrix7/ios_rule_script: DigiCert",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigiCert/DigiCert.list"
         }
       ],
@@ -15858,7 +15912,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DigitalOcean",
+          "name": "blackmatrix7/ios_rule_script: DigitalOcean",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigitalOcean/DigitalOcean.list"
         }
       ],
@@ -15932,7 +15986,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DiLianWangLuo",
+          "name": "blackmatrix7/ios_rule_script: DiLianWangLuo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiLianWangLuo/DiLianWangLuo.list"
         }
       ],
@@ -16006,7 +16060,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DingTalk",
+          "name": "blackmatrix7/ios_rule_script: DingTalk",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DingTalk/DingTalk.list"
         }
       ],
@@ -16080,7 +16134,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DingXiangYuan",
+          "name": "blackmatrix7/ios_rule_script: DingXiangYuan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DingXiangYuan/DingXiangYuan.list"
         }
       ],
@@ -16165,20 +16219,29 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 111881,
-        "DOMAIN": 442,
+        "DOMAIN-SUFFIX": 112409,
+        "DOMAIN": 449,
         "DOMAIN-KEYWORD": 36,
+        "DOMAIN-REGEX": 3,
         "USER-AGENT": 1,
         "PROCESS-NAME": 36
       },
       "sources": [
         {
-          "name": "blackmatrix7 Direct",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Direct/Direct.list"
+          "name": "v2fly/domain-list-community: cn (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/cn"
         },
         {
-          "name": "Loyalsoldier direct domains",
+          "name": "Loyalsoldier/surge-rules: direct",
           "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt"
+        },
+        {
+          "name": "Loyalsoldier/v2ray-rules-dat: direct-list",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Direct",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Direct/Direct.list"
         }
       ],
       "files": {
@@ -16259,7 +16322,11 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Discord",
+          "name": "v2fly/domain-list-community: discord (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/discord"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Discord",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Discord/Discord.list"
         }
       ],
@@ -16336,7 +16403,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DiscoveryPlus",
+          "name": "blackmatrix7/ios_rule_script: DiscoveryPlus",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiscoveryPlus/DiscoveryPlus.list"
         }
       ],
@@ -16410,7 +16477,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DiSiFanShi",
+          "name": "blackmatrix7/ios_rule_script: DiSiFanShi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiSiFanShi/DiSiFanShi.list"
         }
       ],
@@ -16494,7 +16561,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Disney",
+          "name": "blackmatrix7/ios_rule_script: Disney",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list"
         }
       ],
@@ -16568,7 +16635,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Disqus",
+          "name": "blackmatrix7/ios_rule_script: Disqus",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disqus/Disqus.list"
         }
       ],
@@ -16643,7 +16710,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DMM",
+          "name": "blackmatrix7/ios_rule_script: DMM",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list"
         }
       ],
@@ -16718,7 +16785,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DNS",
+          "name": "blackmatrix7/ios_rule_script: DNS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DNS/DNS.list"
         }
       ],
@@ -16808,7 +16875,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Docker",
+          "name": "blackmatrix7/ios_rule_script: Docker",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Docker/Docker.list"
         }
       ],
@@ -16882,7 +16949,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Domob",
+          "name": "blackmatrix7/ios_rule_script: Domob",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Domob/Domob.list"
         }
       ],
@@ -16956,7 +17023,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Dood",
+          "name": "blackmatrix7/ios_rule_script: Dood",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dood/Dood.list"
         }
       ],
@@ -17030,7 +17097,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DouBan",
+          "name": "blackmatrix7/ios_rule_script: DouBan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouBan/DouBan.list"
         }
       ],
@@ -17105,7 +17172,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DouYin",
+          "name": "blackmatrix7/ios_rule_script: DouYin",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouYin/DouYin.list"
         }
       ],
@@ -17179,7 +17246,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Douyu",
+          "name": "blackmatrix7/ios_rule_script: Douyu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Douyu/Douyu.list"
         }
       ],
@@ -17256,7 +17323,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Download",
+          "name": "blackmatrix7/ios_rule_script: Download",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Download/Download.list"
         }
       ],
@@ -17338,7 +17405,11 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Dropbox",
+          "name": "v2fly/domain-list-community: dropbox (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/dropbox"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Dropbox",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dropbox/Dropbox.list"
         }
       ],
@@ -17412,7 +17483,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DtDNS",
+          "name": "blackmatrix7/ios_rule_script: DtDNS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DtDNS/DtDNS.list"
         }
       ],
@@ -17486,7 +17557,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Dubox",
+          "name": "blackmatrix7/ios_rule_script: Dubox",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dubox/Dubox.list"
         }
       ],
@@ -17560,7 +17631,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Duckduckgo",
+          "name": "blackmatrix7/ios_rule_script: Duckduckgo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Duckduckgo/Duckduckgo.list"
         }
       ],
@@ -17634,7 +17705,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Duolingo",
+          "name": "blackmatrix7/ios_rule_script: Duolingo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Duolingo/Duolingo.list"
         }
       ],
@@ -17708,7 +17779,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DuoWan",
+          "name": "blackmatrix7/ios_rule_script: DuoWan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DuoWan/DuoWan.list"
         }
       ],
@@ -17782,7 +17853,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 DynDNS",
+          "name": "blackmatrix7/ios_rule_script: DynDNS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DynDNS/DynDNS.list"
         }
       ],
@@ -17856,7 +17927,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Dynu",
+          "name": "blackmatrix7/ios_rule_script: Dynu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dynu/Dynu.list"
         }
       ],
@@ -17939,7 +18010,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 EA",
+          "name": "blackmatrix7/ios_rule_script: EA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EA/EA.list"
         }
       ],
@@ -18013,7 +18084,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 EastMoney",
+          "name": "blackmatrix7/ios_rule_script: EastMoney",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EastMoney/EastMoney.list"
         }
       ],
@@ -18087,7 +18158,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 eBay",
+          "name": "blackmatrix7/ios_rule_script: eBay",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/eBay/eBay.list"
         }
       ],
@@ -18162,7 +18233,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 EHGallery",
+          "name": "blackmatrix7/ios_rule_script: EHGallery",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EHGallery/EHGallery.list"
         }
       ],
@@ -18236,7 +18307,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Electron",
+          "name": "blackmatrix7/ios_rule_script: Electron",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Electron/Electron.list"
         }
       ],
@@ -18310,7 +18381,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Eleme",
+          "name": "blackmatrix7/ios_rule_script: Eleme",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Eleme/Eleme.list"
         }
       ],
@@ -18384,7 +18455,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Embl",
+          "name": "blackmatrix7/ios_rule_script: Embl",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Embl/Embl.list"
         }
       ],
@@ -18461,7 +18532,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Emby",
+          "name": "blackmatrix7/ios_rule_script: Emby",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Emby/Emby.list"
         }
       ],
@@ -18535,7 +18606,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Emojipedia",
+          "name": "blackmatrix7/ios_rule_script: Emojipedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Emojipedia/Emojipedia.list"
         }
       ],
@@ -18611,7 +18682,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 EncoreTVB",
+          "name": "blackmatrix7/ios_rule_script: EncoreTVB",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EncoreTVB/EncoreTVB.list"
         }
       ],
@@ -18685,7 +18756,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Entrust",
+          "name": "blackmatrix7/ios_rule_script: Entrust",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Entrust/Entrust.list"
         }
       ],
@@ -18767,7 +18838,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Epic",
+          "name": "blackmatrix7/ios_rule_script: Epic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Epic/Epic.list"
         }
       ],
@@ -18842,7 +18913,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Espn",
+          "name": "blackmatrix7/ios_rule_script: Espn",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Espn/Espn.list"
         }
       ],
@@ -18927,7 +18998,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Facebook",
+          "name": "blackmatrix7/ios_rule_script: Facebook",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list"
         }
       ],
@@ -19001,7 +19072,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FanFou",
+          "name": "blackmatrix7/ios_rule_script: FanFou",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FanFou/FanFou.list"
         }
       ],
@@ -19075,7 +19146,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FangZhengDianZi",
+          "name": "blackmatrix7/ios_rule_script: FangZhengDianZi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FangZhengDianZi/FangZhengDianZi.list"
         }
       ],
@@ -19149,7 +19220,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Faronics",
+          "name": "blackmatrix7/ios_rule_script: Faronics",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Faronics/Faronics.list"
         }
       ],
@@ -19223,7 +19294,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FeiZhu",
+          "name": "blackmatrix7/ios_rule_script: FeiZhu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FeiZhu/FeiZhu.list"
         }
       ],
@@ -19297,7 +19368,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FengHuangWang",
+          "name": "blackmatrix7/ios_rule_script: FengHuangWang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FengHuangWang/FengHuangWang.list"
         }
       ],
@@ -19371,7 +19442,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FengXiaWangLuo",
+          "name": "blackmatrix7/ios_rule_script: FengXiaWangLuo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FengXiaWangLuo/FengXiaWangLuo.list"
         }
       ],
@@ -19445,7 +19516,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Figma",
+          "name": "blackmatrix7/ios_rule_script: Figma",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Figma/Figma.list"
         }
       ],
@@ -19519,7 +19590,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Fiio",
+          "name": "blackmatrix7/ios_rule_script: Fiio",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Fiio/Fiio.list"
         }
       ],
@@ -19601,7 +19672,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FindMy",
+          "name": "blackmatrix7/ios_rule_script: FindMy",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FindMy/FindMy.list"
         }
       ],
@@ -19675,7 +19746,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FitnessPlus",
+          "name": "blackmatrix7/ios_rule_script: FitnessPlus",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FitnessPlus/FitnessPlus.list"
         }
       ],
@@ -19749,7 +19820,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FlipBoard",
+          "name": "blackmatrix7/ios_rule_script: FlipBoard",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FlipBoard/FlipBoard.list"
         }
       ],
@@ -19823,7 +19894,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Flurry",
+          "name": "blackmatrix7/ios_rule_script: Flurry",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Flurry/Flurry.list"
         }
       ],
@@ -19898,7 +19969,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Fox",
+          "name": "blackmatrix7/ios_rule_script: Fox",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Fox/Fox.list"
         }
       ],
@@ -19973,7 +20044,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FOXNOW",
+          "name": "blackmatrix7/ios_rule_script: FOXNOW",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FOXNOW/FOXNOW.list"
         }
       ],
@@ -20048,7 +20119,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FOXPlus",
+          "name": "blackmatrix7/ios_rule_script: FOXPlus",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FOXPlus/FOXPlus.list"
         }
       ],
@@ -20122,7 +20193,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FreeCodeCamp",
+          "name": "blackmatrix7/ios_rule_script: FreeCodeCamp",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FreeCodeCamp/FreeCodeCamp.list"
         }
       ],
@@ -20196,7 +20267,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 friDay",
+          "name": "blackmatrix7/ios_rule_script: friDay",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/friDay/friDay.list"
         }
       ],
@@ -20270,7 +20341,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 FuboTV",
+          "name": "blackmatrix7/ios_rule_script: FuboTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FuboTV/FuboTV.list"
         }
       ],
@@ -20344,7 +20415,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Funshion",
+          "name": "blackmatrix7/ios_rule_script: Funshion",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Funshion/Funshion.list"
         }
       ],
@@ -20429,7 +20500,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Game",
+          "name": "blackmatrix7/ios_rule_script: Game",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
         }
       ],
@@ -20514,7 +20585,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Game",
+          "name": "blackmatrix7/ios_rule_script: Game",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
         }
       ],
@@ -20588,7 +20659,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GaoDe",
+          "name": "blackmatrix7/ios_rule_script: GaoDe",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GaoDe/GaoDe.list"
         }
       ],
@@ -20662,7 +20733,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Garena",
+          "name": "blackmatrix7/ios_rule_script: Garena",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Garena/Garena.list"
         }
       ],
@@ -20736,7 +20807,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Geely",
+          "name": "blackmatrix7/ios_rule_script: Geely",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Geely/Geely.list"
         }
       ],
@@ -20814,18 +20885,22 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 7,
-        "DOMAIN": 4,
+        "DOMAIN-SUFFIX": 29,
+        "DOMAIN": 11,
         "DOMAIN-KEYWORD": 3
       },
       "sources": [
         {
-          "name": "blackmatrix7 Gemini",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
+          "name": "v2fly/domain-list-community: google-deepmind (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google-deepmind"
         },
         {
-          "name": "blackmatrix7 BardAI",
+          "name": "blackmatrix7/ios_rule_script: BardAI",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Gemini",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
         }
       ],
       "files": {
@@ -20898,7 +20973,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Gettyimages",
+          "name": "blackmatrix7/ios_rule_script: Gettyimages",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gettyimages/Gettyimages.list"
         }
       ],
@@ -20972,7 +21047,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Gigabyte",
+          "name": "blackmatrix7/ios_rule_script: Gigabyte",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gigabyte/Gigabyte.list"
         }
       ],
@@ -21054,7 +21129,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GitBook",
+          "name": "blackmatrix7/ios_rule_script: GitBook",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitBook/GitBook.list"
         }
       ],
@@ -21136,7 +21211,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Gitee",
+          "name": "blackmatrix7/ios_rule_script: Gitee",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gitee/Gitee.list"
         }
       ],
@@ -21221,25 +21296,22 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 30,
+        "DOMAIN-SUFFIX": 35,
+        "DOMAIN": 27,
         "DOMAIN-KEYWORD": 1
       },
       "sources": [
         {
-          "name": "ACL4SSR Github list",
+          "name": "v2fly/domain-list-community: github (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/github"
+        },
+        {
+          "name": "ACL4SSR/ACL4SSR: Github",
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list"
         },
         {
-          "name": "ACL4SSR Github provider",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml"
-        },
-        {
-          "name": "LM-Firefly Github list",
+          "name": "LM-Firefly/Rules: Github",
           "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list"
-        },
-        {
-          "name": "LM-Firefly Github classical",
-          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml"
         }
       ],
       "files": {
@@ -21320,7 +21392,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GitLab",
+          "name": "blackmatrix7/ios_rule_script: GitLab",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitLab/GitLab.list"
         }
       ],
@@ -21398,7 +21470,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Global",
+          "name": "blackmatrix7/ios_rule_script: Global",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list"
         }
       ],
@@ -21486,7 +21558,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GlobalMedia",
+          "name": "blackmatrix7/ios_rule_script: GlobalMedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia.list"
         }
       ],
@@ -21561,7 +21633,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GlobalScholar",
+          "name": "blackmatrix7/ios_rule_script: GlobalScholar",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalScholar/GlobalScholar.list"
         }
       ],
@@ -21635,7 +21707,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GlobalSign",
+          "name": "blackmatrix7/ios_rule_script: GlobalSign",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalSign/GlobalSign.list"
         }
       ],
@@ -21710,7 +21782,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Gog",
+          "name": "blackmatrix7/ios_rule_script: Gog",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gog/Gog.list"
         }
       ],
@@ -21788,32 +21860,34 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 792,
+        "DOMAIN-SUFFIX": 818,
+        "DOMAIN": 1,
         "DOMAIN-KEYWORD": 2,
+        "DOMAIN-REGEX": 2,
         "PROCESS-NAME": 7,
         "IP-CIDR": 4,
         "IP-CIDR6": 1
       },
       "sources": [
         {
-          "name": "Loyalsoldier Google",
+          "name": "v2fly/domain-list-community: google (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google"
+        },
+        {
+          "name": "Loyalsoldier/surge-rules: google",
           "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt"
         },
         {
-          "name": "blackmatrix7 Google source",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list"
-        },
-        {
-          "name": "LM-Firefly Google list",
-          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list"
-        },
-        {
-          "name": "ACL4SSR Google list",
+          "name": "ACL4SSR/ACL4SSR: Google",
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list"
         },
         {
-          "name": "ACL4SSR Google provider",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Google.yaml"
+          "name": "LM-Firefly/Rules: Google",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Google",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list"
         }
       ],
       "files": {
@@ -21889,7 +21963,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GoogleDrive",
+          "name": "blackmatrix7/ios_rule_script: GoogleDrive",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleDrive/GoogleDrive.list"
         }
       ],
@@ -21963,7 +22037,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GoogleEarth",
+          "name": "blackmatrix7/ios_rule_script: GoogleEarth",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleEarth/GoogleEarth.list"
         }
       ],
@@ -22046,7 +22120,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GoogleFCM",
+          "name": "blackmatrix7/ios_rule_script: GoogleFCM",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleFCM/GoogleFCM.list"
         }
       ],
@@ -22120,7 +22194,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GoogleSearch",
+          "name": "blackmatrix7/ios_rule_script: GoogleSearch",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleSearch/GoogleSearch.list"
         }
       ],
@@ -22194,7 +22268,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GoogleVoice",
+          "name": "blackmatrix7/ios_rule_script: GoogleVoice",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleVoice/GoogleVoice.list"
         }
       ],
@@ -22276,7 +22350,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GovCN",
+          "name": "blackmatrix7/ios_rule_script: GovCN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GovCN/GovCN.list"
         }
       ],
@@ -22350,7 +22424,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Gucci",
+          "name": "blackmatrix7/ios_rule_script: Gucci",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gucci/Gucci.list"
         }
       ],
@@ -22424,7 +22498,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 GuiGuDongLi",
+          "name": "blackmatrix7/ios_rule_script: GuiGuDongLi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GuiGuDongLi/GuiGuDongLi.list"
         }
       ],
@@ -22499,7 +22573,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HaiNanHangKong",
+          "name": "blackmatrix7/ios_rule_script: HaiNanHangKong",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HaiNanHangKong/HaiNanHangKong.list"
         }
       ],
@@ -22575,7 +22649,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HamiVideo",
+          "name": "blackmatrix7/ios_rule_script: HamiVideo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HamiVideo/HamiVideo.list"
         }
       ],
@@ -22650,7 +22724,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HanYi",
+          "name": "blackmatrix7/ios_rule_script: HanYi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HanYi/HanYi.list"
         }
       ],
@@ -22732,7 +22806,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HashiCorp",
+          "name": "blackmatrix7/ios_rule_script: HashiCorp",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HashiCorp/HashiCorp.list"
         }
       ],
@@ -22806,7 +22880,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Haveibeenpwned",
+          "name": "blackmatrix7/ios_rule_script: Haveibeenpwned",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Haveibeenpwned/Haveibeenpwned.list"
         }
       ],
@@ -22882,7 +22956,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HBO",
+          "name": "blackmatrix7/ios_rule_script: HBO",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBO/HBO.list"
         }
       ],
@@ -22959,7 +23033,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HBOAsia",
+          "name": "blackmatrix7/ios_rule_script: HBOAsia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOAsia/HBOAsia.list"
         }
       ],
@@ -23034,7 +23108,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HBOHK",
+          "name": "blackmatrix7/ios_rule_script: HBOHK",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOHK/HBOHK.list"
         }
       ],
@@ -23111,7 +23185,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HBOUSA",
+          "name": "blackmatrix7/ios_rule_script: HBOUSA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOUSA/HBOUSA.list"
         }
       ],
@@ -23185,7 +23259,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Hearthstone",
+          "name": "blackmatrix7/ios_rule_script: Hearthstone",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hearthstone/Hearthstone.list"
         }
       ],
@@ -23259,7 +23333,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HeMa",
+          "name": "blackmatrix7/ios_rule_script: HeMa",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeMa/HeMa.list"
         }
       ],
@@ -23333,7 +23407,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HeroesoftheStorm",
+          "name": "blackmatrix7/ios_rule_script: HeroesoftheStorm",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeroesoftheStorm/HeroesoftheStorm.list"
         }
       ],
@@ -23407,7 +23481,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Heroku",
+          "name": "blackmatrix7/ios_rule_script: Heroku",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Heroku/Heroku.list"
         }
       ],
@@ -23481,7 +23555,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HibyMusic",
+          "name": "blackmatrix7/ios_rule_script: HibyMusic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HibyMusic/HibyMusic.list"
         }
       ],
@@ -23565,7 +23639,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Hijacking",
+          "name": "blackmatrix7/ios_rule_script: Hijacking",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hijacking/Hijacking.list"
         }
       ],
@@ -23640,7 +23714,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Himalaya",
+          "name": "blackmatrix7/ios_rule_script: Himalaya",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Himalaya/Himalaya.list"
         }
       ],
@@ -23714,7 +23788,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HKBN",
+          "name": "blackmatrix7/ios_rule_script: HKBN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKBN/HKBN.list"
         }
       ],
@@ -23788,7 +23862,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HKedcity",
+          "name": "blackmatrix7/ios_rule_script: HKedcity",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKedcity/HKedcity.list"
         }
       ],
@@ -23862,7 +23936,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Hkgolden",
+          "name": "blackmatrix7/ios_rule_script: Hkgolden",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hkgolden/Hkgolden.list"
         }
       ],
@@ -23936,7 +24010,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HKOpenTV",
+          "name": "blackmatrix7/ios_rule_script: HKOpenTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKOpenTV/HKOpenTV.list"
         }
       ],
@@ -24010,7 +24084,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HoYoverse",
+          "name": "blackmatrix7/ios_rule_script: HoYoverse",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HoYoverse/HoYoverse.list"
         }
       ],
@@ -24084,7 +24158,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HP",
+          "name": "blackmatrix7/ios_rule_script: HP",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HP/HP.list"
         }
       ],
@@ -24158,7 +24232,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Hpplay",
+          "name": "blackmatrix7/ios_rule_script: Hpplay",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hpplay/Hpplay.list"
         }
       ],
@@ -24232,7 +24306,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HuanJu",
+          "name": "blackmatrix7/ios_rule_script: HuanJu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuanJu/HuanJu.list"
         }
       ],
@@ -24306,7 +24380,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HuaShuTV",
+          "name": "blackmatrix7/ios_rule_script: HuaShuTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuaShuTV/HuaShuTV.list"
         }
       ],
@@ -24380,7 +24454,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Huawei",
+          "name": "blackmatrix7/ios_rule_script: Huawei",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Huawei/Huawei.list"
         }
       ],
@@ -24454,7 +24528,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Huffpost",
+          "name": "blackmatrix7/ios_rule_script: Huffpost",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Huffpost/Huffpost.list"
         }
       ],
@@ -24538,7 +24612,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Hulu",
+          "name": "blackmatrix7/ios_rule_script: Hulu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hulu/Hulu.list"
         }
       ],
@@ -24612,7 +24686,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HuluJP",
+          "name": "blackmatrix7/ios_rule_script: HuluJP",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuluJP/HuluJP.list"
         }
       ],
@@ -24687,7 +24761,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HuluUSA",
+          "name": "blackmatrix7/ios_rule_script: HuluUSA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuluUSA/HuluUSA.list"
         }
       ],
@@ -24762,7 +24836,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HunanTV",
+          "name": "blackmatrix7/ios_rule_script: HunanTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HunanTV/HunanTV.list"
         }
       ],
@@ -24836,7 +24910,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Hupu",
+          "name": "blackmatrix7/ios_rule_script: Hupu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hupu/Hupu.list"
         }
       ],
@@ -24910,7 +24984,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HuYa",
+          "name": "blackmatrix7/ios_rule_script: HuYa",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuYa/HuYa.list"
         }
       ],
@@ -24985,7 +25059,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 HWTV",
+          "name": "blackmatrix7/ios_rule_script: HWTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HWTV/HWTV.list"
         }
       ],
@@ -25059,7 +25133,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 IBM",
+          "name": "blackmatrix7/ios_rule_script: IBM",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IBM/IBM.list"
         }
       ],
@@ -25141,7 +25215,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ICBC",
+          "name": "blackmatrix7/ios_rule_script: ICBC",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ICBC/ICBC.list"
         }
       ],
@@ -25224,7 +25298,11 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 iCloud",
+          "name": "v2fly/domain-list-community: icloud (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/icloud"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: iCloud",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iCloud/iCloud.list"
         }
       ],
@@ -25307,7 +25385,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 iCloudPrivateRelay",
+          "name": "blackmatrix7/ios_rule_script: iCloudPrivateRelay",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iCloudPrivateRelay/iCloudPrivateRelay.list"
         }
       ],
@@ -25381,7 +25459,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Identrust",
+          "name": "blackmatrix7/ios_rule_script: Identrust",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Identrust/Identrust.list"
         }
       ],
@@ -25455,7 +25533,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ifanr",
+          "name": "blackmatrix7/ios_rule_script: ifanr",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ifanr/ifanr.list"
         }
       ],
@@ -25529,7 +25607,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 iFlytek",
+          "name": "blackmatrix7/ios_rule_script: iFlytek",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iFlytek/iFlytek.list"
         }
       ],
@@ -25603,7 +25681,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 IKEA",
+          "name": "blackmatrix7/ios_rule_script: IKEA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IKEA/IKEA.list"
         }
       ],
@@ -25677,7 +25755,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 IMDB",
+          "name": "blackmatrix7/ios_rule_script: IMDB",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IMDB/IMDB.list"
         }
       ],
@@ -25751,7 +25829,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Imgur",
+          "name": "blackmatrix7/ios_rule_script: Imgur",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Imgur/Imgur.list"
         }
       ],
@@ -25834,7 +25912,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Instagram",
+          "name": "blackmatrix7/ios_rule_script: Instagram",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list"
         }
       ],
@@ -25908,7 +25986,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Intel",
+          "name": "blackmatrix7/ios_rule_script: Intel",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Intel/Intel.list"
         }
       ],
@@ -25982,7 +26060,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Intercom",
+          "name": "blackmatrix7/ios_rule_script: Intercom",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Intercom/Intercom.list"
         }
       ],
@@ -26057,7 +26135,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 IPTVMainland",
+          "name": "blackmatrix7/ios_rule_script: IPTVMainland",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IPTVMainland/IPTVMainland.list"
         }
       ],
@@ -26131,7 +26209,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 IPTVOther",
+          "name": "blackmatrix7/ios_rule_script: IPTVOther",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IPTVOther/IPTVOther.list"
         }
       ],
@@ -26209,7 +26287,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 iQIYI",
+          "name": "blackmatrix7/ios_rule_script: iQIYI",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYI/iQIYI.list"
         }
       ],
@@ -26286,7 +26364,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 iQIYIIntl",
+          "name": "blackmatrix7/ios_rule_script: iQIYIIntl",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYIIntl/iQIYIIntl.list"
         }
       ],
@@ -26361,7 +26439,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 iTalkBB",
+          "name": "blackmatrix7/ios_rule_script: iTalkBB",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iTalkBB/iTalkBB.list"
         }
       ],
@@ -26437,7 +26515,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ITV",
+          "name": "blackmatrix7/ios_rule_script: ITV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ITV/ITV.list"
         }
       ],
@@ -26512,7 +26590,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Japonx",
+          "name": "blackmatrix7/ios_rule_script: Japonx",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Japonx/Japonx.list"
         }
       ],
@@ -26594,7 +26672,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Jetbrains",
+          "name": "blackmatrix7/ios_rule_script: Jetbrains",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jetbrains/Jetbrains.list"
         }
       ],
@@ -26676,7 +26754,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Jfrog",
+          "name": "blackmatrix7/ios_rule_script: Jfrog",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jfrog/Jfrog.list"
         }
       ],
@@ -26750,7 +26828,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 JianGuoYun",
+          "name": "blackmatrix7/ios_rule_script: JianGuoYun",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JianGuoYun/JianGuoYun.list"
         }
       ],
@@ -26824,7 +26902,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 JianShu",
+          "name": "blackmatrix7/ios_rule_script: JianShu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JianShu/JianShu.list"
         }
       ],
@@ -26898,7 +26976,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 JiGuangTuiSong",
+          "name": "blackmatrix7/ios_rule_script: JiGuangTuiSong",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong.list"
         }
       ],
@@ -26972,7 +27050,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 JingDong",
+          "name": "blackmatrix7/ios_rule_script: JingDong",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list"
         }
       ],
@@ -27047,7 +27125,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 JinJiangWenXue",
+          "name": "blackmatrix7/ios_rule_script: JinJiangWenXue",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JinJiangWenXue/JinJiangWenXue.list"
         }
       ],
@@ -27125,7 +27203,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 JOOX",
+          "name": "blackmatrix7/ios_rule_script: JOOX",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JOOX/JOOX.list"
         }
       ],
@@ -27199,7 +27277,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Jquery",
+          "name": "blackmatrix7/ios_rule_script: Jquery",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jquery/Jquery.list"
         }
       ],
@@ -27273,7 +27351,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Jsdelivr",
+          "name": "blackmatrix7/ios_rule_script: Jsdelivr",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jsdelivr/Jsdelivr.list"
         }
       ],
@@ -27347,7 +27425,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 JueJin",
+          "name": "blackmatrix7/ios_rule_script: JueJin",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JueJin/JueJin.list"
         }
       ],
@@ -27421,7 +27499,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Jwplayer",
+          "name": "blackmatrix7/ios_rule_script: Jwplayer",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jwplayer/Jwplayer.list"
         }
       ],
@@ -27504,7 +27582,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KakaoTalk",
+          "name": "blackmatrix7/ios_rule_script: KakaoTalk",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KakaoTalk/KakaoTalk.list"
         }
       ],
@@ -27578,7 +27656,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Kantv",
+          "name": "blackmatrix7/ios_rule_script: Kantv",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Kantv/Kantv.list"
         }
       ],
@@ -27652,7 +27730,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Keep",
+          "name": "blackmatrix7/ios_rule_script: Keep",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Keep/Keep.list"
         }
       ],
@@ -27726,7 +27804,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KingSmith",
+          "name": "blackmatrix7/ios_rule_script: KingSmith",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KingSmith/KingSmith.list"
         }
       ],
@@ -27800,7 +27878,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Kingsoft",
+          "name": "blackmatrix7/ios_rule_script: Kingsoft",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Kingsoft/Kingsoft.list"
         }
       ],
@@ -27874,7 +27952,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KKBOX",
+          "name": "blackmatrix7/ios_rule_script: KKBOX",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KKBOX/KKBOX.list"
         }
       ],
@@ -27950,7 +28028,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KKTV",
+          "name": "blackmatrix7/ios_rule_script: KKTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KKTV/KKTV.list"
         }
       ],
@@ -28024,7 +28102,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KouDaiShiShang",
+          "name": "blackmatrix7/ios_rule_script: KouDaiShiShang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KouDaiShiShang/KouDaiShiShang.list"
         }
       ],
@@ -28098,7 +28176,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Ku6",
+          "name": "blackmatrix7/ios_rule_script: Ku6",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ku6/Ku6.list"
         }
       ],
@@ -28172,7 +28250,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KuaiDi100",
+          "name": "blackmatrix7/ios_rule_script: KuaiDi100",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuaiDi100/KuaiDi100.list"
         }
       ],
@@ -28246,7 +28324,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KuaiShou",
+          "name": "blackmatrix7/ios_rule_script: KuaiShou",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuaiShou/KuaiShou.list"
         }
       ],
@@ -28321,7 +28399,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KuangShi",
+          "name": "blackmatrix7/ios_rule_script: KuangShi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuangShi/KuangShi.list"
         }
       ],
@@ -28396,7 +28474,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KugouKuwo",
+          "name": "blackmatrix7/ios_rule_script: KugouKuwo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KugouKuwo/KugouKuwo.list"
         }
       ],
@@ -28470,7 +28548,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 KuKeMusic",
+          "name": "blackmatrix7/ios_rule_script: KuKeMusic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuKeMusic/KuKeMusic.list"
         }
       ],
@@ -28547,7 +28625,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Lan",
+          "name": "blackmatrix7/ios_rule_script: Lan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lan/Lan.list"
         }
       ],
@@ -28621,7 +28699,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LanZouYun",
+          "name": "blackmatrix7/ios_rule_script: LanZouYun",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LanZouYun/LanZouYun.list"
         }
       ],
@@ -28696,7 +28774,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LastFM",
+          "name": "blackmatrix7/ios_rule_script: LastFM",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LastFM/LastFM.list"
         }
       ],
@@ -28772,7 +28850,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LastPass",
+          "name": "blackmatrix7/ios_rule_script: LastPass",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LastPass/LastPass.list"
         }
       ],
@@ -28846,7 +28924,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LeJu",
+          "name": "blackmatrix7/ios_rule_script: LeJu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LeJu/LeJu.list"
         }
       ],
@@ -28920,7 +28998,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Lenovo",
+          "name": "blackmatrix7/ios_rule_script: Lenovo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lenovo/Lenovo.list"
         }
       ],
@@ -28994,7 +29072,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LeTV",
+          "name": "blackmatrix7/ios_rule_script: LeTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LeTV/LeTV.list"
         }
       ],
@@ -29070,7 +29148,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LG",
+          "name": "blackmatrix7/ios_rule_script: LG",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LG/LG.list"
         }
       ],
@@ -29144,7 +29222,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LianMeng",
+          "name": "blackmatrix7/ios_rule_script: LianMeng",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LianMeng/LianMeng.list"
         }
       ],
@@ -29218,7 +29296,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Limelight",
+          "name": "blackmatrix7/ios_rule_script: Limelight",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Limelight/Limelight.list"
         }
       ],
@@ -29301,7 +29379,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Line",
+          "name": "blackmatrix7/ios_rule_script: Line",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Line/Line.list"
         }
       ],
@@ -29378,7 +29456,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LineTV",
+          "name": "blackmatrix7/ios_rule_script: LineTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LineTV/LineTV.list"
         }
       ],
@@ -29452,7 +29530,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Linguee",
+          "name": "blackmatrix7/ios_rule_script: Linguee",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Linguee/Linguee.list"
         }
       ],
@@ -29527,7 +29605,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LinkedIn",
+          "name": "blackmatrix7/ios_rule_script: LinkedIn",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LinkedIn/LinkedIn.list"
         }
       ],
@@ -29601,7 +29679,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Linux",
+          "name": "blackmatrix7/ios_rule_script: Linux",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Linux/Linux.list"
         }
       ],
@@ -29676,7 +29754,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LiTV",
+          "name": "blackmatrix7/ios_rule_script: LiTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LiTV/LiTV.list"
         }
       ],
@@ -29750,7 +29828,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LivePerson",
+          "name": "blackmatrix7/ios_rule_script: LivePerson",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LivePerson/LivePerson.list"
         }
       ],
@@ -29824,7 +29902,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Logitech",
+          "name": "blackmatrix7/ios_rule_script: Logitech",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Logitech/Logitech.list"
         }
       ],
@@ -29898,7 +29976,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LondonReal",
+          "name": "blackmatrix7/ios_rule_script: LondonReal",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LondonReal/LondonReal.list"
         }
       ],
@@ -29972,7 +30050,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LuDaShi",
+          "name": "blackmatrix7/ios_rule_script: LuDaShi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LuDaShi/LuDaShi.list"
         }
       ],
@@ -30046,7 +30124,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 LvMiLianChuang",
+          "name": "blackmatrix7/ios_rule_script: LvMiLianChuang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LvMiLianChuang/LvMiLianChuang.list"
         }
       ],
@@ -30129,7 +30207,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Mail",
+          "name": "blackmatrix7/ios_rule_script: Mail",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mail/Mail.list"
         }
       ],
@@ -30203,7 +30281,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Mailru",
+          "name": "blackmatrix7/ios_rule_script: Mailru",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mailru/Mailru.list"
         }
       ],
@@ -30277,7 +30355,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Majsoul",
+          "name": "blackmatrix7/ios_rule_script: Majsoul",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Majsoul/Majsoul.list"
         }
       ],
@@ -30351,7 +30429,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Manorama",
+          "name": "blackmatrix7/ios_rule_script: Manorama",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Manorama/Manorama.list"
         }
       ],
@@ -30425,7 +30503,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Maocloud",
+          "name": "blackmatrix7/ios_rule_script: Maocloud",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Maocloud/Maocloud.list"
         }
       ],
@@ -30499,7 +30577,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Marketing",
+          "name": "blackmatrix7/ios_rule_script: Marketing",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Marketing/Marketing.list"
         }
       ],
@@ -30573,7 +30651,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 McDonalds",
+          "name": "blackmatrix7/ios_rule_script: McDonalds",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/McDonalds/McDonalds.list"
         }
       ],
@@ -30650,7 +30728,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MEGA",
+          "name": "blackmatrix7/ios_rule_script: MEGA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MEGA/MEGA.list"
         }
       ],
@@ -30724,7 +30802,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MeiTu",
+          "name": "blackmatrix7/ios_rule_script: MeiTu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTu/MeiTu.list"
         }
       ],
@@ -30798,7 +30876,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MeiTuan",
+          "name": "blackmatrix7/ios_rule_script: MeiTuan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTuan/MeiTuan.list"
         }
       ],
@@ -30872,7 +30950,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MeiZu",
+          "name": "blackmatrix7/ios_rule_script: MeiZu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiZu/MeiZu.list"
         }
       ],
@@ -30946,7 +31024,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MeWatch",
+          "name": "blackmatrix7/ios_rule_script: MeWatch",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeWatch/MeWatch.list"
         }
       ],
@@ -31031,31 +31109,27 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 663,
-        "DOMAIN": 1,
+        "DOMAIN-SUFFIX": 749,
+        "DOMAIN": 8,
         "DOMAIN-KEYWORD": 4,
         "USER-AGENT": 3,
         "PROCESS-NAME": 2
       },
       "sources": [
         {
-          "name": "ACL4SSR OneDrive list",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list"
+          "name": "v2fly/domain-list-community: microsoft (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/microsoft"
         },
         {
-          "name": "ACL4SSR Microsoft list",
+          "name": "ACL4SSR/ACL4SSR: Microsoft",
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list"
         },
         {
-          "name": "ACL4SSR Microsoft provider",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml"
+          "name": "ACL4SSR/ACL4SSR: OneDrive",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list"
         },
         {
-          "name": "ACL4SSR OneDrive provider",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OneDrive.yaml"
-        },
-        {
-          "name": "zqzess Microsoft list",
+          "name": "zqzess/rule_for_quantumultX: Microsoft",
           "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Microsoft.list"
         }
       ],
@@ -31129,7 +31203,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MicrosoftEdge",
+          "name": "blackmatrix7/ios_rule_script: MicrosoftEdge",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MicrosoftEdge/MicrosoftEdge.list"
         }
       ],
@@ -31204,7 +31278,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Migu",
+          "name": "blackmatrix7/ios_rule_script: Migu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Migu/Migu.list"
         }
       ],
@@ -31278,7 +31352,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MingLueZhaoHui",
+          "name": "blackmatrix7/ios_rule_script: MingLueZhaoHui",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MingLueZhaoHui/MingLueZhaoHui.list"
         }
       ],
@@ -31352,7 +31426,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MIUIPrivacy",
+          "name": "blackmatrix7/ios_rule_script: MIUIPrivacy",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MIUIPrivacy/MIUIPrivacy.list"
         }
       ],
@@ -31426,7 +31500,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MiWu",
+          "name": "blackmatrix7/ios_rule_script: MiWu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MiWu/MiWu.list"
         }
       ],
@@ -31500,7 +31574,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Mogujie",
+          "name": "blackmatrix7/ios_rule_script: Mogujie",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mogujie/Mogujie.list"
         }
       ],
@@ -31574,7 +31648,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Mojitianqi",
+          "name": "blackmatrix7/ios_rule_script: Mojitianqi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mojitianqi/Mojitianqi.list"
         }
       ],
@@ -31648,7 +31722,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MOMOShop",
+          "name": "blackmatrix7/ios_rule_script: MOMOShop",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOMOShop/MOMOShop.list"
         }
       ],
@@ -31722,7 +31796,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MOOMusic",
+          "name": "blackmatrix7/ios_rule_script: MOOMusic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOOMusic/MOOMusic.list"
         }
       ],
@@ -31796,7 +31870,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 MOOV",
+          "name": "blackmatrix7/ios_rule_script: MOOV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOOV/MOOV.list"
         }
       ],
@@ -31870,7 +31944,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Movefree",
+          "name": "blackmatrix7/ios_rule_script: Movefree",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Movefree/Movefree.list"
         }
       ],
@@ -31944,7 +32018,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Mozilla",
+          "name": "blackmatrix7/ios_rule_script: Mozilla",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mozilla/Mozilla.list"
         }
       ],
@@ -32020,7 +32094,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 My5",
+          "name": "blackmatrix7/ios_rule_script: My5",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/My5/My5.list"
         }
       ],
@@ -32097,7 +32171,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 myTVSUPER",
+          "name": "blackmatrix7/ios_rule_script: myTVSUPER",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/myTVSUPER/myTVSUPER.list"
         }
       ],
@@ -32173,7 +32247,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NaSDDNS",
+          "name": "blackmatrix7/ios_rule_script: NaSDDNS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NaSDDNS/NaSDDNS.list"
         }
       ],
@@ -32252,7 +32326,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Naver",
+          "name": "blackmatrix7/ios_rule_script: Naver",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Naver/Naver.list"
         }
       ],
@@ -32327,7 +32401,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NaverTV",
+          "name": "blackmatrix7/ios_rule_script: NaverTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NaverTV/NaverTV.list"
         }
       ],
@@ -32402,7 +32476,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NBC",
+          "name": "blackmatrix7/ios_rule_script: NBC",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NBC/NBC.list"
         }
       ],
@@ -32478,7 +32552,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NetEase",
+          "name": "blackmatrix7/ios_rule_script: NetEase",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/NetEase.list"
         }
       ],
@@ -32555,7 +32629,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NetEaseMusic",
+          "name": "blackmatrix7/ios_rule_script: NetEaseMusic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEaseMusic/NetEaseMusic.list"
         }
       ],
@@ -32643,20 +32717,16 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Netflix",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list"
-        },
-        {
-          "name": "ACL4SSR Netflix list",
+          "name": "ACL4SSR/ACL4SSR: Netflix",
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
         },
         {
-          "name": "ACL4SSR Netflix provider",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Netflix.yaml"
+          "name": "LM-Firefly/Rules: Netflix",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Netflix.list"
         },
         {
-          "name": "LM-Firefly Netflix list",
-          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Netflix.list"
+          "name": "blackmatrix7/ios_rule_script: Netflix",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list"
         }
       ],
       "files": {
@@ -32729,7 +32799,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NGA",
+          "name": "blackmatrix7/ios_rule_script: NGA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NGA/NGA.list"
         }
       ],
@@ -32803,7 +32873,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NGAA",
+          "name": "blackmatrix7/ios_rule_script: NGAA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NGAA/NGAA.list"
         }
       ],
@@ -32878,7 +32948,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Niconico",
+          "name": "blackmatrix7/ios_rule_script: Niconico",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Niconico/Niconico.list"
         }
       ],
@@ -32952,7 +33022,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Nike",
+          "name": "blackmatrix7/ios_rule_script: Nike",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nike/Nike.list"
         }
       ],
@@ -33026,7 +33096,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Nikkei",
+          "name": "blackmatrix7/ios_rule_script: Nikkei",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nikkei/Nikkei.list"
         }
       ],
@@ -33109,7 +33179,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Nintendo",
+          "name": "blackmatrix7/ios_rule_script: Nintendo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nintendo/Nintendo.list"
         }
       ],
@@ -33184,7 +33254,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NivodTV",
+          "name": "blackmatrix7/ios_rule_script: NivodTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NivodTV/NivodTV.list"
         }
       ],
@@ -33267,7 +33337,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Notion",
+          "name": "blackmatrix7/ios_rule_script: Notion",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Notion/Notion.list"
         }
       ],
@@ -33341,7 +33411,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NowE",
+          "name": "blackmatrix7/ios_rule_script: NowE",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NowE/NowE.list"
         }
       ],
@@ -33423,7 +33493,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Npmjs",
+          "name": "blackmatrix7/ios_rule_script: Npmjs",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Npmjs/Npmjs.list"
         }
       ],
@@ -33497,7 +33567,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NTPService",
+          "name": "blackmatrix7/ios_rule_script: NTPService",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NTPService/NTPService.list"
         }
       ],
@@ -33571,7 +33641,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Nvidia",
+          "name": "blackmatrix7/ios_rule_script: Nvidia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nvidia/Nvidia.list"
         }
       ],
@@ -33645,7 +33715,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NYPost",
+          "name": "blackmatrix7/ios_rule_script: NYPost",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYPost/NYPost.list"
         }
       ],
@@ -33719,7 +33789,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 NYTimes",
+          "name": "blackmatrix7/ios_rule_script: NYTimes",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYTimes/NYTimes.list"
         }
       ],
@@ -33793,7 +33863,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 OKX",
+          "name": "blackmatrix7/ios_rule_script: OKX",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OKX/OKX.list"
         }
       ],
@@ -33868,7 +33938,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Olevod",
+          "name": "blackmatrix7/ios_rule_script: Olevod",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Olevod/Olevod.list"
         }
       ],
@@ -33946,13 +34016,17 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 13,
+        "DOMAIN-SUFFIX": 19,
         "DOMAIN-KEYWORD": 3,
         "PROCESS-NAME": 2
       },
       "sources": [
         {
-          "name": "blackmatrix7 OneDrive",
+          "name": "v2fly/domain-list-community: onedrive (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/onedrive"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: OneDrive",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OneDrive/OneDrive.list"
         }
       ],
@@ -34026,7 +34100,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 OnePlus",
+          "name": "blackmatrix7/ios_rule_script: OnePlus",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OnePlus/OnePlus.list"
         }
       ],
@@ -34100,7 +34174,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 OP",
+          "name": "blackmatrix7/ios_rule_script: OP",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OP/OP.list"
         }
       ],
@@ -34178,23 +34252,24 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 26,
-        "DOMAIN": 7,
+        "DOMAIN-SUFFIX": 30,
+        "DOMAIN": 8,
         "DOMAIN-KEYWORD": 1,
+        "DOMAIN-REGEX": 1,
         "IP-ASN": 1,
         "IP-CIDR": 2
       },
       "sources": [
         {
-          "name": "ACL4SSR OpenAi list",
+          "name": "v2fly/domain-list-community: openai (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/openai"
+        },
+        {
+          "name": "ACL4SSR/ACL4SSR: OpenAi",
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list"
         },
         {
-          "name": "ACL4SSR OpenAi provider",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OpenAi.yaml"
-        },
-        {
-          "name": "blackmatrix7 OpenAI",
+          "name": "blackmatrix7/ios_rule_script: OpenAI",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
         }
       ],
@@ -34270,7 +34345,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Opera",
+          "name": "blackmatrix7/ios_rule_script: Opera",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Opera/Opera.list"
         }
       ],
@@ -34344,7 +34419,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 OPPO",
+          "name": "blackmatrix7/ios_rule_script: OPPO",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OPPO/OPPO.list"
         }
       ],
@@ -34426,7 +34501,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Oracle",
+          "name": "blackmatrix7/ios_rule_script: Oracle",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oracle/Oracle.list"
         }
       ],
@@ -34500,7 +34575,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Oreilly",
+          "name": "blackmatrix7/ios_rule_script: Oreilly",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oreilly/Oreilly.list"
         }
       ],
@@ -34575,7 +34650,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Origin",
+          "name": "blackmatrix7/ios_rule_script: Origin",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Origin/Origin.list"
         }
       ],
@@ -34649,7 +34724,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 OuPeng",
+          "name": "blackmatrix7/ios_rule_script: OuPeng",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OuPeng/OuPeng.list"
         }
       ],
@@ -34724,7 +34799,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Overcast",
+          "name": "blackmatrix7/ios_rule_script: Overcast",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Overcast/Overcast.list"
         }
       ],
@@ -34798,7 +34873,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Overwatch",
+          "name": "blackmatrix7/ios_rule_script: Overwatch",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Overwatch/Overwatch.list"
         }
       ],
@@ -34873,7 +34948,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Pandora",
+          "name": "blackmatrix7/ios_rule_script: Pandora",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pandora/Pandora.list"
         }
       ],
@@ -34947,7 +35022,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PandoraTV",
+          "name": "blackmatrix7/ios_rule_script: PandoraTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PandoraTV/PandoraTV.list"
         }
       ],
@@ -35023,7 +35098,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ParamountPlus",
+          "name": "blackmatrix7/ios_rule_script: ParamountPlus",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ParamountPlus/ParamountPlus.list"
         }
       ],
@@ -35098,7 +35173,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Patreon",
+          "name": "blackmatrix7/ios_rule_script: Patreon",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Patreon/Patreon.list"
         }
       ],
@@ -35182,7 +35257,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PayPal",
+          "name": "blackmatrix7/ios_rule_script: PayPal",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
         }
       ],
@@ -35257,7 +35332,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PBS",
+          "name": "blackmatrix7/ios_rule_script: PBS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PBS/PBS.list"
         }
       ],
@@ -35331,7 +35406,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PCCW",
+          "name": "blackmatrix7/ios_rule_script: PCCW",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PCCW/PCCW.list"
         }
       ],
@@ -35405,7 +35480,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PChome",
+          "name": "blackmatrix7/ios_rule_script: PChome",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PChome/PChome.list"
         }
       ],
@@ -35479,7 +35554,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PChomeTW",
+          "name": "blackmatrix7/ios_rule_script: PChomeTW",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PChomeTW/PChomeTW.list"
         }
       ],
@@ -35554,7 +35629,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Peacock",
+          "name": "blackmatrix7/ios_rule_script: Peacock",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Peacock/Peacock.list"
         }
       ],
@@ -35628,7 +35703,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Picacg",
+          "name": "blackmatrix7/ios_rule_script: Picacg",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Picacg/Picacg.list"
         }
       ],
@@ -35702,7 +35777,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Picsee",
+          "name": "blackmatrix7/ios_rule_script: Picsee",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Picsee/Picsee.list"
         }
       ],
@@ -35777,7 +35852,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PikPak",
+          "name": "blackmatrix7/ios_rule_script: PikPak",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PikPak/PikPak.list"
         }
       ],
@@ -35851,7 +35926,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Pinduoduo",
+          "name": "blackmatrix7/ios_rule_script: Pinduoduo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pinduoduo/Pinduoduo.list"
         }
       ],
@@ -35925,7 +36000,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PingAn",
+          "name": "blackmatrix7/ios_rule_script: PingAn",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PingAn/PingAn.list"
         }
       ],
@@ -35999,7 +36074,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Pinterest",
+          "name": "blackmatrix7/ios_rule_script: Pinterest",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pinterest/Pinterest.list"
         }
       ],
@@ -36073,7 +36148,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Pixiv",
+          "name": "blackmatrix7/ios_rule_script: Pixiv",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixiv/Pixiv.list"
         }
       ],
@@ -36147,7 +36222,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Pixnet",
+          "name": "blackmatrix7/ios_rule_script: Pixnet",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixnet/Pixnet.list"
         }
       ],
@@ -36229,7 +36304,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PlayStation",
+          "name": "blackmatrix7/ios_rule_script: PlayStation",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PlayStation/PlayStation.list"
         }
       ],
@@ -36303,7 +36378,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PotatoChat",
+          "name": "blackmatrix7/ios_rule_script: PotatoChat",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PotatoChat/PotatoChat.list"
         }
       ],
@@ -36377,7 +36452,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PPTV",
+          "name": "blackmatrix7/ios_rule_script: PPTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PPTV/PPTV.list"
         }
       ],
@@ -36462,7 +36537,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PrimeVideo",
+          "name": "blackmatrix7/ios_rule_script: PrimeVideo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrimeVideo/PrimeVideo.list"
         }
       ],
@@ -36537,7 +36612,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Privacy",
+          "name": "blackmatrix7/ios_rule_script: Privacy",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Privacy.list"
         }
       ],
@@ -36614,7 +36689,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PrivateTracker",
+          "name": "blackmatrix7/ios_rule_script: PrivateTracker",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrivateTracker/PrivateTracker.list"
         }
       ],
@@ -36688,7 +36763,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Protonmail",
+          "name": "blackmatrix7/ios_rule_script: Protonmail",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Protonmail/Protonmail.list"
         }
       ],
@@ -36766,14 +36841,29 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
+        "DOMAIN-SUFFIX": 26714,
+        "DOMAIN": 116,
         "DOMAIN-KEYWORD": 26,
+        "DOMAIN-REGEX": 158,
         "USER-AGENT": 8,
         "IP-CIDR": 93,
         "IP-CIDR6": 4
       },
       "sources": [
         {
-          "name": "blackmatrix7 Proxy",
+          "name": "v2fly/domain-list-community: geolocation-!cn (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/geolocation-!cn"
+        },
+        {
+          "name": "Loyalsoldier/surge-rules: proxy",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt"
+        },
+        {
+          "name": "Loyalsoldier/v2ray-rules-dat: proxy-list",
+          "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Proxy",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list"
         }
       ],
@@ -36852,7 +36942,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ProxyLite",
+          "name": "blackmatrix7/ios_rule_script: ProxyLite",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ProxyLite/ProxyLite.list"
         }
       ],
@@ -36926,7 +37016,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 PSBC",
+          "name": "blackmatrix7/ios_rule_script: PSBC",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PSBC/PSBC.list"
         }
       ],
@@ -37000,7 +37090,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Pubmatic",
+          "name": "blackmatrix7/ios_rule_script: Pubmatic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pubmatic/Pubmatic.list"
         }
       ],
@@ -37074,7 +37164,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Purikonejp",
+          "name": "blackmatrix7/ios_rule_script: Purikonejp",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Purikonejp/Purikonejp.list"
         }
       ],
@@ -37148,7 +37238,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Python",
+          "name": "blackmatrix7/ios_rule_script: Python",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Python/Python.list"
         }
       ],
@@ -37222,7 +37312,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 QingCloud",
+          "name": "blackmatrix7/ios_rule_script: QingCloud",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QingCloud/QingCloud.list"
         }
       ],
@@ -37296,7 +37386,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 QiNiuYun",
+          "name": "blackmatrix7/ios_rule_script: QiNiuYun",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QiNiuYun/QiNiuYun.list"
         }
       ],
@@ -37371,7 +37461,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Qobuz",
+          "name": "blackmatrix7/ios_rule_script: Qobuz",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qobuz/Qobuz.list"
         }
       ],
@@ -37445,7 +37535,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Qualcomm",
+          "name": "blackmatrix7/ios_rule_script: Qualcomm",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qualcomm/Qualcomm.list"
         }
       ],
@@ -37520,7 +37610,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 QuickConnect",
+          "name": "blackmatrix7/ios_rule_script: QuickConnect",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QuickConnect/QuickConnect.list"
         }
       ],
@@ -37594,7 +37684,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Qyyjt",
+          "name": "blackmatrix7/ios_rule_script: Qyyjt",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qyyjt/Qyyjt.list"
         }
       ],
@@ -37668,7 +37758,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Rakuten",
+          "name": "blackmatrix7/ios_rule_script: Rakuten",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rakuten/Rakuten.list"
         }
       ],
@@ -37742,7 +37832,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Rarbg",
+          "name": "blackmatrix7/ios_rule_script: Rarbg",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rarbg/Rarbg.list"
         }
       ],
@@ -37816,7 +37906,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Razer",
+          "name": "blackmatrix7/ios_rule_script: Razer",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Razer/Razer.list"
         }
       ],
@@ -37890,7 +37980,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Reabble",
+          "name": "blackmatrix7/ios_rule_script: Reabble",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reabble/Reabble.list"
         }
       ],
@@ -37968,11 +38058,15 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 8
+        "DOMAIN-SUFFIX": 15
       },
       "sources": [
         {
-          "name": "blackmatrix7 Reddit",
+          "name": "v2fly/domain-list-community: reddit (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/reddit"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Reddit",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reddit/Reddit.list"
         }
       ],
@@ -38054,7 +38148,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Riot",
+          "name": "blackmatrix7/ios_rule_script: Riot",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Riot/Riot.list"
         }
       ],
@@ -38128,7 +38222,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Rockstar",
+          "name": "blackmatrix7/ios_rule_script: Rockstar",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rockstar/Rockstar.list"
         }
       ],
@@ -38203,7 +38297,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 RTHK",
+          "name": "blackmatrix7/ios_rule_script: RTHK",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/RTHK/RTHK.list"
         }
       ],
@@ -38277,7 +38371,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 RuanMei",
+          "name": "blackmatrix7/ios_rule_script: RuanMei",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/RuanMei/RuanMei.list"
         }
       ],
@@ -38351,7 +38445,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Salesforce",
+          "name": "blackmatrix7/ios_rule_script: Salesforce",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Salesforce/Salesforce.list"
         }
       ],
@@ -38425,7 +38519,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Samsung",
+          "name": "blackmatrix7/ios_rule_script: Samsung",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Samsung/Samsung.list"
         }
       ],
@@ -38499,7 +38593,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Scaleflex",
+          "name": "blackmatrix7/ios_rule_script: Scaleflex",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scaleflex/Scaleflex.list"
         }
       ],
@@ -38574,7 +38668,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Scholar",
+          "name": "blackmatrix7/ios_rule_script: Scholar",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scholar/Scholar.list"
         }
       ],
@@ -38648,7 +38742,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Sectigo",
+          "name": "blackmatrix7/ios_rule_script: Sectigo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sectigo/Sectigo.list"
         }
       ],
@@ -38722,7 +38816,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SFExpress",
+          "name": "blackmatrix7/ios_rule_script: SFExpress",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SFExpress/SFExpress.list"
         }
       ],
@@ -38796,7 +38890,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ShangHaiJuXiao",
+          "name": "blackmatrix7/ios_rule_script: ShangHaiJuXiao",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShangHaiJuXiao/ShangHaiJuXiao.list"
         }
       ],
@@ -38870,7 +38964,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Shanling",
+          "name": "blackmatrix7/ios_rule_script: Shanling",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Shanling/Shanling.list"
         }
       ],
@@ -38944,7 +39038,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Sharethis",
+          "name": "blackmatrix7/ios_rule_script: Sharethis",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sharethis/Sharethis.list"
         }
       ],
@@ -39018,7 +39112,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ShenMa",
+          "name": "blackmatrix7/ios_rule_script: ShenMa",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShenMa/ShenMa.list"
         }
       ],
@@ -39092,7 +39186,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ShiJiChaoXing",
+          "name": "blackmatrix7/ios_rule_script: ShiJiChaoXing",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShiJiChaoXing/ShiJiChaoXing.list"
         }
       ],
@@ -39166,7 +39260,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ShiNongZhiKe",
+          "name": "blackmatrix7/ios_rule_script: ShiNongZhiKe",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShiNongZhiKe/ShiNongZhiKe.list"
         }
       ],
@@ -39240,7 +39334,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Shopee",
+          "name": "blackmatrix7/ios_rule_script: Shopee",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Shopee/Shopee.list"
         }
       ],
@@ -39314,7 +39408,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Shopify",
+          "name": "blackmatrix7/ios_rule_script: Shopify",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Shopify/Shopify.list"
         }
       ],
@@ -39389,7 +39483,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Sina",
+          "name": "blackmatrix7/ios_rule_script: Sina",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina.list"
         }
       ],
@@ -39471,7 +39565,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Siri",
+          "name": "blackmatrix7/ios_rule_script: Siri",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Siri/Siri.list"
         }
       ],
@@ -39547,7 +39641,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SkyGO",
+          "name": "blackmatrix7/ios_rule_script: SkyGO",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SkyGO/SkyGO.list"
         }
       ],
@@ -39629,7 +39723,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Slack",
+          "name": "blackmatrix7/ios_rule_script: Slack",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Slack/Slack.list"
         }
       ],
@@ -39703,7 +39797,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SlideShare",
+          "name": "blackmatrix7/ios_rule_script: SlideShare",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SlideShare/SlideShare.list"
         }
       ],
@@ -39777,7 +39871,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Sling",
+          "name": "blackmatrix7/ios_rule_script: Sling",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sling/Sling.list"
         }
       ],
@@ -39851,7 +39945,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SmarTone",
+          "name": "blackmatrix7/ios_rule_script: SmarTone",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SmarTone/SmarTone.list"
         }
       ],
@@ -39925,7 +40019,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SMG",
+          "name": "blackmatrix7/ios_rule_script: SMG",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SMG/SMG.list"
         }
       ],
@@ -39999,7 +40093,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SMZDM",
+          "name": "blackmatrix7/ios_rule_script: SMZDM",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SMZDM/SMZDM.list"
         }
       ],
@@ -40073,7 +40167,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Snap",
+          "name": "blackmatrix7/ios_rule_script: Snap",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Snap/Snap.list"
         }
       ],
@@ -40147,7 +40241,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Sohu",
+          "name": "blackmatrix7/ios_rule_script: Sohu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sohu/Sohu.list"
         }
       ],
@@ -40222,7 +40316,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Sony",
+          "name": "blackmatrix7/ios_rule_script: Sony",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sony/Sony.list"
         }
       ],
@@ -40296,7 +40390,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SouFang",
+          "name": "blackmatrix7/ios_rule_script: SouFang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SouFang/SouFang.list"
         }
       ],
@@ -40371,7 +40465,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SoundCloud",
+          "name": "blackmatrix7/ios_rule_script: SoundCloud",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SoundCloud/SoundCloud.list"
         }
       ],
@@ -40453,7 +40547,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SourceForge",
+          "name": "blackmatrix7/ios_rule_script: SourceForge",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SourceForge/SourceForge.list"
         }
       ],
@@ -40527,7 +40621,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Spark",
+          "name": "blackmatrix7/ios_rule_script: Spark",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spark/Spark.list"
         }
       ],
@@ -40611,7 +40705,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Speedtest",
+          "name": "blackmatrix7/ios_rule_script: Speedtest",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Speedtest.list"
         }
       ],
@@ -40689,7 +40783,7 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 20,
+        "DOMAIN-SUFFIX": 23,
         "DOMAIN": 6,
         "DOMAIN-KEYWORD": 1,
         "USER-AGENT": 1,
@@ -40698,7 +40792,11 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Spotify",
+          "name": "v2fly/domain-list-community: spotify (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/spotify"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Spotify",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spotify/Spotify.list"
         }
       ],
@@ -40772,7 +40870,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Stackexchange",
+          "name": "blackmatrix7/ios_rule_script: Stackexchange",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Stackexchange/Stackexchange.list"
         }
       ],
@@ -40846,7 +40944,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Starbucks",
+          "name": "blackmatrix7/ios_rule_script: Starbucks",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Starbucks/Starbucks.list"
         }
       ],
@@ -40920,7 +41018,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 StarCraftII",
+          "name": "blackmatrix7/ios_rule_script: StarCraftII",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/StarCraftII/StarCraftII.list"
         }
       ],
@@ -40998,12 +41096,17 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 51,
+        "DOMAIN-SUFFIX": 59,
+        "DOMAIN": 6,
         "DOMAIN-KEYWORD": 3
       },
       "sources": [
         {
-          "name": "blackmatrix7 Steam",
+          "name": "v2fly/domain-list-community: steam (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/steam"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Steam",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list"
         }
       ],
@@ -41086,7 +41189,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SteamCN",
+          "name": "blackmatrix7/ios_rule_script: SteamCN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SteamCN/SteamCN.list"
         }
       ],
@@ -41160,7 +41263,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Stripe",
+          "name": "blackmatrix7/ios_rule_script: Stripe",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Stripe/Stripe.list"
         }
       ],
@@ -41235,7 +41338,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 STUN",
+          "name": "blackmatrix7/ios_rule_script: STUN",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/STUN/STUN.list"
         }
       ],
@@ -41309,7 +41412,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SublimeText",
+          "name": "blackmatrix7/ios_rule_script: SublimeText",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SublimeText/SublimeText.list"
         }
       ],
@@ -41383,7 +41486,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SuiShiChuanMei",
+          "name": "blackmatrix7/ios_rule_script: SuiShiChuanMei",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SuiShiChuanMei/SuiShiChuanMei.list"
         }
       ],
@@ -41457,7 +41560,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SuNing",
+          "name": "blackmatrix7/ios_rule_script: SuNing",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SuNing/SuNing.list"
         }
       ],
@@ -41532,7 +41635,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Supercell",
+          "name": "blackmatrix7/ios_rule_script: Supercell",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Supercell/Supercell.list"
         }
       ],
@@ -41608,7 +41711,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Synology",
+          "name": "blackmatrix7/ios_rule_script: Synology",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Synology/Synology.list"
         }
       ],
@@ -41683,7 +41786,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 SystemOTA",
+          "name": "blackmatrix7/ios_rule_script: SystemOTA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list"
         }
       ],
@@ -41758,7 +41861,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TaiheMusic",
+          "name": "blackmatrix7/ios_rule_script: TaiheMusic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiheMusic/TaiheMusic.list"
         }
       ],
@@ -41832,7 +41935,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TaiKang",
+          "name": "blackmatrix7/ios_rule_script: TaiKang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiKang/TaiKang.list"
         }
       ],
@@ -41908,7 +42011,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TaiWanGood",
+          "name": "blackmatrix7/ios_rule_script: TaiWanGood",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiWanGood/TaiWanGood.list"
         }
       ],
@@ -41982,7 +42085,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TapTap",
+          "name": "blackmatrix7/ios_rule_script: TapTap",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TapTap/TapTap.list"
         }
       ],
@@ -42056,7 +42159,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TCL",
+          "name": "blackmatrix7/ios_rule_script: TCL",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TCL/TCL.list"
         }
       ],
@@ -42130,7 +42233,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Teambition",
+          "name": "blackmatrix7/ios_rule_script: Teambition",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Teambition/Teambition.list"
         }
       ],
@@ -42213,7 +42316,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Teams",
+          "name": "blackmatrix7/ios_rule_script: Teams",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Teams/Teams.list"
         }
       ],
@@ -42289,7 +42392,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TeamViewer",
+          "name": "blackmatrix7/ios_rule_script: TeamViewer",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TeamViewer/TeamViewer.list"
         }
       ],
@@ -42374,31 +42477,27 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 6,
+        "DOMAIN-SUFFIX": 21,
         "DOMAIN-KEYWORD": 1,
         "IP-CIDR": 6,
         "IP-CIDR6": 4
       },
       "sources": [
         {
-          "name": "ACL4SSR Telegram list",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list"
+          "name": "v2fly/domain-list-community: telegram (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/telegram"
         },
         {
-          "name": "ACL4SSR Telegram provider",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml"
-        },
-        {
-          "name": "Hackl0us Telegram",
-          "url": "https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list"
-        },
-        {
-          "name": "Loyalsoldier Telegram CIDR",
+          "name": "Loyalsoldier/surge-rules: telegramcidr",
           "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt"
         },
         {
-          "name": "Loyalsoldier Clash Telegram CIDR",
-          "url": "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt"
+          "name": "ACL4SSR/ACL4SSR: Telegram",
+          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list"
+        },
+        {
+          "name": "Hackl0us/SS-Rule-Snippet: Telegram",
+          "url": "https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list"
         }
       ],
       "files": {
@@ -42472,7 +42571,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TelegramNL",
+          "name": "blackmatrix7/ios_rule_script: TelegramNL",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TelegramNL/TelegramNL.list"
         }
       ],
@@ -42547,7 +42646,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TelegramSG",
+          "name": "blackmatrix7/ios_rule_script: TelegramSG",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TelegramSG/TelegramSG.list"
         }
       ],
@@ -42622,7 +42721,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TelegramUS",
+          "name": "blackmatrix7/ios_rule_script: TelegramUS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TelegramUS/TelegramUS.list"
         }
       ],
@@ -42697,7 +42796,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Tencent",
+          "name": "blackmatrix7/ios_rule_script: Tencent",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tencent/Tencent.list"
         }
       ],
@@ -42774,7 +42873,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TencentVideo",
+          "name": "blackmatrix7/ios_rule_script: TencentVideo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TencentVideo/TencentVideo.list"
         }
       ],
@@ -42848,7 +42947,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TeraBox",
+          "name": "blackmatrix7/ios_rule_script: TeraBox",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TeraBox/TeraBox.list"
         }
       ],
@@ -42922,7 +43021,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Tesla",
+          "name": "blackmatrix7/ios_rule_script: Tesla",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tesla/Tesla.list"
         }
       ],
@@ -43005,7 +43104,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TestFlight",
+          "name": "blackmatrix7/ios_rule_script: TestFlight",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TestFlight/TestFlight.list"
         }
       ],
@@ -43079,7 +43178,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ThomsonReuters",
+          "name": "blackmatrix7/ios_rule_script: ThomsonReuters",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ThomsonReuters/ThomsonReuters.list"
         }
       ],
@@ -43161,7 +43260,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Threads",
+          "name": "blackmatrix7/ios_rule_script: Threads",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Threads/Threads.list"
         }
       ],
@@ -43235,7 +43334,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TianTianKanKan",
+          "name": "blackmatrix7/ios_rule_script: TianTianKanKan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianTianKanKan/TianTianKanKan.list"
         }
       ],
@@ -43309,7 +43408,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TianWeiChengXin",
+          "name": "blackmatrix7/ios_rule_script: TianWeiChengXin",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianWeiChengXin/TianWeiChengXin.list"
         }
       ],
@@ -43383,7 +43482,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TianYaForum",
+          "name": "blackmatrix7/ios_rule_script: TianYaForum",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianYaForum/TianYaForum.list"
         }
       ],
@@ -43458,7 +43557,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TIDAL",
+          "name": "blackmatrix7/ios_rule_script: TIDAL",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TIDAL/TIDAL.list"
         }
       ],
@@ -43532,7 +43631,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TigerFintech",
+          "name": "blackmatrix7/ios_rule_script: TigerFintech",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TigerFintech/TigerFintech.list"
         }
       ],
@@ -43618,20 +43717,16 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TikTok",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
-        },
-        {
-          "name": "ACL4SSR TikTok list",
+          "name": "ACL4SSR/ACL4SSR: TikTok",
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list"
         },
         {
-          "name": "ACL4SSR TikTok provider",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/TikTok.yaml"
+          "name": "LM-Firefly/Rules: TikTok",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/TikTok.list"
         },
         {
-          "name": "LM-Firefly TikTok list",
-          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/TikTok.list"
+          "name": "blackmatrix7/ios_rule_script: TikTok",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
         }
       ],
       "files": {
@@ -43704,7 +43799,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Tmdb",
+          "name": "blackmatrix7/ios_rule_script: Tmdb",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tmdb/Tmdb.list"
         }
       ],
@@ -43778,7 +43873,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TongCheng",
+          "name": "blackmatrix7/ios_rule_script: TongCheng",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TongCheng/TongCheng.list"
         }
       ],
@@ -43852,7 +43947,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TrustWave",
+          "name": "blackmatrix7/ios_rule_script: TrustWave",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TrustWave/TrustWave.list"
         }
       ],
@@ -43926,7 +44021,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TruthSocial",
+          "name": "blackmatrix7/ios_rule_script: TruthSocial",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TruthSocial/TruthSocial.list"
         }
       ],
@@ -44000,7 +44095,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Tumblr",
+          "name": "blackmatrix7/ios_rule_script: Tumblr",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tumblr/Tumblr.list"
         }
       ],
@@ -44076,7 +44171,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TVB",
+          "name": "blackmatrix7/ios_rule_script: TVB",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVB/TVB.list"
         }
       ],
@@ -44151,7 +44246,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 TVer",
+          "name": "blackmatrix7/ios_rule_script: TVer",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVer/TVer.list"
         }
       ],
@@ -44237,7 +44332,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Twitch",
+          "name": "blackmatrix7/ios_rule_script: Twitch",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitch/Twitch.list"
         }
       ],
@@ -44321,7 +44416,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Twitter",
+          "name": "blackmatrix7/ios_rule_script: Twitter",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list"
         }
       ],
@@ -44395,7 +44490,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 U17",
+          "name": "blackmatrix7/ios_rule_script: U17",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/U17/U17.list"
         }
       ],
@@ -44469,7 +44564,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 UBI",
+          "name": "blackmatrix7/ios_rule_script: UBI",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UBI/UBI.list"
         }
       ],
@@ -44551,7 +44646,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Ubisoft",
+          "name": "blackmatrix7/ios_rule_script: Ubisoft",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ubisoft/Ubisoft.list"
         }
       ],
@@ -44625,7 +44720,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Ubuntu",
+          "name": "blackmatrix7/ios_rule_script: Ubuntu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ubuntu/Ubuntu.list"
         }
       ],
@@ -44699,7 +44794,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 UC",
+          "name": "blackmatrix7/ios_rule_script: UC",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC.list"
         }
       ],
@@ -44773,7 +44868,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 UCloud",
+          "name": "blackmatrix7/ios_rule_script: UCloud",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UCloud/UCloud.list"
         }
       ],
@@ -44847,7 +44942,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Udacity",
+          "name": "blackmatrix7/ios_rule_script: Udacity",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Udacity/Udacity.list"
         }
       ],
@@ -44924,7 +45019,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 UKMedia",
+          "name": "blackmatrix7/ios_rule_script: UKMedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UKMedia/UKMedia.list"
         }
       ],
@@ -44998,7 +45093,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 UnionPay",
+          "name": "blackmatrix7/ios_rule_script: UnionPay",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UnionPay/UnionPay.list"
         }
       ],
@@ -45072,7 +45167,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Unity",
+          "name": "blackmatrix7/ios_rule_script: Unity",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Unity/Unity.list"
         }
       ],
@@ -45146,7 +45241,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 UPYun",
+          "name": "blackmatrix7/ios_rule_script: UPYun",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UPYun/UPYun.list"
         }
       ],
@@ -45223,7 +45318,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 USMedia",
+          "name": "blackmatrix7/ios_rule_script: USMedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/USMedia/USMedia.list"
         }
       ],
@@ -45297,7 +45392,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Vancl",
+          "name": "blackmatrix7/ios_rule_script: Vancl",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vancl/Vancl.list"
         }
       ],
@@ -45379,7 +45474,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Vercel",
+          "name": "blackmatrix7/ios_rule_script: Vercel",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vercel/Vercel.list"
         }
       ],
@@ -45453,7 +45548,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Verisign",
+          "name": "blackmatrix7/ios_rule_script: Verisign",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Verisign/Verisign.list"
         }
       ],
@@ -45527,7 +45622,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Verizon",
+          "name": "blackmatrix7/ios_rule_script: Verizon",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Verizon/Verizon.list"
         }
       ],
@@ -45601,7 +45696,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 VidolTV",
+          "name": "blackmatrix7/ios_rule_script: VidolTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VidolTV/VidolTV.list"
         }
       ],
@@ -45675,7 +45770,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 VikACG",
+          "name": "blackmatrix7/ios_rule_script: VikACG",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VikACG/VikACG.list"
         }
       ],
@@ -45749,7 +45844,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Viki",
+          "name": "blackmatrix7/ios_rule_script: Viki",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Viki/Viki.list"
         }
       ],
@@ -45823,7 +45918,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Vimeo",
+          "name": "blackmatrix7/ios_rule_script: Vimeo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vimeo/Vimeo.list"
         }
       ],
@@ -45897,7 +45992,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 VipShop",
+          "name": "blackmatrix7/ios_rule_script: VipShop",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VipShop/VipShop.list"
         }
       ],
@@ -45971,7 +46066,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 VISA",
+          "name": "blackmatrix7/ios_rule_script: VISA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VISA/VISA.list"
         }
       ],
@@ -46047,7 +46142,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ViuTV",
+          "name": "blackmatrix7/ios_rule_script: ViuTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ViuTV/ViuTV.list"
         }
       ],
@@ -46121,7 +46216,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Vivo",
+          "name": "blackmatrix7/ios_rule_script: Vivo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vivo/Vivo.list"
         }
       ],
@@ -46195,7 +46290,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 VK",
+          "name": "blackmatrix7/ios_rule_script: VK",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VK/VK.list"
         }
       ],
@@ -46269,7 +46364,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 VOA",
+          "name": "blackmatrix7/ios_rule_script: VOA",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VOA/VOA.list"
         }
       ],
@@ -46343,7 +46438,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Voxmedia",
+          "name": "blackmatrix7/ios_rule_script: Voxmedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Voxmedia/Voxmedia.list"
         }
       ],
@@ -46417,7 +46512,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 W3schools",
+          "name": "blackmatrix7/ios_rule_script: W3schools",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/W3schools/W3schools.list"
         }
       ],
@@ -46491,7 +46586,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Wanfang",
+          "name": "blackmatrix7/ios_rule_script: Wanfang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wanfang/Wanfang.list"
         }
       ],
@@ -46565,7 +46660,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WangSuKeJi",
+          "name": "blackmatrix7/ios_rule_script: WangSuKeJi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WangSuKeJi/WangSuKeJi.list"
         }
       ],
@@ -46639,7 +46734,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WangXinKeJi",
+          "name": "blackmatrix7/ios_rule_script: WangXinKeJi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WangXinKeJi/WangXinKeJi.list"
         }
       ],
@@ -46713,7 +46808,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WanKaHuanJu",
+          "name": "blackmatrix7/ios_rule_script: WanKaHuanJu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WanKaHuanJu/WanKaHuanJu.list"
         }
       ],
@@ -46787,7 +46882,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WanMeiShiJie",
+          "name": "blackmatrix7/ios_rule_script: WanMeiShiJie",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WanMeiShiJie/WanMeiShiJie.list"
         }
       ],
@@ -46875,7 +46970,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WeChat",
+          "name": "blackmatrix7/ios_rule_script: WeChat",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list"
         }
       ],
@@ -46950,7 +47045,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Weibo",
+          "name": "blackmatrix7/ios_rule_script: Weibo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Weibo/Weibo.list"
         }
       ],
@@ -47024,7 +47119,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WeiZhiYunDong",
+          "name": "blackmatrix7/ios_rule_script: WeiZhiYunDong",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeiZhiYunDong/WeiZhiYunDong.list"
         }
       ],
@@ -47098,7 +47193,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WenJuanXing",
+          "name": "blackmatrix7/ios_rule_script: WenJuanXing",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WenJuanXing/WenJuanXing.list"
         }
       ],
@@ -47172,7 +47267,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Westerndigital",
+          "name": "blackmatrix7/ios_rule_script: Westerndigital",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Westerndigital/Westerndigital.list"
         }
       ],
@@ -47250,7 +47345,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WeTV",
+          "name": "blackmatrix7/ios_rule_script: WeTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeTV/WeTV.list"
         }
       ],
@@ -47324,7 +47419,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WeType",
+          "name": "blackmatrix7/ios_rule_script: WeType",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeType/WeType.list"
         }
       ],
@@ -47409,7 +47504,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Whatsapp",
+          "name": "blackmatrix7/ios_rule_script: Whatsapp",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Whatsapp/Whatsapp.list"
         }
       ],
@@ -47483,7 +47578,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WiFiMaster",
+          "name": "blackmatrix7/ios_rule_script: WiFiMaster",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WiFiMaster/WiFiMaster.list"
         }
       ],
@@ -47557,7 +47652,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Wikimedia",
+          "name": "blackmatrix7/ios_rule_script: Wikimedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wikimedia/Wikimedia.list"
         }
       ],
@@ -47631,7 +47726,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Wikipedia",
+          "name": "blackmatrix7/ios_rule_script: Wikipedia",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wikipedia/Wikipedia.list"
         }
       ],
@@ -47705,7 +47800,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WildRift",
+          "name": "blackmatrix7/ios_rule_script: WildRift",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WildRift/WildRift.list"
         }
       ],
@@ -47779,7 +47874,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WIX",
+          "name": "blackmatrix7/ios_rule_script: WIX",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WIX/WIX.list"
         }
       ],
@@ -47853,7 +47948,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WoLai",
+          "name": "blackmatrix7/ios_rule_script: WoLai",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WoLai/WoLai.list"
         }
       ],
@@ -47927,7 +48022,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Wordpress",
+          "name": "blackmatrix7/ios_rule_script: Wordpress",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wordpress/Wordpress.list"
         }
       ],
@@ -48001,7 +48096,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 WorldofWarcraft",
+          "name": "blackmatrix7/ios_rule_script: WorldofWarcraft",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WorldofWarcraft/WorldofWarcraft.list"
         }
       ],
@@ -48075,7 +48170,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Wteam",
+          "name": "blackmatrix7/ios_rule_script: Wteam",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wteam/Wteam.list"
         }
       ],
@@ -48153,12 +48248,16 @@ window.__RULE_SITE_DATA__ = {
         }
       ],
       "counts": {
-        "DOMAIN-SUFFIX": 38,
-        "DOMAIN": 4
+        "DOMAIN-SUFFIX": 46,
+        "DOMAIN": 6
       },
       "sources": [
         {
-          "name": "blackmatrix7 Xbox",
+          "name": "v2fly/domain-list-community: xbox (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xbox"
+        },
+        {
+          "name": "blackmatrix7/ios_rule_script: Xbox",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Xbox/Xbox.list"
         }
       ],
@@ -48233,7 +48332,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XiamiMusic",
+          "name": "blackmatrix7/ios_rule_script: XiamiMusic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiamiMusic/XiamiMusic.list"
         }
       ],
@@ -48307,7 +48406,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XianYu",
+          "name": "blackmatrix7/ios_rule_script: XianYu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XianYu/XianYu.list"
         }
       ],
@@ -48381,7 +48480,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XiaoGouKeJi",
+          "name": "blackmatrix7/ios_rule_script: XiaoGouKeJi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoGouKeJi/XiaoGouKeJi.list"
         }
       ],
@@ -48455,7 +48554,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XiaoHongShu",
+          "name": "blackmatrix7/ios_rule_script: XiaoHongShu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoHongShu/XiaoHongShu.list"
         }
       ],
@@ -48531,7 +48630,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XiaoMi",
+          "name": "blackmatrix7/ios_rule_script: XiaoMi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoMi/XiaoMi.list"
         }
       ],
@@ -48605,7 +48704,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XiaoYuanKeJi",
+          "name": "blackmatrix7/ios_rule_script: XiaoYuanKeJi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoYuanKeJi/XiaoYuanKeJi.list"
         }
       ],
@@ -48679,7 +48778,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XieCheng",
+          "name": "blackmatrix7/ios_rule_script: XieCheng",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XieCheng/XieCheng.list"
         }
       ],
@@ -48753,7 +48852,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XingKongWuXian",
+          "name": "blackmatrix7/ios_rule_script: XingKongWuXian",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XingKongWuXian/XingKongWuXian.list"
         }
       ],
@@ -48827,7 +48926,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XueErSi",
+          "name": "blackmatrix7/ios_rule_script: XueErSi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XueErSi/XueErSi.list"
         }
       ],
@@ -48901,7 +49000,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 XueQiu",
+          "name": "blackmatrix7/ios_rule_script: XueQiu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XueQiu/XueQiu.list"
         }
       ],
@@ -48976,7 +49075,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Xunlei",
+          "name": "blackmatrix7/ios_rule_script: Xunlei",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Xunlei/Xunlei.list"
         }
       ],
@@ -49052,7 +49151,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Yandex",
+          "name": "blackmatrix7/ios_rule_script: Yandex",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Yandex/Yandex.list"
         }
       ],
@@ -49126,7 +49225,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YiChe",
+          "name": "blackmatrix7/ios_rule_script: YiChe",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YiChe/YiChe.list"
         }
       ],
@@ -49200,7 +49299,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YiXiaKeJi",
+          "name": "blackmatrix7/ios_rule_script: YiXiaKeJi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YiXiaKeJi/YiXiaKeJi.list"
         }
       ],
@@ -49274,7 +49373,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YiZhiBo",
+          "name": "blackmatrix7/ios_rule_script: YiZhiBo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YiZhiBo/YiZhiBo.list"
         }
       ],
@@ -49350,7 +49449,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Youku",
+          "name": "blackmatrix7/ios_rule_script: Youku",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list"
         }
       ],
@@ -49424,7 +49523,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YouMengChuangXiang",
+          "name": "blackmatrix7/ios_rule_script: YouMengChuangXiang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouMengChuangXiang/YouMengChuangXiang.list"
         }
       ],
@@ -49503,6 +49602,7 @@ window.__RULE_SITE_DATA__ = {
       ],
       "counts": {
         "DOMAIN-SUFFIX": 179,
+        "DOMAIN": 1,
         "DOMAIN-KEYWORD": 1,
         "USER-AGENT": 7,
         "IP-CIDR": 2,
@@ -49510,20 +49610,20 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YouTube",
-          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list"
+          "name": "v2fly/domain-list-community: youtube (geosite)",
+          "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/youtube"
         },
         {
-          "name": "ACL4SSR YouTube list",
+          "name": "ACL4SSR/ACL4SSR: YouTube",
           "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list"
         },
         {
-          "name": "ACL4SSR YouTube provider",
-          "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml"
+          "name": "LM-Firefly/Rules: YouTube",
+          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/YouTube.list"
         },
         {
-          "name": "LM-Firefly YouTube list",
-          "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/YouTube.list"
+          "name": "blackmatrix7/ios_rule_script: YouTube",
+          "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list"
         }
       ],
       "files": {
@@ -49605,7 +49705,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YouTubeMusic",
+          "name": "blackmatrix7/ios_rule_script: YouTubeMusic",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list"
         }
       ],
@@ -49679,7 +49779,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YouZan",
+          "name": "blackmatrix7/ios_rule_script: YouZan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouZan/YouZan.list"
         }
       ],
@@ -49753,7 +49853,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YuanFuDao",
+          "name": "blackmatrix7/ios_rule_script: YuanFuDao",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YuanFuDao/YuanFuDao.list"
         }
       ],
@@ -49827,7 +49927,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YunFanJiaSu",
+          "name": "blackmatrix7/ios_rule_script: YunFanJiaSu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YunFanJiaSu/YunFanJiaSu.list"
         }
       ],
@@ -49901,7 +50001,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 YYeTs",
+          "name": "blackmatrix7/ios_rule_script: YYeTs",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YYeTs/YYeTs.list"
         }
       ],
@@ -49975,7 +50075,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Zalo",
+          "name": "blackmatrix7/ios_rule_script: Zalo",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zalo/Zalo.list"
         }
       ],
@@ -50049,7 +50149,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZDNS",
+          "name": "blackmatrix7/ios_rule_script: ZDNS",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZDNS/ZDNS.list"
         }
       ],
@@ -50123,7 +50223,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Zee",
+          "name": "blackmatrix7/ios_rule_script: Zee",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zee/Zee.list"
         }
       ],
@@ -50197,7 +50297,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZeeTV",
+          "name": "blackmatrix7/ios_rule_script: ZeeTV",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZeeTV/ZeeTV.list"
         }
       ],
@@ -50271,7 +50371,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Zendesk",
+          "name": "blackmatrix7/ios_rule_script: Zendesk",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zendesk/Zendesk.list"
         }
       ],
@@ -50345,7 +50445,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZhangYue",
+          "name": "blackmatrix7/ios_rule_script: ZhangYue",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhangYue/ZhangYue.list"
         }
       ],
@@ -50419,7 +50519,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 zhanqi",
+          "name": "blackmatrix7/ios_rule_script: zhanqi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/zhanqi/zhanqi.list"
         }
       ],
@@ -50495,7 +50595,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Zhihu",
+          "name": "blackmatrix7/ios_rule_script: Zhihu",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list"
         }
       ],
@@ -50573,7 +50673,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZhihuAds",
+          "name": "blackmatrix7/ios_rule_script: ZhihuAds",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhihuAds/ZhihuAds.list"
         }
       ],
@@ -50647,7 +50747,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZhiYinManKe",
+          "name": "blackmatrix7/ios_rule_script: ZhiYinManKe",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhiYinManKe/ZhiYinManKe.list"
         }
       ],
@@ -50721,7 +50821,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZhiYunZhong",
+          "name": "blackmatrix7/ios_rule_script: ZhiYunZhong",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhiYunZhong/ZhiYunZhong.list"
         }
       ],
@@ -50795,7 +50895,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZhongGuoShiHua",
+          "name": "blackmatrix7/ios_rule_script: ZhongGuoShiHua",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongGuoShiHua/ZhongGuoShiHua.list"
         }
       ],
@@ -50869,7 +50969,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZhongWeiShiJi",
+          "name": "blackmatrix7/ios_rule_script: ZhongWeiShiJi",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongWeiShiJi/ZhongWeiShiJi.list"
         }
       ],
@@ -50943,7 +51043,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZhongXingTongXun",
+          "name": "blackmatrix7/ios_rule_script: ZhongXingTongXun",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongXingTongXun/ZhongXingTongXun.list"
         }
       ],
@@ -51017,7 +51117,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZhongYuanYiShang",
+          "name": "blackmatrix7/ios_rule_script: ZhongYuanYiShang",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongYuanYiShang/ZhongYuanYiShang.list"
         }
       ],
@@ -51091,7 +51191,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 ZhuanZhuan",
+          "name": "blackmatrix7/ios_rule_script: ZhuanZhuan",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhuanZhuan/ZhuanZhuan.list"
         }
       ],
@@ -51165,7 +51265,7 @@ window.__RULE_SITE_DATA__ = {
       },
       "sources": [
         {
-          "name": "blackmatrix7 Zoho",
+          "name": "blackmatrix7/ios_rule_script: Zoho",
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zoho/Zoho.list"
         }
       ],

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BOCOM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOCOM/BOCOM.list)
+- [blackmatrix7/ios_rule_script: BOCOM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOCOM/BOCOM.list)
 
 <details>
 <summary>English</summary>

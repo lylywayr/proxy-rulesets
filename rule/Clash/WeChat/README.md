@@ -43,7 +43,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 WeChat](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list)
+- [blackmatrix7/ios_rule_script: WeChat](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list)
 
 <details>
 <summary>English</summary>

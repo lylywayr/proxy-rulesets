@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Niconico](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Niconico/Niconico.list)
+- [blackmatrix7/ios_rule_script: Niconico](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Niconico/Niconico.list)
 
 <details>
 <summary>English</summary>

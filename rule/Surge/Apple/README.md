@@ -14,9 +14,9 @@ Apple 生态、App Store、iCloud 与 TestFlight。
 
 ### 规则统计
 
-- 总数：`81`
-- `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 68
+- 总数：`1557`
+- `DOMAIN`: 6
+- `DOMAIN-SUFFIX`: 1539
 - `DOMAIN-KEYWORD`: 1
 - `PROCESS-NAME`: 1
 - `IP-CIDR`: 10
@@ -41,12 +41,13 @@ Apple 生态、App Store、iCloud 与 TestFlight。
 
 ### 数据来源
 
-- [ACL4SSR Apple list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list)
-- [Loyalsoldier Apple](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt)
-- [Loyalsoldier iCloud](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt)
-- [blackmatrix7 AppStore source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppStore/AppStore.list)
-- [blackmatrix7 TestFlight source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list)
-- [blackmatrix7 AppleBlock source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list)
+- [v2fly/domain-list-community: apple (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/apple)
+- [Loyalsoldier/surge-rules: apple](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt)
+- [Loyalsoldier/surge-rules: icloud](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt)
+- [ACL4SSR/ACL4SSR: Apple](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list)
+- [blackmatrix7/ios_rule_script: AppleBlock](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list)
+- [blackmatrix7/ios_rule_script: AppStore](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppStore/AppStore.list)
+- [blackmatrix7/ios_rule_script: TestFlight](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list)
 
 <details>
 <summary>English</summary>

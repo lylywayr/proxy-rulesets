@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Jsdelivr](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jsdelivr/Jsdelivr.list)
+- [blackmatrix7/ios_rule_script: Jsdelivr](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jsdelivr/Jsdelivr.list)
 
 <details>
 <summary>English</summary>

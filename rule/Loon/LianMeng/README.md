@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LianMeng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LianMeng/LianMeng.list)
+- [blackmatrix7/ios_rule_script: LianMeng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LianMeng/LianMeng.list)
 
 <details>
 <summary>English</summary>

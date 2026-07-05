@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ALJazeera](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ALJazeera/ALJazeera.list)
+- [blackmatrix7/ios_rule_script: ALJazeera](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ALJazeera/ALJazeera.list)
 
 <details>
 <summary>English</summary>

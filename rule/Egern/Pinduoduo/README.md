@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Pinduoduo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pinduoduo/Pinduoduo.list)
+- [blackmatrix7/ios_rule_script: Pinduoduo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pinduoduo/Pinduoduo.list)
 
 <details>
 <summary>English</summary>

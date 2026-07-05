@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Global](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list)
+- [blackmatrix7/ios_rule_script: Global](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list)
 
 <details>
 <summary>English</summary>

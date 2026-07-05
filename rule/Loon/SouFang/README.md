@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 SouFang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SouFang/SouFang.list)
+- [blackmatrix7/ios_rule_script: SouFang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SouFang/SouFang.list)
 
 <details>
 <summary>English</summary>

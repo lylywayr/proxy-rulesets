@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AnTianKeJi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AnTianKeJi/AnTianKeJi.list)
+- [blackmatrix7/ios_rule_script: AnTianKeJi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AnTianKeJi/AnTianKeJi.list)
 
 <details>
 <summary>English</summary>

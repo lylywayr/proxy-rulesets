@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 PikPak](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PikPak/PikPak.list)
+- [blackmatrix7/ios_rule_script: PikPak](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PikPak/PikPak.list)
 
 <details>
 <summary>English</summary>

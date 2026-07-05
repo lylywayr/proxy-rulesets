@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Blued](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Blued/Blued.list)
+- [blackmatrix7/ios_rule_script: Blued](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Blued/Blued.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ATTWatchTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ATTWatchTV/ATTWatchTV.list)
+- [blackmatrix7/ios_rule_script: ATTWatchTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ATTWatchTV/ATTWatchTV.list)
 
 <details>
 <summary>English</summary>

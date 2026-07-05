@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LuDaShi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LuDaShi/LuDaShi.list)
+- [blackmatrix7/ios_rule_script: LuDaShi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LuDaShi/LuDaShi.list)
 
 <details>
 <summary>English</summary>

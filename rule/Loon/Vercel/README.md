@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Vercel](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vercel/Vercel.list)
+- [blackmatrix7/ios_rule_script: Vercel](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vercel/Vercel.list)
 
 <details>
 <summary>English</summary>

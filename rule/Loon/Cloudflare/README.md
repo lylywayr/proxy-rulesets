@@ -15,8 +15,8 @@
 
 ### 规则统计
 
-- 总数：`65`
-- `DOMAIN-SUFFIX`: 43
+- 总数：`96`
+- `DOMAIN-SUFFIX`: 74
 - `IP-CIDR`: 15
 - `IP-CIDR6`: 7
 
@@ -40,7 +40,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 Cloudflare](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflare/Cloudflare.list)
+- [v2fly/domain-list-community: cloudflare (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/cloudflare)
+- [blackmatrix7/ios_rule_script: Cloudflare](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflare/Cloudflare.list)
 
 <details>
 <summary>English</summary>

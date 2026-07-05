@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 QiNiuYun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QiNiuYun/QiNiuYun.list)
+- [blackmatrix7/ios_rule_script: QiNiuYun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QiNiuYun/QiNiuYun.list)
 
 <details>
 <summary>English</summary>

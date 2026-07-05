@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Qualcomm](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qualcomm/Qualcomm.list)
+- [blackmatrix7/ios_rule_script: Qualcomm](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qualcomm/Qualcomm.list)
 
 <details>
 <summary>English</summary>

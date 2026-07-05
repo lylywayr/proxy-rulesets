@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Sony](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sony/Sony.list)
+- [blackmatrix7/ios_rule_script: Sony](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sony/Sony.list)
 
 <details>
 <summary>English</summary>

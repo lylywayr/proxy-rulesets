@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Youku](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list)
+- [blackmatrix7/ios_rule_script: Youku](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list)
 
 <details>
 <summary>English</summary>

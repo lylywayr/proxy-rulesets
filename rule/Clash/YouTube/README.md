@@ -14,7 +14,8 @@ YouTube 与 YouTube Music 相关规则。
 
 ### 规则统计
 
-- 总数：`190`
+- 总数：`191`
+- `DOMAIN`: 1
 - `DOMAIN-SUFFIX`: 179
 - `DOMAIN-KEYWORD`: 1
 - `USER-AGENT`: 7
@@ -41,10 +42,10 @@ YouTube 与 YouTube Music 相关规则。
 
 ### 数据来源
 
-- [blackmatrix7 YouTube](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list)
-- [ACL4SSR YouTube list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list)
-- [ACL4SSR YouTube provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml)
-- [LM-Firefly YouTube list](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/YouTube.list)
+- [v2fly/domain-list-community: youtube (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/youtube)
+- [ACL4SSR/ACL4SSR: YouTube](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list)
+- [LM-Firefly/Rules: YouTube](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/YouTube.list)
+- [blackmatrix7/ios_rule_script: YouTube](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Actalis](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Actalis/Actalis.list)
+- [blackmatrix7/ios_rule_script: Actalis](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Actalis/Actalis.list)
 
 <details>
 <summary>English</summary>

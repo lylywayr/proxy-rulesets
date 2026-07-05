@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Peacock](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Peacock/Peacock.list)
+- [blackmatrix7/ios_rule_script: Peacock](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Peacock/Peacock.list)
 
 <details>
 <summary>English</summary>

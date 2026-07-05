@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Reabble](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reabble/Reabble.list)
+- [blackmatrix7/ios_rule_script: Reabble](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reabble/Reabble.list)
 
 <details>
 <summary>English</summary>

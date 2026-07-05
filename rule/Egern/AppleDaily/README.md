@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppleDaily](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleDaily/AppleDaily.list)
+- [blackmatrix7/ios_rule_script: AppleDaily](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleDaily/AppleDaily.list)
 
 <details>
 <summary>English</summary>

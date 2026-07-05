@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Rarbg](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rarbg/Rarbg.list)
+- [blackmatrix7/ios_rule_script: Rarbg](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rarbg/Rarbg.list)
 
 <details>
 <summary>English</summary>

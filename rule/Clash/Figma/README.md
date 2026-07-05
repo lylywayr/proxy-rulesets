@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Figma](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Figma/Figma.list)
+- [blackmatrix7/ios_rule_script: Figma](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Figma/Figma.list)
 
 <details>
 <summary>English</summary>

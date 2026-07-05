@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 KakaoTalk](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KakaoTalk/KakaoTalk.list)
+- [blackmatrix7/ios_rule_script: KakaoTalk](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KakaoTalk/KakaoTalk.list)
 
 <details>
 <summary>English</summary>

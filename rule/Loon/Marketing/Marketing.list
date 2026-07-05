@@ -1,56 +1,56 @@
 # NAME: Marketing
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:47.148466+00:00
+# UPDATED: 2026-07-05T06:32:07.984161+00:00
 # DOMAIN-SUFFIX: 56
 # TOTAL: 56
 
-DOMAIN-SUFFIX,zhzzx.com
 DOMAIN-SUFFIX,cjmkt.com
-DOMAIN-SUFFIX,yihuifu.cn
+DOMAIN-SUFFIX,zhzzx.com
 DOMAIN-SUFFIX,mairuan.cn
+DOMAIN-SUFFIX,yihuifu.cn
 DOMAIN-SUFFIX,keyshot.cc
-DOMAIN-SUFFIX,mathtype.cn
-DOMAIN-SUFFIX,mairuan.net
 DOMAIN-SUFFIX,mairuan.com
 DOMAIN-SUFFIX,imindmap.cc
-DOMAIN-SUFFIX,zbrushcn.com
-DOMAIN-SUFFIX,guitarpro.cc
-DOMAIN-SUFFIX,makeding.com
-DOMAIN-SUFFIX,ultraiso.net
-DOMAIN-SUFFIX,kingdeecn.cn
+DOMAIN-SUFFIX,mairuan.net
+DOMAIN-SUFFIX,mathtype.cn
 DOMAIN-SUFFIX,pdfexpert.cc
+DOMAIN-SUFFIX,zbrushcn.com
+DOMAIN-SUFFIX,formysql.com
 DOMAIN-SUFFIX,nicelabel.cc
+DOMAIN-SUFFIX,guitarpro.cc
+DOMAIN-SUFFIX,ultraiso.net
 DOMAIN-SUFFIX,bartender.cc
 DOMAIN-SUFFIX,xshellcn.com
-DOMAIN-SUFFIX,formysql.com
-DOMAIN-SUFFIX,ntfsformac.cn
-DOMAIN-SUFFIX,hypersnap.net
+DOMAIN-SUFFIX,kingdeecn.cn
+DOMAIN-SUFFIX,makeding.com
+DOMAIN-SUFFIX,mindmapper.cc
 DOMAIN-SUFFIX,betterzip.net
 DOMAIN-SUFFIX,ntfsformac.cc
-DOMAIN-SUFFIX,mindmapper.cc
+DOMAIN-SUFFIX,ntfsformac.cn
+DOMAIN-SUFFIX,hypersnap.net
 DOMAIN-SUFFIX,vegaschina.cn
-DOMAIN-SUFFIX,mindmanager.cn
 DOMAIN-SUFFIX,ediuschina.com
-DOMAIN-SUFFIX,4009997658.com
-DOMAIN-SUFFIX,abbyychina.com
+DOMAIN-SUFFIX,mindmanager.cn
 DOMAIN-SUFFIX,cjmakeding.com
 DOMAIN-SUFFIX,xmindchina.net
+DOMAIN-SUFFIX,abbyychina.com
+DOMAIN-SUFFIX,4009997658.com
 DOMAIN-SUFFIX,mindmanager.cc
 DOMAIN-SUFFIX,iconworkshop.cn
 DOMAIN-SUFFIX,dongmansoft.com
-DOMAIN-SUFFIX,mairuanwang.com
 DOMAIN-SUFFIX,betterzipcn.com
-DOMAIN-SUFFIX,logoshejishi.com
-DOMAIN-SUFFIX,mycleanmymac.com
+DOMAIN-SUFFIX,mairuanwang.com
 DOMAIN-SUFFIX,beyondcompare.cc
+DOMAIN-SUFFIX,mycleanmymac.com
+DOMAIN-SUFFIX,logoshejishi.com
 DOMAIN-SUFFIX,flstudiochina.com
-DOMAIN-SUFFIX,overturechina.com
 DOMAIN-SUFFIX,codesoftchina.com
 DOMAIN-SUFFIX,earmasterchina.cn
+DOMAIN-SUFFIX,overturechina.com
+DOMAIN-SUFFIX,shankejingling.com
 DOMAIN-SUFFIX,photozoomchina.com
 DOMAIN-SUFFIX,coreldrawchina.com
 DOMAIN-SUFFIX,crossoverchina.com
-DOMAIN-SUFFIX,shankejingling.com
 DOMAIN-SUFFIX,yuanchengxiezuo.com
 DOMAIN-SUFFIX,bingdianhuanyuan.cn
 DOMAIN-SUFFIX,passwordrecovery.cn

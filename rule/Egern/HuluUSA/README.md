@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HuluUSA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuluUSA/HuluUSA.list)
+- [blackmatrix7/ios_rule_script: HuluUSA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuluUSA/HuluUSA.list)
 
 <details>
 <summary>English</summary>

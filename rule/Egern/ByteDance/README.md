@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ByteDance](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list)
+- [blackmatrix7/ios_rule_script: ByteDance](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list)
 
 <details>
 <summary>English</summary>

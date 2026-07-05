@@ -14,9 +14,9 @@ Claude 服务规则。
 
 ### 规则统计
 
-- 总数：`3`
-- `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 2
+- 总数：`9`
+- `DOMAIN`: 2
+- `DOMAIN-SUFFIX`: 7
 
 ### 使用说明
 
@@ -38,7 +38,8 @@ Claude 服务规则。
 
 ### 数据来源
 
-- [blackmatrix7 Claude](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list)
+- [v2fly/domain-list-community: anthropic (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/anthropic)
+- [blackmatrix7/ios_rule_script: Claude](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list)
 
 <details>
 <summary>English</summary>

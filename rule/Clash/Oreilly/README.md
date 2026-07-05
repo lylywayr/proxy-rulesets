@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Oreilly](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oreilly/Oreilly.list)
+- [blackmatrix7/ios_rule_script: Oreilly](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oreilly/Oreilly.list)
 
 <details>
 <summary>English</summary>

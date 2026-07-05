@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Contentful](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Contentful/Contentful.list)
+- [blackmatrix7/ios_rule_script: Contentful](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Contentful/Contentful.list)
 
 <details>
 <summary>English</summary>

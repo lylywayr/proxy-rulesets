@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Mailru](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mailru/Mailru.list)
+- [blackmatrix7/ios_rule_script: Mailru](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mailru/Mailru.list)
 
 <details>
 <summary>English</summary>

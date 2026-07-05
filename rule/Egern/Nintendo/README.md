@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Nintendo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nintendo/Nintendo.list)
+- [blackmatrix7/ios_rule_script: Nintendo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nintendo/Nintendo.list)
 
 <details>
 <summary>English</summary>

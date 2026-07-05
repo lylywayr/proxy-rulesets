@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Hijacking](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hijacking/Hijacking.list)
+- [blackmatrix7/ios_rule_script: Hijacking](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hijacking/Hijacking.list)
 
 <details>
 <summary>English</summary>

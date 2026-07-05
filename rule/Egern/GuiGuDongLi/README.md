@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GuiGuDongLi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GuiGuDongLi/GuiGuDongLi.list)
+- [blackmatrix7/ios_rule_script: GuiGuDongLi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GuiGuDongLi/GuiGuDongLi.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ZhiYinManKe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhiYinManKe/ZhiYinManKe.list)
+- [blackmatrix7/ios_rule_script: ZhiYinManKe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhiYinManKe/ZhiYinManKe.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Ku6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ku6/Ku6.list)
+- [blackmatrix7/ios_rule_script: Ku6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ku6/Ku6.list)
 
 <details>
 <summary>English</summary>

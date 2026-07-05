@@ -1,44 +1,51 @@
 # NAME: OpenAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:51.261331+00:00
+# UPDATED: 2026-07-05T06:32:22.818969+00:00
 no_resolve: true
 domain_set:
   - "browser-intake-datadoghq.com"
-  - "chat.openai.com.cdn.cloudflare.net"
   - "openai-api.arkoselabs.com"
+  - "openai.qualtrics.com"
+  - "openaiassets.blob.core.windows.net"
   - "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
   - "openaicomproductionae4b.blob.core.windows.net"
   - "production-openaicom-storage.azureedge.net"
   - "static.cloudflareinsights.com"
 domain_suffix_set:
   - "ai.com"
+  - "chat.com"
   - "sora.com"
   - "sentry.io"
   - "auth0.com"
-  - "stripe.com"
   - "segment.io"
+  - "stripe.com"
   - "openai.com"
+  - "crixet.com"
+  - "algolia.net"
   - "intercom.io"
   - "chatgpt.com"
-  - "algolia.net"
-  - "identrust.com"
-  - "observeit.net"
   - "oaistatic.com"
+  - "observeit.net"
+  - "identrust.com"
+  - "oaistatsig.com"
   - "intercomcdn.com"
-  - "launchdarkly.com"
   - "featuregates.org"
+  - "launchdarkly.com"
   - "oaiusercontent.com"
   - "api.statsig.com"
-  - "host.livekit.cloud"
   - "turn.livekit.cloud"
+  - "host.livekit.cloud"
   - "openaicom.imgix.net"
   - "chatgpt.livekit.cloud"
   - "events.statsigapi.net"
-  - "challenges.cloudflare.com"
   - "client-api.arkoselabs.com"
+  - "challenges.cloudflare.com"
   - "openaiapi-site.azureedge.net"
+  - "openai.com.cdn.cloudflare.net"
 domain_keyword_set:
   - "openai"
+domain_regex_set:
+  - "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"
 asn_set:
   - "20473"
 ip_cidr_set:

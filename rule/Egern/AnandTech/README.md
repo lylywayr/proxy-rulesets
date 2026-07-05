@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AnandTech](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AnandTech/AnandTech.list)
+- [blackmatrix7/ios_rule_script: AnandTech](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AnandTech/AnandTech.list)
 
 <details>
 <summary>English</summary>

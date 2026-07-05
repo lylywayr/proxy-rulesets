@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Qobuz](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qobuz/Qobuz.list)
+- [blackmatrix7/ios_rule_script: Qobuz](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qobuz/Qobuz.list)
 
 <details>
 <summary>English</summary>

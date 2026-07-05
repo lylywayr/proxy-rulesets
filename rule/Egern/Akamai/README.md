@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Akamai](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Akamai/Akamai.list)
+- [blackmatrix7/ios_rule_script: Akamai](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Akamai/Akamai.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Mogujie](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mogujie/Mogujie.list)
+- [blackmatrix7/ios_rule_script: Mogujie](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mogujie/Mogujie.list)
 
 <details>
 <summary>English</summary>

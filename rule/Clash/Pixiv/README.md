@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Pixiv](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixiv/Pixiv.list)
+- [blackmatrix7/ios_rule_script: Pixiv](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixiv/Pixiv.list)
 
 <details>
 <summary>English</summary>

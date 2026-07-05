@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 KuangShi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuangShi/KuangShi.list)
+- [blackmatrix7/ios_rule_script: KuangShi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuangShi/KuangShi.list)
 
 <details>
 <summary>English</summary>

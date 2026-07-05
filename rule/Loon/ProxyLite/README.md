@@ -42,7 +42,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ProxyLite](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ProxyLite/ProxyLite.list)
+- [blackmatrix7/ios_rule_script: ProxyLite](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ProxyLite/ProxyLite.list)
 
 <details>
 <summary>English</summary>

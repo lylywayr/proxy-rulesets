@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 NivodTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NivodTV/NivodTV.list)
+- [blackmatrix7/ios_rule_script: NivodTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NivodTV/NivodTV.list)
 
 <details>
 <summary>English</summary>

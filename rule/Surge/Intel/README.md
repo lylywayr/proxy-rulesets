@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Intel](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Intel/Intel.list)
+- [blackmatrix7/ios_rule_script: Intel](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Intel/Intel.list)
 
 <details>
 <summary>English</summary>

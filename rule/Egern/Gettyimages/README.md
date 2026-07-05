@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Gettyimages](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gettyimages/Gettyimages.list)
+- [blackmatrix7/ios_rule_script: Gettyimages](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gettyimages/Gettyimages.list)
 
 <details>
 <summary>English</summary>

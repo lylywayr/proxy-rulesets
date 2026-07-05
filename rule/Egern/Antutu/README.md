@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Antutu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Antutu/Antutu.list)
+- [blackmatrix7/ios_rule_script: Antutu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Antutu/Antutu.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 YouTubeMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list)
+- [blackmatrix7/ios_rule_script: YouTubeMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Olevod](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Olevod/Olevod.list)
+- [blackmatrix7/ios_rule_script: Olevod](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Olevod/Olevod.list)
 
 <details>
 <summary>English</summary>

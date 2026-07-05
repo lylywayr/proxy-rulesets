@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Maocloud](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Maocloud/Maocloud.list)
+- [blackmatrix7/ios_rule_script: Maocloud](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Maocloud/Maocloud.list)
 
 <details>
 <summary>English</summary>

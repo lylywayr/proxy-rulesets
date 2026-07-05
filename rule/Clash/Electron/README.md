@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Electron](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Electron/Electron.list)
+- [blackmatrix7/ios_rule_script: Electron](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Electron/Electron.list)
 
 <details>
 <summary>English</summary>

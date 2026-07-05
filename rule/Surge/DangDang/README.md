@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DangDang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DangDang/DangDang.list)
+- [blackmatrix7/ios_rule_script: DangDang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DangDang/DangDang.list)
 
 <details>
 <summary>English</summary>

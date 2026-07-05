@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaIPsBGP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPsBGP/ChinaIPsBGP.list)
+- [blackmatrix7/ios_rule_script: ChinaIPsBGP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPsBGP/ChinaIPsBGP.list)
 
 <details>
 <summary>English</summary>

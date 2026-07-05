@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TigerFintech](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TigerFintech/TigerFintech.list)
+- [blackmatrix7/ios_rule_script: TigerFintech](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TigerFintech/TigerFintech.list)
 
 <details>
 <summary>English</summary>

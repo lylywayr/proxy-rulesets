@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Agora](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Agora/Agora.list)
+- [blackmatrix7/ios_rule_script: Agora](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Agora/Agora.list)
 
 <details>
 <summary>English</summary>

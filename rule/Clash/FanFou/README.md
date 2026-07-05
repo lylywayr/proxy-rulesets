@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 FanFou](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FanFou/FanFou.list)
+- [blackmatrix7/ios_rule_script: FanFou](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FanFou/FanFou.list)
 
 <details>
 <summary>English</summary>

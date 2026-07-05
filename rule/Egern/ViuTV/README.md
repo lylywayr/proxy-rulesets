@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ViuTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ViuTV/ViuTV.list)
+- [blackmatrix7/ios_rule_script: ViuTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ViuTV/ViuTV.list)
 
 <details>
 <summary>English</summary>

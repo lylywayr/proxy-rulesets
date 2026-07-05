@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 MeiTuan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTuan/MeiTuan.list)
+- [blackmatrix7/ios_rule_script: MeiTuan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTuan/MeiTuan.list)
 
 <details>
 <summary>English</summary>

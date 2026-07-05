@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 MingLueZhaoHui](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MingLueZhaoHui/MingLueZhaoHui.list)
+- [blackmatrix7/ios_rule_script: MingLueZhaoHui](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MingLueZhaoHui/MingLueZhaoHui.list)
 
 <details>
 <summary>English</summary>

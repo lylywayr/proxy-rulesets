@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Anjuke](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anjuke/Anjuke.list)
+- [blackmatrix7/ios_rule_script: Anjuke](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anjuke/Anjuke.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Civitai](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Civitai/Civitai.list)
+- [blackmatrix7/ios_rule_script: Civitai](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Civitai/Civitai.list)
 
 <details>
 <summary>English</summary>

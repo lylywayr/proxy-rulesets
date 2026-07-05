@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CCB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCB/CCB.list)
+- [blackmatrix7/ios_rule_script: CCB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCB/CCB.list)
 
 <details>
 <summary>English</summary>

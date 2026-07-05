@@ -1,10 +1,10 @@
 # NAME: ChinaNoMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:04:20.039371+00:00
+# UPDATED: 2026-07-05T06:22:04.631981+00:00
 no_resolve: true
 domain_suffix_set:
-  - "ms"
   - "cn"
+  - "ms"
 domain_keyword_set:
   - ".tmall.com"
   - "alicdn"

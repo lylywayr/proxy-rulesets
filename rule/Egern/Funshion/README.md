@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Funshion](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Funshion/Funshion.list)
+- [blackmatrix7/ios_rule_script: Funshion](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Funshion/Funshion.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Overcast](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Overcast/Overcast.list)
+- [blackmatrix7/ios_rule_script: Overcast](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Overcast/Overcast.list)
 
 <details>
 <summary>English</summary>

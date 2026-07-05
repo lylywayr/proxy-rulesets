@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TCL](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TCL/TCL.list)
+- [blackmatrix7/ios_rule_script: TCL](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TCL/TCL.list)
 
 <details>
 <summary>English</summary>

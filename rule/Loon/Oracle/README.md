@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Oracle](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oracle/Oracle.list)
+- [blackmatrix7/ios_rule_script: Oracle](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oracle/Oracle.list)
 
 <details>
 <summary>English</summary>

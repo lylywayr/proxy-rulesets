@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Eleme](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Eleme/Eleme.list)
+- [blackmatrix7/ios_rule_script: Eleme](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Eleme/Eleme.list)
 
 <details>
 <summary>English</summary>

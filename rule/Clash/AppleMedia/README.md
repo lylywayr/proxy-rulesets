@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppleMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMedia/AppleMedia.list)
+- [blackmatrix7/ios_rule_script: AppleMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMedia/AppleMedia.list)
 
 <details>
 <summary>English</summary>

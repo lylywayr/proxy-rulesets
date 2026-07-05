@@ -14,9 +14,10 @@
 
 ### 规则统计
 
-- 总数：`117855`
-- `DOMAIN`: 413
-- `DOMAIN-SUFFIX`: 111755
+- 总数：`118374`
+- `DOMAIN`: 420
+- `DOMAIN-SUFFIX`: 112264
+- `DOMAIN-REGEX`: 3
 - `IP-CIDR`: 4217
 - `IP-CIDR6`: 1470
 
@@ -41,9 +42,11 @@
 
 ### 数据来源
 
-- [blackmatrix7 China source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list)
-- [Loyalsoldier direct domains](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt)
-- [Loyalsoldier CN CIDR](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt)
+- [v2fly/domain-list-community: cn (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/cn)
+- [Loyalsoldier/surge-rules: cncidr](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt)
+- [Loyalsoldier/surge-rules: direct](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt)
+- [felixonmars/dnsmasq-china-list: accelerated-domains.china.conf](https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf)
+- [blackmatrix7/ios_rule_script: China](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list)
 
 <details>
 <summary>English</summary>

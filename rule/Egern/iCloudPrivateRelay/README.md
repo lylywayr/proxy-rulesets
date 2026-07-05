@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 iCloudPrivateRelay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iCloudPrivateRelay/iCloudPrivateRelay.list)
+- [blackmatrix7/ios_rule_script: iCloudPrivateRelay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iCloudPrivateRelay/iCloudPrivateRelay.list)
 
 <details>
 <summary>English</summary>

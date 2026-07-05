@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 NaSDDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NaSDDNS/NaSDDNS.list)
+- [blackmatrix7/ios_rule_script: NaSDDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NaSDDNS/NaSDDNS.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaIPs](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPs.list)
+- [Loyalsoldier/surge-rules: cncidr](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt)
+- [blackmatrix7/ios_rule_script: ChinaIPs](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPs.list)
 
 <details>
 <summary>English</summary>

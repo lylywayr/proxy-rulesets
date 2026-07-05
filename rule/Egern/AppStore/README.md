@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppStore](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppStore/AppStore.list)
+- [blackmatrix7/ios_rule_script: AppStore](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppStore/AppStore.list)
 
 <details>
 <summary>English</summary>

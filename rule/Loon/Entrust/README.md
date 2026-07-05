@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Entrust](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Entrust/Entrust.list)
+- [blackmatrix7/ios_rule_script: Entrust](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Entrust/Entrust.list)
 
 <details>
 <summary>English</summary>

@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LineTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LineTV/LineTV.list)
+- [blackmatrix7/ios_rule_script: LineTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LineTV/LineTV.list)
 
 <details>
 <summary>English</summary>

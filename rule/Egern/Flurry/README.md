@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Flurry](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Flurry/Flurry.list)
+- [blackmatrix7/ios_rule_script: Flurry](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Flurry/Flurry.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Chromecast](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Chromecast/Chromecast.list)
+- [blackmatrix7/ios_rule_script: Chromecast](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Chromecast/Chromecast.list)
 
 <details>
 <summary>English</summary>

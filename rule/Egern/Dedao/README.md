@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Dedao](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dedao/Dedao.list)
+- [blackmatrix7/ios_rule_script: Dedao](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dedao/Dedao.list)
 
 <details>
 <summary>English</summary>

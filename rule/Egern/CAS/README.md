@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CAS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CAS/CAS.list)
+- [blackmatrix7/ios_rule_script: CAS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CAS/CAS.list)
 
 <details>
 <summary>English</summary>

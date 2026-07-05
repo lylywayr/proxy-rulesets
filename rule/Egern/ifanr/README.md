@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ifanr](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ifanr/ifanr.list)
+- [blackmatrix7/ios_rule_script: ifanr](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ifanr/ifanr.list)
 
 <details>
 <summary>English</summary>

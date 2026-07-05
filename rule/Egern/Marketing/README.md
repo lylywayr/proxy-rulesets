@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Marketing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Marketing/Marketing.list)
+- [blackmatrix7/ios_rule_script: Marketing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Marketing/Marketing.list)
 
 <details>
 <summary>English</summary>

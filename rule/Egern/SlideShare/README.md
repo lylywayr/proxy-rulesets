@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 SlideShare](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SlideShare/SlideShare.list)
+- [blackmatrix7/ios_rule_script: SlideShare](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SlideShare/SlideShare.list)
 
 <details>
 <summary>English</summary>

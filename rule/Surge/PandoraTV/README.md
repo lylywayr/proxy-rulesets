@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 PandoraTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PandoraTV/PandoraTV.list)
+- [blackmatrix7/ios_rule_script: PandoraTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PandoraTV/PandoraTV.list)
 
 <details>
 <summary>English</summary>

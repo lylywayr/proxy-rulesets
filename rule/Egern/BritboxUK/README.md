@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BritboxUK](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BritboxUK/BritboxUK.list)
+- [blackmatrix7/ios_rule_script: BritboxUK](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BritboxUK/BritboxUK.list)
 
 <details>
 <summary>English</summary>

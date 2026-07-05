@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AbemaTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AbemaTV/AbemaTV.list)
+- [blackmatrix7/ios_rule_script: AbemaTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AbemaTV/AbemaTV.list)
 
 <details>
 <summary>English</summary>

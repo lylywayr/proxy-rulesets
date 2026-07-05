@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 QuickConnect](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QuickConnect/QuickConnect.list)
+- [blackmatrix7/ios_rule_script: QuickConnect](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QuickConnect/QuickConnect.list)
 
 <details>
 <summary>English</summary>

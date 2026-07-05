@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AddToAny](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AddToAny/AddToAny.list)
+- [blackmatrix7/ios_rule_script: AddToAny](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AddToAny/AddToAny.list)
 
 <details>
 <summary>English</summary>

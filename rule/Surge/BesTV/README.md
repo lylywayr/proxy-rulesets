@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BesTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BesTV/BesTV.list)
+- [blackmatrix7/ios_rule_script: BesTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BesTV/BesTV.list)
 
 <details>
 <summary>English</summary>

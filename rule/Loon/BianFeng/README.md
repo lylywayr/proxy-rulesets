@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BianFeng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BianFeng/BianFeng.list)
+- [blackmatrix7/ios_rule_script: BianFeng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BianFeng/BianFeng.list)
 
 <details>
 <summary>English</summary>

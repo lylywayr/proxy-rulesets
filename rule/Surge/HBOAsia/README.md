@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HBOAsia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOAsia/HBOAsia.list)
+- [blackmatrix7/ios_rule_script: HBOAsia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOAsia/HBOAsia.list)
 
 <details>
 <summary>English</summary>

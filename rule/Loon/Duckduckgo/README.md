@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Duckduckgo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Duckduckgo/Duckduckgo.list)
+- [blackmatrix7/ios_rule_script: Duckduckgo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Duckduckgo/Duckduckgo.list)
 
 <details>
 <summary>English</summary>

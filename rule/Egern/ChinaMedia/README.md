@@ -45,7 +45,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list)
+- [blackmatrix7/ios_rule_script: ChinaMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list)
 
 <details>
 <summary>English</summary>

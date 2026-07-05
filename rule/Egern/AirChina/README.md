@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AirChina](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AirChina/AirChina.list)
+- [blackmatrix7/ios_rule_script: AirChina](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AirChina/AirChina.list)
 
 <details>
 <summary>English</summary>

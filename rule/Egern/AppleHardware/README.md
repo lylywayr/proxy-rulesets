@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppleHardware](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleHardware/AppleHardware.list)
+- [blackmatrix7/ios_rule_script: AppleHardware](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleHardware/AppleHardware.list)
 
 <details>
 <summary>English</summary>

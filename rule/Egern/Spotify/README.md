@@ -14,9 +14,9 @@
 
 ### 规则统计
 
-- 总数：`30`
+- 总数：`33`
 - `DOMAIN`: 6
-- `DOMAIN-SUFFIX`: 20
+- `DOMAIN-SUFFIX`: 23
 - `DOMAIN-KEYWORD`: 1
 - `USER-AGENT`: 1
 - `PROCESS-NAME`: 1
@@ -43,7 +43,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 Spotify](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spotify/Spotify.list)
+- [v2fly/domain-list-community: spotify (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/spotify)
+- [blackmatrix7/ios_rule_script: Spotify](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spotify/Spotify.list)
 
 <details>
 <summary>English</summary>

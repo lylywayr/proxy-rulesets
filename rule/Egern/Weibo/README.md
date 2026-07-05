@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Weibo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Weibo/Weibo.list)
+- [blackmatrix7/ios_rule_script: Weibo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Weibo/Weibo.list)
 
 <details>
 <summary>English</summary>

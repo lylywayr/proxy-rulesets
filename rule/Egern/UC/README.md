@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 UC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC.list)
+- [blackmatrix7/ios_rule_script: UC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC.list)
 
 <details>
 <summary>English</summary>

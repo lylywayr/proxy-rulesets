@@ -14,9 +14,9 @@
 
 ### 规则统计
 
-- 总数：`42`
-- `DOMAIN`: 4
-- `DOMAIN-SUFFIX`: 38
+- 总数：`52`
+- `DOMAIN`: 6
+- `DOMAIN-SUFFIX`: 46
 
 ### 使用说明
 
@@ -38,7 +38,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 Xbox](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Xbox/Xbox.list)
+- [v2fly/domain-list-community: xbox (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xbox)
+- [blackmatrix7/ios_rule_script: Xbox](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Xbox/Xbox.list)
 
 <details>
 <summary>English</summary>

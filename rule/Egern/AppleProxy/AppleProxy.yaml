@@ -1,6 +1,6 @@
 # NAME: AppleProxy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:48:03.927079+00:00
+# UPDATED: 2026-07-05T06:00:59.971661+00:00
 no_resolve: true
 domain_set:
   - "api-glb-sea.smoot.apple.com"
@@ -34,11 +34,11 @@ domain_suffix_set:
   - "appsto.re"
   - "apple.news"
   - "digicert.com"
-  - "cdn-apple.com"
   - "apple-dns.net"
+  - "cdn-apple.com"
   - "tv.apple.com"
-  - "ocsp.apple.com"
   - "apps.apple.com"
+  - "ocsp.apple.com"
   - "blobstore.apple.com"
   - "hls.itunes.apple.com"
   - "hls-amt.itunes.apple.com"

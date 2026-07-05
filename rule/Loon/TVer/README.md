@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TVer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVer/TVer.list)
+- [blackmatrix7/ios_rule_script: TVer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVer/TVer.list)
 
 <details>
 <summary>English</summary>

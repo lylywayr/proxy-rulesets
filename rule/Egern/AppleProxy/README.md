@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppleProxy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleProxy/AppleProxy.list)
+- [blackmatrix7/ios_rule_script: AppleProxy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleProxy/AppleProxy.list)
 
 <details>
 <summary>English</summary>

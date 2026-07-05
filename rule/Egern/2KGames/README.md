@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 2KGames](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/2KGames/2KGames.list)
+- [blackmatrix7/ios_rule_script: 2KGames](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/2KGames/2KGames.list)
 
 <details>
 <summary>English</summary>

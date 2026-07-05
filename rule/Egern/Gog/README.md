@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Gog](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gog/Gog.list)
+- [blackmatrix7/ios_rule_script: Gog](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gog/Gog.list)
 
 <details>
 <summary>English</summary>

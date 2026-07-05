@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Android](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Android/Android.list)
+- [blackmatrix7/ios_rule_script: Android](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Android/Android.list)
 
 <details>
 <summary>English</summary>

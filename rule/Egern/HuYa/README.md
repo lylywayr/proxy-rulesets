@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HuYa](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuYa/HuYa.list)
+- [blackmatrix7/ios_rule_script: HuYa](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuYa/HuYa.list)
 
 <details>
 <summary>English</summary>

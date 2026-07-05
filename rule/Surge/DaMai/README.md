@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DaMai](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DaMai/DaMai.list)
+- [blackmatrix7/ios_rule_script: DaMai](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DaMai/DaMai.list)
 
 <details>
 <summary>English</summary>

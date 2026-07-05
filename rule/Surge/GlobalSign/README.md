@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GlobalSign](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalSign/GlobalSign.list)
+- [blackmatrix7/ios_rule_script: GlobalSign](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalSign/GlobalSign.list)
 
 <details>
 <summary>English</summary>

@@ -1,6 +1,6 @@
 # NAME: StarCraftII
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:58.097726+00:00
+# UPDATED: 2026-07-05T06:42:59.372411+00:00
 no_resolve: true
 ip_cidr_set:
   - "24.105.30.129/32"

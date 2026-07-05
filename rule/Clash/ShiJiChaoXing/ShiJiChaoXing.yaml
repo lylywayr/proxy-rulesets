@@ -1,37 +1,37 @@
 # NAME: ShiJiChaoXing
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:56.423792+00:00
+# UPDATED: 2026-07-05T06:42:59.277829+00:00
 payload:
   - DOMAIN-SUFFIX,16q.cn
+  - DOMAIN-SUFFIX,5read.com
   - DOMAIN-SUFFIX,lnlib.net
   - DOMAIN-SUFFIX,ylike.net
-  - DOMAIN-SUFFIX,5read.com
+  - DOMAIN-SUFFIX,mti100.com
   - DOMAIN-SUFFIX,sslawy.com
   - DOMAIN-SUFFIX,ssvideo.cn
   - DOMAIN-SUFFIX,zaifan.com
-  - DOMAIN-SUFFIX,mti100.com
   - DOMAIN-SUFFIX,cxbiji.com
   - DOMAIN-SUFFIX,chaoxing.cc
-  - DOMAIN-SUFFIX,ssreader.cn
-  - DOMAIN-SUFFIX,mndqlib.net
   - DOMAIN-SUFFIX,xxtmail.com
-  - DOMAIN-SUFFIX,xuexi365.net
-  - DOMAIN-SUFFIX,chaoxing.com
-  - DOMAIN-SUFFIX,superlib.net
+  - DOMAIN-SUFFIX,mndqlib.net
+  - DOMAIN-SUFFIX,ssreader.cn
   - DOMAIN-SUFFIX,xuexi365.com
+  - DOMAIN-SUFFIX,chaoxing.com
+  - DOMAIN-SUFFIX,xuexi365.net
   - DOMAIN-SUFFIX,superlib.com
+  - DOMAIN-SUFFIX,superlib.net
+  - DOMAIN-SUFFIX,jikeiot.cloud
+  - DOMAIN-SUFFIX,hongbo100.com
   - DOMAIN-SUFFIX,chaoxingv.com
   - DOMAIN-SUFFIX,sslibrary.com
-  - DOMAIN-SUFFIX,hongbo100.com
-  - DOMAIN-SUFFIX,jikeiot.cloud
-  - DOMAIN-SUFFIX,aichaoxing.com
-  - DOMAIN-SUFFIX,uonline-sh.net
   - DOMAIN-SUFFIX,uonline-sh.com
-  - DOMAIN-SUFFIX,nihaorwanda.cn
+  - DOMAIN-SUFFIX,uonline-sh.net
+  - DOMAIN-SUFFIX,aichaoxing.com
   - DOMAIN-SUFFIX,zhihang100.com
+  - DOMAIN-SUFFIX,nihaorwanda.cn
   - DOMAIN-SUFFIX,nihaoafrica.org
   - DOMAIN-SUFFIX,zaifan.com.cn
   - DOMAIN-SUFFIX,ssvideo.com.cn
-  - DOMAIN-SUFFIX,ssreader.com.cn
-  - DOMAIN-SUFFIX,study360.com.cn
   - DOMAIN-SUFFIX,xuexi365.com.cn
+  - DOMAIN-SUFFIX,study360.com.cn
+  - DOMAIN-SUFFIX,ssreader.com.cn

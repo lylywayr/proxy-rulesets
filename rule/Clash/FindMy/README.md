@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 FindMy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FindMy/FindMy.list)
+- [blackmatrix7/ios_rule_script: FindMy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FindMy/FindMy.list)
 
 <details>
 <summary>English</summary>

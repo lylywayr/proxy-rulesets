@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Crypto](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Crypto/Crypto.list)
+- [blackmatrix7/ios_rule_script: Crypto](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Crypto/Crypto.list)
 
 <details>
 <summary>English</summary>

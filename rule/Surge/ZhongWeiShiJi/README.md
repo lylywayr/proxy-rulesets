@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ZhongWeiShiJi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongWeiShiJi/ZhongWeiShiJi.list)
+- [blackmatrix7/ios_rule_script: ZhongWeiShiJi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongWeiShiJi/ZhongWeiShiJi.list)
 
 <details>
 <summary>English</summary>

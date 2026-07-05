@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HuanJu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuanJu/HuanJu.list)
+- [blackmatrix7/ios_rule_script: HuanJu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuanJu/HuanJu.list)
 
 <details>
 <summary>English</summary>

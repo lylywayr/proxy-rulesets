@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 XieCheng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XieCheng/XieCheng.list)
+- [blackmatrix7/ios_rule_script: XieCheng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XieCheng/XieCheng.list)
 
 <details>
 <summary>English</summary>

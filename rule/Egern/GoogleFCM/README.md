@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GoogleFCM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleFCM/GoogleFCM.list)
+- [blackmatrix7/ios_rule_script: GoogleFCM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleFCM/GoogleFCM.list)
 
 <details>
 <summary>English</summary>

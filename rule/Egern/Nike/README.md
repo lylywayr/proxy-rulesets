@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Nike](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nike/Nike.list)
+- [blackmatrix7/ios_rule_script: Nike](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nike/Nike.list)
 
 <details>
 <summary>English</summary>

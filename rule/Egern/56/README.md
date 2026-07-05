@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 56](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/56/56.list)
+- [blackmatrix7/ios_rule_script: 56](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/56/56.list)
 
 <details>
 <summary>English</summary>

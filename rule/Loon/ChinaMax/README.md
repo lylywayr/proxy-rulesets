@@ -43,7 +43,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaMax](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax.list)
+- [blackmatrix7/ios_rule_script: ChinaMax](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax.list)
 
 <details>
 <summary>English</summary>

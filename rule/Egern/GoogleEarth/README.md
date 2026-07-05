@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GoogleEarth](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleEarth/GoogleEarth.list)
+- [blackmatrix7/ios_rule_script: GoogleEarth](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleEarth/GoogleEarth.list)
 
 <details>
 <summary>English</summary>

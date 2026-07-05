@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 NTPService](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NTPService/NTPService.list)
+- [blackmatrix7/ios_rule_script: NTPService](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NTPService/NTPService.list)
 
 <details>
 <summary>English</summary>

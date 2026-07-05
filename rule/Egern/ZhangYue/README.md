@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ZhangYue](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhangYue/ZhangYue.list)
+- [blackmatrix7/ios_rule_script: ZhangYue](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhangYue/ZhangYue.list)
 
 <details>
 <summary>English</summary>

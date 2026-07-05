@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 MOMOShop](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOMOShop/MOMOShop.list)
+- [blackmatrix7/ios_rule_script: MOMOShop](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOMOShop/MOMOShop.list)
 
 <details>
 <summary>English</summary>

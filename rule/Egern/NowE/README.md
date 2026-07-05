@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 NowE](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NowE/NowE.list)
+- [blackmatrix7/ios_rule_script: NowE](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NowE/NowE.list)
 
 <details>
 <summary>English</summary>

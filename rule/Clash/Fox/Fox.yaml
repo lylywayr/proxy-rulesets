@@ -1,254 +1,254 @@
 # NAME: Fox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:36.703334+00:00
+# UPDATED: 2026-07-05T06:31:31.461651+00:00
 payload:
   - DOMAIN-SUFFIX,fox
-  - DOMAIN-SUFFIX,fse.tv
   - DOMAIN-SUFFIX,fxn.ws
+  - DOMAIN-SUFFIX,fse.tv
   - DOMAIN-SUFFIX,fox.tv
-  - DOMAIN-SUFFIX,wofl.tv
-  - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,fox.com
+  - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,foxd.tv
   - DOMAIN-SUFFIX,q13.com
+  - DOMAIN-SUFFIX,wofl.tv
   - DOMAIN-SUFFIX,kicu.tv
-  - DOMAIN-SUFFIX,my45.com
-  - DOMAIN-SUFFIX,myq2.com
-  - DOMAIN-SUFFIX,fox10.tv
-  - DOMAIN-SUFFIX,wogx.com
-  - DOMAIN-SUFFIX,ktvu.com
-  - DOMAIN-SUFFIX,foxla.tv
   - DOMAIN-SUFFIX,fox49.tv
+  - DOMAIN-SUFFIX,foxla.tv
+  - DOMAIN-SUFFIX,ktvu.com
+  - DOMAIN-SUFFIX,wogx.com
   - DOMAIN-SUFFIX,fox9.com
+  - DOMAIN-SUFFIX,fox10.tv
   - DOMAIN-SUFFIX,fox7.com
-  - DOMAIN-SUFFIX,my9nj.com
-  - DOMAIN-SUFFIX,fox11.com
-  - DOMAIN-SUFFIX,fox23.com
-  - DOMAIN-SUFFIX,fox26.com
-  - DOMAIN-SUFFIX,foxrad.io
-  - DOMAIN-SUFFIX,foxtv.com
-  - DOMAIN-SUFFIX,fox46.com
+  - DOMAIN-SUFFIX,myq2.com
+  - DOMAIN-SUFFIX,my45.com
   - DOMAIN-SUFFIX,fox247.tv
+  - DOMAIN-SUFFIX,fox26.com
+  - DOMAIN-SUFFIX,fox46.com
   - DOMAIN-SUFFIX,foxon.com
-  - DOMAIN-SUFFIX,foxuv.com
-  - DOMAIN-SUFFIX,fssta.com
-  - DOMAIN-SUFFIX,foxla.com
+  - DOMAIN-SUFFIX,foxtv.com
+  - DOMAIN-SUFFIX,fox11.com
   - DOMAIN-SUFFIX,fox29.com
   - DOMAIN-SUFFIX,fox47.com
+  - DOMAIN-SUFFIX,foxuv.com
   - DOMAIN-SUFFIX,fox32.com
-  - DOMAIN-SUFFIX,foxinc.com
-  - DOMAIN-SUFFIX,foxnews.tv
-  - DOMAIN-SUFFIX,foxneo.com
-  - DOMAIN-SUFFIX,foxtel.com
-  - DOMAIN-SUFFIX,q13fox.com
-  - DOMAIN-SUFFIX,my20dc.com
+  - DOMAIN-SUFFIX,foxrad.io
+  - DOMAIN-SUFFIX,fssta.com
+  - DOMAIN-SUFFIX,foxla.com
+  - DOMAIN-SUFFIX,fox23.com
+  - DOMAIN-SUFFIX,my9nj.com
   - DOMAIN-SUFFIX,fox5dc.com
-  - DOMAIN-SUFFIX,anidom.com
-  - DOMAIN-SUFFIX,foxest.com
-  - DOMAIN-SUFFIX,uplynk.com
-  - DOMAIN-SUFFIX,foxnews.cc
-  - DOMAIN-SUFFIX,my13la.com
-  - DOMAIN-SUFFIX,foxnow.com
-  - DOMAIN-SUFFIX,foxdcg.com
-  - DOMAIN-SUFFIX,foxfdm.com
   - DOMAIN-SUFFIX,foxfaq.com
-  - DOMAIN-SUFFIX,fox5ny.com
-  - DOMAIN-SUFFIX,my29tv.com
+  - DOMAIN-SUFFIX,foxest.com
   - DOMAIN-SUFFIX,foxbet.com
+  - DOMAIN-SUFFIX,my29tv.com
+  - DOMAIN-SUFFIX,my13la.com
+  - DOMAIN-SUFFIX,foxnews.tv
   - DOMAIN-SUFFIX,fox247.com
-  - DOMAIN-SUFFIX,foxplay.com
-  - DOMAIN-SUFFIX,myfoxny.com
-  - DOMAIN-SUFFIX,foxnews.org
-  - DOMAIN-SUFFIX,myfoxdc.com
-  - DOMAIN-SUFFIX,fox6now.com
-  - DOMAIN-SUFFIX,foxplus.com
-  - DOMAIN-SUFFIX,myfoxla.com
-  - DOMAIN-SUFFIX,foxnews.net
+  - DOMAIN-SUFFIX,foxnews.cc
+  - DOMAIN-SUFFIX,fox5ny.com
+  - DOMAIN-SUFFIX,foxnow.com
+  - DOMAIN-SUFFIX,anidom.com
+  - DOMAIN-SUFFIX,foxneo.com
+  - DOMAIN-SUFFIX,foxfdm.com
+  - DOMAIN-SUFFIX,q13fox.com
+  - DOMAIN-SUFFIX,foxtel.com
+  - DOMAIN-SUFFIX,foxdcg.com
+  - DOMAIN-SUFFIX,uplynk.com
+  - DOMAIN-SUFFIX,foxinc.com
+  - DOMAIN-SUFFIX,my20dc.com
   - DOMAIN-SUFFIX,bentobox.tv
+  - DOMAIN-SUFFIX,fox6now.com
   - DOMAIN-SUFFIX,foxnews.com
+  - DOMAIN-SUFFIX,foxplay.com
+  - DOMAIN-SUFFIX,myfoxdc.com
+  - DOMAIN-SUFFIX,myfoxla.com
+  - DOMAIN-SUFFIX,foxplus.com
+  - DOMAIN-SUFFIX,foxnews.net
   - DOMAIN-SUFFIX,foxdoua.com
-  - DOMAIN-SUFFIX,fox2news.com
+  - DOMAIN-SUFFIX,foxnews.org
+  - DOMAIN-SUFFIX,myfoxny.com
   - DOMAIN-SUFFIX,foxcincy.com
   - DOMAIN-SUFFIX,foxsports.sv
-  - DOMAIN-SUFFIX,foxpoker.com
-  - DOMAIN-SUFFIX,foxfiles.com
-  - DOMAIN-SUFFIX,myfoxdfw.com
-  - DOMAIN-SUFFIX,fox4news.com
-  - DOMAIN-SUFFIX,foxsports.co
-  - DOMAIN-SUFFIX,foxnewsgo.tv
   - DOMAIN-SUFFIX,foxtvdvd.com
-  - DOMAIN-SUFFIX,joeswall.com
-  - DOMAIN-SUFFIX,foxsports.cl
-  - DOMAIN-SUFFIX,fox-news.com
-  - DOMAIN-SUFFIX,foxsoccer.tv
+  - DOMAIN-SUFFIX,foxpoker.com
   - DOMAIN-SUFFIX,foxsports.pe
-  - DOMAIN-SUFFIX,foxcincy.net
+  - DOMAIN-SUFFIX,myfoxdfw.com
   - DOMAIN-SUFFIX,foxsports.gt
-  - DOMAIN-SUFFIX,foxsports.uy
+  - DOMAIN-SUFFIX,fox2news.com
   - DOMAIN-SUFFIX,fox51tns.net
-  - DOMAIN-SUFFIX,fox10news.com
-  - DOMAIN-SUFFIX,fox5storm.com
-  - DOMAIN-SUFFIX,rprimelab.com
-  - DOMAIN-SUFFIX,foxrobots.com
-  - DOMAIN-SUFFIX,fox42kptm.com
-  - DOMAIN-SUFFIX,foxsoccer.net
-  - DOMAIN-SUFFIX,foxredeem.com
-  - DOMAIN-SUFFIX,foxcredit.org
-  - DOMAIN-SUFFIX,foxnation.com
-  - DOMAIN-SUFFIX,foxkansas.com
-  - DOMAIN-SUFFIX,foxnewsgo.org
-  - DOMAIN-SUFFIX,speedxtra.com
-  - DOMAIN-SUFFIX,foxcredit.com
-  - DOMAIN-SUFFIX,foxsports.net
-  - DOMAIN-SUFFIX,foxnewsgo.net
-  - DOMAIN-SUFFIX,foxsuper6.com
-  - DOMAIN-SUFFIX,fox13news.com
-  - DOMAIN-SUFFIX,testonfox.com
-  - DOMAIN-SUFFIX,foxcincy.jobs
-  - DOMAIN-SUFFIX,fxnetwork.com
-  - DOMAIN-SUFFIX,myfoxzone.com
+  - DOMAIN-SUFFIX,fox4news.com
+  - DOMAIN-SUFFIX,foxfiles.com
+  - DOMAIN-SUFFIX,foxsports.uy
+  - DOMAIN-SUFFIX,foxnewsgo.tv
+  - DOMAIN-SUFFIX,foxsports.cl
+  - DOMAIN-SUFFIX,foxcincy.net
+  - DOMAIN-SUFFIX,foxsports.co
+  - DOMAIN-SUFFIX,joeswall.com
+  - DOMAIN-SUFFIX,foxsoccer.tv
+  - DOMAIN-SUFFIX,fox-news.com
   - DOMAIN-SUFFIX,foxsports.com
-  - DOMAIN-SUFFIX,foxrelease.com
-  - DOMAIN-SUFFIX,teenchoice.com
-  - DOMAIN-SUFFIX,foxsports2.com
-  - DOMAIN-SUFFIX,fox23maine.com
-  - DOMAIN-SUFFIX,fox7austin.com
-  - DOMAIN-SUFFIX,myfoxmaine.com
-  - DOMAIN-SUFFIX,foxdeportes.tv
-  - DOMAIN-SUFFIX,myfoxtampa.com
-  - DOMAIN-SUFFIX,fox28media.com
-  - DOMAIN-SUFFIX,fxnetworks.com
-  - DOMAIN-SUFFIX,foxbusiness.tv
-  - DOMAIN-SUFFIX,foxcareers.com
-  - DOMAIN-SUFFIX,whatthefox.com
-  - DOMAIN-SUFFIX,newsnowfox.com
-  - DOMAIN-SUFFIX,foxsports.info
+  - DOMAIN-SUFFIX,foxcredit.org
+  - DOMAIN-SUFFIX,fox10news.com
+  - DOMAIN-SUFFIX,fxnetwork.com
+  - DOMAIN-SUFFIX,foxcincy.jobs
+  - DOMAIN-SUFFIX,fox5storm.com
+  - DOMAIN-SUFFIX,foxsports.net
+  - DOMAIN-SUFFIX,foxnewsgo.org
+  - DOMAIN-SUFFIX,myfoxzone.com
+  - DOMAIN-SUFFIX,foxredeem.com
+  - DOMAIN-SUFFIX,foxcredit.com
+  - DOMAIN-SUFFIX,foxsoccer.net
+  - DOMAIN-SUFFIX,foxrobots.com
+  - DOMAIN-SUFFIX,foxkansas.com
+  - DOMAIN-SUFFIX,foxnation.com
+  - DOMAIN-SUFFIX,fox42kptm.com
+  - DOMAIN-SUFFIX,foxnewsgo.net
+  - DOMAIN-SUFFIX,testonfox.com
+  - DOMAIN-SUFFIX,foxsuper6.com
+  - DOMAIN-SUFFIX,speedxtra.com
+  - DOMAIN-SUFFIX,fox13news.com
+  - DOMAIN-SUFFIX,rprimelab.com
   - DOMAIN-SUFFIX,foxnewsb2b.com
-  - DOMAIN-SUFFIX,myfoxboston.com
-  - DOMAIN-SUFFIX,foxrichmond.com
+  - DOMAIN-SUFFIX,foxcareers.com
+  - DOMAIN-SUFFIX,foxdeportes.tv
+  - DOMAIN-SUFFIX,teenchoice.com
+  - DOMAIN-SUFFIX,foxsports.info
+  - DOMAIN-SUFFIX,fox7austin.com
+  - DOMAIN-SUFFIX,fox28media.com
+  - DOMAIN-SUFFIX,newsnowfox.com
+  - DOMAIN-SUFFIX,foxbusiness.tv
+  - DOMAIN-SUFFIX,myfoxtampa.com
+  - DOMAIN-SUFFIX,foxsports2.com
+  - DOMAIN-SUFFIX,foxrelease.com
+  - DOMAIN-SUFFIX,fox23maine.com
+  - DOMAIN-SUFFIX,whatthefox.com
+  - DOMAIN-SUFFIX,fxnetworks.com
+  - DOMAIN-SUFFIX,myfoxmaine.com
+  - DOMAIN-SUFFIX,myfoxphilly.com
+  - DOMAIN-SUFFIX,foxsportsla.com
+  - DOMAIN-SUFFIX,shopspeedtv.com
+  - DOMAIN-SUFFIX,foxnebraska.com
+  - DOMAIN-SUFFIX,foxdeportes.com
   - DOMAIN-SUFFIX,theplatform.com
   - DOMAIN-SUFFIX,fox5atlanta.com
-  - DOMAIN-SUFFIX,foxdeportes.net
-  - DOMAIN-SUFFIX,myfoxaustin.com
-  - DOMAIN-SUFFIX,myfoxphilly.com
   - DOMAIN-SUFFIX,fox2detroit.com
-  - DOMAIN-SUFFIX,my20houston.com
-  - DOMAIN-SUFFIX,shopspeedtv.com
-  - DOMAIN-SUFFIX,foxsportsla.com
   - DOMAIN-SUFFIX,whosthehost.com
-  - DOMAIN-SUFFIX,foxdeportes.com
-  - DOMAIN-SUFFIX,foxnebraska.com
-  - DOMAIN-SUFFIX,foxsportsgo.com
+  - DOMAIN-SUFFIX,myfoxaustin.com
+  - DOMAIN-SUFFIX,myfoxboston.com
+  - DOMAIN-SUFFIX,foxrichmond.com
   - DOMAIN-SUFFIX,foxbusiness.com
-  - DOMAIN-SUFFIX,foxnewsradio.com
-  - DOMAIN-SUFFIX,fox35orlando.com
-  - DOMAIN-SUFFIX,foxcharlotte.com
-  - DOMAIN-SUFFIX,thefoxnation.com
-  - DOMAIN-SUFFIX,myfoxatlanta.com
-  - DOMAIN-SUFFIX,foxsoccerplus.tv
+  - DOMAIN-SUFFIX,my20houston.com
+  - DOMAIN-SUFFIX,foxdeportes.net
+  - DOMAIN-SUFFIX,foxsportsgo.com
   - DOMAIN-SUFFIX,myfoxorlando.com
+  - DOMAIN-SUFFIX,foxsoccerplus.tv
   - DOMAIN-SUFFIX,myfoxsanfran.com
-  - DOMAIN-SUFFIX,myfoxdetroit.com
-  - DOMAIN-SUFFIX,fox13memphis.com
-  - DOMAIN-SUFFIX,foxlexington.com
-  - DOMAIN-SUFFIX,myfoxhouston.com
+  - DOMAIN-SUFFIX,fox26houston.com
   - DOMAIN-SUFFIX,fox10phoenix.com
   - DOMAIN-SUFFIX,fox32chicago.com
-  - DOMAIN-SUFFIX,myfoxlubbock.com
-  - DOMAIN-SUFFIX,myfoxchicago.com
+  - DOMAIN-SUFFIX,foxlexington.com
+  - DOMAIN-SUFFIX,myfoxhouston.com
+  - DOMAIN-SUFFIX,myfoxdetroit.com
+  - DOMAIN-SUFFIX,fox13memphis.com
   - DOMAIN-SUFFIX,foxstudiolot.com
+  - DOMAIN-SUFFIX,myfoxatlanta.com
+  - DOMAIN-SUFFIX,myfoxlubbock.com
   - DOMAIN-SUFFIX,myfoxphoenix.com
-  - DOMAIN-SUFFIX,fox26houston.com
+  - DOMAIN-SUFFIX,foxcharlotte.com
+  - DOMAIN-SUFFIX,myfoxchicago.com
+  - DOMAIN-SUFFIX,foxnewsradio.com
+  - DOMAIN-SUFFIX,thefoxnation.com
+  - DOMAIN-SUFFIX,fox35orlando.com
   - DOMAIN-SUFFIX,foxnetworks.info
-  - DOMAIN-SUFFIX,theclasshroom.com
-  - DOMAIN-SUFFIX,foxsoccerplus.com
-  - DOMAIN-SUFFIX,foxsoccerplus.net
-  - DOMAIN-SUFFIX,myfoxtampabay.com
-  - DOMAIN-SUFFIX,foxnewslatino.com
-  - DOMAIN-SUFFIX,foxsoccershop.com
-  - DOMAIN-SUFFIX,speedracegear.com
-  - DOMAIN-SUFFIX,foxneodigital.com
-  - DOMAIN-SUFFIX,foxandfriends.com
   - DOMAIN-SUFFIX,foxnewssunday.com
-  - DOMAIN-SUFFIX,foxmediacloud.com
-  - DOMAIN-SUFFIX,foxbusinessgo.com
+  - DOMAIN-SUFFIX,foxnewslatino.com
+  - DOMAIN-SUFFIX,foxsoccerplus.com
+  - DOMAIN-SUFFIX,foxneodigital.com
   - DOMAIN-SUFFIX,foxnewshealth.com
+  - DOMAIN-SUFFIX,foxbusinessgo.com
   - DOMAIN-SUFFIX,foxcanvasroom.com
+  - DOMAIN-SUFFIX,myfoxtampabay.com
+  - DOMAIN-SUFFIX,foxsoccershop.com
+  - DOMAIN-SUFFIX,theclasshroom.com
+  - DOMAIN-SUFFIX,speedracegear.com
+  - DOMAIN-SUFFIX,foxsoccerplus.net
+  - DOMAIN-SUFFIX,foxmediacloud.com
+  - DOMAIN-SUFFIX,foxandfriends.com
+  - DOMAIN-SUFFIX,geraldoatlarge.com
   - DOMAIN-SUFFIX,casoneexchange.com
-  - DOMAIN-SUFFIX,myfoxcharlotte.com
-  - DOMAIN-SUFFIX,foxnewsopinion.com
-  - DOMAIN-SUFFIX,foxnewschannel.com
-  - DOMAIN-SUFFIX,foxsportsworld.com
-  - DOMAIN-SUFFIX,foxcorporation.com
-  - DOMAIN-SUFFIX,fox46charlotte.com
-  - DOMAIN-SUFFIX,gooddaychicago.com
+  - DOMAIN-SUFFIX,foxnewsrundown.com
   - DOMAIN-SUFFIX,speeddreamride.com
+  - DOMAIN-SUFFIX,foxcorporation.com
+  - DOMAIN-SUFFIX,foxsportsworld.com
+  - DOMAIN-SUFFIX,foxnewsopinion.com
+  - DOMAIN-SUFFIX,fox46charlotte.com
+  - DOMAIN-SUFFIX,foxnewsnetwork.com
   - DOMAIN-SUFFIX,myfoxhurricane.com
   - DOMAIN-SUFFIX,coronavirusnow.com
-  - DOMAIN-SUFFIX,foxnewsrundown.com
-  - DOMAIN-SUFFIX,foxnewsnetwork.com
-  - DOMAIN-SUFFIX,geraldoatlarge.com
+  - DOMAIN-SUFFIX,foxnewschannel.com
+  - DOMAIN-SUFFIX,myfoxcharlotte.com
+  - DOMAIN-SUFFIX,gooddaychicago.com
+  - DOMAIN-SUFFIX,foxsportsracing.com
   - DOMAIN-SUFFIX,speedfantasybid.com
-  - DOMAIN-SUFFIX,soccermatchpass.com
+  - DOMAIN-SUFFIX,foxweatherwatch.com
+  - DOMAIN-SUFFIX,maskedsingerfox.com
   - DOMAIN-SUFFIX,myfoxtwincities.com
+  - DOMAIN-SUFFIX,fox-corporation.com
+  - DOMAIN-SUFFIX,soccermatchpass.com
+  - DOMAIN-SUFFIX,foxnewspodcasts.com
   - DOMAIN-SUFFIX,foxnewspolitics.com
   - DOMAIN-SUFFIX,myfoxlosangeles.com
-  - DOMAIN-SUFFIX,thegeorgiascene.com
-  - DOMAIN-SUFFIX,foxsportsracing.com
+  - DOMAIN-SUFFIX,foxsports-world.com
+  - DOMAIN-SUFFIX,afewmomentswith.com
   - DOMAIN-SUFFIX,foxphiladelphia.com
-  - DOMAIN-SUFFIX,fox-corporation.com
+  - DOMAIN-SUFFIX,thegeorgiascene.com
   - DOMAIN-SUFFIX,foxnewsmagazine.com
   - DOMAIN-SUFFIX,foxnetworksinfo.com
-  - DOMAIN-SUFFIX,foxnewspodcasts.com
-  - DOMAIN-SUFFIX,foxsports-world.com
-  - DOMAIN-SUFFIX,maskedsingerfox.com
-  - DOMAIN-SUFFIX,foxweatherwatch.com
-  - DOMAIN-SUFFIX,afewmomentswith.com
-  - DOMAIN-SUFFIX,orlandohurricane.com
-  - DOMAIN-SUFFIX,foxacrossamerica.com
   - DOMAIN-SUFFIX,foxsportsflorida.com
-  - DOMAIN-SUFFIX,foxcollegesports.com
-  - DOMAIN-SUFFIX,foxentertainment.com
-  - DOMAIN-SUFFIX,realmilwaukeenow.com
+  - DOMAIN-SUFFIX,orlandohurricane.com
   - DOMAIN-SUFFIX,foxdigitalmovies.com
-  - DOMAIN-SUFFIX,foxnewsaffiliates.com
+  - DOMAIN-SUFFIX,realmilwaukeenow.com
+  - DOMAIN-SUFFIX,foxentertainment.com
+  - DOMAIN-SUFFIX,foxacrossamerica.com
+  - DOMAIN-SUFFIX,foxcollegesports.com
   - DOMAIN-SUFFIX,foxsportssupports.com
-  - DOMAIN-SUFFIX,foxsports-chicago.com
   - DOMAIN-SUFFIX,foxsports-newyork.com
+  - DOMAIN-SUFFIX,foxnewsaffiliates.com
+  - DOMAIN-SUFFIX,foxsports-chicago.com
   - DOMAIN-SUFFIX,foxsoccermatchpass.com
-  - DOMAIN-SUFFIX,kilmeadeandfriends.com
   - DOMAIN-SUFFIX,foxaffiliateportal.com
+  - DOMAIN-SUFFIX,kilmeadeandfriends.com
   - DOMAIN-SUFFIX,woflthenewsstation.com
-  - DOMAIN-SUFFIX,fox38corpuschristi.com
   - DOMAIN-SUFFIX,realamericanstories.tv
-  - DOMAIN-SUFFIX,realamericanstories.org
-  - DOMAIN-SUFFIX,realamericanstories.com
+  - DOMAIN-SUFFIX,fox38corpuschristi.com
   - DOMAIN-SUFFIX,realamericanstories.net
   - DOMAIN-SUFFIX,foxsportsneworleans.com
+  - DOMAIN-SUFFIX,realamericanstories.com
   - DOMAIN-SUFFIX,foxsportsuniversity.com
+  - DOMAIN-SUFFIX,realamericanstories.org
   - DOMAIN-SUFFIX,realamericanstories.info
   - DOMAIN-SUFFIX,paradisehotelquizfox.com
-  - DOMAIN-SUFFIX,foxtelevisionstations.com
-  - DOMAIN-SUFFIX,foxsportsnetmilwaukee.com
   - DOMAIN-SUFFIX,foxnewsaroundtheworld.com
+  - DOMAIN-SUFFIX,foxtelevisionstations.com
   - DOMAIN-SUFFIX,foxcreativeuniversity.com
+  - DOMAIN-SUFFIX,foxsportsnetmilwaukee.com
   - DOMAIN-SUFFIX,foxsmallbusinesscenter.org
   - DOMAIN-SUFFIX,foxsmallbusinesscenter.net
   - DOMAIN-SUFFIX,foxsmallbusinesscenter.com
   - DOMAIN-SUFFIX,foxtel.com.au
   - DOMAIN-SUFFIX,foxsports.co.ve
-  - DOMAIN-SUFFIX,foxsports.com.gt
   - DOMAIN-SUFFIX,foxsports.com.co
+  - DOMAIN-SUFFIX,foxsports.com.ar
+  - DOMAIN-SUFFIX,foxsports.com.gt
   - DOMAIN-SUFFIX,foxsports.com.pe
-  - DOMAIN-SUFFIX,foxsports.com.bo
-  - DOMAIN-SUFFIX,foxsports.net.br
-  - DOMAIN-SUFFIX,foxsports.com.mx
-  - DOMAIN-SUFFIX,foxsports.com.ve
+  - DOMAIN-SUFFIX,foxsports.com.py
   - DOMAIN-SUFFIX,foxsports.com.ec
   - DOMAIN-SUFFIX,foxsports.com.br
-  - DOMAIN-SUFFIX,foxsports.com.ar
   - DOMAIN-SUFFIX,foxsports.com.uy
-  - DOMAIN-SUFFIX,foxsports.com.py
+  - DOMAIN-SUFFIX,foxsports.com.ve
+  - DOMAIN-SUFFIX,foxsports.com.mx
+  - DOMAIN-SUFFIX,foxsports.net.br
+  - DOMAIN-SUFFIX,foxsports.com.bo
   - DOMAIN-SUFFIX,dashasiafox.akamaized.net
   - DOMAIN-SUFFIX,foxsports02-i.akamaihd.net
   - DOMAIN-SUFFIX,foxsports03-i.akamaihd.net

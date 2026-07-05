@@ -14,9 +14,9 @@
 
 ### 规则统计
 
-- 总数：`10`
-- `DOMAIN`: 4
-- `DOMAIN-SUFFIX`: 6
+- 总数：`39`
+- `DOMAIN`: 11
+- `DOMAIN-SUFFIX`: 28
 
 ### 使用说明
 
@@ -39,7 +39,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 BardAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list)
+- [v2fly/domain-list-community: google-deepmind (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google-deepmind)
+- [blackmatrix7/ios_rule_script: BardAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list)
 
 <details>
 <summary>English</summary>

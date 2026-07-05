@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 JianShu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JianShu/JianShu.list)
+- [blackmatrix7/ios_rule_script: JianShu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JianShu/JianShu.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 WeiZhiYunDong](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeiZhiYunDong/WeiZhiYunDong.list)
+- [blackmatrix7/ios_rule_script: WeiZhiYunDong](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeiZhiYunDong/WeiZhiYunDong.list)
 
 <details>
 <summary>English</summary>

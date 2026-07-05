@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 SmarTone](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SmarTone/SmarTone.list)
+- [blackmatrix7/ios_rule_script: SmarTone](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SmarTone/SmarTone.list)
 
 <details>
 <summary>English</summary>

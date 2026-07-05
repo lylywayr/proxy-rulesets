@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LG](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LG/LG.list)
+- [blackmatrix7/ios_rule_script: LG](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LG/LG.list)
 
 <details>
 <summary>English</summary>

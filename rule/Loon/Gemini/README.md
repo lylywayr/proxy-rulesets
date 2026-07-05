@@ -14,9 +14,9 @@ Gemini 与 BardAI 相关规则。
 
 ### 规则统计
 
-- 总数：`14`
-- `DOMAIN`: 4
-- `DOMAIN-SUFFIX`: 7
+- 总数：`43`
+- `DOMAIN`: 11
+- `DOMAIN-SUFFIX`: 29
 - `DOMAIN-KEYWORD`: 3
 
 ### 使用说明
@@ -39,8 +39,9 @@ Gemini 与 BardAI 相关规则。
 
 ### 数据来源
 
-- [blackmatrix7 Gemini](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list)
-- [blackmatrix7 BardAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list)
+- [v2fly/domain-list-community: google-deepmind (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google-deepmind)
+- [blackmatrix7/ios_rule_script: BardAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list)
+- [blackmatrix7/ios_rule_script: Gemini](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list)
 
 <details>
 <summary>English</summary>

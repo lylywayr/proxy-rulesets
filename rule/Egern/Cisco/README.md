@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Cisco](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cisco/Cisco.list)
+- [blackmatrix7/ios_rule_script: Cisco](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cisco/Cisco.list)
 
 <details>
 <summary>English</summary>

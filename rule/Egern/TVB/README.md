@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TVB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVB/TVB.list)
+- [blackmatrix7/ios_rule_script: TVB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVB/TVB.list)
 
 <details>
 <summary>English</summary>

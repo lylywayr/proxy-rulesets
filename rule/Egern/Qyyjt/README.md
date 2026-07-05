@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Qyyjt](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qyyjt/Qyyjt.list)
+- [blackmatrix7/ios_rule_script: Qyyjt](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qyyjt/Qyyjt.list)
 
 <details>
 <summary>English</summary>

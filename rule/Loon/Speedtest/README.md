@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Speedtest](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Speedtest.list)
+- [blackmatrix7/ios_rule_script: Speedtest](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Speedtest.list)
 
 <details>
 <summary>English</summary>

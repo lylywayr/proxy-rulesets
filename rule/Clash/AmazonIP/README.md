@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AmazonIP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonIP/AmazonIP.list)
+- [blackmatrix7/ios_rule_script: AmazonIP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonIP/AmazonIP.list)
 
 <details>
 <summary>English</summary>

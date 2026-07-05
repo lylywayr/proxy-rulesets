@@ -1,6 +1,6 @@
 # NAME: Acer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:47:58.813999+00:00
+# UPDATED: 2026-07-05T06:00:22.595948+00:00
 no_resolve: true
 domain_suffix_set:
   - "acer.com"

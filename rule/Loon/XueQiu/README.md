@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 XueQiu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XueQiu/XueQiu.list)
+- [blackmatrix7/ios_rule_script: XueQiu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XueQiu/XueQiu.list)
 
 <details>
 <summary>English</summary>

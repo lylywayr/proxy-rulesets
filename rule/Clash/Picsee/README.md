@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Picsee](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Picsee/Picsee.list)
+- [blackmatrix7/ios_rule_script: Picsee](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Picsee/Picsee.list)
 
 <details>
 <summary>English</summary>

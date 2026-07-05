@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Pubmatic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pubmatic/Pubmatic.list)
+- [blackmatrix7/ios_rule_script: Pubmatic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pubmatic/Pubmatic.list)
 
 <details>
 <summary>English</summary>

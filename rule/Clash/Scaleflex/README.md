@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Scaleflex](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scaleflex/Scaleflex.list)
+- [blackmatrix7/ios_rule_script: Scaleflex](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scaleflex/Scaleflex.list)
 
 <details>
 <summary>English</summary>

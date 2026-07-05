@@ -42,10 +42,9 @@ TikTok 服务规则。
 
 ### 数据来源
 
-- [blackmatrix7 TikTok](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list)
-- [ACL4SSR TikTok list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list)
-- [ACL4SSR TikTok provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/TikTok.yaml)
-- [LM-Firefly TikTok list](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/TikTok.list)
+- [ACL4SSR/ACL4SSR: TikTok](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list)
+- [LM-Firefly/Rules: TikTok](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/TikTok.list)
+- [blackmatrix7/ios_rule_script: TikTok](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 WildRift](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WildRift/WildRift.list)
+- [blackmatrix7/ios_rule_script: WildRift](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WildRift/WildRift.list)
 
 <details>
 <summary>English</summary>

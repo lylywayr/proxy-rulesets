@@ -1,13 +1,18 @@
 # NAME: Copilot
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:04:22.259437+00:00
+# UPDATED: 2026-07-05T06:22:05.779104+00:00
 payload:
   - DOMAIN,api.msn.com
   - DOMAIN,api.statsig.com
   - DOMAIN,assets.msn.com
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,copilot-telemetry-service.githubusercontent.com
+  - DOMAIN,copilot-telemetry.githubusercontent.com
+  - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN,copilot.microsoft.com
+  - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,gateway.bingviz.microsoft.net
   - DOMAIN,gateway.bingviz.microsoftapp.net
   - DOMAIN,in.appcenter.ms
@@ -24,28 +29,29 @@ payload:
   - DOMAIN,www.bing.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,algolia.net
-  - DOMAIN-SUFFIX,identrust.com
-  - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,observeit.net
+  - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,openaicom.imgix.net
   - DOMAIN-SUFFIX,api.microsoftapp.net
-  - DOMAIN-SUFFIX,edgeservices.bing.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,edgeservices.bing.com
   - DOMAIN-SUFFIX,events.statsigapi.net
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
   - DOMAIN-KEYWORD,openaicom-api

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 EastMoney](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EastMoney/EastMoney.list)
+- [blackmatrix7/ios_rule_script: EastMoney](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EastMoney/EastMoney.list)
 
 <details>
 <summary>English</summary>

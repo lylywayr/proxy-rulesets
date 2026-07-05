@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Bootcss](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bootcss/Bootcss.list)
+- [blackmatrix7/ios_rule_script: Bootcss](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bootcss/Bootcss.list)
 
 <details>
 <summary>English</summary>

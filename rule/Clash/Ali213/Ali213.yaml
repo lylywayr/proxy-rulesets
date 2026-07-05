@@ -1,5 +1,5 @@
 # NAME: Ali213
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:48:00.814528+00:00
+# UPDATED: 2026-07-05T06:00:44.725740+00:00
 payload:
   - DOMAIN-SUFFIX,ali213.net

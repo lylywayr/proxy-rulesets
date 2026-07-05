@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Dood](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dood/Dood.list)
+- [blackmatrix7/ios_rule_script: Dood](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dood/Dood.list)
 
 <details>
 <summary>English</summary>

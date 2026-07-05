@@ -15,8 +15,8 @@ Telegram 域名与 CIDR 规则。
 
 ### 规则统计
 
-- 总数：`17`
-- `DOMAIN-SUFFIX`: 6
+- 总数：`32`
+- `DOMAIN-SUFFIX`: 21
 - `DOMAIN-KEYWORD`: 1
 - `IP-CIDR`: 6
 - `IP-CIDR6`: 4
@@ -41,11 +41,10 @@ Telegram 域名与 CIDR 规则。
 
 ### 数据来源
 
-- [ACL4SSR Telegram list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list)
-- [ACL4SSR Telegram provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml)
-- [Hackl0us Telegram](https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list)
-- [Loyalsoldier Telegram CIDR](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt)
-- [Loyalsoldier Clash Telegram CIDR](https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt)
+- [v2fly/domain-list-community: telegram (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/telegram)
+- [Loyalsoldier/surge-rules: telegramcidr](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt)
+- [ACL4SSR/ACL4SSR: Telegram](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list)
+- [Hackl0us/SS-Rule-Snippet: Telegram](https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list)
 
 <details>
 <summary>English</summary>

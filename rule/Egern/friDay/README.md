@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 friDay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/friDay/friDay.list)
+- [blackmatrix7/ios_rule_script: friDay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/friDay/friDay.list)
 
 <details>
 <summary>English</summary>

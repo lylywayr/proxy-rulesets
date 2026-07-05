@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CNN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNN/CNN.list)
+- [blackmatrix7/ios_rule_script: CNN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNN/CNN.list)
 
 <details>
 <summary>English</summary>

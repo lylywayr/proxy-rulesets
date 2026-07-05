@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Siri](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Siri/Siri.list)
+- [blackmatrix7/ios_rule_script: Siri](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Siri/Siri.list)
 
 <details>
 <summary>English</summary>

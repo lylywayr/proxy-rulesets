@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Cloudflarecn](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflarecn/Cloudflarecn.list)
+- [blackmatrix7/ios_rule_script: Cloudflarecn](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflarecn/Cloudflarecn.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BMW](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BMW/BMW.list)
+- [blackmatrix7/ios_rule_script: BMW](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BMW/BMW.list)
 
 <details>
 <summary>English</summary>

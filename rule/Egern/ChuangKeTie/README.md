@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChuangKeTie](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChuangKeTie/ChuangKeTie.list)
+- [blackmatrix7/ios_rule_script: ChuangKeTie](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChuangKeTie/ChuangKeTie.list)
 
 <details>
 <summary>English</summary>

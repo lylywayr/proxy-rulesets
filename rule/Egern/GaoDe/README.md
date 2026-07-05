@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GaoDe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GaoDe/GaoDe.list)
+- [blackmatrix7/ios_rule_script: GaoDe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GaoDe/GaoDe.list)
 
 <details>
 <summary>English</summary>

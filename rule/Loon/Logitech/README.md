@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Logitech](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Logitech/Logitech.list)
+- [blackmatrix7/ios_rule_script: Logitech](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Logitech/Logitech.list)
 
 <details>
 <summary>English</summary>

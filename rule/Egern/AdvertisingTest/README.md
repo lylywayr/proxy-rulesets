@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AdvertisingTest](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingTest/AdvertisingTest.list)
+- [blackmatrix7/ios_rule_script: AdvertisingTest](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingTest/AdvertisingTest.list)
 
 <details>
 <summary>English</summary>

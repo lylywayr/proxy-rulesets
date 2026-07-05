@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Jwplayer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jwplayer/Jwplayer.list)
+- [blackmatrix7/ios_rule_script: Jwplayer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jwplayer/Jwplayer.list)
 
 <details>
 <summary>English</summary>

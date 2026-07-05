@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Nvidia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nvidia/Nvidia.list)
+- [blackmatrix7/ios_rule_script: Nvidia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nvidia/Nvidia.list)
 
 <details>
 <summary>English</summary>

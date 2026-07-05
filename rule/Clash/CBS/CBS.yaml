@@ -1,35 +1,35 @@
 # NAME: CBS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:48:07.312266+00:00
+# UPDATED: 2026-07-05T06:01:00.201006+00:00
 payload:
   - DOMAIN-SUFFIX,amlg.io
   - DOMAIN-SUFFIX,cbs.com
-  - DOMAIN-SUFFIX,pluto.tv
   - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,pluto.tv
   - DOMAIN-SUFFIX,cbsig.net
   - DOMAIN-SUFFIX,cbsiam.com
+  - DOMAIN-SUFFIX,viacom.com
   - DOMAIN-SUFFIX,cbsimg.net
   - DOMAIN-SUFFIX,viacbs.com
-  - DOMAIN-SUFFIX,viacom.com
   - DOMAIN-SUFFIX,cbsi.video
   - DOMAIN-SUFFIX,plutotv.net
   - DOMAIN-SUFFIX,cbsnews.com
-  - DOMAIN-SUFFIX,cbsradio.com
-  - DOMAIN-SUFFIX,showtime.com
   - DOMAIN-SUFFIX,cbsstore.com
-  - DOMAIN-SUFFIX,cbsstatic.com
-  - DOMAIN-SUFFIX,paramount.com
+  - DOMAIN-SUFFIX,showtime.com
+  - DOMAIN-SUFFIX,cbsradio.com
   - DOMAIN-SUFFIX,cbssports.com
-  - DOMAIN-SUFFIX,viacomcbs.com
-  - DOMAIN-SUFFIX,cbssvideo.com
+  - DOMAIN-SUFFIX,paramount.com
   - DOMAIN-SUFFIX,cbsivideo.com
-  - DOMAIN-SUFFIX,cbsistatic.com
+  - DOMAIN-SUFFIX,cbssvideo.com
+  - DOMAIN-SUFFIX,viacomcbs.com
+  - DOMAIN-SUFFIX,cbsstatic.com
   - DOMAIN-SUFFIX,cbsaavideo.com
+  - DOMAIN-SUFFIX,cbsistatic.com
   - DOMAIN-SUFFIX,pplusstatic.com
   - DOMAIN-SUFFIX,mtvnservices.com
   - DOMAIN-SUFFIX,paramountplus.com
-  - DOMAIN-SUFFIX,cbsinteractive.com
   - DOMAIN-SUFFIX,cbscorporation.com
+  - DOMAIN-SUFFIX,cbsinteractive.com
   - DOMAIN-SUFFIX,cbspressexpress.com
   - DOMAIN-SUFFIX,cbstelevisioncity.com
   - DOMAIN-SUFFIX,viacomcbspressexpress.com

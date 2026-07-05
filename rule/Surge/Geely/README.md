@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Geely](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Geely/Geely.list)
+- [blackmatrix7/ios_rule_script: Geely](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Geely/Geely.list)
 
 <details>
 <summary>English</summary>

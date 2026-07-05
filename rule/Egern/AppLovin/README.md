@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppLovin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppLovin/AppLovin.list)
+- [blackmatrix7/ios_rule_script: AppLovin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppLovin/AppLovin.list)
 
 <details>
 <summary>English</summary>

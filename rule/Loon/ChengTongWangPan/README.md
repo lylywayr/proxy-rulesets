@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChengTongWangPan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChengTongWangPan/ChengTongWangPan.list)
+- [blackmatrix7/ios_rule_script: ChengTongWangPan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChengTongWangPan/ChengTongWangPan.list)
 
 <details>
 <summary>English</summary>

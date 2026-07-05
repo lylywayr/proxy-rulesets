@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Riot](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Riot/Riot.list)
+- [blackmatrix7/ios_rule_script: Riot](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Riot/Riot.list)
 
 <details>
 <summary>English</summary>

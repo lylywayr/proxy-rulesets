@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Comodo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Comodo/Comodo.list)
+- [blackmatrix7/ios_rule_script: Comodo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Comodo/Comodo.list)
 
 <details>
 <summary>English</summary>

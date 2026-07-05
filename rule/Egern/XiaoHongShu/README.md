@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 XiaoHongShu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoHongShu/XiaoHongShu.list)
+- [blackmatrix7/ios_rule_script: XiaoHongShu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoHongShu/XiaoHongShu.list)
 
 <details>
 <summary>English</summary>

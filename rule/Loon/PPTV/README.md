@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 PPTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PPTV/PPTV.list)
+- [blackmatrix7/ios_rule_script: PPTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PPTV/PPTV.list)
 
 <details>
 <summary>English</summary>

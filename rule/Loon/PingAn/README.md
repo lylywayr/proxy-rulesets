@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 PingAn](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PingAn/PingAn.list)
+- [blackmatrix7/ios_rule_script: PingAn](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PingAn/PingAn.list)
 
 <details>
 <summary>English</summary>

@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 NetEase](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/NetEase.list)
+- [blackmatrix7/ios_rule_script: NetEase](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/NetEase.list)
 
 <details>
 <summary>English</summary>

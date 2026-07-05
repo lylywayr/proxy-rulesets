@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DouBan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouBan/DouBan.list)
+- [blackmatrix7/ios_rule_script: DouBan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouBan/DouBan.list)
 
 <details>
 <summary>English</summary>

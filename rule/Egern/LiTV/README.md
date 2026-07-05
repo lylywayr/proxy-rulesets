@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LiTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LiTV/LiTV.list)
+- [blackmatrix7/ios_rule_script: LiTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LiTV/LiTV.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TianWeiChengXin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianWeiChengXin/TianWeiChengXin.list)
+- [blackmatrix7/ios_rule_script: TianWeiChengXin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianWeiChengXin/TianWeiChengXin.list)
 
 <details>
 <summary>English</summary>

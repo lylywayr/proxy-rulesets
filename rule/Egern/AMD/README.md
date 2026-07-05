@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AMD](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMD/AMD.list)
+- [blackmatrix7/ios_rule_script: AMD](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMD/AMD.list)
 
 <details>
 <summary>English</summary>

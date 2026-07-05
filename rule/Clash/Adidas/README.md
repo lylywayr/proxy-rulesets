@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Adidas](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Adidas/Adidas.list)
+- [blackmatrix7/ios_rule_script: Adidas](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Adidas/Adidas.list)
 
 <details>
 <summary>English</summary>

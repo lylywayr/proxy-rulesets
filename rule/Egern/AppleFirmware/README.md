@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppleFirmware](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleFirmware/AppleFirmware.list)
+- [blackmatrix7/ios_rule_script: AppleFirmware](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleFirmware/AppleFirmware.list)
 
 <details>
 <summary>English</summary>

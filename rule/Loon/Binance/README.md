@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Binance](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Binance/Binance.list)
+- [blackmatrix7/ios_rule_script: Binance](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Binance/Binance.list)
 
 <details>
 <summary>English</summary>

@@ -1,12 +1,12 @@
 # NAME: GitLab
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:38.220936+00:00
+# UPDATED: 2026-07-05T06:31:39.136246+00:00
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 
 DOMAIN-SUFFIX,gitter.im
-DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitter-static.net
 DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com

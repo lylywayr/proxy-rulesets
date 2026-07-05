@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Hkgolden](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hkgolden/Hkgolden.list)
+- [blackmatrix7/ios_rule_script: Hkgolden](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hkgolden/Hkgolden.list)
 
 <details>
 <summary>English</summary>

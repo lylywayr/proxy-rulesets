@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CSDN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CSDN/CSDN.list)
+- [blackmatrix7/ios_rule_script: CSDN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CSDN/CSDN.list)
 
 <details>
 <summary>English</summary>

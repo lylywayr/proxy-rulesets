@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TeamViewer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TeamViewer/TeamViewer.list)
+- [blackmatrix7/ios_rule_script: TeamViewer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TeamViewer/TeamViewer.list)
 
 <details>
 <summary>English</summary>

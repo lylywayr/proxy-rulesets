@@ -15,10 +15,11 @@
 
 ### 规则统计
 
-- 总数：`112396`
-- `DOMAIN`: 442
-- `DOMAIN-SUFFIX`: 111881
+- 总数：`112934`
+- `DOMAIN`: 449
+- `DOMAIN-SUFFIX`: 112409
 - `DOMAIN-KEYWORD`: 36
+- `DOMAIN-REGEX`: 3
 - `USER-AGENT`: 1
 - `PROCESS-NAME`: 36
 
@@ -42,8 +43,10 @@
 
 ### 数据来源
 
-- [blackmatrix7 Direct](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Direct/Direct.list)
-- [Loyalsoldier direct domains](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt)
+- [v2fly/domain-list-community: cn (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/cn)
+- [Loyalsoldier/surge-rules: direct](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt)
+- [Loyalsoldier/v2ray-rules-dat: direct-list](https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt)
+- [blackmatrix7/ios_rule_script: Direct](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Direct/Direct.list)
 
 <details>
 <summary>English</summary>

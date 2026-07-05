@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BBC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC.list)
+- [blackmatrix7/ios_rule_script: BBC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC.list)
 
 <details>
 <summary>English</summary>

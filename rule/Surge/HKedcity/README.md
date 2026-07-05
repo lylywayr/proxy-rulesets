@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HKedcity](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKedcity/HKedcity.list)
+- [blackmatrix7/ios_rule_script: HKedcity](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKedcity/HKedcity.list)
 
 <details>
 <summary>English</summary>

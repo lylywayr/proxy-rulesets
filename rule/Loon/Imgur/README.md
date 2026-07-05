@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Imgur](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Imgur/Imgur.list)
+- [blackmatrix7/ios_rule_script: Imgur](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Imgur/Imgur.list)
 
 <details>
 <summary>English</summary>

@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Advertising](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list)
+- [blackmatrix7/ios_rule_script: Advertising](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list)
 
 <details>
 <summary>English</summary>

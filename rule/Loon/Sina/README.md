@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Sina](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina.list)
+- [blackmatrix7/ios_rule_script: Sina](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina.list)
 
 <details>
 <summary>English</summary>

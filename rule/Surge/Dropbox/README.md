@@ -37,7 +37,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 Dropbox](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dropbox/Dropbox.list)
+- [v2fly/domain-list-community: dropbox (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/dropbox)
+- [blackmatrix7/ios_rule_script: Dropbox](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dropbox/Dropbox.list)
 
 <details>
 <summary>English</summary>

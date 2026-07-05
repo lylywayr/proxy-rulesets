@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 PChome](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PChome/PChome.list)
+- [blackmatrix7/ios_rule_script: PChome](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PChome/PChome.list)
 
 <details>
 <summary>English</summary>

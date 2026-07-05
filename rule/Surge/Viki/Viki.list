@@ -1,12 +1,12 @@
 # NAME: Viki
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:21:03.087381+00:00
+# UPDATED: 2026-07-05T06:43:01.777621+00:00
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 
 DOMAIN-SUFFIX,viki.io
-DOMAIN-SUFFIX,viki.net
 DOMAIN-SUFFIX,viki.com
+DOMAIN-SUFFIX,viki.net
 DOMAIN-SUFFIX,vikiplatform.com
 DOMAIN-SUFFIX,twemoji.maxcdn.com
 DOMAIN-SUFFIX,vikidash.akamaized.net

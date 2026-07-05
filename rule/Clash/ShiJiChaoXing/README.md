@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ShiJiChaoXing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShiJiChaoXing/ShiJiChaoXing.list)
+- [blackmatrix7/ios_rule_script: ShiJiChaoXing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShiJiChaoXing/ShiJiChaoXing.list)
 
 <details>
 <summary>English</summary>

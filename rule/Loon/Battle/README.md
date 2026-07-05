@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Battle](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Battle/Battle.list)
+- [blackmatrix7/ios_rule_script: Battle](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Battle/Battle.list)
 
 <details>
 <summary>English</summary>

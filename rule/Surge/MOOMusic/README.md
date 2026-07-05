@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 MOOMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOOMusic/MOOMusic.list)
+- [blackmatrix7/ios_rule_script: MOOMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOOMusic/MOOMusic.list)
 
 <details>
 <summary>English</summary>

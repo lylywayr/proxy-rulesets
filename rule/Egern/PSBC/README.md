@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 PSBC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PSBC/PSBC.list)
+- [blackmatrix7/ios_rule_script: PSBC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PSBC/PSBC.list)
 
 <details>
 <summary>English</summary>

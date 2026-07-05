@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CGB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CGB/CGB.list)
+- [blackmatrix7/ios_rule_script: CGB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CGB/CGB.list)
 
 <details>
 <summary>English</summary>

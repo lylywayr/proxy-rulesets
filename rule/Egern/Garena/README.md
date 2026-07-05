@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Garena](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Garena/Garena.list)
+- [blackmatrix7/ios_rule_script: Garena](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Garena/Garena.list)
 
 <details>
 <summary>English</summary>

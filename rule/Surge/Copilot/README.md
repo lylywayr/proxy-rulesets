@@ -14,9 +14,9 @@ GitHub Copilot 与相关服务。
 
 ### 规则统计
 
-- 总数：`51`
-- `DOMAIN`: 20
-- `DOMAIN-SUFFIX`: 26
+- 总数：`57`
+- `DOMAIN`: 25
+- `DOMAIN-SUFFIX`: 27
 - `DOMAIN-KEYWORD`: 1
 - `IP-ASN`: 2
 - `IP-CIDR`: 2
@@ -41,7 +41,8 @@ GitHub Copilot 与相关服务。
 
 ### 数据来源
 
-- [blackmatrix7 Copilot](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list)
+- [v2fly/domain-list-community: github-copilot (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/github-copilot)
+- [blackmatrix7/ios_rule_script: Copilot](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list)
 
 <details>
 <summary>English</summary>

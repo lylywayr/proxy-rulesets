@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaUnicom](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaUnicom/ChinaUnicom.list)
+- [blackmatrix7/ios_rule_script: ChinaUnicom](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaUnicom/ChinaUnicom.list)
 
 <details>
 <summary>English</summary>

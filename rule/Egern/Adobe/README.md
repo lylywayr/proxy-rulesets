@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Adobe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Adobe/Adobe.list)
+- [blackmatrix7/ios_rule_script: Adobe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Adobe/Adobe.list)
 
 <details>
 <summary>English</summary>

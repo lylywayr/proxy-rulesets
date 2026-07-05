@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HuaShuTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuaShuTV/HuaShuTV.list)
+- [blackmatrix7/ios_rule_script: HuaShuTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuaShuTV/HuaShuTV.list)
 
 <details>
 <summary>English</summary>

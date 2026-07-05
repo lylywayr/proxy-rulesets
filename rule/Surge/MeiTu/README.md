@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 MeiTu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTu/MeiTu.list)
+- [blackmatrix7/ios_rule_script: MeiTu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTu/MeiTu.list)
 
 <details>
 <summary>English</summary>

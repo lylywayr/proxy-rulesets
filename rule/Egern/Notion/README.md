@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Notion](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Notion/Notion.list)
+- [blackmatrix7/ios_rule_script: Notion](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Notion/Notion.list)
 
 <details>
 <summary>English</summary>

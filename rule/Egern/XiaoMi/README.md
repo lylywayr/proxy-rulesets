@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 XiaoMi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoMi/XiaoMi.list)
+- [blackmatrix7/ios_rule_script: XiaoMi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoMi/XiaoMi.list)
 
 <details>
 <summary>English</summary>

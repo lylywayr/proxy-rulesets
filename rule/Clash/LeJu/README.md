@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LeJu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LeJu/LeJu.list)
+- [blackmatrix7/ios_rule_script: LeJu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LeJu/LeJu.list)
 
 <details>
 <summary>English</summary>

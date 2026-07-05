@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 OnePlus](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OnePlus/OnePlus.list)
+- [blackmatrix7/ios_rule_script: OnePlus](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OnePlus/OnePlus.list)
 
 <details>
 <summary>English</summary>

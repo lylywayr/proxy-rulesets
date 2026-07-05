@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CBS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CBS/CBS.list)
+- [blackmatrix7/ios_rule_script: CBS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CBS/CBS.list)
 
 <details>
 <summary>English</summary>

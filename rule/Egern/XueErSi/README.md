@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 XueErSi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XueErSi/XueErSi.list)
+- [blackmatrix7/ios_rule_script: XueErSi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XueErSi/XueErSi.list)
 
 <details>
 <summary>English</summary>

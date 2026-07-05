@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TestFlight](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TestFlight/TestFlight.list)
+- [blackmatrix7/ios_rule_script: TestFlight](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TestFlight/TestFlight.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Abema](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Abema/Abema.list)
+- [blackmatrix7/ios_rule_script: Abema](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Abema/Abema.list)
 
 <details>
 <summary>English</summary>

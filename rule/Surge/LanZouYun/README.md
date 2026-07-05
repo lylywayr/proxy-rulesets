@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LanZouYun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LanZouYun/LanZouYun.list)
+- [blackmatrix7/ios_rule_script: LanZouYun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LanZouYun/LanZouYun.list)
 
 <details>
 <summary>English</summary>

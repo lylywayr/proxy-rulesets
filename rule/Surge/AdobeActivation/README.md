@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AdobeActivation](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdobeActivation/AdobeActivation.list)
+- [blackmatrix7/ios_rule_script: AdobeActivation](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdobeActivation/AdobeActivation.list)
 
 <details>
 <summary>English</summary>

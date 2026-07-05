@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 NYPost](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYPost/NYPost.list)
+- [blackmatrix7/ios_rule_script: NYPost](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYPost/NYPost.list)
 
 <details>
 <summary>English</summary>

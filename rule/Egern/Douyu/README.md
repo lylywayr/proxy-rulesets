@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Douyu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Douyu/Douyu.list)
+- [blackmatrix7/ios_rule_script: Douyu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Douyu/Douyu.list)
 
 <details>
 <summary>English</summary>

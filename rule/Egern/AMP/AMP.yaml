@@ -1,6 +1,6 @@
 # NAME: AMP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:48:01.602117+00:00
+# UPDATED: 2026-07-05T06:00:44.805314+00:00
 no_resolve: true
 domain_set:
   - "amp.akamaized.net"

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaTelecom](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTelecom/ChinaTelecom.list)
+- [blackmatrix7/ios_rule_script: ChinaTelecom](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTelecom/ChinaTelecom.list)
 
 <details>
 <summary>English</summary>

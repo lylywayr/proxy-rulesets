@@ -15,8 +15,8 @@
 
 ### 规则统计
 
-- 总数：`4`
-- `DOMAIN-SUFFIX`: 3
+- 总数：`111691`
+- `DOMAIN-SUFFIX`: 111690
 - `IP-CIDR`: 1
 
 ### 使用说明
@@ -40,7 +40,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaDNS/ChinaDNS.list)
+- [felixonmars/dnsmasq-china-list: accelerated-domains.china.conf](https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf)
+- [blackmatrix7/ios_rule_script: ChinaDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaDNS/ChinaDNS.list)
 
 <details>
 <summary>English</summary>

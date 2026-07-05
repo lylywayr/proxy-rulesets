@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Wteam](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wteam/Wteam.list)
+- [blackmatrix7/ios_rule_script: Wteam](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wteam/Wteam.list)
 
 <details>
 <summary>English</summary>

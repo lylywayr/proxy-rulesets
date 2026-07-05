@@ -1,27 +1,27 @@
 # NAME: PingAn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:53.292920+00:00
+# UPDATED: 2026-07-05T06:32:22.901067+00:00
 payload:
   - DOMAIN-SUFFIX,eka.cn
   - DOMAIN-SUFFIX,yqb.com
-  - DOMAIN-SUFFIX,ekapay.cn
   - DOMAIN-SUFFIX,olatop.cn
-  - DOMAIN-SUFFIX,pingan.com
-  - DOMAIN-SUFFIX,olatop.net
+  - DOMAIN-SUFFIX,ekapay.cn
   - DOMAIN-SUFFIX,yqbimg.net
+  - DOMAIN-SUFFIX,olatop.net
   - DOMAIN-SUFFIX,yqbimg.com
   - DOMAIN-SUFFIX,olatop.com
-  - DOMAIN-SUFFIX,1qianbao.cn
+  - DOMAIN-SUFFIX,pingan.com
   - DOMAIN-SUFFIX,18ebank.com
-  - DOMAIN-SUFFIX,1qianbao.com
+  - DOMAIN-SUFFIX,1qianbao.cn
   - DOMAIN-SUFFIX,1qianbao.net
+  - DOMAIN-SUFFIX,1qianbao.com
   - DOMAIN-SUFFIX,1010-0000.com
-  - DOMAIN-SUFFIX,yiqianbao.net
   - DOMAIN-SUFFIX,4008880999.cn
-  - DOMAIN-SUFFIX,4008000000.com
-  - DOMAIN-SUFFIX,4008880999.net
-  - DOMAIN-SUFFIX,4008824365.com
+  - DOMAIN-SUFFIX,yiqianbao.net
   - DOMAIN-SUFFIX,4008880999.com
+  - DOMAIN-SUFFIX,4008000000.com
+  - DOMAIN-SUFFIX,4008824365.com
+  - DOMAIN-SUFFIX,4008880999.net
   - DOMAIN-SUFFIX,mingyuanfund.com
   - DOMAIN-SUFFIX,pinganventures.com
   - DOMAIN-SUFFIX,pingan.com.cn

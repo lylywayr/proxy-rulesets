@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HeMa](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeMa/HeMa.list)
+- [blackmatrix7/ios_rule_script: HeMa](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeMa/HeMa.list)
 
 <details>
 <summary>English</summary>

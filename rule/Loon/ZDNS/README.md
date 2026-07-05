@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ZDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZDNS/ZDNS.list)
+- [blackmatrix7/ios_rule_script: ZDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZDNS/ZDNS.list)
 
 <details>
 <summary>English</summary>

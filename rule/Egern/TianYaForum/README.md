@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TianYaForum](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianYaForum/TianYaForum.list)
+- [blackmatrix7/ios_rule_script: TianYaForum](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianYaForum/TianYaForum.list)
 
 <details>
 <summary>English</summary>

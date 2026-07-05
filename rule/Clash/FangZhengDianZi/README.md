@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 FangZhengDianZi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FangZhengDianZi/FangZhengDianZi.list)
+- [blackmatrix7/ios_rule_script: FangZhengDianZi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FangZhengDianZi/FangZhengDianZi.list)
 
 <details>
 <summary>English</summary>

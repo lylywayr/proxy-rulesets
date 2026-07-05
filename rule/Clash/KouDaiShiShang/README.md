@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 KouDaiShiShang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KouDaiShiShang/KouDaiShiShang.list)
+- [blackmatrix7/ios_rule_script: KouDaiShiShang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KouDaiShiShang/KouDaiShiShang.list)
 
 <details>
 <summary>English</summary>

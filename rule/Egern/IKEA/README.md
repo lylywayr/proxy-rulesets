@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 IKEA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IKEA/IKEA.list)
+- [blackmatrix7/ios_rule_script: IKEA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IKEA/IKEA.list)
 
 <details>
 <summary>English</summary>

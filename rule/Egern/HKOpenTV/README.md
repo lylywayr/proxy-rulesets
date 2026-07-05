@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HKOpenTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKOpenTV/HKOpenTV.list)
+- [blackmatrix7/ios_rule_script: HKOpenTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKOpenTV/HKOpenTV.list)
 
 <details>
 <summary>English</summary>

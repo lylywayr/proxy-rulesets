@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Americasvoice](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Americasvoice/Americasvoice.list)
+- [blackmatrix7/ios_rule_script: Americasvoice](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Americasvoice/Americasvoice.list)
 
 <details>
 <summary>English</summary>

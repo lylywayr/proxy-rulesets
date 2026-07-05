@@ -14,8 +14,8 @@
 
 ### 规则统计
 
-- 总数：`16`
-- `DOMAIN-SUFFIX`: 13
+- 总数：`22`
+- `DOMAIN-SUFFIX`: 19
 - `DOMAIN-KEYWORD`: 3
 - `PROCESS-NAME`: 2
 
@@ -40,7 +40,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 OneDrive](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OneDrive/OneDrive.list)
+- [v2fly/domain-list-community: onedrive (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/onedrive)
+- [blackmatrix7/ios_rule_script: OneDrive](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OneDrive/OneDrive.list)
 
 <details>
 <summary>English</summary>

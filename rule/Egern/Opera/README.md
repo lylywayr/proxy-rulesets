@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Opera](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Opera/Opera.list)
+- [blackmatrix7/ios_rule_script: Opera](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Opera/Opera.list)
 
 <details>
 <summary>English</summary>

@@ -1,6 +1,6 @@
 # NAME: IBM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:41.952524+00:00
+# UPDATED: 2026-07-05T06:32:07.600608+00:00
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 
@@ -11,8 +11,8 @@ DOMAIN-SUFFIX,ibm.eu
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,ibm.net
 DOMAIN-SUFFIX,s81c.com
+DOMAIN-SUFFIX,bluemix.net
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,bluemix.com
-DOMAIN-SUFFIX,bluemix.net
 DOMAIN-SUFFIX,s-bluemix.net
 DOMAIN-SUFFIX,appdomain.cloud

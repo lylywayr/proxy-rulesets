@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Hupu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hupu/Hupu.list)
+- [blackmatrix7/ios_rule_script: Hupu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hupu/Hupu.list)
 
 <details>
 <summary>English</summary>

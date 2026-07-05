@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 SystemOTA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list)
+- [blackmatrix7/ios_rule_script: SystemOTA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list)
 
 <details>
 <summary>English</summary>

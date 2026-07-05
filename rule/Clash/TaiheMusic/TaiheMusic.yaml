@@ -1,6 +1,6 @@
 # NAME: TaiheMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:58.840570+00:00
+# UPDATED: 2026-07-05T06:42:59.416331+00:00
 payload:
   - DOMAIN-SUFFIX,91q.com
   - DOMAIN-SUFFIX,taihe.com

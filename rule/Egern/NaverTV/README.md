@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 NaverTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NaverTV/NaverTV.list)
+- [blackmatrix7/ios_rule_script: NaverTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NaverTV/NaverTV.list)
 
 <details>
 <summary>English</summary>

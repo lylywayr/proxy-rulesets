@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Threads](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Threads/Threads.list)
+- [blackmatrix7/ios_rule_script: Threads](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Threads/Threads.list)
 
 <details>
 <summary>English</summary>

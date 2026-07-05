@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppleMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMusic/AppleMusic.list)
+- [blackmatrix7/ios_rule_script: AppleMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMusic/AppleMusic.list)
 
 <details>
 <summary>English</summary>

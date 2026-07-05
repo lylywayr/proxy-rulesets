@@ -1,6 +1,6 @@
 # NAME: CableTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:48:06.794563+00:00
+# UPDATED: 2026-07-05T06:01:00.178006+00:00
 no_resolve: true
 domain_suffix_set:
   - "i-cable.com"

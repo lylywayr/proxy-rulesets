@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TelegramSG](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TelegramSG/TelegramSG.list)
+- [blackmatrix7/ios_rule_script: TelegramSG](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TelegramSG/TelegramSG.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 3dm](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/3dm/3dm.list)
+- [blackmatrix7/ios_rule_script: 3dm](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/3dm/3dm.list)
 
 <details>
 <summary>English</summary>

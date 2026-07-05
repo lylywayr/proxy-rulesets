@@ -1,17 +1,17 @@
 # NAME: TianWeiChengXin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:21:00.599585+00:00
+# UPDATED: 2026-07-05T06:43:00.782420+00:00
 no_resolve: true
 domain_suffix_set:
   - "itrus.cn"
   - "itrus.com"
+  - "dcocsp.cn"
   - "mj365.vip"
   - "yunssl.cn"
-  - "ev-ssl.cn"
   - "fxg365.cn"
-  - "dcocsp.cn"
-  - "helloid.cn"
+  - "ev-ssl.cn"
   - "mj365.site"
+  - "helloid.cn"
   - "yunssl.com"
   - "6rencn.com"
   - "mj365.club"
@@ -19,10 +19,10 @@ domain_suffix_set:
   - "itrusign.com"
   - "nowhttps.com"
   - "4006663999.cn"
-  - "mingjian365.cn"
   - "itruscloud.com"
-  - "mingjian365.com"
+  - "mingjian365.cn"
   - "mingjian365.net"
-  - "itrus.com.cn"
+  - "mingjian365.com"
   - "itrus.net.cn"
+  - "itrus.com.cn"
   - "ev-ssl.com.cn"

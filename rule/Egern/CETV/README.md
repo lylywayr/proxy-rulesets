@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CETV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CETV/CETV.list)
+- [blackmatrix7/ios_rule_script: CETV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CETV/CETV.list)
 
 <details>
 <summary>English</summary>

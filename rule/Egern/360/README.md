@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 360](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360.list)
+- [blackmatrix7/ios_rule_script: 360](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360.list)
 
 <details>
 <summary>English</summary>

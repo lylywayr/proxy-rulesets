@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 WoLai](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WoLai/WoLai.list)
+- [blackmatrix7/ios_rule_script: WoLai](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WoLai/WoLai.list)
 
 <details>
 <summary>English</summary>

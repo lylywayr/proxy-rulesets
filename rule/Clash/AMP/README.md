@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AMP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMP/AMP.list)
+- [blackmatrix7/ios_rule_script: AMP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMP/AMP.list)
 
 <details>
 <summary>English</summary>

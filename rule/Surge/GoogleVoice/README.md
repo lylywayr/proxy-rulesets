@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GoogleVoice](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleVoice/GoogleVoice.list)
+- [blackmatrix7/ios_rule_script: GoogleVoice](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleVoice/GoogleVoice.list)
 
 <details>
 <summary>English</summary>

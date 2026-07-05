@@ -1,13 +1,13 @@
 # NAME: Pixnet
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:53.461140+00:00
+# UPDATED: 2026-07-05T06:32:22.910067+00:00
 payload:
   - DOMAIN-SUFFIX,pimg.tw
-  - DOMAIN-SUFFIX,pixnet.cc
   - DOMAIN-SUFFIX,pixnet.tw
   - DOMAIN-SUFFIX,pixfs.net
+  - DOMAIN-SUFFIX,pixnet.cc
   - DOMAIN-SUFFIX,pixnet.pro
-  - DOMAIN-SUFFIX,pixnet.net
   - DOMAIN-SUFFIX,pixplug.in
+  - DOMAIN-SUFFIX,pixnet.net
   - DOMAIN-SUFFIX,pixanalytics.com
   - DOMAIN-SUFFIX,pixinsight.com.tw

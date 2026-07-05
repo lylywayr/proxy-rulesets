@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 VOA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VOA/VOA.list)
+- [blackmatrix7/ios_rule_script: VOA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VOA/VOA.list)
 
 <details>
 <summary>English</summary>

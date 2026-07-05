@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GoogleDrive](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleDrive/GoogleDrive.list)
+- [blackmatrix7/ios_rule_script: GoogleDrive](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleDrive/GoogleDrive.list)
 
 <details>
 <summary>English</summary>

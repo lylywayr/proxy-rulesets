@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Synology](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Synology/Synology.list)
+- [blackmatrix7/ios_rule_script: Synology](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Synology/Synology.list)
 
 <details>
 <summary>English</summary>

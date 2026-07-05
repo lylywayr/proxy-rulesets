@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Camera360](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Camera360/Camera360.list)
+- [blackmatrix7/ios_rule_script: Camera360](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Camera360/Camera360.list)
 
 <details>
 <summary>English</summary>

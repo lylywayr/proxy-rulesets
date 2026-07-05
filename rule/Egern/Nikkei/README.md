@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Nikkei](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nikkei/Nikkei.list)
+- [blackmatrix7/ios_rule_script: Nikkei](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nikkei/Nikkei.list)
 
 <details>
 <summary>English</summary>

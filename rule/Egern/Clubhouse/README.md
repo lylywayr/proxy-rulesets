@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Clubhouse](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Clubhouse/Clubhouse.list)
+- [blackmatrix7/ios_rule_script: Clubhouse](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Clubhouse/Clubhouse.list)
 
 <details>
 <summary>English</summary>

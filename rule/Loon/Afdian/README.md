@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Afdian](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Afdian/Afdian.list)
+- [blackmatrix7/ios_rule_script: Afdian](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Afdian/Afdian.list)
 
 <details>
 <summary>English</summary>

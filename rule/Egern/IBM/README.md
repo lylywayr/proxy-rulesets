@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 IBM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IBM/IBM.list)
+- [blackmatrix7/ios_rule_script: IBM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IBM/IBM.list)
 
 <details>
 <summary>English</summary>

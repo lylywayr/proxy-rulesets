@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Zendesk](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zendesk/Zendesk.list)
+- [blackmatrix7/ios_rule_script: Zendesk](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zendesk/Zendesk.list)
 
 <details>
 <summary>English</summary>

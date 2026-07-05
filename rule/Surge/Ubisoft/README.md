@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Ubisoft](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ubisoft/Ubisoft.list)
+- [blackmatrix7/ios_rule_script: Ubisoft](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ubisoft/Ubisoft.list)
 
 <details>
 <summary>English</summary>

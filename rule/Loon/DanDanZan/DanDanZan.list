@@ -1,12 +1,12 @@
 # NAME: DanDanZan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:04:23.208058+00:00
+# UPDATED: 2026-07-05T06:22:05.816833+00:00
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 
 DOMAIN-SUFFIX,fjhps.com
-DOMAIN-SUFFIX,czybjz.com
 DOMAIN-SUFFIX,343480.com
+DOMAIN-SUFFIX,czybjz.com
 DOMAIN-SUFFIX,kuyunbo.club
 DOMAIN-SUFFIX,dandanzan.com
 DOMAIN-SUFFIX,baduziyuan.com

@@ -42,7 +42,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaNoMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaNoMedia/ChinaNoMedia.list)
+- [blackmatrix7/ios_rule_script: ChinaNoMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaNoMedia/ChinaNoMedia.list)
 
 <details>
 <summary>English</summary>

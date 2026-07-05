@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Dandanplay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dandanplay/Dandanplay.list)
+- [blackmatrix7/ios_rule_script: Dandanplay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dandanplay/Dandanplay.list)
 
 <details>
 <summary>English</summary>

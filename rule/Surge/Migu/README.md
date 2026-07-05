@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Migu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Migu/Migu.list)
+- [blackmatrix7/ios_rule_script: Migu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Migu/Migu.list)
 
 <details>
 <summary>English</summary>

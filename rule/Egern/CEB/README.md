@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CEB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CEB/CEB.list)
+- [blackmatrix7/ios_rule_script: CEB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CEB/CEB.list)
 
 <details>
 <summary>English</summary>

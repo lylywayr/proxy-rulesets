@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 SMG](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SMG/SMG.list)
+- [blackmatrix7/ios_rule_script: SMG](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SMG/SMG.list)
 
 <details>
 <summary>English</summary>

@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 FOXNOW](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FOXNOW/FOXNOW.list)
+- [blackmatrix7/ios_rule_script: FOXNOW](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FOXNOW/FOXNOW.list)
 
 <details>
 <summary>English</summary>

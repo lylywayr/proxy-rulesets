@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TianTianKanKan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianTianKanKan/TianTianKanKan.list)
+- [blackmatrix7/ios_rule_script: TianTianKanKan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianTianKanKan/TianTianKanKan.list)
 
 <details>
 <summary>English</summary>

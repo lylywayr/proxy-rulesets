@@ -14,8 +14,8 @@
 
 ### 规则统计
 
-- 总数：`8`
-- `DOMAIN-SUFFIX`: 8
+- 总数：`15`
+- `DOMAIN-SUFFIX`: 15
 
 ### 使用说明
 
@@ -38,7 +38,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 Reddit](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reddit/Reddit.list)
+- [v2fly/domain-list-community: reddit (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/reddit)
+- [blackmatrix7/ios_rule_script: Reddit](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reddit/Reddit.list)
 
 <details>
 <summary>English</summary>

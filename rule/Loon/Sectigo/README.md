@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Sectigo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sectigo/Sectigo.list)
+- [blackmatrix7/ios_rule_script: Sectigo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sectigo/Sectigo.list)
 
 <details>
 <summary>English</summary>

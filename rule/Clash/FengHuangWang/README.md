@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 FengHuangWang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FengHuangWang/FengHuangWang.list)
+- [blackmatrix7/ios_rule_script: FengHuangWang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FengHuangWang/FengHuangWang.list)
 
 <details>
 <summary>English</summary>

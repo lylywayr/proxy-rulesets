@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Tesla](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tesla/Tesla.list)
+- [blackmatrix7/ios_rule_script: Tesla](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tesla/Tesla.list)
 
 <details>
 <summary>English</summary>

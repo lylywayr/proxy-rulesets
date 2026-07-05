@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HBO](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBO/HBO.list)
+- [blackmatrix7/ios_rule_script: HBO](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBO/HBO.list)
 
 <details>
 <summary>English</summary>

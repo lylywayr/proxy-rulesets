@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Picacg](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Picacg/Picacg.list)
+- [blackmatrix7/ios_rule_script: Picacg](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Picacg/Picacg.list)
 
 <details>
 <summary>English</summary>

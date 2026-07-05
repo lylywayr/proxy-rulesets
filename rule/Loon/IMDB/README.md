@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 IMDB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IMDB/IMDB.list)
+- [blackmatrix7/ios_rule_script: IMDB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IMDB/IMDB.list)
 
 <details>
 <summary>English</summary>

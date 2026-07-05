@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 MicrosoftEdge](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MicrosoftEdge/MicrosoftEdge.list)
+- [blackmatrix7/ios_rule_script: MicrosoftEdge](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MicrosoftEdge/MicrosoftEdge.list)
 
 <details>
 <summary>English</summary>

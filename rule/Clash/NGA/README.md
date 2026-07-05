@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 NGA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NGA/NGA.list)
+- [blackmatrix7/ios_rule_script: NGA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NGA/NGA.list)
 
 <details>
 <summary>English</summary>

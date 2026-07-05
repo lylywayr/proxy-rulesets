@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 FlipBoard](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FlipBoard/FlipBoard.list)
+- [blackmatrix7/ios_rule_script: FlipBoard](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FlipBoard/FlipBoard.list)
 
 <details>
 <summary>English</summary>

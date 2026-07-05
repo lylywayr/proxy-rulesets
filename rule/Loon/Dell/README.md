@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Dell](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dell/Dell.list)
+- [blackmatrix7/ios_rule_script: Dell](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dell/Dell.list)
 
 <details>
 <summary>English</summary>

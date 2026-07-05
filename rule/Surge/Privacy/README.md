@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Privacy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Privacy.list)
+- [blackmatrix7/ios_rule_script: Privacy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Privacy.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 iCloud](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iCloud/iCloud.list)
+- [v2fly/domain-list-community: icloud (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/icloud)
+- [blackmatrix7/ios_rule_script: iCloud](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iCloud/iCloud.list)
 
 <details>
 <summary>English</summary>

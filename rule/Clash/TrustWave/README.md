@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TrustWave](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TrustWave/TrustWave.list)
+- [blackmatrix7/ios_rule_script: TrustWave](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TrustWave/TrustWave.list)
 
 <details>
 <summary>English</summary>

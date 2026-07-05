@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ICBC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ICBC/ICBC.list)
+- [blackmatrix7/ios_rule_script: ICBC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ICBC/ICBC.list)
 
 <details>
 <summary>English</summary>

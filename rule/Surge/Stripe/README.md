@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Stripe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Stripe/Stripe.list)
+- [blackmatrix7/ios_rule_script: Stripe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Stripe/Stripe.list)
 
 <details>
 <summary>English</summary>

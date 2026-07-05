@@ -1,6 +1,6 @@
 # NAME: Espn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:35.703143+00:00
+# UPDATED: 2026-07-05T06:31:31.389048+00:00
 payload:
   - DOMAIN,espn.api.edge.bamgrid.com
   - DOMAIN,espn.hb.omtrdc.net

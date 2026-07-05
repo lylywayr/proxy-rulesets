@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChunYou](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChunYou/ChunYou.list)
+- [blackmatrix7/ios_rule_script: ChunYou](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChunYou/ChunYou.list)
 
 <details>
 <summary>English</summary>

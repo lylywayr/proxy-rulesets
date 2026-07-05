@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TaiKang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiKang/TaiKang.list)
+- [blackmatrix7/ios_rule_script: TaiKang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiKang/TaiKang.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 4Paradigm](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4Paradigm/4Paradigm.list)
+- [blackmatrix7/ios_rule_script: 4Paradigm](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4Paradigm/4Paradigm.list)
 
 <details>
 <summary>English</summary>

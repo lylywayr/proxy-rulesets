@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 zhanqi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/zhanqi/zhanqi.list)
+- [blackmatrix7/ios_rule_script: zhanqi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/zhanqi/zhanqi.list)
 
 <details>
 <summary>English</summary>

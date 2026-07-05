@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 51Job](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/51Job/51Job.list)
+- [blackmatrix7/ios_rule_script: 51Job](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/51Job/51Job.list)
 
 <details>
 <summary>English</summary>

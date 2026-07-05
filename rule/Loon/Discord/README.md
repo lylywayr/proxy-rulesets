@@ -37,7 +37,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 Discord](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Discord/Discord.list)
+- [v2fly/domain-list-community: discord (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/discord)
+- [blackmatrix7/ios_rule_script: Discord](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Discord/Discord.list)
 
 <details>
 <summary>English</summary>

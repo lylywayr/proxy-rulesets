@@ -1,6 +1,6 @@
 # NAME: Twitter
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:21:01.763496+00:00
+# UPDATED: 2026-07-05T06:43:01.704719+00:00
 # DOMAIN-SUFFIX: 26
 # DOMAIN-KEYWORD: 1
 # IP-CIDR: 6
@@ -10,18 +10,18 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,twimg.org
 DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,twitter.biz
-DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tweetdeck.com

@@ -1,17 +1,17 @@
 # NAME: Voxmedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:21:03.662025+00:00
+# UPDATED: 2026-07-05T06:43:01.809921+00:00
 no_resolve: true
 domain_suffix_set:
   - "vox.com"
   - "eater.com"
-  - "recode.net"
   - "curbed.com"
   - "racked.com"
   - "voxops.net"
+  - "recode.net"
+  - "cstatic.net"
   - "polygon.com"
   - "vox-cdn.com"
-  - "cstatic.net"
   - "theverge.com"
   - "sbnation.com"
   - "meridian.net"

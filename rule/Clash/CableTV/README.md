@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CableTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CableTV/CableTV.list)
+- [blackmatrix7/ios_rule_script: CableTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CableTV/CableTV.list)
 
 <details>
 <summary>English</summary>

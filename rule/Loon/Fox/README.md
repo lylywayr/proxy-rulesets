@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Fox](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Fox/Fox.list)
+- [blackmatrix7/ios_rule_script: Fox](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Fox/Fox.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BOC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOC/BOC.list)
+- [blackmatrix7/ios_rule_script: BOC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOC/BOC.list)
 
 <details>
 <summary>English</summary>

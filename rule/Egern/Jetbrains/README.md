@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Jetbrains](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jetbrains/Jetbrains.list)
+- [blackmatrix7/ios_rule_script: Jetbrains](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jetbrains/Jetbrains.list)
 
 <details>
 <summary>English</summary>

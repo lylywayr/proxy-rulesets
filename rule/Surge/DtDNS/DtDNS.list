@@ -1,23 +1,23 @@
 # NAME: DtDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:34.456743+00:00
+# UPDATED: 2026-07-05T06:31:31.318542+00:00
 # DOMAIN-SUFFIX: 17
 # TOTAL: 17
 
-DOMAIN-SUFFIX,4irc.com
 DOMAIN-SUFFIX,b0ne.com
-DOMAIN-SUFFIX,slyip.net
-DOMAIN-SUFFIX,flnet.org
-DOMAIN-SUFFIX,slyip.com
-DOMAIN-SUFFIX,dtdns.net
+DOMAIN-SUFFIX,4irc.com
 DOMAIN-SUFFIX,dtdns.com
-DOMAIN-SUFFIX,suroot.com
-DOMAIN-SUFFIX,etowns.net
+DOMAIN-SUFFIX,flnet.org
+DOMAIN-SUFFIX,dtdns.net
+DOMAIN-SUFFIX,slyip.net
+DOMAIN-SUFFIX,slyip.com
 DOMAIN-SUFFIX,etowns.org
 DOMAIN-SUFFIX,effers.com
+DOMAIN-SUFFIX,etowns.net
+DOMAIN-SUFFIX,suroot.com
 DOMAIN-SUFFIX,scieron.com
 DOMAIN-SUFFIX,3d-game.com
-DOMAIN-SUFFIX,gotgeeks.com
-DOMAIN-SUFFIX,chatnook.com
 DOMAIN-SUFFIX,darktech.org
+DOMAIN-SUFFIX,chatnook.com
 DOMAIN-SUFFIX,deaftone.com
+DOMAIN-SUFFIX,gotgeeks.com

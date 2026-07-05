@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Buypass](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Buypass/Buypass.list)
+- [blackmatrix7/ios_rule_script: Buypass](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Buypass/Buypass.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 PlayStation](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PlayStation/PlayStation.list)
+- [blackmatrix7/ios_rule_script: PlayStation](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PlayStation/PlayStation.list)
 
 <details>
 <summary>English</summary>

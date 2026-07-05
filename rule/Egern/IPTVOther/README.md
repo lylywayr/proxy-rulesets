@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 IPTVOther](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IPTVOther/IPTVOther.list)
+- [blackmatrix7/ios_rule_script: IPTVOther](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IPTVOther/IPTVOther.list)
 
 <details>
 <summary>English</summary>

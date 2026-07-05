@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Asahi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Asahi/Asahi.list)
+- [blackmatrix7/ios_rule_script: Asahi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Asahi/Asahi.list)
 
 <details>
 <summary>English</summary>

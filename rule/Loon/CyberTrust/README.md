@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CyberTrust](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CyberTrust/CyberTrust.list)
+- [blackmatrix7/ios_rule_script: CyberTrust](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CyberTrust/CyberTrust.list)
 
 <details>
 <summary>English</summary>

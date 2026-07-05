@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 KKTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KKTV/KKTV.list)
+- [blackmatrix7/ios_rule_script: KKTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KKTV/KKTV.list)
 
 <details>
 <summary>English</summary>

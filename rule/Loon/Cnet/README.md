@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Cnet](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cnet/Cnet.list)
+- [blackmatrix7/ios_rule_script: Cnet](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cnet/Cnet.list)
 
 <details>
 <summary>English</summary>

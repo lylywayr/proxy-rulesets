@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ShenMa](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShenMa/ShenMa.list)
+- [blackmatrix7/ios_rule_script: ShenMa](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShenMa/ShenMa.list)
 
 <details>
 <summary>English</summary>

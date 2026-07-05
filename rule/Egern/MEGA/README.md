@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 MEGA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MEGA/MEGA.list)
+- [blackmatrix7/ios_rule_script: MEGA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MEGA/MEGA.list)
 
 <details>
 <summary>English</summary>

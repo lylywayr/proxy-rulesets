@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Gigabyte](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gigabyte/Gigabyte.list)
+- [blackmatrix7/ios_rule_script: Gigabyte](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gigabyte/Gigabyte.list)
 
 <details>
 <summary>English</summary>

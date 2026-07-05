@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 EncoreTVB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EncoreTVB/EncoreTVB.list)
+- [blackmatrix7/ios_rule_script: EncoreTVB](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EncoreTVB/EncoreTVB.list)
 
 <details>
 <summary>English</summary>

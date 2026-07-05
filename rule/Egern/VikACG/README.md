@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 VikACG](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VikACG/VikACG.list)
+- [blackmatrix7/ios_rule_script: VikACG](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VikACG/VikACG.list)
 
 <details>
 <summary>English</summary>

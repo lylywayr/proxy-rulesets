@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LvMiLianChuang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LvMiLianChuang/LvMiLianChuang.list)
+- [blackmatrix7/ios_rule_script: LvMiLianChuang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LvMiLianChuang/LvMiLianChuang.list)
 
 <details>
 <summary>English</summary>

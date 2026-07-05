@@ -14,9 +14,9 @@
 
 ### 规则统计
 
-- 总数：`10`
+- 总数：`15`
 - `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 9
+- `DOMAIN-SUFFIX`: 14
 
 ### 使用说明
 
@@ -38,7 +38,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 115](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list)
+- [v2fly/domain-list-community: 115 (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/115)
+- [blackmatrix7/ios_rule_script: 115](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list)
 
 <details>
 <summary>English</summary>

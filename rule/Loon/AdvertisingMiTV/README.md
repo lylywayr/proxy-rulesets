@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AdvertisingMiTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingMiTV/AdvertisingMiTV.list)
+- [blackmatrix7/ios_rule_script: AdvertisingMiTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingMiTV/AdvertisingMiTV.list)
 
 <details>
 <summary>English</summary>

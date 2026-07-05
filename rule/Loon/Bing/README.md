@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Bing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bing/Bing.list)
+- [blackmatrix7/ios_rule_script: Bing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bing/Bing.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Vimeo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vimeo/Vimeo.list)
+- [blackmatrix7/ios_rule_script: Vimeo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vimeo/Vimeo.list)
 
 <details>
 <summary>English</summary>

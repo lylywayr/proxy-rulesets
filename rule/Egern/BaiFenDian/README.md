@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BaiFenDian](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiFenDian/BaiFenDian.list)
+- [blackmatrix7/ios_rule_script: BaiFenDian](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiFenDian/BaiFenDian.list)
 
 <details>
 <summary>English</summary>

@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Download](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Download/Download.list)
+- [blackmatrix7/ios_rule_script: Download](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Download/Download.list)
 
 <details>
 <summary>English</summary>

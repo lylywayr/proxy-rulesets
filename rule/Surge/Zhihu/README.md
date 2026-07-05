@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Zhihu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list)
+- [blackmatrix7/ios_rule_script: Zhihu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list)
 
 <details>
 <summary>English</summary>

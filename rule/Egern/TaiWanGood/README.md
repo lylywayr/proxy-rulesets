@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TaiWanGood](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiWanGood/TaiWanGood.list)
+- [blackmatrix7/ios_rule_script: TaiWanGood](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiWanGood/TaiWanGood.list)
 
 <details>
 <summary>English</summary>

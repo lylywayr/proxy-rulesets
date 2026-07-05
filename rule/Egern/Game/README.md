@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Game](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list)
+- [blackmatrix7/ios_rule_script: Game](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list)
 
 <details>
 <summary>English</summary>

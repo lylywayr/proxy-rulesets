@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Atomdata](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Atomdata/Atomdata.list)
+- [blackmatrix7/ios_rule_script: Atomdata](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Atomdata/Atomdata.list)
 
 <details>
 <summary>English</summary>

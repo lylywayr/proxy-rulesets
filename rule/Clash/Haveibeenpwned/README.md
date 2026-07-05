@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Haveibeenpwned](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Haveibeenpwned/Haveibeenpwned.list)
+- [blackmatrix7/ios_rule_script: Haveibeenpwned](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Haveibeenpwned/Haveibeenpwned.list)
 
 <details>
 <summary>English</summary>

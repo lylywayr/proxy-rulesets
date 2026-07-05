@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 51nod](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/51nod/51nod.list)
+- [blackmatrix7/ios_rule_script: 51nod](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/51nod/51nod.list)
 
 <details>
 <summary>English</summary>

@@ -43,7 +43,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GlobalMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia.list)
+- [blackmatrix7/ios_rule_script: GlobalMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia.list)
 
 <details>
 <summary>English</summary>

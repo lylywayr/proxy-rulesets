@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 WangXinKeJi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WangXinKeJi/WangXinKeJi.list)
+- [blackmatrix7/ios_rule_script: WangXinKeJi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WangXinKeJi/WangXinKeJi.list)
 
 <details>
 <summary>English</summary>

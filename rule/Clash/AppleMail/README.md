@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppleMail](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMail/AppleMail.list)
+- [blackmatrix7/ios_rule_script: AppleMail](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMail/AppleMail.list)
 
 <details>
 <summary>English</summary>

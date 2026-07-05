@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 WiFiMaster](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WiFiMaster/WiFiMaster.list)
+- [blackmatrix7/ios_rule_script: WiFiMaster](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WiFiMaster/WiFiMaster.list)
 
 <details>
 <summary>English</summary>

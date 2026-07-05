@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Deepin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Deepin/Deepin.list)
+- [blackmatrix7/ios_rule_script: Deepin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Deepin/Deepin.list)
 
 <details>
 <summary>English</summary>

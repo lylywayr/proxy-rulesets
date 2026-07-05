@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AdColony](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdColony/AdColony.list)
+- [blackmatrix7/ios_rule_script: AdColony](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdColony/AdColony.list)
 
 <details>
 <summary>English</summary>

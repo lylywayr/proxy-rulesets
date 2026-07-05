@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Acplay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Acplay/Acplay.list)
+- [blackmatrix7/ios_rule_script: Acplay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Acplay/Acplay.list)
 
 <details>
 <summary>English</summary>

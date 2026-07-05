@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppleTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleTV/AppleTV.list)
+- [blackmatrix7/ios_rule_script: AppleTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleTV/AppleTV.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DuoWan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DuoWan/DuoWan.list)
+- [blackmatrix7/ios_rule_script: DuoWan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DuoWan/DuoWan.list)
 
 <details>
 <summary>English</summary>

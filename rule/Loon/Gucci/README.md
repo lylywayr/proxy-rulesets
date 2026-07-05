@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Gucci](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gucci/Gucci.list)
+- [blackmatrix7/ios_rule_script: Gucci](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gucci/Gucci.list)
 
 <details>
 <summary>English</summary>

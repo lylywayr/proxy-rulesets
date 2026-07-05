@@ -1,6 +1,6 @@
 # NAME: Naver
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:49.046533+00:00
+# UPDATED: 2026-07-05T06:32:20.742975+00:00
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 24
 # USER-AGENT: 1
@@ -21,14 +21,14 @@ DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,linegame.jp
 DOMAIN-SUFFIX,pstatic.net
-DOMAIN-SUFFIX,linecorp.com
-DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,grafolio.com
+DOMAIN-SUFFIX,webtoons.com
+DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,line-beta.me
+DOMAIN-SUFFIX,grafolio.com
+DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,navercorp.com
-DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,linemobile.com
 DOMAIN-SUFFIX,linefriends.com
 DOMAIN-SUFFIX,smartmediarep.com

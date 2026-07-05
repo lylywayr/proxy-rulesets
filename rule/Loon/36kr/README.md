@@ -37,7 +37,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 36kr](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/36kr/36kr.list)
+- [v2fly/domain-list-community: 36kr (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/36kr)
+- [blackmatrix7/ios_rule_script: 36kr](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/36kr/36kr.list)
 
 <details>
 <summary>English</summary>

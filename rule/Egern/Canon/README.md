@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Canon](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Canon/Canon.list)
+- [blackmatrix7/ios_rule_script: Canon](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Canon/Canon.list)
 
 <details>
 <summary>English</summary>

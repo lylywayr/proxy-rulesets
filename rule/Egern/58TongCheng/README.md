@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 58TongCheng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/58TongCheng/58TongCheng.list)
+- [blackmatrix7/ios_rule_script: 58TongCheng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/58TongCheng/58TongCheng.list)
 
 <details>
 <summary>English</summary>

@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 iQIYIIntl](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYIIntl/iQIYIIntl.list)
+- [blackmatrix7/ios_rule_script: iQIYIIntl](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYIIntl/iQIYIIntl.list)
 
 <details>
 <summary>English</summary>

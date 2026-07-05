@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ClubhouseIP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ClubhouseIP/ClubhouseIP.list)
+- [blackmatrix7/ios_rule_script: ClubhouseIP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ClubhouseIP/ClubhouseIP.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DiDi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiDi/DiDi.list)
+- [blackmatrix7/ios_rule_script: DiDi](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiDi/DiDi.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Kingsoft](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Kingsoft/Kingsoft.list)
+- [blackmatrix7/ios_rule_script: Kingsoft](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Kingsoft/Kingsoft.list)
 
 <details>
 <summary>English</summary>

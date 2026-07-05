@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Spark](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spark/Spark.list)
+- [blackmatrix7/ios_rule_script: Spark](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spark/Spark.list)
 
 <details>
 <summary>English</summary>

@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 myTVSUPER](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/myTVSUPER/myTVSUPER.list)
+- [blackmatrix7/ios_rule_script: myTVSUPER](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/myTVSUPER/myTVSUPER.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 YiZhiBo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YiZhiBo/YiZhiBo.list)
+- [blackmatrix7/ios_rule_script: YiZhiBo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YiZhiBo/YiZhiBo.list)
 
 <details>
 <summary>English</summary>

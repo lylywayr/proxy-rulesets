@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Alibaba](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba.list)
+- [blackmatrix7/ios_rule_script: Alibaba](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba.list)
 
 <details>
 <summary>English</summary>

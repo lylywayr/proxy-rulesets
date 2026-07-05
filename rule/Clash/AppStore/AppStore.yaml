@@ -1,6 +1,6 @@
 # NAME: AppStore
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:48:04.095109+00:00
+# UPDATED: 2026-07-05T06:00:59.984289+00:00
 payload:
   - DOMAIN,apps.apple.com
   - DOMAIN,itunes.apple.com

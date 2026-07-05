@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LeTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LeTV/LeTV.list)
+- [blackmatrix7/ios_rule_script: LeTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LeTV/LeTV.list)
 
 <details>
 <summary>English</summary>

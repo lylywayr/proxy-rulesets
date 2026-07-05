@@ -14,10 +14,11 @@ OpenAI 规则集合。
 
 ### 规则统计
 
-- 总数：`37`
-- `DOMAIN`: 7
-- `DOMAIN-SUFFIX`: 26
+- 总数：`43`
+- `DOMAIN`: 8
+- `DOMAIN-SUFFIX`: 30
 - `DOMAIN-KEYWORD`: 1
+- `DOMAIN-REGEX`: 1
 - `IP-ASN`: 1
 - `IP-CIDR`: 2
 
@@ -41,9 +42,9 @@ OpenAI 规则集合。
 
 ### 数据来源
 
-- [ACL4SSR OpenAi list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list)
-- [ACL4SSR OpenAi provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OpenAi.yaml)
-- [blackmatrix7 OpenAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list)
+- [v2fly/domain-list-community: openai (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/openai)
+- [ACL4SSR/ACL4SSR: OpenAi](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list)
+- [blackmatrix7/ios_rule_script: OpenAI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list)
 
 <details>
 <summary>English</summary>

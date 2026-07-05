@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 aiXcoder](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/aiXcoder/aiXcoder.list)
+- [blackmatrix7/ios_rule_script: aiXcoder](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/aiXcoder/aiXcoder.list)
 
 <details>
 <summary>English</summary>

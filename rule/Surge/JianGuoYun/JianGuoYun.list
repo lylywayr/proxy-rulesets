@@ -1,11 +1,11 @@
 # NAME: JianGuoYun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:43.434875+00:00
+# UPDATED: 2026-07-05T06:32:07.727411+00:00
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 
 DOMAIN-SUFFIX,gdfgq.club
 DOMAIN-SUFFIX,nutstore.net
-DOMAIN-SUFFIX,nutstorehq.com
 DOMAIN-SUFFIX,jianguoyun.com
+DOMAIN-SUFFIX,nutstorehq.com
 DOMAIN-SUFFIX,jianguopuzi.com

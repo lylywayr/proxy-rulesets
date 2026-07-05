@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DanDanZan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DanDanZan/DanDanZan.list)
+- [blackmatrix7/ios_rule_script: DanDanZan](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DanDanZan/DanDanZan.list)
 
 <details>
 <summary>English</summary>

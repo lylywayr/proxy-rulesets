@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DtDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DtDNS/DtDNS.list)
+- [blackmatrix7/ios_rule_script: DtDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DtDNS/DtDNS.list)
 
 <details>
 <summary>English</summary>

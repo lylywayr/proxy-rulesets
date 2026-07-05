@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 iFlytek](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iFlytek/iFlytek.list)
+- [blackmatrix7/ios_rule_script: iFlytek](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iFlytek/iFlytek.list)
 
 <details>
 <summary>English</summary>

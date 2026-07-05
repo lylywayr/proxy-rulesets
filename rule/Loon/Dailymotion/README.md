@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Dailymotion](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dailymotion/Dailymotion.list)
+- [blackmatrix7/ios_rule_script: Dailymotion](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dailymotion/Dailymotion.list)
 
 <details>
 <summary>English</summary>

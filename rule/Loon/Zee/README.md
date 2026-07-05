@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Zee](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zee/Zee.list)
+- [blackmatrix7/ios_rule_script: Zee](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zee/Zee.list)
 
 <details>
 <summary>English</summary>

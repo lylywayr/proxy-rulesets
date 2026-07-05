@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Salesforce](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Salesforce/Salesforce.list)
+- [blackmatrix7/ios_rule_script: Salesforce](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Salesforce/Salesforce.list)
 
 <details>
 <summary>English</summary>

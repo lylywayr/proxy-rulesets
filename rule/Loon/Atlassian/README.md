@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Atlassian](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Atlassian/Atlassian.list)
+- [blackmatrix7/ios_rule_script: Atlassian](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Atlassian/Atlassian.list)
 
 <details>
 <summary>English</summary>

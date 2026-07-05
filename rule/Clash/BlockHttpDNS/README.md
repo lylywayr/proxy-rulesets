@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BlockHttpDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlockHttpDNS/BlockHttpDNS.list)
+- [blackmatrix7/ios_rule_script: BlockHttpDNS](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlockHttpDNS/BlockHttpDNS.list)
 
 <details>
 <summary>English</summary>

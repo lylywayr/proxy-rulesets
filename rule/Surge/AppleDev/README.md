@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AppleDev](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleDev/AppleDev.list)
+- [blackmatrix7/ios_rule_script: AppleDev](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleDev/AppleDev.list)
 
 <details>
 <summary>English</summary>

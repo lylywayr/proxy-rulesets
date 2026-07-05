@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BaiDuTieBa](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiDuTieBa/BaiDuTieBa.list)
+- [blackmatrix7/ios_rule_script: BaiDuTieBa](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiDuTieBa/BaiDuTieBa.list)
 
 <details>
 <summary>English</summary>

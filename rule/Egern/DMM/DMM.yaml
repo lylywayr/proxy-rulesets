@@ -1,6 +1,6 @@
 # NAME: DMM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:33.790882+00:00
+# UPDATED: 2026-07-05T06:31:30.865806+00:00
 no_resolve: true
 domain_suffix_set:
   - "ddo.jp"
@@ -11,11 +11,11 @@ domain_suffix_set:
   - "dmmrex.com"
   - "dmmapis.com"
   - "alicesoft.com"
-  - "wheel-soft.com"
   - "cosmiccute.com"
-  - "akabeesoft3.com"
-  - "hibiki-site.com"
+  - "wheel-soft.com"
   - "akabeesoft2.com"
+  - "hibiki-site.com"
+  - "akabeesoft3.com"
   - "akatsukiworks.com"
   - "dmm-extension.com"
   - "navismithapis-cdn.com"

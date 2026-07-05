@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Himalaya](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Himalaya/Himalaya.list)
+- [blackmatrix7/ios_rule_script: Himalaya](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Himalaya/Himalaya.list)
 
 <details>
 <summary>English</summary>

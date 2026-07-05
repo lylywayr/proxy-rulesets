@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Faronics](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Faronics/Faronics.list)
+- [blackmatrix7/ios_rule_script: Faronics](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Faronics/Faronics.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 VidolTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VidolTV/VidolTV.list)
+- [blackmatrix7/ios_rule_script: VidolTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VidolTV/VidolTV.list)
 
 <details>
 <summary>English</summary>

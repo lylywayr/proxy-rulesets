@@ -15,9 +15,9 @@ Microsoft、OneDrive、Teams 等服务。
 
 ### 规则统计
 
-- 总数：`671`
-- `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 663
+- 总数：`764`
+- `DOMAIN`: 8
+- `DOMAIN-SUFFIX`: 749
 - `DOMAIN-KEYWORD`: 4
 - `USER-AGENT`: 3
 - `PROCESS-NAME`: 2
@@ -43,11 +43,10 @@ Microsoft、OneDrive、Teams 等服务。
 
 ### 数据来源
 
-- [ACL4SSR OneDrive list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list)
-- [ACL4SSR Microsoft list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list)
-- [ACL4SSR Microsoft provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml)
-- [ACL4SSR OneDrive provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OneDrive.yaml)
-- [zqzess Microsoft list](https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Microsoft.list)
+- [v2fly/domain-list-community: microsoft (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/microsoft)
+- [ACL4SSR/ACL4SSR: Microsoft](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list)
+- [ACL4SSR/ACL4SSR: OneDrive](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list)
+- [zqzess/rule_for_quantumultX: Microsoft](https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Microsoft.list)
 
 <details>
 <summary>English</summary>

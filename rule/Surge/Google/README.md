@@ -14,9 +14,11 @@ Google 通用服务规则，不含 YouTube 独立分类。
 
 ### 规则统计
 
-- 总数：`806`
-- `DOMAIN-SUFFIX`: 792
+- 总数：`835`
+- `DOMAIN`: 1
+- `DOMAIN-SUFFIX`: 818
 - `DOMAIN-KEYWORD`: 2
+- `DOMAIN-REGEX`: 2
 - `PROCESS-NAME`: 7
 - `IP-CIDR`: 4
 - `IP-CIDR6`: 1
@@ -41,11 +43,11 @@ Google 通用服务规则，不含 YouTube 独立分类。
 
 ### 数据来源
 
-- [Loyalsoldier Google](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt)
-- [blackmatrix7 Google source](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list)
-- [LM-Firefly Google list](https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list)
-- [ACL4SSR Google list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list)
-- [ACL4SSR Google provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Google.yaml)
+- [v2fly/domain-list-community: google (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google)
+- [Loyalsoldier/surge-rules: google](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt)
+- [ACL4SSR/ACL4SSR: Google](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list)
+- [LM-Firefly/Rules: Google](https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list)
+- [blackmatrix7/ios_rule_script: Google](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list)
 
 <details>
 <summary>English</summary>

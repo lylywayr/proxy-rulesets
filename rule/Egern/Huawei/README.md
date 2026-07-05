@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Huawei](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Huawei/Huawei.list)
+- [blackmatrix7/ios_rule_script: Huawei](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Huawei/Huawei.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Protonmail](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Protonmail/Protonmail.list)
+- [blackmatrix7/ios_rule_script: Protonmail](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Protonmail/Protonmail.list)
 
 <details>
 <summary>English</summary>

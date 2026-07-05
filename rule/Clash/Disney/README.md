@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Disney](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list)
+- [blackmatrix7/ios_rule_script: Disney](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list)
 
 <details>
 <summary>English</summary>

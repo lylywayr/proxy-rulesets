@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Scholar](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scholar/Scholar.list)
+- [blackmatrix7/ios_rule_script: Scholar](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scholar/Scholar.list)
 
 <details>
 <summary>English</summary>

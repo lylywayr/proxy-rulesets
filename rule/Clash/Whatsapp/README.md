@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Whatsapp](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Whatsapp/Whatsapp.list)
+- [blackmatrix7/ios_rule_script: Whatsapp](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Whatsapp/Whatsapp.list)
 
 <details>
 <summary>English</summary>

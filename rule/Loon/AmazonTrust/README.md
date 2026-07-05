@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AmazonTrust](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonTrust/AmazonTrust.list)
+- [blackmatrix7/ios_rule_script: AmazonTrust](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonTrust/AmazonTrust.list)
 
 <details>
 <summary>English</summary>

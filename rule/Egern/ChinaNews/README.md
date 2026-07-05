@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaNews](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaNews/ChinaNews.list)
+- [blackmatrix7/ios_rule_script: ChinaNews](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaNews/ChinaNews.list)
 
 <details>
 <summary>English</summary>

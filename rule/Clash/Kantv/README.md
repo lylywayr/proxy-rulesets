@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Kantv](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Kantv/Kantv.list)
+- [blackmatrix7/ios_rule_script: Kantv](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Kantv/Kantv.list)
 
 <details>
 <summary>English</summary>

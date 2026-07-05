@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Baidu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Baidu/Baidu.list)
+- [blackmatrix7/ios_rule_script: Baidu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Baidu/Baidu.list)
 
 <details>
 <summary>English</summary>

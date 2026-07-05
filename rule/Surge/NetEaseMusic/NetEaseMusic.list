@@ -1,6 +1,6 @@
 # NAME: NetEaseMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:49.281516+00:00
+# UPDATED: 2026-07-05T06:32:20.757975+00:00
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 9
 # USER-AGENT: 2
@@ -10,9 +10,9 @@
 DOMAIN,netease.ugcvideoss.ourdvs.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,yun-app.net
+DOMAIN-SUFFIX,music.126.com
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.126.net
-DOMAIN-SUFFIX,music.126.com
 DOMAIN-SUFFIX,hz.netease.com
 DOMAIN-SUFFIX,mam.netease.com
 DOMAIN-SUFFIX,api.iplay.163.com

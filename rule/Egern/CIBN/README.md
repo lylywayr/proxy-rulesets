@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CIBN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CIBN/CIBN.list)
+- [blackmatrix7/ios_rule_script: CIBN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CIBN/CIBN.list)
 
 <details>
 <summary>English</summary>

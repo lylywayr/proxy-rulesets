@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Samsung](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Samsung/Samsung.list)
+- [blackmatrix7/ios_rule_script: Samsung](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Samsung/Samsung.list)
 
 <details>
 <summary>English</summary>

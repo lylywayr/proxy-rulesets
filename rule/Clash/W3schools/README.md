@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 W3schools](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/W3schools/W3schools.list)
+- [blackmatrix7/ios_rule_script: W3schools](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/W3schools/W3schools.list)
 
 <details>
 <summary>English</summary>

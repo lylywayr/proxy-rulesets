@@ -42,7 +42,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 JOOX](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JOOX/JOOX.list)
+- [blackmatrix7/ios_rule_script: JOOX](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JOOX/JOOX.list)
 
 <details>
 <summary>English</summary>

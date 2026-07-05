@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 XianYu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XianYu/XianYu.list)
+- [blackmatrix7/ios_rule_script: XianYu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XianYu/XianYu.list)
 
 <details>
 <summary>English</summary>

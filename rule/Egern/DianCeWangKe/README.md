@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DianCeWangKe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DianCeWangKe/DianCeWangKe.list)
+- [blackmatrix7/ios_rule_script: DianCeWangKe](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DianCeWangKe/DianCeWangKe.list)
 
 <details>
 <summary>English</summary>

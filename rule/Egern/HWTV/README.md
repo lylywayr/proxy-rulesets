@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HWTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HWTV/HWTV.list)
+- [blackmatrix7/ios_rule_script: HWTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HWTV/HWTV.list)
 
 <details>
 <summary>English</summary>

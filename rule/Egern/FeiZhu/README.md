@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 FeiZhu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FeiZhu/FeiZhu.list)
+- [blackmatrix7/ios_rule_script: FeiZhu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FeiZhu/FeiZhu.list)
 
 <details>
 <summary>English</summary>

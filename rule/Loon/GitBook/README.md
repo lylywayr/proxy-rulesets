@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GitBook](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitBook/GitBook.list)
+- [blackmatrix7/ios_rule_script: GitBook](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitBook/GitBook.list)
 
 <details>
 <summary>English</summary>

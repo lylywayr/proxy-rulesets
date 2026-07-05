@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 3Type](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/3Type/3Type.list)
+- [blackmatrix7/ios_rule_script: 3Type](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/3Type/3Type.list)
 
 <details>
 <summary>English</summary>

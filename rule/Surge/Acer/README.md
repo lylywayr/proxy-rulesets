@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Acer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Acer/Acer.list)
+- [blackmatrix7/ios_rule_script: Acer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Acer/Acer.list)
 
 <details>
 <summary>English</summary>

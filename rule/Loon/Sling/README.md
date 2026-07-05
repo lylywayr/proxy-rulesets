@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Sling](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sling/Sling.list)
+- [blackmatrix7/ios_rule_script: Sling](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sling/Sling.list)
 
 <details>
 <summary>English</summary>

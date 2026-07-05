@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Mail](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mail/Mail.list)
+- [blackmatrix7/ios_rule_script: Mail](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mail/Mail.list)
 
 <details>
 <summary>English</summary>

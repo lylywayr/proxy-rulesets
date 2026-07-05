@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 9to5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/9to5/9to5.list)
+- [blackmatrix7/ios_rule_script: 9to5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/9to5/9to5.list)
 
 <details>
 <summary>English</summary>

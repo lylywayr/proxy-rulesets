@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 SMZDM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SMZDM/SMZDM.list)
+- [blackmatrix7/ios_rule_script: SMZDM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SMZDM/SMZDM.list)
 
 <details>
 <summary>English</summary>

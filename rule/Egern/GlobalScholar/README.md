@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 GlobalScholar](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalScholar/GlobalScholar.list)
+- [blackmatrix7/ios_rule_script: GlobalScholar](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalScholar/GlobalScholar.list)
 
 <details>
 <summary>English</summary>

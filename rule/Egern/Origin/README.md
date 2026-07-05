@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Origin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Origin/Origin.list)
+- [blackmatrix7/ios_rule_script: Origin](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Origin/Origin.list)
 
 <details>
 <summary>English</summary>

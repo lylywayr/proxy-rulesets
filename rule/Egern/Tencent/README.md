@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Tencent](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tencent/Tencent.list)
+- [blackmatrix7/ios_rule_script: Tencent](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tencent/Tencent.list)
 
 <details>
 <summary>English</summary>

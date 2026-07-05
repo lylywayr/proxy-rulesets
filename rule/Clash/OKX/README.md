@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 OKX](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OKX/OKX.list)
+- [blackmatrix7/ios_rule_script: OKX](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OKX/OKX.list)
 
 <details>
 <summary>English</summary>

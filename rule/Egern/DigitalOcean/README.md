@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DigitalOcean](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigitalOcean/DigitalOcean.list)
+- [blackmatrix7/ios_rule_script: DigitalOcean](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigitalOcean/DigitalOcean.list)
 
 <details>
 <summary>English</summary>

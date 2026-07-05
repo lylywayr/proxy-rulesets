@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 OPPO](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OPPO/OPPO.list)
+- [blackmatrix7/ios_rule_script: OPPO](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OPPO/OPPO.list)
 
 <details>
 <summary>English</summary>

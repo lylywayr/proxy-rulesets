@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 UKMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UKMedia/UKMedia.list)
+- [blackmatrix7/ios_rule_script: UKMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UKMedia/UKMedia.list)
 
 <details>
 <summary>English</summary>

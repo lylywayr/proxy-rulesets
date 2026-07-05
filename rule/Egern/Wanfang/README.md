@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Wanfang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wanfang/Wanfang.list)
+- [blackmatrix7/ios_rule_script: Wanfang](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wanfang/Wanfang.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 eBay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/eBay/eBay.list)
+- [blackmatrix7/ios_rule_script: eBay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/eBay/eBay.list)
 
 <details>
 <summary>English</summary>

@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CWSeed](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CWSeed/CWSeed.list)
+- [blackmatrix7/ios_rule_script: CWSeed](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CWSeed/CWSeed.list)
 
 <details>
 <summary>English</summary>

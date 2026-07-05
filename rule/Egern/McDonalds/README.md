@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 McDonalds](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/McDonalds/McDonalds.list)
+- [blackmatrix7/ios_rule_script: McDonalds](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/McDonalds/McDonalds.list)
 
 <details>
 <summary>English</summary>

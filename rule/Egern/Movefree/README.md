@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Movefree](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Movefree/Movefree.list)
+- [blackmatrix7/ios_rule_script: Movefree](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Movefree/Movefree.list)
 
 <details>
 <summary>English</summary>

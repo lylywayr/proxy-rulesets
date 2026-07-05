@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 WenJuanXing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WenJuanXing/WenJuanXing.list)
+- [blackmatrix7/ios_rule_script: WenJuanXing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WenJuanXing/WenJuanXing.list)
 
 <details>
 <summary>English</summary>

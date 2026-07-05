@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Deezer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Deezer/Deezer.list)
+- [blackmatrix7/ios_rule_script: Deezer](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Deezer/Deezer.list)
 
 <details>
 <summary>English</summary>

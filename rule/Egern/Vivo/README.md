@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Vivo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vivo/Vivo.list)
+- [blackmatrix7/ios_rule_script: Vivo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vivo/Vivo.list)
 
 <details>
 <summary>English</summary>

@@ -14,8 +14,11 @@
 
 ### 规则统计
 
-- 总数：`131`
+- 总数：`27119`
+- `DOMAIN`: 116
+- `DOMAIN-SUFFIX`: 26714
 - `DOMAIN-KEYWORD`: 26
+- `DOMAIN-REGEX`: 158
 - `USER-AGENT`: 8
 - `IP-CIDR`: 93
 - `IP-CIDR6`: 4
@@ -41,7 +44,10 @@
 
 ### 数据来源
 
-- [blackmatrix7 Proxy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list)
+- [v2fly/domain-list-community: geolocation-!cn (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/geolocation-!cn)
+- [Loyalsoldier/surge-rules: proxy](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt)
+- [Loyalsoldier/v2ray-rules-dat: proxy-list](https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt)
+- [blackmatrix7/ios_rule_script: Proxy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Zoho](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zoho/Zoho.list)
+- [blackmatrix7/ios_rule_script: Zoho](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zoho/Zoho.list)
 
 <details>
 <summary>English</summary>

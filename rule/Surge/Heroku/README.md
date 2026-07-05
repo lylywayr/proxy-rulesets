@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Heroku](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Heroku/Heroku.list)
+- [blackmatrix7/ios_rule_script: Heroku](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Heroku/Heroku.list)
 
 <details>
 <summary>English</summary>

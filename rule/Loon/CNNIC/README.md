@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CNNIC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNNIC/CNNIC.list)
+- [blackmatrix7/ios_rule_script: CNNIC](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNNIC/CNNIC.list)
 
 <details>
 <summary>English</summary>

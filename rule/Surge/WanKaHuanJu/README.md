@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 WanKaHuanJu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WanKaHuanJu/WanKaHuanJu.list)
+- [blackmatrix7/ios_rule_script: WanKaHuanJu](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WanKaHuanJu/WanKaHuanJu.list)
 
 <details>
 <summary>English</summary>

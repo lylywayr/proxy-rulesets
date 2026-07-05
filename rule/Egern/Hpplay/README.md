@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Hpplay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hpplay/Hpplay.list)
+- [blackmatrix7/ios_rule_script: Hpplay](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hpplay/Hpplay.list)
 
 <details>
 <summary>English</summary>

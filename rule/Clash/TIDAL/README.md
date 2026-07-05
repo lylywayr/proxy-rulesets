@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TIDAL](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TIDAL/TIDAL.list)
+- [blackmatrix7/ios_rule_script: TIDAL](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TIDAL/TIDAL.list)
 
 <details>
 <summary>English</summary>

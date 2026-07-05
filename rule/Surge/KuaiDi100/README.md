@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 KuaiDi100](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuaiDi100/KuaiDi100.list)
+- [blackmatrix7/ios_rule_script: KuaiDi100](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuaiDi100/KuaiDi100.list)
 
 <details>
 <summary>English</summary>

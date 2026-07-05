@@ -1,23 +1,23 @@
 # NAME: CCTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:48:07.435008+00:00
+# UPDATED: 2026-07-05T06:01:00.207006+00:00
 # DOMAIN-SUFFIX: 37
 # TOTAL: 37
 
+DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,tvcc.cn
 DOMAIN-SUFFIX,cntv.cn
-DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,cntvwb.cn
-DOMAIN-SUFFIX,ipanda.com
+DOMAIN-SUFFIX,ipanda.net
 DOMAIN-SUFFIX,cctvlib.cn
 DOMAIN-SUFFIX,cctvpro.cn
-DOMAIN-SUFFIX,ipanda.net
-DOMAIN-SUFFIX,gjgbdszt.cn
-DOMAIN-SUFFIX,zggbdszt.cn
-DOMAIN-SUFFIX,cctvpic.com
+DOMAIN-SUFFIX,ipanda.com
 DOMAIN-SUFFIX,chinaepg.cn
+DOMAIN-SUFFIX,zggbdszt.cn
+DOMAIN-SUFFIX,gjgbdszt.cn
+DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.cn
 DOMAIN-SUFFIX,chinalive.com
 DOMAIN-SUFFIX,livechina.com
@@ -26,18 +26,18 @@ DOMAIN-SUFFIX,olympicchannelchina.cn
 DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
-DOMAIN-SUFFIX,tvcc.com.cn
-DOMAIN-SUFFIX,cntv.com.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
 DOMAIN-SUFFIX,cnms.net.cn
 DOMAIN-SUFFIX,citv.net.cn
+DOMAIN-SUFFIX,tvcc.com.cn
+DOMAIN-SUFFIX,cntv.com.cn
 DOMAIN-SUFFIX,ipanda.com.cn
 DOMAIN-SUFFIX,cctvlib.com.cn
 DOMAIN-SUFFIX,cctvpro.com.cn
-DOMAIN-SUFFIX,gjgbdszt.net.cn
-DOMAIN-SUFFIX,zggbdszt.com.cn
-DOMAIN-SUFFIX,zygbdszt.net.cn
-DOMAIN-SUFFIX,gjgbdszt.com.cn
 DOMAIN-SUFFIX,zggbdszt.net.cn
+DOMAIN-SUFFIX,zggbdszt.com.cn
+DOMAIN-SUFFIX,gjgbdszt.net.cn
+DOMAIN-SUFFIX,gjgbdszt.com.cn
+DOMAIN-SUFFIX,zygbdszt.net.cn
 DOMAIN-SUFFIX,cctvlibrary.com.cn

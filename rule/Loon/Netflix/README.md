@@ -43,10 +43,9 @@ Netflix 相关规则与常见 IP 段。
 
 ### 数据来源
 
-- [blackmatrix7 Netflix](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list)
-- [ACL4SSR Netflix list](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list)
-- [ACL4SSR Netflix provider](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Netflix.yaml)
-- [LM-Firefly Netflix list](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Netflix.list)
+- [ACL4SSR/ACL4SSR: Netflix](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list)
+- [LM-Firefly/Rules: Netflix](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Netflix.list)
+- [blackmatrix7/ios_rule_script: Netflix](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list)
 
 <details>
 <summary>English</summary>

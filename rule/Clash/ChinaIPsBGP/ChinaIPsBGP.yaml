@@ -1,6 +1,6 @@
 # NAME: ChinaIPsBGP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:04:18.746574+00:00
+# UPDATED: 2026-07-05T06:22:04.272730+00:00
 payload:
   - IP-CIDR,1.1.8.0/24
   - IP-CIDR,1.2.4.0/24

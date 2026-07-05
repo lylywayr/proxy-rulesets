@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Zalo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zalo/Zalo.list)
+- [blackmatrix7/ios_rule_script: Zalo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zalo/Zalo.list)
 
 <details>
 <summary>English</summary>

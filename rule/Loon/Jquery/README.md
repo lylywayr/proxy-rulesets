@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Jquery](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jquery/Jquery.list)
+- [blackmatrix7/ios_rule_script: Jquery](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jquery/Jquery.list)
 
 <details>
 <summary>English</summary>

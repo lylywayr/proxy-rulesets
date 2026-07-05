@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LastFM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LastFM/LastFM.list)
+- [blackmatrix7/ios_rule_script: LastFM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LastFM/LastFM.list)
 
 <details>
 <summary>English</summary>

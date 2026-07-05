@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DAZN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DAZN/DAZN.list)
+- [blackmatrix7/ios_rule_script: DAZN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DAZN/DAZN.list)
 
 <details>
 <summary>English</summary>

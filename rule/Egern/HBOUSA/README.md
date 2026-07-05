@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HBOUSA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOUSA/HBOUSA.list)
+- [blackmatrix7/ios_rule_script: HBOUSA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOUSA/HBOUSA.list)
 
 <details>
 <summary>English</summary>

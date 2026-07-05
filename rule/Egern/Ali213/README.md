@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Ali213](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ali213/Ali213.list)
+- [blackmatrix7/ios_rule_script: Ali213](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ali213/Ali213.list)
 
 <details>
 <summary>English</summary>

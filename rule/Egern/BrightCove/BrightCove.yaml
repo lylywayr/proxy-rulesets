@@ -1,17 +1,17 @@
 # NAME: BrightCove
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:48:06.531059+00:00
+# UPDATED: 2026-07-05T06:01:00.156285+00:00
 no_resolve: true
 domain_suffix_set:
   - "zencdn.net"
-  - "boltdns.net"
   - "bcove.video"
-  - "bcovlive.io"
   - "videojs.com"
+  - "bcovlive.io"
+  - "boltdns.net"
   - "zencoder.com"
   - "bcvp0rtal.com"
-  - "brightcove.net"
   - "brightcove.com"
+  - "brightcove.net"
   - "brightcovecdn.com"
   - "brightcove.services"
   - "brightcove.imgix.net"

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DigiCert](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigiCert/DigiCert.list)
+- [blackmatrix7/ios_rule_script: DigiCert](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigiCert/DigiCert.list)
 
 <details>
 <summary>English</summary>

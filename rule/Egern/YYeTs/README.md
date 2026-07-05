@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 YYeTs](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YYeTs/YYeTs.list)
+- [blackmatrix7/ios_rule_script: YYeTs](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YYeTs/YYeTs.list)
 
 <details>
 <summary>English</summary>

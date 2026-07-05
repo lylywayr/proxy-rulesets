@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DiscoveryPlus](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiscoveryPlus/DiscoveryPlus.list)
+- [blackmatrix7/ios_rule_script: DiscoveryPlus](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiscoveryPlus/DiscoveryPlus.list)
 
 <details>
 <summary>English</summary>

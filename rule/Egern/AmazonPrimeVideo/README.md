@@ -42,7 +42,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AmazonPrimeVideo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list)
+- [blackmatrix7/ios_rule_script: AmazonPrimeVideo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list)
 
 <details>
 <summary>English</summary>

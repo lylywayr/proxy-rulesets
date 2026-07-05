@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Viki](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Viki/Viki.list)
+- [blackmatrix7/ios_rule_script: Viki](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Viki/Viki.list)
 
 <details>
 <summary>English</summary>

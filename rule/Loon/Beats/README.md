@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Beats](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Beats/Beats.list)
+- [blackmatrix7/ios_rule_script: Beats](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Beats/Beats.list)
 
 <details>
 <summary>English</summary>

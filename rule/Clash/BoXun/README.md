@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BoXun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BoXun/BoXun.list)
+- [blackmatrix7/ios_rule_script: BoXun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BoXun/BoXun.list)
 
 <details>
 <summary>English</summary>

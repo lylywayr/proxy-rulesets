@@ -1,28 +1,28 @@
 # NAME: PingAn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:53.293170+00:00
+# UPDATED: 2026-07-05T06:32:22.901067+00:00
 no_resolve: true
 domain_suffix_set:
   - "eka.cn"
   - "yqb.com"
-  - "ekapay.cn"
   - "olatop.cn"
-  - "pingan.com"
-  - "olatop.net"
+  - "ekapay.cn"
   - "yqbimg.net"
+  - "olatop.net"
   - "yqbimg.com"
   - "olatop.com"
-  - "1qianbao.cn"
+  - "pingan.com"
   - "18ebank.com"
-  - "1qianbao.com"
+  - "1qianbao.cn"
   - "1qianbao.net"
+  - "1qianbao.com"
   - "1010-0000.com"
-  - "yiqianbao.net"
   - "4008880999.cn"
-  - "4008000000.com"
-  - "4008880999.net"
-  - "4008824365.com"
+  - "yiqianbao.net"
   - "4008880999.com"
+  - "4008000000.com"
+  - "4008824365.com"
+  - "4008880999.net"
   - "mingyuanfund.com"
   - "pinganventures.com"
   - "pingan.com.cn"

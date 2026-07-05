@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AcFun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AcFun/AcFun.list)
+- [blackmatrix7/ios_rule_script: AcFun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AcFun/AcFun.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Huffpost](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Huffpost/Huffpost.list)
+- [blackmatrix7/ios_rule_script: Huffpost](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Huffpost/Huffpost.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HibyMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HibyMusic/HibyMusic.list)
+- [blackmatrix7/ios_rule_script: HibyMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HibyMusic/HibyMusic.list)
 
 <details>
 <summary>English</summary>

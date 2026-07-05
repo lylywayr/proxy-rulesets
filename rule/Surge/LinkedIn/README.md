@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LinkedIn](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LinkedIn/LinkedIn.list)
+- [blackmatrix7/ios_rule_script: LinkedIn](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LinkedIn/LinkedIn.list)
 
 <details>
 <summary>English</summary>

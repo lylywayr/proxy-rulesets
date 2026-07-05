@@ -42,7 +42,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ZhihuAds](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhihuAds/ZhihuAds.list)
+- [blackmatrix7/ios_rule_script: ZhihuAds](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhihuAds/ZhihuAds.list)
 
 <details>
 <summary>English</summary>

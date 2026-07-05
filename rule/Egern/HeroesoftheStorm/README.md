@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HeroesoftheStorm](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeroesoftheStorm/HeroesoftheStorm.list)
+- [blackmatrix7/ios_rule_script: HeroesoftheStorm](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeroesoftheStorm/HeroesoftheStorm.list)
 
 <details>
 <summary>English</summary>

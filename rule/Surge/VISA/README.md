@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 VISA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VISA/VISA.list)
+- [blackmatrix7/ios_rule_script: VISA](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VISA/VISA.list)
 
 <details>
 <summary>English</summary>

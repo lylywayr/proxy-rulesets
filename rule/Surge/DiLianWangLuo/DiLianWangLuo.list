@@ -1,16 +1,16 @@
 # NAME: DiLianWangLuo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:04:24.206505+00:00
+# UPDATED: 2026-07-05T06:22:05.863792+00:00
 # DOMAIN-SUFFIX: 14
 # TOTAL: 14
 
 DOMAIN-SUFFIX,acadn.cn
 DOMAIN-SUFFIX,mcadn.cn
 DOMAIN-SUFFIX,dlgslb.cn
-DOMAIN-SUFFIX,dwion.com
-DOMAIN-SUFFIX,flxdns.cn
 DOMAIN-SUFFIX,tlgslb.cn
 DOMAIN-SUFFIX,acadn.com
+DOMAIN-SUFFIX,flxdns.cn
+DOMAIN-SUFFIX,dwion.com
 DOMAIN-SUFFIX,dlgslb.net
 DOMAIN-SUFFIX,tlgslb.com
 DOMAIN-SUFFIX,flxdns.com

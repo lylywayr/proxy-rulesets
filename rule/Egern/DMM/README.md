@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DMM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list)
+- [blackmatrix7/ios_rule_script: DMM](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list)
 
 <details>
 <summary>English</summary>

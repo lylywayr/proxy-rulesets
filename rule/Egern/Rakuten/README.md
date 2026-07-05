@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Rakuten](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rakuten/Rakuten.list)
+- [blackmatrix7/ios_rule_script: Rakuten](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rakuten/Rakuten.list)
 
 <details>
 <summary>English</summary>

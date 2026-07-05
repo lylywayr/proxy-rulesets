@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AiQiCha](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AiQiCha/AiQiCha.list)
+- [blackmatrix7/ios_rule_script: AiQiCha](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AiQiCha/AiQiCha.list)
 
 <details>
 <summary>English</summary>

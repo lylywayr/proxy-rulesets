@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Emby](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Emby/Emby.list)
+- [blackmatrix7/ios_rule_script: Emby](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Emby/Emby.list)
 
 <details>
 <summary>English</summary>

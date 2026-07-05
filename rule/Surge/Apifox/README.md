@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Apifox](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apifox/Apifox.list)
+- [blackmatrix7/ios_rule_script: Apifox](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apifox/Apifox.list)
 
 <details>
 <summary>English</summary>

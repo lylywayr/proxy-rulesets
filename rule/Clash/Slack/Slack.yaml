@@ -1,6 +1,6 @@
 # NAME: Slack
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:56.956140+00:00
+# UPDATED: 2026-07-05T06:42:59.306828+00:00
 payload:
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,slackb.com
@@ -8,8 +8,8 @@ payload:
   - DOMAIN-SUFFIX,slackdemo.com
   - DOMAIN-SUFFIX,slack-edge.com
   - DOMAIN-SUFFIX,slack-core.com
-  - DOMAIN-SUFFIX,slack-imgs.com
   - DOMAIN-SUFFIX,slack-msgs.com
+  - DOMAIN-SUFFIX,slack-imgs.com
   - DOMAIN-SUFFIX,slack-files.com
   - DOMAIN-SUFFIX,slack-redir.net
   - DOMAIN-SUFFIX,slackcertified.com

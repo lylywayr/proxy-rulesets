@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HBOHK](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOHK/HBOHK.list)
+- [blackmatrix7/ios_rule_script: HBOHK](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOHK/HBOHK.list)
 
 <details>
 <summary>English</summary>

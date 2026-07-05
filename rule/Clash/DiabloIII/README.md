@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 DiabloIII](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiabloIII/DiabloIII.list)
+- [blackmatrix7/ios_rule_script: DiabloIII](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiabloIII/DiabloIII.list)
 
 <details>
 <summary>English</summary>

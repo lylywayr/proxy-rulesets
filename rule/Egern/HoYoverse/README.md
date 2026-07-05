@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 HoYoverse](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HoYoverse/HoYoverse.list)
+- [blackmatrix7/ios_rule_script: HoYoverse](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HoYoverse/HoYoverse.list)
 
 <details>
 <summary>English</summary>

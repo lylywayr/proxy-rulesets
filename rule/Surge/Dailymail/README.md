@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Dailymail](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dailymail/Dailymail.list)
+- [blackmatrix7/ios_rule_script: Dailymail](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dailymail/Dailymail.list)
 
 <details>
 <summary>English</summary>

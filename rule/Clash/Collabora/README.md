@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Collabora](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Collabora/Collabora.list)
+- [blackmatrix7/ios_rule_script: Collabora](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Collabora/Collabora.list)
 
 <details>
 <summary>English</summary>

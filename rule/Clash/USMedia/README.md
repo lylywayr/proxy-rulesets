@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 USMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/USMedia/USMedia.list)
+- [blackmatrix7/ios_rule_script: USMedia](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/USMedia/USMedia.list)
 
 <details>
 <summary>English</summary>

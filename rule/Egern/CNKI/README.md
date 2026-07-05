@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CNKI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNKI/CNKI.list)
+- [blackmatrix7/ios_rule_script: CNKI](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNKI/CNKI.list)
 
 <details>
 <summary>English</summary>

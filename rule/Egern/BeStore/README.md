@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BeStore](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BeStore/BeStore.list)
+- [blackmatrix7/ios_rule_script: BeStore](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BeStore/BeStore.list)
 
 <details>
 <summary>English</summary>

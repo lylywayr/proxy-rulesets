@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ChinaASN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list)
+- [blackmatrix7/ios_rule_script: ChinaASN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list)
 
 <details>
 <summary>English</summary>

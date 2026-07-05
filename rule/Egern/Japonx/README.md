@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Japonx](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Japonx/Japonx.list)
+- [blackmatrix7/ios_rule_script: Japonx](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Japonx/Japonx.list)
 
 <details>
 <summary>English</summary>

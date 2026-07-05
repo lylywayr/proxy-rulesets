@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AmazonCN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonCN/AmazonCN.list)
+- [blackmatrix7/ios_rule_script: AmazonCN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonCN/AmazonCN.list)
 
 <details>
 <summary>English</summary>

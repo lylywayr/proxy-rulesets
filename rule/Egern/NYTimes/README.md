@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 NYTimes](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYTimes/NYTimes.list)
+- [blackmatrix7/ios_rule_script: NYTimes](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYTimes/NYTimes.list)
 
 <details>
 <summary>English</summary>

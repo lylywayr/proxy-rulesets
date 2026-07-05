@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Verizon](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Verizon/Verizon.list)
+- [blackmatrix7/ios_rule_script: Verizon](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Verizon/Verizon.list)
 
 <details>
 <summary>English</summary>

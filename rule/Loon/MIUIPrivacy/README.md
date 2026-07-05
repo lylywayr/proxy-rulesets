@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 MIUIPrivacy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MIUIPrivacy/MIUIPrivacy.list)
+- [blackmatrix7/ios_rule_script: MIUIPrivacy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MIUIPrivacy/MIUIPrivacy.list)
 
 <details>
 <summary>English</summary>

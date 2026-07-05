@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 8btc](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/8btc/8btc.list)
+- [blackmatrix7/ios_rule_script: 8btc](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/8btc/8btc.list)
 
 <details>
 <summary>English</summary>

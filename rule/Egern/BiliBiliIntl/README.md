@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 BiliBiliIntl](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBiliIntl/BiliBiliIntl.list)
+- [blackmatrix7/ios_rule_script: BiliBiliIntl](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBiliIntl/BiliBiliIntl.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 StarCraftII](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/StarCraftII/StarCraftII.list)
+- [blackmatrix7/ios_rule_script: StarCraftII](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/StarCraftII/StarCraftII.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Bestbuy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bestbuy/Bestbuy.list)
+- [blackmatrix7/ios_rule_script: Bestbuy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bestbuy/Bestbuy.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 QingCloud](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QingCloud/QingCloud.list)
+- [blackmatrix7/ios_rule_script: QingCloud](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QingCloud/QingCloud.list)
 
 <details>
 <summary>English</summary>

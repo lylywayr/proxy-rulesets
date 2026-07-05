@@ -42,7 +42,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Naver](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Naver/Naver.list)
+- [blackmatrix7/ios_rule_script: Naver](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Naver/Naver.list)
 
 <details>
 <summary>English</summary>

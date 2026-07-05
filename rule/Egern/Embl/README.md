@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Embl](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Embl/Embl.list)
+- [blackmatrix7/ios_rule_script: Embl](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Embl/Embl.list)
 
 <details>
 <summary>English</summary>

@@ -40,7 +40,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 LastPass](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LastPass/LastPass.list)
+- [blackmatrix7/ios_rule_script: LastPass](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LastPass/LastPass.list)
 
 <details>
 <summary>English</summary>

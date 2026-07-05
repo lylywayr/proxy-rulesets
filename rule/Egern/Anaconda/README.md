@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Anaconda](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anaconda/Anaconda.list)
+- [blackmatrix7/ios_rule_script: Anaconda](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anaconda/Anaconda.list)
 
 <details>
 <summary>English</summary>

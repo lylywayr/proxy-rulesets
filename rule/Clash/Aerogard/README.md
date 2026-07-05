@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Aerogard](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Aerogard/Aerogard.list)
+- [blackmatrix7/ios_rule_script: Aerogard](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Aerogard/Aerogard.list)
 
 <details>
 <summary>English</summary>

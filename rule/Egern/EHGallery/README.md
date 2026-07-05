@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 EHGallery](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EHGallery/EHGallery.list)
+- [blackmatrix7/ios_rule_script: EHGallery](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EHGallery/EHGallery.list)
 
 <details>
 <summary>English</summary>

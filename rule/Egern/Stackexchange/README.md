@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Stackexchange](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Stackexchange/Stackexchange.list)
+- [blackmatrix7/ios_rule_script: Stackexchange](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Stackexchange/Stackexchange.list)
 
 <details>
 <summary>English</summary>

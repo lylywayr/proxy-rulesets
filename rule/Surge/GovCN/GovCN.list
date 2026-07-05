@@ -1,6 +1,6 @@
 # NAME: GovCN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:20:39.405183+00:00
+# UPDATED: 2026-07-05T06:32:07.465191+00:00
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
 
@@ -11,9 +11,9 @@ DOMAIN-SUFFIX,wsglw.net
 DOMAIN-SUFFIX,wsglw.com
 DOMAIN-SUFFIX,scncrc.com
 DOMAIN-SUFFIX,91huayi.cn
-DOMAIN-SUFFIX,91huayi.net
-DOMAIN-SUFFIX,heart301.cn
 DOMAIN-SUFFIX,91huayi.com
+DOMAIN-SUFFIX,heart301.cn
+DOMAIN-SUFFIX,91huayi.net
 DOMAIN-SUFFIX,henancme.net
 DOMAIN-SUFFIX,robot301.net
 DOMAIN-SUFFIX,huayiyuan.com

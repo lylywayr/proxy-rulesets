@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 XiamiMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiamiMusic/XiamiMusic.list)
+- [blackmatrix7/ios_rule_script: XiamiMusic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiamiMusic/XiamiMusic.list)
 
 <details>
 <summary>English</summary>

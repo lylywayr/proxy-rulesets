@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 6park](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/6park/6park.list)
+- [blackmatrix7/ios_rule_script: 6park](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/6park/6park.list)
 
 <details>
 <summary>English</summary>

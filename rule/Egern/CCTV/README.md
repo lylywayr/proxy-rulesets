@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CCTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCTV/CCTV.list)
+- [blackmatrix7/ios_rule_script: CCTV](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCTV/CCTV.list)
 
 <details>
 <summary>English</summary>

@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 All4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/All4/All4.list)
+- [blackmatrix7/ios_rule_script: All4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/All4/All4.list)
 
 <details>
 <summary>English</summary>

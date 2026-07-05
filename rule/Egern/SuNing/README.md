@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 SuNing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SuNing/SuNing.list)
+- [blackmatrix7/ios_rule_script: SuNing](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SuNing/SuNing.list)
 
 <details>
 <summary>English</summary>

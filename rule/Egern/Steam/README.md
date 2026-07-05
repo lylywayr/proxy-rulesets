@@ -14,8 +14,9 @@
 
 ### 规则统计
 
-- 总数：`54`
-- `DOMAIN-SUFFIX`: 51
+- 总数：`68`
+- `DOMAIN`: 6
+- `DOMAIN-SUFFIX`: 59
 - `DOMAIN-KEYWORD`: 3
 
 ### 使用说明
@@ -39,7 +40,8 @@
 
 ### 数据来源
 
-- [blackmatrix7 Steam](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list)
+- [v2fly/domain-list-community: steam (geosite)](https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/steam)
+- [blackmatrix7/ios_rule_script: Steam](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list)
 
 <details>
 <summary>English</summary>

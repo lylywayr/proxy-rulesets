@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 AFP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AFP/AFP.list)
+- [blackmatrix7/ios_rule_script: AFP](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AFP/AFP.list)
 
 <details>
 <summary>English</summary>

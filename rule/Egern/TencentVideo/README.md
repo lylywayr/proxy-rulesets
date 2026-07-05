@@ -41,7 +41,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 TencentVideo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TencentVideo/TencentVideo.list)
+- [blackmatrix7/ios_rule_script: TencentVideo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TencentVideo/TencentVideo.list)
 
 <details>
 <summary>English</summary>

@@ -1,6 +1,6 @@
 # NAME: XueErSi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:21:05.911251+00:00
+# UPDATED: 2026-07-05T06:43:01.931618+00:00
 no_resolve: true
 domain_suffix_set:
   - "xesimg.com"

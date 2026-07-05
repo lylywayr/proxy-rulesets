@@ -1,17 +1,17 @@
 # NAME: Tesla
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T03:21:00.242983+00:00
+# UPDATED: 2026-07-05T06:43:00.764514+00:00
 no_resolve: true
 domain_suffix_set:
   - "ts.la"
   - "tesla.com"
   - "teslazta.net"
   - "solarcity.com"
-  - "teslamotors.cn"
   - "tesla.services"
+  - "teslamotors.cn"
   - "teslamotors.com"
   - "teslaenergy.services"
   - "tesla.com.cn"
-  - "teslamotors.com.cn"
   - "tesla-cdn.thron.cn"
+  - "teslamotors.com.cn"
   - "tesla-cdn.thron.com"

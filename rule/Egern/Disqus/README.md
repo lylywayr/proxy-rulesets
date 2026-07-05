@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Disqus](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disqus/Disqus.list)
+- [blackmatrix7/ios_rule_script: Disqus](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disqus/Disqus.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 ZhongXingTongXun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongXingTongXun/ZhongXingTongXun.list)
+- [blackmatrix7/ios_rule_script: ZhongXingTongXun](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongXingTongXun/ZhongXingTongXun.list)
 
 <details>
 <summary>English</summary>

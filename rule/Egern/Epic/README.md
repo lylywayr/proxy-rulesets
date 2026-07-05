@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Epic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Epic/Epic.list)
+- [blackmatrix7/ios_rule_script: Epic](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Epic/Epic.list)
 
 <details>
 <summary>English</summary>

@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Duolingo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Duolingo/Duolingo.list)
+- [blackmatrix7/ios_rule_script: Duolingo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Duolingo/Duolingo.list)
 
 <details>
 <summary>English</summary>

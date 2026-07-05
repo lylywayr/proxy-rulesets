@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 CKJR](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CKJR/CKJR.list)
+- [blackmatrix7/ios_rule_script: CKJR](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CKJR/CKJR.list)
 
 <details>
 <summary>English</summary>

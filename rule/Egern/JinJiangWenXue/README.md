@@ -39,7 +39,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 JinJiangWenXue](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JinJiangWenXue/JinJiangWenXue.list)
+- [blackmatrix7/ios_rule_script: JinJiangWenXue](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JinJiangWenXue/JinJiangWenXue.list)
 
 <details>
 <summary>English</summary>

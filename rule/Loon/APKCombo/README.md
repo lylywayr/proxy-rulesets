@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 APKCombo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/APKCombo/APKCombo.list)
+- [blackmatrix7/ios_rule_script: APKCombo](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/APKCombo/APKCombo.list)
 
 <details>
 <summary>English</summary>

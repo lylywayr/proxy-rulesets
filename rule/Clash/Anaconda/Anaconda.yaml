@@ -1,8 +1,8 @@
 # NAME: Anaconda
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T02:48:01.663109+00:00
+# UPDATED: 2026-07-05T06:00:44.808314+00:00
 payload:
   - DOMAIN-SUFFIX,conda.io
-  - DOMAIN-SUFFIX,anaconda.org
   - DOMAIN-SUFFIX,anaconda.com
+  - DOMAIN-SUFFIX,anaconda.org
   - DOMAIN-SUFFIX,anaconda.cloud

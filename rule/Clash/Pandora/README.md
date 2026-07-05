@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Pandora](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pandora/Pandora.list)
+- [blackmatrix7/ios_rule_script: Pandora](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pandora/Pandora.list)
 
 <details>
 <summary>English</summary>

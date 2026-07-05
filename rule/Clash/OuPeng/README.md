@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 OuPeng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OuPeng/OuPeng.list)
+- [blackmatrix7/ios_rule_script: OuPeng](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OuPeng/OuPeng.list)
 
 <details>
 <summary>English</summary>

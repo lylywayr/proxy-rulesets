@@ -37,7 +37,7 @@
 
 ### 数据来源
 
-- [blackmatrix7 Shopify](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Shopify/Shopify.list)
+- [blackmatrix7/ios_rule_script: Shopify](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Shopify/Shopify.list)
 
 <details>
 <summary>English</summary>
