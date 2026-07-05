@@ -4,10 +4,9 @@
 # DOMAIN: 40
 # DOMAIN-SUFFIX: 157
 # DOMAIN-KEYWORD: 5
-# DOMAIN-REGEX: 1
 # IP-ASN: 2
 # IP-CIDR: 2
-# TOTAL: 207
+# TOTAL: 206
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -211,7 +210,6 @@ DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaicom-api
-DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 IP-ASN,14061
 IP-ASN,20473
 IP-CIDR,24.199.123.28/32,no-resolve

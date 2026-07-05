@@ -3,10 +3,9 @@
 # UPDATED: 2026-07-05T08:19:51.375255+00:00
 # DOMAIN: 420
 # DOMAIN-SUFFIX: 112264
-# DOMAIN-REGEX: 3
 # IP-CIDR: 4217
 # IP-CIDR6: 1470
-# TOTAL: 118374
+# TOTAL: 118371
 
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -112692,9 +112691,6 @@ DOMAIN-SUFFIX,storecorefulfillment.download.prss.microsoft.com
 DOMAIN-SUFFIX,b.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,gs2.ww.prod.dl.playstation.net
-DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-DOMAIN-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
 IP-CIDR,1.1.8.0/24,no-resolve
 IP-CIDR,1.2.4.0/24,no-resolve
 IP-CIDR,1.8.1.0/24,no-resolve

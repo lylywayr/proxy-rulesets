@@ -4,11 +4,10 @@
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 818
 # DOMAIN-KEYWORD: 2
-# DOMAIN-REGEX: 2
 # PROCESS-NAME: 7
 # IP-CIDR: 4
 # IP-CIDR6: 1
-# TOTAL: 835
+# TOTAL: 833
 
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN-SUFFIX,my
@@ -831,8 +830,6 @@ DOMAIN-SUFFIX,www.destinationurl.com
 DOMAIN-SUFFIX,avail.googleflights.net
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
-DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 PROCESS-NAME,GoogleDriveFS.exe
 PROCESS-NAME,com.android.vending
 PROCESS-NAME,com.google.android.apps.youtube.music
