@@ -1,6 +1,6 @@
 # NAME: 56
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:00:57.177226+00:00
+# UPDATED: 2026-07-06T01:24:51.019681+00:00
 no_resolve: true
 domain_suffix_set:
   - "56.com"
@@ -9,7 +9,7 @@ domain_suffix_set:
   - "somama.com"
   - "qianfan.tv"
   - "56imgs.com"
-  - "icaneasy.com"
   - "vicovico.com"
+  - "icaneasy.com"
   - "icanvideo.com"
   - "qf.com.cn"

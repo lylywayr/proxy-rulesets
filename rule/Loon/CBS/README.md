@@ -9,12 +9,13 @@
 - 分类标识：`CBS`
 - 当前客户端：`Loon`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`37`
+- 总数：`35`
 - `DOMAIN-SUFFIX`: 34
 - `USER-AGENT`: 1
 - `PROCESS-NAME`: 2
@@ -24,7 +25,7 @@
 - 规则格式：`纯文本远程规则列表`
 - 文件：`rule/Loon/CBS/CBS.list`
 - 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/CBS/CBS.list>
-- 已省略的不兼容类型：无
+- 已省略的不兼容类型：`PROCESS-NAME`=2
 
 ### 客户端入口
 
@@ -49,6 +50,7 @@ Aggregated rules for CBS, covering related domains, keywords, and network target
 - Category ID: `CBS`
 - Client: `Loon`
 - Group: `Lifestyle`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/CBS/CBS.list>
 

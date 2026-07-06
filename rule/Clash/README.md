@@ -149,15 +149,15 @@
 | 中国 DNS | 云与网络 | `111691` | [规则](./ChinaDNS/ChinaDNS.yaml) | [说明](./ChinaDNS/README.md) |
 | 中国 IP | AI 服务 | `11295` | [规则](./ChinaIPs/ChinaIPs.yaml) | [说明](./ChinaIPs/README.md) |
 | 中国 IP BGP | AI 服务 | `3916` | [规则](./ChinaIPsBGP/ChinaIPsBGP.yaml) | [说明](./ChinaIPsBGP/README.md) |
-| 中国大陆全量 | 中国大陆服务 | `12508` | [规则](./ChinaMax/ChinaMax.yaml) | [说明](./ChinaMax/README.md) |
-| 中国大陆全量无 IP | 中国大陆服务 | `131` | [规则](./ChinaMaxNoIP/ChinaMaxNoIP.yaml) | [说明](./ChinaMaxNoIP/README.md) |
-| 中国大陆全量无媒体 | 流媒体与内容 | `12503` | [规则](./ChinaMaxNoMedia/ChinaMaxNoMedia.yaml) | [说明](./ChinaMaxNoMedia/README.md) |
+| 中国大陆全量 | 中国大陆服务 | `12521` | [规则](./ChinaMax/ChinaMax.yaml) | [说明](./ChinaMax/README.md) |
+| 中国大陆全量无 IP | 中国大陆服务 | `137` | [规则](./ChinaMaxNoIP/ChinaMaxNoIP.yaml) | [说明](./ChinaMaxNoIP/README.md) |
+| 中国大陆全量无媒体 | 流媒体与内容 | `12515` | [规则](./ChinaMaxNoMedia/ChinaMaxNoMedia.yaml) | [说明](./ChinaMaxNoMedia/README.md) |
 | 中国媒体 | 中国大陆服务 | `446` | [规则](./ChinaMedia/ChinaMedia.yaml) | [说明](./ChinaMedia/README.md) |
 | 中国移动 | 中国大陆服务 | `36` | [规则](./ChinaMobile/ChinaMobile.yaml) | [说明](./ChinaMobile/README.md) |
 | 中国新闻 | 流媒体与内容 | `4` | [规则](./ChinaNews/ChinaNews.yaml) | [说明](./ChinaNews/README.md) |
 | 中国大陆无媒体 | 流媒体与内容 | `57` | [规则](./ChinaNoMedia/ChinaNoMedia.yaml) | [说明](./ChinaNoMedia/README.md) |
 | 中国电信 | 中国大陆服务 | `83` | [规则](./ChinaTelecom/ChinaTelecom.yaml) | [说明](./ChinaTelecom/README.md) |
-| 中国大陆测试 | 中国大陆服务 | `99` | [规则](./ChinaTest/ChinaTest.yaml) | [说明](./ChinaTest/README.md) |
+| 中国大陆测试 | 中国大陆服务 | `106` | [规则](./ChinaTest/ChinaTest.yaml) | [说明](./ChinaTest/README.md) |
 | 中国联通 | 中国大陆服务 | `34` | [规则](./ChinaUnicom/ChinaUnicom.yaml) | [说明](./ChinaUnicom/README.md) |
 | Chromecast | 生活与工具 | `1` | [规则](./Chromecast/Chromecast.yaml) | [说明](./Chromecast/README.md) |
 | 中华电信 | 生活与工具 | `7` | [规则](./CHT/CHT.yaml) | [说明](./CHT/README.md) |

@@ -9,6 +9,7 @@
 - 分类标识：`Reabble`
 - 当前客户端：`Egern`
 - 所属分组：[游戏平台](../../../guide/groups/gaming.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
@@ -47,6 +48,7 @@ Aggregated rules for Reabble, covering related domains, keywords, and network ta
 - Category ID: `Reabble`
 - Client: `Egern`
 - Group: `Gaming`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Reabble/Reabble.yaml>
 

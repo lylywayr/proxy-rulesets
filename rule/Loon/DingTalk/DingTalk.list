@@ -1,11 +1,11 @@
 # NAME: DingTalk
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:36:57.075305+00:00
+# UPDATED: 2026-07-06T01:59:03.286225+00:00
 # DOMAIN-SUFFIX: 11
 # TOTAL: 11
 
-DOMAIN-SUFFIX,lwurl.to
 DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,lwurl.to
 DOMAIN-SUFFIX,dg-work.cn
 DOMAIN-SUFFIX,laiwang.com
 DOMAIN-SUFFIX,realapp.xin

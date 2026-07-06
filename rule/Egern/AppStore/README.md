@@ -9,6 +9,7 @@
 - 分类标识：`AppStore`
 - 当前客户端：`Egern`
 - 所属分组：[苹果生态](../../../guide/groups/apple.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
@@ -47,6 +48,7 @@ Aggregated rules for AppStore, covering related domains, keywords, and network t
 - Category ID: `AppStore`
 - Client: `Egern`
 - Group: `Apple`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AppStore/AppStore.yaml>
 

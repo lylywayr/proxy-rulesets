@@ -9,6 +9,7 @@
 - 分类标识：`Mail`
 - 当前客户端：`Surge`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [办公协作专题](../../../guide/topics/office-collaboration.md)
 
@@ -48,6 +49,7 @@ Aggregated rules for Mail, covering related domains, keywords, and network targe
 - Category ID: `Mail`
 - Client: `Surge`
 - Group: `Ai`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Mail/Mail.list>
 

@@ -9,6 +9,7 @@
 - 分类标识：`GoogleFCM`
 - 当前客户端：`Loon`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [云网络专题](../../../guide/topics/cloud-network.md)
 
@@ -48,6 +49,7 @@ Aggregated rules for GoogleFCM, covering related domains, keywords, and network 
 - Category ID: `GoogleFCM`
 - Client: `Loon`
 - Group: `Office`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GoogleFCM/GoogleFCM.list>
 

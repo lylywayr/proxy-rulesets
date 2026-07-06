@@ -9,6 +9,7 @@
 - 分类标识：`HBOUSA`
 - 当前客户端：`Egern`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
@@ -50,6 +51,7 @@ Aggregated rules for HBOUSA, covering related domains, keywords, and network tar
 - Category ID: `HBOUSA`
 - Client: `Egern`
 - Group: `Lifestyle`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HBOUSA/HBOUSA.yaml>
 

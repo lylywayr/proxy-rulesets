@@ -9,6 +9,7 @@
 - 分类标识：`ChinaDNS`
 - 当前客户端：`Loon`
 - 所属分组：[云与网络](../../../guide/groups/network.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
@@ -50,6 +51,7 @@ Aggregated rules for ChinaDNS, covering related domains, keywords, and network t
 - Category ID: `ChinaDNS`
 - Client: `Loon`
 - Group: `Network`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ChinaDNS/ChinaDNS.list>
 

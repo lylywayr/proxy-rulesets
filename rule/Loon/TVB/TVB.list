@@ -1,6 +1,6 @@
 # NAME: TVB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:05.592808+00:00
+# UPDATED: 2026-07-06T02:18:58.948209+00:00
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 18
 # USER-AGENT: 2
@@ -11,9 +11,9 @@ DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tvbusa.com
-DOMAIN-SUFFIX,encoretvb.com
-DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvbweekly.com
+DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,bigbigshop.com
 DOMAIN-SUFFIX,tvbanywhere.com
 DOMAIN-SUFFIX,youboranqs01.com

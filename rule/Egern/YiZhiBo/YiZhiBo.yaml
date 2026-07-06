@@ -1,6 +1,6 @@
 # NAME: YiZhiBo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:14.291169+00:00
+# UPDATED: 2026-07-06T02:19:03.079675+00:00
 no_resolve: true
 domain_suffix_set:
   - "yzbo.tv"

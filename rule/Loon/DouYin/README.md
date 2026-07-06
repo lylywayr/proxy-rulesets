@@ -9,6 +9,7 @@
 - 分类标识：`DouYin`
 - 当前客户端：`Loon`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,6 +49,7 @@ Aggregated rules for DouYin, covering related domains, keywords, and network tar
 - Category ID: `DouYin`
 - Client: `Loon`
 - Group: `Mainland`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/DouYin/DouYin.list>
 

@@ -1,6 +1,6 @@
 # NAME: Anonv
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:01:08.297059+00:00
+# UPDATED: 2026-07-06T01:24:55.146649+00:00
 no_resolve: true
 domain_suffix_set:
   - "anon-v.com"

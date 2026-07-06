@@ -1,6 +1,6 @@
 # NAME: 115
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:00:54.714887+00:00
+# UPDATED: 2026-07-06T01:24:50.155973+00:00
 no_resolve: true
 domain_set:
   - "fhnfile.oss-cn-shenzhen.aliyuncs.com"
@@ -11,10 +11,10 @@ domain_suffix_set:
   - "116cd.com"
   - "anxia.com"
   - "116cd.net"
-  - "115img.com"
-  - "115cdn.net"
-  - "115cdn.com"
   - "115vod.com"
+  - "115img.com"
+  - "115cdn.com"
+  - "115cdn.net"
   - "115cloud.cn"
   - "115meta.com"
   - "115cloud.com"

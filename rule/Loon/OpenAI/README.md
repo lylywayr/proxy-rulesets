@@ -9,12 +9,13 @@ OpenAI 规则集合。
 - 分类标识：`OpenAI`
 - 当前客户端：`Loon`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
 ### 规则统计
 
-- 总数：`43`
+- 总数：`42`
 - `DOMAIN`: 8
 - `DOMAIN-SUFFIX`: 30
 - `DOMAIN-KEYWORD`: 1
@@ -27,7 +28,7 @@ OpenAI 规则集合。
 - 规则格式：`纯文本远程规则列表`
 - 文件：`rule/Loon/OpenAI/OpenAI.list`
 - 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/OpenAI/OpenAI.list>
-- 已省略的不兼容类型：无
+- 已省略的不兼容类型：`DOMAIN-REGEX`=1
 
 ### 客户端入口
 
@@ -54,6 +55,7 @@ OpenAI rules.
 - Category ID: `OpenAI`
 - Client: `Loon`
 - Group: `Ai`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/OpenAI/OpenAI.list>
 

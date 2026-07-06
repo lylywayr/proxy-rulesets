@@ -1,41 +1,41 @@
 # NAME: CMB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:36:52.828810+00:00
+# UPDATED: 2026-07-06T01:59:01.257917+00:00
 # DOMAIN-SUFFIX: 38
 # TOTAL: 38
 
-DOMAIN-SUFFIX,cmf.ltd
 DOMAIN-SUFFIX,cmf.biz
 DOMAIN-SUFFIX,cmbt.cn
+DOMAIN-SUFFIX,cmf.ltd
 DOMAIN-SUFFIX,cnki.net
-DOMAIN-SUFFIX,cmbimg.cn
-DOMAIN-SUFFIX,cmburl.cn
 DOMAIN-SUFFIX,chndoi.cn
-DOMAIN-SUFFIX,chndoi.com
-DOMAIN-SUFFIX,chndoi.org
-DOMAIN-SUFFIX,cmfunds.cn
-DOMAIN-SUFFIX,chndoi.net
-DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,cmburl.cn
+DOMAIN-SUFFIX,cmbimg.cn
 DOMAIN-SUFFIX,cmbuat.com
+DOMAIN-SUFFIX,chndoi.com
+DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cnkidoi.cn
-DOMAIN-SUFFIX,cmbchina.cn
-DOMAIN-SUFFIX,cnkidoi.net
-DOMAIN-SUFFIX,cnkidoi.com
-DOMAIN-SUFFIX,cnkidoi.org
+DOMAIN-SUFFIX,cmfunds.cn
+DOMAIN-SUFFIX,chndoi.org
+DOMAIN-SUFFIX,chndoi.net
 DOMAIN-SUFFIX,bjsbnet.com
+DOMAIN-SUFFIX,cnkidoi.org
+DOMAIN-SUFFIX,cmbchina.cn
+DOMAIN-SUFFIX,cnkidoi.com
+DOMAIN-SUFFIX,cnkidoi.net
 DOMAIN-SUFFIX,cmbchina.com
-DOMAIN-SUFFIX,cmfchina.com
-DOMAIN-SUFFIX,cmbchina.biz
-DOMAIN-SUFFIX,wuxizazhi.cn
 DOMAIN-SUFFIX,cignacmb.com
+DOMAIN-SUFFIX,cmbchina.biz
+DOMAIN-SUFFIX,cmfchina.com
+DOMAIN-SUFFIX,wuxizazhi.cn
 DOMAIN-SUFFIX,wuxizazhi.net
-DOMAIN-SUFFIX,8008205555.cn
 DOMAIN-SUFFIX,wuxizazhi.com
+DOMAIN-SUFFIX,8008205555.cn
 DOMAIN-SUFFIX,8008205555.com
 DOMAIN-SUFFIX,cmb-leasing.com
 DOMAIN-SUFFIX,cignacmbamc.com
-DOMAIN-SUFFIX,cignacmb-ipmi.com
 DOMAIN-SUFFIX,test-cignacmb.com
+DOMAIN-SUFFIX,cignacmb-ipmi.com
 DOMAIN-SUFFIX,cmbwinglungbank.com
 DOMAIN-SUFFIX,bbf.org.cn
 DOMAIN-SUFFIX,cmbi.com.hk

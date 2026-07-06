@@ -9,6 +9,7 @@
 - 分类标识：`HuluUSA`
 - 当前客户端：`Egern`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,6 +49,7 @@ Aggregated rules for HuluUSA, covering related domains, keywords, and network ta
 - Category ID: `HuluUSA`
 - Client: `Egern`
 - Group: `Media`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/HuluUSA/HuluUSA.yaml>
 

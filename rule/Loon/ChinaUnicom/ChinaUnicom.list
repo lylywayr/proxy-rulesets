@@ -1,23 +1,23 @@
 # NAME: ChinaUnicom
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:36:50.688370+00:00
+# UPDATED: 2026-07-06T01:59:00.353490+00:00
 # DOMAIN-SUFFIX: 33
 # IP-CIDR: 1
 # TOTAL: 34
 
 DOMAIN-SUFFIX,wo.cn
-DOMAIN-SUFFIX,cupb.cn
 DOMAIN-SUFFIX,17wo.cn
-DOMAIN-SUFFIX,cuecp.cn
+DOMAIN-SUFFIX,cupb.cn
 DOMAIN-SUFFIX,10010.cn
+DOMAIN-SUFFIX,cuecp.cn
 DOMAIN-SUFFIX,unimip.cn
-DOMAIN-SUFFIX,mucfc.com
-DOMAIN-SUFFIX,gd165.com
-DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10010.net
+DOMAIN-SUFFIX,gd165.com
+DOMAIN-SUFFIX,mucfc.com
+DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,cu5gaia.cn
-DOMAIN-SUFFIX,wom186.com
 DOMAIN-SUFFIX,wobaif.com
+DOMAIN-SUFFIX,wom186.com
 DOMAIN-SUFFIX,gd10010.cn
 DOMAIN-SUFFIX,cu5gaia.com
 DOMAIN-SUFFIX,wo-link.tech
@@ -25,17 +25,17 @@ DOMAIN-SUFFIX,unicomgd.com
 DOMAIN-SUFFIX,chinaunicom.cn
 DOMAIN-SUFFIX,chinaunicom.com
 DOMAIN-SUFFIX,unicompayment.cn
+DOMAIN-SUFFIX,unicompayment.org
 DOMAIN-SUFFIX,unicompayment.net
 DOMAIN-SUFFIX,mychinaunicom.com
-DOMAIN-SUFFIX,unicompayment.org
 DOMAIN-SUFFIX,unicompayment.com
 DOMAIN-SUFFIX,chinaunicombidding.cn
 DOMAIN-SUFFIX,chinaunicomglobal.com
 DOMAIN-SUFFIX,wo.com.cn
 DOMAIN-SUFFIX,gnoc.com.cn
 DOMAIN-SUFFIX,10010.com.cn
-DOMAIN-SUFFIX,e-engine.com.cn
 DOMAIN-SUFFIX,gd116114.net.cn
-DOMAIN-SUFFIX,chinaunicom.com.cn
+DOMAIN-SUFFIX,e-engine.com.cn
 DOMAIN-SUFFIX,chinaunicom.com.hk
+DOMAIN-SUFFIX,chinaunicom.com.cn
 IP-CIDR,113.200.56.63/32,no-resolve

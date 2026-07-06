@@ -9,6 +9,7 @@
 - 分类标识：`FreeCodeCamp`
 - 当前客户端：`Loon`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
@@ -47,6 +48,7 @@ Aggregated rules for FreeCodeCamp, covering related domains, keywords, and netwo
 - Category ID: `FreeCodeCamp`
 - Client: `Loon`
 - Group: `Lifestyle`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/FreeCodeCamp/FreeCodeCamp.list>
 

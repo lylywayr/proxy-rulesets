@@ -1,52 +1,52 @@
 # NAME: Emby
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:54:46.065479+00:00
+# UPDATED: 2026-07-06T02:16:14.650786+00:00
 payload:
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN,emby.lcloud.wiki
   - DOMAIN,notnetflix.cos.cat
-  - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,xmsl.org
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,123456.al
   - DOMAIN-SUFFIX,ohhhh.org
   - DOMAIN-SUFFIX,embymv.tk
-  - DOMAIN-SUFFIX,123456.al
   - DOMAIN-SUFFIX,peachmv.me
   - DOMAIN-SUFFIX,285286.xyz
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN-SUFFIX,poloemby.xyz
-  - DOMAIN-SUFFIX,jellyfin.asia
-  - DOMAIN-SUFFIX,pornemby.club
-  - DOMAIN-SUFFIX,cristiamo.xyz
   - DOMAIN-SUFFIX,embyserver.ga
+  - DOMAIN-SUFFIX,cristiamo.xyz
+  - DOMAIN-SUFFIX,pornemby.club
+  - DOMAIN-SUFFIX,jellyfin.asia
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,mickeycloud.com
   - DOMAIN-SUFFIX,pilipiliultra.com
-  - DOMAIN-SUFFIX,emby.ytoo.li
   - DOMAIN-SUFFIX,emby.mcwy.me
-  - DOMAIN-SUFFIX,emby.cjpc.tv
   - DOMAIN-SUFFIX,emby.cjpc.cc
-  - DOMAIN-SUFFIX,emby.cjpc.xyz
+  - DOMAIN-SUFFIX,emby.cjpc.tv
+  - DOMAIN-SUFFIX,emby.ytoo.li
   - DOMAIN-SUFFIX,line.emby.men
-  - DOMAIN-SUFFIX,emby.xeton.dev
-  - DOMAIN-SUFFIX,cf1.jmsooo.com
+  - DOMAIN-SUFFIX,emby.cjpc.xyz
   - DOMAIN-SUFFIX,aws.jmsooo.com
-  - DOMAIN-SUFFIX,ntt1.jmsooo.com
-  - DOMAIN-SUFFIX,emby.immtel.com
-  - DOMAIN-SUFFIX,emby.mdss.cloud
+  - DOMAIN-SUFFIX,cf1.jmsooo.com
+  - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,emby.paoche.ooo
+  - DOMAIN-SUFFIX,emby.mdss.cloud
+  - DOMAIN-SUFFIX,emby.immtel.com
+  - DOMAIN-SUFFIX,ntt1.jmsooo.com
   - DOMAIN-SUFFIX,movie.xeton.dev
-  - DOMAIN-SUFFIX,emby.nyancat.net
-  - DOMAIN-SUFFIX,hinet.jmsooo.com
   - DOMAIN-SUFFIX,emby.maying.club
-  - DOMAIN-SUFFIX,servers.xeton.dev
-  - DOMAIN-SUFFIX,agahk1.jmsooo.com
-  - DOMAIN-SUFFIX,agajp1.jmsooo.com
+  - DOMAIN-SUFFIX,hinet.jmsooo.com
+  - DOMAIN-SUFFIX,emby.nyancat.net
   - DOMAIN-SUFFIX,agasg1.jmsooo.com
-  - DOMAIN-SUFFIX,jellyfin.xeton.dev
-  - DOMAIN-SUFFIX,emby.prprcloud.com
+  - DOMAIN-SUFFIX,servers.xeton.dev
+  - DOMAIN-SUFFIX,agajp1.jmsooo.com
+  - DOMAIN-SUFFIX,agahk1.jmsooo.com
   - DOMAIN-SUFFIX,emby.cristiamo.top
   - DOMAIN-SUFFIX,emby.nexitally.com
+  - DOMAIN-SUFFIX,emby.prprcloud.com
+  - DOMAIN-SUFFIX,jellyfin.xeton.dev
   - DOMAIN-SUFFIX,emby.flowercloud.yt
   - DOMAIN-SUFFIX,emby.ok.edu.hk
   - DOMAIN-SUFFIX,emby.neko.edu.rs

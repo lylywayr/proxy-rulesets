@@ -9,6 +9,7 @@ Google 通用服务规则，不含 YouTube 独立分类。
 - 分类标识：`Google`
 - 当前客户端：`Clash`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [办公协作专题](../../../guide/topics/office-collaboration.md)
 
@@ -57,6 +58,7 @@ General Google service rules, excluding the separate YouTube category.
 - Category ID: `Google`
 - Client: `Clash`
 - Group: `Office`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Google/Google.yaml>
 

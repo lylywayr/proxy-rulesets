@@ -1,6 +1,6 @@
 # NAME: Microsoft
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:55:14.981323+00:00
+# UPDATED: 2026-07-06T02:16:27.022348+00:00
 payload:
   - DOMAIN,github-api.arkoselabs.com
   - DOMAIN,github-cloud.s3.amazonaws.com
@@ -12,713 +12,713 @@ payload:
   - DOMAIN,vsmarketplacebadge.apphb.com
   - DOMAIN-SUFFIX,bing
   - DOMAIN-SUFFIX,xbox
-  - DOMAIN-SUFFIX,azure
   - DOMAIN-SUFFIX,skype
+  - DOMAIN-SUFFIX,azure
   - DOMAIN-SUFFIX,office
-  - DOMAIN-SUFFIX,hotmail
   - DOMAIN-SUFFIX,windows
+  - DOMAIN-SUFFIX,hotmail
   - DOMAIN-SUFFIX,microsoft
   - DOMAIN-SUFFIX,gh.io
-  - DOMAIN-SUFFIX,wbd.ms
-  - DOMAIN-SUFFIX,msn.cn
   - DOMAIN-SUFFIX,gfx.ms
-  - DOMAIN-SUFFIX,sfx.ms
-  - DOMAIN-SUFFIX,svc.ms
   - DOMAIN-SUFFIX,pxt.io
-  - DOMAIN-SUFFIX,xbx.lv
   - DOMAIN-SUFFIX,ch9.ms
-  - DOMAIN-SUFFIX,jwt.ms
   - DOMAIN-SUFFIX,m12.vc
-  - DOMAIN-SUFFIX,aka.ms
-  - DOMAIN-SUFFIX,git.io
+  - DOMAIN-SUFFIX,xbx.lv
   - DOMAIN-SUFFIX,ie8.co
-  - DOMAIN-SUFFIX,ghe.com
-  - DOMAIN-SUFFIX,msn.com
-  - DOMAIN-SUFFIX,asp.net
-  - DOMAIN-SUFFIX,xbox.eu
-  - DOMAIN-SUFFIX,live.eu
+  - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-SUFFIX,svc.ms
+  - DOMAIN-SUFFIX,jwt.ms
+  - DOMAIN-SUFFIX,msn.cn
+  - DOMAIN-SUFFIX,wbd.ms
+  - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,atom.io
-  - DOMAIN-SUFFIX,ghcr.io
-  - DOMAIN-SUFFIX,1drv.ms
   - DOMAIN-SUFFIX,lync.cn
-  - DOMAIN-SUFFIX,xbox.co
-  - DOMAIN-SUFFIX,msn.net
   - DOMAIN-SUFFIX,dot.net
-  - DOMAIN-SUFFIX,live.cn
-  - DOMAIN-SUFFIX,msra.cn
-  - DOMAIN-SUFFIX,aria.ms
+  - DOMAIN-SUFFIX,xbox.co
   - DOMAIN-SUFFIX,ie9.com
-  - DOMAIN-SUFFIX,winmp.cn
-  - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,binf.com
-  - DOMAIN-SUFFIX,docs.com
-  - DOMAIN-SUFFIX,mepn.com
-  - DOMAIN-SUFFIX,aadrm.cn
-  - DOMAIN-SUFFIX,ie10.com
-  - DOMAIN-SUFFIX,lync.com
-  - DOMAIN-SUFFIX,ie11.com
-  - DOMAIN-SUFFIX,mstea.ms
-  - DOMAIN-SUFFIX,bibg.com
-  - DOMAIN-SUFFIX,doom.com
+  - DOMAIN-SUFFIX,live.cn
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,aria.ms
+  - DOMAIN-SUFFIX,1drv.ms
+  - DOMAIN-SUFFIX,asp.net
+  - DOMAIN-SUFFIX,msra.cn
+  - DOMAIN-SUFFIX,xbox.eu
+  - DOMAIN-SUFFIX,msn.net
+  - DOMAIN-SUFFIX,live.eu
+  - DOMAIN-SUFFIX,ghe.com
   - DOMAIN-SUFFIX,mspil.cn
-  - DOMAIN-SUFFIX,kumo.com
-  - DOMAIN-SUFFIX,xbox.org
-  - DOMAIN-SUFFIX,nxta.org
-  - DOMAIN-SUFFIX,msft.net
-  - DOMAIN-SUFFIX,here.com
-  - DOMAIN-SUFFIX,repo.new
-  - DOMAIN-SUFFIX,bing.net
-  - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,azk8s.cn
-  - DOMAIN-SUFFIX,live.net
-  - DOMAIN-SUFFIX,azure.cn
-  - DOMAIN-SUFFIX,dwh5.com
+  - DOMAIN-SUFFIX,kumo.com
+  - DOMAIN-SUFFIX,ie10.com
+  - DOMAIN-SUFFIX,msft.net
+  - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,nxta.org
+  - DOMAIN-SUFFIX,winmp.cn
+  - DOMAIN-SUFFIX,bibg.com
+  - DOMAIN-SUFFIX,here.com
+  - DOMAIN-SUFFIX,mepn.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,sway.com
   - DOMAIN-SUFFIX,binb.com
   - DOMAIN-SUFFIX,here.net
-  - DOMAIN-SUFFIX,sway.com
-  - DOMAIN-SUFFIX,msdn.com
-  - DOMAIN-SUFFIX,mesh.com
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,xbox.org
+  - DOMAIN-SUFFIX,lync.com
   - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,msft.info
-  - DOMAIN-SUFFIX,wlxrs.com
-  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,mstea.ms
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,msdn.com
+  - DOMAIN-SUFFIX,docs.com
+  - DOMAIN-SUFFIX,doom.com
+  - DOMAIN-SUFFIX,dwh5.com
+  - DOMAIN-SUFFIX,aadrm.cn
+  - DOMAIN-SUFFIX,ie11.com
+  - DOMAIN-SUFFIX,binf.com
+  - DOMAIN-SUFFIX,mesh.com
+  - DOMAIN-SUFFIX,azure.cn
   - DOMAIN-SUFFIX,npmjs.org
-  - DOMAIN-SUFFIX,21vbc.com
-  - DOMAIN-SUFFIX,npmjs.com
-  - DOMAIN-SUFFIX,msads.net
-  - DOMAIN-SUFFIX,forza.net
-  - DOMAIN-SUFFIX,azcrmc.cn
-  - DOMAIN-SUFFIX,bingj.com
-  - DOMAIN-SUFFIX,bing4.com
-  - DOMAIN-SUFFIX,github.ai
-  - DOMAIN-SUFFIX,bbing.com
-  - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,aadrm.com
-  - DOMAIN-SUFFIX,skype.net
-  - DOMAIN-SUFFIX,bings.com
-  - DOMAIN-SUFFIX,biing.com
-  - DOMAIN-SUFFIX,start.com
-  - DOMAIN-SUFFIX,nuget.org
-  - DOMAIN-SUFFIX,boswp.com
   - DOMAIN-SUFFIX,biying.cn
-  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,bing4.com
+  - DOMAIN-SUFFIX,bingj.com
+  - DOMAIN-SUFFIX,skype.net
   - DOMAIN-SUFFIX,s-msn.com
-  - DOMAIN-SUFFIX,msauth.cn
-  - DOMAIN-SUFFIX,aztask.cn
-  - DOMAIN-SUFFIX,fabric.io
+  - DOMAIN-SUFFIX,azcrmc.cn
+  - DOMAIN-SUFFIX,bbing.com
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,start.com
   - DOMAIN-SUFFIX,mmdnn.com
+  - DOMAIN-SUFFIX,boswp.com
+  - DOMAIN-SUFFIX,msft.info
+  - DOMAIN-SUFFIX,biing.com
+  - DOMAIN-SUFFIX,nuget.org
+  - DOMAIN-SUFFIX,aztask.cn
+  - DOMAIN-SUFFIX,forza.net
+  - DOMAIN-SUFFIX,msads.net
+  - DOMAIN-SUFFIX,bings.com
   - DOMAIN-SUFFIX,azure.net
+  - DOMAIN-SUFFIX,21vbc.com
+  - DOMAIN-SUFFIX,wlxrs.com
+  - DOMAIN-SUFFIX,fabric.io
+  - DOMAIN-SUFFIX,msauth.cn
   - DOMAIN-SUFFIX,tenor.com
-  - DOMAIN-SUFFIX,blazor.net
-  - DOMAIN-SUFFIX,beth.games
+  - DOMAIN-SUFFIX,github.ai
+  - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,dictate.ms
-  - DOMAIN-SUFFIX,bingit.net
-  - DOMAIN-SUFFIX,apisof.net
-  - DOMAIN-SUFFIX,msecnd.net
-  - DOMAIN-SUFFIX,github.dev
-  - DOMAIN-SUFFIX,kidgrid.tv
-  - DOMAIN-SUFFIX,o365cn.com
-  - DOMAIN-SUFFIX,gears5.com
-  - DOMAIN-SUFFIX,yammer.com
-  - DOMAIN-SUFFIX,mshome.net
-  - DOMAIN-SUFFIX,s-msft.com
-  - DOMAIN-SUFFIX,techhub.ms
-  - DOMAIN-SUFFIX,ingads.com
-  - DOMAIN-SUFFIX,xboxab.com
-  - DOMAIN-SUFFIX,sclive.net
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,msauth.net
-  - DOMAIN-SUFFIX,xbox360.co
-  - DOMAIN-SUFFIX,vscode.dev
-  - DOMAIN-SUFFIX,binads.com
-  - DOMAIN-SUFFIX,gigjam.com
-  - DOMAIN-SUFFIX,outlook.cn
-  - DOMAIN-SUFFIX,windows.nl
-  - DOMAIN-SUFFIX,joinms.com
-  - DOMAIN-SUFFIX,biying.com
-  - DOMAIN-SUFFIX,pixapp.net
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,powerbi.cn
-  - DOMAIN-SUFFIX,b3itech.cn
-  - DOMAIN-SUFFIX,msocdn.com
-  - DOMAIN-SUFFIX,sankie.net
-  - DOMAIN-SUFFIX,akadns.net
-  - DOMAIN-SUFFIX,xboxone.eu
-  - DOMAIN-SUFFIX,azurecr.cn
-  - DOMAIN-SUFFIX,xboxone.co
   - DOMAIN-SUFFIX,bingpk.com
+  - DOMAIN-SUFFIX,xbox360.co
+  - DOMAIN-SUFFIX,xboxone.co
+  - DOMAIN-SUFFIX,powerbi.cn
   - DOMAIN-SUFFIX,office.net
-  - DOMAIN-SUFFIX,msocsp.com
-  - DOMAIN-SUFFIX,hotmail.eu
-  - DOMAIN-SUFFIX,mojang.com
-  - DOMAIN-SUFFIX,userpxt.io
-  - DOMAIN-SUFFIX,clarity.ms
-  - DOMAIN-SUFFIX,cortana.ai
-  - DOMAIN-SUFFIX,hotmail.co
-  - DOMAIN-SUFFIX,msedge.net
-  - DOMAIN-SUFFIX,winhec.net
-  - DOMAIN-SUFFIX,engkoo.com
-  - DOMAIN-SUFFIX,xbox360.eu
-  - DOMAIN-SUFFIX,azurefd.us
   - DOMAIN-SUFFIX,winhec.com
-  - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-SUFFIX,onenote.net
-  - DOMAIN-SUFFIX,copilot.com
-  - DOMAIN-SUFFIX,acompli.net
-  - DOMAIN-SUFFIX,onenote.com
-  - DOMAIN-SUFFIX,mschcdn.com
-  - DOMAIN-SUFFIX,mcchcdn.com
-  - DOMAIN-SUFFIX,msnkids.com
-  - DOMAIN-SUFFIX,playfab.com
-  - DOMAIN-SUFFIX,syncshop.cn
-  - DOMAIN-SUFFIX,onedrive.co
-  - DOMAIN-SUFFIX,joinmva.com
-  - DOMAIN-SUFFIX,xbox360.org
+  - DOMAIN-SUFFIX,s-msft.com
+  - DOMAIN-SUFFIX,o365cn.com
+  - DOMAIN-SUFFIX,userpxt.io
+  - DOMAIN-SUFFIX,pixapp.net
+  - DOMAIN-SUFFIX,gears5.com
+  - DOMAIN-SUFFIX,vscode.dev
+  - DOMAIN-SUFFIX,joinms.com
+  - DOMAIN-SUFFIX,hotmail.eu
+  - DOMAIN-SUFFIX,apisof.net
+  - DOMAIN-SUFFIX,cortana.ai
+  - DOMAIN-SUFFIX,xboxone.eu
+  - DOMAIN-SUFFIX,ingads.com
+  - DOMAIN-SUFFIX,blazor.net
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,biying.com
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,outlook.cn
+  - DOMAIN-SUFFIX,azurefd.us
+  - DOMAIN-SUFFIX,sankie.net
+  - DOMAIN-SUFFIX,engkoo.com
+  - DOMAIN-SUFFIX,kidgrid.tv
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,mojang.com
+  - DOMAIN-SUFFIX,clarity.ms
+  - DOMAIN-SUFFIX,binads.com
+  - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,b3itech.cn
+  - DOMAIN-SUFFIX,sclive.net
+  - DOMAIN-SUFFIX,bingit.net
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,yammer.com
+  - DOMAIN-SUFFIX,techhub.ms
+  - DOMAIN-SUFFIX,mshome.net
+  - DOMAIN-SUFFIX,gigjam.com
+  - DOMAIN-SUFFIX,winhec.net
+  - DOMAIN-SUFFIX,xbox360.eu
+  - DOMAIN-SUFFIX,windows.nl
+  - DOMAIN-SUFFIX,beth.games
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,hotmail.co
+  - DOMAIN-SUFFIX,msocsp.com
+  - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,azurecr.cn
+  - DOMAIN-SUFFIX,sovcloud.cn
   - DOMAIN-SUFFIX,github.blog
-  - DOMAIN-SUFFIX,azurerms.cn
-  - DOMAIN-SUFFIX,onedrive.eu
-  - DOMAIN-SUFFIX,xbox360.com
-  - DOMAIN-SUFFIX,exp-tas.com
-  - DOMAIN-SUFFIX,msnmaps.com
-  - DOMAIN-SUFFIX,signalr.net
-  - DOMAIN-SUFFIX,surface.com
-  - DOMAIN-SUFFIX,groupme.com
+  - DOMAIN-SUFFIX,msminico.cn
   - DOMAIN-SUFFIX,xboxlive.cn
-  - DOMAIN-SUFFIX,staffhub.ms
-  - DOMAIN-SUFFIX,acompli.com
-  - DOMAIN-SUFFIX,msftauth.cn
-  - DOMAIN-SUFFIX,bing135.com
-  - DOMAIN-SUFFIX,msxiaona.cn
-  - DOMAIN-SUFFIX,forzarc.com
-  - DOMAIN-SUFFIX,xboxone.com
-  - DOMAIN-SUFFIX,windows.net
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,hotmail.net
+  - DOMAIN-SUFFIX,bingads.com
+  - DOMAIN-SUFFIX,surface.com
+  - DOMAIN-SUFFIX,copilot.com
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,xbox360.org
+  - DOMAIN-SUFFIX,groupme.com
+  - DOMAIN-SUFFIX,signalr.net
+  - DOMAIN-SUFFIX,xbox360.com
   - DOMAIN-SUFFIX,hotmail.org
-  - DOMAIN-SUFFIX,heremaps.cn
+  - DOMAIN-SUFFIX,azurefd.net
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,bingpix.com
+  - DOMAIN-SUFFIX,staffhub.ms
+  - DOMAIN-SUFFIX,forzarc.com
+  - DOMAIN-SUFFIX,mcchcdn.com
+  - DOMAIN-SUFFIX,bing135.com
+  - DOMAIN-SUFFIX,b2clogin.cn
+  - DOMAIN-SUFFIX,dynamics.cn
+  - DOMAIN-SUFFIX,onenote.net
+  - DOMAIN-SUFFIX,xamarin.com
+  - DOMAIN-SUFFIX,msftauth.cn
+  - DOMAIN-SUFFIX,joinmva.com
+  - DOMAIN-SUFFIX,xboxone.com
+  - DOMAIN-SUFFIX,azurerms.cn
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,onedrive.eu
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,acompli.net
+  - DOMAIN-SUFFIX,msnmaps.com
   - DOMAIN-SUFFIX,msftnet.org
   - DOMAIN-SUFFIX,vsassets.io
-  - DOMAIN-SUFFIX,msminico.cn
-  - DOMAIN-SUFFIX,windows8.hk
-  - DOMAIN-SUFFIX,sovcloud.cn
-  - DOMAIN-SUFFIX,hotmail.com
-  - DOMAIN-SUFFIX,bingads.com
-  - DOMAIN-SUFFIX,b2clogin.cn
-  - DOMAIN-SUFFIX,azurefd.net
-  - DOMAIN-SUFFIX,onestore.ms
-  - DOMAIN-SUFFIX,bing123.com
-  - DOMAIN-SUFFIX,vsallin.net
-  - DOMAIN-SUFFIX,bingpix.com
   - DOMAIN-SUFFIX,powerbi.com
-  - DOMAIN-SUFFIX,xamarin.com
-  - DOMAIN-SUFFIX,dynamics.cn
-  - DOMAIN-SUFFIX,azchcdng.com
-  - DOMAIN-SUFFIX,azurerms.com
-  - DOMAIN-SUFFIX,microsoft.ch
-  - DOMAIN-SUFFIX,azchcdnc.com
-  - DOMAIN-SUFFIX,microsoft.uz
-  - DOMAIN-SUFFIX,microsoft.hu
-  - DOMAIN-SUFFIX,bingiton.com
-  - DOMAIN-SUFFIX,msturing.org
-  - DOMAIN-SUFFIX,microsoft.ua
-  - DOMAIN-SUFFIX,azchcdnf.com
-  - DOMAIN-SUFFIX,mapblast.com
-  - DOMAIN-SUFFIX,onedrive.org
-  - DOMAIN-SUFFIX,microsoft.md
-  - DOMAIN-SUFFIX,microsoft.ge
-  - DOMAIN-SUFFIX,microsoft.be
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,azchcdnm.com
+  - DOMAIN-SUFFIX,mschcdn.com
+  - DOMAIN-SUFFIX,windows8.hk
+  - DOMAIN-SUFFIX,syncshop.cn
+  - DOMAIN-SUFFIX,hotmail.net
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,vsallin.net
+  - DOMAIN-SUFFIX,bing123.com
+  - DOMAIN-SUFFIX,msxiaona.cn
+  - DOMAIN-SUFFIX,exp-tas.com
+  - DOMAIN-SUFFIX,msnkids.com
+  - DOMAIN-SUFFIX,heremaps.cn
+  - DOMAIN-SUFFIX,onedrive.co
+  - DOMAIN-SUFFIX,playfab.com
+  - DOMAIN-SUFFIX,onestore.ms
+  - DOMAIN-SUFFIX,acompli.com
   - DOMAIN-SUFFIX,microbit.org
-  - DOMAIN-SUFFIX,microsoft.tv
-  - DOMAIN-SUFFIX,microsoft.cz
-  - DOMAIN-SUFFIX,microsoft.dk
-  - DOMAIN-SUFFIX,microsoft.jp
-  - DOMAIN-SUFFIX,l-msedge.net
-  - DOMAIN-SUFFIX,azchcdne.com
-  - DOMAIN-SUFFIX,azchcdnp.com
-  - DOMAIN-SUFFIX,microsoft.pl
-  - DOMAIN-SUFFIX,onedrive.net
-  - DOMAIN-SUFFIX,azchcdns.com
-  - DOMAIN-SUFFIX,microsoft.si
-  - DOMAIN-SUFFIX,bingapis.com
-  - DOMAIN-SUFFIX,gearspop.com
-  - DOMAIN-SUFFIX,microsoft.lv
-  - DOMAIN-SUFFIX,o365weve.com
-  - DOMAIN-SUFFIX,officedev.cn
-  - DOMAIN-SUFFIX,gamepass.com
-  - DOMAIN-SUFFIX,microsoft.by
-  - DOMAIN-SUFFIX,azchcdnl.com
-  - DOMAIN-SUFFIX,msftncsi.com
-  - DOMAIN-SUFFIX,e-msedge.net
-  - DOMAIN-SUFFIX,bethsoft.com
-  - DOMAIN-SUFFIX,s-msedge.net
-  - DOMAIN-SUFFIX,xboxlive.com
-  - DOMAIN-SUFFIX,c-msedge.net
-  - DOMAIN-SUFFIX,oaspapps.com
-  - DOMAIN-SUFFIX,office365.cn
-  - DOMAIN-SUFFIX,azchcdni.com
-  - DOMAIN-SUFFIX,microsoft.cl
-  - DOMAIN-SUFFIX,makecode.org
-  - DOMAIN-SUFFIX,osdinfra.net
-  - DOMAIN-SUFFIX,breakdown.me
-  - DOMAIN-SUFFIX,microsoft.rs
-  - DOMAIN-SUFFIX,msftauth.net
-  - DOMAIN-SUFFIX,microsoft.io
-  - DOMAIN-SUFFIX,appcenter.ms
-  - DOMAIN-SUFFIX,microsoft.ca
-  - DOMAIN-SUFFIX,azchcdnq.com
-  - DOMAIN-SUFFIX,microsoft.de
-  - DOMAIN-SUFFIX,microsoft.ro
-  - DOMAIN-SUFFIX,microsoft.az
-  - DOMAIN-SUFFIX,microsoft.pt
-  - DOMAIN-SUFFIX,azchcdna.com
-  - DOMAIN-SUFFIX,devopsms.com
-  - DOMAIN-SUFFIX,powerapps.cn
-  - DOMAIN-SUFFIX,azchcdnj.com
-  - DOMAIN-SUFFIX,azure-api.cn
-  - DOMAIN-SUFFIX,dynamics.com
-  - DOMAIN-SUFFIX,bethesda.net
-  - DOMAIN-SUFFIX,microsoft.es
-  - DOMAIN-SUFFIX,azchcdnn.com
-  - DOMAIN-SUFFIX,microsoft.lu
-  - DOMAIN-SUFFIX,microsoft.it
-  - DOMAIN-SUFFIX,microsoft.ru
-  - DOMAIN-SUFFIX,microsoft.is
-  - DOMAIN-SUFFIX,azchcdno.com
-  - DOMAIN-SUFFIX,tfsallin.net
-  - DOMAIN-SUFFIX,onmschina.cn
-  - DOMAIN-SUFFIX,hololens.com
-  - DOMAIN-SUFFIX,mappoint.com
-  - DOMAIN-SUFFIX,azchcdnh.com
-  - DOMAIN-SUFFIX,o365files.cn
-  - DOMAIN-SUFFIX,microsoft.vn
-  - DOMAIN-SUFFIX,azchcdnk.com
-  - DOMAIN-SUFFIX,passport.net
-  - DOMAIN-SUFFIX,azchcdnd.com
-  - DOMAIN-SUFFIX,cloudapp.net
-  - DOMAIN-SUFFIX,microsoft.eu
-  - DOMAIN-SUFFIX,azure-dns.cn
-  - DOMAIN-SUFFIX,t-msedge.net
-  - DOMAIN-SUFFIX,msvevent.com
-  - DOMAIN-SUFFIX,microsoft.ee
-  - DOMAIN-SUFFIX,omniroot.com
-  - DOMAIN-SUFFIX,microsoft.fi
-  - DOMAIN-SUFFIX,what-fan.net
-  - DOMAIN-SUFFIX,microsoft.lt
-  - DOMAIN-SUFFIX,azchcdnr.com
   - DOMAIN-SUFFIX,azchcdnb.com
+  - DOMAIN-SUFFIX,microsoft.lv
+  - DOMAIN-SUFFIX,microsoft.ua
+  - DOMAIN-SUFFIX,s-msedge.net
+  - DOMAIN-SUFFIX,azure-api.cn
+  - DOMAIN-SUFFIX,microsoft.tv
+  - DOMAIN-SUFFIX,microsoft.dk
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,bethesda.net
+  - DOMAIN-SUFFIX,onedrive.org
+  - DOMAIN-SUFFIX,microsoft.az
+  - DOMAIN-SUFFIX,microsoft.hu
+  - DOMAIN-SUFFIX,o365files.cn
+  - DOMAIN-SUFFIX,e-msedge.net
+  - DOMAIN-SUFFIX,msvevent.com
+  - DOMAIN-SUFFIX,azchcdno.com
+  - DOMAIN-SUFFIX,makecode.org
+  - DOMAIN-SUFFIX,microsoft.be
+  - DOMAIN-SUFFIX,microsoft.pl
+  - DOMAIN-SUFFIX,bethsoft.com
+  - DOMAIN-SUFFIX,microsoft.cz
+  - DOMAIN-SUFFIX,cloudapp.net
+  - DOMAIN-SUFFIX,azchcdnh.com
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,cosmosdb.net
-  - DOMAIN-SUFFIX,microsoft.se
-  - DOMAIN-SUFFIX,sway-cdn.com
+  - DOMAIN-SUFFIX,omniroot.com
+  - DOMAIN-SUFFIX,microsoft.cl
+  - DOMAIN-SUFFIX,osdinfra.net
+  - DOMAIN-SUFFIX,azchcdnl.com
+  - DOMAIN-SUFFIX,microsoft.eu
+  - DOMAIN-SUFFIX,microsoft.lt
+  - DOMAIN-SUFFIX,microsoft.ca
+  - DOMAIN-SUFFIX,c-msedge.net
+  - DOMAIN-SUFFIX,azchcdnc.com
   - DOMAIN-SUFFIX,a-msedge.net
-  - DOMAIN-SUFFIX,vscodeedu.com
-  - DOMAIN-SUFFIX,microsoft.red
-  - DOMAIN-SUFFIX,renlifang.com
-  - DOMAIN-SUFFIX,azure-dns.com
-  - DOMAIN-SUFFIX,msopentech.cn
-  - DOMAIN-SUFFIX,gotcosmos.com
-  - DOMAIN-SUFFIX,github.career
-  - DOMAIN-SUFFIX,crmdynint.com
-  - DOMAIN-SUFFIX,sfbassets.net
-  - DOMAIN-SUFFIX,vfsforgit.com
-  - DOMAIN-SUFFIX,uservoice.com
-  - DOMAIN-SUFFIX,vfsforgit.org
-  - DOMAIN-SUFFIX,msidentity.cn
-  - DOMAIN-SUFFIX,msappproxy.cn
-  - DOMAIN-SUFFIX,playfabapi.cn
-  - DOMAIN-SUFFIX,officeplus.cn
-  - DOMAIN-SUFFIX,azure-api.net
-  - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,githubapp.com
-  - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,microsoft.pt
+  - DOMAIN-SUFFIX,officedev.cn
+  - DOMAIN-SUFFIX,microsoft.vn
+  - DOMAIN-SUFFIX,azurerms.com
+  - DOMAIN-SUFFIX,microsoft.io
+  - DOMAIN-SUFFIX,devopsms.com
+  - DOMAIN-SUFFIX,microsoft.lu
+  - DOMAIN-SUFFIX,sway-cdn.com
+  - DOMAIN-SUFFIX,azchcdnq.com
+  - DOMAIN-SUFFIX,onedrive.net
+  - DOMAIN-SUFFIX,azchcdnk.com
+  - DOMAIN-SUFFIX,azchcdnn.com
+  - DOMAIN-SUFFIX,msturing.org
+  - DOMAIN-SUFFIX,azchcdns.com
+  - DOMAIN-SUFFIX,passport.net
+  - DOMAIN-SUFFIX,what-fan.net
+  - DOMAIN-SUFFIX,gearspop.com
+  - DOMAIN-SUFFIX,bingiton.com
+  - DOMAIN-SUFFIX,azchcdnj.com
+  - DOMAIN-SUFFIX,azchcdnd.com
+  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,microsoft.ru
+  - DOMAIN-SUFFIX,azchcdnp.com
+  - DOMAIN-SUFFIX,breakdown.me
+  - DOMAIN-SUFFIX,microsoft.si
+  - DOMAIN-SUFFIX,azchcdna.com
+  - DOMAIN-SUFFIX,mapblast.com
+  - DOMAIN-SUFFIX,hololens.com
+  - DOMAIN-SUFFIX,microsoft.ee
+  - DOMAIN-SUFFIX,dynamics.com
+  - DOMAIN-SUFFIX,microsoft.rs
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,microsoft.is
+  - DOMAIN-SUFFIX,azchcdnf.com
+  - DOMAIN-SUFFIX,oaspapps.com
+  - DOMAIN-SUFFIX,azchcdnr.com
+  - DOMAIN-SUFFIX,microsoft.by
+  - DOMAIN-SUFFIX,microsoft.it
+  - DOMAIN-SUFFIX,microsoft.se
+  - DOMAIN-SUFFIX,microsoft.ch
+  - DOMAIN-SUFFIX,office365.cn
+  - DOMAIN-SUFFIX,azchcdnm.com
+  - DOMAIN-SUFFIX,microsoft.ro
+  - DOMAIN-SUFFIX,mappoint.com
+  - DOMAIN-SUFFIX,powerapps.cn
+  - DOMAIN-SUFFIX,microsoft.es
+  - DOMAIN-SUFFIX,microsoft.md
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,tfsallin.net
+  - DOMAIN-SUFFIX,azchcdng.com
+  - DOMAIN-SUFFIX,azchcdni.com
+  - DOMAIN-SUFFIX,microsoft.uz
+  - DOMAIN-SUFFIX,microsoft.jp
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,microsoft.fi
+  - DOMAIN-SUFFIX,o365weve.com
+  - DOMAIN-SUFFIX,microsoft.de
+  - DOMAIN-SUFFIX,azure-dns.cn
+  - DOMAIN-SUFFIX,microsoft.ge
+  - DOMAIN-SUFFIX,azchcdne.com
+  - DOMAIN-SUFFIX,l-msedge.net
+  - DOMAIN-SUFFIX,t-msedge.net
+  - DOMAIN-SUFFIX,onmschina.cn
   - DOMAIN-SUFFIX,playfabcn.com
+  - DOMAIN-SUFFIX,sfbassets.net
+  - DOMAIN-SUFFIX,msidentity.cn
+  - DOMAIN-SUFFIX,gotcosmos.com
   - DOMAIN-SUFFIX,helpshift.com
-  - DOMAIN-SUFFIX,myoctocat.com
-  - DOMAIN-SUFFIX,minecraft.net
-  - DOMAIN-SUFFIX,azure-dns.org
-  - DOMAIN-SUFFIX,efproject.net
-  - DOMAIN-SUFFIX,npm.community
-  - DOMAIN-SUFFIX,msxiaoice.com
-  - DOMAIN-SUFFIX,sfbassets.com
-  - DOMAIN-SUFFIX,hockeyapp.net
+  - DOMAIN-SUFFIX,officeppe.net
   - DOMAIN-SUFFIX,myhomemsn.com
+  - DOMAIN-SUFFIX,azurecomm.net
+  - DOMAIN-SUFFIX,azure-api.net
+  - DOMAIN-SUFFIX,microsoft.net
+  - DOMAIN-SUFFIX,minecraft.net
+  - DOMAIN-SUFFIX,bluehatil.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,playfabapi.cn
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,efproject.net
+  - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,azure-dns.net
+  - DOMAIN-SUFFIX,microsoft.cat
+  - DOMAIN-SUFFIX,vfsforgit.com
   - DOMAIN-SUFFIX,sharepoint.cn
   - DOMAIN-SUFFIX,bingworld.com
-  - DOMAIN-SUFFIX,nugettest.org
-  - DOMAIN-SUFFIX,aspnetcdn.com
-  - DOMAIN-SUFFIX,azure-dns.net
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,bluehatil.com
-  - DOMAIN-SUFFIX,vscodeedu.app
-  - DOMAIN-SUFFIX,microsoft.cat
-  - DOMAIN-SUFFIX,azurecomm.net
-  - DOMAIN-SUFFIX,officeppe.net
-  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,myoctocat.com
+  - DOMAIN-SUFFIX,npm.community
+  - DOMAIN-SUFFIX,crmdynint.com
   - DOMAIN-SUFFIX,imaginecup.pl
-  - DOMAIN-SUFFIX,microsoft.net
   - DOMAIN-SUFFIX,cosmosdb.info
-  - DOMAIN-SUFFIX,trustcenter.cn
-  - DOMAIN-SUFFIX,momentumms.com
-  - DOMAIN-SUFFIX,msnewskids.org
-  - DOMAIN-SUFFIX,msidentity.com
-  - DOMAIN-SUFFIX,playfabapi.com
-  - DOMAIN-SUFFIX,wunderlist.com
-  - DOMAIN-SUFFIX,azure-dns.info
-  - DOMAIN-SUFFIX,gamesstack.com
-  - DOMAIN-SUFFIX,spo-msedge.net
-  - DOMAIN-SUFFIX,azure-dns-1.cn
-  - DOMAIN-SUFFIX,aicscience.com
-  - DOMAIN-SUFFIX,aznbcontent.cn
-  - DOMAIN-SUFFIX,windowslive.cn
-  - DOMAIN-SUFFIX,sovcloud-mx.cn
-  - DOMAIN-SUFFIX,msnewskids.net
-  - DOMAIN-SUFFIX,graphengine.io
-  - DOMAIN-SUFFIX,localytics.com
-  - DOMAIN-SUFFIX,intunewiki.com
-  - DOMAIN-SUFFIX,mspairlift.com
-  - DOMAIN-SUFFIX,azure-dns-2.cn
+  - DOMAIN-SUFFIX,nugettest.org
+  - DOMAIN-SUFFIX,officeplus.cn
+  - DOMAIN-SUFFIX,msopentech.cn
+  - DOMAIN-SUFFIX,azure-dns.com
+  - DOMAIN-SUFFIX,renlifang.com
+  - DOMAIN-SUFFIX,azure-dns.org
+  - DOMAIN-SUFFIX,hockeyapp.net
+  - DOMAIN-SUFFIX,uservoice.com
+  - DOMAIN-SUFFIX,microsoft.red
+  - DOMAIN-SUFFIX,sfbassets.com
+  - DOMAIN-SUFFIX,msxiaoice.com
+  - DOMAIN-SUFFIX,aspnetcdn.com
+  - DOMAIN-SUFFIX,vfsforgit.org
+  - DOMAIN-SUFFIX,vscodeedu.app
+  - DOMAIN-SUFFIX,vscodeedu.com
+  - DOMAIN-SUFFIX,github.career
+  - DOMAIN-SUFFIX,msappproxy.cn
   - DOMAIN-SUFFIX,outingsapp.com
-  - DOMAIN-SUFFIX,pwabuilder.com
-  - DOMAIN-SUFFIX,vscode-cdn.net
-  - DOMAIN-SUFFIX,aggresmart.com
-  - DOMAIN-SUFFIX,msxiaobing.com
-  - DOMAIN-SUFFIX,msidlabpbmc.cn
-  - DOMAIN-SUFFIX,hummingbird.ms
-  - DOMAIN-SUFFIX,azure-dns-7.cn
-  - DOMAIN-SUFFIX,githubnext.com
-  - DOMAIN-SUFFIX,azure-dns-3.cn
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,msnewskids.com
-  - DOMAIN-SUFFIX,msftcloudes.cn
-  - DOMAIN-SUFFIX,azure-apim.net
-  - DOMAIN-SUFFIX,nelreports.net
-  - DOMAIN-SUFFIX,msappproxy.net
-  - DOMAIN-SUFFIX,dependabot.com
-  - DOMAIN-SUFFIX,azure-dns-5.cn
+  - DOMAIN-SUFFIX,aicscience.com
+  - DOMAIN-SUFFIX,spo-msedge.net
+  - DOMAIN-SUFFIX,momentumms.com
   - DOMAIN-SUFFIX,optimizely.com
-  - DOMAIN-SUFFIX,azcrmc-test.cn
-  - DOMAIN-SUFFIX,azure-test.net
+  - DOMAIN-SUFFIX,sovcloud-mx.cn
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,azure-apim.net
+  - DOMAIN-SUFFIX,msnewskids.net
+  - DOMAIN-SUFFIX,azure-dns-1.cn
+  - DOMAIN-SUFFIX,aggresmart.com
   - DOMAIN-SUFFIX,msudalosti.com
   - DOMAIN-SUFFIX,orithegame.com
-  - DOMAIN-SUFFIX,azure-dns-4.cn
-  - DOMAIN-SUFFIX,azure-dns-6.cn
-  - DOMAIN-SUFFIX,cegid-cloud.cn
   - DOMAIN-SUFFIX,azure-dns-9.cn
-  - DOMAIN-SUFFIX,mncmsidlab1.cn
+  - DOMAIN-SUFFIX,azure-dns-5.cn
+  - DOMAIN-SUFFIX,msnewskids.org
+  - DOMAIN-SUFFIX,localytics.com
+  - DOMAIN-SUFFIX,msftcloudes.cn
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,msidlabpbmc.cn
+  - DOMAIN-SUFFIX,azure-test.net
+  - DOMAIN-SUFFIX,azure-dns-6.cn
+  - DOMAIN-SUFFIX,mspairlift.com
   - DOMAIN-SUFFIX,azure-dns-8.cn
-  - DOMAIN-SUFFIX,azurecr-test.cn
-  - DOMAIN-SUFFIX,callersbane.com
-  - DOMAIN-SUFFIX,microsoftol.com
-  - DOMAIN-SUFFIX,videoindexer.ai
-  - DOMAIN-SUFFIX,skypeassets.com
-  - DOMAIN-SUFFIX,xboxstudios.com
-  - DOMAIN-SUFFIX,azure-dns-10.cn
-  - DOMAIN-SUFFIX,visualstudio.co
-  - DOMAIN-SUFFIX,msropendata.com
-  - DOMAIN-SUFFIX,azuresandbox.cn
-  - DOMAIN-SUFFIX,s-dc-msedge.net
-  - DOMAIN-SUFFIX,mymicrosoft.com
-  - DOMAIN-SUFFIX,asobostudio.com
-  - DOMAIN-SUFFIX,bingsandbox.com
-  - DOMAIN-SUFFIX,azurecomcdn.net
-  - DOMAIN-SUFFIX,windows-ppe.net
-  - DOMAIN-SUFFIX,onmicrosoft.com
-  - DOMAIN-SUFFIX,azurecosmos.net
+  - DOMAIN-SUFFIX,pwabuilder.com
+  - DOMAIN-SUFFIX,cegid-cloud.cn
+  - DOMAIN-SUFFIX,hummingbird.ms
+  - DOMAIN-SUFFIX,graphengine.io
+  - DOMAIN-SUFFIX,intunewiki.com
+  - DOMAIN-SUFFIX,azure-dns-4.cn
+  - DOMAIN-SUFFIX,azure-dns-7.cn
+  - DOMAIN-SUFFIX,azure-dns-2.cn
+  - DOMAIN-SUFFIX,windowslive.cn
+  - DOMAIN-SUFFIX,msnewskids.com
+  - DOMAIN-SUFFIX,azcrmc-test.cn
+  - DOMAIN-SUFFIX,playfabapi.com
+  - DOMAIN-SUFFIX,wunderlist.com
+  - DOMAIN-SUFFIX,dependabot.com
+  - DOMAIN-SUFFIX,gamesstack.com
+  - DOMAIN-SUFFIX,aznbcontent.cn
+  - DOMAIN-SUFFIX,msappproxy.net
+  - DOMAIN-SUFFIX,msidentity.com
+  - DOMAIN-SUFFIX,githubnext.com
+  - DOMAIN-SUFFIX,vscode-cdn.net
+  - DOMAIN-SUFFIX,azure-dns.info
+  - DOMAIN-SUFFIX,mncmsidlab1.cn
+  - DOMAIN-SUFFIX,trustcenter.cn
+  - DOMAIN-SUFFIX,msxiaobing.com
+  - DOMAIN-SUFFIX,azure-dns-3.cn
   - DOMAIN-SUFFIX,office365tw.com
-  - DOMAIN-SUFFIX,windowsazure.cn
-  - DOMAIN-SUFFIX,octocaptcha.com
-  - DOMAIN-SUFFIX,phonefactor.net
-  - DOMAIN-SUFFIX,s-microsoft.com
-  - DOMAIN-SUFFIX,msauthimages.cn
-  - DOMAIN-SUFFIX,explorebing.com
-  - DOMAIN-SUFFIX,azure-mobile.cn
-  - DOMAIN-SUFFIX,bingtoolbar.com
-  - DOMAIN-SUFFIX,windows-int.net
-  - DOMAIN-SUFFIX,unity3dcloud.cn
-  - DOMAIN-SUFFIX,visualstudio.eu
-  - DOMAIN-SUFFIX,skypeassets.net
-  - DOMAIN-SUFFIX,morphcharts.com
   - DOMAIN-SUFFIX,azure-apihub.cn
-  - DOMAIN-SUFFIX,chinacloudapp.cn
-  - DOMAIN-SUFFIX,github.community
-  - DOMAIN-SUFFIX,xboxgamepass.com
-  - DOMAIN-SUFFIX,office365-net.cn
-  - DOMAIN-SUFFIX,microsoftnews.cn
-  - DOMAIN-SUFFIX,githubstatus.com
-  - DOMAIN-SUFFIX,sysinternals.com
-  - DOMAIN-SUFFIX,o365weve-ppe.com
-  - DOMAIN-SUFFIX,microsoft-smb.cn
-  - DOMAIN-SUFFIX,msauthimages.net
-  - DOMAIN-SUFFIX,windowsazure.com
-  - DOMAIN-SUFFIX,xboxservices.com
-  - DOMAIN-SUFFIX,chinacloudapi.cn
-  - DOMAIN-SUFFIX,microsofteca.com
-  - DOMAIN-SUFFIX,21vbluecloud.net
-  - DOMAIN-SUFFIX,microsoftadc.com
-  - DOMAIN-SUFFIX,microsoftnews.cc
-  - DOMAIN-SUFFIX,adaptivecards.io
-  - DOMAIN-SUFFIX,elderscrolls.com
-  - DOMAIN-SUFFIX,binginternal.com
-  - DOMAIN-SUFFIX,public-trust.com
-  - DOMAIN-SUFFIX,msftidentity.com
-  - DOMAIN-SUFFIX,pbiwebcontent.cn
-  - DOMAIN-SUFFIX,gearstactics.com
-  - DOMAIN-SUFFIX,opensource.guide
-  - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,azure-sphere.com
-  - DOMAIN-SUFFIX,powerautomate.cn
-  - DOMAIN-SUFFIX,powerappscdn.net
-  - DOMAIN-SUFFIX,21vbluecloud.com
-  - DOMAIN-SUFFIX,azure-devices.cn
-  - DOMAIN-SUFFIX,footprintdns.com
-  - DOMAIN-SUFFIX,officewebapps.cn
-  - DOMAIN-SUFFIX,botframework.com
-  - DOMAIN-SUFFIX,fluidpreview.com
-  - DOMAIN-SUFFIX,microsoftapp.net
-  - DOMAIN-SUFFIX,discoverbing.com
-  - DOMAIN-SUFFIX,virtualearth.net
-  - DOMAIN-SUFFIX,azure-mobile.net
-  - DOMAIN-SUFFIX,windowsphone.com
+  - DOMAIN-SUFFIX,mymicrosoft.com
+  - DOMAIN-SUFFIX,windows-int.net
+  - DOMAIN-SUFFIX,asobostudio.com
+  - DOMAIN-SUFFIX,onmicrosoft.com
+  - DOMAIN-SUFFIX,unity3dcloud.cn
+  - DOMAIN-SUFFIX,videoindexer.ai
+  - DOMAIN-SUFFIX,callersbane.com
+  - DOMAIN-SUFFIX,azurecosmos.net
+  - DOMAIN-SUFFIX,windows-ppe.net
+  - DOMAIN-SUFFIX,microsoftol.com
+  - DOMAIN-SUFFIX,azuresandbox.cn
+  - DOMAIN-SUFFIX,azurecomcdn.net
+  - DOMAIN-SUFFIX,s-microsoft.com
+  - DOMAIN-SUFFIX,windowsazure.cn
+  - DOMAIN-SUFFIX,azure-dns-10.cn
+  - DOMAIN-SUFFIX,skypeassets.com
+  - DOMAIN-SUFFIX,explorebing.com
+  - DOMAIN-SUFFIX,visualstudio.eu
+  - DOMAIN-SUFFIX,s-dc-msedge.net
+  - DOMAIN-SUFFIX,xboxstudios.com
+  - DOMAIN-SUFFIX,msauthimages.cn
+  - DOMAIN-SUFFIX,skypeassets.net
+  - DOMAIN-SUFFIX,azure-mobile.cn
+  - DOMAIN-SUFFIX,morphcharts.com
+  - DOMAIN-SUFFIX,phonefactor.net
+  - DOMAIN-SUFFIX,azurecr-test.cn
+  - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,visualstudio.co
+  - DOMAIN-SUFFIX,bingtoolbar.com
+  - DOMAIN-SUFFIX,msropendata.com
+  - DOMAIN-SUFFIX,octocaptcha.com
   - DOMAIN-SUFFIX,o365weve-dev.com
-  - DOMAIN-SUFFIX,azureiotsuite.cn
-  - DOMAIN-SUFFIX,vscode-unpkg.net
-  - DOMAIN-SUFFIX,microsoftads.com
+  - DOMAIN-SUFFIX,azure-sphere.com
   - DOMAIN-SUFFIX,microsoftuwp.com
-  - DOMAIN-SUFFIX,visualstudio.net
-  - DOMAIN-SUFFIX,tryfunctions.com
-  - DOMAIN-SUFFIX,mono-project.com
-  - DOMAIN-SUFFIX,githubassets.com
-  - DOMAIN-SUFFIX,microsoft365.com
-  - DOMAIN-SUFFIX,msftcenterone.cn
-  - DOMAIN-SUFFIX,mpnevolution.com
-  - DOMAIN-SUFFIX,azuredns-prd.org
-  - DOMAIN-SUFFIX,msfteducation.ca
-  - DOMAIN-SUFFIX,sprinklesapp.com
+  - DOMAIN-SUFFIX,office365-net.cn
+  - DOMAIN-SUFFIX,msftidentity.com
+  - DOMAIN-SUFFIX,msauthimages.net
+  - DOMAIN-SUFFIX,vscode-unpkg.net
+  - DOMAIN-SUFFIX,chinacloudapi.cn
+  - DOMAIN-SUFFIX,azureiotsuite.cn
+  - DOMAIN-SUFFIX,microsofteca.com
+  - DOMAIN-SUFFIX,fluidpreview.com
+  - DOMAIN-SUFFIX,elderscrolls.com
   - DOMAIN-SUFFIX,outlookgroups.ms
-  - DOMAIN-SUFFIX,azuremresolver.cn
-  - DOMAIN-SUFFIX,msignitechina.com
-  - DOMAIN-SUFFIX,azurecosmosdb.com
-  - DOMAIN-SUFFIX,trafficmanager.cn
-  - DOMAIN-SUFFIX,azurehdinsight.cn
-  - DOMAIN-SUFFIX,azurecosmosdb.net
-  - DOMAIN-SUFFIX,thegithubshop.com
-  - DOMAIN-SUFFIX,minecraftshop.com
-  - DOMAIN-SUFFIX,bluehatnights.com
-  - DOMAIN-SUFFIX,azurewebsites.net
-  - DOMAIN-SUFFIX,msgamestudios.com
-  - DOMAIN-SUFFIX,office365love.com
+  - DOMAIN-SUFFIX,adaptivecards.io
+  - DOMAIN-SUFFIX,chinacloudapp.cn
+  - DOMAIN-SUFFIX,msfteducation.ca
+  - DOMAIN-SUFFIX,microsoftnews.cn
+  - DOMAIN-SUFFIX,github.community
+  - DOMAIN-SUFFIX,officewebapps.cn
+  - DOMAIN-SUFFIX,opensource.guide
+  - DOMAIN-SUFFIX,windowsphone.com
+  - DOMAIN-SUFFIX,discoverbing.com
+  - DOMAIN-SUFFIX,o365weve-ppe.com
+  - DOMAIN-SUFFIX,xboxgamepass.com
+  - DOMAIN-SUFFIX,visualstudio.net
+  - DOMAIN-SUFFIX,windowsazure.com
+  - DOMAIN-SUFFIX,binginternal.com
+  - DOMAIN-SUFFIX,powerautomate.cn
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,21vbluecloud.com
+  - DOMAIN-SUFFIX,sprinklesapp.com
+  - DOMAIN-SUFFIX,gearstactics.com
+  - DOMAIN-SUFFIX,msftcenterone.cn
+  - DOMAIN-SUFFIX,virtualearth.net
+  - DOMAIN-SUFFIX,mpnevolution.com
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,powerappscdn.net
+  - DOMAIN-SUFFIX,microsoft365.com
+  - DOMAIN-SUFFIX,mono-project.com
+  - DOMAIN-SUFFIX,footprintdns.com
+  - DOMAIN-SUFFIX,sysinternals.com
+  - DOMAIN-SUFFIX,tryfunctions.com
+  - DOMAIN-SUFFIX,microsoftnews.cc
+  - DOMAIN-SUFFIX,microsoftads.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,azuredns-prd.org
+  - DOMAIN-SUFFIX,azure-devices.cn
+  - DOMAIN-SUFFIX,21vbluecloud.net
+  - DOMAIN-SUFFIX,pbiwebcontent.cn
+  - DOMAIN-SUFFIX,xboxservices.com
+  - DOMAIN-SUFFIX,public-trust.com
+  - DOMAIN-SUFFIX,microsoftapp.net
+  - DOMAIN-SUFFIX,microsoftadc.com
+  - DOMAIN-SUFFIX,botframework.com
+  - DOMAIN-SUFFIX,azure-mobile.net
+  - DOMAIN-SUFFIX,microsoft-smb.cn
   - DOMAIN-SUFFIX,charticulator.com
-  - DOMAIN-SUFFIX,azurecontainer.io
-  - DOMAIN-SUFFIX,assets-yammer.com
-  - DOMAIN-SUFFIX,bluecloudprod.com
-  - DOMAIN-SUFFIX,powerautomate.com
-  - DOMAIN-SUFFIX,windowssearch.com
-  - DOMAIN-SUFFIX,outlookmobile.com
-  - DOMAIN-SUFFIX,cortanaskills.com
   - DOMAIN-SUFFIX,azuredns-prd.info
-  - DOMAIN-SUFFIX,microsoft-tst.com
-  - DOMAIN-SUFFIX,meetfasttrack.com
-  - DOMAIN-SUFFIX,azure-devices.net
-  - DOMAIN-SUFFIX,azureiotsuite.com
-  - DOMAIN-SUFFIX,projectsangam.com
-  - DOMAIN-SUFFIX,microsoftedge.com
-  - DOMAIN-SUFFIX,livefilestore.com
-  - DOMAIN-SUFFIX,microsoft-int.com
-  - DOMAIN-SUFFIX,projectmurphy.net
-  - DOMAIN-SUFFIX,mgmt-azure-api.cn
-  - DOMAIN-SUFFIX,crmdynint-gcc.com
-  - DOMAIN-SUFFIX,msftauthimages.cn
-  - DOMAIN-SUFFIX,microsoftnews.net
-  - DOMAIN-SUFFIX,microsoftnews.com
-  - DOMAIN-SUFFIX,nextechafrica.net
-  - DOMAIN-SUFFIX,bingparachute.com
-  - DOMAIN-SUFFIX,githubpreview.dev
-  - DOMAIN-SUFFIX,microsoft-ppe.com
+  - DOMAIN-SUFFIX,azurewebsites.net
+  - DOMAIN-SUFFIX,trafficmanager.cn
+  - DOMAIN-SUFFIX,assets-yammer.com
+  - DOMAIN-SUFFIX,office365love.com
   - DOMAIN-SUFFIX,tellmewhygame.com
-  - DOMAIN-SUFFIX,microsoftlinc.com
-  - DOMAIN-SUFFIX,api-extractor.com
+  - DOMAIN-SUFFIX,cortanaskills.com
+  - DOMAIN-SUFFIX,msftauthimages.cn
+  - DOMAIN-SUFFIX,bluehatnights.com
+  - DOMAIN-SUFFIX,msignitechina.com
   - DOMAIN-SUFFIX,githubcopilot.com
-  - DOMAIN-SUFFIX,microsoftnews.org
+  - DOMAIN-SUFFIX,mgmt-azure-api.cn
+  - DOMAIN-SUFFIX,azuremresolver.cn
+  - DOMAIN-SUFFIX,azureiotsuite.com
+  - DOMAIN-SUFFIX,microsoftnews.com
+  - DOMAIN-SUFFIX,microsoftedge.com
+  - DOMAIN-SUFFIX,crmdynint-gcc.com
+  - DOMAIN-SUFFIX,windowssearch.com
+  - DOMAIN-SUFFIX,thegithubshop.com
+  - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,windowsupdate.com
-  - DOMAIN-SUFFIX,microsofthouse.com
-  - DOMAIN-SUFFIX,microsoftemail.com
-  - DOMAIN-SUFFIX,trafficmanager.net
-  - DOMAIN-SUFFIX,microsoftcloud.com
-  - DOMAIN-SUFFIX,microsoft-give.com
-  - DOMAIN-SUFFIX,sovcloud-static.cn
-  - DOMAIN-SUFFIX,microsoftstart.com
-  - DOMAIN-SUFFIX,azureedge-test.net
-  - DOMAIN-SUFFIX,chinacloudsites.cn
-  - DOMAIN-SUFFIX,microsoftready.com
-  - DOMAIN-SUFFIX,githubuniverse.com
-  - DOMAIN-SUFFIX,microsoftstore.com
-  - DOMAIN-SUFFIX,azurecosmosdb.info
+  - DOMAIN-SUFFIX,meetfasttrack.com
+  - DOMAIN-SUFFIX,microsoft-tst.com
+  - DOMAIN-SUFFIX,projectmurphy.net
+  - DOMAIN-SUFFIX,nextechafrica.net
+  - DOMAIN-SUFFIX,azurecosmosdb.net
+  - DOMAIN-SUFFIX,api-extractor.com
+  - DOMAIN-SUFFIX,azure-devices.net
+  - DOMAIN-SUFFIX,azurehdinsight.cn
+  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,microsoft-ppe.com
+  - DOMAIN-SUFFIX,azurecontainer.io
+  - DOMAIN-SUFFIX,microsoftnews.net
+  - DOMAIN-SUFFIX,microsoftnews.org
+  - DOMAIN-SUFFIX,microsoft-int.com
+  - DOMAIN-SUFFIX,minecraftshop.com
+  - DOMAIN-SUFFIX,bluecloudprod.com
+  - DOMAIN-SUFFIX,outlookmobile.com
+  - DOMAIN-SUFFIX,msgamestudios.com
+  - DOMAIN-SUFFIX,bingparachute.com
+  - DOMAIN-SUFFIX,azurecosmosdb.com
+  - DOMAIN-SUFFIX,powerautomate.com
+  - DOMAIN-SUFFIX,microsoftlinc.com
+  - DOMAIN-SUFFIX,projectsangam.com
   - DOMAIN-SUFFIX,azureprivatedns.cn
-  - DOMAIN-SUFFIX,blueaggrestore.com
+  - DOMAIN-SUFFIX,microsoftstart.com
   - DOMAIN-SUFFIX,microsoftonline.cn
-  - DOMAIN-SUFFIX,microsoftteams.com
-  - DOMAIN-SUFFIX,bingtranslator.com
-  - DOMAIN-SUFFIX,insiderdevtour.com
-  - DOMAIN-SUFFIX,videobreakdown.com
-  - DOMAIN-SUFFIX,msftauthimages.net
-  - DOMAIN-SUFFIX,apihub-internal.cn
-  - DOMAIN-SUFFIX,microsofthouse.net
+  - DOMAIN-SUFFIX,microsofthouse.com
+  - DOMAIN-SUFFIX,githubuniverse.com
+  - DOMAIN-SUFFIX,microsoft-give.com
+  - DOMAIN-SUFFIX,microsoftstore.com
   - DOMAIN-SUFFIX,vscode-webview.net
-  - DOMAIN-SUFFIX,flipwithsurface.com
-  - DOMAIN-SUFFIX,mschallenge2018.com
-  - DOMAIN-SUFFIX,internetexplorer.co
-  - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,azurecosmosdb.info
+  - DOMAIN-SUFFIX,microsoftready.com
+  - DOMAIN-SUFFIX,apihub-internal.cn
+  - DOMAIN-SUFFIX,microsoftemail.com
+  - DOMAIN-SUFFIX,microsoftteams.com
+  - DOMAIN-SUFFIX,chinacloudsites.cn
+  - DOMAIN-SUFFIX,bingtranslator.com
+  - DOMAIN-SUFFIX,microsofthouse.net
+  - DOMAIN-SUFFIX,msftauthimages.net
+  - DOMAIN-SUFFIX,azureedge-test.net
+  - DOMAIN-SUFFIX,blueaggrestore.com
+  - DOMAIN-SUFFIX,microsoftcloud.com
+  - DOMAIN-SUFFIX,sovcloud-static.cn
+  - DOMAIN-SUFFIX,videobreakdown.com
+  - DOMAIN-SUFFIX,trafficmanager.net
+  - DOMAIN-SUFFIX,insiderdevtour.com
   - DOMAIN-SUFFIX,microsoftreactor.cn
-  - DOMAIN-SUFFIX,microsoft-online.cn
-  - DOMAIN-SUFFIX,microsoft-falcon.io
-  - DOMAIN-SUFFIX,forzamotorsport.net
-  - DOMAIN-SUFFIX,microsoftmetrics.cn
-  - DOMAIN-SUFFIX,tailwindtraders.com
-  - DOMAIN-SUFFIX,translatetheweb.com
-  - DOMAIN-SUFFIX,azuredatabricks.net
-  - DOMAIN-SUFFIX,flightsimulator.com
-  - DOMAIN-SUFFIX,getmicrosoftkey.com
-  - DOMAIN-SUFFIX,codethemicrobit.com
-  - DOMAIN-SUFFIX,meetyourdevices.com
-  - DOMAIN-SUFFIX,msgamesresearch.com
-  - DOMAIN-SUFFIX,azureiotcentral.com
-  - DOMAIN-SUFFIX,powerappsportals.cn
-  - DOMAIN-SUFFIX,microsoftstream.com
-  - DOMAIN-SUFFIX,azurestaticapps.net
-  - DOMAIN-SUFFIX,githubhackathon.com
-  - DOMAIN-SUFFIX,poshtestgallery.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,xboxgamestudios.com
-  - DOMAIN-SUFFIX,sway-extensions.com
-  - DOMAIN-SUFFIX,azure-automation.cn
+  - DOMAIN-SUFFIX,poshtestgallery.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,azureiotcentral.com
+  - DOMAIN-SUFFIX,codethemicrobit.com
+  - DOMAIN-SUFFIX,msgamesresearch.com
+  - DOMAIN-SUFFIX,flipwithsurface.com
+  - DOMAIN-SUFFIX,getmicrosoftkey.com
+  - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,internetexplorer.co
+  - DOMAIN-SUFFIX,microsoft-online.cn
+  - DOMAIN-SUFFIX,meetyourdevices.com
+  - DOMAIN-SUFFIX,microsoft-falcon.io
+  - DOMAIN-SUFFIX,tailwindtraders.com
+  - DOMAIN-SUFFIX,microsoftstream.com
   - DOMAIN-SUFFIX,ms-studiosmedia.com
-  - DOMAIN-SUFFIX,azuresmartspaces.net
-  - DOMAIN-SUFFIX,bingvisualsearch.com
-  - DOMAIN-SUFFIX,devopsassessment.net
-  - DOMAIN-SUFFIX,cloudappsecurity.com
-  - DOMAIN-SUFFIX,microsoftreactor.net
-  - DOMAIN-SUFFIX,xboxplayanywhere.com
+  - DOMAIN-SUFFIX,forzamotorsport.net
+  - DOMAIN-SUFFIX,mschallenge2018.com
+  - DOMAIN-SUFFIX,azurestaticapps.net
+  - DOMAIN-SUFFIX,microsoftmetrics.cn
+  - DOMAIN-SUFFIX,azuredatabricks.net
+  - DOMAIN-SUFFIX,translatetheweb.com
+  - DOMAIN-SUFFIX,sway-extensions.com
+  - DOMAIN-SUFFIX,powerappsportals.cn
+  - DOMAIN-SUFFIX,flightsimulator.com
+  - DOMAIN-SUFFIX,azure-automation.cn
+  - DOMAIN-SUFFIX,internetexplorer.com
   - DOMAIN-SUFFIX,microsofttradein.com
-  - DOMAIN-SUFFIX,sqlserveronlinux.com
-  - DOMAIN-SUFFIX,azuredigitaltwin.com
-  - DOMAIN-SUFFIX,bingagencyawards.com
-  - DOMAIN-SUFFIX,sharepointonline.com
-  - DOMAIN-SUFFIX,hdinsightservices.cn
-  - DOMAIN-SUFFIX,windowscommunity.net
   - DOMAIN-SUFFIX,microsoftreactor.org
   - DOMAIN-SUFFIX,azureplanetscale.net
-  - DOMAIN-SUFFIX,internetexplorer.com
-  - DOMAIN-SUFFIX,working-bing-int.com
   - DOMAIN-SUFFIX,windowsphone-int.com
-  - DOMAIN-SUFFIX,chinacloud-mobile.cn
-  - DOMAIN-SUFFIX,cortanaanalytics.com
+  - DOMAIN-SUFFIX,successwithteams.com
+  - DOMAIN-SUFFIX,azuresmartspaces.net
+  - DOMAIN-SUFFIX,hdinsightservices.cn
+  - DOMAIN-SUFFIX,renovacionoffice.com
+  - DOMAIN-SUFFIX,bingagencyawards.com
+  - DOMAIN-SUFFIX,microsoftonline-m.cn
+  - DOMAIN-SUFFIX,working-bing-int.com
+  - DOMAIN-SUFFIX,skypeforbusiness.com
+  - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,microsoftonline-p.cn
   - DOMAIN-SUFFIX,microsoftonline-i.cn
-  - DOMAIN-SUFFIX,skypeforbusiness.com
-  - DOMAIN-SUFFIX,renovacionoffice.com
-  - DOMAIN-SUFFIX,successwithteams.com
-  - DOMAIN-SUFFIX,microsoftonline-m.cn
-  - DOMAIN-SUFFIX,gameuxmasterguide.com
-  - DOMAIN-SUFFIX,minecraftservices.com
-  - DOMAIN-SUFFIX,azureplanetscale.info
-  - DOMAIN-SUFFIX,azuredigitaltwins.net
-  - DOMAIN-SUFFIX,bingapistatistics.com
-  - DOMAIN-SUFFIX,opticsforthecloud.net
-  - DOMAIN-SUFFIX,windowsazurestatus.cn
-  - DOMAIN-SUFFIX,serverlesslibrary.net
-  - DOMAIN-SUFFIX,microsoftonline-p.com
-  - DOMAIN-SUFFIX,microsoftnewskids.net
-  - DOMAIN-SUFFIX,azuredigitaltwins.com
-  - DOMAIN-SUFFIX,powershellgallery.com
-  - DOMAIN-SUFFIX,microsoftreactor.info
-  - DOMAIN-SUFFIX,ms365surfaceoffer.com
-  - DOMAIN-SUFFIX,azureiotsolutions.com
-  - DOMAIN-SUFFIX,microsoftonline-p.net
-  - DOMAIN-SUFFIX,centralvalidation.com
-  - DOMAIN-SUFFIX,microsoftnewskids.org
-  - DOMAIN-SUFFIX,azure-devices-int.net
-  - DOMAIN-SUFFIX,microsoftnewskids.com
-  - DOMAIN-SUFFIX,yammerusercontent.com
+  - DOMAIN-SUFFIX,microsoftreactor.net
+  - DOMAIN-SUFFIX,chinacloud-mobile.cn
+  - DOMAIN-SUFFIX,devopsassessment.net
+  - DOMAIN-SUFFIX,bingvisualsearch.com
+  - DOMAIN-SUFFIX,cortanaanalytics.com
+  - DOMAIN-SUFFIX,cloudappsecurity.com
+  - DOMAIN-SUFFIX,sqlserveronlinux.com
+  - DOMAIN-SUFFIX,windowscommunity.net
+  - DOMAIN-SUFFIX,azuredigitaltwin.com
+  - DOMAIN-SUFFIX,xboxplayanywhere.com
   - DOMAIN-SUFFIX,azuredevopslaunch.com
-  - DOMAIN-SUFFIX,iotinactionevents.com
+  - DOMAIN-SUFFIX,azuredigitaltwins.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,ms365surfaceoffer.com
+  - DOMAIN-SUFFIX,centralvalidation.com
+  - DOMAIN-SUFFIX,azure-devices-int.net
+  - DOMAIN-SUFFIX,opticsforthecloud.net
   - DOMAIN-SUFFIX,ankarazirvesi2018.com
-  - DOMAIN-SUFFIX,minecraft-services.net
-  - DOMAIN-SUFFIX,applicationinsights.io
-  - DOMAIN-SUFFIX,microsoftgamestack.com
-  - DOMAIN-SUFFIX,renovacionxboxlive.com
-  - DOMAIN-SUFFIX,microsoftonline-p-i.cn
+  - DOMAIN-SUFFIX,microsoftnewskids.org
+  - DOMAIN-SUFFIX,microsoftnewskids.com
+  - DOMAIN-SUFFIX,windowsazurestatus.cn
+  - DOMAIN-SUFFIX,minecraftservices.com
+  - DOMAIN-SUFFIX,microsoftreactor.info
+  - DOMAIN-SUFFIX,iotinactionevents.com
+  - DOMAIN-SUFFIX,yammerusercontent.com
+  - DOMAIN-SUFFIX,bingapistatistics.com
+  - DOMAIN-SUFFIX,azureplanetscale.info
+  - DOMAIN-SUFFIX,gameuxmasterguide.com
+  - DOMAIN-SUFFIX,azuredigitaltwins.net
+  - DOMAIN-SUFFIX,powershellgallery.com
+  - DOMAIN-SUFFIX,azureiotsolutions.com
+  - DOMAIN-SUFFIX,serverlesslibrary.net
+  - DOMAIN-SUFFIX,microsoftonline-p.net
+  - DOMAIN-SUFFIX,microsoftnewskids.net
+  - DOMAIN-SUFFIX,microsoftonline-p.com
   - DOMAIN-SUFFIX,femalefounderscomp.com
-  - DOMAIN-SUFFIX,microsoftonline-m-i.cn
-  - DOMAIN-SUFFIX,livingyourambition.com
-  - DOMAIN-SUFFIX,windowsmarketplace.com
   - DOMAIN-SUFFIX,microsoftsqlserver.com
-  - DOMAIN-SUFFIX,managedmeetingrooms.com
-  - DOMAIN-SUFFIX,microsofttranslator.com
-  - DOMAIN-SUFFIX,microsoftaffiliates.com
-  - DOMAIN-SUFFIX,bethesdagamestudios.com
+  - DOMAIN-SUFFIX,microsoftgamestack.com
+  - DOMAIN-SUFFIX,applicationinsights.io
+  - DOMAIN-SUFFIX,livingyourambition.com
+  - DOMAIN-SUFFIX,microsoftonline-m-i.cn
+  - DOMAIN-SUFFIX,renovacionxboxlive.com
+  - DOMAIN-SUFFIX,windowsmarketplace.com
+  - DOMAIN-SUFFIX,microsoftonline-p-i.cn
+  - DOMAIN-SUFFIX,minecraft-services.net
   - DOMAIN-SUFFIX,microsoftazurestatus.cn
+  - DOMAIN-SUFFIX,bethesdagamestudios.com
+  - DOMAIN-SUFFIX,microsoftaffiliates.com
   - DOMAIN-SUFFIX,timelinestoryteller.com
   - DOMAIN-SUFFIX,masalladeloslimites.com
+  - DOMAIN-SUFFIX,applicationinsights.net
+  - DOMAIN-SUFFIX,microsoftdiplomados.com
   - DOMAIN-SUFFIX,uwpcommunitytoolkit.com
   - DOMAIN-SUFFIX,sovcloud-usercontent.cn
-  - DOMAIN-SUFFIX,applicationinsights.net
+  - DOMAIN-SUFFIX,microsofttranslator.com
   - DOMAIN-SUFFIX,microsoftiotcentral.com
-  - DOMAIN-SUFFIX,microsoftdiplomados.com
-  - DOMAIN-SUFFIX,microsoftusercontent.com
-  - DOMAIN-SUFFIX,microsoftsilverlight.net
-  - DOMAIN-SUFFIX,microsoftnewsforkids.com
-  - DOMAIN-SUFFIX,visualstudio-staging.com
-  - DOMAIN-SUFFIX,microsoftedgeinsider.com
-  - DOMAIN-SUFFIX,microsoftsilverlight.org
+  - DOMAIN-SUFFIX,managedmeetingrooms.com
   - DOMAIN-SUFFIX,microsoftnewsforkids.org
-  - DOMAIN-SUFFIX,appserviceenvironment.cn
-  - DOMAIN-SUFFIX,microsoftcloudsummit.com
-  - DOMAIN-SUFFIX,microsoftadvertising.com
+  - DOMAIN-SUFFIX,azurestackvalidation.com
   - DOMAIN-SUFFIX,crossborderexpansion.com
   - DOMAIN-SUFFIX,microsoftazuread-sso.com
-  - DOMAIN-SUFFIX,azureserviceprofiler.com
-  - DOMAIN-SUFFIX,microsoftsilverlight.com
-  - DOMAIN-SUFFIX,microsoftlatamaitour.com
-  - DOMAIN-SUFFIX,microsoftnewsforkids.net
   - DOMAIN-SUFFIX,microsoft-sap-events.com
-  - DOMAIN-SUFFIX,azurestackvalidation.com
+  - DOMAIN-SUFFIX,microsoftnewsforkids.net
+  - DOMAIN-SUFFIX,microsoftsilverlight.org
+  - DOMAIN-SUFFIX,microsoftsilverlight.net
+  - DOMAIN-SUFFIX,microsoftusercontent.com
+  - DOMAIN-SUFFIX,microsoftsilverlight.com
+  - DOMAIN-SUFFIX,microsoftedgeinsider.com
+  - DOMAIN-SUFFIX,microsoftnewsforkids.com
+  - DOMAIN-SUFFIX,microsoftcloudsummit.com
+  - DOMAIN-SUFFIX,appserviceenvironment.cn
+  - DOMAIN-SUFFIX,visualstudio-staging.com
+  - DOMAIN-SUFFIX,microsoftlatamaitour.com
+  - DOMAIN-SUFFIX,microsoftadvertising.com
+  - DOMAIN-SUFFIX,azureserviceprofiler.com
   - DOMAIN-SUFFIX,microsoftaccountguard.com
+  - DOMAIN-SUFFIX,microsoft-sbs-domains.com
   - DOMAIN-SUFFIX,fasttrackreadysupport.com
   - DOMAIN-SUFFIX,msinnovationchallenge.com
   - DOMAIN-SUFFIX,microsoftlatamholiday.com
-  - DOMAIN-SUFFIX,microsoft-sbs-domains.com
   - DOMAIN-SUFFIX,microsofttranslator-int.cn
-  - DOMAIN-SUFFIX,microsoftsiteselection.com
-  - DOMAIN-SUFFIX,microsoftmxfilantropia.com
-  - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
   - DOMAIN-SUFFIX,microsoftcloudworkshop.com
-  - DOMAIN-SUFFIX,latampartneruniversity.com
+  - DOMAIN-SUFFIX,microsoftmxfilantropia.com
+  - DOMAIN-SUFFIX,microsoftsiteselection.com
   - DOMAIN-SUFFIX,azure-connectedvehicles.cn
-  - DOMAIN-SUFFIX,management-azure-devices.cn
-  - DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
+  - DOMAIN-SUFFIX,latampartneruniversity.com
+  - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
   - DOMAIN-SUFFIX,opentranslatorstothings.org
   - DOMAIN-SUFFIX,unlocklimitlesslearning.com
-  - DOMAIN-SUFFIX,brazilpartneruniversity.com
   - DOMAIN-SUFFIX,forzaracingchampionship.com
   - DOMAIN-SUFFIX,microsoftinternetsafety.net
+  - DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
+  - DOMAIN-SUFFIX,management-azure-devices.cn
+  - DOMAIN-SUFFIX,brazilpartneruniversity.com
   - DOMAIN-SUFFIX,microsoftpersonalcontent.com
   - DOMAIN-SUFFIX,management-azure-devices.net
   - DOMAIN-SUFFIX,microsoftpartnersolutions.com
-  - DOMAIN-SUFFIX,microsoftpartnercommunity.com
   - DOMAIN-SUFFIX,azure-devices-provisioning.cn
+  - DOMAIN-SUFFIX,microsoftpartnercommunity.com
   - DOMAIN-SUFFIX,microsoftazuresponsorships.com
   - DOMAIN-SUFFIX,microsoftcommunitytraining.com
-  - DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
   - DOMAIN-SUFFIX,management-azure-devices-int.net
   - DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
+  - DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
   - DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
   - DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
   - DOMAIN-SUFFIX,ovi.com.cn
-  - DOMAIN-SUFFIX,msn.com.tw
   - DOMAIN-SUFFIX,msn.com.cn
+  - DOMAIN-SUFFIX,msn.com.tw
   - DOMAIN-SUFFIX,live.com.au
   - DOMAIN-SUFFIX,bing.com.cn
   - DOMAIN-SUFFIX,mmais.com.cn
@@ -728,8 +728,8 @@ payload:
   - DOMAIN-SUFFIX,msminico.com.cn
   - DOMAIN-SUFFIX,msa.akadns6.net
   - DOMAIN-SUFFIX,b.akamaiedge.net
-  - DOMAIN-SUFFIX,reactorms.com.cn
   - DOMAIN-SUFFIX,g.akamaiedge.net
+  - DOMAIN-SUFFIX,reactorms.com.cn
   - DOMAIN-SUFFIX,microsoftol.com.cn
   - DOMAIN-SUFFIX,visualstudio.co.uk
   - DOMAIN-SUFFIX,microsoftstore.com.hk
@@ -746,14 +746,14 @@ payload:
   - DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
   - DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
   - DOMAIN-SUFFIX,prod-video-cms-rt-microsoft-com.akamaized.net
-  - DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
   - DOMAIN-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
   - DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
+  - DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
   - DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
   - DOMAIN-SUFFIX,msn.com.nsatc.net
+  - DOMAIN-SUFFIX,cs9.wac.phicdn.net
   - DOMAIN-SUFFIX,a1158.g.akamai.net
   - DOMAIN-SUFFIX,cs11.wpc.v0cdn.net
-  - DOMAIN-SUFFIX,cs9.wac.phicdn.net
   - DOMAIN-SUFFIX,a767.dscg3.akamai.net
   - DOMAIN-SUFFIX,a122.dscg3.akamai.net
   - DOMAIN-SUFFIX,microsoft.com.nsatc.net

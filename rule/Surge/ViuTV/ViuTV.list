@@ -1,10 +1,9 @@
 # NAME: ViuTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:09.001983+00:00
+# UPDATED: 2026-07-06T02:19:00.523247+00:00
 # DOMAIN-SUFFIX: 8
 # USER-AGENT: 1
-# PROCESS-NAME: 3
-# TOTAL: 12
+# TOTAL: 9
 
 DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,viu.com
@@ -15,6 +14,3 @@ DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
 DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
 USER-AGENT,Viu*
-PROCESS-NAME,com.viu.pad
-PROCESS-NAME,com.viu.phone
-PROCESS-NAME,com.vuclip.viu

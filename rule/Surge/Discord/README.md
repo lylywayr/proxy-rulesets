@@ -9,6 +9,7 @@
 - 分类标识：`Discord`
 - 当前客户端：`Surge`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [社交通信专题](../../../guide/topics/social-communication.md)
 
@@ -48,6 +49,7 @@ Aggregated rules for Discord, covering related domains, keywords, and network ta
 - Category ID: `Discord`
 - Client: `Surge`
 - Group: `Social`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Discord/Discord.list>
 

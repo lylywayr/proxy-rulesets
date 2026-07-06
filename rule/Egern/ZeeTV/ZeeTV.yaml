@@ -1,14 +1,14 @@
 # NAME: ZeeTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:16.003962+00:00
+# UPDATED: 2026-07-06T02:19:03.806345+00:00
 no_resolve: true
 domain_suffix_set:
   - "z5.com"
   - "z5.app"
-  - "zee5.in"
   - "zee5.tv"
+  - "zee5.in"
   - "zee5.com"
-  - "zeetv.com"
   - "zeeuk.com"
+  - "zeetv.com"
   - "zeebioskop.com"
   - "zeetv.co.uk"

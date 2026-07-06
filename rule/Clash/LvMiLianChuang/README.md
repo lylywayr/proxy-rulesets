@@ -9,6 +9,7 @@
 - 分类标识：`LvMiLianChuang`
 - 当前客户端：`Clash`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
@@ -47,6 +48,7 @@ Aggregated rules for LvMiLianChuang, covering related domains, keywords, and net
 - Category ID: `LvMiLianChuang`
 - Client: `Clash`
 - Group: `Lifestyle`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/LvMiLianChuang/LvMiLianChuang.yaml>
 

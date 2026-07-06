@@ -1,6 +1,6 @@
 # NAME: Opera
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:55:20.462486+00:00
+# UPDATED: 2026-07-06T02:16:29.451539+00:00
 payload:
   - DOMAIN-SUFFIX,otvs.tv
   - DOMAIN-SUFFIX,1npq4.tk

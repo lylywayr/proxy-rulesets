@@ -1,6 +1,6 @@
 # NAME: Tmdb
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:04.956643+00:00
+# UPDATED: 2026-07-06T02:18:58.720591+00:00
 no_resolve: true
 domain_suffix_set:
   - "tmdb.org"

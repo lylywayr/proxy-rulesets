@@ -1,13 +1,12 @@
 # NAME: OpenAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:55:20.337782+00:00
+# UPDATED: 2026-07-06T02:16:29.392074+00:00
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 30
 # DOMAIN-KEYWORD: 1
-# DOMAIN-REGEX: 1
 # IP-ASN: 1
 # IP-CIDR: 2
-# TOTAL: 43
+# TOTAL: 42
 
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,openai-api.arkoselabs.com
@@ -22,20 +21,20 @@ DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,turn.livekit.cloud
@@ -48,7 +47,6 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,openai
-DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 IP-ASN,20473
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve

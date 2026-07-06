@@ -9,6 +9,7 @@
 - 分类标识：`ChinaNews`
 - 当前客户端：`Surge`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
@@ -47,6 +48,7 @@ Aggregated rules for ChinaNews, covering related domains, keywords, and network 
 - Category ID: `ChinaNews`
 - Client: `Surge`
 - Group: `Media`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ChinaNews/ChinaNews.list>
 

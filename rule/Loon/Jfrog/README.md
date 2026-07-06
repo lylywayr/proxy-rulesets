@@ -9,6 +9,7 @@
 - 分类标识：`Jfrog`
 - 当前客户端：`Loon`
 - 所属分组：[开发者平台](../../../guide/groups/developer.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [开发者栈专题](../../../guide/topics/developer-stack.md)
 
@@ -47,6 +48,7 @@ Aggregated rules for Jfrog, covering related domains, keywords, and network targ
 - Category ID: `Jfrog`
 - Client: `Loon`
 - Group: `Developer`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Jfrog/Jfrog.list>
 

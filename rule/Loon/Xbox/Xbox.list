@@ -1,6 +1,6 @@
 # NAME: Xbox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:12.474043+00:00
+# UPDATED: 2026-07-06T02:19:02.140799+00:00
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 46
 # TOTAL: 52
@@ -13,44 +13,44 @@ DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,store-images.s-microsoft.com
 DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,xbx.lv
-DOMAIN-SUFFIX,xbox.eu
 DOMAIN-SUFFIX,xbox.co
-DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xbox.eu
 DOMAIN-SUFFIX,xbox.org
 DOMAIN-SUFFIX,doom.com
+DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,forza.net
-DOMAIN-SUFFIX,xboxone.co
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,xbox360.eu
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,xbox360.co
+DOMAIN-SUFFIX,xboxone.co
 DOMAIN-SUFFIX,xboxab.net
 DOMAIN-SUFFIX,xboxone.eu
-DOMAIN-SUFFIX,xbox360.co
-DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,forzarc.com
-DOMAIN-SUFFIX,xboxone.com
 DOMAIN-SUFFIX,xbox360.com
+DOMAIN-SUFFIX,xboxone.com
 DOMAIN-SUFFIX,xbox360.org
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,bethsoft.com
-DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,orithegame.com
+DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,xboxstudios.com
-DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,elderscrolls.com
+DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxgamepass.com
-DOMAIN-SUFFIX,msgamestudios.com
 DOMAIN-SUFFIX,tellmewhygame.com
+DOMAIN-SUFFIX,msgamestudios.com
 DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,xboxgamestudios.com
 DOMAIN-SUFFIX,flightsimulator.com
-DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraft-services.net

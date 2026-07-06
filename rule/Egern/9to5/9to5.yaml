@@ -1,6 +1,6 @@
 # NAME: 9to5
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:00:58.092102+00:00
+# UPDATED: 2026-07-06T01:24:51.298243+00:00
 no_resolve: true
 domain_suffix_set:
   - "electrek.co"

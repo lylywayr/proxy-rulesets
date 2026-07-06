@@ -1,6 +1,6 @@
 # NAME: OpenAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:55:20.337330+00:00
+# UPDATED: 2026-07-06T02:16:29.391632+00:00
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 30
 # DOMAIN-KEYWORD: 1
@@ -21,20 +21,20 @@ DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,turn.livekit.cloud

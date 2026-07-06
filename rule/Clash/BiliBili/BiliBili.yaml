@@ -1,6 +1,6 @@
 # NAME: BiliBili
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:01:16.250290+00:00
+# UPDATED: 2026-07-06T01:24:58.289729+00:00
 payload:
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
@@ -60,56 +60,56 @@ payload:
   - DOMAIN-SUFFIX,yo9.com
   - DOMAIN-SUFFIX,baka.im
   - DOMAIN-SUFFIX,im9.com
-  - DOMAIN-SUFFIX,hdslb.net
-  - DOMAIN-SUFFIX,bili22.cn
-  - DOMAIN-SUFFIX,bigfun.cn
-  - DOMAIN-SUFFIX,hdslb.org
-  - DOMAIN-SUFFIX,bili23.cn
-  - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,mcbbs.net
+  - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,bili33.cn
-  - DOMAIN-SUFFIX,anitama.cn
-  - DOMAIN-SUFFIX,biligo.com
-  - DOMAIN-SUFFIX,corari.com
+  - DOMAIN-SUFFIX,hdslb.net
+  - DOMAIN-SUFFIX,bili23.cn
+  - DOMAIN-SUFFIX,hdslb.org
+  - DOMAIN-SUFFIX,bigfun.cn
+  - DOMAIN-SUFFIX,bili22.cn
   - DOMAIN-SUFFIX,mincdn.com
-  - DOMAIN-SUFFIX,biliapi.net
-  - DOMAIN-SUFFIX,bilibili.co
-  - DOMAIN-SUFFIX,smtcdns.net
-  - DOMAIN-SUFFIX,bilibili.cn
-  - DOMAIN-SUFFIX,biligame.co
-  - DOMAIN-SUFFIX,biliintl.co
-  - DOMAIN-SUFFIX,biliimg.com
-  - DOMAIN-SUFFIX,bilibili.cc
-  - DOMAIN-SUFFIX,bili2233.cn
-  - DOMAIN-SUFFIX,biligame.cn
-  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,corari.com
+  - DOMAIN-SUFFIX,biligo.com
+  - DOMAIN-SUFFIX,anitama.cn
   - DOMAIN-SUFFIX,anitama.net
+  - DOMAIN-SUFFIX,smtcdns.net
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,bilibili.cc
+  - DOMAIN-SUFFIX,biligame.co
+  - DOMAIN-SUFFIX,biliimg.com
+  - DOMAIN-SUFFIX,bilibili.cn
+  - DOMAIN-SUFFIX,biligame.cn
+  - DOMAIN-SUFFIX,bilibili.co
+  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,bili2233.cn
   - DOMAIN-SUFFIX,bilibili.tv
-  - DOMAIN-SUFFIX,bilicdn3.com
-  - DOMAIN-SUFFIX,bilicdn5.com
-  - DOMAIN-SUFFIX,bilibili.net
-  - DOMAIN-SUFFIX,biligame.net
-  - DOMAIN-SUFFIX,acgvideo.com
-  - DOMAIN-SUFFIX,dyhgames.com
+  - DOMAIN-SUFFIX,biliintl.co
   - DOMAIN-SUFFIX,maoercdn.com
-  - DOMAIN-SUFFIX,bilicdn1.com
-  - DOMAIN-SUFFIX,biliplus.com
   - DOMAIN-SUFFIX,bilivideo.cn
+  - DOMAIN-SUFFIX,bilicdn4.com
+  - DOMAIN-SUFFIX,dyhgames.com
+  - DOMAIN-SUFFIX,biliintl.com
+  - DOMAIN-SUFFIX,biligame.net
+  - DOMAIN-SUFFIX,bilicdn1.com
   - DOMAIN-SUFFIX,bilicdn2.com
   - DOMAIN-SUFFIX,dreamcast.hk
-  - DOMAIN-SUFFIX,biligame.com
-  - DOMAIN-SUFFIX,bilicdn4.com
-  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,acgvideo.com
+  - DOMAIN-SUFFIX,bilicdn5.com
+  - DOMAIN-SUFFIX,biliplus.com
   - DOMAIN-SUFFIX,bigfunapp.cn
-  - DOMAIN-SUFFIX,biliintl.com
+  - DOMAIN-SUFFIX,bilibili.net
+  - DOMAIN-SUFFIX,biligame.com
+  - DOMAIN-SUFFIX,bilicdn3.com
+  - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-SUFFIX,bilivideo.net
   - DOMAIN-SUFFIX,bilicomics.com
   - DOMAIN-SUFFIX,bilibilipay.cn
+  - DOMAIN-SUFFIX,bilibilipay.com
+  - DOMAIN-SUFFIX,animetamashi.cn
   - DOMAIN-SUFFIX,bilibiligame.cn
   - DOMAIN-SUFFIX,bilibiligame.co
-  - DOMAIN-SUFFIX,animetamashi.cn
-  - DOMAIN-SUFFIX,bilibilipay.com
   - DOMAIN-SUFFIX,animetamashi.com
   - DOMAIN-SUFFIX,bilibiligame.net
   - DOMAIN-SUFFIX,sharejoytech.com

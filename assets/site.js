@@ -28,10 +28,15 @@ function renderSummary() {
   const items = [
     [t("\u5206\u7c7b", "Groups"), data.groups.length],
     [t("\u89c4\u5219\u96c6", "Rulesets"), data.categories.length],
+    [t("\u672c\u6b21\u66f4\u65b0\u65f6\u95f4", "Last Updated"), language === "zh" ? data.generated_at_display_zh : data.generated_at_display_en, true],
   ];
   summaryBand.innerHTML = items
-    .map(([label, value]) => `<article class="summary-card"><div class="label">${label}</div><div class="value">${value}</div></article>`)
+    .map(([label, value, isTime]) => `<article class="summary-card"><div class="label">${label}</div><div class="value${isTime ? " time" : ""}">${value}</div></article>`)
     .join("");
+  document.getElementById("generated-at").textContent = t(
+    `\u672c\u6b21\u66f4\u65b0\u65f6\u95f4\uff1a${data.generated_at_display_zh}`,
+    `Last updated: ${data.generated_at_display_en}`
+  );
 }
 
 function filteredCategories() {
@@ -110,6 +115,9 @@ function renderCategories() {
                 <p class="card-subtitle">${item.name}</p>
                 <p class="card-description">${language === "zh" ? item.description_zh : item.description_en}</p>
                 <div class="tag-row">${statTags(item)}</div>
+                <div class="meta-block">
+                  <div class="meta-line"><strong>${t("\u66f4\u65b0\u65f6\u95f4", "Updated")}</strong> ${language === "zh" ? item.generated_at_display_zh : item.generated_at_display_en}</div>
+                </div>
                 <div class="meta-block">
                   <div class="meta-line"><strong>${t("\u539f\u59cb\u6587\u4ef6", "Rule files")}</strong></div>
                   <div class="raw-row">${rawFileLinks(item)}</div>

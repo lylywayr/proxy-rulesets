@@ -1,14 +1,14 @@
 # NAME: Dedao
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:36:55.598715+00:00
+# UPDATED: 2026-07-06T01:59:02.612987+00:00
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 
 DOMAIN-SUFFIX,sao.cn
 DOMAIN-SUFFIX,biji.com
 DOMAIN-SUFFIX,mogoo.com
-DOMAIN-SUFFIX,ddmogo.com
 DOMAIN-SUFFIX,igetget.cn
+DOMAIN-SUFFIX,ddmogo.com
 DOMAIN-SUFFIX,saolife.com
 DOMAIN-SUFFIX,igetget.com
 DOMAIN-SUFFIX,luojilab.com

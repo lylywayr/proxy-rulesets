@@ -1,35 +1,35 @@
 # NAME: SuNing
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:00.695017+00:00
+# UPDATED: 2026-07-06T02:18:57.006896+00:00
 payload:
   - DOMAIN-SUFFIX,laox.cn
   - DOMAIN-SUFFIX,snqrc.cn
   - DOMAIN-SUFFIX,sndlj.cn
   - DOMAIN-SUFFIX,suning.cn
   - DOMAIN-SUFFIX,suning.com
-  - DOMAIN-SUFFIX,yifubao.com
   - DOMAIN-SUFFIX,pinjiago.cn
-  - DOMAIN-SUFFIX,pinjiago.com
+  - DOMAIN-SUFFIX,yifubao.com
   - DOMAIN-SUFFIX,suningcdn.cn
   - DOMAIN-SUFFIX,suningdns.cn
-  - DOMAIN-SUFFIX,wuliuyun.com
   - DOMAIN-SUFFIX,cnsuning.com
+  - DOMAIN-SUFFIX,wuliuyun.com
+  - DOMAIN-SUFFIX,pinjiago.com
   - DOMAIN-SUFFIX,chinadzfp.com
-  - DOMAIN-SUFFIX,suningcdn.com
-  - DOMAIN-SUFFIX,suningdns.com
   - DOMAIN-SUFFIX,suninggslb.cn
-  - DOMAIN-SUFFIX,suningdns.net
   - DOMAIN-SUFFIX,suningcdn.net
-  - DOMAIN-SUFFIX,suninggslb.net
+  - DOMAIN-SUFFIX,suningdns.com
+  - DOMAIN-SUFFIX,suningdns.net
+  - DOMAIN-SUFFIX,suningcdn.com
   - DOMAIN-SUFFIX,cloudytrace.cn
+  - DOMAIN-SUFFIX,suninggslb.net
   - DOMAIN-SUFFIX,suningmail.com
-  - DOMAIN-SUFFIX,suninghotel.com
   - DOMAIN-SUFFIX,suningcloud.com
+  - DOMAIN-SUFFIX,suninghotel.com
   - DOMAIN-SUFFIX,cloudytrace.org
-  - DOMAIN-SUFFIX,suningyunyou.cn
   - DOMAIN-SUFFIX,cloudytrace.com
-  - DOMAIN-SUFFIX,suningyunyou.com
+  - DOMAIN-SUFFIX,suningyunyou.cn
   - DOMAIN-SUFFIX,suningestate.com
+  - DOMAIN-SUFFIX,suningyunyou.com
   - DOMAIN-SUFFIX,suningholdings.com
   - DOMAIN-SUFFIX,10035.com.cn
   - DOMAIN-SUFFIX,redbaby.com.cn

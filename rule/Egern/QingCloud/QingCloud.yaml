@@ -1,16 +1,16 @@
 # NAME: QingCloud
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:58:53.696311+00:00
+# UPDATED: 2026-07-06T02:18:53.914010+00:00
 no_resolve: true
 domain_suffix_set:
   - "anybox.com"
   - "yunify.com"
-  - "qingcloud.cn"
   - "qingstor.com"
-  - "qingcache.com"
-  - "qingcloud.com"
+  - "qingcloud.cn"
   - "frontwize.com"
+  - "qingcache.com"
   - "routewize.com"
+  - "qingcloud.com"
   - "qingstorage.com"
   - "quanxiangyun.com"
   - "qingcloud.com.cn"

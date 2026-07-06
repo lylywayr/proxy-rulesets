@@ -1,11 +1,9 @@
 # NAME: LastPass
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:55:08.952853+00:00
+# UPDATED: 2026-07-06T02:16:24.420340+00:00
 # DOMAIN-SUFFIX: 1
 # USER-AGENT: 1
-# PROCESS-NAME: 1
-# TOTAL: 3
+# TOTAL: 2
 
 DOMAIN-SUFFIX,lastpass.com
 USER-AGENT,LastPass*
-PROCESS-NAME,LastPass

@@ -9,12 +9,13 @@
 - 分类标识：`Alibaba`
 - 当前客户端：`Surge`
 - 所属分组：[金融电商](../../../guide/groups/finance.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`58`
+- 总数：`57`
 - `DOMAIN-SUFFIX`: 3
 - `PROCESS-NAME`: 1
 - `IP-CIDR`: 53
@@ -25,7 +26,7 @@
 - 规则格式：`纯文本 RULE-SET 列表`
 - 文件：`rule/Surge/Alibaba/Alibaba.list`
 - 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Alibaba/Alibaba.list>
-- 已省略的不兼容类型：无
+- 已省略的不兼容类型：`PROCESS-NAME`=1
 
 ### 客户端入口
 
@@ -50,6 +51,7 @@ Aggregated rules for Alibaba, covering related domains, keywords, and network ta
 - Category ID: `Alibaba`
 - Client: `Surge`
 - Group: `Finance`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Alibaba/Alibaba.list>
 

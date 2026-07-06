@@ -1,10 +1,10 @@
 # NAME: NivodTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:55:18.805293+00:00
+# UPDATED: 2026-07-06T02:16:28.743632+00:00
 no_resolve: true
 domain_suffix_set:
-  - "nbyy.tv"
   - "nbys.tv"
+  - "nbyy.tv"
   - "nbys1.tv"
   - "mudvod.tv"
   - "vod360.net"

@@ -1,6 +1,6 @@
 # NAME: BardAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:01:15.165893+00:00
+# UPDATED: 2026-07-06T01:24:57.824404+00:00
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalicore-pa.clients6.google.com
@@ -14,10 +14,10 @@ payload:
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,ai.studio
-  - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,opal.google
-  - DOMAIN-SUFFIX,jules.google
+  - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,jules.google
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,notebooklm.google
@@ -33,9 +33,9 @@ payload:
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
-  - DOMAIN-SUFFIX,aicode.googleapis.com
-  - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com

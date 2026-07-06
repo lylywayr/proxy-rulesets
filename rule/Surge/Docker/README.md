@@ -9,6 +9,7 @@
 - 分类标识：`Docker`
 - 当前客户端：`Surge`
 - 所属分组：[开发者平台](../../../guide/groups/developer.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [开发者栈专题](../../../guide/topics/developer-stack.md)
 - [云网络专题](../../../guide/topics/cloud-network.md)
@@ -49,6 +50,7 @@ Aggregated rules for Docker, covering related domains, keywords, and network tar
 - Category ID: `Docker`
 - Client: `Surge`
 - Group: `Developer`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Docker/Docker.list>
 

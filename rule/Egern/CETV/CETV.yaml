@@ -1,6 +1,6 @@
 # NAME: CETV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:01:26.950679+00:00
+# UPDATED: 2026-07-06T01:24:59.689933+00:00
 no_resolve: true
 domain_suffix_set:
   - "cetv.cn"

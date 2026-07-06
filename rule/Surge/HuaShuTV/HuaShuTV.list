@@ -1,12 +1,12 @@
 # NAME: HuaShuTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:54:58.863712+00:00
+# UPDATED: 2026-07-06T02:16:20.943205+00:00
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 
-DOMAIN-SUFFIX,wasu.tv
 DOMAIN-SUFFIX,wasu.cn
+DOMAIN-SUFFIX,wasu.tv
 DOMAIN-SUFFIX,hzdtv.tv
-DOMAIN-SUFFIX,hzman.net
 DOMAIN-SUFFIX,hzcnc.com
+DOMAIN-SUFFIX,hzman.net
 DOMAIN-SUFFIX,wasumedia.cn

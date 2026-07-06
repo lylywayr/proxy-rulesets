@@ -9,6 +9,7 @@
 - 分类标识：`DigitalOcean`
 - 当前客户端：`Surge`
 - 所属分组：[游戏平台](../../../guide/groups/gaming.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [云网络专题](../../../guide/topics/cloud-network.md)
 
@@ -47,6 +48,7 @@ Aggregated rules for DigitalOcean, covering related domains, keywords, and netwo
 - Category ID: `DigitalOcean`
 - Client: `Surge`
 - Group: `Gaming`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/DigitalOcean/DigitalOcean.list>
 

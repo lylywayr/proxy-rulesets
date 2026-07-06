@@ -1,13 +1,13 @@
 # NAME: ZhongXingTongXun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:17.294035+00:00
+# UPDATED: 2026-07-06T02:19:04.356828+00:00
 payload:
   - DOMAIN-SUFFIX,zte.net
   - DOMAIN-SUFFIX,nubia.cc
   - DOMAIN-SUFFIX,nubia.cn
   - DOMAIN-SUFFIX,nubia.com
-  - DOMAIN-SUFFIX,3gcare.cn
   - DOMAIN-SUFFIX,ztems.com
+  - DOMAIN-SUFFIX,3gcare.cn
   - DOMAIN-SUFFIX,nubia.mobi
   - DOMAIN-SUFFIX,ztemall.com
   - DOMAIN-SUFFIX,ztehotel.net
@@ -17,8 +17,8 @@ payload:
   - DOMAIN-SUFFIX,ztedevice.com
   - DOMAIN-SUFFIX,ztedevices.com
   - DOMAIN-SUFFIX,zte.com.cn
-  - DOMAIN-SUFFIX,nubia.com.cn
   - DOMAIN-SUFFIX,nubia.net.cn
+  - DOMAIN-SUFFIX,nubia.com.cn
   - DOMAIN-SUFFIX,ztehotel.com.cn
   - DOMAIN-SUFFIX,shouhubao.com.cn
   - DOMAIN-SUFFIX,ztedevice.com.cn

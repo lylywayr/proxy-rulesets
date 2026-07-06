@@ -9,6 +9,7 @@
 - 分类标识：`iCloud`
 - 当前客户端：`Loon`
 - 所属分组：[苹果生态](../../../guide/groups/apple.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
@@ -49,6 +50,7 @@ Aggregated rules for iCloud, covering related domains, keywords, and network tar
 - Category ID: `iCloud`
 - Client: `Loon`
 - Group: `Apple`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/iCloud/iCloud.list>
 

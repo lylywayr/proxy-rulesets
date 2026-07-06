@@ -9,6 +9,7 @@ OpenAI 规则集合。
 - 分类标识：`OpenAI`
 - 当前客户端：`Egern`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
@@ -54,6 +55,7 @@ OpenAI rules.
 - Category ID: `OpenAI`
 - Client: `Egern`
 - Group: `Ai`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/OpenAI/OpenAI.yaml>
 

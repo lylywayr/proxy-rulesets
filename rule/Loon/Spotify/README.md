@@ -9,12 +9,13 @@
 - 分类标识：`Spotify`
 - 当前客户端：`Loon`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [流媒体专题](../../../guide/topics/streaming-media.md)
 
 ### 规则统计
 
-- 总数：`34`
+- 总数：`33`
 - `DOMAIN`: 6
 - `DOMAIN-SUFFIX`: 23
 - `DOMAIN-KEYWORD`: 1
@@ -27,7 +28,7 @@
 - 规则格式：`纯文本远程规则列表`
 - 文件：`rule/Loon/Spotify/Spotify.list`
 - 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Spotify/Spotify.list>
-- 已省略的不兼容类型：无
+- 已省略的不兼容类型：`PROCESS-NAME`=1
 
 ### 客户端入口
 
@@ -53,6 +54,7 @@ Aggregated rules for Spotify, covering related domains, keywords, and network ta
 - Category ID: `Spotify`
 - Client: `Loon`
 - Group: `Media`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Spotify/Spotify.list>
 

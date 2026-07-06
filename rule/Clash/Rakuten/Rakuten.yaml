@@ -1,6 +1,6 @@
 # NAME: Rakuten
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:58:54.470936+00:00
+# UPDATED: 2026-07-06T02:18:54.276577+00:00
 payload:
   - DOMAIN-SUFFIX,r10.to
   - DOMAIN-SUFFIX,o50.jp
@@ -9,14 +9,14 @@ payload:
   - DOMAIN-SUFFIX,viber.com
   - DOMAIN-SUFFIX,rclon.com
   - DOMAIN-SUFFIX,ebates.com
-  - DOMAIN-SUFFIX,rakuten.tw
-  - DOMAIN-SUFFIX,rakuten.ca
   - DOMAIN-SUFFIX,rebates.jp
+  - DOMAIN-SUFFIX,rakuten.ca
+  - DOMAIN-SUFFIX,rakuten.tw
   - DOMAIN-SUFFIX,rakuten.com
   - DOMAIN-SUFFIX,rakuten-static.com
   - DOMAIN-SUFFIX,viber.co.jp
-  - DOMAIN-SUFFIX,rakuten.co.jp
   - DOMAIN-SUFFIX,rakuten.ne.jp
+  - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,infoseek.co.jp
   - DOMAIN-SUFFIX,rakuten.com.tw
   - DOMAIN-SUFFIX,showtime.co.jp
-  - DOMAIN-SUFFIX,infoseek.co.jp

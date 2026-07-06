@@ -1,6 +1,8 @@
 window.__RULE_SITE_DATA__ = {
   "page_url": "https://lylywayr.github.io/proxy-rulesets/",
-  "generated_at": "2026-07-05T08:00:54.393736+00:00",
+  "generated_at": "2026-07-06T01:24:50.047196+00:00",
+  "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+  "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
   "public_repository": "lylywayr/proxy-rulesets",
   "clients": [
     {
@@ -392,6 +394,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/115/115.list",
@@ -458,6 +463,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/12306/12306.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/12306/12306.list",
@@ -524,6 +532,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/1337x/1337x.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/1337x/1337x.list",
@@ -590,6 +601,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/17173/17173.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/17173/17173.list",
@@ -656,6 +670,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/178/178.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/178/178.list",
@@ -722,6 +739,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/17zuoye/17zuoye.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/17zuoye/17zuoye.list",
@@ -788,6 +808,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/2KGames/2KGames.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/2KGames/2KGames.list",
@@ -854,6 +877,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/360/360.list",
@@ -924,6 +950,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/36kr/36kr.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/36kr/36kr.list",
@@ -990,6 +1019,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/3dm/3dm.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/3dm/3dm.list",
@@ -1056,6 +1088,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/3Type/3Type.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/3Type/3Type.list",
@@ -1122,6 +1157,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4399/4399.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/4399/4399.list",
@@ -1188,6 +1226,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4chan/4chan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/4chan/4chan.list",
@@ -1254,6 +1295,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/4Paradigm/4Paradigm.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/4Paradigm/4Paradigm.list",
@@ -1320,6 +1364,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/51Job/51Job.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/51Job/51Job.list",
@@ -1386,6 +1433,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/51nod/51nod.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/51nod/51nod.list",
@@ -1452,6 +1502,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/56/56.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/56/56.list",
@@ -1518,6 +1571,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/58TongCheng/58TongCheng.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/58TongCheng/58TongCheng.list",
@@ -1584,6 +1640,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/6JianFang/6JianFang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/6JianFang/6JianFang.list",
@@ -1650,6 +1709,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/6park/6park.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/6park/6park.list",
@@ -1716,6 +1778,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/8btc/8btc.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/8btc/8btc.list",
@@ -1782,6 +1847,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/9News/9News.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/9News/9News.list",
@@ -1848,6 +1916,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/9to5/9to5.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/9to5/9to5.list",
@@ -1914,6 +1985,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ABC/ABC.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ABC/ABC.list",
@@ -1981,6 +2055,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Abema/Abema.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Abema/Abema.list",
@@ -2049,6 +2126,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AbemaTV/AbemaTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AbemaTV/AbemaTV.list",
@@ -2115,6 +2195,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Accuweather/Accuweather.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Accuweather/Accuweather.list",
@@ -2181,6 +2264,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Acer/Acer.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Acer/Acer.list",
@@ -2248,6 +2334,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AcFun/AcFun.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AcFun/AcFun.list",
@@ -2314,6 +2403,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Acplay/Acplay.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Acplay/Acplay.list",
@@ -2380,6 +2472,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Actalis/Actalis.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Actalis/Actalis.list",
@@ -2446,6 +2541,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdColony/AdColony.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AdColony/AdColony.list",
@@ -2512,6 +2610,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Addthis/Addthis.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Addthis/Addthis.list",
@@ -2578,6 +2679,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AddToAny/AddToAny.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AddToAny/AddToAny.list",
@@ -2644,6 +2748,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Adidas/Adidas.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Adidas/Adidas.list",
@@ -2712,6 +2819,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Adobe/Adobe.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Adobe/Adobe.list",
@@ -2779,6 +2889,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdobeActivation/AdobeActivation.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AdobeActivation/AdobeActivation.list",
@@ -2848,6 +2961,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Advertising/Advertising.list",
@@ -2917,6 +3033,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AdvertisingLite/AdvertisingLite.list",
@@ -2983,6 +3102,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingMiTV/AdvertisingMiTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AdvertisingMiTV/AdvertisingMiTV.list",
@@ -3052,6 +3174,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingTest/AdvertisingTest.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AdvertisingTest/AdvertisingTest.list",
@@ -3118,6 +3243,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Aerogard/Aerogard.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Aerogard/Aerogard.list",
@@ -3184,6 +3312,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Afdian/Afdian.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Afdian/Afdian.list",
@@ -3250,6 +3381,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AFP/AFP.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AFP/AFP.list",
@@ -3316,6 +3450,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Agora/Agora.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Agora/Agora.list",
@@ -3419,6 +3556,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AI/AI.list",
@@ -3485,6 +3625,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AiQiCha/AiQiCha.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AiQiCha/AiQiCha.list",
@@ -3551,6 +3694,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AirChina/AirChina.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AirChina/AirChina.list",
@@ -3617,6 +3763,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AirWick/AirWick.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AirWick/AirWick.list",
@@ -3691,6 +3840,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/aiXcoder/aiXcoder.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/aiXcoder/aiXcoder.list",
@@ -3765,6 +3917,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Akamai/Akamai.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Akamai/Akamai.list",
@@ -3831,6 +3986,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ali213/Ali213.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Ali213/Ali213.list",
@@ -3900,6 +4058,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Alibaba/Alibaba.list",
@@ -3974,6 +4135,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AliPay/AliPay.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AliPay/AliPay.list",
@@ -4040,6 +4204,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ALJazeera/ALJazeera.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ALJazeera/ALJazeera.list",
@@ -4107,6 +4274,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/All4/All4.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/All4/All4.list",
@@ -4186,6 +4356,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Amazon/Amazon.list",
@@ -4260,6 +4433,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonCN/AmazonCN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AmazonCN/AmazonCN.list",
@@ -4326,6 +4502,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonIP/AmazonIP.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AmazonIP/AmazonIP.list",
@@ -4396,6 +4575,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list",
@@ -4462,6 +4644,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonTrust/AmazonTrust.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AmazonTrust/AmazonTrust.list",
@@ -4528,6 +4713,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMD/AMD.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AMD/AMD.list",
@@ -4594,6 +4782,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Americasvoice/Americasvoice.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Americasvoice/Americasvoice.list",
@@ -4661,6 +4852,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AMP/AMP.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AMP/AMP.list",
@@ -4727,6 +4921,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anaconda/Anaconda.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Anaconda/Anaconda.list",
@@ -4793,6 +4990,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AnandTech/AnandTech.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AnandTech/AnandTech.list",
@@ -4859,6 +5059,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Android/Android.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Android/Android.list",
@@ -4925,6 +5128,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anime/Anime.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Anime/Anime.list",
@@ -4991,6 +5197,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anjuke/Anjuke.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Anjuke/Anjuke.list",
@@ -5057,6 +5266,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anonv/Anonv.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Anonv/Anonv.list",
@@ -5136,6 +5348,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Anthropic/Anthropic.list",
@@ -5202,6 +5417,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AnTianKeJi/AnTianKeJi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AnTianKeJi/AnTianKeJi.list",
@@ -5268,6 +5486,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Antutu/Antutu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Antutu/Antutu.list",
@@ -5334,6 +5555,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AOL/AOL.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AOL/AOL.list",
@@ -5400,6 +5624,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apifox/Apifox.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Apifox/Apifox.list",
@@ -5466,6 +5693,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/APKCombo/APKCombo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/APKCombo/APKCombo.list",
@@ -5532,6 +5762,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apkpure/Apkpure.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Apkpure/Apkpure.list",
@@ -5634,6 +5867,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Apple/Apple.list",
@@ -5700,6 +5936,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleDaily/AppleDaily.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleDaily/AppleDaily.list",
@@ -5774,6 +6013,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleDev/AppleDev.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleDev/AppleDev.list",
@@ -5841,6 +6083,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleFirmware/AppleFirmware.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleFirmware/AppleFirmware.list",
@@ -5907,6 +6152,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleHardware/AppleHardware.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleHardware/AppleHardware.list",
@@ -5981,6 +6229,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleID/AppleID.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleID/AppleID.list",
@@ -6047,6 +6298,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMail/AppleMail.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleMail/AppleMail.list",
@@ -6113,6 +6367,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMedia/AppleMedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleMedia/AppleMedia.list",
@@ -6190,6 +6447,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMusic/AppleMusic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleMusic/AppleMusic.list",
@@ -6264,6 +6524,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleNews/AppleNews.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleNews/AppleNews.list",
@@ -6333,6 +6596,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleProxy/AppleProxy.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleProxy/AppleProxy.list",
@@ -6410,6 +6676,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleTV/AppleTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppleTV/AppleTV.list",
@@ -6476,6 +6745,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppLovin/AppLovin.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppLovin/AppLovin.list",
@@ -6550,6 +6822,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppStore/AppStore.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AppStore/AppStore.list",
@@ -6616,6 +6891,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Arphic/Arphic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Arphic/Arphic.list",
@@ -6683,6 +6961,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Asahi/Asahi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Asahi/Asahi.list",
@@ -6752,6 +7033,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/AsianMedia/AsianMedia.list",
@@ -6826,6 +7110,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Atlassian/Atlassian.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Atlassian/Atlassian.list",
@@ -6892,6 +7179,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Atomdata/Atomdata.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Atomdata/Atomdata.list",
@@ -6958,6 +7248,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ATTWatchTV/ATTWatchTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ATTWatchTV/ATTWatchTV.list",
@@ -7026,6 +7319,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Bahamut/Bahamut.list",
@@ -7092,6 +7388,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Baidu/Baidu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Baidu/Baidu.list",
@@ -7159,6 +7458,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiDuTieBa/BaiDuTieBa.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BaiDuTieBa/BaiDuTieBa.list",
@@ -7225,6 +7527,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiFenDian/BaiFenDian.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BaiFenDian/BaiFenDian.list",
@@ -7291,6 +7596,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaiShanYunKeJi/BaiShanYunKeJi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BaiShanYunKeJi/BaiShanYunKeJi.list",
@@ -7357,6 +7665,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BaoFengYingYin/BaoFengYingYin.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BaoFengYingYin/BaoFengYingYin.list",
@@ -7436,6 +7747,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BardAI/BardAI.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BardAI/BardAI.list",
@@ -7511,6 +7825,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Battle/Battle.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Battle/Battle.list",
@@ -7580,6 +7897,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BBC/BBC.list",
@@ -7646,6 +7966,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Beats/Beats.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Beats/Beats.list",
@@ -7712,6 +8035,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bestbuy/Bestbuy.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Bestbuy/Bestbuy.list",
@@ -7778,6 +8104,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BeStore/BeStore.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BeStore/BeStore.list",
@@ -7844,6 +8173,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BesTV/BesTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BesTV/BesTV.list",
@@ -7910,6 +8242,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BianFeng/BianFeng.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BianFeng/BianFeng.list",
@@ -7988,6 +8323,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BiliBili/BiliBili.list",
@@ -8063,6 +8401,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBiliIntl/BiliBiliIntl.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BiliBiliIntl/BiliBiliIntl.list",
@@ -8129,6 +8470,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Binance/Binance.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Binance/Binance.list",
@@ -8195,6 +8539,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bing/Bing.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Bing/Bing.list",
@@ -8270,6 +8617,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Blizzard/Blizzard.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Blizzard/Blizzard.list",
@@ -8339,6 +8689,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlockHttpDNS/BlockHttpDNS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BlockHttpDNS/BlockHttpDNS.list",
@@ -8405,6 +8758,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bloomberg/Bloomberg.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Bloomberg/Bloomberg.list",
@@ -8471,6 +8827,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Blued/Blued.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Blued/Blued.list",
@@ -8537,6 +8896,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BMW/BMW.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BMW/BMW.list",
@@ -8611,6 +8973,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOC/BOC.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BOC/BOC.list",
@@ -8677,6 +9042,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOCOM/BOCOM.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BOCOM/BOCOM.list",
@@ -8743,6 +9111,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bootcss/Bootcss.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Bootcss/Bootcss.list",
@@ -8809,6 +9180,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BoXun/BoXun.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BoXun/BoXun.list",
@@ -8875,6 +9249,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BrightCove/BrightCove.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BrightCove/BrightCove.list",
@@ -8942,6 +9319,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BritboxUK/BritboxUK.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/BritboxUK/BritboxUK.list",
@@ -9008,6 +9388,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Buypass/Buypass.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Buypass/Buypass.list",
@@ -9077,6 +9460,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ByteDance/ByteDance.list",
@@ -9143,6 +9529,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CableTV/CableTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CableTV/CableTV.list",
@@ -9209,6 +9598,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CaiNiao/CaiNiao.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CaiNiao/CaiNiao.list",
@@ -9275,6 +9667,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CaiXinChuanMei/CaiXinChuanMei.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CaiXinChuanMei/CaiXinChuanMei.list",
@@ -9342,6 +9737,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cake/Cake.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Cake/Cake.list",
@@ -9408,6 +9806,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Camera360/Camera360.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Camera360/Camera360.list",
@@ -9474,6 +9875,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Canon/Canon.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Canon/Canon.list",
@@ -9540,6 +9944,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CAS/CAS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CAS/CAS.list",
@@ -9608,6 +10015,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CBS/CBS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CBS/CBS.list",
@@ -9674,6 +10084,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCB/CCB.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CCB/CCB.list",
@@ -9740,6 +10153,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCTV/CCTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CCTV/CCTV.list",
@@ -9814,6 +10230,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CEB/CEB.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CEB/CEB.list",
@@ -9880,6 +10299,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CETV/CETV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CETV/CETV.list",
@@ -9954,6 +10376,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CGB/CGB.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CGB/CGB.list",
@@ -10020,6 +10445,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChengTongWangPan/ChengTongWangPan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChengTongWangPan/ChengTongWangPan.list",
@@ -10114,6 +10542,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/China/China.list",
@@ -10188,6 +10619,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaASN/ChinaASN.list",
@@ -10274,6 +10708,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaDNS/ChinaDNS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaDNS/ChinaDNS.list",
@@ -10353,6 +10790,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPs.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaIPs/ChinaIPs.list",
@@ -10419,6 +10859,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPsBGP/ChinaIPsBGP.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaIPsBGP/ChinaIPsBGP.list",
@@ -10477,13 +10920,13 @@ window.__RULE_SITE_DATA__ = {
       "group_name_en": "Mainland",
       "topics": [],
       "counts": {
-        "DOMAIN-SUFFIX": 44,
+        "DOMAIN-SUFFIX": 51,
         "DOMAIN-KEYWORD": 13,
         "USER-AGENT": 65,
         "PROCESS-NAME": 12,
         "IP-ASN": 1,
-        "IP-CIDR": 8247,
-        "IP-CIDR6": 4126
+        "IP-CIDR": 8252,
+        "IP-CIDR6": 4127
       },
       "sources": [
         {
@@ -10491,6 +10934,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaMax/ChinaMax.list",
@@ -10549,7 +10995,7 @@ window.__RULE_SITE_DATA__ = {
       "group_name_en": "Mainland",
       "topics": [],
       "counts": {
-        "DOMAIN-SUFFIX": 41,
+        "DOMAIN-SUFFIX": 47,
         "DOMAIN-KEYWORD": 13,
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
@@ -10560,6 +11006,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMaxNoIP/ChinaMaxNoIP.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaMaxNoIP/ChinaMaxNoIP.list",
@@ -10618,13 +11067,13 @@ window.__RULE_SITE_DATA__ = {
       "group_name_en": "Media",
       "topics": [],
       "counts": {
-        "DOMAIN-SUFFIX": 41,
+        "DOMAIN-SUFFIX": 47,
         "DOMAIN-KEYWORD": 11,
         "USER-AGENT": 65,
         "PROCESS-NAME": 12,
         "IP-ASN": 1,
-        "IP-CIDR": 8247,
-        "IP-CIDR6": 4126
+        "IP-CIDR": 8252,
+        "IP-CIDR6": 4127
       },
       "sources": [
         {
@@ -10632,6 +11081,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list",
@@ -10719,6 +11171,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaMedia/ChinaMedia.list",
@@ -10794,6 +11249,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMobile/ChinaMobile.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaMobile/ChinaMobile.list",
@@ -10868,6 +11326,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaNews/ChinaNews.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaNews/ChinaNews.list",
@@ -10938,6 +11399,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaNoMedia/ChinaNoMedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaNoMedia/ChinaNoMedia.list",
@@ -11012,6 +11476,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTelecom/ChinaTelecom.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaTelecom/ChinaTelecom.list",
@@ -11070,7 +11537,7 @@ window.__RULE_SITE_DATA__ = {
       "group_name_en": "Mainland",
       "topics": [],
       "counts": {
-        "DOMAIN-SUFFIX": 44,
+        "DOMAIN-SUFFIX": 51,
         "DOMAIN-KEYWORD": 9,
         "USER-AGENT": 31,
         "IP-CIDR": 11,
@@ -11082,6 +11549,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaTest/ChinaTest.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaTest/ChinaTest.list",
@@ -11157,6 +11627,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaUnicom/ChinaUnicom.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChinaUnicom/ChinaUnicom.list",
@@ -11223,6 +11696,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Chromecast/Chromecast.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Chromecast/Chromecast.list",
@@ -11289,6 +11765,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CHT/CHT.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CHT/CHT.list",
@@ -11355,6 +11834,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChuangKeTie/ChuangKeTie.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChuangKeTie/ChuangKeTie.list",
@@ -11421,6 +11903,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChunYou/ChunYou.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ChunYou/ChunYou.list",
@@ -11487,6 +11972,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CIBN/CIBN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CIBN/CIBN.list",
@@ -11553,6 +12041,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cisco/Cisco.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Cisco/Cisco.list",
@@ -11627,6 +12118,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Civitai/Civitai.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Civitai/Civitai.list",
@@ -11693,6 +12187,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CKJR/CKJR.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CKJR/CKJR.list",
@@ -11759,6 +12256,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Classic/Classic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Classic/Classic.list",
@@ -11838,6 +12338,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Claude/Claude.list",
@@ -11925,6 +12428,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflare/Cloudflare.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Cloudflare/Cloudflare.list",
@@ -11999,6 +12505,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflarecn/Cloudflarecn.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Cloudflarecn/Cloudflarecn.list",
@@ -12074,6 +12583,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Clubhouse/Clubhouse.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Clubhouse/Clubhouse.list",
@@ -12141,6 +12653,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ClubhouseIP/ClubhouseIP.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ClubhouseIP/ClubhouseIP.list",
@@ -12207,6 +12722,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CMB/CMB.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CMB/CMB.list",
@@ -12273,6 +12791,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cnet/Cnet.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Cnet/Cnet.list",
@@ -12339,6 +12860,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNKI/CNKI.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CNKI/CNKI.list",
@@ -12405,6 +12929,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNN/CNN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CNN/CNN.list",
@@ -12471,6 +12998,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CNNIC/CNNIC.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CNNIC/CNNIC.list",
@@ -12537,6 +13067,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Collabora/Collabora.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Collabora/Collabora.list",
@@ -12603,6 +13136,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Comodo/Comodo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Comodo/Comodo.list",
@@ -12669,6 +13205,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Contentful/Contentful.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Contentful/Contentful.list",
@@ -12735,6 +13274,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Coolapk/Coolapk.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Coolapk/Coolapk.list",
@@ -12817,6 +13359,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Copilot/Copilot.list",
@@ -12893,6 +13438,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Crypto/Crypto.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Crypto/Crypto.list",
@@ -12959,6 +13507,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cryptocurrency/Cryptocurrency.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Cryptocurrency/Cryptocurrency.list",
@@ -13025,6 +13576,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CSDN/CSDN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CSDN/CSDN.list",
@@ -13093,6 +13647,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CWSeed/CWSeed.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CWSeed/CWSeed.list",
@@ -13159,6 +13716,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CyberTrust/CyberTrust.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/CyberTrust/CyberTrust.list",
@@ -13225,6 +13785,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dailymail/Dailymail.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Dailymail/Dailymail.list",
@@ -13291,6 +13854,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dailymotion/Dailymotion.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Dailymotion/Dailymotion.list",
@@ -13357,6 +13923,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DaMai/DaMai.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DaMai/DaMai.list",
@@ -13423,6 +13992,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dandanplay/Dandanplay.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Dandanplay/Dandanplay.list",
@@ -13489,6 +14061,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DanDanZan/DanDanZan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DanDanZan/DanDanZan.list",
@@ -13555,6 +14130,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DangDang/DangDang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DangDang/DangDang.list",
@@ -13623,6 +14201,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DAZN/DAZN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DAZN/DAZN.list",
@@ -13689,6 +14270,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dedao/Dedao.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Dedao/Dedao.list",
@@ -13755,6 +14339,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Deepin/Deepin.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Deepin/Deepin.list",
@@ -13822,6 +14409,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Deezer/Deezer.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Deezer/Deezer.list",
@@ -13888,6 +14478,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dell/Dell.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Dell/Dell.list",
@@ -13962,6 +14555,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Developer/Developer.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Developer/Developer.list",
@@ -14028,6 +14624,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiabloIII/DiabloIII.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DiabloIII/DiabloIII.list",
@@ -14094,6 +14693,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DianCeWangKe/DianCeWangKe.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DianCeWangKe/DianCeWangKe.list",
@@ -14160,6 +14762,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiDi/DiDi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DiDi/DiDi.list",
@@ -14226,6 +14831,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigiCert/DigiCert.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DigiCert/DigiCert.list",
@@ -14300,6 +14908,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DigitalOcean/DigitalOcean.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DigitalOcean/DigitalOcean.list",
@@ -14366,6 +14977,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiLianWangLuo/DiLianWangLuo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DiLianWangLuo/DiLianWangLuo.list",
@@ -14432,6 +15046,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DingTalk/DingTalk.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DingTalk/DingTalk.list",
@@ -14498,6 +15115,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DingXiangYuan/DingXiangYuan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DingXiangYuan/DingXiangYuan.list",
@@ -14596,6 +15216,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Direct/Direct.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Direct/Direct.list",
@@ -14674,6 +15297,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Discord/Discord.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Discord/Discord.list",
@@ -14743,6 +15369,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiscoveryPlus/DiscoveryPlus.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DiscoveryPlus/DiscoveryPlus.list",
@@ -14809,6 +15438,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiSiFanShi/DiSiFanShi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DiSiFanShi/DiSiFanShi.list",
@@ -14885,6 +15517,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Disney/Disney.list",
@@ -14951,6 +15586,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disqus/Disqus.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Disqus/Disqus.list",
@@ -15018,6 +15656,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DMM/DMM.list",
@@ -15085,6 +15726,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DNS/DNS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DNS/DNS.list",
@@ -15167,6 +15811,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Docker/Docker.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Docker/Docker.list",
@@ -15233,6 +15880,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Domob/Domob.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Domob/Domob.list",
@@ -15299,6 +15949,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dood/Dood.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Dood/Dood.list",
@@ -15365,6 +16018,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouBan/DouBan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DouBan/DouBan.list",
@@ -15432,6 +16088,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouYin/DouYin.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DouYin/DouYin.list",
@@ -15498,6 +16157,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Douyu/Douyu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Douyu/Douyu.list",
@@ -15567,6 +16229,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Download/Download.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Download/Download.list",
@@ -15645,6 +16310,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dropbox/Dropbox.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Dropbox/Dropbox.list",
@@ -15711,6 +16379,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DtDNS/DtDNS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DtDNS/DtDNS.list",
@@ -15777,6 +16448,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dubox/Dubox.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Dubox/Dubox.list",
@@ -15843,6 +16517,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Duckduckgo/Duckduckgo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Duckduckgo/Duckduckgo.list",
@@ -15909,6 +16586,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Duolingo/Duolingo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Duolingo/Duolingo.list",
@@ -15975,6 +16655,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DuoWan/DuoWan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DuoWan/DuoWan.list",
@@ -16041,6 +16724,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DynDNS/DynDNS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/DynDNS/DynDNS.list",
@@ -16107,6 +16793,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dynu/Dynu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Dynu/Dynu.list",
@@ -16182,6 +16871,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EA/EA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/EA/EA.list",
@@ -16248,6 +16940,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EastMoney/EastMoney.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/EastMoney/EastMoney.list",
@@ -16314,6 +17009,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/eBay/eBay.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/eBay/eBay.list",
@@ -16381,6 +17079,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EHGallery/EHGallery.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/EHGallery/EHGallery.list",
@@ -16447,6 +17148,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Electron/Electron.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Electron/Electron.list",
@@ -16513,6 +17217,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Eleme/Eleme.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Eleme/Eleme.list",
@@ -16579,6 +17286,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Embl/Embl.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Embl/Embl.list",
@@ -16648,6 +17358,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Emby/Emby.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Emby/Emby.list",
@@ -16714,6 +17427,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Emojipedia/Emojipedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Emojipedia/Emojipedia.list",
@@ -16782,6 +17498,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EncoreTVB/EncoreTVB.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/EncoreTVB/EncoreTVB.list",
@@ -16848,6 +17567,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Entrust/Entrust.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Entrust/Entrust.list",
@@ -16922,6 +17644,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Epic/Epic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Epic/Epic.list",
@@ -16989,6 +17714,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Espn/Espn.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Espn/Espn.list",
@@ -17066,6 +17794,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Facebook/Facebook.list",
@@ -17132,6 +17863,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FanFou/FanFou.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FanFou/FanFou.list",
@@ -17198,6 +17932,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FangZhengDianZi/FangZhengDianZi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FangZhengDianZi/FangZhengDianZi.list",
@@ -17264,6 +18001,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Faronics/Faronics.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Faronics/Faronics.list",
@@ -17330,6 +18070,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FeiZhu/FeiZhu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FeiZhu/FeiZhu.list",
@@ -17396,6 +18139,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FengHuangWang/FengHuangWang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FengHuangWang/FengHuangWang.list",
@@ -17462,6 +18208,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FengXiaWangLuo/FengXiaWangLuo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FengXiaWangLuo/FengXiaWangLuo.list",
@@ -17528,6 +18277,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Figma/Figma.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Figma/Figma.list",
@@ -17594,6 +18346,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Fiio/Fiio.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Fiio/Fiio.list",
@@ -17668,6 +18423,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FindMy/FindMy.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FindMy/FindMy.list",
@@ -17734,6 +18492,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FitnessPlus/FitnessPlus.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FitnessPlus/FitnessPlus.list",
@@ -17800,6 +18561,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FlipBoard/FlipBoard.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FlipBoard/FlipBoard.list",
@@ -17866,6 +18630,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Flurry/Flurry.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Flurry/Flurry.list",
@@ -17933,6 +18700,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Fox/Fox.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Fox/Fox.list",
@@ -18000,6 +18770,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FOXNOW/FOXNOW.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FOXNOW/FOXNOW.list",
@@ -18067,6 +18840,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FOXPlus/FOXPlus.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FOXPlus/FOXPlus.list",
@@ -18133,6 +18909,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FreeCodeCamp/FreeCodeCamp.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FreeCodeCamp/FreeCodeCamp.list",
@@ -18199,6 +18978,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/friDay/friDay.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/friDay/friDay.list",
@@ -18265,6 +19047,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FuboTV/FuboTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/FuboTV/FuboTV.list",
@@ -18331,6 +19116,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Funshion/Funshion.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Funshion/Funshion.list",
@@ -18408,6 +19196,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Game/Game.list",
@@ -18485,6 +19276,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GamePlatforms/GamePlatforms.list",
@@ -18551,6 +19345,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GaoDe/GaoDe.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GaoDe/GaoDe.list",
@@ -18617,6 +19414,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Garena/Garena.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Garena/Garena.list",
@@ -18683,6 +19483,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Geely/Geely.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Geely/Geely.list",
@@ -18767,6 +19570,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Gemini/Gemini.list",
@@ -18833,6 +19639,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gettyimages/Gettyimages.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Gettyimages/Gettyimages.list",
@@ -18899,6 +19708,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gigabyte/Gigabyte.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Gigabyte/Gigabyte.list",
@@ -18973,6 +19785,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitBook/GitBook.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GitBook/GitBook.list",
@@ -19047,6 +19862,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gitee/Gitee.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Gitee/Gitee.list",
@@ -19138,6 +19956,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GitHub/GitHub.list",
@@ -19212,6 +20033,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitLab/GitLab.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GitLab/GitLab.list",
@@ -19282,6 +20106,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Global/Global.list",
@@ -19362,6 +20189,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GlobalMedia/GlobalMedia.list",
@@ -19429,6 +20259,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalScholar/GlobalScholar.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GlobalScholar/GlobalScholar.list",
@@ -19495,6 +20328,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalSign/GlobalSign.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GlobalSign/GlobalSign.list",
@@ -19562,6 +20398,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gog/Gog.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Gog/Gog.list",
@@ -19658,6 +20497,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Google/Google.list",
@@ -19727,6 +20569,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleDrive/GoogleDrive.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GoogleDrive/GoogleDrive.list",
@@ -19793,6 +20638,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleEarth/GoogleEarth.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GoogleEarth/GoogleEarth.list",
@@ -19868,6 +20716,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleFCM/GoogleFCM.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GoogleFCM/GoogleFCM.list",
@@ -19934,6 +20785,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleSearch/GoogleSearch.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GoogleSearch/GoogleSearch.list",
@@ -20000,6 +20854,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleVoice/GoogleVoice.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GoogleVoice/GoogleVoice.list",
@@ -20074,6 +20931,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GovCN/GovCN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GovCN/GovCN.list",
@@ -20140,6 +21000,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gucci/Gucci.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Gucci/Gucci.list",
@@ -20206,6 +21069,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GuiGuDongLi/GuiGuDongLi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/GuiGuDongLi/GuiGuDongLi.list",
@@ -20273,6 +21139,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HaiNanHangKong/HaiNanHangKong.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HaiNanHangKong/HaiNanHangKong.list",
@@ -20341,6 +21210,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HamiVideo/HamiVideo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HamiVideo/HamiVideo.list",
@@ -20408,6 +21280,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HanYi/HanYi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HanYi/HanYi.list",
@@ -20482,6 +21357,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HashiCorp/HashiCorp.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HashiCorp/HashiCorp.list",
@@ -20548,6 +21426,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Haveibeenpwned/Haveibeenpwned.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Haveibeenpwned/Haveibeenpwned.list",
@@ -20616,6 +21497,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBO/HBO.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HBO/HBO.list",
@@ -20685,6 +21569,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOAsia/HBOAsia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HBOAsia/HBOAsia.list",
@@ -20752,6 +21639,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOHK/HBOHK.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HBOHK/HBOHK.list",
@@ -20821,6 +21711,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOUSA/HBOUSA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HBOUSA/HBOUSA.list",
@@ -20887,6 +21780,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hearthstone/Hearthstone.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Hearthstone/Hearthstone.list",
@@ -20953,6 +21849,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeMa/HeMa.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HeMa/HeMa.list",
@@ -21019,6 +21918,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HeroesoftheStorm/HeroesoftheStorm.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HeroesoftheStorm/HeroesoftheStorm.list",
@@ -21085,6 +21987,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Heroku/Heroku.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Heroku/Heroku.list",
@@ -21151,6 +22056,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HibyMusic/HibyMusic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HibyMusic/HibyMusic.list",
@@ -21227,6 +22135,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hijacking/Hijacking.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Hijacking/Hijacking.list",
@@ -21294,6 +22205,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Himalaya/Himalaya.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Himalaya/Himalaya.list",
@@ -21360,6 +22274,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKBN/HKBN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HKBN/HKBN.list",
@@ -21426,6 +22343,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKedcity/HKedcity.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HKedcity/HKedcity.list",
@@ -21492,6 +22412,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hkgolden/Hkgolden.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Hkgolden/Hkgolden.list",
@@ -21558,6 +22481,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HKOpenTV/HKOpenTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HKOpenTV/HKOpenTV.list",
@@ -21624,6 +22550,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HoYoverse/HoYoverse.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HoYoverse/HoYoverse.list",
@@ -21690,6 +22619,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HP/HP.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HP/HP.list",
@@ -21756,6 +22688,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hpplay/Hpplay.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Hpplay/Hpplay.list",
@@ -21822,6 +22757,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuanJu/HuanJu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HuanJu/HuanJu.list",
@@ -21888,6 +22826,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuaShuTV/HuaShuTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HuaShuTV/HuaShuTV.list",
@@ -21954,6 +22895,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Huawei/Huawei.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Huawei/Huawei.list",
@@ -22020,6 +22964,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Huffpost/Huffpost.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Huffpost/Huffpost.list",
@@ -22096,6 +23043,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hulu/Hulu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Hulu/Hulu.list",
@@ -22162,6 +23112,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuluJP/HuluJP.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HuluJP/HuluJP.list",
@@ -22229,6 +23182,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuluUSA/HuluUSA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HuluUSA/HuluUSA.list",
@@ -22296,6 +23252,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HunanTV/HunanTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HunanTV/HunanTV.list",
@@ -22362,6 +23321,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hupu/Hupu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Hupu/Hupu.list",
@@ -22428,6 +23390,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuYa/HuYa.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HuYa/HuYa.list",
@@ -22495,6 +23460,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HWTV/HWTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/HWTV/HWTV.list",
@@ -22561,6 +23529,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IBM/IBM.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/IBM/IBM.list",
@@ -22635,6 +23606,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ICBC/ICBC.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ICBC/ICBC.list",
@@ -22714,6 +23688,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iCloud/iCloud.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/iCloud/iCloud.list",
@@ -22789,6 +23766,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iCloudPrivateRelay/iCloudPrivateRelay.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/iCloudPrivateRelay/iCloudPrivateRelay.list",
@@ -22855,6 +23835,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Identrust/Identrust.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Identrust/Identrust.list",
@@ -22921,6 +23904,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ifanr/ifanr.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ifanr/ifanr.list",
@@ -22987,6 +23973,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iFlytek/iFlytek.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/iFlytek/iFlytek.list",
@@ -23053,6 +24042,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IKEA/IKEA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/IKEA/IKEA.list",
@@ -23119,6 +24111,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IMDB/IMDB.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/IMDB/IMDB.list",
@@ -23185,6 +24180,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Imgur/Imgur.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Imgur/Imgur.list",
@@ -23260,6 +24258,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Instagram/Instagram.list",
@@ -23326,6 +24327,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Intel/Intel.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Intel/Intel.list",
@@ -23392,6 +24396,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Intercom/Intercom.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Intercom/Intercom.list",
@@ -23459,6 +24466,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IPTVMainland/IPTVMainland.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/IPTVMainland/IPTVMainland.list",
@@ -23525,6 +24535,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/IPTVOther/IPTVOther.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/IPTVOther/IPTVOther.list",
@@ -23595,6 +24608,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYI/iQIYI.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/iQIYI/iQIYI.list",
@@ -23664,6 +24680,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYIIntl/iQIYIIntl.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/iQIYIIntl/iQIYIIntl.list",
@@ -23731,6 +24750,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iTalkBB/iTalkBB.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/iTalkBB/iTalkBB.list",
@@ -23799,6 +24821,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ITV/ITV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ITV/ITV.list",
@@ -23866,6 +24891,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Japonx/Japonx.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Japonx/Japonx.list",
@@ -23940,6 +24968,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jetbrains/Jetbrains.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Jetbrains/Jetbrains.list",
@@ -24014,6 +25045,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jfrog/Jfrog.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Jfrog/Jfrog.list",
@@ -24080,6 +25114,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JianGuoYun/JianGuoYun.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/JianGuoYun/JianGuoYun.list",
@@ -24146,6 +25183,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JianShu/JianShu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/JianShu/JianShu.list",
@@ -24212,6 +25252,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/JiGuangTuiSong/JiGuangTuiSong.list",
@@ -24278,6 +25321,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/JingDong/JingDong.list",
@@ -24345,6 +25391,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JinJiangWenXue/JinJiangWenXue.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/JinJiangWenXue/JinJiangWenXue.list",
@@ -24415,6 +25464,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JOOX/JOOX.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/JOOX/JOOX.list",
@@ -24481,6 +25533,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jquery/Jquery.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Jquery/Jquery.list",
@@ -24547,6 +25602,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jsdelivr/Jsdelivr.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Jsdelivr/Jsdelivr.list",
@@ -24613,6 +25671,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JueJin/JueJin.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/JueJin/JueJin.list",
@@ -24679,6 +25740,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Jwplayer/Jwplayer.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Jwplayer/Jwplayer.list",
@@ -24754,6 +25818,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KakaoTalk/KakaoTalk.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KakaoTalk/KakaoTalk.list",
@@ -24820,6 +25887,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Kantv/Kantv.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Kantv/Kantv.list",
@@ -24886,6 +25956,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Keep/Keep.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Keep/Keep.list",
@@ -24952,6 +26025,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KingSmith/KingSmith.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KingSmith/KingSmith.list",
@@ -25018,6 +26094,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Kingsoft/Kingsoft.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Kingsoft/Kingsoft.list",
@@ -25084,6 +26163,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KKBOX/KKBOX.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KKBOX/KKBOX.list",
@@ -25152,6 +26234,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KKTV/KKTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KKTV/KKTV.list",
@@ -25218,6 +26303,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KouDaiShiShang/KouDaiShiShang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KouDaiShiShang/KouDaiShiShang.list",
@@ -25284,6 +26372,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ku6/Ku6.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Ku6/Ku6.list",
@@ -25350,6 +26441,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuaiDi100/KuaiDi100.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KuaiDi100/KuaiDi100.list",
@@ -25416,6 +26510,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuaiShou/KuaiShou.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KuaiShou/KuaiShou.list",
@@ -25483,6 +26580,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuangShi/KuangShi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KuangShi/KuangShi.list",
@@ -25550,6 +26650,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KugouKuwo/KugouKuwo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KugouKuwo/KugouKuwo.list",
@@ -25616,6 +26719,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KuKeMusic/KuKeMusic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/KuKeMusic/KuKeMusic.list",
@@ -25685,6 +26791,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lan/Lan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Lan/Lan.list",
@@ -25751,6 +26860,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LanZouYun/LanZouYun.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LanZouYun/LanZouYun.list",
@@ -25818,6 +26930,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LastFM/LastFM.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LastFM/LastFM.list",
@@ -25886,6 +27001,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LastPass/LastPass.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LastPass/LastPass.list",
@@ -25952,6 +27070,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LeJu/LeJu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LeJu/LeJu.list",
@@ -26018,6 +27139,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lenovo/Lenovo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Lenovo/Lenovo.list",
@@ -26084,6 +27208,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LeTV/LeTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LeTV/LeTV.list",
@@ -26152,6 +27279,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LG/LG.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LG/LG.list",
@@ -26218,6 +27348,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LianMeng/LianMeng.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LianMeng/LianMeng.list",
@@ -26284,6 +27417,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Limelight/Limelight.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Limelight/Limelight.list",
@@ -26359,6 +27495,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Line/Line.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Line/Line.list",
@@ -26428,6 +27567,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LineTV/LineTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LineTV/LineTV.list",
@@ -26494,6 +27636,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Linguee/Linguee.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Linguee/Linguee.list",
@@ -26561,6 +27706,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LinkedIn/LinkedIn.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LinkedIn/LinkedIn.list",
@@ -26627,6 +27775,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Linux/Linux.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Linux/Linux.list",
@@ -26694,6 +27845,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LiTV/LiTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LiTV/LiTV.list",
@@ -26760,6 +27914,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LivePerson/LivePerson.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LivePerson/LivePerson.list",
@@ -26826,6 +27983,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Logitech/Logitech.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Logitech/Logitech.list",
@@ -26892,6 +28052,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LondonReal/LondonReal.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LondonReal/LondonReal.list",
@@ -26958,6 +28121,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LuDaShi/LuDaShi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LuDaShi/LuDaShi.list",
@@ -27024,6 +28190,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/LvMiLianChuang/LvMiLianChuang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/LvMiLianChuang/LvMiLianChuang.list",
@@ -27099,6 +28268,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mail/Mail.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Mail/Mail.list",
@@ -27165,6 +28337,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mailru/Mailru.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Mailru/Mailru.list",
@@ -27231,6 +28406,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Majsoul/Majsoul.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Majsoul/Majsoul.list",
@@ -27297,6 +28475,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Manorama/Manorama.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Manorama/Manorama.list",
@@ -27363,6 +28544,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Maocloud/Maocloud.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Maocloud/Maocloud.list",
@@ -27429,6 +28613,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Marketing/Marketing.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Marketing/Marketing.list",
@@ -27495,6 +28682,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/McDonalds/McDonalds.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/McDonalds/McDonalds.list",
@@ -27564,6 +28754,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MEGA/MEGA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MEGA/MEGA.list",
@@ -27630,6 +28823,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTu/MeiTu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MeiTu/MeiTu.list",
@@ -27696,6 +28892,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTuan/MeiTuan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MeiTuan/MeiTuan.list",
@@ -27762,6 +28961,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiZu/MeiZu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MeiZu/MeiZu.list",
@@ -27828,6 +29030,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeWatch/MeWatch.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MeWatch/MeWatch.list",
@@ -27925,6 +29130,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Microsoft.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Microsoft/Microsoft.list",
@@ -27991,6 +29199,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MicrosoftEdge/MicrosoftEdge.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MicrosoftEdge/MicrosoftEdge.list",
@@ -28058,6 +29269,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Migu/Migu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Migu/Migu.list",
@@ -28124,6 +29338,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MingLueZhaoHui/MingLueZhaoHui.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MingLueZhaoHui/MingLueZhaoHui.list",
@@ -28190,6 +29407,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MIUIPrivacy/MIUIPrivacy.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MIUIPrivacy/MIUIPrivacy.list",
@@ -28256,6 +29476,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MiWu/MiWu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MiWu/MiWu.list",
@@ -28322,6 +29545,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mogujie/Mogujie.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Mogujie/Mogujie.list",
@@ -28388,6 +29614,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mojitianqi/Mojitianqi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Mojitianqi/Mojitianqi.list",
@@ -28454,6 +29683,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOMOShop/MOMOShop.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MOMOShop/MOMOShop.list",
@@ -28520,6 +29752,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOOMusic/MOOMusic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MOOMusic/MOOMusic.list",
@@ -28586,6 +29821,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MOOV/MOOV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/MOOV/MOOV.list",
@@ -28652,6 +29890,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Movefree/Movefree.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Movefree/Movefree.list",
@@ -28718,6 +29959,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mozilla/Mozilla.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Mozilla/Mozilla.list",
@@ -28786,6 +30030,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/My5/My5.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/My5/My5.list",
@@ -28855,6 +30102,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/myTVSUPER/myTVSUPER.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/myTVSUPER/myTVSUPER.list",
@@ -28923,6 +30173,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NaSDDNS/NaSDDNS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NaSDDNS/NaSDDNS.list",
@@ -28994,6 +30247,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Naver/Naver.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Naver/Naver.list",
@@ -29061,6 +30317,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NaverTV/NaverTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NaverTV/NaverTV.list",
@@ -29128,6 +30387,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NBC/NBC.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NBC/NBC.list",
@@ -29196,6 +30458,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/NetEase.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NetEase/NetEase.list",
@@ -29265,6 +30530,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEaseMusic/NetEaseMusic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NetEaseMusic/NetEaseMusic.list",
@@ -29353,6 +30621,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Netflix/Netflix.list",
@@ -29419,6 +30690,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NGA/NGA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NGA/NGA.list",
@@ -29485,6 +30759,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NGAA/NGAA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NGAA/NGAA.list",
@@ -29552,6 +30829,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Niconico/Niconico.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Niconico/Niconico.list",
@@ -29618,6 +30898,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nike/Nike.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Nike/Nike.list",
@@ -29684,6 +30967,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nikkei/Nikkei.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Nikkei/Nikkei.list",
@@ -29759,6 +31045,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nintendo/Nintendo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Nintendo/Nintendo.list",
@@ -29826,6 +31115,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NivodTV/NivodTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NivodTV/NivodTV.list",
@@ -29901,6 +31193,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Notion/Notion.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Notion/Notion.list",
@@ -29967,6 +31262,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NowE/NowE.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NowE/NowE.list",
@@ -30041,6 +31339,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Npmjs/Npmjs.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Npmjs/Npmjs.list",
@@ -30107,6 +31408,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NTPService/NTPService.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NTPService/NTPService.list",
@@ -30173,6 +31477,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Nvidia/Nvidia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Nvidia/Nvidia.list",
@@ -30239,6 +31546,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYPost/NYPost.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NYPost/NYPost.list",
@@ -30305,6 +31615,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NYTimes/NYTimes.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/NYTimes/NYTimes.list",
@@ -30371,6 +31684,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OKX/OKX.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/OKX/OKX.list",
@@ -30438,6 +31754,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Olevod/Olevod.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Olevod/Olevod.list",
@@ -30518,6 +31837,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OneDrive/OneDrive.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/OneDrive/OneDrive.list",
@@ -30584,6 +31906,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OnePlus/OnePlus.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/OnePlus/OnePlus.list",
@@ -30650,6 +31975,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OP/OP.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/OP/OP.list",
@@ -30737,6 +32065,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/OpenAI/OpenAI.list",
@@ -30805,6 +32136,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Opera/Opera.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Opera/Opera.list",
@@ -30871,6 +32205,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OPPO/OPPO.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/OPPO/OPPO.list",
@@ -30945,6 +32282,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oracle/Oracle.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Oracle/Oracle.list",
@@ -31011,6 +32351,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oreilly/Oreilly.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Oreilly/Oreilly.list",
@@ -31078,6 +32421,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Origin/Origin.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Origin/Origin.list",
@@ -31144,6 +32490,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OuPeng/OuPeng.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/OuPeng/OuPeng.list",
@@ -31211,6 +32560,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Overcast/Overcast.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Overcast/Overcast.list",
@@ -31277,6 +32629,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Overwatch/Overwatch.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Overwatch/Overwatch.list",
@@ -31344,6 +32699,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pandora/Pandora.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Pandora/Pandora.list",
@@ -31410,6 +32768,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PandoraTV/PandoraTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PandoraTV/PandoraTV.list",
@@ -31478,6 +32839,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ParamountPlus/ParamountPlus.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ParamountPlus/ParamountPlus.list",
@@ -31545,6 +32909,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Patreon/Patreon.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Patreon/Patreon.list",
@@ -31621,6 +32988,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PayPal/PayPal.list",
@@ -31688,6 +33058,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PBS/PBS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PBS/PBS.list",
@@ -31754,6 +33127,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PCCW/PCCW.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PCCW/PCCW.list",
@@ -31820,6 +33196,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PChome/PChome.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PChome/PChome.list",
@@ -31886,6 +33265,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PChomeTW/PChomeTW.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PChomeTW/PChomeTW.list",
@@ -31953,6 +33335,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Peacock/Peacock.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Peacock/Peacock.list",
@@ -32019,6 +33404,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Picacg/Picacg.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Picacg/Picacg.list",
@@ -32085,6 +33473,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Picsee/Picsee.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Picsee/Picsee.list",
@@ -32152,6 +33543,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PikPak/PikPak.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PikPak/PikPak.list",
@@ -32218,6 +33612,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pinduoduo/Pinduoduo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Pinduoduo/Pinduoduo.list",
@@ -32284,6 +33681,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PingAn/PingAn.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PingAn/PingAn.list",
@@ -32350,6 +33750,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pinterest/Pinterest.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Pinterest/Pinterest.list",
@@ -32416,6 +33819,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixiv/Pixiv.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Pixiv/Pixiv.list",
@@ -32482,6 +33888,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixnet/Pixnet.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Pixnet/Pixnet.list",
@@ -32556,6 +33965,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PlayStation/PlayStation.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PlayStation/PlayStation.list",
@@ -32622,6 +34034,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PotatoChat/PotatoChat.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PotatoChat/PotatoChat.list",
@@ -32688,6 +34103,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PPTV/PPTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PPTV/PPTV.list",
@@ -32765,6 +34183,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrimeVideo/PrimeVideo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PrimeVideo/PrimeVideo.list",
@@ -32832,6 +34253,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Privacy.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Privacy/Privacy.list",
@@ -32901,6 +34325,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PrivateTracker/PrivateTracker.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PrivateTracker/PrivateTracker.list",
@@ -32967,6 +34394,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Protonmail/Protonmail.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Protonmail/Protonmail.list",
@@ -33059,6 +34489,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Proxy/Proxy.list",
@@ -33130,6 +34563,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ProxyLite/ProxyLite.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ProxyLite/ProxyLite.list",
@@ -33196,6 +34632,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PSBC/PSBC.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/PSBC/PSBC.list",
@@ -33262,6 +34701,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pubmatic/Pubmatic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Pubmatic/Pubmatic.list",
@@ -33328,6 +34770,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Purikonejp/Purikonejp.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Purikonejp/Purikonejp.list",
@@ -33394,6 +34839,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Python/Python.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Python/Python.list",
@@ -33460,6 +34908,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QingCloud/QingCloud.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/QingCloud/QingCloud.list",
@@ -33526,6 +34977,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QiNiuYun/QiNiuYun.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/QiNiuYun/QiNiuYun.list",
@@ -33593,6 +35047,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qobuz/Qobuz.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Qobuz/Qobuz.list",
@@ -33659,6 +35116,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qualcomm/Qualcomm.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Qualcomm/Qualcomm.list",
@@ -33726,6 +35186,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/QuickConnect/QuickConnect.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/QuickConnect/QuickConnect.list",
@@ -33792,6 +35255,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Qyyjt/Qyyjt.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Qyyjt/Qyyjt.list",
@@ -33858,6 +35324,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rakuten/Rakuten.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Rakuten/Rakuten.list",
@@ -33924,6 +35393,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rarbg/Rarbg.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Rarbg/Rarbg.list",
@@ -33990,6 +35462,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Razer/Razer.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Razer/Razer.list",
@@ -34056,6 +35531,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reabble/Reabble.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Reabble/Reabble.list",
@@ -34134,6 +35612,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reddit/Reddit.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Reddit/Reddit.list",
@@ -34208,6 +35689,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Riot/Riot.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Riot/Riot.list",
@@ -34274,6 +35758,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Rockstar/Rockstar.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Rockstar/Rockstar.list",
@@ -34341,6 +35828,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/RTHK/RTHK.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/RTHK/RTHK.list",
@@ -34407,6 +35897,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/RuanMei/RuanMei.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/RuanMei/RuanMei.list",
@@ -34473,6 +35966,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Salesforce/Salesforce.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Salesforce/Salesforce.list",
@@ -34539,6 +36035,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Samsung/Samsung.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Samsung/Samsung.list",
@@ -34605,6 +36104,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scaleflex/Scaleflex.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Scaleflex/Scaleflex.list",
@@ -34672,6 +36174,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scholar/Scholar.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Scholar/Scholar.list",
@@ -34738,6 +36243,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sectigo/Sectigo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Sectigo/Sectigo.list",
@@ -34804,6 +36312,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SFExpress/SFExpress.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SFExpress/SFExpress.list",
@@ -34870,6 +36381,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShangHaiJuXiao/ShangHaiJuXiao.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ShangHaiJuXiao/ShangHaiJuXiao.list",
@@ -34936,6 +36450,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Shanling/Shanling.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Shanling/Shanling.list",
@@ -35002,6 +36519,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sharethis/Sharethis.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Sharethis/Sharethis.list",
@@ -35068,6 +36588,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShenMa/ShenMa.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ShenMa/ShenMa.list",
@@ -35134,6 +36657,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShiJiChaoXing/ShiJiChaoXing.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ShiJiChaoXing/ShiJiChaoXing.list",
@@ -35200,6 +36726,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ShiNongZhiKe/ShiNongZhiKe.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ShiNongZhiKe/ShiNongZhiKe.list",
@@ -35266,6 +36795,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Shopee/Shopee.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Shopee/Shopee.list",
@@ -35332,6 +36864,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Shopify/Shopify.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Shopify/Shopify.list",
@@ -35399,6 +36934,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Sina/Sina.list",
@@ -35473,6 +37011,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Siri/Siri.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Siri/Siri.list",
@@ -35541,6 +37082,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SkyGO/SkyGO.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SkyGO/SkyGO.list",
@@ -35615,6 +37159,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Slack/Slack.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Slack/Slack.list",
@@ -35681,6 +37228,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SlideShare/SlideShare.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SlideShare/SlideShare.list",
@@ -35747,6 +37297,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sling/Sling.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Sling/Sling.list",
@@ -35813,6 +37366,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SmarTone/SmarTone.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SmarTone/SmarTone.list",
@@ -35879,6 +37435,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SMG/SMG.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SMG/SMG.list",
@@ -35945,6 +37504,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SMZDM/SMZDM.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SMZDM/SMZDM.list",
@@ -36011,6 +37573,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Snap/Snap.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Snap/Snap.list",
@@ -36077,6 +37642,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sohu/Sohu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Sohu/Sohu.list",
@@ -36144,6 +37712,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sony/Sony.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Sony/Sony.list",
@@ -36210,6 +37781,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SouFang/SouFang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SouFang/SouFang.list",
@@ -36277,6 +37851,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SoundCloud/SoundCloud.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SoundCloud/SoundCloud.list",
@@ -36351,6 +37928,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SourceForge/SourceForge.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SourceForge/SourceForge.list",
@@ -36417,6 +37997,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spark/Spark.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Spark/Spark.list",
@@ -36493,6 +38076,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Speedtest.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Speedtest/Speedtest.list",
@@ -36576,6 +38162,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spotify/Spotify.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Spotify/Spotify.list",
@@ -36642,6 +38231,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Stackexchange/Stackexchange.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Stackexchange/Stackexchange.list",
@@ -36708,6 +38300,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Starbucks/Starbucks.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Starbucks/Starbucks.list",
@@ -36774,6 +38369,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/StarCraftII/StarCraftII.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/StarCraftII/StarCraftII.list",
@@ -36854,6 +38452,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Steam/Steam.list",
@@ -36929,6 +38530,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SteamCN/SteamCN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SteamCN/SteamCN.list",
@@ -36995,6 +38599,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Stripe/Stripe.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Stripe/Stripe.list",
@@ -37062,6 +38669,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/STUN/STUN.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/STUN/STUN.list",
@@ -37128,6 +38738,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SublimeText/SublimeText.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SublimeText/SublimeText.list",
@@ -37194,6 +38807,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SuiShiChuanMei/SuiShiChuanMei.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SuiShiChuanMei/SuiShiChuanMei.list",
@@ -37260,6 +38876,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SuNing/SuNing.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SuNing/SuNing.list",
@@ -37327,6 +38946,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Supercell/Supercell.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Supercell/Supercell.list",
@@ -37395,6 +39017,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Synology/Synology.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Synology/Synology.list",
@@ -37462,6 +39087,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/SystemOTA/SystemOTA.list",
@@ -37529,6 +39157,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiheMusic/TaiheMusic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TaiheMusic/TaiheMusic.list",
@@ -37595,6 +39226,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiKang/TaiKang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TaiKang/TaiKang.list",
@@ -37663,6 +39297,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TaiWanGood/TaiWanGood.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TaiWanGood/TaiWanGood.list",
@@ -37729,6 +39366,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TapTap/TapTap.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TapTap/TapTap.list",
@@ -37795,6 +39435,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TCL/TCL.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TCL/TCL.list",
@@ -37861,6 +39504,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Teambition/Teambition.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Teambition/Teambition.list",
@@ -37936,6 +39582,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Teams/Teams.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Teams/Teams.list",
@@ -38004,6 +39653,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TeamViewer/TeamViewer.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TeamViewer/TeamViewer.list",
@@ -38100,6 +39752,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Telegram/Telegram.list",
@@ -38167,6 +39822,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TelegramNL/TelegramNL.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TelegramNL/TelegramNL.list",
@@ -38234,6 +39892,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TelegramSG/TelegramSG.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TelegramSG/TelegramSG.list",
@@ -38301,6 +39962,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TelegramUS/TelegramUS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TelegramUS/TelegramUS.list",
@@ -38368,6 +40032,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tencent/Tencent.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Tencent/Tencent.list",
@@ -38437,6 +40104,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TencentVideo/TencentVideo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TencentVideo/TencentVideo.list",
@@ -38503,6 +40173,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TeraBox/TeraBox.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TeraBox/TeraBox.list",
@@ -38569,6 +40242,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tesla/Tesla.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Tesla/Tesla.list",
@@ -38644,6 +40320,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TestFlight/TestFlight.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TestFlight/TestFlight.list",
@@ -38710,6 +40389,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ThomsonReuters/ThomsonReuters.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ThomsonReuters/ThomsonReuters.list",
@@ -38784,6 +40466,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Threads/Threads.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Threads/Threads.list",
@@ -38850,6 +40535,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianTianKanKan/TianTianKanKan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TianTianKanKan/TianTianKanKan.list",
@@ -38916,6 +40604,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianWeiChengXin/TianWeiChengXin.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TianWeiChengXin/TianWeiChengXin.list",
@@ -38982,6 +40673,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TianYaForum/TianYaForum.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TianYaForum/TianYaForum.list",
@@ -39049,6 +40743,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TIDAL/TIDAL.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TIDAL/TIDAL.list",
@@ -39115,6 +40812,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TigerFintech/TigerFintech.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TigerFintech/TigerFintech.list",
@@ -39201,6 +40901,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TikTok/TikTok.list",
@@ -39267,6 +40970,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tmdb/Tmdb.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Tmdb/Tmdb.list",
@@ -39333,6 +41039,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TongCheng/TongCheng.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TongCheng/TongCheng.list",
@@ -39399,6 +41108,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TrustWave/TrustWave.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TrustWave/TrustWave.list",
@@ -39465,6 +41177,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TruthSocial/TruthSocial.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TruthSocial/TruthSocial.list",
@@ -39531,6 +41246,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tumblr/Tumblr.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Tumblr/Tumblr.list",
@@ -39599,6 +41317,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVB/TVB.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TVB/TVB.list",
@@ -39666,6 +41387,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVer/TVer.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/TVer/TVer.list",
@@ -39744,6 +41468,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitch/Twitch.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Twitch/Twitch.list",
@@ -39820,6 +41547,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Twitter/Twitter.list",
@@ -39886,6 +41616,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/U17/U17.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/U17/U17.list",
@@ -39952,6 +41685,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UBI/UBI.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/UBI/UBI.list",
@@ -40026,6 +41762,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ubisoft/Ubisoft.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Ubisoft/Ubisoft.list",
@@ -40092,6 +41831,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Ubuntu/Ubuntu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Ubuntu/Ubuntu.list",
@@ -40158,6 +41900,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/UC/UC.list",
@@ -40224,6 +41969,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UCloud/UCloud.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/UCloud/UCloud.list",
@@ -40290,6 +42038,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Udacity/Udacity.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Udacity/Udacity.list",
@@ -40359,6 +42110,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UKMedia/UKMedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/UKMedia/UKMedia.list",
@@ -40425,6 +42179,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UnionPay/UnionPay.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/UnionPay/UnionPay.list",
@@ -40491,6 +42248,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Unity/Unity.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Unity/Unity.list",
@@ -40557,6 +42317,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UPYun/UPYun.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/UPYun/UPYun.list",
@@ -40626,6 +42389,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/USMedia/USMedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/USMedia/USMedia.list",
@@ -40692,6 +42458,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vancl/Vancl.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Vancl/Vancl.list",
@@ -40766,6 +42535,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vercel/Vercel.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Vercel/Vercel.list",
@@ -40832,6 +42604,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Verisign/Verisign.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Verisign/Verisign.list",
@@ -40898,6 +42673,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Verizon/Verizon.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Verizon/Verizon.list",
@@ -40964,6 +42742,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VidolTV/VidolTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/VidolTV/VidolTV.list",
@@ -41030,6 +42811,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VikACG/VikACG.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/VikACG/VikACG.list",
@@ -41096,6 +42880,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Viki/Viki.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Viki/Viki.list",
@@ -41162,6 +42949,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vimeo/Vimeo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Vimeo/Vimeo.list",
@@ -41228,6 +43018,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VipShop/VipShop.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/VipShop/VipShop.list",
@@ -41294,6 +43087,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VISA/VISA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/VISA/VISA.list",
@@ -41362,6 +43158,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ViuTV/ViuTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ViuTV/ViuTV.list",
@@ -41428,6 +43227,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Vivo/Vivo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Vivo/Vivo.list",
@@ -41494,6 +43296,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VK/VK.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/VK/VK.list",
@@ -41560,6 +43365,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/VOA/VOA.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/VOA/VOA.list",
@@ -41626,6 +43434,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Voxmedia/Voxmedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Voxmedia/Voxmedia.list",
@@ -41692,6 +43503,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/W3schools/W3schools.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/W3schools/W3schools.list",
@@ -41758,6 +43572,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wanfang/Wanfang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Wanfang/Wanfang.list",
@@ -41824,6 +43641,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WangSuKeJi/WangSuKeJi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WangSuKeJi/WangSuKeJi.list",
@@ -41890,6 +43710,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WangXinKeJi/WangXinKeJi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WangXinKeJi/WangXinKeJi.list",
@@ -41956,6 +43779,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WanKaHuanJu/WanKaHuanJu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WanKaHuanJu/WanKaHuanJu.list",
@@ -42022,6 +43848,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WanMeiShiJie/WanMeiShiJie.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WanMeiShiJie/WanMeiShiJie.list",
@@ -42102,6 +43931,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WeChat/WeChat.list",
@@ -42169,6 +44001,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Weibo/Weibo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Weibo/Weibo.list",
@@ -42235,6 +44070,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeiZhiYunDong/WeiZhiYunDong.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WeiZhiYunDong/WeiZhiYunDong.list",
@@ -42301,6 +44139,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WenJuanXing/WenJuanXing.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WenJuanXing/WenJuanXing.list",
@@ -42367,6 +44208,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Westerndigital/Westerndigital.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Westerndigital/Westerndigital.list",
@@ -42437,6 +44281,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeTV/WeTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WeTV/WeTV.list",
@@ -42503,6 +44350,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeType/WeType.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WeType/WeType.list",
@@ -42580,6 +44430,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Whatsapp/Whatsapp.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Whatsapp/Whatsapp.list",
@@ -42646,6 +44499,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WiFiMaster/WiFiMaster.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WiFiMaster/WiFiMaster.list",
@@ -42712,6 +44568,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wikimedia/Wikimedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Wikimedia/Wikimedia.list",
@@ -42778,6 +44637,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wikipedia/Wikipedia.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Wikipedia/Wikipedia.list",
@@ -42844,6 +44706,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WildRift/WildRift.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WildRift/WildRift.list",
@@ -42910,6 +44775,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WIX/WIX.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WIX/WIX.list",
@@ -42976,6 +44844,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WoLai/WoLai.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WoLai/WoLai.list",
@@ -43042,6 +44913,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wordpress/Wordpress.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Wordpress/Wordpress.list",
@@ -43108,6 +44982,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WorldofWarcraft/WorldofWarcraft.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/WorldofWarcraft/WorldofWarcraft.list",
@@ -43174,6 +45051,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wteam/Wteam.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Wteam/Wteam.list",
@@ -43253,6 +45133,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Xbox/Xbox.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Xbox/Xbox.list",
@@ -43320,6 +45203,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiamiMusic/XiamiMusic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XiamiMusic/XiamiMusic.list",
@@ -43386,6 +45272,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XianYu/XianYu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XianYu/XianYu.list",
@@ -43452,6 +45341,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoGouKeJi/XiaoGouKeJi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XiaoGouKeJi/XiaoGouKeJi.list",
@@ -43518,6 +45410,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoHongShu/XiaoHongShu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XiaoHongShu/XiaoHongShu.list",
@@ -43586,6 +45481,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoMi/XiaoMi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XiaoMi/XiaoMi.list",
@@ -43652,6 +45550,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoYuanKeJi/XiaoYuanKeJi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XiaoYuanKeJi/XiaoYuanKeJi.list",
@@ -43718,6 +45619,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XieCheng/XieCheng.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XieCheng/XieCheng.list",
@@ -43784,6 +45688,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XingKongWuXian/XingKongWuXian.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XingKongWuXian/XingKongWuXian.list",
@@ -43850,6 +45757,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XueErSi/XueErSi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XueErSi/XueErSi.list",
@@ -43916,6 +45826,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XueQiu/XueQiu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/XueQiu/XueQiu.list",
@@ -43983,6 +45896,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Xunlei/Xunlei.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Xunlei/Xunlei.list",
@@ -44051,6 +45967,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Yandex/Yandex.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Yandex/Yandex.list",
@@ -44117,6 +46036,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YiChe/YiChe.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YiChe/YiChe.list",
@@ -44183,6 +46105,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YiXiaKeJi/YiXiaKeJi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YiXiaKeJi/YiXiaKeJi.list",
@@ -44249,6 +46174,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YiZhiBo/YiZhiBo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YiZhiBo/YiZhiBo.list",
@@ -44317,6 +46245,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Youku/Youku.list",
@@ -44383,6 +46314,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouMengChuangXiang/YouMengChuangXiang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YouMengChuangXiang/YouMengChuangXiang.list",
@@ -44474,6 +46408,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YouTube/YouTube.list",
@@ -44549,6 +46486,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YouTubeMusic/YouTubeMusic.list",
@@ -44615,6 +46555,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouZan/YouZan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YouZan/YouZan.list",
@@ -44681,6 +46624,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YuanFuDao/YuanFuDao.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YuanFuDao/YuanFuDao.list",
@@ -44747,6 +46693,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YunFanJiaSu/YunFanJiaSu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YunFanJiaSu/YunFanJiaSu.list",
@@ -44813,6 +46762,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YYeTs/YYeTs.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/YYeTs/YYeTs.list",
@@ -44879,6 +46831,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zalo/Zalo.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Zalo/Zalo.list",
@@ -44945,6 +46900,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZDNS/ZDNS.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZDNS/ZDNS.list",
@@ -45011,6 +46969,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zee/Zee.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Zee/Zee.list",
@@ -45077,6 +47038,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZeeTV/ZeeTV.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZeeTV/ZeeTV.list",
@@ -45143,6 +47107,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zendesk/Zendesk.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Zendesk/Zendesk.list",
@@ -45209,6 +47176,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhangYue/ZhangYue.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZhangYue/ZhangYue.list",
@@ -45275,6 +47245,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/zhanqi/zhanqi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/zhanqi/zhanqi.list",
@@ -45343,6 +47316,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Zhihu/Zhihu.list",
@@ -45413,6 +47389,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhihuAds/ZhihuAds.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZhihuAds/ZhihuAds.list",
@@ -45479,6 +47458,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhiYinManKe/ZhiYinManKe.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZhiYinManKe/ZhiYinManKe.list",
@@ -45545,6 +47527,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhiYunZhong/ZhiYunZhong.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZhiYunZhong/ZhiYunZhong.list",
@@ -45611,6 +47596,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongGuoShiHua/ZhongGuoShiHua.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZhongGuoShiHua/ZhongGuoShiHua.list",
@@ -45677,6 +47665,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongWeiShiJi/ZhongWeiShiJi.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZhongWeiShiJi/ZhongWeiShiJi.list",
@@ -45743,6 +47734,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongXingTongXun/ZhongXingTongXun.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZhongXingTongXun/ZhongXingTongXun.list",
@@ -45809,6 +47803,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhongYuanYiShang/ZhongYuanYiShang.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZhongYuanYiShang/ZhongYuanYiShang.list",
@@ -45875,6 +47872,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ZhuanZhuan/ZhuanZhuan.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/ZhuanZhuan/ZhuanZhuan.list",
@@ -45941,6 +47941,9 @@ window.__RULE_SITE_DATA__ = {
           "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zoho/Zoho.list"
         }
       ],
+      "generated_at": "2026-07-06T01:24:50.047196+00:00",
+      "generated_at_display_zh": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
+      "generated_at_display_en": "2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC",
       "files": {
         "Surge": {
           "rule_path": "rule/Surge/Zoho/Zoho.list",

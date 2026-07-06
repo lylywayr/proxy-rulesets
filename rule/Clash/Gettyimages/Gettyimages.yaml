@@ -1,29 +1,29 @@
 # NAME: Gettyimages
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:54:49.962259+00:00
+# UPDATED: 2026-07-06T02:16:16.555529+00:00
 payload:
-  - DOMAIN-SUFFIX,gettyimages.pt
-  - DOMAIN-SUFFIX,gettyimages.it
-  - DOMAIN-SUFFIX,gettyimages.ca
-  - DOMAIN-SUFFIX,gettyimages.in
-  - DOMAIN-SUFFIX,gettyimages.at
-  - DOMAIN-SUFFIX,gettyimages.de
-  - DOMAIN-SUFFIX,gettyimages.nl
-  - DOMAIN-SUFFIX,gettyimages.be
-  - DOMAIN-SUFFIX,gettyimages.ae
-  - DOMAIN-SUFFIX,gettyimages.fi
-  - DOMAIN-SUFFIX,gettyimages.fr
-  - DOMAIN-SUFFIX,gettyimages.no
-  - DOMAIN-SUFFIX,gettyimages.ie
-  - DOMAIN-SUFFIX,gettyimages.dk
-  - DOMAIN-SUFFIX,gettyimages.es
-  - DOMAIN-SUFFIX,gettyimages.se
-  - DOMAIN-SUFFIX,gettyimages.ch
   - DOMAIN-SUFFIX,gettyimages.hk
+  - DOMAIN-SUFFIX,gettyimages.fi
+  - DOMAIN-SUFFIX,gettyimages.nl
+  - DOMAIN-SUFFIX,gettyimages.ie
+  - DOMAIN-SUFFIX,gettyimages.es
+  - DOMAIN-SUFFIX,gettyimages.dk
+  - DOMAIN-SUFFIX,gettyimages.in
+  - DOMAIN-SUFFIX,gettyimages.it
+  - DOMAIN-SUFFIX,gettyimages.de
+  - DOMAIN-SUFFIX,gettyimages.fr
+  - DOMAIN-SUFFIX,gettyimages.pt
+  - DOMAIN-SUFFIX,gettyimages.se
+  - DOMAIN-SUFFIX,gettyimages.no
+  - DOMAIN-SUFFIX,gettyimages.ca
+  - DOMAIN-SUFFIX,gettyimages.be
+  - DOMAIN-SUFFIX,gettyimages.at
+  - DOMAIN-SUFFIX,gettyimages.ch
+  - DOMAIN-SUFFIX,gettyimages.ae
   - DOMAIN-SUFFIX,gettyimages.com
-  - DOMAIN-SUFFIX,gettyimages.co.jp
-  - DOMAIN-SUFFIX,gettyimages.co.uk
   - DOMAIN-SUFFIX,gettyimages.co.nz
-  - DOMAIN-SUFFIX,gettyimages.com.mx
+  - DOMAIN-SUFFIX,gettyimages.co.uk
+  - DOMAIN-SUFFIX,gettyimages.co.jp
   - DOMAIN-SUFFIX,gettyimages.com.au
   - DOMAIN-SUFFIX,gettyimages.com.br
+  - DOMAIN-SUFFIX,gettyimages.com.mx

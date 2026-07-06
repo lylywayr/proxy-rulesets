@@ -9,12 +9,13 @@ Apple 生态、App Store、iCloud 与 TestFlight。
 - 分类标识：`Apple`
 - 当前客户端：`Loon`
 - 所属分组：[苹果生态](../../../guide/groups/apple.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
 ### 规则统计
 
-- 总数：`1557`
+- 总数：`1556`
 - `DOMAIN`: 6
 - `DOMAIN-SUFFIX`: 1539
 - `DOMAIN-KEYWORD`: 1
@@ -26,7 +27,7 @@ Apple 生态、App Store、iCloud 与 TestFlight。
 - 规则格式：`纯文本远程规则列表`
 - 文件：`rule/Loon/Apple/Apple.list`
 - 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apple/Apple.list>
-- 已省略的不兼容类型：无
+- 已省略的不兼容类型：`PROCESS-NAME`=1
 
 ### 客户端入口
 
@@ -57,6 +58,7 @@ Apple ecosystem, App Store, iCloud, and TestFlight.
 - Category ID: `Apple`
 - Client: `Loon`
 - Group: `Apple`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Apple/Apple.list>
 

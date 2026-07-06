@@ -1,6 +1,6 @@
 # NAME: CGB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:01:27.078548+00:00
+# UPDATED: 2026-07-06T01:24:59.732547+00:00
 payload:
   - DOMAIN-SUFFIX,95508.com
   - DOMAIN-SUFFIX,cgbchina.cn

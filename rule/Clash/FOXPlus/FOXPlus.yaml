@@ -1,6 +1,6 @@
 # NAME: FOXPlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:54:48.695507+00:00
+# UPDATED: 2026-07-06T02:16:15.912770+00:00
 payload:
   - DOMAIN,cdn-fox-networks-group-green.akamaized.net
   - DOMAIN,d3cv4a9a9wh0bt.cloudfront.net

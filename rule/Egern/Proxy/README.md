@@ -9,6 +9,7 @@
 - 分类标识：`Proxy`
 - 当前客户端：`Egern`
 - 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
@@ -56,6 +57,7 @@ Common proxy-routing rules.
 - Category ID: `Proxy`
 - Client: `Egern`
 - Group: `Security`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Proxy/Proxy.yaml>
 

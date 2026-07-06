@@ -30,6 +30,7 @@ a:hover { text-decoration: underline; }
 h1, h2, h3, h4, p { margin-top: 0; }
 h1 { margin-bottom: 8px; font-size: 34px; line-height: 1.1; }
 .lede { margin-bottom: 0; max-width: 720px; color: #544d45; }
+.timestamp { margin: 12px 0 0; color: #6a6157; font-size: 13px; }
 .toolbar { display: flex; gap: 10px; flex-wrap: wrap; }
 .toolbar-btn, .toolbar-link {
   border: 1px solid #cabaa4;
@@ -57,6 +58,7 @@ h1 { margin-bottom: 8px; font-size: 34px; line-height: 1.1; }
 }
 .summary-card .label { font-size: 13px; color: #7c7267; }
 .summary-card .value { margin-top: 8px; font-size: 28px; font-weight: 700; }
+.summary-card .value.time { font-size: 15px; line-height: 1.45; font-weight: 600; }
 .controls-band {
   display: grid;
   grid-template-columns: minmax(240px, 2fr) minmax(220px, 1fr);

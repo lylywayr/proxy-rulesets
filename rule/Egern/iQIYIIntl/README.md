@@ -9,6 +9,7 @@
 - 分类标识：`iQIYIIntl`
 - 当前客户端：`Egern`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
@@ -50,6 +51,7 @@ Aggregated rules for iQIYIIntl, covering related domains, keywords, and network 
 - Category ID: `iQIYIIntl`
 - Client: `Egern`
 - Group: `Mainland`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/iQIYIIntl/iQIYIIntl.yaml>
 

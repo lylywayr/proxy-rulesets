@@ -1,26 +1,26 @@
 # NAME: PCCW
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:55:22.259573+00:00
+# UPDATED: 2026-07-06T02:16:30.308432+00:00
 no_resolve: true
 domain_suffix_set:
+  - "now.com"
+  - "hkt.com"
+  - "moov.hk"
   - "viu.com"
   - "nowe.hk"
-  - "now.com"
-  - "moov.hk"
-  - "hkt.com"
-  - "uhub.com"
-  - "nowe.com"
   - "pccw.com"
+  - "nowe.com"
+  - "uhub.com"
   - "hkcsl.com"
   - "now-tv.com"
   - "hkt-eye.com"
   - "hktshop.com"
   - "pccwglobal.com"
-  - "hktpremier.com"
   - "netvigator.com"
+  - "hktpremier.com"
   - "now-ashare.com"
-  - "hkteducation.com"
   - "esmarthealth.com"
+  - "hkteducation.com"
   - "pccwsolutions.com"
   - "hkt-enterprise.com"
   - "now.com.hk"

@@ -1,9 +1,9 @@
 # NAME: Apkpure
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:01:09.068995+00:00
+# UPDATED: 2026-07-06T01:24:55.416140+00:00
 no_resolve: true
 domain_suffix_set:
   - "winudf.com"
-  - "cdnpure.com"
   - "pureapk.com"
   - "apkpure.com"
+  - "cdnpure.com"

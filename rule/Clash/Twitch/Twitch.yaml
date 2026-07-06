@@ -1,9 +1,9 @@
 # NAME: Twitch
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:05.844326+00:00
+# UPDATED: 2026-07-06T02:18:59.040175+00:00
 payload:
-  - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,ttvnw.net
+  - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,ext-twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net

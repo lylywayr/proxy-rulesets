@@ -9,13 +9,14 @@ Microsoft、OneDrive、Teams 等服务。
 - 分类标识：`Microsoft`
 - 当前客户端：`Loon`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [办公协作专题](../../../guide/topics/office-collaboration.md)
 - [云网络专题](../../../guide/topics/cloud-network.md)
 
 ### 规则统计
 
-- 总数：`766`
+- 总数：`764`
 - `DOMAIN`: 8
 - `DOMAIN-SUFFIX`: 749
 - `DOMAIN-KEYWORD`: 4
@@ -27,7 +28,7 @@ Microsoft、OneDrive、Teams 等服务。
 - 规则格式：`纯文本远程规则列表`
 - 文件：`rule/Loon/Microsoft/Microsoft.list`
 - 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Microsoft/Microsoft.list>
-- 已省略的不兼容类型：无
+- 已省略的不兼容类型：`PROCESS-NAME`=2
 
 ### 客户端入口
 
@@ -55,6 +56,7 @@ Microsoft, OneDrive, Teams, and related services.
 - Category ID: `Microsoft`
 - Client: `Loon`
 - Group: `Office`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Microsoft/Microsoft.list>
 

@@ -9,6 +9,7 @@
 - 分类标识：`BlockHttpDNS`
 - 当前客户端：`Loon`
 - 所属分组：[云与网络](../../../guide/groups/network.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
@@ -50,6 +51,7 @@ Aggregated rules for BlockHttpDNS, covering related domains, keywords, and netwo
 - Category ID: `BlockHttpDNS`
 - Client: `Loon`
 - Group: `Network`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BlockHttpDNS/BlockHttpDNS.list>
 

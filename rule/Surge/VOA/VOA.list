@@ -1,57 +1,57 @@
 # NAME: VOA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:59:09.389467+00:00
+# UPDATED: 2026-07-06T02:19:00.698503+00:00
 # DOMAIN-SUFFIX: 51
 # TOTAL: 51
 
-DOMAIN-SUFFIX,bbg.gov
 DOMAIN-SUFFIX,voa.gov
+DOMAIN-SUFFIX,bbg.gov
 DOMAIN-SUFFIX,voa.mobi
 DOMAIN-SUFFIX,voanews.eu
+DOMAIN-SUFFIX,persagg.com
 DOMAIN-SUFFIX,urduvoa.com
-DOMAIN-SUFFIX,voanews.com
-DOMAIN-SUFFIX,voatour.com
 DOMAIN-SUFFIX,darivoa.com
 DOMAIN-SUFFIX,voathai.com
-DOMAIN-SUFFIX,persagg.com
+DOMAIN-SUFFIX,voanews.com
+DOMAIN-SUFFIX,voatour.com
 DOMAIN-SUFFIX,voashona.com
 DOMAIN-SUFFIX,voahausa.com
 DOMAIN-SUFFIX,voakorea.com
-DOMAIN-SUFFIX,voanouvel.com
-DOMAIN-SUFFIX,voabangla.com
 DOMAIN-SUFFIX,pashtovoa.com
-DOMAIN-SUFFIX,voasomali.com
+DOMAIN-SUFFIX,voanouvel.com
 DOMAIN-SUFFIX,insidevoa.com
-DOMAIN-SUFFIX,voaafrique.com
-DOMAIN-SUFFIX,voabambara.com
-DOMAIN-SUFFIX,voandebele.com
-DOMAIN-SUFFIX,voatibetan.com
-DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voasomali.com
+DOMAIN-SUFFIX,voabangla.com
 DOMAIN-SUFFIX,voalingala.com
 DOMAIN-SUFFIX,voaswahili.com
+DOMAIN-SUFFIX,voaafrique.com
+DOMAIN-SUFFIX,voatibetan.com
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voandebele.com
+DOMAIN-SUFFIX,voabambara.com
+DOMAIN-SUFFIX,voacambodia.com
+DOMAIN-SUFFIX,dandalinvoa.com
+DOMAIN-SUFFIX,voanoticias.com
 DOMAIN-SUFFIX,glasamerike.net
 DOMAIN-SUFFIX,voazimbabwe.com
-DOMAIN-SUFFIX,voacambodia.com
-DOMAIN-SUFFIX,voanoticias.com
-DOMAIN-SUFFIX,dandalinvoa.com
+DOMAIN-SUFFIX,voaindonesia.com
+DOMAIN-SUFFIX,golosameriki.com
+DOMAIN-SUFFIX,voadeewanews.com
+DOMAIN-SUFFIX,voatiengviet.com
 DOMAIN-SUFFIX,dengeamerika.com
+DOMAIN-SUFFIX,dengiamerika.com
 DOMAIN-SUFFIX,zeriamerikes.com
 DOMAIN-SUFFIX,voaportugues.com
-DOMAIN-SUFFIX,dengiamerika.com
-DOMAIN-SUFFIX,amerikaovozi.com
-DOMAIN-SUFFIX,voacantonese.com
-DOMAIN-SUFFIX,voatiengviet.com
-DOMAIN-SUFFIX,golos-ameriki.ru
-DOMAIN-SUFFIX,voaindonesia.com
-DOMAIN-SUFFIX,voadeewanews.com
-DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,amerikiskhma.com
-DOMAIN-SUFFIX,voadeewaradio.com
+DOMAIN-SUFFIX,voacantonese.com
+DOMAIN-SUFFIX,amerikaovozi.com
+DOMAIN-SUFFIX,golos-ameriki.ru
 DOMAIN-SUFFIX,radiyoyacuvoa.com
+DOMAIN-SUFFIX,voadeewaradio.com
+DOMAIN-SUFFIX,amerikaninsesi.org
+DOMAIN-SUFFIX,amerikaninsesi.com
 DOMAIN-SUFFIX,voachineseblog.com
 DOMAIN-SUFFIX,amerikayidzayn.com
-DOMAIN-SUFFIX,amerikaninsesi.org
 DOMAIN-SUFFIX,voaafaanoromoo.com
-DOMAIN-SUFFIX,amerikaninsesi.com
 DOMAIN-SUFFIX,voatibetanenglish.com
 DOMAIN-SUFFIX,voa-11.akacast.akamaistream.net

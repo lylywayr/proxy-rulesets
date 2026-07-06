@@ -1,11 +1,10 @@
 # NAME: AppleProxy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:01:13.154088+00:00
+# UPDATED: 2026-07-06T01:24:57.159285+00:00
 # DOMAIN: 27
 # DOMAIN-SUFFIX: 12
 # USER-AGENT: 5
-# PROCESS-NAME: 1
-# TOTAL: 45
+# TOTAL: 44
 
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,apple.comscoreresearch.com
@@ -40,8 +39,8 @@ DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,tv.apple.com
-DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,hls.itunes.apple.com
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com
@@ -51,4 +50,3 @@ USER-AGENT,AppleTV*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
 USER-AGENT,com.apple.tv*
-PROCESS-NAME,LookupViewService

@@ -9,6 +9,7 @@
 - 分类标识：`TestFlight`
 - 当前客户端：`Surge`
 - 所属分组：[苹果生态](../../../guide/groups/apple.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
@@ -48,6 +49,7 @@ Aggregated rules for TestFlight, covering related domains, keywords, and network
 - Category ID: `TestFlight`
 - Client: `Surge`
 - Group: `Apple`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/TestFlight/TestFlight.list>
 

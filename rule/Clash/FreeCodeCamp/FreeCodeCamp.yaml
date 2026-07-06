@@ -1,5 +1,5 @@
 # NAME: FreeCodeCamp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:54:48.817327+00:00
+# UPDATED: 2026-07-06T02:16:15.979781+00:00
 payload:
   - DOMAIN-SUFFIX,freecodecamp.org

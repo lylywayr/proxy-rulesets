@@ -9,13 +9,14 @@
 - 分类标识：`ChinaMaxNoIP`
 - 当前客户端：`Egern`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`119`
-- `DOMAIN-SUFFIX`: 41
+- 总数：`125`
+- `DOMAIN-SUFFIX`: 47
 - `DOMAIN-KEYWORD`: 13
 - `USER-AGENT`: 65
 - `PROCESS-NAME`: 12
@@ -50,6 +51,7 @@ Aggregated rules for ChinaMaxNoIP, covering related domains, keywords, and netwo
 - Category ID: `ChinaMaxNoIP`
 - Client: `Egern`
 - Group: `Mainland`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaMaxNoIP/ChinaMaxNoIP.yaml>
 

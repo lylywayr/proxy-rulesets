@@ -1,6 +1,6 @@
 # NAME: OP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:55:20.251949+00:00
+# UPDATED: 2026-07-06T02:16:29.375441+00:00
 payload:
   - DOMAIN-SUFFIX,op.gg
   - DOMAIN-SUFFIX,opgg-static.akamaized.net

@@ -1,6 +1,6 @@
 # NAME: DiSiFanShi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:54:42.441371+00:00
+# UPDATED: 2026-07-06T02:16:13.279954+00:00
 no_resolve: true
 domain_suffix_set:
   - "4paradigm.com"

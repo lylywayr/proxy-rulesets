@@ -1,6 +1,6 @@
 # NAME: GitHub
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:54:50.842856+00:00
+# UPDATED: 2026-07-06T02:16:16.932212+00:00
 # DOMAIN: 27
 # DOMAIN-SUFFIX: 35
 # DOMAIN-KEYWORD: 1
@@ -35,33 +35,33 @@ DOMAIN,productionresultssa8.blob.core.windows.net
 DOMAIN,productionresultssa9.blob.core.windows.net
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,npmjs.com
-DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.dev
-DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,npm.community
-DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,rawgithub.com
-DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,github.career
-DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,octocaptcha.com
-DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,opensource.guide
-DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubusercontent.com

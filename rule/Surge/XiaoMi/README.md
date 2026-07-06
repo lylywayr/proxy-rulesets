@@ -9,12 +9,13 @@
 - 分类标识：`XiaoMi`
 - 当前客户端：`Surge`
 - 所属分组：[品牌与硬件](../../../guide/groups/brands.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`158`
+- 总数：`157`
 - `DOMAIN-SUFFIX`: 148
 - `PROCESS-NAME`: 1
 - `IP-CIDR`: 9
@@ -24,7 +25,7 @@
 - 规则格式：`纯文本 RULE-SET 列表`
 - 文件：`rule/Surge/XiaoMi/XiaoMi.list`
 - 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/XiaoMi/XiaoMi.list>
-- 已省略的不兼容类型：无
+- 已省略的不兼容类型：`PROCESS-NAME`=1
 
 ### 客户端入口
 
@@ -49,6 +50,7 @@ Aggregated rules for XiaoMi, covering related domains, keywords, and network tar
 - Category ID: `XiaoMi`
 - Client: `Surge`
 - Group: `Brands`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/XiaoMi/XiaoMi.list>
 

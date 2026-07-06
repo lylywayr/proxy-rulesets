@@ -1,14 +1,13 @@
 # NAME: GlobalMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:54:51.252546+00:00
+# UPDATED: 2026-07-06T02:16:17.082583+00:00
 # DOMAIN-SUFFIX: 1
 # DOMAIN-KEYWORD: 26
 # USER-AGENT: 69
-# PROCESS-NAME: 3
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # URL-REGEX: 1
-# TOTAL: 1024
+# TOTAL: 1021
 
 DOMAIN-SUFFIX,youtube
 DOMAIN-KEYWORD,abematv.akamaized.net
@@ -106,9 +105,6 @@ USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,discovery+*
 USER-AGENT,encoreTVB*
 USER-AGENT,mytv*
-PROCESS-NAME,com.viu.pad
-PROCESS-NAME,com.viu.phone
-PROCESS-NAME,com.vuclip.viu
 IP-CIDR,1.37.35.6/32,no-resolve
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,8.28.124.0/23,no-resolve

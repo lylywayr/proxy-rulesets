@@ -1,6 +1,6 @@
 # NAME: LinkedIn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:55:10.341046+00:00
+# UPDATED: 2026-07-06T02:16:25.027417+00:00
 payload:
   - DOMAIN,e122475.dscg.akamaiedge.net
   - DOMAIN,licdn.cn.cdn20.com

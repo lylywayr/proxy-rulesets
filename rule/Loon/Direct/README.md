@@ -9,13 +9,14 @@
 - 分类标识：`Direct`
 - 当前客户端：`Loon`
 - 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`112934`
+- 总数：`112895`
 - `DOMAIN`: 449
 - `DOMAIN-SUFFIX`: 112409
 - `DOMAIN-KEYWORD`: 36
@@ -28,7 +29,7 @@
 - 规则格式：`纯文本远程规则列表`
 - 文件：`rule/Loon/Direct/Direct.list`
 - 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Direct/Direct.list>
-- 已省略的不兼容类型：无
+- 已省略的不兼容类型：`DOMAIN-REGEX`=3、`PROCESS-NAME`=36
 
 ### 客户端入口
 
@@ -56,6 +57,7 @@ General direct-routing rules.
 - Category ID: `Direct`
 - Client: `Loon`
 - Group: `Security`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Direct/Direct.list>
 

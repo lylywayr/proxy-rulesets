@@ -1,12 +1,11 @@
 # NAME: AmazonPrimeVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-05T08:01:06.987462+00:00
+# UPDATED: 2026-07-06T01:24:54.625379+00:00
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 19
 # DOMAIN-KEYWORD: 1
 # USER-AGENT: 2
-# PROCESS-NAME: 1
-# TOTAL: 28
+# TOTAL: 27
 
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
@@ -16,23 +15,22 @@ DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,primevideo.cc
 DOMAIN-SUFFIX,primevideo.tv
-DOMAIN-SUFFIX,primevideo.com
-DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,primevideo.cc
 DOMAIN-SUFFIX,amazonvideo.cc
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,prime-video.com
-DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,amazonprimevideo.cn
 DOMAIN-SUFFIX,amazonprimevideos.com
-DOMAIN-SUFFIX,atv-ps.amazon.com
 DOMAIN-SUFFIX,fls-na.amazon.com
+DOMAIN-SUFFIX,atv-ps.amazon.com
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
 DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
 DOMAIN-KEYWORD,avoddashs
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
-PROCESS-NAME,com.amazon.avod.thirdpartyclient

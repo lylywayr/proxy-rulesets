@@ -9,12 +9,13 @@
 - 分类标识：`iQIYIIntl`
 - 当前客户端：`Surge`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
+- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`21`
+- 总数：`19`
 - `DOMAIN`: 1
 - `DOMAIN-SUFFIX`: 5
 - `PROCESS-NAME`: 2
@@ -25,7 +26,7 @@
 - 规则格式：`纯文本 RULE-SET 列表`
 - 文件：`rule/Surge/iQIYIIntl/iQIYIIntl.list`
 - 直链：<https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/iQIYIIntl/iQIYIIntl.list>
-- 已省略的不兼容类型：无
+- 已省略的不兼容类型：`PROCESS-NAME`=2
 
 ### 客户端入口
 
@@ -50,6 +51,7 @@ Aggregated rules for iQIYIIntl, covering related domains, keywords, and network 
 - Category ID: `iQIYIIntl`
 - Client: `Surge`
 - Group: `Mainland`
+- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/iQIYIIntl/iQIYIIntl.list>
 
