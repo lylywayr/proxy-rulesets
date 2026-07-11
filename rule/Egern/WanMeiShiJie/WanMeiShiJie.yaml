@@ -1,6 +1,6 @@
 # NAME: WanMeiShiJie
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:01.134094+00:00
+# UPDATED: 2026-07-11T19:28:44.367292+00:00
 no_resolve: true
 domain_suffix_set:
   - "wmwm.com"

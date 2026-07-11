@@ -1,6 +1,6 @@
 # NAME: ClubhouseIP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:59:01.193428+00:00
+# UPDATED: 2026-07-11T19:08:49.828707+00:00
 payload:
   - DOMAIN,ap-oversea-tls.agora.io
   - DOMAIN,ap-oversea.agora.io

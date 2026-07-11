@@ -1,6 +1,6 @@
 # NAME: NowE
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:28.824128+00:00
+# UPDATED: 2026-07-11T19:23:11.911520+00:00
 payload:
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowestatic.com

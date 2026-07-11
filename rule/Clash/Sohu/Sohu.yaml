@@ -1,50 +1,50 @@
 # NAME: Sohu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:56.202884+00:00
+# UPDATED: 2026-07-11T19:28:23.665067+00:00
 payload:
   - DOMAIN-SUFFIX,sg.cn
+  - DOMAIN-SUFFIX,itc.cn
   - DOMAIN-SUFFIX,qd.ink
   - DOMAIN-SUFFIX,m.sohu
-  - DOMAIN-SUFFIX,t.sohu
   - DOMAIN-SUFFIX,v.sohu
-  - DOMAIN-SUFFIX,itc.cn
+  - DOMAIN-SUFFIX,t.sohu
   - DOMAIN-SUFFIX,k.sohu
   - DOMAIN-SUFFIX,sohu.cn
   - DOMAIN-SUFFIX,tv.sohu
-  - DOMAIN-SUFFIX,sohu.com
+  - DOMAIN-SUFFIX,focus.cn
   - DOMAIN-SUFFIX,soso.com
   - DOMAIN-SUFFIX,teemo.cn
+  - DOMAIN-SUFFIX,sohu.com
+  - DOMAIN-SUFFIX,sogo.com
   - DOMAIN-SUFFIX,sogou.cn
   - DOMAIN-SUFFIX,dm518.cn
-  - DOMAIN-SUFFIX,sogo.com
-  - DOMAIN-SUFFIX,focus.cn
-  - DOMAIN-SUFFIX,sogou.com
-  - DOMAIN-SUFFIX,pinyin.cn
   - DOMAIN-SUFFIX,domeos.cn
-  - DOMAIN-SUFFIX,sogou.net
   - DOMAIN-SUFFIX,xinyan.cn
-  - DOMAIN-SUFFIX,ggowan.com
+  - DOMAIN-SUFFIX,pinyin.cn
+  - DOMAIN-SUFFIX,sogou.net
+  - DOMAIN-SUFFIX,sogou.com
   - DOMAIN-SUFFIX,sohucs.com
-  - DOMAIN-SUFFIX,acoloo.com
   - DOMAIN-SUFFIX,go2map.com
-  - DOMAIN-SUFFIX,baokang.com
-  - DOMAIN-SUFFIX,yeyousg.com
-  - DOMAIN-SUFFIX,sohuora.com
-  - DOMAIN-SUFFIX,didipai.com
-  - DOMAIN-SUFFIX,sohusce.com
+  - DOMAIN-SUFFIX,acoloo.com
+  - DOMAIN-SUFFIX,ggowan.com
   - DOMAIN-SUFFIX,sohurdc.com
+  - DOMAIN-SUFFIX,sohuora.com
+  - DOMAIN-SUFFIX,sohusce.com
+  - DOMAIN-SUFFIX,baokang.com
+  - DOMAIN-SUFFIX,didipai.com
   - DOMAIN-SUFFIX,sgyouxi.com
   - DOMAIN-SUFFIX,hixiaoe.com
   - DOMAIN-SUFFIX,ggoplay.com
   - DOMAIN-SUFFIX,goodfeel.cn
   - DOMAIN-SUFFIX,sgyeyou.com
-  - DOMAIN-SUFFIX,sososnap.com
+  - DOMAIN-SUFFIX,yeyousg.com
   - DOMAIN-SUFFIX,wowenwen.com
-  - DOMAIN-SUFFIX,sohumail.com
-  - DOMAIN-SUFFIX,sohuapps.com
+  - DOMAIN-SUFFIX,sososnap.com
   - DOMAIN-SUFFIX,imancheng.cn
-  - DOMAIN-SUFFIX,sogou-op.org
   - DOMAIN-SUFFIX,sohu-inc.com
+  - DOMAIN-SUFFIX,sohuapps.com
+  - DOMAIN-SUFFIX,sohumail.com
+  - DOMAIN-SUFFIX,sogou-op.org
   - DOMAIN-SUFFIX,sogoucdn.com
   - DOMAIN-SUFFIX,sogou-inc.com
   - DOMAIN-SUFFIX,yidianliulan.cn
@@ -52,6 +52,6 @@ payload:
   - DOMAIN-SUFFIX,itc.com.cn
   - DOMAIN-SUFFIX,soso.com.cn
   - DOMAIN-SUFFIX,sohu.com.cn
-  - DOMAIN-SUFFIX,gfeel.com.cn
   - DOMAIN-SUFFIX,sogou.com.cn
+  - DOMAIN-SUFFIX,gfeel.com.cn
   - DOMAIN-SUFFIX,domeos.com.cn

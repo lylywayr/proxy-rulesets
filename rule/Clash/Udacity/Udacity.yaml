@@ -1,5 +1,5 @@
 # NAME: Udacity
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:59.607790+00:00
+# UPDATED: 2026-07-11T19:28:38.170733+00:00
 payload:
   - DOMAIN-SUFFIX,udacity.com

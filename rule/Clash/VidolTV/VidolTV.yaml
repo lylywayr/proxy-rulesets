@@ -1,5 +1,5 @@
 # NAME: VidolTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:00.156709+00:00
+# UPDATED: 2026-07-11T19:28:40.967592+00:00
 payload:
   - DOMAIN-SUFFIX,vidol.tv

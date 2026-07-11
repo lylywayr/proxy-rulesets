@@ -1,29 +1,29 @@
 # NAME: Yandex
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:02.864811+00:00
+# UPDATED: 2026-07-11T19:28:52.121366+00:00
 payload:
   - DOMAIN-SUFFIX,yandex
   - DOMAIN-SUFFIX,ya.ru
   - DOMAIN-SUFFIX,yadi.sk
-  - DOMAIN-SUFFIX,yandex.by
-  - DOMAIN-SUFFIX,yandex.eu
   - DOMAIN-SUFFIX,yandex.lv
-  - DOMAIN-SUFFIX,yandex.de
-  - DOMAIN-SUFFIX,yandex.uz
-  - DOMAIN-SUFFIX,yandex.md
-  - DOMAIN-SUFFIX,yandex.ua
-  - DOMAIN-SUFFIX,yandex.sx
-  - DOMAIN-SUFFIX,yandex.fr
-  - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,yandex.az
-  - DOMAIN-SUFFIX,yandex.st
-  - DOMAIN-SUFFIX,yandex.tm
   - DOMAIN-SUFFIX,yandex.lt
-  - DOMAIN-SUFFIX,yandex.kz
-  - DOMAIN-SUFFIX,yandex.tj
+  - DOMAIN-SUFFIX,yandex.de
   - DOMAIN-SUFFIX,yandex.kg
   - DOMAIN-SUFFIX,yandex.ee
+  - DOMAIN-SUFFIX,yandex.tj
   - DOMAIN-SUFFIX,yandex.fi
+  - DOMAIN-SUFFIX,yandex.kz
+  - DOMAIN-SUFFIX,yandex.az
+  - DOMAIN-SUFFIX,yandex.sx
+  - DOMAIN-SUFFIX,yandex.st
+  - DOMAIN-SUFFIX,yandex.tm
+  - DOMAIN-SUFFIX,yandex.by
+  - DOMAIN-SUFFIX,yandex.eu
+  - DOMAIN-SUFFIX,yandex.md
+  - DOMAIN-SUFFIX,yandex.ru
+  - DOMAIN-SUFFIX,yandex.uz
+  - DOMAIN-SUFFIX,yandex.ua
+  - DOMAIN-SUFFIX,yandex.fr
   - DOMAIN-SUFFIX,yandex.net
   - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,yandex.jobs

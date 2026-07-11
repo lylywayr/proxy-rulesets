@@ -1,6 +1,6 @@
 # NAME: HKOpenTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:20.616785+00:00
+# UPDATED: 2026-07-11T19:22:39.001464+00:00
 no_resolve: true
 domain_suffix_set:
   - "fantv.hk"

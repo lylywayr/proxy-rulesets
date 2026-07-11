@@ -1,6 +1,6 @@
 # NAME: HamiVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:19.443231+00:00
+# UPDATED: 2026-07-11T19:22:35.801593+00:00
 no_resolve: true
 domain_set:
   - "hls-hichannel.cdn.hinet.net"

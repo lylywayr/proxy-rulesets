@@ -9,7 +9,7 @@
 - 分类标识：`FuboTV`
 - 当前客户端：`Clash`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for FuboTV, covering related domains, keywords, and network tar
 - Category ID: `FuboTV`
 - Client: `Clash`
 - Group: `Media`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/FuboTV/FuboTV.yaml>
 

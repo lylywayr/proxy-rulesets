@@ -1,24 +1,24 @@
 # NAME: XingKongWuXian
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:02.580080+00:00
+# UPDATED: 2026-07-11T19:28:51.010632+00:00
 # DOMAIN-SUFFIX: 19
 # TOTAL: 19
 
-DOMAIN-SUFFIX,avstar6.com
 DOMAIN-SUFFIX,avstar2.com
-DOMAIN-SUFFIX,avstar06.me
-DOMAIN-SUFFIX,avstar3.com
-DOMAIN-SUFFIX,avstar03.me
-DOMAIN-SUFFIX,avstar05.me
-DOMAIN-SUFFIX,avstar07.me
-DOMAIN-SUFFIX,avstar8.com
-DOMAIN-SUFFIX,avstar09.me
-DOMAIN-SUFFIX,avstar1.com
-DOMAIN-SUFFIX,avstar02.me
-DOMAIN-SUFFIX,avstar04.me
-DOMAIN-SUFFIX,avstar5.com
 DOMAIN-SUFFIX,avstar9.com
 DOMAIN-SUFFIX,avstar01.me
+DOMAIN-SUFFIX,avstar5.com
+DOMAIN-SUFFIX,avstar04.me
+DOMAIN-SUFFIX,avstar03.me
+DOMAIN-SUFFIX,avstar09.me
+DOMAIN-SUFFIX,avstar8.com
+DOMAIN-SUFFIX,avstar06.me
+DOMAIN-SUFFIX,avstar07.me
+DOMAIN-SUFFIX,avstar05.me
+DOMAIN-SUFFIX,avstar6.com
+DOMAIN-SUFFIX,avstar02.me
+DOMAIN-SUFFIX,avstar1.com
+DOMAIN-SUFFIX,avstar3.com
 DOMAIN-SUFFIX,avstar4.com
 DOMAIN-SUFFIX,avstar07.com
 DOMAIN-SUFFIX,avstar09.com

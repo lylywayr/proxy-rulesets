@@ -1,21 +1,21 @@
 # NAME: OneDrive
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:29.231728+00:00
+# UPDATED: 2026-07-11T19:23:13.301708+00:00
 payload:
   - DOMAIN-SUFFIX,1drv.ms
   - DOMAIN-SUFFIX,1drv.com
-  - DOMAIN-SUFFIX,onedrive.eu
   - DOMAIN-SUFFIX,onedrive.co
-  - DOMAIN-SUFFIX,onedrive.net
-  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,onedrive.eu
   - DOMAIN-SUFFIX,onedrive.org
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,onedrive.net
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,microsoftpersonalcontent.com
   - DOMAIN-SUFFIX,onedrive.co.uk
-  - DOMAIN-SUFFIX,photos.live.com
   - DOMAIN-SUFFIX,storage.msn.com
+  - DOMAIN-SUFFIX,photos.live.com
   - DOMAIN-SUFFIX,oneclient.sfx.ms
   - DOMAIN-SUFFIX,storage.live.com
   - DOMAIN-SUFFIX,onedrive.live.com

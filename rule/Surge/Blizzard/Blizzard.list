@@ -1,6 +1,6 @@
 # NAME: Blizzard
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:24:58.447492+00:00
+# UPDATED: 2026-07-11T18:41:37.295436+00:00
 # DOMAIN-SUFFIX: 39
 # IP-CIDR: 23
 # TOTAL: 62
@@ -15,20 +15,20 @@ DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,starcraft.com
 DOMAIN-SUFFIX,starcraft2.com
 DOMAIN-SUFFIX,blizzardgames.cn
-DOMAIN-SUFFIX,playoverwatch.com
 DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,playoverwatch.com
 DOMAIN-SUFFIX,diabloimmortal.com
 DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,playhearthstone.com
-DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,blizzardgearstore.com
 DOMAIN-SUFFIX,firesidegatherings.com
 DOMAIN-SUFFIX,bnet.163.com
 DOMAIN-SUFFIX,battlenet.com.cn
 DOMAIN-SUFFIX,blznav.akamaized.net
-DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
 DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
 DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
 DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
 DOMAIN-SUFFIX,bnetshopus.akamaized.net

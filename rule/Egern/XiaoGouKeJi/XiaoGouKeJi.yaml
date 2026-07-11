@@ -1,6 +1,6 @@
 # NAME: XiaoGouKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:02.295479+00:00
+# UPDATED: 2026-07-11T19:28:49.925414+00:00
 no_resolve: true
 domain_suffix_set:
   - "xgdq.com"
@@ -9,14 +9,14 @@ domain_suffix_set:
   - "xgdqsn.com"
   - "puppy888.com"
   - "xiaogouds.com"
-  - "xiaogou666.com"
   - "xiaogou555.com"
-  - "xiaogou111.com"
-  - "xiaogou777.com"
-  - "xiaogou444.com"
-  - "xiaogou888.com"
-  - "xiaogou222.com"
+  - "xiaogou666.com"
   - "xiaogou999.com"
+  - "xiaogou222.com"
+  - "xiaogou888.com"
+  - "xiaogou111.com"
+  - "xiaogou444.com"
+  - "xiaogou777.com"
   - "xiaogou333.com"
   - "xiaogouzhineng.com"
   - "zhongyangweixiu.com"

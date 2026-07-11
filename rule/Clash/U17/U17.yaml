@@ -1,6 +1,6 @@
 # NAME: U17
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:59.151439+00:00
+# UPDATED: 2026-07-11T19:28:36.558495+00:00
 payload:
   - DOMAIN-SUFFIX,u17.com
   - DOMAIN-SUFFIX,u17i.com

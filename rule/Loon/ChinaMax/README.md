@@ -9,20 +9,20 @@
 - 分类标识：`ChinaMax`
 - 当前客户端：`Loon`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`12509`
+- 总数：`12546`
 - `DOMAIN-SUFFIX`: 51
 - `DOMAIN-KEYWORD`: 13
 - `USER-AGENT`: 65
 - `PROCESS-NAME`: 12
 - `IP-ASN`: 1
-- `IP-CIDR`: 8252
-- `IP-CIDR6`: 4127
+- `IP-CIDR`: 8248
+- `IP-CIDR6`: 4168
 
 ### 使用说明
 
@@ -54,7 +54,7 @@ Aggregated rules for ChinaMax, covering related domains, keywords, and network t
 - Category ID: `ChinaMax`
 - Client: `Loon`
 - Group: `Mainland`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ChinaMax/ChinaMax.list>
 

@@ -1,16 +1,16 @@
 # NAME: 9News
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:24:51.254122+00:00
+# UPDATED: 2026-07-11T18:41:04.960885+00:00
 payload:
   - DOMAIN-SUFFIX,9cdn.net
   - DOMAIN-SUFFIX,mi9cdn.com
   - DOMAIN-SUFFIX,mi9.com.au
-  - DOMAIN-SUFFIX,nine.com.au
   - DOMAIN-SUFFIX,9now.com.au
+  - DOMAIN-SUFFIX,nine.com.au
   - DOMAIN-SUFFIX,9news.com.au
   - DOMAIN-SUFFIX,yourtv.com.au
-  - DOMAIN-SUFFIX,9nation.com.au
   - DOMAIN-SUFFIX,static9.net.au
+  - DOMAIN-SUFFIX,9nation.com.au
   - DOMAIN-SUFFIX,ninemsn.com.au
   - DOMAIN-SUFFIX,freeviewplus.net.au
   - DOMAIN-SUFFIX,ninemediaroom.com.au

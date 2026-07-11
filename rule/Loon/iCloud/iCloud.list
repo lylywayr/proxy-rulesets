@@ -1,55 +1,55 @@
 # NAME: iCloud
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:21.650676+00:00
+# UPDATED: 2026-07-11T19:22:42.413260+00:00
 # DOMAIN-SUFFIX: 60
 # DOMAIN-KEYWORD: 1
 # TOTAL: 61
 
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,icloud.ch
-DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.om
+DOMAIN-SUFFIX,icloud.cn
+DOMAIN-SUFFIX,icloud.pt
+DOMAIN-SUFFIX,icloud.sk
 DOMAIN-SUFFIX,icloud.ro
-DOMAIN-SUFFIX,icloud.jp
-DOMAIN-SUFFIX,icloud.se
+DOMAIN-SUFFIX,icloud.is
+DOMAIN-SUFFIX,icloud.vn
+DOMAIN-SUFFIX,icloud.fr
 DOMAIN-SUFFIX,icloud.ie
 DOMAIN-SUFFIX,icloud.fi
-DOMAIN-SUFFIX,icloud.si
-DOMAIN-SUFFIX,icloud.fr
-DOMAIN-SUFFIX,icloud.vn
 DOMAIN-SUFFIX,icloud.ee
-DOMAIN-SUFFIX,icloud.pt
-DOMAIN-SUFFIX,icloud.hu
+DOMAIN-SUFFIX,icloud.jp
 DOMAIN-SUFFIX,icloud.de
-DOMAIN-SUFFIX,icloud.is
 DOMAIN-SUFFIX,icloud.lv
-DOMAIN-SUFFIX,icloud.sk
+DOMAIN-SUFFIX,icloud.se
+DOMAIN-SUFFIX,icloud.si
+DOMAIN-SUFFIX,icloud.hu
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud.org
 DOMAIN-SUFFIX,icloudo.de
-DOMAIN-SUFFIX,icloude.com
-DOMAIN-SUFFIX,icloudos.de
-DOMAIN-SUFFIX,icloudo.com
-DOMAIN-SUFFIX,icloudo.net
+DOMAIN-SUFFIX,icloud.org
 DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,icloude.com
+DOMAIN-SUFFIX,icloudo.com
+DOMAIN-SUFFIX,icloudos.de
+DOMAIN-SUFFIX,icloudo.net
 DOMAIN-SUFFIX,myicloud.net
-DOMAIN-SUFFIX,icloudos.net
 DOMAIN-SUFFIX,mylcloud.net
-DOMAIN-SUFFIX,icloudads.net
-DOMAIN-SUFFIX,wwwicloud.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,icloudbox.net
-DOMAIN-SUFFIX,icloudpay.net
+DOMAIN-SUFFIX,icloudos.net
 DOMAIN-SUFFIX,icloudnet.net
-DOMAIN-SUFFIX,appleicloud.cn
+DOMAIN-SUFFIX,icloudbox.net
+DOMAIN-SUFFIX,wwwicloud.com
+DOMAIN-SUFFIX,icloudpay.net
+DOMAIN-SUFFIX,icloudads.net
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloudhome.com
 DOMAIN-SUFFIX,ios-icloud.com
-DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN-SUFFIX,icloudmail.net
+DOMAIN-SUFFIX,icloudapple.cn
+DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,icloudmusic.net
-DOMAIN-SUFFIX,apple-icloud.cn
-DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloudsetup.com
+DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,icloudsecure.net
 DOMAIN-SUFFIX,icloudbrowser.net
 DOMAIN-SUFFIX,icloud-content.com

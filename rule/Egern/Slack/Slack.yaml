@@ -1,16 +1,16 @@
 # NAME: Slack
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:55.822097+00:00
+# UPDATED: 2026-07-11T19:28:22.126362+00:00
 no_resolve: true
 domain_suffix_set:
   - "slack.com"
   - "slackb.com"
   - "slackhq.com"
   - "slackdemo.com"
-  - "slack-edge.com"
+  - "slack-msgs.com"
   - "slack-core.com"
   - "slack-imgs.com"
-  - "slack-msgs.com"
-  - "slack-redir.net"
+  - "slack-edge.com"
   - "slack-files.com"
+  - "slack-redir.net"
   - "slackcertified.com"

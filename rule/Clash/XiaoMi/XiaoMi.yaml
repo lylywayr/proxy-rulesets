@@ -1,111 +1,111 @@
 # NAME: XiaoMi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:02.395620+00:00
+# UPDATED: 2026-07-11T19:28:50.403008+00:00
 payload:
   - DOMAIN-SUFFIX,mi.cn
   - DOMAIN-SUFFIX,mi.com
-  - DOMAIN-SUFFIX,mi1.cc
   - DOMAIN-SUFFIX,mij.cc
+  - DOMAIN-SUFFIX,mi1.cc
   - DOMAIN-SUFFIX,mi0.cc
   - DOMAIN-SUFFIX,miui.cn
   - DOMAIN-SUFFIX,mios.cn
-  - DOMAIN-SUFFIX,mgslb.cn
-  - DOMAIN-SUFFIX,miui.com
-  - DOMAIN-SUFFIX,misrm.cn
-  - DOMAIN-SUFFIX,miren.cn
   - DOMAIN-SUFFIX,wali.com
+  - DOMAIN-SUFFIX,misrm.cn
+  - DOMAIN-SUFFIX,miui.com
+  - DOMAIN-SUFFIX,mgslb.cn
   - DOMAIN-SUFFIX,mi-ae.cn
-  - DOMAIN-SUFFIX,mifile.cn
-  - DOMAIN-SUFFIX,mikge.com
-  - DOMAIN-SUFFIX,mipay.com
-  - DOMAIN-SUFFIX,misrm.com
-  - DOMAIN-SUFFIX,mgslb.net
-  - DOMAIN-SUFFIX,miyun.com
+  - DOMAIN-SUFFIX,miren.cn
+  - DOMAIN-SUFFIX,youpin.cn
   - DOMAIN-SUFFIX,xiaomi.cn
   - DOMAIN-SUFFIX,misrm.net
-  - DOMAIN-SUFFIX,mi-ae.net
-  - DOMAIN-SUFFIX,mieco.net
+  - DOMAIN-SUFFIX,misrm.com
+  - DOMAIN-SUFFIX,mikge.com
+  - DOMAIN-SUFFIX,miyun.com
   - DOMAIN-SUFFIX,micode.cn
-  - DOMAIN-SUFFIX,mgslb.com
-  - DOMAIN-SUFFIX,mgslb.org
+  - DOMAIN-SUFFIX,mifile.cn
+  - DOMAIN-SUFFIX,mgslb.net
+  - DOMAIN-SUFFIX,mieco.net
+  - DOMAIN-SUFFIX,mi-ae.net
   - DOMAIN-SUFFIX,hongmi.cn
+  - DOMAIN-SUFFIX,mgslb.com
   - DOMAIN-SUFFIX,mi-ae.com
-  - DOMAIN-SUFFIX,youpin.cn
-  - DOMAIN-SUFFIX,mi-idc.com
-  - DOMAIN-SUFFIX,xlaomi.net
-  - DOMAIN-SUFFIX,miliao.com
-  - DOMAIN-SUFFIX,alibiji.cn
-  - DOMAIN-SUFFIX,leijun.com
-  - DOMAIN-SUFFIX,timipc.com
-  - DOMAIN-SUFFIX,mitalk.com
-  - DOMAIN-SUFFIX,408399.com
-  - DOMAIN-SUFFIX,xiaomi.net
-  - DOMAIN-SUFFIX,duokan.com
-  - DOMAIN-SUFFIX,xiaomi.org
-  - DOMAIN-SUFFIX,mitvos.net
-  - DOMAIN-SUFFIX,heihei.com
-  - DOMAIN-SUFFIX,mipush.com
-  - DOMAIN-SUFFIX,408399.net
-  - DOMAIN-SUFFIX,miwifi.com
-  - DOMAIN-SUFFIX,mijia.tech
-  - DOMAIN-SUFFIX,mi-dun.com
+  - DOMAIN-SUFFIX,mipay.com
+  - DOMAIN-SUFFIX,mgslb.org
   - DOMAIN-SUFFIX,mitvos.com
-  - DOMAIN-SUFFIX,mi-cdn.com
-  - DOMAIN-SUFFIX,xiaomi.com
-  - DOMAIN-SUFFIX,micode.net
-  - DOMAIN-SUFFIX,816798.net
-  - DOMAIN-SUFFIX,shunwei.cn
+  - DOMAIN-SUFFIX,alibiji.cn
+  - DOMAIN-SUFFIX,miliao.com
+  - DOMAIN-SUFFIX,mitvos.net
+  - DOMAIN-SUFFIX,timipc.com
+  - DOMAIN-SUFFIX,duokan.com
   - DOMAIN-SUFFIX,mi-img.com
+  - DOMAIN-SUFFIX,xlaomi.net
+  - DOMAIN-SUFFIX,408399.net
+  - DOMAIN-SUFFIX,shunwei.cn
+  - DOMAIN-SUFFIX,xiaomi.org
+  - DOMAIN-SUFFIX,816798.net
+  - DOMAIN-SUFFIX,xiaomi.net
+  - DOMAIN-SUFFIX,mipush.com
+  - DOMAIN-SUFFIX,mi-dun.com
+  - DOMAIN-SUFFIX,mi-idc.com
+  - DOMAIN-SUFFIX,miwifi.com
+  - DOMAIN-SUFFIX,xiaomi.com
+  - DOMAIN-SUFFIX,leijun.com
+  - DOMAIN-SUFFIX,micode.net
+  - DOMAIN-SUFFIX,heihei.com
+  - DOMAIN-SUFFIX,408399.com
+  - DOMAIN-SUFFIX,mitalk.com
   - DOMAIN-SUFFIX,sodajs.org
+  - DOMAIN-SUFFIX,mi-cdn.com
+  - DOMAIN-SUFFIX,mijia.tech
   - DOMAIN-SUFFIX,mi-img3.com
-  - DOMAIN-SUFFIX,mioffice.cn
-  - DOMAIN-SUFFIX,mi-img4.com
-  - DOMAIN-SUFFIX,mi-img2.com
-  - DOMAIN-SUFFIX,airstar.com
-  - DOMAIN-SUFFIX,migames.com
   - DOMAIN-SUFFIX,peijian.com
   - DOMAIN-SUFFIX,alinotes.cn
-  - DOMAIN-SUFFIX,xiaomisa.cn
-  - DOMAIN-SUFFIX,mi-img1.com
   - DOMAIN-SUFFIX,mi-img5.com
+  - DOMAIN-SUFFIX,mi-img1.com
+  - DOMAIN-SUFFIX,airstar.com
+  - DOMAIN-SUFFIX,xiaomisa.cn
   - DOMAIN-SUFFIX,aleenote.cn
-  - DOMAIN-SUFFIX,aleenote.com
+  - DOMAIN-SUFFIX,mi-img4.com
+  - DOMAIN-SUFFIX,mioffice.cn
+  - DOMAIN-SUFFIX,mi-img2.com
+  - DOMAIN-SUFFIX,migames.com
+  - DOMAIN-SUFFIX,miredian.com
+  - DOMAIN-SUFFIX,xiaominr.com
   - DOMAIN-SUFFIX,xiaomisa.org
-  - DOMAIN-SUFFIX,mi-cache.com
+  - DOMAIN-SUFFIX,xiaomiinc.cn
+  - DOMAIN-SUFFIX,aleenote.com
+  - DOMAIN-SUFFIX,kewucool.com
   - DOMAIN-SUFFIX,milliant.com
   - DOMAIN-SUFFIX,xiaomiev.com
-  - DOMAIN-SUFFIX,xiaomisa.com
-  - DOMAIN-SUFFIX,xiaominr.com
-  - DOMAIN-SUFFIX,openvela.com
-  - DOMAIN-SUFFIX,kewucool.com
-  - DOMAIN-SUFFIX,miredian.com
   - DOMAIN-SUFFIX,xiaomicp.com
-  - DOMAIN-SUFFIX,xiaomisa.net
-  - DOMAIN-SUFFIX,m3-cloud.com
-  - DOMAIN-SUFFIX,xiaomiinc.cn
   - DOMAIN-SUFFIX,mixinshe.com
+  - DOMAIN-SUFFIX,openvela.com
+  - DOMAIN-SUFFIX,xiaomisa.net
+  - DOMAIN-SUFFIX,mi-cache.com
+  - DOMAIN-SUFFIX,m3-cloud.com
+  - DOMAIN-SUFFIX,xiaomisa.com
   - DOMAIN-SUFFIX,xiaomidns.cn
-  - DOMAIN-SUFFIX,duokanbox.com
+  - DOMAIN-SUFFIX,miot-spec.org
+  - DOMAIN-SUFFIX,xiaomicorp.cn
   - DOMAIN-SUFFIX,mi-static.com
   - DOMAIN-SUFFIX,xiaomidns.com
-  - DOMAIN-SUFFIX,facephoto.com
   - DOMAIN-SUFFIX,xiaomiinc.com
-  - DOMAIN-SUFFIX,xiaomicorp.cn
   - DOMAIN-SUFFIX,xiaomiinc.net
-  - DOMAIN-SUFFIX,miot-spec.org
+  - DOMAIN-SUFFIX,facephoto.com
   - DOMAIN-SUFFIX,xiaomidns.net
-  - DOMAIN-SUFFIX,xiaoaiscan.net
-  - DOMAIN-SUFFIX,xiaomicorp.com
-  - DOMAIN-SUFFIX,xiaomicorp.net
-  - DOMAIN-SUFFIX,xiaomiwear.com
-  - DOMAIN-SUFFIX,zhutidasai.com
+  - DOMAIN-SUFFIX,duokanbox.com
   - DOMAIN-SUFFIX,addatachain.cn
+  - DOMAIN-SUFFIX,xiaoaiscan.net
+  - DOMAIN-SUFFIX,xiaomiwear.com
+  - DOMAIN-SUFFIX,xiaomicorp.com
   - DOMAIN-SUFFIX,xiaomimimo.com
+  - DOMAIN-SUFFIX,xiaomicorp.net
+  - DOMAIN-SUFFIX,zhutidasai.com
   - DOMAIN-SUFFIX,mi-customer.com
+  - DOMAIN-SUFFIX,qinghedaxue.com
   - DOMAIN-SUFFIX,xiaomiprint.com
   - DOMAIN-SUFFIX,xiaomicache.com
   - DOMAIN-SUFFIX,mijiayoupin.com
-  - DOMAIN-SUFFIX,qinghedaxue.com
   - DOMAIN-SUFFIX,xiaoaisound.com
   - DOMAIN-SUFFIX,xiaoaiassist.com
   - DOMAIN-SUFFIX,xiaomiyoupin.com
@@ -116,36 +116,36 @@ payload:
   - DOMAIN-SUFFIX,tj1-miui-bn-stage01.kscn
   - DOMAIN-SUFFIX,mi.com.cn
   - DOMAIN-SUFFIX,mios.com.cn
-  - DOMAIN-SUFFIX,mi-ae.com.cn
   - DOMAIN-SUFFIX,misrm.com.cn
+  - DOMAIN-SUFFIX,mi-ae.com.cn
   - DOMAIN-SUFFIX,micoce.com.cn
   - DOMAIN-SUFFIX,youpin.com.cn
   - DOMAIN-SUFFIX,growth.ai.srv
   - DOMAIN-SUFFIX,micode.com.cn
   - DOMAIN-SUFFIX,xiaomiinc.com.cn
-  - DOMAIN-SUFFIX,xiaomidns.com.cn
-  - DOMAIN-SUFFIX,restapi.amap.com
   - DOMAIN-SUFFIX,fe-cdn.huami.com
+  - DOMAIN-SUFFIX,restapi.amap.com
+  - DOMAIN-SUFFIX,xiaomidns.com.cn
   - DOMAIN-SUFFIX,xiaomicorp.com.cn
-  - DOMAIN-SUFFIX,miav-cse.avlyun.com
-  - DOMAIN-SUFFIX,api-mifit.huami.com
   - DOMAIN-SUFFIX,store-cdn.huami.com
   - DOMAIN-SUFFIX,fe-static.huami.com
-  - DOMAIN-SUFFIX,account-cn.huami.com
+  - DOMAIN-SUFFIX,miav-cse.avlyun.com
+  - DOMAIN-SUFFIX,api-mifit.huami.com
   - DOMAIN-SUFFIX,kssm.kuaipandata.com
+  - DOMAIN-SUFFIX,account-cn.huami.com
   - DOMAIN-SUFFIX,miui-fxcse.avlyun.com
   - DOMAIN-SUFFIX,api-mifit-cn.huami.com
   - DOMAIN-SUFFIX,api-aos-cnbj6.huami.com
   - DOMAIN-SUFFIX,aos-incentive.huami.com
-  - DOMAIN-SUFFIX,thumb-yz01.kuaipandata.com
-  - DOMAIN-SUFFIX,thumb-yz69.kuaipandata.com
   - DOMAIN-SUFFIX,app-analytics-cn.huami.com
+  - DOMAIN-SUFFIX,thumb-yz69.kuaipandata.com
   - DOMAIN-SUFFIX,thumb-yz02.kuaipandata.com
   - DOMAIN-SUFFIX,thumb-yz96.kuaipandata.com
-  - DOMAIN-SUFFIX,kssv-w-yz01.kuaipandata.com
-  - DOMAIN-SUFFIX,singapore01.kuaipandata.com
+  - DOMAIN-SUFFIX,thumb-yz01.kuaipandata.com
   - DOMAIN-SUFFIX,kssdata-yz1.kuaipandata.com
+  - DOMAIN-SUFFIX,kssv-w-yz01.kuaipandata.com
   - DOMAIN-SUFFIX,kssdata-yz2.kuaipandata.com
+  - DOMAIN-SUFFIX,singapore01.kuaipandata.com
   - DOMAIN-SUFFIX,kssdata-yz2-lt.kuaipandata.com
   - DOMAIN-SUFFIX,res.mi.baidu.com
   - DOMAIN-SUFFIX,qsb.browser.miui.srv

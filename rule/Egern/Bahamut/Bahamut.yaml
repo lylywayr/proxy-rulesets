@@ -1,6 +1,6 @@
 # NAME: Bahamut
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:24:57.581301+00:00
+# UPDATED: 2026-07-11T18:41:33.236843+00:00
 no_resolve: true
 domain_set:
   - "bahamut.akamaized.net"

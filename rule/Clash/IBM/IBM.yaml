@@ -1,16 +1,16 @@
 # NAME: IBM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:21.536078+00:00
+# UPDATED: 2026-07-11T19:22:41.995095+00:00
 payload:
   - DOMAIN-SUFFIX,ibm
   - DOMAIN-SUFFIX,weatherchannel
-  - DOMAIN-SUFFIX,ibm.us
   - DOMAIN-SUFFIX,ibm.eu
-  - DOMAIN-SUFFIX,ibm.net
+  - DOMAIN-SUFFIX,ibm.us
   - DOMAIN-SUFFIX,ibm.com
+  - DOMAIN-SUFFIX,ibm.net
   - DOMAIN-SUFFIX,s81c.com
   - DOMAIN-SUFFIX,weather.com
-  - DOMAIN-SUFFIX,bluemix.net
   - DOMAIN-SUFFIX,bluemix.com
+  - DOMAIN-SUFFIX,bluemix.net
   - DOMAIN-SUFFIX,s-bluemix.net
   - DOMAIN-SUFFIX,appdomain.cloud

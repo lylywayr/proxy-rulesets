@@ -1,6 +1,6 @@
 # NAME: IPTVMainland
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:22.259106+00:00
+# UPDATED: 2026-07-11T19:22:45.544846+00:00
 payload:
   - DOMAIN,1-fss24-s0.streamhoster.com
   - DOMAIN,1.cache.applinzi.com

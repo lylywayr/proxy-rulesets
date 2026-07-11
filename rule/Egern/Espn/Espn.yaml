@@ -1,6 +1,6 @@
 # NAME: Espn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:14.876754+00:00
+# UPDATED: 2026-07-11T19:22:23.151442+00:00
 no_resolve: true
 domain_set:
   - "espn.api.edge.bamgrid.com"

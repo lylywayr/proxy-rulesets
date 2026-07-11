@@ -9,7 +9,7 @@ Telegram 域名与 CIDR 规则。
 - 分类标识：`Telegram`
 - 当前客户端：`Surge`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - [社交通信专题](../../../guide/topics/social-communication.md)
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
@@ -55,7 +55,7 @@ Telegram domain and CIDR rules.
 - Category ID: `Telegram`
 - Client: `Surge`
 - Group: `Social`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Telegram/Telegram.list>
 

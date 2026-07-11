@@ -1,6 +1,6 @@
 # NAME: RTHK
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:54.646643+00:00
+# UPDATED: 2026-07-11T19:28:17.519413+00:00
 no_resolve: true
 domain_set:
   - "rthklive2-lh.akamaihd.net"

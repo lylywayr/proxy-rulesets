@@ -9,7 +9,7 @@
 - 分类标识：`iCloudPrivateRelay`
 - 当前客户端：`Clash`
 - 所属分组：[苹果生态](../../../guide/groups/apple.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for iCloudPrivateRelay, covering related domains, keywords, and
 - Category ID: `iCloudPrivateRelay`
 - Client: `Clash`
 - Group: `Apple`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/iCloudPrivateRelay/iCloudPrivateRelay.yaml>
 

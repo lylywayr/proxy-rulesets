@@ -9,7 +9,7 @@
 - 分类标识：`BiliBiliIntl`
 - 当前客户端：`Surge`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - [流媒体专题](../../../guide/topics/streaming-media.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for BiliBiliIntl, covering related domains, keywords, and netwo
 - Category ID: `BiliBiliIntl`
 - Client: `Surge`
 - Group: `Mainland`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/BiliBiliIntl/BiliBiliIntl.list>
 

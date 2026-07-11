@@ -1,153 +1,153 @@
 # NAME: iFlytek
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:21.863611+00:00
+# UPDATED: 2026-07-11T19:22:43.464816+00:00
 payload:
-  - DOMAIN-SUFFIX,eltt.org
+  - DOMAIN-SUFFIX,yuyin.tv
+  - DOMAIN-SUFFIX,ihou.com
   - DOMAIN-SUFFIX,xfyun.cn
   - DOMAIN-SUFFIX,iyuji.cn
-  - DOMAIN-SUFFIX,ihou.com
+  - DOMAIN-SUFFIX,eltt.org
   - DOMAIN-SUFFIX,cltt.org
-  - DOMAIN-SUFFIX,yuyin.tv
-  - DOMAIN-SUFFIX,91znyx.cn
-  - DOMAIN-SUFFIX,xfdwz.com
-  - DOMAIN-SUFFIX,itocoo.cn
-  - DOMAIN-SUFFIX,cycore.cn
-  - DOMAIN-SUFFIX,iflyos.cn
-  - DOMAIN-SUFFIX,iflybi.cn
-  - DOMAIN-SUFFIX,zhixue.cn
   - DOMAIN-SUFFIX,xfyun.com
-  - DOMAIN-SUFFIX,51znyx.cn
-  - DOMAIN-SUFFIX,xunfei.cn
-  - DOMAIN-SUFFIX,fxkedu.cn
-  - DOMAIN-SUFFIX,musicd.cc
+  - DOMAIN-SUFFIX,zhixue.cn
+  - DOMAIN-SUFFIX,itocoo.cn
+  - DOMAIN-SUFFIX,iflyos.cn
   - DOMAIN-SUFFIX,koukao.cn
-  - DOMAIN-SUFFIX,91qycl.cn
   - DOMAIN-SUFFIX,i-mock.cn
-  - DOMAIN-SUFFIX,exd.design
+  - DOMAIN-SUFFIX,fxkedu.cn
+  - DOMAIN-SUFFIX,91znyx.cn
+  - DOMAIN-SUFFIX,xunfei.cn
+  - DOMAIN-SUFFIX,musicd.cc
+  - DOMAIN-SUFFIX,iflybi.cn
+  - DOMAIN-SUFFIX,91qycl.cn
+  - DOMAIN-SUFFIX,51znyx.cn
+  - DOMAIN-SUFFIX,cycore.cn
+  - DOMAIN-SUFFIX,xfdwz.com
+  - DOMAIN-SUFFIX,xfpass.com
+  - DOMAIN-SUFFIX,isay365.hk
+  - DOMAIN-SUFFIX,51znyx.com
   - DOMAIN-SUFFIX,cogskl.com
-  - DOMAIN-SUFFIX,koukao.net
+  - DOMAIN-SUFFIX,ciqujia.cn
+  - DOMAIN-SUFFIX,khfwedu.cn
+  - DOMAIN-SUFFIX,exd.design
+  - DOMAIN-SUFFIX,xftrans.cn
   - DOMAIN-SUFFIX,xf-yun.com
   - DOMAIN-SUFFIX,91znyx.com
-  - DOMAIN-SUFFIX,51znyx.com
-  - DOMAIN-SUFFIX,xftrans.cn
-  - DOMAIN-SUFFIX,xfinfr.com
-  - DOMAIN-SUFFIX,zhybedu.cn
-  - DOMAIN-SUFFIX,isay365.cn
-  - DOMAIN-SUFFIX,koukao.org
-  - DOMAIN-SUFFIX,xfpaas.com
-  - DOMAIN-SUFFIX,isay365.hk
-  - DOMAIN-SUFFIX,91qycl.com
-  - DOMAIN-SUFFIX,fxkedu.com
   - DOMAIN-SUFFIX,adsring.cn
-  - DOMAIN-SUFFIX,khfwedu.cn
-  - DOMAIN-SUFFIX,zhixue.com
-  - DOMAIN-SUFFIX,ciqujia.cn
-  - DOMAIN-SUFFIX,i-mock.com
-  - DOMAIN-SUFFIX,91ting.net
-  - DOMAIN-SUFFIX,xfpass.com
   - DOMAIN-SUFFIX,diyring.cc
-  - DOMAIN-SUFFIX,iflytoy.com
-  - DOMAIN-SUFFIX,isay365.org
-  - DOMAIN-SUFFIX,gyxx365.com
-  - DOMAIN-SUFFIX,edux.design
+  - DOMAIN-SUFFIX,xfinfr.com
+  - DOMAIN-SUFFIX,91qycl.com
+  - DOMAIN-SUFFIX,91ting.net
+  - DOMAIN-SUFFIX,zhixue.com
+  - DOMAIN-SUFFIX,koukao.org
+  - DOMAIN-SUFFIX,fxkedu.com
+  - DOMAIN-SUFFIX,xfpaas.com
+  - DOMAIN-SUFFIX,koukao.net
+  - DOMAIN-SUFFIX,isay365.cn
+  - DOMAIN-SUFFIX,zhybedu.cn
+  - DOMAIN-SUFFIX,i-mock.com
   - DOMAIN-SUFFIX,changyan.cn
-  - DOMAIN-SUFFIX,zyjyyun.com
-  - DOMAIN-SUFFIX,uuhdedu.com
-  - DOMAIN-SUFFIX,iflyrec.com
-  - DOMAIN-SUFFIX,pthceshi.cn
-  - DOMAIN-SUFFIX,xsmart.link
-  - DOMAIN-SUFFIX,iflysec.com
-  - DOMAIN-SUFFIX,xunfeia.com
-  - DOMAIN-SUFFIX,iflyink.com
-  - DOMAIN-SUFFIX,xunfeib.com
-  - DOMAIN-SUFFIX,openauth.cn
-  - DOMAIN-SUFFIX,voiceads.cn
-  - DOMAIN-SUFFIX,aifuwus.com
-  - DOMAIN-SUFFIX,iflyiot.com
-  - DOMAIN-SUFFIX,isay365.net
-  - DOMAIN-SUFFIX,isay365.com
-  - DOMAIN-SUFFIX,isayabc.com
-  - DOMAIN-SUFFIX,iflytek.com
-  - DOMAIN-SUFFIX,khfwedu.com
-  - DOMAIN-SUFFIX,edulines.cn
-  - DOMAIN-SUFFIX,iflyread.cn
-  - DOMAIN-SUFFIX,gxfinfr.com
   - DOMAIN-SUFFIX,aidaxue.com
-  - DOMAIN-SUFFIX,hudong100.cn
-  - DOMAIN-SUFFIX,iflyread.com
-  - DOMAIN-SUFFIX,kuyin123.com
-  - DOMAIN-SUFFIX,changyan.com
-  - DOMAIN-SUFFIX,jicaibao.com
-  - DOMAIN-SUFFIX,kuyinyun.com
-  - DOMAIN-SUFFIX,51lesheng.cn
-  - DOMAIN-SUFFIX,peiyinge.com
-  - DOMAIN-SUFFIX,xx-sapce.com
-  - DOMAIN-SUFFIX,cyservice.cn
-  - DOMAIN-SUFFIX,pthceshi.com
-  - DOMAIN-SUFFIX,iflynote.com
-  - DOMAIN-SUFFIX,pitayaio.com
-  - DOMAIN-SUFFIX,guguread.com
-  - DOMAIN-SUFFIX,iflydocs.com
-  - DOMAIN-SUFFIX,iflyaiedu.cn
+  - DOMAIN-SUFFIX,xunfeia.com
+  - DOMAIN-SUFFIX,xsmart.link
+  - DOMAIN-SUFFIX,iflytoy.com
+  - DOMAIN-SUFFIX,isayabc.com
+  - DOMAIN-SUFFIX,gyxx365.com
+  - DOMAIN-SUFFIX,gxfinfr.com
+  - DOMAIN-SUFFIX,openauth.cn
+  - DOMAIN-SUFFIX,isay365.org
+  - DOMAIN-SUFFIX,uuhdedu.com
+  - DOMAIN-SUFFIX,pthceshi.cn
+  - DOMAIN-SUFFIX,khfwedu.com
+  - DOMAIN-SUFFIX,isay365.com
+  - DOMAIN-SUFFIX,xunfeib.com
+  - DOMAIN-SUFFIX,zyjyyun.com
+  - DOMAIN-SUFFIX,iflysec.com
+  - DOMAIN-SUFFIX,edulines.cn
+  - DOMAIN-SUFFIX,iflyrec.com
+  - DOMAIN-SUFFIX,iflyink.com
+  - DOMAIN-SUFFIX,isay365.net
+  - DOMAIN-SUFFIX,iflyread.cn
+  - DOMAIN-SUFFIX,iflyiot.com
+  - DOMAIN-SUFFIX,iflytek.com
+  - DOMAIN-SUFFIX,voiceads.cn
+  - DOMAIN-SUFFIX,edux.design
+  - DOMAIN-SUFFIX,aifuwus.com
   - DOMAIN-SUFFIX,xiezuoye.com
-  - DOMAIN-SUFFIX,xftransa.com
+  - DOMAIN-SUFFIX,changyan.com
+  - DOMAIN-SUFFIX,xx-sapce.com
   - DOMAIN-SUFFIX,peiyingo.com
-  - DOMAIN-SUFFIX,ai-daxue.com
-  - DOMAIN-SUFFIX,kuyinxiu.com
+  - DOMAIN-SUFFIX,jicaibao.com
+  - DOMAIN-SUFFIX,pthceshi.com
+  - DOMAIN-SUFFIX,iflydocs.com
+  - DOMAIN-SUFFIX,cyservice.cn
   - DOMAIN-SUFFIX,himorfei.com
-  - DOMAIN-SUFFIX,openspeech.cn
+  - DOMAIN-SUFFIX,kuyin123.com
+  - DOMAIN-SUFFIX,kuyinxiu.com
+  - DOMAIN-SUFFIX,iflynote.com
+  - DOMAIN-SUFFIX,51lesheng.cn
+  - DOMAIN-SUFFIX,iflyread.com
+  - DOMAIN-SUFFIX,guguread.com
+  - DOMAIN-SUFFIX,iflyaiedu.cn
+  - DOMAIN-SUFFIX,kuyinyun.com
+  - DOMAIN-SUFFIX,hudong100.cn
+  - DOMAIN-SUFFIX,ai-daxue.com
+  - DOMAIN-SUFFIX,peiyinge.com
+  - DOMAIN-SUFFIX,xftransa.com
+  - DOMAIN-SUFFIX,pitayaio.com
+  - DOMAIN-SUFFIX,ichangyan.com
+  - DOMAIN-SUFFIX,hudong100.org
   - DOMAIN-SUFFIX,zhcyanshi.com
-  - DOMAIN-SUFFIX,linkspeech.cn
+  - DOMAIN-SUFFIX,xunfeixxj.com
+  - DOMAIN-SUFFIX,mingshi100.cn
+  - DOMAIN-SUFFIX,openspeech.cn
+  - DOMAIN-SUFFIX,51lesheng.com
+  - DOMAIN-SUFFIX,51diyring.com
   - DOMAIN-SUFFIX,voicecloud.cn
   - DOMAIN-SUFFIX,hudong100.com
-  - DOMAIN-SUFFIX,51diyring.com
+  - DOMAIN-SUFFIX,linkspeech.cn
+  - DOMAIN-SUFFIX,yytiflytek.cn
+  - DOMAIN-SUFFIX,xfyousheng.cn
   - DOMAIN-SUFFIX,tangdaoya.com
-  - DOMAIN-SUFFIX,hudong100.org
   - DOMAIN-SUFFIX,iflytekin.com
   - DOMAIN-SUFFIX,hudong100.net
-  - DOMAIN-SUFFIX,xfyousheng.cn
-  - DOMAIN-SUFFIX,iflyaiedu.com
-  - DOMAIN-SUFFIX,xunfeixxj.com
-  - DOMAIN-SUFFIX,yytiflytek.cn
-  - DOMAIN-SUFFIX,51lesheng.com
   - DOMAIN-SUFFIX,iflyinsure.cn
-  - DOMAIN-SUFFIX,ichangyan.com
-  - DOMAIN-SUFFIX,mingshi100.cn
+  - DOMAIN-SUFFIX,iflyaiedu.com
   - DOMAIN-SUFFIX,openstorage.cn
-  - DOMAIN-SUFFIX,xfyousheng.com
+  - DOMAIN-SUFFIX,xfliusheng.com
+  - DOMAIN-SUFFIX,mingshi100.net
+  - DOMAIN-SUFFIX,hd-english.com
+  - DOMAIN-SUFFIX,mingshi100.com
   - DOMAIN-SUFFIX,iflytekauto.cn
   - DOMAIN-SUFFIX,learningsj.com
   - DOMAIN-SUFFIX,yytiflytek.com
-  - DOMAIN-SUFFIX,4006806555.com
   - DOMAIN-SUFFIX,dungkarime.com
-  - DOMAIN-SUFFIX,mingshi100.com
+  - DOMAIN-SUFFIX,4006806555.com
   - DOMAIN-SUFFIX,tingshuo51.com
-  - DOMAIN-SUFFIX,hd-english.com
-  - DOMAIN-SUFFIX,xfliusheng.com
-  - DOMAIN-SUFFIX,mingshi100.net
+  - DOMAIN-SUFFIX,xfyousheng.com
   - DOMAIN-SUFFIX,hd-english.net
-  - DOMAIN-SUFFIX,ceshiservice.cn
-  - DOMAIN-SUFFIX,lingxicloud.com
-  - DOMAIN-SUFFIX,iflytektstd.com
   - DOMAIN-SUFFIX,haitunvoice.com
-  - DOMAIN-SUFFIX,qingsonngxx.com
   - DOMAIN-SUFFIX,iflydatahub.com
+  - DOMAIN-SUFFIX,qingsonngxx.com
+  - DOMAIN-SUFFIX,iflytektstd.com
+  - DOMAIN-SUFFIX,ceshiservice.cn
   - DOMAIN-SUFFIX,kuyinxiuxiu.com
+  - DOMAIN-SUFFIX,lingxicloud.com
+  - DOMAIN-SUFFIX,yanshiservice.cn
   - DOMAIN-SUFFIX,chinese-learn.cn
   - DOMAIN-SUFFIX,iflyresearch.com
-  - DOMAIN-SUFFIX,yanshiservice.cn
   - DOMAIN-SUFFIX,zhihuixuexipt.com
   - DOMAIN-SUFFIX,peiyingefiles.com
   - DOMAIN-SUFFIX,chinese-learning.cn
   - DOMAIN-SUFFIX,iflyauto-solution.com
   - DOMAIN-SUFFIX,zhihuichuangyanshi.com
   - DOMAIN-SUFFIX,fxk.net.cn
-  - DOMAIN-SUFFIX,khfw.net.cn
   - DOMAIN-SUFFIX,colp.com.cn
+  - DOMAIN-SUFFIX,khfw.net.cn
   - DOMAIN-SUFFIX,pthcs.org.cn
   - DOMAIN-SUFFIX,koukao.com.cn
-  - DOMAIN-SUFFIX,iflytek.com.cn
   - DOMAIN-SUFFIX,isay365.com.cn
+  - DOMAIN-SUFFIX,iflytek.com.cn
   - DOMAIN-SUFFIX,isay365.net.cn
   - DOMAIN-SUFFIX,mingshi100.com.cn
   - DOMAIN-SUFFIX,chinese-learn.com.cn

@@ -1,28 +1,28 @@
 # NAME: XieCheng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:02.503686+00:00
+# UPDATED: 2026-07-11T19:28:50.854374+00:00
 payload:
-  - DOMAIN-SUFFIX,trip.com
   - DOMAIN-SUFFIX,ctrip.my
-  - DOMAIN-SUFFIX,ctrip.cn
+  - DOMAIN-SUFFIX,trip.com
   - DOMAIN-SUFFIX,ctrip.sg
+  - DOMAIN-SUFFIX,ctrip.cn
   - DOMAIN-SUFFIX,suanya.cn
   - DOMAIN-SUFFIX,ctrip.com
-  - DOMAIN-SUFFIX,shuntu.cn
   - DOMAIN-SUFFIX,lvtds.com
-  - DOMAIN-SUFFIX,suanya.com
-  - DOMAIN-SUFFIX,tieyou.com
-  - DOMAIN-SUFFIX,vipdlt.com
+  - DOMAIN-SUFFIX,shuntu.cn
   - DOMAIN-SUFFIX,skysea.com
   - DOMAIN-SUFFIX,toptown.cn
+  - DOMAIN-SUFFIX,tieyou.com
+  - DOMAIN-SUFFIX,suanya.com
+  - DOMAIN-SUFFIX,vipdlt.com
   - DOMAIN-SUFFIX,c-ctrip.com
   - DOMAIN-SUFFIX,ctripbuy.hk
   - DOMAIN-SUFFIX,tripcdn.com
-  - DOMAIN-SUFFIX,hhtravel.com
   - DOMAIN-SUFFIX,toursbms.com
+  - DOMAIN-SUFFIX,colinker.com
+  - DOMAIN-SUFFIX,hhtravel.com
   - DOMAIN-SUFFIX,easytrip.com
   - DOMAIN-SUFFIX,ctripbiz.com
-  - DOMAIN-SUFFIX,colinker.com
   - DOMAIN-SUFFIX,doticloud.com
   - DOMAIN-SUFFIX,ctripteam.com
   - DOMAIN-SUFFIX,izuchebao.com

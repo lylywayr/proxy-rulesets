@@ -1,6 +1,6 @@
 # NAME: KuangShi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:24.054321+00:00
+# UPDATED: 2026-07-11T19:22:53.055468+00:00
 # DOMAIN-SUFFIX: 23
 # IP-CIDR: 2
 # TOTAL: 25
@@ -8,25 +8,25 @@
 DOMAIN-SUFFIX,xlsdn.cn
 DOMAIN-SUFFIX,xlsdn.com
 DOMAIN-SUFFIX,brainpp.cn
-DOMAIN-SUFFIX,megvii.com
 DOMAIN-SUFFIX,faceid.com
+DOMAIN-SUFFIX,megvii.com
 DOMAIN-SUFFIX,megcup.com
 DOMAIN-SUFFIX,datafun.vip
+DOMAIN-SUFFIX,koalacam.net
 DOMAIN-SUFFIX,xcyuntech.cn
 DOMAIN-SUFFIX,kaolacam.net
-DOMAIN-SUFFIX,koalacam.net
 DOMAIN-SUFFIX,xiaodaijl.com
-DOMAIN-SUFFIX,yuesuoping.com
 DOMAIN-SUFFIX,megvii-inc.com
-DOMAIN-SUFFIX,kuangshitech.com
+DOMAIN-SUFFIX,yuesuoping.com
 DOMAIN-SUFFIX,imageplusplus.cn
-DOMAIN-SUFFIX,faceplusplus.com
 DOMAIN-SUFFIX,visionhacker.com
-DOMAIN-SUFFIX,imageplusplus.net
+DOMAIN-SUFFIX,kuangshitech.com
+DOMAIN-SUFFIX,faceplusplus.com
 DOMAIN-SUFFIX,imageplusplus.com
+DOMAIN-SUFFIX,imageplusplus.net
 DOMAIN-SUFFIX,face-plus-plus.com
 DOMAIN-SUFFIX,faceplusplus.com.cn
-DOMAIN-SUFFIX,brainplusplus.com.cn
 DOMAIN-SUFFIX,imageplusplus.com.cn
+DOMAIN-SUFFIX,brainplusplus.com.cn
 IP-CIDR,114.98.177.194/31,no-resolve
 IP-CIDR,114.98.177.196/32,no-resolve

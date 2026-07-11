@@ -1,6 +1,6 @@
 # NAME: Netflix
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:28.356138+00:00
+# UPDATED: 2026-07-11T19:23:09.575291+00:00
 no_resolve: true
 domain_set:
   - "e13252.dscg.akamaiedge.net"
@@ -16,22 +16,22 @@ domain_suffix_set:
   - "nflxext.com"
   - "netflix.com"
   - "onetrust.com"
-  - "cookielaw.org"
   - "nflxvideo.net"
+  - "cookielaw.org"
   - "nflxsearch.net"
   - "netflixstudios.com"
-  - "netflixtechblog.com"
   - "netflixdnstest4.com"
-  - "netflixdnstest7.com"
   - "netflixdnstest0.com"
   - "netflixdnstest1.com"
-  - "netflixinvestor.com"
-  - "netflixdnstest6.com"
-  - "netflixdnstest5.com"
-  - "netflixdnstest8.com"
-  - "netflixdnstest9.com"
-  - "netflixdnstest3.com"
   - "netflixdnstest2.com"
+  - "netflixtechblog.com"
+  - "netflixdnstest8.com"
+  - "netflixdnstest7.com"
+  - "netflixdnstest3.com"
+  - "netflixinvestor.com"
+  - "netflixdnstest5.com"
+  - "netflixdnstest6.com"
+  - "netflixdnstest9.com"
   - "netflixdnstest10.com"
   - "netflix.com.au"
   - "us-west-2.amazonaws.com"

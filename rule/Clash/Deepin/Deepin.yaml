@@ -1,11 +1,11 @@
 # NAME: Deepin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:59:02.672057+00:00
+# UPDATED: 2026-07-11T19:08:54.245158+00:00
 payload:
   - DOMAIN-SUFFIX,deepin.cn
   - DOMAIN-SUFFIX,deepin.io
-  - DOMAIN-SUFFIX,deepin.com
   - DOMAIN-SUFFIX,deepin.org
-  - DOMAIN-SUFFIX,linglong.dev
+  - DOMAIN-SUFFIX,deepin.com
   - DOMAIN-SUFFIX,chinauos.com
+  - DOMAIN-SUFFIX,linglong.dev
   - DOMAIN-SUFFIX,uniontech.com

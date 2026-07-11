@@ -9,7 +9,7 @@
 - 分类标识：`GovCN`
 - 当前客户端：`Egern`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for GovCN, covering related domains, keywords, and network targ
 - Category ID: `GovCN`
 - Client: `Egern`
 - Group: `Mainland`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GovCN/GovCN.yaml>
 

@@ -1,17 +1,17 @@
 # NAME: DigiCert
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:59:03.133501+00:00
+# UPDATED: 2026-07-11T19:08:55.569221+00:00
 no_resolve: true
 domain_suffix_set:
-  - "thawte.fr"
-  - "dcocsp.cn"
   - "thawte.de"
+  - "dcocsp.cn"
+  - "thawte.fr"
   - "thawte.com"
   - "freessl.com"
   - "digicert.cn"
-  - "digicert.com"
   - "rapidssl.com"
   - "geotrust.com"
+  - "digicert.com"
   - "digicert-cn.com"
   - "public-trust.com"
   - "quovadisglobal.com"

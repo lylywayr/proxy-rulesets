@@ -1,15 +1,15 @@
 # NAME: SouFang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:56.295173+00:00
+# UPDATED: 2026-07-11T19:28:23.959824+00:00
 no_resolve: true
 domain_suffix_set:
   - "nree.cn"
   - "txsf.com"
   - "fang.com"
   - "soufun.com"
-  - "soufunimg.com"
   - "houselight.cn"
-  - "hkproperty.com"
+  - "soufunimg.com"
   - "villachina.com"
+  - "hkproperty.com"
   - "soufun.com.cn"
   - "villachina.com.cn"

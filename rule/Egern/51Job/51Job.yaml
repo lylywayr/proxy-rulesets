@@ -1,24 +1,24 @@
 # NAME: 51Job
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:24:50.879953+00:00
+# UPDATED: 2026-07-11T18:41:02.565251+00:00
 no_resolve: true
 domain_suffix_set:
   - "51hr.com"
-  - "51mdd.com"
-  - "51job.com"
   - "myyjs.com"
+  - "51job.com"
+  - "51mdd.com"
   - "51ideal.com"
   - "51jobcdn.com"
   - "coolping.com"
   - "maketion.com"
   - "ibmcampus.com"
+  - "51laiqiang.com"
   - "51jingying.com"
   - "51miduoduo.com"
-  - "51laiqiang.com"
   - "wuyoudagong.com"
   - "yingjiesheng.org"
-  - "yingjiesheng.net"
   - "yingjiesheng.com"
+  - "yingjiesheng.net"
   - "correlation-one.cn"
-  - "xinghua.org.cn"
   - "zhiding.com.cn"
+  - "xinghua.org.cn"

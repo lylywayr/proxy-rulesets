@@ -1,6 +1,6 @@
 # NAME: BaiDuTieBa
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:24:57.690715+00:00
+# UPDATED: 2026-07-11T18:41:33.594166+00:00
 payload:
   - DOMAIN,als.baidu.com
   - DOMAIN,cdn.hiphotos.baidu.com

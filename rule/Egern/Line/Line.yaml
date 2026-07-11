@@ -1,16 +1,16 @@
 # NAME: Line
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:24.865161+00:00
+# UPDATED: 2026-07-11T19:22:55.671996+00:00
 no_resolve: true
 domain_suffix_set:
   - "lin.ee"
   - "line.me"
   - "naver.jp"
   - "nhncorp.jp"
-  - "linecorp.com"
   - "line-cdn.net"
-  - "line-apps.com"
+  - "linecorp.com"
   - "line-scdn.net"
+  - "line-apps.com"
 ip_cidr_set:
   - "103.2.28.0/22"
   - "119.235.224.0/21"

@@ -1,10 +1,10 @@
 # NAME: CaiNiao
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:24:59.157838+00:00
+# UPDATED: 2026-07-11T18:41:40.767411+00:00
 no_resolve: true
 domain_suffix_set:
-  - "56che.com"
   - "xiaog.xyz"
+  - "56che.com"
   - "cainiao.com"
   - "cainiao-inc.cn"
   - "guoguo-app.com"

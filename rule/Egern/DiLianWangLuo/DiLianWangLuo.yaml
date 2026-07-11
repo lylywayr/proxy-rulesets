@@ -1,19 +1,19 @@
 # NAME: DiLianWangLuo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:59:03.245495+00:00
+# UPDATED: 2026-07-11T19:08:55.941998+00:00
 no_resolve: true
 domain_suffix_set:
-  - "acadn.cn"
   - "mcadn.cn"
-  - "flxdns.cn"
+  - "acadn.cn"
   - "dwion.com"
-  - "dlgslb.cn"
+  - "flxdns.cn"
   - "acadn.com"
   - "tlgslb.cn"
+  - "dlgslb.cn"
+  - "flxdns.com"
   - "tlgslb.com"
   - "dlgslb.net"
-  - "flxdns.com"
-  - "bbbcdns.com"
   - "fastcdn.com"
+  - "bbbcdns.com"
   - "globalcdn.cn"
   - "fastcdn.com.cn"

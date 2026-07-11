@@ -1,6 +1,6 @@
 # NAME: HBOAsia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:19.736246+00:00
+# UPDATED: 2026-07-11T19:22:36.673053+00:00
 payload:
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN,bcbolthboa-a.akamaihd.net

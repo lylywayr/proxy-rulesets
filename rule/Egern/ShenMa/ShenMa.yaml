@@ -1,6 +1,6 @@
 # NAME: ShenMa
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:55.392063+00:00
+# UPDATED: 2026-07-11T19:28:20.630471+00:00
 no_resolve: true
 domain_suffix_set:
   - "sm.cn"
@@ -10,9 +10,9 @@ domain_suffix_set:
   - "uczzd.net"
   - "yisou.com"
   - "shenma-inc.com"
+  - "xiaoshuo5-sm.com"
+  - "xiaoshuo2-sm.com"
   - "xiaoshuo1-sm.com"
   - "xiaoshuo3-sm.com"
   - "xiaoshuo4-sm.com"
-  - "xiaoshuo2-sm.com"
-  - "xiaoshuo5-sm.com"
   - "uczzd.com.cn"

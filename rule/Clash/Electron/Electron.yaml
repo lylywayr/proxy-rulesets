@@ -1,5 +1,5 @@
 # NAME: Electron
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:14.543072+00:00
+# UPDATED: 2026-07-11T19:22:21.821077+00:00
 payload:
   - DOMAIN-SUFFIX,electronjs.org

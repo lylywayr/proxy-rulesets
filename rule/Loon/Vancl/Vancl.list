@@ -1,9 +1,9 @@
 # NAME: Vancl
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:59.958853+00:00
+# UPDATED: 2026-07-11T19:28:39.994592+00:00
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 
-DOMAIN-SUFFIX,vancl.com
 DOMAIN-SUFFIX,vcimg.com
+DOMAIN-SUFFIX,vancl.com
 DOMAIN-SUFFIX,vanclimg.com

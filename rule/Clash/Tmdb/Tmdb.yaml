@@ -1,6 +1,6 @@
 # NAME: Tmdb
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:58.720293+00:00
+# UPDATED: 2026-07-11T19:28:34.418533+00:00
 payload:
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org

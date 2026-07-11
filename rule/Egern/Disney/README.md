@@ -9,7 +9,7 @@
 - 分类标识：`Disney`
 - 当前客户端：`Egern`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - [流媒体专题](../../../guide/topics/streaming-media.md)
 
@@ -50,7 +50,7 @@ Aggregated rules for Disney, covering related domains, keywords, and network tar
 - Category ID: `Disney`
 - Client: `Egern`
 - Group: `Media`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Disney/Disney.yaml>
 

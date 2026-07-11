@@ -1,18 +1,18 @@
 # NAME: SFExpress
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:55.095892+00:00
+# UPDATED: 2026-07-11T19:28:19.127566+00:00
 # DOMAIN-SUFFIX: 20
 # TOTAL: 20
 
 DOMAIN-SUFFIX,sf.cn
-DOMAIN-SUFFIX,sfgy.org
-DOMAIN-SUFFIX,sffix.cn
 DOMAIN-SUFFIX,sfcar.hk
-DOMAIN-SUFFIX,feng1.com
-DOMAIN-SUFFIX,hbjia.net
+DOMAIN-SUFFIX,sffix.cn
+DOMAIN-SUFFIX,sfgy.org
 DOMAIN-SUFFIX,sfair.com
 DOMAIN-SUFFIX,sf-jf.com
 DOMAIN-SUFFIX,sfbuy.com
+DOMAIN-SUFFIX,feng1.com
+DOMAIN-SUFFIX,hbjia.net
 DOMAIN-SUFFIX,sf-saas.cn
 DOMAIN-SUFFIX,sf-saas.com
 DOMAIN-SUFFIX,fslinker.com

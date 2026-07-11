@@ -1,6 +1,6 @@
 # NAME: STUN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:56.835485+00:00
+# UPDATED: 2026-07-11T19:28:26.357433+00:00
 payload:
   - DOMAIN,iphone-stun.strato-iphone.de
   - DOMAIN,relay.webwormhole.io

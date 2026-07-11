@@ -1,6 +1,6 @@
 # NAME: NBC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:28.125611+00:00
+# UPDATED: 2026-07-11T19:23:09.050840+00:00
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 21
 # TOTAL: 22
@@ -11,18 +11,18 @@ DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,syfy.com
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,msnbc.com
+DOMAIN-SUFFIX,cnbcfm.com
 DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,oxygen.com
-DOMAIN-SUFFIX,cnbcfm.com
-DOMAIN-SUFFIX,eonline.com
-DOMAIN-SUFFIX,bravotv.com
 DOMAIN-SUFFIX,nbcnews.com
-DOMAIN-SUFFIX,s-nbcnews.com
-DOMAIN-SUFFIX,nbcsports.com
-DOMAIN-SUFFIX,telemundo.com
+DOMAIN-SUFFIX,bravotv.com
+DOMAIN-SUFFIX,eonline.com
 DOMAIN-SUFFIX,peacocktv.com
-DOMAIN-SUFFIX,usanetwork.com
+DOMAIN-SUFFIX,s-nbcnews.com
+DOMAIN-SUFFIX,telemundo.com
+DOMAIN-SUFFIX,nbcsports.com
 DOMAIN-SUFFIX,eluniverso.com
+DOMAIN-SUFFIX,usanetwork.com
 DOMAIN-SUFFIX,universalkids.com
 DOMAIN-SUFFIX,nbcudigitaladops.com
 DOMAIN-SUFFIX,nbcsports.h-cdn.com

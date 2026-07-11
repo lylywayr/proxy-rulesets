@@ -1,6 +1,6 @@
 # NAME: OnePlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:29.319832+00:00
+# UPDATED: 2026-07-11T19:23:13.463093+00:00
 payload:
   - DOMAIN-SUFFIX,h2os.com
   - DOMAIN-SUFFIX,oneplus.cn

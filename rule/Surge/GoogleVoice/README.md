@@ -9,7 +9,7 @@
 - 分类标识：`GoogleVoice`
 - 当前客户端：`Surge`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for GoogleVoice, covering related domains, keywords, and networ
 - Category ID: `GoogleVoice`
 - Client: `Surge`
 - Group: `Office`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GoogleVoice/GoogleVoice.list>
 

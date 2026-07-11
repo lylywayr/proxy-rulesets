@@ -1,6 +1,6 @@
 # NAME: KakaoTalk
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:23.339897+00:00
+# UPDATED: 2026-07-11T19:22:50.080671+00:00
 payload:
   - DOMAIN-SUFFIX,daum.net
   - DOMAIN-SUFFIX,kakao.com

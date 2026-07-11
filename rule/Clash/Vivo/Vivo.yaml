@@ -1,17 +1,17 @@
 # NAME: Vivo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:00.591881+00:00
+# UPDATED: 2026-07-11T19:28:42.570070+00:00
 payload:
-  - DOMAIN-SUFFIX,bbk.com
   - DOMAIN-SUFFIX,vivo.cn
-  - DOMAIN-SUFFIX,vivo.xyz
-  - DOMAIN-SUFFIX,vmic.xyz
-  - DOMAIN-SUFFIX,vivo.com
+  - DOMAIN-SUFFIX,bbk.com
   - DOMAIN-SUFFIX,iqoo.com
+  - DOMAIN-SUFFIX,vivo.xyz
+  - DOMAIN-SUFFIX,vivo.com
+  - DOMAIN-SUFFIX,vmic.xyz
   - DOMAIN-SUFFIX,gdbbk.com
   - DOMAIN-SUFFIX,vivotc.com
-  - DOMAIN-SUFFIX,vsearch.club
   - DOMAIN-SUFFIX,vivosjpt.com
+  - DOMAIN-SUFFIX,vsearch.club
   - DOMAIN-SUFFIX,vivoglobal.com
   - DOMAIN-SUFFIX,funtouchos.com
   - DOMAIN-SUFFIX,vivo.com.cn

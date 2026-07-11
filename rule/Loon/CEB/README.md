@@ -9,7 +9,7 @@
 - 分类标识：`CEB`
 - 当前客户端：`Loon`
 - 所属分组：[金融电商](../../../guide/groups/finance.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - [金融电商专题](../../../guide/topics/finance-commerce.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for CEB, covering related domains, keywords, and network target
 - Category ID: `CEB`
 - Client: `Loon`
 - Group: `Finance`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/CEB/CEB.list>
 

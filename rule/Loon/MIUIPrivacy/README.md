@@ -9,7 +9,7 @@
 - 分类标识：`MIUIPrivacy`
 - 当前客户端：`Loon`
 - 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for MIUIPrivacy, covering related domains, keywords, and networ
 - Category ID: `MIUIPrivacy`
 - Client: `Loon`
 - Group: `Security`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/MIUIPrivacy/MIUIPrivacy.list>
 

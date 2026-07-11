@@ -1,9 +1,9 @@
 # NAME: MOMOShop
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:27.508672+00:00
+# UPDATED: 2026-07-11T19:23:06.659200+00:00
 no_resolve: true
 domain_suffix_set:
   - "momo.dm"
   - "momo5188.com"
-  - "momoshop.com.tw"
   - "momomall.com.tw"
+  - "momoshop.com.tw"

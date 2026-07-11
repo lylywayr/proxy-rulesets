@@ -1,5 +1,5 @@
 # NAME: Civitai
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:59:00.747073+00:00
+# UPDATED: 2026-07-11T19:08:48.384690+00:00
 payload:
   - DOMAIN-SUFFIX,civitai.com

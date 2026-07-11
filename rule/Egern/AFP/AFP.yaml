@@ -1,6 +1,6 @@
 # NAME: AFP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:24:52.502596+00:00
+# UPDATED: 2026-07-11T18:41:10.547965+00:00
 no_resolve: true
 domain_suffix_set:
   - "afp.com"

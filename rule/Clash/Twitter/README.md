@@ -9,7 +9,7 @@
 - 分类标识：`Twitter`
 - 当前客户端：`Clash`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
-- 本次更新时间：`2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - 专题入口：
 - [社交通信专题](../../../guide/topics/social-communication.md)
 
@@ -50,7 +50,7 @@ Aggregated rules for Twitter, covering related domains, keywords, and network ta
 - Category ID: `Twitter`
 - Client: `Clash`
 - Group: `Social`
-- Last updated: `2026-07-06 09:24:50 CST (UTC+8) / 2026-07-06 01:24:50 UTC`
+- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Twitter/Twitter.yaml>
 

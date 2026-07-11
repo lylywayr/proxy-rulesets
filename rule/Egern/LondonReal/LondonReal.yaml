@@ -1,6 +1,6 @@
 # NAME: LondonReal
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:25.303714+00:00
+# UPDATED: 2026-07-11T19:22:57.713651+00:00
 no_resolve: true
 domain_suffix_set:
   - "londonreal.tv"

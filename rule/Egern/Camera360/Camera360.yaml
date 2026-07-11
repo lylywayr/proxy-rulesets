@@ -1,6 +1,6 @@
 # NAME: Camera360
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T01:24:59.306409+00:00
+# UPDATED: 2026-07-11T18:41:41.369258+00:00
 no_resolve: true
 domain_suffix_set:
   - "360in.com"

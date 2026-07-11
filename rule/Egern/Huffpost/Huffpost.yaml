@@ -1,23 +1,23 @@
 # NAME: Huffpost
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:21.036283+00:00
+# UPDATED: 2026-07-11T19:22:40.147947+00:00
 no_resolve: true
 domain_suffix_set:
   - "huffpost.com"
-  - "huffpostarabi.com"
-  - "huffingtonpost.de"
-  - "huffingtonpost.gr"
-  - "huffingtonpost.kr"
-  - "huffingtonpost.ca"
-  - "huffingtonpost.es"
-  - "huffingtonpost.fr"
-  - "huffingtonpost.in"
-  - "huffingtonpost.jp"
   - "huffingtonpost.it"
+  - "huffingtonpost.es"
+  - "huffingtonpost.in"
+  - "huffingtonpost.kr"
+  - "huffingtonpost.jp"
+  - "huffingtonpost.fr"
+  - "huffpostarabi.com"
+  - "huffingtonpost.gr"
+  - "huffingtonpost.de"
+  - "huffingtonpost.ca"
   - "huffpostbrasil.com"
   - "huffingtonpost.com"
   - "huffpostmaghreb.com"
   - "huffingtonpost.co.uk"
   - "huffingtonpost.co.za"
-  - "huffingtonpost.com.mx"
   - "huffingtonpost.com.au"
+  - "huffingtonpost.com.mx"

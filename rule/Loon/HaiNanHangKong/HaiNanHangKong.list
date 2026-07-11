@@ -1,13 +1,13 @@
 # NAME: HaiNanHangKong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:16:19.396086+00:00
+# UPDATED: 2026-07-11T19:22:35.642681+00:00
 # DOMAIN-SUFFIX: 5
 # DOMAIN-KEYWORD: 1
 # TOTAL: 6
 
 DOMAIN-SUFFIX,10044.cn
-DOMAIN-SUFFIX,hnair.com
 DOMAIN-SUFFIX,hnair.net
+DOMAIN-SUFFIX,hnair.com
 DOMAIN-SUFFIX,hnacargo.com
 DOMAIN-SUFFIX,hainanairlines.com
 DOMAIN-KEYWORD,hnagroup

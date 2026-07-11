@@ -1,15 +1,15 @@
 # NAME: ZeeTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:03.805698+00:00
+# UPDATED: 2026-07-11T19:28:55.721347+00:00
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 
 DOMAIN-SUFFIX,z5.com
 DOMAIN-SUFFIX,z5.app
-DOMAIN-SUFFIX,zee5.tv
 DOMAIN-SUFFIX,zee5.in
+DOMAIN-SUFFIX,zee5.tv
 DOMAIN-SUFFIX,zee5.com
-DOMAIN-SUFFIX,zeeuk.com
 DOMAIN-SUFFIX,zeetv.com
+DOMAIN-SUFFIX,zeeuk.com
 DOMAIN-SUFFIX,zeebioskop.com
 DOMAIN-SUFFIX,zeetv.co.uk

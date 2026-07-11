@@ -1,6 +1,6 @@
 # NAME: Python
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:53.843324+00:00
+# UPDATED: 2026-07-11T19:28:13.875258+00:00
 payload:
   - DOMAIN-SUFFIX,pypa.io
   - DOMAIN-SUFFIX,pypi.io

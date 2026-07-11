@@ -1,23 +1,23 @@
 # NAME: XingKongWuXian
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:02.580712+00:00
+# UPDATED: 2026-07-11T19:28:51.010994+00:00
 no_resolve: true
 domain_suffix_set:
-  - "avstar6.com"
   - "avstar2.com"
-  - "avstar06.me"
-  - "avstar3.com"
-  - "avstar03.me"
-  - "avstar05.me"
-  - "avstar07.me"
-  - "avstar8.com"
-  - "avstar09.me"
-  - "avstar1.com"
-  - "avstar02.me"
-  - "avstar04.me"
-  - "avstar5.com"
   - "avstar9.com"
   - "avstar01.me"
+  - "avstar5.com"
+  - "avstar04.me"
+  - "avstar03.me"
+  - "avstar09.me"
+  - "avstar8.com"
+  - "avstar06.me"
+  - "avstar07.me"
+  - "avstar05.me"
+  - "avstar6.com"
+  - "avstar02.me"
+  - "avstar1.com"
+  - "avstar3.com"
   - "avstar4.com"
   - "avstar07.com"
   - "avstar09.com"

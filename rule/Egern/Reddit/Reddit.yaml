@@ -1,20 +1,20 @@
 # NAME: Reddit
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:18:54.514208+00:00
+# UPDATED: 2026-07-11T19:28:16.755266+00:00
 no_resolve: true
 domain_suffix_set:
   - "redd.it"
   - "reddit.com"
   - "redditinc.com"
+  - "reddithelp.com"
   - "redditmail.com"
   - "redditblog.com"
-  - "reddithelp.com"
-  - "redditspace.com"
   - "redditmedia.com"
+  - "redditspace.com"
   - "redditstatic.com"
   - "redditstatus.com"
   - "reddituploads.com"
   - "reddit.app.link"
   - "reddit.map.fastly.net"
-  - "reddituploads.com.cdn-cf.behance.net"
   - "reddituploads.com.cdn-cf.dropbox.com"
+  - "reddituploads.com.cdn-cf.behance.net"

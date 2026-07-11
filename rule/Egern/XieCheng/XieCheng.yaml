@@ -1,29 +1,29 @@
 # NAME: XieCheng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-06T02:19:02.504107+00:00
+# UPDATED: 2026-07-11T19:28:50.854550+00:00
 no_resolve: true
 domain_suffix_set:
-  - "trip.com"
   - "ctrip.my"
-  - "ctrip.cn"
+  - "trip.com"
   - "ctrip.sg"
+  - "ctrip.cn"
   - "suanya.cn"
   - "ctrip.com"
-  - "shuntu.cn"
   - "lvtds.com"
-  - "suanya.com"
-  - "tieyou.com"
-  - "vipdlt.com"
+  - "shuntu.cn"
   - "skysea.com"
   - "toptown.cn"
+  - "tieyou.com"
+  - "suanya.com"
+  - "vipdlt.com"
   - "c-ctrip.com"
   - "ctripbuy.hk"
   - "tripcdn.com"
-  - "hhtravel.com"
   - "toursbms.com"
+  - "colinker.com"
+  - "hhtravel.com"
   - "easytrip.com"
   - "ctripbiz.com"
-  - "colinker.com"
   - "doticloud.com"
   - "ctripteam.com"
   - "izuchebao.com"
