@@ -1,11 +1,11 @@
 # NAME: XueQiu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:51.526577+00:00
+# UPDATED: 2026-07-18T19:39:15.505999+00:00
 payload:
-  - DOMAIN-SUFFIX,imeigu.cn
   - DOMAIN-SUFFIX,ncfjj.com
-  - DOMAIN-SUFFIX,imedao.com
+  - DOMAIN-SUFFIX,imeigu.cn
   - DOMAIN-SUFFIX,xueqiu.com
+  - DOMAIN-SUFFIX,imedao.com
   - DOMAIN-SUFFIX,iganggu.com
   - DOMAIN-SUFFIX,aiganggu.com
   - DOMAIN-SUFFIX,danjuanapp.com

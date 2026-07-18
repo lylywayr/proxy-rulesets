@@ -1,30 +1,30 @@
 # NAME: Domob
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:18.092375+00:00
+# UPDATED: 2026-07-18T19:35:44.759268+00:00
 no_resolve: true
 domain_suffix_set:
-  - "modh.cn"
   - "moxz.cn"
-  - "domob.cn"
+  - "modh.cn"
   - "moxz.net"
   - "dmrtb.cn"
-  - "ugdesk.cn"
+  - "domob.cn"
   - "dmrta.com"
-  - "dmrtb.com"
   - "domob.org"
+  - "ugdesk.cn"
   - "dmaow.com"
-  - "dmvideo.cn"
+  - "dmrtb.com"
   - "ugdesk.com"
+  - "dmvideo.cn"
   - "duomeng.cn"
-  - "dmvideo.org"
   - "duomeng.net"
   - "dmvideo.net"
   - "dmyouxi.com"
+  - "dmvideo.org"
   - "duomeng.org"
   - "domobcdn.cn"
   - "domobcdn.com"
-  - "domob-inc.cn"
   - "dmvideo.mobi"
+  - "domob-inc.cn"
   - "domob-inc.com"
   - "domobnetwork.com"
   - "modh.com.cn"

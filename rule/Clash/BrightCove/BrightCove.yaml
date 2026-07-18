@@ -1,16 +1,16 @@
 # NAME: BrightCove
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:39.479898+00:00
+# UPDATED: 2026-07-18T18:41:58.143820+00:00
 payload:
   - DOMAIN-SUFFIX,zencdn.net
-  - DOMAIN-SUFFIX,boltdns.net
   - DOMAIN-SUFFIX,bcovlive.io
+  - DOMAIN-SUFFIX,boltdns.net
   - DOMAIN-SUFFIX,videojs.com
   - DOMAIN-SUFFIX,bcove.video
   - DOMAIN-SUFFIX,zencoder.com
   - DOMAIN-SUFFIX,bcvp0rtal.com
-  - DOMAIN-SUFFIX,brightcove.net
   - DOMAIN-SUFFIX,brightcove.com
+  - DOMAIN-SUFFIX,brightcove.net
   - DOMAIN-SUFFIX,brightcovecdn.com
   - DOMAIN-SUFFIX,brightcove.services
   - DOMAIN-SUFFIX,brightcove.imgix.net

@@ -1,49 +1,49 @@
 # NAME: CAS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:41.837394+00:00
+# UPDATED: 2026-07-18T18:41:58.708673+00:00
 # DOMAIN-SUFFIX: 43
 # TOTAL: 43
 
-DOMAIN-SUFFIX,cjstp.cn
 DOMAIN-SUFFIX,jdis.org
+DOMAIN-SUFFIX,cjstp.cn
 DOMAIN-SUFFIX,agklab.cn
-DOMAIN-SUFFIX,cnegov.org
-DOMAIN-SUFFIX,stpaper.cn
-DOMAIN-SUFFIX,cnegov.com
 DOMAIN-SUFFIX,iauthor.cn
-DOMAIN-SUFFIX,berlin8.org
+DOMAIN-SUFFIX,cnegov.org
+DOMAIN-SUFFIX,cnegov.com
+DOMAIN-SUFFIX,stpaper.cn
 DOMAIN-SUFFIX,chinaxiv.cn
+DOMAIN-SUFFIX,berlin8.org
+DOMAIN-SUFFIX,ipres2020.cn
 DOMAIN-SUFFIX,chinaxiv.com
 DOMAIN-SUFFIX,chinaxiv.org
 DOMAIN-SUFFIX,chinaxiv.net
-DOMAIN-SUFFIX,ipres2020.cn
 DOMAIN-SUFFIX,open-search.org
-DOMAIN-SUFFIX,stmjsociety.com
 DOMAIN-SUFFIX,sciencechina.cn
+DOMAIN-SUFFIX,stmjsociety.com
 DOMAIN-SUFFIX,openinnovation.cn
 DOMAIN-SUFFIX,openinnoviation.cn
-DOMAIN-SUFFIX,lis.ac.cn
-DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,nsl.ac.cn
-DOMAIN-SUFFIX,ndpp.ac.cn
+DOMAIN-SUFFIX,las.ac.cn
+DOMAIN-SUFFIX,lis.ac.cn
 DOMAIN-SUFFIX,csci.ac.cn
-DOMAIN-SUFFIX,acas.ac.cn
+DOMAIN-SUFFIX,csdl.ac.cn
 DOMAIN-SUFFIX,lndx.ac.cn
 DOMAIN-SUFFIX,cscd.ac.cn
-DOMAIN-SUFFIX,csdl.ac.cn
+DOMAIN-SUFFIX,ndpp.ac.cn
+DOMAIN-SUFFIX,acas.ac.cn
 DOMAIN-SUFFIX,csdl.net.cn
-DOMAIN-SUFFIX,csdl.org.cn
 DOMAIN-SUFFIX,csci.net.cn
-DOMAIN-SUFFIX,museum.ac.cn
+DOMAIN-SUFFIX,csdl.org.cn
 DOMAIN-SUFFIX,hitech.ac.cn
-DOMAIN-SUFFIX,biotech.ac.cn
-DOMAIN-SUFFIX,iauthor.ac.cn
+DOMAIN-SUFFIX,museum.ac.cn
 DOMAIN-SUFFIX,grc-oa.org.cn
-DOMAIN-SUFFIX,infotech.ac.cn
+DOMAIN-SUFFIX,iauthor.ac.cn
+DOMAIN-SUFFIX,biotech.ac.cn
 DOMAIN-SUFFIX,progchem.ac.cn
+DOMAIN-SUFFIX,infotech.ac.cn
 DOMAIN-SUFFIX,sciencefocus.ac.cn
 DOMAIN-SUFFIX,sciencechina.ac.cn
 DOMAIN-SUFFIX,sciencechina.net.cn
-DOMAIN-SUFFIX,sciencechina.org.cn
 DOMAIN-SUFFIX,modernization.ac.cn
+DOMAIN-SUFFIX,sciencechina.org.cn
 DOMAIN-SUFFIX,dataintelligence.ac.cn

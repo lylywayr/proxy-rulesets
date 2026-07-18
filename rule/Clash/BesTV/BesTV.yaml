@@ -1,6 +1,6 @@
 # NAME: BesTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:35.633889+00:00
+# UPDATED: 2026-07-18T18:41:57.246750+00:00
 payload:
   - DOMAIN-SUFFIX,bbtv.cn
   - DOMAIN-SUFFIX,smgbb.cn

@@ -1,6 +1,6 @@
 # NAME: BBC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:34.440932+00:00
+# UPDATED: 2026-07-18T18:41:57.005659+00:00
 no_resolve: true
 domain_set:
   - "aod-dash-uk-live.akamaized.net"
@@ -16,16 +16,16 @@ domain_set:
   - "vs-cmaf-push-uk-live.akamaized.net"
 domain_suffix_set:
   - "bbc"
-  - "bbc.in"
   - "bbc.co"
-  - "bbci.co"
+  - "bbc.in"
   - "bbc.com"
-  - "bbcpersian.com"
+  - "bbci.co"
   - "bbcchinese.com"
+  - "bbcpersian.com"
   - "bbcverticals.com"
   - "bbc.co.uk"
-  - "bbci.co.uk"
   - "bbc.net.uk"
+  - "bbci.co.uk"
   - "bidi.net.uk"
   - "bbcmedia.co.uk"
   - "bbcfmt.s.llnwi.net"

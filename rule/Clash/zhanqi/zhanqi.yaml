@@ -1,5 +1,5 @@
 # NAME: zhanqi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:56.656163+00:00
+# UPDATED: 2026-07-18T19:39:16.376677+00:00
 payload:
   - DOMAIN-SUFFIX,zhanqi.tv

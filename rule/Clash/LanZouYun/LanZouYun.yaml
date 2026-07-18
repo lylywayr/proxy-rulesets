@@ -1,40 +1,40 @@
 # NAME: LanZouYun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:53.810220+00:00
+# UPDATED: 2026-07-18T19:36:09.488652+00:00
 payload:
   - DOMAIN-SUFFIX,lanpv.com
   - DOMAIN-SUFFIX,lanzv.com
-  - DOMAIN-SUFFIX,lanzn.com
   - DOMAIN-SUFFIX,lanpw.com
-  - DOMAIN-SUFFIX,lanrar.com
+  - DOMAIN-SUFFIX,lanzn.com
   - DOMAIN-SUFFIX,lanzou.com
   - DOMAIN-SUFFIX,lanzov.com
-  - DOMAIN-SUFFIX,lanzoup.com
-  - DOMAIN-SUFFIX,lanzouu.com
-  - DOMAIN-SUFFIX,lanzoul.com
-  - DOMAIN-SUFFIX,lanzouq.com
-  - DOMAIN-SUFFIX,lanzoux.com
-  - DOMAIN-SUFFIX,lanzouo.com
+  - DOMAIN-SUFFIX,lanrar.com
   - DOMAIN-SUFFIX,lanosso.com
-  - DOMAIN-SUFFIX,lanzouk.com
+  - DOMAIN-SUFFIX,woozooo.com
   - DOMAIN-SUFFIX,lanzouc.com
-  - DOMAIN-SUFFIX,ilanzou.com
-  - DOMAIN-SUFFIX,wwentua.com
-  - DOMAIN-SUFFIX,lanzoug.com
-  - DOMAIN-SUFFIX,lanzoub.com
-  - DOMAIN-SUFFIX,lanzouv.com
+  - DOMAIN-SUFFIX,lanzouf.com
+  - DOMAIN-SUFFIX,lanzouo.com
+  - DOMAIN-SUFFIX,lanzouy.com
   - DOMAIN-SUFFIX,lanzoui.com
-  - DOMAIN-SUFFIX,lanzouh.com
-  - DOMAIN-SUFFIX,lanzoum.com
   - DOMAIN-SUFFIX,lanzouj.com
   - DOMAIN-SUFFIX,lanzout.com
-  - DOMAIN-SUFFIX,lanzouy.com
-  - DOMAIN-SUFFIX,woozooo.com
+  - DOMAIN-SUFFIX,lanzoup.com
+  - DOMAIN-SUFFIX,lanzoul.com
+  - DOMAIN-SUFFIX,lanzouv.com
   - DOMAIN-SUFFIX,lanzoue.com
-  - DOMAIN-SUFFIX,lanzouf.com
-  - DOMAIN-SUFFIX,lanzous.com
-  - DOMAIN-SUFFIX,ulanzou.com
+  - DOMAIN-SUFFIX,lanzouh.com
+  - DOMAIN-SUFFIX,lanzouq.com
+  - DOMAIN-SUFFIX,lanzoux.com
+  - DOMAIN-SUFFIX,lanzoub.com
+  - DOMAIN-SUFFIX,lanzoum.com
   - DOMAIN-SUFFIX,lanzouw.com
+  - DOMAIN-SUFFIX,ulanzou.com
+  - DOMAIN-SUFFIX,lanzoug.com
+  - DOMAIN-SUFFIX,lanzous.com
+  - DOMAIN-SUFFIX,ilanzou.com
+  - DOMAIN-SUFFIX,wwentua.com
+  - DOMAIN-SUFFIX,lanzouu.com
+  - DOMAIN-SUFFIX,lanzouk.com
   - DOMAIN-SUFFIX,baidupan.com
   - DOMAIN-SUFFIX,bakstotre.com
   - DOMAIN-SUFFIX,webgetstore.com

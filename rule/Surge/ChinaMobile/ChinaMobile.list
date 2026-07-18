@@ -1,37 +1,37 @@
 # NAME: ChinaMobile
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:08:45.841245+00:00
+# UPDATED: 2026-07-18T19:17:29.015105+00:00
 # DOMAIN-SUFFIX: 35
 # IP-CIDR: 1
 # TOTAL: 36
 
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,migu.cn
-DOMAIN-SUFFIX,cmdcl.cn
-DOMAIN-SUFFIX,andfx.cn
-DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,lovev.cn
-DOMAIN-SUFFIX,12530.com
-DOMAIN-SUFFIX,migucc.cn
+DOMAIN-SUFFIX,andfx.cn
+DOMAIN-SUFFIX,cmdcl.cn
+DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,andfx.net
-DOMAIN-SUFFIX,lovev.com
 DOMAIN-SUFFIX,zdsdp.com
-DOMAIN-SUFFIX,cmicrwx.cn
-DOMAIN-SUFFIX,migucdn.cn
-DOMAIN-SUFFIX,migugk.com
-DOMAIN-SUFFIX,migufm.com
+DOMAIN-SUFFIX,lovev.com
+DOMAIN-SUFFIX,migucc.cn
+DOMAIN-SUFFIX,12530.com
 DOMAIN-SUFFIX,migutv.com
+DOMAIN-SUFFIX,migufm.com
+DOMAIN-SUFFIX,migugk.com
 DOMAIN-SUFFIX,cmvideo.cn
-DOMAIN-SUFFIX,fxltsbl.com
-DOMAIN-SUFFIX,cmccb2b.com
-DOMAIN-SUFFIX,cmdcxls.com
+DOMAIN-SUFFIX,migucdn.cn
+DOMAIN-SUFFIX,cmicrwx.cn
 DOMAIN-SUFFIX,mmarket.com
-DOMAIN-SUFFIX,cxzx10086.cn
+DOMAIN-SUFFIX,fxltsbl.com
+DOMAIN-SUFFIX,cmdcxls.com
+DOMAIN-SUFFIX,cmccb2b.com
 DOMAIN-SUFFIX,mmarket6.com
-DOMAIN-SUFFIX,fetionpic.com
-DOMAIN-SUFFIX,migucloud.com
-DOMAIN-SUFFIX,monternet.com
+DOMAIN-SUFFIX,cxzx10086.cn
 DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,migucloud.com
+DOMAIN-SUFFIX,fetionpic.com
+DOMAIN-SUFFIX,monternet.com
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,10086kuaixiu.com

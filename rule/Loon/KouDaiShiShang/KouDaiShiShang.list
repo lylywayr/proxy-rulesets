@@ -1,6 +1,6 @@
 # NAME: KouDaiShiShang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:51.948068+00:00
+# UPDATED: 2026-07-18T19:36:09.141372+00:00
 # DOMAIN-SUFFIX: 22
 # TOTAL: 22
 
@@ -10,19 +10,19 @@ DOMAIN-SUFFIX,geili.cn
 DOMAIN-SUFFIX,kou6ai.cn
 DOMAIN-SUFFIX,koudai.cn
 DOMAIN-SUFFIX,vdian.com
-DOMAIN-SUFFIX,bibikan.cn
 DOMAIN-SUFFIX,weidian.cc
-DOMAIN-SUFFIX,koudai.com
-DOMAIN-SUFFIX,91ruyu.com
 DOMAIN-SUFFIX,weidian.cn
-DOMAIN-SUFFIX,weidian.com
+DOMAIN-SUFFIX,bibikan.cn
+DOMAIN-SUFFIX,91ruyu.com
+DOMAIN-SUFFIX,koudai.com
 DOMAIN-SUFFIX,fangxin.com
-DOMAIN-SUFFIX,wdfangyi.com
+DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,geilicdn.com
-DOMAIN-SUFFIX,youshop01.com
-DOMAIN-SUFFIX,youshop04.com
+DOMAIN-SUFFIX,wdfangyi.com
 DOMAIN-SUFFIX,youshop03.com
+DOMAIN-SUFFIX,youshop01.com
 DOMAIN-SUFFIX,youshop02.com
+DOMAIN-SUFFIX,youshop04.com
 DOMAIN-SUFFIX,weidianfans.com
 DOMAIN-SUFFIX,weidian-inc.com
 DOMAIN-SUFFIX,xihuan.com.cn

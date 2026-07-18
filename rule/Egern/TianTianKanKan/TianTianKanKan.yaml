@@ -1,9 +1,9 @@
 # NAME: TianTianKanKan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:32.738837+00:00
+# UPDATED: 2026-07-18T19:39:12.097969+00:00
 no_resolve: true
 domain_suffix_set:
   - "kkstudy.cn"
   - "kankanpro.cn"
-  - "taogepian.com"
   - "ibangtiao.com"
+  - "taogepian.com"

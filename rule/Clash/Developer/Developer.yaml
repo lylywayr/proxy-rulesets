@@ -1,65 +1,65 @@
 # NAME: Developer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:08:54.821272+00:00
+# UPDATED: 2026-07-18T19:17:31.294052+00:00
 payload:
   - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,quay.io
   - DOMAIN-SUFFIX,cups.org
-  - DOMAIN-SUFFIX,gitlab.io
-  - DOMAIN-SUFFIX,unpkg.com
-  - DOMAIN-SUFFIX,spring.io
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,swift.org
+  - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,jetbra.in
   - DOMAIN-SUFFIX,maven.org
-  - DOMAIN-SUFFIX,jitpack.io
-  - DOMAIN-SUFFIX,apache.org
-  - DOMAIN-SUFFIX,spring.net
-  - DOMAIN-SUFFIX,python.org
-  - DOMAIN-SUFFIX,redhat.com
-  - DOMAIN-SUFFIX,elastic.co
-  - DOMAIN-SUFFIX,reddit.com
-  - DOMAIN-SUFFIX,debian.com
+  - DOMAIN-SUFFIX,spring.io
+  - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,webkit.org
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,spring.net
+  - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,swiftui.cn
-  - DOMAIN-SUFFIX,gitlab.com
-  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,jitpack.io
   - DOMAIN-SUFFIX,medium.com
-  - DOMAIN-SUFFIX,macruby.com
+  - DOMAIN-SUFFIX,debian.com
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,redhat.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,macruby.org
   - DOMAIN-SUFFIX,elastic.com
+  - DOMAIN-SUFFIX,macruby.com
   - DOMAIN-SUFFIX,macruby.net
   - DOMAIN-SUFFIX,carekit.org
-  - DOMAIN-SUFFIX,macruby.org
   - DOMAIN-SUFFIX,sonatype.org
-  - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,wpewebkit.org
+  - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,webkitgtk.org
-  - DOMAIN-SUFFIX,researchkit.tv
   - DOMAIN-SUFFIX,researchkit.hk
-  - DOMAIN-SUFFIX,macosicons.com
-  - DOMAIN-SUFFIX,servicetalk.io
-  - DOMAIN-SUFFIX,macosforge.org
-  - DOMAIN-SUFFIX,researchkit.cn
+  - DOMAIN-SUFFIX,researchkit.tv
   - DOMAIN-SUFFIX,webobjects.com
+  - DOMAIN-SUFFIX,macosicons.com
+  - DOMAIN-SUFFIX,macosforge.org
   - DOMAIN-SUFFIX,appleswift.com
-  - DOMAIN-SUFFIX,fontawesome.com
-  - DOMAIN-SUFFIX,researchkit.net
-  - DOMAIN-SUFFIX,researchkit.org
+  - DOMAIN-SUFFIX,researchkit.cn
+  - DOMAIN-SUFFIX,servicetalk.io
   - DOMAIN-SUFFIX,sourcegraph.com
-  - DOMAIN-SUFFIX,foundationdb.org
+  - DOMAIN-SUFFIX,fontawesome.com
+  - DOMAIN-SUFFIX,researchkit.org
+  - DOMAIN-SUFFIX,researchkit.net
   - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,postman-echo.com
-  - DOMAIN-SUFFIX,mvnrepository.com
+  - DOMAIN-SUFFIX,foundationdb.org
   - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,mvnrepository.com
   - DOMAIN-SUFFIX,calendarserver.org
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,researchandcare.org
   - DOMAIN-SUFFIX,swiftui.com.cn
   - DOMAIN-SUFFIX,researchkit.com.cn
-  - DOMAIN-SUFFIX,developer.apple.com
   - DOMAIN-SUFFIX,timestamp.apple.com
+  - DOMAIN-SUFFIX,developer.apple.com
   - DOMAIN-SUFFIX,devimages-cdn.apple.com
   - DOMAIN-SUFFIX,playgrounds-cdn.apple.com
   - DOMAIN-SUFFIX,devstreaming-cdn.apple.com

@@ -1,6 +1,6 @@
 # NAME: LvMiLianChuang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:58.175971+00:00
+# UPDATED: 2026-07-18T19:36:10.463106+00:00
 no_resolve: true
 domain_suffix_set:
   - "aqara.cn"

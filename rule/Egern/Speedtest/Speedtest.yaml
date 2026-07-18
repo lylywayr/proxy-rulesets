@@ -1,6 +1,6 @@
 # NAME: Speedtest
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:24.766529+00:00
+# UPDATED: 2026-07-18T19:39:10.264026+00:00
 no_resolve: true
 domain_suffix_set:
   - "fast.com"

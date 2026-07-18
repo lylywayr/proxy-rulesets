@@ -1,11 +1,11 @@
 # NAME: Zendesk
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:56.015894+00:00
+# UPDATED: 2026-07-18T19:39:16.299675+00:00
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 
-DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,zopim.com
+DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,outbound.io
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zdassets.com

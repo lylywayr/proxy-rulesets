@@ -1,6 +1,6 @@
 # NAME: NYTimes
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:12.786261+00:00
+# UPDATED: 2026-07-18T19:36:14.459706+00:00
 no_resolve: true
 domain_suffix_set:
   - "nyt.net"
@@ -9,8 +9,8 @@ domain_suffix_set:
   - "nytcn.me"
   - "tynt.com"
   - "nytco.com"
-  - "nytimg.com"
   - "nytlog.com"
+  - "nytimg.com"
   - "nytimes.com"
   - "nytchina.com"
   - "nytstyle.com"

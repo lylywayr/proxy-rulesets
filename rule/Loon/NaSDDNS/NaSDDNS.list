@@ -1,6 +1,6 @@
 # NAME: NaSDDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:08.196873+00:00
+# UPDATED: 2026-07-18T19:36:13.251438+00:00
 # DOMAIN-SUFFIX: 32
 # DOMAIN-KEYWORD: 1
 # IP-CIDR: 13
@@ -13,25 +13,25 @@ DOMAIN-SUFFIX,3322.org
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,tpddns.cn
 DOMAIN-SUFFIX,dnsapi.cn
-DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,nat123.com
-DOMAIN-SUFFIX,dns-dns.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,plex.direct
-DOMAIN-SUFFIX,duckdns.org
-DOMAIN-SUFFIX,ddnsfree.com
-DOMAIN-SUFFIX,myddns.rocks
+DOMAIN-SUFFIX,dns-dns.com
 DOMAIN-SUFFIX,changeip.com
+DOMAIN-SUFFIX,myddns.rocks
 DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,ddnsfree.com
 DOMAIN-SUFFIX,netdata.cloud
-DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,api.nn.ci
 DOMAIN-SUFFIX,api.ipify.org
-DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,elb.amazonaws.com
+DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,account.synology.com
 DOMAIN-SUFFIX,whatismyip.akamai.com

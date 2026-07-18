@@ -1,6 +1,6 @@
 # NAME: Hpplay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:39.503255+00:00
+# UPDATED: 2026-07-18T19:36:06.349339+00:00
 payload:
   - DOMAIN-SUFFIX,hpplay.cn
   - DOMAIN-SUFFIX,mirrorcast.tv

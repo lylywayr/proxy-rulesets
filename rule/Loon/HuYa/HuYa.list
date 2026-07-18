@@ -1,10 +1,10 @@
 # NAME: HuYa
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:41.092226+00:00
+# UPDATED: 2026-07-18T19:36:06.808081+00:00
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,huyagame.cn
-DOMAIN-SUFFIX,snapplay.com
 DOMAIN-SUFFIX,peiwanlu.com
+DOMAIN-SUFFIX,snapplay.com

@@ -1,19 +1,19 @@
 # NAME: DouYin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:18.564918+00:00
+# UPDATED: 2026-07-18T19:35:44.883402+00:00
 no_resolve: true
 domain_set:
   - "lf3-static.bytednsdoc.com"
   - "v5-dy-o-abtest.zjcdn.com"
 domain_suffix_set:
   - "amemv.com"
-  - "ixigua.com"
   - "pstatp.com"
+  - "ixigua.com"
   - "snssdk.com"
   - "toutiao.com"
-  - "douyinvod.com"
   - "douyincdn.com"
   - "douyinpic.com"
+  - "douyinvod.com"
   - "idouyinvod.com"
   - "ixiguavideo.com"
   - "douyinstatic.com"

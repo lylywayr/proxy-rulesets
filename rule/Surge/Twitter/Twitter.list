@@ -1,6 +1,6 @@
 # NAME: Twitter
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:36.411468+00:00
+# UPDATED: 2026-07-18T19:39:12.734927+00:00
 # DOMAIN-SUFFIX: 26
 # DOMAIN-KEYWORD: 1
 # IP-CIDR: 6
@@ -10,28 +10,28 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,twitteroauth.com
 DOMAIN-SUFFIX,twittercommunity.com
-DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-KEYWORD,twitter
 IP-CIDR,69.195.160.0/19,no-resolve
 IP-CIDR,192.133.76.0/22,no-resolve

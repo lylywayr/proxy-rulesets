@@ -1,12 +1,12 @@
 # NAME: FengXiaWangLuo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:24.671015+00:00
+# UPDATED: 2026-07-18T19:35:46.325396+00:00
 payload:
   - DOMAIN-SUFFIX,fhyx.com
   - DOMAIN-SUFFIX,158c.com
-  - DOMAIN-SUFFIX,wy213.net
   - DOMAIN-SUFFIX,wy213.com
-  - DOMAIN-SUFFIX,ali213.net
+  - DOMAIN-SUFFIX,wy213.net
   - DOMAIN-SUFFIX,qu2345.com
+  - DOMAIN-SUFFIX,ali213.net
   - DOMAIN-SUFFIX,fengyx.com
   - DOMAIN-SUFFIX,iyouxia.com

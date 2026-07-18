@@ -1,6 +1,6 @@
 # NAME: BOCOM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:38.948741+00:00
+# UPDATED: 2026-07-18T18:41:57.925680+00:00
 payload:
   - DOMAIN-SUFFIX,bankcomm.com
   - DOMAIN-SUFFIX,95559.sh.cn

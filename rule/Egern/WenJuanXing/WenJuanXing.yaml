@@ -1,9 +1,9 @@
 # NAME: WenJuanXing
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:45.356718+00:00
+# UPDATED: 2026-07-18T19:39:14.439022+00:00
 no_resolve: true
 domain_suffix_set:
   - "wjx.cn"
-  - "wjx.top"
   - "wjx.com"
+  - "wjx.top"
   - "sojump.com"

@@ -1,23 +1,23 @@
 # NAME: 6JianFang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:04.228554+00:00
+# UPDATED: 2026-07-18T18:41:43.670418+00:00
 payload:
   - DOMAIN-SUFFIX,6.cn
+  - DOMAIN-SUFFIX,xiu123.cn
   - DOMAIN-SUFFIX,imgjs6.cn
   - DOMAIN-SUFFIX,ccpod.com
-  - DOMAIN-SUFFIX,xiu123.cn
-  - DOMAIN-SUFFIX,webimgs.cn
-  - DOMAIN-SUFFIX,6imgcss.cn
   - DOMAIN-SUFFIX,6webimg.cn
   - DOMAIN-SUFFIX,6rooms.com
   - DOMAIN-SUFFIX,6static.cn
+  - DOMAIN-SUFFIX,webimgs.cn
+  - DOMAIN-SUFFIX,6imgcss.cn
   - DOMAIN-SUFFIX,faceroom.cn
   - DOMAIN-SUFFIX,footbig.com
-  - DOMAIN-SUFFIX,luyanhui.com
   - DOMAIN-SUFFIX,6resource.cn
   - DOMAIN-SUFFIX,wwwstatic.cn
-  - DOMAIN-SUFFIX,huanpeng.com
+  - DOMAIN-SUFFIX,luyanhui.com
   - DOMAIN-SUFFIX,sixstatic.cn
+  - DOMAIN-SUFFIX,huanpeng.com
   - DOMAIN-SUFFIX,6staticcdn.cn
   - DOMAIN-SUFFIX,sixresource.cn
   - DOMAIN-SUFFIX,6.com.cn

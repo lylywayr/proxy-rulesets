@@ -1,6 +1,6 @@
 # NAME: CHT
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:08:47.082388+00:00
+# UPDATED: 2026-07-18T19:17:29.373243+00:00
 no_resolve: true
 domain_suffix_set:
   - "litv.tv"

@@ -1,6 +1,6 @@
 # NAME: ATTWatchTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:33.095550+00:00
+# UPDATED: 2026-07-18T18:41:56.570231+00:00
 no_resolve: true
 domain_suffix_set:
   - "att.tv"

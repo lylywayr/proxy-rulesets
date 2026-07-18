@@ -1,6 +1,6 @@
 # NAME: Vancl
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:39.994888+00:00
+# UPDATED: 2026-07-18T19:39:13.331788+00:00
 no_resolve: true
 domain_suffix_set:
   - "vcimg.com"

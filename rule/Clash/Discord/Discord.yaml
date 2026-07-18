@@ -1,23 +1,23 @@
 # NAME: Discord
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:16.764236+00:00
+# UPDATED: 2026-07-18T19:35:44.417068+00:00
 payload:
   - DOMAIN-SUFFIX,dis.gd
-  - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discord.co
-  - DOMAIN-SUFFIX,discord.dev
-  - DOMAIN-SUFFIX,discord.new
+  - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.new
+  - DOMAIN-SUFFIX,discord.dev
   - DOMAIN-SUFFIX,discord.gift
-  - DOMAIN-SUFFIX,discord.media
-  - DOMAIN-SUFFIX,discord.tools
   - DOMAIN-SUFFIX,discord.gifts
   - DOMAIN-SUFFIX,discordapp.io
   - DOMAIN-SUFFIX,discord.store
+  - DOMAIN-SUFFIX,discord.tools
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,airhornbot.com
   - DOMAIN-SUFFIX,discord.design
-  - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discordcdn.com
   - DOMAIN-SUFFIX,discordsays.com
   - DOMAIN-SUFFIX,discordmerch.com

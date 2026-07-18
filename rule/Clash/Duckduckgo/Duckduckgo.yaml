@@ -1,41 +1,41 @@
 # NAME: Duckduckgo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:19.776185+00:00
+# UPDATED: 2026-07-18T19:35:45.190951+00:00
 payload:
-  - DOMAIN-SUFFIX,ddg.gg
   - DOMAIN-SUFFIX,ddh.gg
   - DOMAIN-SUFFIX,ddg.co
   - DOMAIN-SUFFIX,dgg.gg
+  - DOMAIN-SUFFIX,ddg.gg
   - DOMAIN-SUFFIX,duck.co
   - DOMAIN-SUFFIX,duck.com
   - DOMAIN-SUFFIX,dukgo.com
   - DOMAIN-SUFFIX,duckgo.com
   - DOMAIN-SUFFIX,hacksear.ch
   - DOMAIN-SUFFIX,ducksear.ch
+  - DOMAIN-SUFFIX,donttrack.us
   - DOMAIN-SUFFIX,goduckgo.com
   - DOMAIN-SUFFIX,duckside.com
-  - DOMAIN-SUFFIX,donttrack.us
-  - DOMAIN-SUFFIX,dontbubble.us
-  - DOMAIN-SUFFIX,duckduckgo.co
-  - DOMAIN-SUFFIX,duckduckgo.pl
-  - DOMAIN-SUFFIX,duckduckgo.in
-  - DOMAIN-SUFFIX,duckduckgo.de
-  - DOMAIN-SUFFIX,duckduckgo.nl
-  - DOMAIN-SUFFIX,duckduckgo.jp
   - DOMAIN-SUFFIX,duckduckgo.mx
-  - DOMAIN-SUFFIX,duckduckgo.ca
-  - DOMAIN-SUFFIX,duckduckgo.dk
+  - DOMAIN-SUFFIX,duckduckco.de
+  - DOMAIN-SUFFIX,duckduckgo.co
+  - DOMAIN-SUFFIX,duckduckgo.nl
   - DOMAIN-SUFFIX,duckduckgo.sg
   - DOMAIN-SUFFIX,duckduckgo.ke
+  - DOMAIN-SUFFIX,duckduckgo.pl
+  - DOMAIN-SUFFIX,duckduckgo.ca
+  - DOMAIN-SUFFIX,duckduckgo.de
+  - DOMAIN-SUFFIX,duckduckgo.dk
   - DOMAIN-SUFFIX,duckduckgo.uk
-  - DOMAIN-SUFFIX,duckduckco.de
-  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,duckduckgo.jp
+  - DOMAIN-SUFFIX,duckduckgo.in
+  - DOMAIN-SUFFIX,dontbubble.us
   - DOMAIN-SUFFIX,enteentegeh.de
-  - DOMAIN-SUFFIX,duckduckgo.org
   - DOMAIN-SUFFIX,duckduckco.com
   - DOMAIN-SUFFIX,justduckit.com
-  - DOMAIN-SUFFIX,fixtracking.com
+  - DOMAIN-SUFFIX,duckduckgo.org
+  - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,cispaletter.com
+  - DOMAIN-SUFFIX,fixtracking.com
   - DOMAIN-SUFFIX,cispaletter.org
   - DOMAIN-SUFFIX,duckduckhack.com
   - DOMAIN-SUFFIX,spreadprivacy.com
@@ -43,5 +43,5 @@ payload:
   - DOMAIN-SUFFIX,cometotheduckside.com
   - DOMAIN-SUFFIX,privatebrowsingmyths.com
   - DOMAIN-SUFFIX,duckduckgo.co.uk
-  - DOMAIN-SUFFIX,duckduckgo.com.mx
   - DOMAIN-SUFFIX,duckduckgo.com.tw
+  - DOMAIN-SUFFIX,duckduckgo.com.mx

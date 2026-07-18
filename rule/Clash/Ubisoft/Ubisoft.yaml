@@ -1,5 +1,5 @@
 # NAME: Ubisoft
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:37.179512+00:00
+# UPDATED: 2026-07-18T19:39:12.870877+00:00
 payload:
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com

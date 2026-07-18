@@ -1,6 +1,6 @@
 # NAME: Olevod
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:13.129375+00:00
+# UPDATED: 2026-07-18T19:36:14.550027+00:00
 payload:
   - DOMAIN-SUFFIX,iole.tv
   - DOMAIN-SUFFIX,olehd.com

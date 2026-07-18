@@ -1,6 +1,6 @@
 # NAME: HBOHK
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:36.854512+00:00
+# UPDATED: 2026-07-18T19:36:05.339460+00:00
 no_resolve: true
 domain_set:
   - "wmff.warnermediacdn.com"
@@ -11,20 +11,20 @@ domain_suffix_set:
   - "hbogo.com"
   - "now-tv.com"
   - "hboasia.com"
+  - "hbogoasia.hk"
   - "hbogoasia.ph"
+  - "hbogoasia.sg"
   - "hbogoasia.id"
   - "hbogoasia.tw"
-  - "hbogoasia.hk"
-  - "hbogoasia.sg"
   - "hbogoasia.com"
   - "hbomaxcdn.com"
   - "now-ashare.com"
   - "now.com.hk"
   - "hbogo.co.th"
-  - "hboasia4-i.akamaihd.net"
-  - "hboasia2-i.akamaihd.net"
   - "hboasia3-i.akamaihd.net"
-  - "hboasia5-i.akamaihd.net"
+  - "hboasia4-i.akamaihd.net"
   - "hboasia1-i.akamaihd.net"
+  - "hboasia5-i.akamaihd.net"
+  - "hboasia2-i.akamaihd.net"
   - "hboasialive.akamaized.net"
   - "hbogoprod-vod.akamaized.net"

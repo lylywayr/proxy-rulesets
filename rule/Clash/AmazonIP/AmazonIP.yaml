@@ -1,6 +1,6 @@
 # NAME: AmazonIP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:19.818498+00:00
+# UPDATED: 2026-07-18T18:41:53.129750+00:00
 payload:
   - IP-CIDR,1.178.72.0/21
   - IP-CIDR,3.0.0.0/15

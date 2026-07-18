@@ -1,6 +1,6 @@
 # NAME: Espn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:23.151442+00:00
+# UPDATED: 2026-07-18T19:35:46.047812+00:00
 no_resolve: true
 domain_set:
   - "espn.api.edge.bamgrid.com"
@@ -8,8 +8,8 @@ domain_set:
   - "espndotcom.tt.omtrdc.net"
 domain_suffix_set:
   - "dtci.co"
-  - "espn.com"
   - "espn.net"
+  - "espn.com"
   - "espnqa.com"
   - "espncdn.com"
   - "watchespn.com"

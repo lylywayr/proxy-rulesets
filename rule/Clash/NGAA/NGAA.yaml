@@ -1,32 +1,32 @@
 # NAME: NGAA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:10.226797+00:00
+# UPDATED: 2026-07-18T19:36:13.779380+00:00
 payload:
   - DOMAIN-SUFFIX,ngaa.cn
   - DOMAIN-SUFFIX,ngaa.top
-  - DOMAIN-SUFFIX,ngaa.shop
-  - DOMAIN-SUFFIX,ngaa.info
   - DOMAIN-SUFFIX,cngslb.cn
+  - DOMAIN-SUFFIX,ngaa.info
+  - DOMAIN-SUFFIX,ngaa.shop
   - DOMAIN-SUFFIX,cngslb.com
-  - DOMAIN-SUFFIX,cngslb.net
   - DOMAIN-SUFFIX,ngaacdn.cn
-  - DOMAIN-SUFFIX,ngaacdn.net
-  - DOMAIN-SUFFIX,sinogslb.cn
-  - DOMAIN-SUFFIX,ngaacdn.com
+  - DOMAIN-SUFFIX,cngslb.net
   - DOMAIN-SUFFIX,ngaagslb.cn
+  - DOMAIN-SUFFIX,ngaacdn.com
+  - DOMAIN-SUFFIX,sinogslb.cn
   - DOMAIN-SUFFIX,ispcache.cn
-  - DOMAIN-SUFFIX,ngaagslb.net
+  - DOMAIN-SUFFIX,ngaacdn.net
+  - DOMAIN-SUFFIX,speedin.shop
+  - DOMAIN-SUFFIX,sinogslb.com
+  - DOMAIN-SUFFIX,kuaifan.shop
   - DOMAIN-SUFFIX,sinogslb.net
   - DOMAIN-SUFFIX,ispcache.net
-  - DOMAIN-SUFFIX,sinocache.cn
-  - DOMAIN-SUFFIX,sinogslb.com
   - DOMAIN-SUFFIX,ngaagslb.com
-  - DOMAIN-SUFFIX,speedin.shop
-  - DOMAIN-SUFFIX,kuaifan.shop
+  - DOMAIN-SUFFIX,ngaagslb.net
+  - DOMAIN-SUFFIX,sinocache.cn
   - DOMAIN-SUFFIX,chinagslb.cn
   - DOMAIN-SUFFIX,chinagslb.com
-  - DOMAIN-SUFFIX,chinagslb.net
   - DOMAIN-SUFFIX,sinocache.net
+  - DOMAIN-SUFFIX,chinagslb.net
   - DOMAIN-SUFFIX,ngaa.org.cn
   - DOMAIN-SUFFIX,ngaa.com.cn
   - DOMAIN-SUFFIX,ngaa.net.cn

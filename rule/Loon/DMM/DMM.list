@@ -1,6 +1,6 @@
 # NAME: DMM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:17.590329+00:00
+# UPDATED: 2026-07-18T19:35:44.632081+00:00
 # DOMAIN-SUFFIX: 18
 # IP-CIDR: 2
 # TOTAL: 20
@@ -13,11 +13,11 @@ DOMAIN-SUFFIX,minori.ph
 DOMAIN-SUFFIX,dmmrex.com
 DOMAIN-SUFFIX,dmmapis.com
 DOMAIN-SUFFIX,alicesoft.com
-DOMAIN-SUFFIX,wheel-soft.com
 DOMAIN-SUFFIX,cosmiccute.com
-DOMAIN-SUFFIX,hibiki-site.com
-DOMAIN-SUFFIX,akabeesoft3.com
+DOMAIN-SUFFIX,wheel-soft.com
 DOMAIN-SUFFIX,akabeesoft2.com
+DOMAIN-SUFFIX,akabeesoft3.com
+DOMAIN-SUFFIX,hibiki-site.com
 DOMAIN-SUFFIX,akatsukiworks.com
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,navismithapis-cdn.com

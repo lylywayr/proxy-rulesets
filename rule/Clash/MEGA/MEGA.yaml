@@ -1,9 +1,9 @@
 # NAME: MEGA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:00.274978+00:00
+# UPDATED: 2026-07-18T19:36:10.890860+00:00
 payload:
-  - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,mega.io
+  - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,mega.co.nz
   - PROCESS-NAME,mega.privacy.android.app
   - IP-CIDR,66.203.126.0/23

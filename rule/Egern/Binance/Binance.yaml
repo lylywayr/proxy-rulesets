@@ -1,17 +1,17 @@
 # NAME: Binance
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:36.666419+00:00
+# UPDATED: 2026-07-18T18:41:57.480628+00:00
 no_resolve: true
 domain_suffix_set:
   - "bnbzh.ac"
-  - "binance.me"
   - "bnappzh.co"
+  - "binance.me"
   - "binance.com"
-  - "saasexch.cc"
   - "bntrace.com"
+  - "saasexch.cc"
   - "saasexch.com"
-  - "binance.cloud"
   - "bnbstatic.com"
-  - "appsflayer.com"
+  - "binance.cloud"
   - "binancecnt.com"
+  - "appsflayer.com"
   - "binancefuture.com"

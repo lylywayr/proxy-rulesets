@@ -1,6 +1,6 @@
 # NAME: Dailymotion
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:08:52.902495+00:00
+# UPDATED: 2026-07-18T19:17:30.887118+00:00
 no_resolve: true
 domain_suffix_set:
   - "dai.ly"

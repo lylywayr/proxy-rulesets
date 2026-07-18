@@ -1,6 +1,6 @@
 # NAME: AdvertisingMiTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:09.461335+00:00
+# UPDATED: 2026-07-18T18:41:44.915904+00:00
 payload:
   - DOMAIN,519332da.rtc.youme.im
   - DOMAIN,86file.megajoy.com

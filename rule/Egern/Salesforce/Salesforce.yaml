@@ -1,6 +1,6 @@
 # NAME: Salesforce
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:17.826682+00:00
+# UPDATED: 2026-07-18T19:39:08.875826+00:00
 no_resolve: true
 domain_suffix_set:
   - "force.com"
@@ -8,11 +8,11 @@ domain_suffix_set:
   - "tableau.com"
   - "mulesoft.com"
   - "herokuapp.com"
-  - "trailhead.com"
   - "herokucdn.com"
-  - "salesforce.org"
+  - "trailhead.com"
   - "sfdcstatic.com"
-  - "trailblazer.me"
   - "salesforce.com"
+  - "salesforce.org"
+  - "trailblazer.me"
   - "sfdcdigital.com"
   - "salesforceliveagent.com"

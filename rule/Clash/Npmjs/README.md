@@ -9,7 +9,7 @@
 - 分类标识：`Npmjs`
 - 当前客户端：`Clash`
 - 所属分组：[开发者平台](../../../guide/groups/developer.md)
-- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
+- 本次更新时间：`2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
 - 专题入口：
 - [开发者栈专题](../../../guide/topics/developer-stack.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for Npmjs, covering related domains, keywords, and network targ
 - Category ID: `Npmjs`
 - Client: `Clash`
 - Group: `Developer`
-- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
+- Last updated: `2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Npmjs/Npmjs.yaml>
 

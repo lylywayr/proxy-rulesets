@@ -1,6 +1,6 @@
 # NAME: BiliBiliIntl
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:36.374815+00:00
+# UPDATED: 2026-07-18T18:41:57.410948+00:00
 no_resolve: true
 domain_suffix_set:
   - "bilibili.tv"

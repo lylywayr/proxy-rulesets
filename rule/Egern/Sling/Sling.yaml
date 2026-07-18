@@ -1,6 +1,6 @@
 # NAME: Sling
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:22.478637+00:00
+# UPDATED: 2026-07-18T19:39:09.784920+00:00
 no_resolve: true
 domain_suffix_set:
   - "sling.com"

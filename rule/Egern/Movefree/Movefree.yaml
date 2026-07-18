@@ -1,12 +1,12 @@
 # NAME: Movefree
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:07.320469+00:00
+# UPDATED: 2026-07-18T19:36:12.999033+00:00
 no_resolve: true
 domain_suffix_set:
   - "movefree.cn"
-  - "movefrees.com"
   - "move-free.net"
-  - "schiffvitamins.com"
+  - "movefrees.com"
   - "movefreeoffers.com"
+  - "schiffvitamins.com"
   - "movefreerewards.com"
   - "keepmovingwithmovefree.com"

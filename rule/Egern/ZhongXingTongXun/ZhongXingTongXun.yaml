@@ -1,25 +1,25 @@
 # NAME: ZhongXingTongXun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:58.189030+00:00
+# UPDATED: 2026-07-18T19:39:16.746860+00:00
 no_resolve: true
 domain_suffix_set:
   - "zte.net"
   - "nubia.cc"
   - "nubia.cn"
-  - "3gcare.cn"
-  - "nubia.com"
   - "ztems.com"
+  - "nubia.com"
+  - "3gcare.cn"
   - "nubia.mobi"
   - "ztemall.com"
-  - "ztehotel.net"
+  - "zxingyun.com"
   - "ztehotel.com"
   - "redmagic.com"
-  - "zxingyun.com"
+  - "ztehotel.net"
   - "ztedevice.com"
   - "ztedevices.com"
   - "zte.com.cn"
-  - "nubia.net.cn"
   - "nubia.com.cn"
+  - "nubia.net.cn"
   - "ztehotel.com.cn"
-  - "shouhubao.com.cn"
   - "ztedevice.com.cn"
+  - "shouhubao.com.cn"

@@ -1,5 +1,5 @@
 # NAME: 3Type
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:01.549008+00:00
+# UPDATED: 2026-07-18T18:41:43.155416+00:00
 payload:
   - DOMAIN-SUFFIX,3type.cn

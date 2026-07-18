@@ -1,15 +1,15 @@
 # NAME: Teambition
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:29.265032+00:00
+# UPDATED: 2026-07-18T19:39:11.235067+00:00
 no_resolve: true
 domain_suffix_set:
   - "talk.ai"
-  - "tburl.in"
   - "today.ai"
+  - "tburl.in"
   - "tbapp.com"
   - "project.ai"
   - "jianliao.com"
   - "teambition.io"
-  - "teambition.com"
   - "teambition.net"
+  - "teambition.com"
   - "teambitionapis.com"

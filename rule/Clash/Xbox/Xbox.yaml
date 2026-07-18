@@ -1,6 +1,6 @@
 # NAME: Xbox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:48.704860+00:00
+# UPDATED: 2026-07-18T19:39:15.146293+00:00
 payload:
   - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -12,45 +12,45 @@ payload:
   - DOMAIN-SUFFIX,xbx.lv
   - DOMAIN-SUFFIX,xbox.eu
   - DOMAIN-SUFFIX,xbox.co
-  - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,doom.com
+  - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,xbox.org
   - DOMAIN-SUFFIX,forza.net
-  - DOMAIN-SUFFIX,xboxone.eu
-  - DOMAIN-SUFFIX,xboxab.net
-  - DOMAIN-SUFFIX,mojang.com
-  - DOMAIN-SUFFIX,beth.games
-  - DOMAIN-SUFFIX,xbox360.co
   - DOMAIN-SUFFIX,xboxone.co
-  - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,xboxab.net
+  - DOMAIN-SUFFIX,xbox360.co
+  - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,xbox360.eu
-  - DOMAIN-SUFFIX,forzarc.com
+  - DOMAIN-SUFFIX,xboxone.eu
+  - DOMAIN-SUFFIX,mojang.com
+  - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,xbox360.com
   - DOMAIN-SUFFIX,xboxlive.cn
   - DOMAIN-SUFFIX,xboxone.com
   - DOMAIN-SUFFIX,xbox360.org
-  - DOMAIN-SUFFIX,xbox360.com
-  - DOMAIN-SUFFIX,xboxlive.com
-  - DOMAIN-SUFFIX,bethsoft.com
+  - DOMAIN-SUFFIX,forzarc.com
   - DOMAIN-SUFFIX,bethesda.net
+  - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,bethsoft.com
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,orithegame.com
+  - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xboxservice.com
   - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,callersbane.com
-  - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xboxgamepass.com
-  - DOMAIN-SUFFIX,elderscrolls.com
   - DOMAIN-SUFFIX,xboxservices.com
-  - DOMAIN-SUFFIX,msgamestudios.com
-  - DOMAIN-SUFFIX,minecraftshop.com
+  - DOMAIN-SUFFIX,elderscrolls.com
   - DOMAIN-SUFFIX,tellmewhygame.com
+  - DOMAIN-SUFFIX,minecraftshop.com
+  - DOMAIN-SUFFIX,msgamestudios.com
+  - DOMAIN-SUFFIX,xboxgamestudios.com
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,flightsimulator.com
-  - DOMAIN-SUFFIX,xboxgamestudios.com
   - DOMAIN-SUFFIX,xboxplayanywhere.com
   - DOMAIN-SUFFIX,minecraftservices.com
-  - DOMAIN-SUFFIX,minecraft-services.net
   - DOMAIN-SUFFIX,renovacionxboxlive.com
+  - DOMAIN-SUFFIX,minecraft-services.net
   - DOMAIN-SUFFIX,bethesdagamestudios.com
   - DOMAIN-SUFFIX,forzaracingchampionship.com

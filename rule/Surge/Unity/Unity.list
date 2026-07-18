@@ -1,15 +1,15 @@
 # NAME: Unity
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:38.982725+00:00
+# UPDATED: 2026-07-18T19:39:13.195063+00:00
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 
 DOMAIN-SUFFIX,unity.cn
 DOMAIN-SUFFIX,unity.com
-DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,unityedu.cn
-DOMAIN-SUFFIX,unityedu.com
+DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,multiplay.cn
+DOMAIN-SUFFIX,unityedu.com
 DOMAIN-SUFFIX,unitychina.cn
 DOMAIN-SUFFIX,unity3dusercontent.com
 DOMAIN-SUFFIX,unityedu.com.cn

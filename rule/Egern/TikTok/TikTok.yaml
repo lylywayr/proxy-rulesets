@@ -1,6 +1,6 @@
 # NAME: TikTok
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:33.834355+00:00
+# UPDATED: 2026-07-18T19:39:12.277894+00:00
 no_resolve: true
 domain_set:
   - "lf16-effectcdn.byteeffecttos-g.com"
@@ -10,27 +10,27 @@ domain_set:
 domain_suffix_set:
   - "trae.ai"
   - "tiktokv.us"
-  - "capcut.com"
+  - "tiktok.com"
   - "snssdk.com"
   - "muscdn.com"
-  - "tiktok.com"
   - "musical.ly"
-  - "tiktokd.net"
-  - "isnssdk.com"
+  - "capcut.com"
+  - "tiktokd.org"
   - "tiktokv.com"
   - "ipstatp.com"
-  - "tiktokd.org"
-  - "bytedapm.com"
-  - "marscode.com"
-  - "ibyteimg.com"
+  - "isnssdk.com"
+  - "tiktokd.net"
   - "sgpstatp.com"
-  - "tiktokcdn.com"
+  - "marscode.com"
+  - "bytedapm.com"
+  - "ibyteimg.com"
   - "ibytedtos.com"
   - "ttwebview.com"
+  - "tiktokcdn.com"
   - "tik-tokapi.com"
-  - "tiktokmusic.app"
   - "byteintlapi.com"
   - "byteoversea.com"
+  - "tiktokmusic.app"
   - "tiktokcdn-us.com"
   - "bytegecko-i18n.com"
 domain_keyword_set:

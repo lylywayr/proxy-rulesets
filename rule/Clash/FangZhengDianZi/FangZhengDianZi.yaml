@@ -1,19 +1,19 @@
 # NAME: FangZhengDianZi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:23.639158+00:00
+# UPDATED: 2026-07-18T19:35:46.186345+00:00
 payload:
   - DOMAIN-SUFFIX,fzyun.cn
   - DOMAIN-SUFFIX,fzyun.net
   - DOMAIN-SUFFIX,fzdzyun.cn
   - DOMAIN-SUFFIX,w2press.cn
-  - DOMAIN-SUFFIX,fzdzyun.com
   - DOMAIN-SUFFIX,cloudpub.cn
+  - DOMAIN-SUFFIX,fzdzyun.com
   - DOMAIN-SUFFIX,founderss.cn
   - DOMAIN-SUFFIX,founderfx.cn
   - DOMAIN-SUFFIX,cloudpress.cn
   - DOMAIN-SUFFIX,study-cloud.cn
-  - DOMAIN-SUFFIX,newaircloud.com
   - DOMAIN-SUFFIX,wisestcloud.com
+  - DOMAIN-SUFFIX,newaircloud.com
   - DOMAIN-SUFFIX,foundertype.com
   - DOMAIN-SUFFIX,study-cloud.com
   - DOMAIN-SUFFIX,xiezixiansheng.com

@@ -1,6 +1,6 @@
 # NAME: My5
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:07.859454+00:00
+# UPDATED: 2026-07-18T19:36:13.109336+00:00
 no_resolve: true
 domain_set:
   - "d349g9zuie06uo.cloudfront.net"

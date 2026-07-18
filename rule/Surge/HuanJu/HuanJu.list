@@ -1,26 +1,26 @@
 # NAME: HuanJu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:39.671652+00:00
+# UPDATED: 2026-07-18T19:36:06.388223+00:00
 # DOMAIN-SUFFIX: 20
 # TOTAL: 20
 
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,5253.com
 DOMAIN-SUFFIX,hiido.cn
+DOMAIN-SUFFIX,hiido.net
+DOMAIN-SUFFIX,huanju.cn
 DOMAIN-SUFFIX,hiido.com
 DOMAIN-SUFFIX,duowan.cn
-DOMAIN-SUFFIX,huanju.cn
-DOMAIN-SUFFIX,hiido.net
 DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,huanju.net
 DOMAIN-SUFFIX,zhiniu8.com
-DOMAIN-SUFFIX,dwstatic.com
-DOMAIN-SUFFIX,chinaduo.com
-DOMAIN-SUFFIX,yyclouds.com
 DOMAIN-SUFFIX,yystatic.com
+DOMAIN-SUFFIX,chinaduo.com
+DOMAIN-SUFFIX,dwstatic.com
+DOMAIN-SUFFIX,yyclouds.com
 DOMAIN-SUFFIX,blogchina.org
-DOMAIN-SUFFIX,huanjuyun.com
 DOMAIN-SUFFIX,yygamedev.com
+DOMAIN-SUFFIX,huanjuyun.com
 DOMAIN-SUFFIX,yy.com.cn
 DOMAIN-SUFFIX,duowan.com.cn
 DOMAIN-SUFFIX,c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net

@@ -1,6 +1,6 @@
 # NAME: AdobeActivation
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:08.845502+00:00
+# UPDATED: 2026-07-18T18:41:44.752214+00:00
 payload:
   - DOMAIN,1b9khekel6.adobe.io
   - DOMAIN,3dns-1.adobe.com

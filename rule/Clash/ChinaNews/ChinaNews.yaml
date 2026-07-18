@@ -1,6 +1,6 @@
 # NAME: ChinaNews
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:08:46.014631+00:00
+# UPDATED: 2026-07-18T19:17:29.045649+00:00
 payload:
   - DOMAIN-SUFFIX,ecns.cn
   - DOMAIN-SUFFIX,chinanews.com

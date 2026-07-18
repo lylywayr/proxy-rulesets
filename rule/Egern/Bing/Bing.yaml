@@ -1,6 +1,6 @@
 # NAME: Bing
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T18:41:37.002536+00:00
+# UPDATED: 2026-07-18T18:41:57.515946+00:00
 no_resolve: true
 domain_suffix_set:
   - "bing.net"
@@ -8,7 +8,7 @@ domain_suffix_set:
   - "bingads.com"
   - "bingworld.com"
   - "bingsandbox.com"
-  - "bingagencyawards.com"
   - "bingvisualsearch.com"
+  - "bingagencyawards.com"
   - "bingapistatistics.com"
   - "bing.com.cn"

@@ -1,6 +1,6 @@
 # NAME: MeiTu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:00.612925+00:00
+# UPDATED: 2026-07-18T19:36:10.947489+00:00
 no_resolve: true
 domain_suffix_set:
   - "meitu.com"

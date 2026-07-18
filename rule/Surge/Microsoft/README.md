@@ -9,16 +9,16 @@ Microsoft、OneDrive、Teams 等服务。
 - 分类标识：`Microsoft`
 - 当前客户端：`Surge`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
+- 本次更新时间：`2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
 - 专题入口：
 - [办公协作专题](../../../guide/topics/office-collaboration.md)
 - [云网络专题](../../../guide/topics/cloud-network.md)
 
 ### 规则统计
 
-- 总数：`764`
+- 总数：`766`
 - `DOMAIN`: 8
-- `DOMAIN-SUFFIX`: 749
+- `DOMAIN-SUFFIX`: 751
 - `DOMAIN-KEYWORD`: 4
 - `USER-AGENT`: 3
 - `PROCESS-NAME`: 2
@@ -56,7 +56,7 @@ Microsoft, OneDrive, Teams, and related services.
 - Category ID: `Microsoft`
 - Client: `Surge`
 - Group: `Office`
-- Last updated: `2026-07-12 02:40:58 CST (UTC+8) / 2026-07-11 18:40:58 UTC`
+- Last updated: `2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Microsoft/Microsoft.list>
 

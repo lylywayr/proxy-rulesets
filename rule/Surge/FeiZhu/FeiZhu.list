@@ -1,26 +1,26 @@
 # NAME: FeiZhu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:24.333519+00:00
+# UPDATED: 2026-07-18T19:35:46.262058+00:00
 # DOMAIN-SUFFIX: 20
 # TOTAL: 20
 
+DOMAIN-SUFFIX,feizhu.cn
 DOMAIN-SUFFIX,zzxca.com
+DOMAIN-SUFFIX,xcvvs.com
 DOMAIN-SUFFIX,ujmjk.com
+DOMAIN-SUFFIX,zxczw.com
+DOMAIN-SUFFIX,bcvbw.com
 DOMAIN-SUFFIX,fliggy.hk
 DOMAIN-SUFFIX,vfvdf.com
-DOMAIN-SUFFIX,feizhu.cn
-DOMAIN-SUFFIX,bcvbw.com
-DOMAIN-SUFFIX,zxczw.com
-DOMAIN-SUFFIX,xcvvs.com
 DOMAIN-SUFFIX,fdfgdf.cn
+DOMAIN-SUFFIX,feizhu.com
 DOMAIN-SUFFIX,asczwa.com
+DOMAIN-SUFFIX,iuynfg.com
+DOMAIN-SUFFIX,jhgtgb.com
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,edcdfg.com
 DOMAIN-SUFFIX,dfkhgj.com
-DOMAIN-SUFFIX,iuynfg.com
-DOMAIN-SUFFIX,feizhu.com
-DOMAIN-SUFFIX,jhgtgb.com
-DOMAIN-SUFFIX,ereuiib.com
-DOMAIN-SUFFIX,mnbvbqw.com
 DOMAIN-SUFFIX,alitrip.com
+DOMAIN-SUFFIX,mnbvbqw.com
+DOMAIN-SUFFIX,ereuiib.com
 DOMAIN-SUFFIX,asczxcefsv.com

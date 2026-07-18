@@ -1,5 +1,5 @@
 # NAME: Cnet
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:08:50.199243+00:00
+# UPDATED: 2026-07-18T19:17:30.157852+00:00
 payload:
   - DOMAIN-SUFFIX,cnet.com

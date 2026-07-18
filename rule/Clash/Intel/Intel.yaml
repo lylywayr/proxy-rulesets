@@ -1,233 +1,233 @@
 # NAME: Intel
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:44.846609+00:00
+# UPDATED: 2026-07-18T19:36:07.651834+00:00
 payload:
   - DOMAIN-SUFFIX,pc.com
   - DOMAIN-SUFFIX,01.org
+  - DOMAIN-SUFFIX,intel.pl
   - DOMAIN-SUFFIX,intel.lu
-  - DOMAIN-SUFFIX,intel.sk
-  - DOMAIN-SUFFIX,intel.ch
-  - DOMAIN-SUFFIX,intel.sr
-  - DOMAIN-SUFFIX,intel.bs
-  - DOMAIN-SUFFIX,xeon.com
-  - DOMAIN-SUFFIX,intel.dk
-  - DOMAIN-SUFFIX,intel.wf
-  - DOMAIN-SUFFIX,intel.yt
-  - DOMAIN-SUFFIX,intel.lt
-  - DOMAIN-SUFFIX,intel.it
-  - DOMAIN-SUFFIX,intel.me
-  - DOMAIN-SUFFIX,intel.mg
-  - DOMAIN-SUFFIX,intel.ca
-  - DOMAIN-SUFFIX,intel.nu
   - DOMAIN-SUFFIX,intel.eu
-  - DOMAIN-SUFFIX,intel.mw
-  - DOMAIN-SUFFIX,intel.re
-  - DOMAIN-SUFFIX,intel.gs
-  - DOMAIN-SUFFIX,intel.ge
-  - DOMAIN-SUFFIX,intel.ma
-  - DOMAIN-SUFFIX,intel.tt
-  - DOMAIN-SUFFIX,intel.gt
-  - DOMAIN-SUFFIX,intel.sn
-  - DOMAIN-SUFFIX,intel.lc
-  - DOMAIN-SUFFIX,intel.fi
-  - DOMAIN-SUFFIX,intel.es
-  - DOMAIN-SUFFIX,intel.la
-  - DOMAIN-SUFFIX,intel.mn
-  - DOMAIN-SUFFIX,intel.nz
-  - DOMAIN-SUFFIX,intel.ke
-  - DOMAIN-SUFFIX,intel.ar
-  - DOMAIN-SUFFIX,intel.cc
-  - DOMAIN-SUFFIX,intel.nl
-  - DOMAIN-SUFFIX,intel.ro
-  - DOMAIN-SUFFIX,intel.hn
-  - DOMAIN-SUFFIX,intel.eg
-  - DOMAIN-SUFFIX,intel.sy
-  - DOMAIN-SUFFIX,intel.hk
-  - DOMAIN-SUFFIX,intel.cg
-  - DOMAIN-SUFFIX,intel.vu
-  - DOMAIN-SUFFIX,intel.gd
+  - DOMAIN-SUFFIX,intel.it
   - DOMAIN-SUFFIX,intel.uz
-  - DOMAIN-SUFFIX,intel.tw
-  - DOMAIN-SUFFIX,intel.tf
+  - DOMAIN-SUFFIX,intel.ro
+  - DOMAIN-SUFFIX,intel.sv
+  - DOMAIN-SUFFIX,cilk.net
+  - DOMAIN-SUFFIX,intel.se
+  - DOMAIN-SUFFIX,intel.sc
+  - DOMAIN-SUFFIX,intel.bi
+  - DOMAIN-SUFFIX,intel.cl
+  - DOMAIN-SUFFIX,intel.ph
+  - DOMAIN-SUFFIX,intel.md
+  - DOMAIN-SUFFIX,intel.tj
+  - DOMAIN-SUFFIX,intel.gr
+  - DOMAIN-SUFFIX,intel.lk
+  - DOMAIN-SUFFIX,intel.cu
+  - DOMAIN-SUFFIX,intel.cm
+  - DOMAIN-SUFFIX,intel.ae
   - DOMAIN-SUFFIX,intel.dz
-  - DOMAIN-SUFFIX,intel.ng
+  - DOMAIN-SUFFIX,intel.lt
+  - DOMAIN-SUFFIX,intel.sr
+  - DOMAIN-SUFFIX,intel.sn
+  - DOMAIN-SUFFIX,intel.me
+  - DOMAIN-SUFFIX,intel.ac
+  - DOMAIN-SUFFIX,intel.lc
+  - DOMAIN-SUFFIX,intel.ba
+  - DOMAIN-SUFFIX,intel.tw
+  - DOMAIN-SUFFIX,intel.mw
+  - DOMAIN-SUFFIX,intel.bh
+  - DOMAIN-SUFFIX,intel.je
+  - DOMAIN-SUFFIX,intel.sk
+  - DOMAIN-SUFFIX,intel.st
+  - DOMAIN-SUFFIX,intel.mk
+  - DOMAIN-SUFFIX,intel.bs
+  - DOMAIN-SUFFIX,intel.cz
+  - DOMAIN-SUFFIX,intel.vg
+  - DOMAIN-SUFFIX,intel.ke
+  - DOMAIN-SUFFIX,intel.ht
+  - DOMAIN-SUFFIX,intel.uk
+  - DOMAIN-SUFFIX,intel.cn
+  - DOMAIN-SUFFIX,intel.uy
+  - DOMAIN-SUFFIX,intel.cr
+  - DOMAIN-SUFFIX,intel.vu
+  - DOMAIN-SUFFIX,intel.tn
+  - DOMAIN-SUFFIX,intel.pe
+  - DOMAIN-SUFFIX,intel.gy
+  - DOMAIN-SUFFIX,intel.sy
+  - DOMAIN-SUFFIX,vpro.com
+  - DOMAIN-SUFFIX,intel.ru
+  - DOMAIN-SUFFIX,intel.es
+  - DOMAIN-SUFFIX,intel.my
+  - DOMAIN-SUFFIX,intel.dk
+  - DOMAIN-SUFFIX,intel.la
+  - DOMAIN-SUFFIX,intel.ly
+  - DOMAIN-SUFFIX,intel.ec
+  - DOMAIN-SUFFIX,intel.nz
+  - DOMAIN-SUFFIX,intel.cc
+  - DOMAIN-SUFFIX,intel.ar
+  - DOMAIN-SUFFIX,xeon.com
+  - DOMAIN-SUFFIX,intel.mn
+  - DOMAIN-SUFFIX,intel.gt
+  - DOMAIN-SUFFIX,intel.hn
+  - DOMAIN-SUFFIX,intel.nu
+  - DOMAIN-SUFFIX,intel.fr
+  - DOMAIN-SUFFIX,intel.af
+  - DOMAIN-SUFFIX,intel.gl
+  - DOMAIN-SUFFIX,intel.si
+  - DOMAIN-SUFFIX,intel.nl
+  - DOMAIN-SUFFIX,intel.re
+  - DOMAIN-SUFFIX,intel.eg
+  - DOMAIN-SUFFIX,intel.by
+  - DOMAIN-SUFFIX,intel.de
+  - DOMAIN-SUFFIX,intel.ga
+  - DOMAIN-SUFFIX,intel.tf
+  - DOMAIN-SUFFIX,intel.tt
+  - DOMAIN-SUFFIX,intel.mt
+  - DOMAIN-SUFFIX,intel.ua
+  - DOMAIN-SUFFIX,intel.in
   - DOMAIN-SUFFIX,intel.mx
   - DOMAIN-SUFFIX,intel.pa
-  - DOMAIN-SUFFIX,intel.ly
-  - DOMAIN-SUFFIX,intel.sx
-  - DOMAIN-SUFFIX,intel.ee
-  - DOMAIN-SUFFIX,intel.se
-  - DOMAIN-SUFFIX,intel.pe
-  - DOMAIN-SUFFIX,intel.pn
-  - DOMAIN-SUFFIX,intel.cm
-  - DOMAIN-SUFFIX,intel.in
-  - DOMAIN-SUFFIX,intel.ru
-  - DOMAIN-SUFFIX,intel.cl
-  - DOMAIN-SUFFIX,intel.vg
-  - DOMAIN-SUFFIX,intel.ga
-  - DOMAIN-SUFFIX,intel.ag
-  - DOMAIN-SUFFIX,intel.by
-  - DOMAIN-SUFFIX,intel.my
-  - DOMAIN-SUFFIX,intel.jo
-  - DOMAIN-SUFFIX,intel.sv
-  - DOMAIN-SUFFIX,cilk.com
-  - DOMAIN-SUFFIX,intel.fr
-  - DOMAIN-SUFFIX,intel.gl
-  - DOMAIN-SUFFIX,intel.mp
-  - DOMAIN-SUFFIX,intel.bo
-  - DOMAIN-SUFFIX,intel.tn
-  - DOMAIN-SUFFIX,intel.tl
-  - DOMAIN-SUFFIX,intel.at
-  - DOMAIN-SUFFIX,intel.sg
-  - DOMAIN-SUFFIX,vpro.com
-  - DOMAIN-SUFFIX,intel.uk
-  - DOMAIN-SUFFIX,intel.gr
-  - DOMAIN-SUFFIX,intel.mk
-  - DOMAIN-SUFFIX,intel.bg
-  - DOMAIN-SUFFIX,intel.lk
-  - DOMAIN-SUFFIX,intel.af
-  - DOMAIN-SUFFIX,intel.hu
-  - DOMAIN-SUFFIX,intel.gm
-  - DOMAIN-SUFFIX,intel.rw
-  - DOMAIN-SUFFIX,intel.sc
-  - DOMAIN-SUFFIX,intel.vn
-  - DOMAIN-SUFFIX,intel.mu
-  - DOMAIN-SUFFIX,intel.cr
-  - DOMAIN-SUFFIX,intel.cu
-  - DOMAIN-SUFFIX,intel.si
-  - DOMAIN-SUFFIX,intel.pl
-  - DOMAIN-SUFFIX,intel.md
-  - DOMAIN-SUFFIX,intel.ua
-  - DOMAIN-SUFFIX,intel.tv
-  - DOMAIN-SUFFIX,intel.ec
-  - DOMAIN-SUFFIX,intel.ba
-  - DOMAIN-SUFFIX,intel.io
-  - DOMAIN-SUFFIX,intc.com
-  - DOMAIN-SUFFIX,intel.ph
-  - DOMAIN-SUFFIX,intel.jp
-  - DOMAIN-SUFFIX,intel.tj
-  - DOMAIN-SUFFIX,intel.gy
-  - DOMAIN-SUFFIX,intel.st
   - DOMAIN-SUFFIX,intel.tm
-  - DOMAIN-SUFFIX,cilk.net
-  - DOMAIN-SUFFIX,vpro.net
-  - DOMAIN-SUFFIX,intel.ht
-  - DOMAIN-SUFFIX,intel.bh
-  - DOMAIN-SUFFIX,intel.uy
-  - DOMAIN-SUFFIX,intel.us
-  - DOMAIN-SUFFIX,intel.az
-  - DOMAIN-SUFFIX,intel.ac
-  - DOMAIN-SUFFIX,intel.ae
-  - DOMAIN-SUFFIX,intel.de
-  - DOMAIN-SUFFIX,intel.mt
+  - DOMAIN-SUFFIX,intel.mp
+  - DOMAIN-SUFFIX,intel.tl
   - DOMAIN-SUFFIX,intel.ai
-  - DOMAIN-SUFFIX,intel.bi
-  - DOMAIN-SUFFIX,intel.je
+  - DOMAIN-SUFFIX,intel.mu
+  - DOMAIN-SUFFIX,intel.cg
+  - DOMAIN-SUFFIX,intc.com
+  - DOMAIN-SUFFIX,intel.ag
+  - DOMAIN-SUFFIX,intel.gm
+  - DOMAIN-SUFFIX,intel.vn
+  - DOMAIN-SUFFIX,intel.at
+  - DOMAIN-SUFFIX,intel.yt
+  - DOMAIN-SUFFIX,intel.ma
+  - DOMAIN-SUFFIX,intel.bg
+  - DOMAIN-SUFFIX,intel.jp
+  - DOMAIN-SUFFIX,intel.rw
   - DOMAIN-SUFFIX,intel.ie
-  - DOMAIN-SUFFIX,intel.cz
+  - DOMAIN-SUFFIX,intel.wf
+  - DOMAIN-SUFFIX,intel.fi
+  - DOMAIN-SUFFIX,intel.sg
+  - DOMAIN-SUFFIX,intel.tv
+  - DOMAIN-SUFFIX,intel.hk
   - DOMAIN-SUFFIX,intel.sa
-  - DOMAIN-SUFFIX,intel.cn
+  - DOMAIN-SUFFIX,intel.ng
+  - DOMAIN-SUFFIX,cilk.com
+  - DOMAIN-SUFFIX,intel.pn
+  - DOMAIN-SUFFIX,intel.sx
+  - DOMAIN-SUFFIX,vpro.net
+  - DOMAIN-SUFFIX,intel.io
+  - DOMAIN-SUFFIX,intel.gs
+  - DOMAIN-SUFFIX,intel.ge
+  - DOMAIN-SUFFIX,intel.gd
+  - DOMAIN-SUFFIX,intel.mg
+  - DOMAIN-SUFFIX,intel.jo
+  - DOMAIN-SUFFIX,intel.hu
+  - DOMAIN-SUFFIX,intel.bo
+  - DOMAIN-SUFFIX,intel.ee
+  - DOMAIN-SUFFIX,intel.az
+  - DOMAIN-SUFFIX,intel.ca
+  - DOMAIN-SUFFIX,intel.us
+  - DOMAIN-SUFFIX,intel.ch
+  - DOMAIN-SUFFIX,nevex.com
   - DOMAIN-SUFFIX,chips.com
-  - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,easic.com
   - DOMAIN-SUFFIX,itnel.com
-  - DOMAIN-SUFFIX,nevex.com
-  - DOMAIN-SUFFIX,ospray.net
+  - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,xscale.com
-  - DOMAIN-SUFFIX,niosii.net
   - DOMAIN-SUFFIX,omnitek.tv
-  - DOMAIN-SUFFIX,ospray.org
-  - DOMAIN-SUFFIX,siport.com
-  - DOMAIN-SUFFIX,niosii.com
-  - DOMAIN-SUFFIX,altera.com
-  - DOMAIN-SUFFIX,oneapi.com
-  - DOMAIN-SUFFIX,intell.com
   - DOMAIN-SUFFIX,vokevr.com
+  - DOMAIN-SUFFIX,siport.com
+  - DOMAIN-SUFFIX,oneapi.com
+  - DOMAIN-SUFFIX,niosii.com
+  - DOMAIN-SUFFIX,ospray.net
+  - DOMAIN-SUFFIX,altera.com
+  - DOMAIN-SUFFIX,ospray.org
+  - DOMAIN-SUFFIX,intell.com
   - DOMAIN-SUFFIX,acpica.com
-  - DOMAIN-SUFFIX,coreduo.com
+  - DOMAIN-SUFFIX,niosii.net
   - DOMAIN-SUFFIX,celeron.com
-  - DOMAIN-SUFFIX,intelgo.net
   - DOMAIN-SUFFIX,pentium.com
   - DOMAIN-SUFFIX,openamt.com
   - DOMAIN-SUFFIX,pintool.com
+  - DOMAIN-SUFFIX,intelgo.net
+  - DOMAIN-SUFFIX,coreduo.com
   - DOMAIN-SUFFIX,pentium.net
   - DOMAIN-SUFFIX,celeron.net
-  - DOMAIN-SUFFIX,movidius.net
   - DOMAIN-SUFFIX,centrino.com
-  - DOMAIN-SUFFIX,enpirion.com
-  - DOMAIN-SUFFIX,intelrxt.com
-  - DOMAIN-SUFFIX,reconjet.com
   - DOMAIN-SUFFIX,movidius.com
   - DOMAIN-SUFFIX,centrino.net
+  - DOMAIN-SUFFIX,reconjet.com
   - DOMAIN-SUFFIX,hyperscan.io
+  - DOMAIN-SUFFIX,movidius.net
+  - DOMAIN-SUFFIX,intelrxt.com
+  - DOMAIN-SUFFIX,enpirion.com
+  - DOMAIN-SUFFIX,buyaltera.com
   - DOMAIN-SUFFIX,qualtrics.com
   - DOMAIN-SUFFIX,intelplay.com
-  - DOMAIN-SUFFIX,buyaltera.com
   - DOMAIN-SUFFIX,intelatom.net
   - DOMAIN-SUFFIX,clearlinux.cn
-  - DOMAIN-SUFFIX,nervanasys.com
-  - DOMAIN-SUFFIX,intelstore.com
   - DOMAIN-SUFFIX,latencytop.com
-  - DOMAIN-SUFFIX,doceapower.com
-  - DOMAIN-SUFFIX,xn--ztsq84g.cn
-  - DOMAIN-SUFFIX,lookinside.com
+  - DOMAIN-SUFFIX,intelstore.com
   - DOMAIN-SUFFIX,intelquark.com
+  - DOMAIN-SUFFIX,doceapower.com
   - DOMAIN-SUFFIX,smart-edge.com
   - DOMAIN-SUFFIX,clearlinux.org
+  - DOMAIN-SUFFIX,lookinside.com
+  - DOMAIN-SUFFIX,xn--ztsq84g.cn
+  - DOMAIN-SUFFIX,nervanasys.com
+  - DOMAIN-SUFFIX,coreextreme.com
   - DOMAIN-SUFFIX,insidefilms.com
+  - DOMAIN-SUFFIX,alteraforum.com
   - DOMAIN-SUFFIX,gordonmoore.com
   - DOMAIN-SUFFIX,saffrontech.com
   - DOMAIN-SUFFIX,opendroneid.org
-  - DOMAIN-SUFFIX,alteraforum.com
-  - DOMAIN-SUFFIX,coreextreme.com
-  - DOMAIN-SUFFIX,intelcapital.com
-  - DOMAIN-SUFFIX,intelcapital.net
+  - DOMAIN-SUFFIX,exploreintel.com
+  - DOMAIN-SUFFIX,alteraforums.com
   - DOMAIN-SUFFIX,alteraforums.net
   - DOMAIN-SUFFIX,intelinsight.com
-  - DOMAIN-SUFFIX,exploreintel.com
+  - DOMAIN-SUFFIX,intelcapital.com
+  - DOMAIN-SUFFIX,intelcapital.net
   - DOMAIN-SUFFIX,intelnervana.com
-  - DOMAIN-SUFFIX,alteraforums.com
   - DOMAIN-SUFFIX,snap-telemetry.io
-  - DOMAIN-SUFFIX,theintelstore.com
-  - DOMAIN-SUFFIX,cloudinsights.com
-  - DOMAIN-SUFFIX,exascale-tech.com
-  - DOMAIN-SUFFIX,intelrealsense.cn
-  - DOMAIN-SUFFIX,researchintel.com
   - DOMAIN-SUFFIX,intelsecurity.com
+  - DOMAIN-SUFFIX,cloudinsights.com
+  - DOMAIN-SUFFIX,intelrealsense.cn
+  - DOMAIN-SUFFIX,theintelstore.com
+  - DOMAIN-SUFFIX,researchintel.com
+  - DOMAIN-SUFFIX,exascale-tech.com
   - DOMAIN-SUFFIX,poweredbyintel.com
-  - DOMAIN-SUFFIX,intelapacstore.com
-  - DOMAIN-SUFFIX,intel-research.net
-  - DOMAIN-SUFFIX,makebettercode.com
-  - DOMAIN-SUFFIX,intelnet.component
-  - DOMAIN-SUFFIX,intelforchange.com
   - DOMAIN-SUFFIX,intelfreepress.com
+  - DOMAIN-SUFFIX,intelforchange.com
+  - DOMAIN-SUFFIX,makebettercode.com
+  - DOMAIN-SUFFIX,intel-research.net
+  - DOMAIN-SUFFIX,intelnet.component
   - DOMAIN-SUFFIX,intelrealsense.com
   - DOMAIN-SUFFIX,intelemeastore.com
+  - DOMAIN-SUFFIX,intelapacstore.com
+  - DOMAIN-SUFFIX,makesenseofdata.com
+  - DOMAIN-SUFFIX,openvinotoolkit.org
   - DOMAIN-SUFFIX,sensorynetworks.com
+  - DOMAIN-SUFFIX,omekinteractive.com
   - DOMAIN-SUFFIX,alterauserforum.net
   - DOMAIN-SUFFIX,intelserveredge.com
-  - DOMAIN-SUFFIX,makesenseofdata.com
-  - DOMAIN-SUFFIX,omekinteractive.com
   - DOMAIN-SUFFIX,alterauserforum.com
-  - DOMAIN-SUFFIX,openvinotoolkit.org
   - DOMAIN-SUFFIX,alterauserforums.net
-  - DOMAIN-SUFFIX,trustedanalytics.net
+  - DOMAIN-SUFFIX,intelcloudfinder.com
+  - DOMAIN-SUFFIX,trustedanalytics.com
   - DOMAIN-SUFFIX,alterauserforums.com
   - DOMAIN-SUFFIX,optanedifference.com
-  - DOMAIN-SUFFIX,trustedanalytics.com
-  - DOMAIN-SUFFIX,barefootnetworks.com
   - DOMAIN-SUFFIX,reconinstruments.com
-  - DOMAIN-SUFFIX,intelcloudfinder.com
+  - DOMAIN-SUFFIX,trustedanalytics.net
+  - DOMAIN-SUFFIX,barefootnetworks.com
   - DOMAIN-SUFFIX,clusterconnection.com
   - DOMAIN-SUFFIX,crosswalk-project.com
-  - DOMAIN-SUFFIX,inteleventexpress.com
   - DOMAIN-SUFFIX,crosswalk-project.net
-  - DOMAIN-SUFFIX,intellinuxgraphics.com
-  - DOMAIN-SUFFIX,intelsalestraining.com
+  - DOMAIN-SUFFIX,inteleventexpress.com
   - DOMAIN-SUFFIX,intellinuxgraphics.net
   - DOMAIN-SUFFIX,intelamericasstore.com
   - DOMAIN-SUFFIX,intellinuxwireless.net
+  - DOMAIN-SUFFIX,intelsalestraining.com
   - DOMAIN-SUFFIX,intelcloudbuilders.com
+  - DOMAIN-SUFFIX,intellinuxgraphics.com
   - DOMAIN-SUFFIX,inteliotmarketplace.com
   - DOMAIN-SUFFIX,intellearningseries.com
   - DOMAIN-SUFFIX,intelsoftwarenetwork.com
@@ -236,30 +236,30 @@ payload:
   - DOMAIN-SUFFIX,inteltechnologyprovider.com
   - DOMAIN-SUFFIX,intelvmwarecybersecurity.com
   - DOMAIN-SUFFIX,intel-university-collaboration.net
-  - DOMAIN-SUFFIX,intel.co.id
-  - DOMAIN-SUFFIX,intel.co.kr
-  - DOMAIN-SUFFIX,intel.co.cr
-  - DOMAIN-SUFFIX,intel.co.il
   - DOMAIN-SUFFIX,intel.co.jp
   - DOMAIN-SUFFIX,intel.co.uk
+  - DOMAIN-SUFFIX,intel.co.id
+  - DOMAIN-SUFFIX,intel.co.kr
   - DOMAIN-SUFFIX,intel.co.za
+  - DOMAIN-SUFFIX,intel.co.cr
+  - DOMAIN-SUFFIX,intel.co.il
   - DOMAIN-SUFFIX,intel.co.ae
   - DOMAIN-SUFFIX,intel.com.bo
-  - DOMAIN-SUFFIX,intel.com.pr
-  - DOMAIN-SUFFIX,intel.com.pe
-  - DOMAIN-SUFFIX,intel.com.br
   - DOMAIN-SUFFIX,intel.com.my
-  - DOMAIN-SUFFIX,intel.com.au
-  - DOMAIN-SUFFIX,intel.com.cn
-  - DOMAIN-SUFFIX,intel.com.uy
-  - DOMAIN-SUFFIX,intel.com.tw
-  - DOMAIN-SUFFIX,intel.com.ve
-  - DOMAIN-SUFFIX,intel.com.hk
+  - DOMAIN-SUFFIX,intel.com.pe
   - DOMAIN-SUFFIX,intel.com.co
+  - DOMAIN-SUFFIX,intel.com.pr
+  - DOMAIN-SUFFIX,intel.com.mx
+  - DOMAIN-SUFFIX,intel.com.tw
+  - DOMAIN-SUFFIX,intel.com.au
+  - DOMAIN-SUFFIX,intel.com.ec
+  - DOMAIN-SUFFIX,intel.com.hk
+  - DOMAIN-SUFFIX,intel.com.cn
+  - DOMAIN-SUFFIX,intel.com.ve
   - DOMAIN-SUFFIX,intel.com.ph
+  - DOMAIN-SUFFIX,intel.com.uy
+  - DOMAIN-SUFFIX,intel.com.tr
   - DOMAIN-SUFFIX,intel.com.ar
   - DOMAIN-SUFFIX,intel.com.py
-  - DOMAIN-SUFFIX,intel.com.mx
+  - DOMAIN-SUFFIX,intel.com.br
   - DOMAIN-SUFFIX,intel.com.jm
-  - DOMAIN-SUFFIX,intel.com.tr
-  - DOMAIN-SUFFIX,intel.com.ec

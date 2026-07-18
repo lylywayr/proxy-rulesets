@@ -1,15 +1,15 @@
 # NAME: Ku6
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:22:52.118373+00:00
+# UPDATED: 2026-07-18T19:36:09.207094+00:00
 payload:
   - DOMAIN-SUFFIX,ku6.cn
   - DOMAIN-SUFFIX,ku6.net
   - DOMAIN-SUFFIX,ku6.com
-  - DOMAIN-SUFFIX,juchang.cn
-  - DOMAIN-SUFFIX,feedsp.com
-  - DOMAIN-SUFFIX,ku6img.com
-  - DOMAIN-SUFFIX,ku6vms.com
   - DOMAIN-SUFFIX,ku6cdn.com
+  - DOMAIN-SUFFIX,feedsp.com
+  - DOMAIN-SUFFIX,juchang.cn
+  - DOMAIN-SUFFIX,ku6vms.com
+  - DOMAIN-SUFFIX,ku6img.com
   - DOMAIN-SUFFIX,weiguan.com
   - DOMAIN-SUFFIX,ku6.com.cn
   - DOMAIN-SUFFIX,juchang.com.cn

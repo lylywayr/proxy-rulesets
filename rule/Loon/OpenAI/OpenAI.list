@@ -1,12 +1,12 @@
 # NAME: OpenAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:13.674829+00:00
+# UPDATED: 2026-07-18T19:36:14.786032+00:00
 # DOMAIN: 8
-# DOMAIN-SUFFIX: 30
+# DOMAIN-SUFFIX: 31
 # DOMAIN-KEYWORD: 1
 # IP-ASN: 1
 # IP-CIDR: 2
-# TOTAL: 42
+# TOTAL: 43
 
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,openai-api.arkoselabs.com
@@ -19,18 +19,19 @@ DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,chat.com
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,crixet.com
-DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,observeit.net
-DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,launchdarkly.com
@@ -40,10 +41,10 @@ DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,openaicom.imgix.net
-DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,openai

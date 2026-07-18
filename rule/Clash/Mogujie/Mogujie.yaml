@@ -1,14 +1,14 @@
 # NAME: Mogujie
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:23:06.174986+00:00
+# UPDATED: 2026-07-18T19:36:12.731986+00:00
 payload:
   - DOMAIN-SUFFIX,mogu.com
   - DOMAIN-SUFFIX,uniny.com
-  - DOMAIN-SUFFIX,linkeye.net
   - DOMAIN-SUFFIX,juangua.com
+  - DOMAIN-SUFFIX,linkeye.net
   - DOMAIN-SUFFIX,mogucdn.com
   - DOMAIN-SUFFIX,mogujie.com
-  - DOMAIN-SUFFIX,xdgogogo.com
   - DOMAIN-SUFFIX,styledata.cn
+  - DOMAIN-SUFFIX,xdgogogo.com
   - DOMAIN-SUFFIX,meili-inc.com
   - DOMAIN-SUFFIX,mogujielive.com

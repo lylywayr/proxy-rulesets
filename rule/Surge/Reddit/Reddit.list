@@ -1,6 +1,6 @@
 # NAME: Reddit
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:16.754484+00:00
+# UPDATED: 2026-07-18T19:39:08.605397+00:00
 # DOMAIN-SUFFIX: 15
 # TOTAL: 15
 
@@ -12,10 +12,10 @@ DOMAIN-SUFFIX,redditmail.com
 DOMAIN-SUFFIX,redditblog.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
-DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditstatus.com
+DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,reddituploads.com
 DOMAIN-SUFFIX,reddit.app.link
 DOMAIN-SUFFIX,reddit.map.fastly.net
-DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com

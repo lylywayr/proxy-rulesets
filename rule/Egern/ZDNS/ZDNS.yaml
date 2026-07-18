@@ -1,16 +1,16 @@
 # NAME: ZDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:55.218066+00:00
+# UPDATED: 2026-07-18T19:39:16.130737+00:00
 no_resolve: true
 domain_suffix_set:
   - "zdns.cn"
   - "zdnscloud.cn"
-  - "zdnscloud.com"
   - "zdnscloud.biz"
+  - "zdnscloud.com"
   - "zdnscloud.net"
   - "zdnscloud.info"
-  - "zdns.org.cn"
   - "zdns.net.cn"
+  - "zdns.org.cn"
   - "zcmbc.com.cn"
   - "zdnscloud.org.cn"
   - "zdnscloud.net.cn"

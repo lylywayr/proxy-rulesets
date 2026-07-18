@@ -1,6 +1,6 @@
 # NAME: TestFlight
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:32.056872+00:00
+# UPDATED: 2026-07-18T19:39:11.922694+00:00
 payload:
   - DOMAIN,beta.apple.com
   - DOMAIN,testflight.apple.com

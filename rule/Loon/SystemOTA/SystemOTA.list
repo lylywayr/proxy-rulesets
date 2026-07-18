@@ -1,6 +1,6 @@
 # NAME: SystemOTA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:28:27.878377+00:00
+# UPDATED: 2026-07-18T19:39:11.019838+00:00
 # DOMAIN: 65
 # DOMAIN-SUFFIX: 13
 # TOTAL: 78
@@ -70,12 +70,12 @@ DOMAIN,xp.apple.com
 DOMAIN,xp.apple.com.akadns.net
 DOMAIN,xp.apple.com.mwcname.com
 DOMAIN,xp.g.aaplimg.com
-DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,appldnld.apple.com
-DOMAIN-SUFFIX,mesu.g.aaplimg.com
 DOMAIN-SUFFIX,ocsp.g.aaplimg.com
+DOMAIN-SUFFIX,mesu.g.aaplimg.com
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
 DOMAIN-SUFFIX,gdmf.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net

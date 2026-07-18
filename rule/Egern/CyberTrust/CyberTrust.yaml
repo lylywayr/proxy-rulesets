@@ -1,7 +1,7 @@
 # NAME: CyberTrust
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-11T19:08:52.342005+00:00
+# UPDATED: 2026-07-18T19:17:30.784076+00:00
 no_resolve: true
 domain_suffix_set:
-  - "cybertrust.co.jp"
   - "cybertrust.ne.jp"
+  - "cybertrust.co.jp"
