@@ -1,46 +1,46 @@
 # NAME: Cryptocurrency
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:17:30.598856+00:00
+# UPDATED: 2026-07-25T19:23:07.612617+00:00
 # DOMAIN-SUFFIX: 43
 # TOTAL: 43
 
 DOMAIN-SUFFIX,zb.com
-DOMAIN-SUFFIX,ftx.com
-DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,sushi.com
-DOMAIN-SUFFIX,bnappzh.co
-DOMAIN-SUFFIX,kraken.com
-DOMAIN-SUFFIX,kucoin.com
-DOMAIN-SUFFIX,aicoin.com
-DOMAIN-SUFFIX,bitmex.com
-DOMAIN-SUFFIX,debank.com
-DOMAIN-SUFFIX,gemini.com
-DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,liquid.com
-DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,liquid.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,bittrex.com
 DOMAIN-SUFFIX,bnappzh.com
-DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,bitstamp.net
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,poloniex.com
-DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coincheck.com
 DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,coinmarketcap.com

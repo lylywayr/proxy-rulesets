@@ -1,6 +1,6 @@
 # NAME: Gitee
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:35:47.384813+00:00
+# UPDATED: 2026-07-25T19:42:41.656217+00:00
 payload:
   - DOMAIN-SUFFIX,gitee.io
   - DOMAIN-SUFFIX,gitee.com

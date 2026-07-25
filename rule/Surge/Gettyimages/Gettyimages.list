@@ -1,27 +1,27 @@
 # NAME: Gettyimages
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:35:47.232958+00:00
+# UPDATED: 2026-07-25T19:42:41.171718+00:00
 # DOMAIN-SUFFIX: 25
 # TOTAL: 25
 
-DOMAIN-SUFFIX,gettyimages.es
-DOMAIN-SUFFIX,gettyimages.be
-DOMAIN-SUFFIX,gettyimages.ie
-DOMAIN-SUFFIX,gettyimages.ch
+DOMAIN-SUFFIX,gettyimages.at
+DOMAIN-SUFFIX,gettyimages.no
 DOMAIN-SUFFIX,gettyimages.it
+DOMAIN-SUFFIX,gettyimages.dk
+DOMAIN-SUFFIX,gettyimages.ca
 DOMAIN-SUFFIX,gettyimages.de
-DOMAIN-SUFFIX,gettyimages.fr
+DOMAIN-SUFFIX,gettyimages.be
+DOMAIN-SUFFIX,gettyimages.hk
+DOMAIN-SUFFIX,gettyimages.ae
 DOMAIN-SUFFIX,gettyimages.nl
 DOMAIN-SUFFIX,gettyimages.se
-DOMAIN-SUFFIX,gettyimages.ca
-DOMAIN-SUFFIX,gettyimages.ae
-DOMAIN-SUFFIX,gettyimages.fi
-DOMAIN-SUFFIX,gettyimages.no
-DOMAIN-SUFFIX,gettyimages.dk
-DOMAIN-SUFFIX,gettyimages.pt
-DOMAIN-SUFFIX,gettyimages.at
 DOMAIN-SUFFIX,gettyimages.in
-DOMAIN-SUFFIX,gettyimages.hk
+DOMAIN-SUFFIX,gettyimages.ie
+DOMAIN-SUFFIX,gettyimages.es
+DOMAIN-SUFFIX,gettyimages.ch
+DOMAIN-SUFFIX,gettyimages.fi
+DOMAIN-SUFFIX,gettyimages.fr
+DOMAIN-SUFFIX,gettyimages.pt
 DOMAIN-SUFFIX,gettyimages.com
 DOMAIN-SUFFIX,gettyimages.co.nz
 DOMAIN-SUFFIX,gettyimages.co.uk

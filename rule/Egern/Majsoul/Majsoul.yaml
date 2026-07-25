@@ -1,12 +1,12 @@
 # NAME: Majsoul
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:36:10.654495+00:00
+# UPDATED: 2026-07-25T19:43:07.753835+00:00
 no_resolve: true
 domain_suffix_set:
   - "game.maj-soul.com"
   - "lb-hw.maj-soul.com"
-  - "lb-v2.maj-soul.com"
   - "lb-sy.maj-soul.com"
+  - "lb-v2.maj-soul.com"
   - "lb-cdn.maj-soul.com"
   - "gateway-hw.maj-soul.com"
   - "gateway-v2.maj-soul.com"

@@ -9,7 +9,7 @@
 - 分类标识：`Bahamut`
 - 当前客户端：`Loon`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
+- 本次更新时间：`2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
 - 专题入口：
 - 暂无
 
@@ -50,7 +50,7 @@ Aggregated rules for Bahamut, covering related domains, keywords, and network ta
 - Category ID: `Bahamut`
 - Client: `Loon`
 - Group: `Lifestyle`
-- Last updated: `2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
+- Last updated: `2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Bahamut/Bahamut.list>
 

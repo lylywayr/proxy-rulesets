@@ -1,13 +1,13 @@
 # NAME: Espn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:35:46.047529+00:00
+# UPDATED: 2026-07-25T19:42:37.037856+00:00
 payload:
   - DOMAIN,espn.api.edge.bamgrid.com
   - DOMAIN,espn.hb.omtrdc.net
   - DOMAIN,espndotcom.tt.omtrdc.net
   - DOMAIN-SUFFIX,dtci.co
-  - DOMAIN-SUFFIX,espn.net
   - DOMAIN-SUFFIX,espn.com
+  - DOMAIN-SUFFIX,espn.net
   - DOMAIN-SUFFIX,espnqa.com
   - DOMAIN-SUFFIX,espncdn.com
   - DOMAIN-SUFFIX,watchespn.com

@@ -1,6 +1,6 @@
 # NAME: TVB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:39:12.586522+00:00
+# UPDATED: 2026-07-25T19:48:06.878876+00:00
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 18
 # USER-AGENT: 2
@@ -22,8 +22,8 @@ DOMAIN-SUFFIX,tvbc.com.cn
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,tvbanywhere.com.sg
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
-DOMAIN-SUFFIX,tvbeventpower.com.hk
 DOMAIN-SUFFIX,bigbigchannel.com.hk
+DOMAIN-SUFFIX,tvbeventpower.com.hk
 DOMAIN-SUFFIX,content.jwplatform.com
 DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net

@@ -1,6 +1,6 @@
 # NAME: YiChe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:39:15.633969+00:00
+# UPDATED: 2026-07-25T19:48:18.633710+00:00
 payload:
   - DOMAIN-SUFFIX,yccdn.com
   - DOMAIN-SUFFIX,yiche.com

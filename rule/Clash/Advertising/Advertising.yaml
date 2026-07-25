@@ -1,6 +1,6 @@
 # NAME: Advertising
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T18:41:44.810607+00:00
+# UPDATED: 2026-07-25T18:45:05.957626+00:00
 payload:
   - DOMAIN-KEYWORD,-logging.nextmedia.com
   - DOMAIN-KEYWORD,-rtb.gravite.net

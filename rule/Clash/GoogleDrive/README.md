@@ -9,7 +9,7 @@
 - 分类标识：`GoogleDrive`
 - 当前客户端：`Clash`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
+- 本次更新时间：`2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
 - 专题入口：
 - 暂无
 
@@ -51,7 +51,7 @@ Aggregated rules for GoogleDrive, covering related domains, keywords, and networ
 - Category ID: `GoogleDrive`
 - Client: `Clash`
 - Group: `Office`
-- Last updated: `2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
+- Last updated: `2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GoogleDrive/GoogleDrive.yaml>
 

@@ -1,5 +1,5 @@
 # NAME: AiQiCha
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T18:41:47.194819+00:00
+# UPDATED: 2026-07-25T18:45:11.910482+00:00
 payload:
   - DOMAIN-SUFFIX,aiqicha.baidu.com

@@ -1,6 +1,6 @@
 # NAME: GitHub
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:35:47.520516+00:00
+# UPDATED: 2026-07-25T19:42:43.702790+00:00
 no_resolve: true
 domain_set:
   - "copilotprodattachments.blob.core.windows.net"
@@ -33,32 +33,32 @@ domain_set:
 domain_suffix_set:
   - "gh.io"
   - "git.io"
-  - "ghcr.io"
   - "ghe.com"
   - "atom.io"
+  - "ghcr.io"
   - "repo.new"
   - "npmjs.org"
-  - "npmjs.com"
   - "github.io"
+  - "npmjs.com"
   - "github.ai"
-  - "github.com"
   - "rawgit.com"
   - "github.dev"
+  - "github.com"
   - "github.blog"
-  - "github.career"
   - "npm.community"
-  - "githubapp.com"
-  - "rawgithub.com"
+  - "github.career"
   - "myoctocat.com"
+  - "rawgithub.com"
+  - "githubapp.com"
   - "githubnext.com"
   - "dependabot.com"
   - "octocaptcha.com"
+  - "githubstatus.com"
   - "github.community"
   - "opensource.guide"
-  - "githubstatus.com"
   - "githubassets.com"
-  - "thegithubshop.com"
   - "githubcopilot.com"
+  - "thegithubshop.com"
   - "githubpreview.dev"
   - "githubuniverse.com"
   - "githubhackathon.com"

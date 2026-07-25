@@ -1,10 +1,10 @@
 # NAME: Hpplay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:36:06.349620+00:00
+# UPDATED: 2026-07-25T19:42:54.153515+00:00
 no_resolve: true
 domain_suffix_set:
   - "hpplay.cn"
-  - "mirrorcast.tv"
   - "mirrorcast.cn"
+  - "mirrorcast.tv"
   - "hpplay.com.cn"
   - "mirrorcast.com.cn"

@@ -1,6 +1,6 @@
 # NAME: Arphic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T18:41:56.263766+00:00
+# UPDATED: 2026-07-25T18:45:37.280465+00:00
 payload:
   - DOMAIN-SUFFIX,arphic.com
   - DOMAIN-SUFFIX,ifontcloud.com

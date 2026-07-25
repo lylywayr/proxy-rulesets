@@ -9,7 +9,7 @@
 - 分类标识：`ViuTV`
 - 当前客户端：`Loon`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
+- 本次更新时间：`2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
 - 专题入口：
 - 暂无
 
@@ -50,7 +50,7 @@ Aggregated rules for ViuTV, covering related domains, keywords, and network targ
 - Category ID: `ViuTV`
 - Client: `Loon`
 - Group: `Media`
-- Last updated: `2026-07-19 02:41:42 CST (UTC+8) / 2026-07-18 18:41:42 UTC`
+- Last updated: `2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ViuTV/ViuTV.list>
 

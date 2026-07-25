@@ -1,11 +1,11 @@
 # NAME: CHT
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:17:29.372930+00:00
+# UPDATED: 2026-07-25T19:23:01.132162+00:00
 payload:
   - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN-SUFFIX,xuite.net
   - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,emome.net
-  - DOMAIN-SUFFIX,xuite.net
   - DOMAIN-SUFFIX,cht.com.tw
   - DOMAIN-SUFFIX,chtf.org.tw
   - DOMAIN-SUFFIX,gtlsca.nat.gov.tw

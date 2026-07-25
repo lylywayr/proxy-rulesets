@@ -1,6 +1,6 @@
 # NAME: Mail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T19:36:10.527618+00:00
+# UPDATED: 2026-07-25T19:43:07.368167+00:00
 no_resolve: true
 domain_set:
   - "apple.imap.mail.yahoo.com"
@@ -14,5 +14,5 @@ domain_set:
   - "smtp.office365.com"
 domain_suffix_set:
   - "m.hotmail.com"
-  - "smtp.yandex.com"
   - "imap.yandex.com"
+  - "smtp.yandex.com"

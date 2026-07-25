@@ -1,6 +1,6 @@
 # NAME: BOC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-18T18:41:57.888369+00:00
+# UPDATED: 2026-07-25T18:45:42.364833+00:00
 payload:
   - DOMAIN-SUFFIX,boc.cn
   - DOMAIN-SUFFIX,bochk.com
@@ -16,9 +16,9 @@ payload:
   - DOMAIN-SUFFIX,bocigroup.com
   - DOMAIN-SUFFIX,bocichina.com
   - DOMAIN-SUFFIX,bocamchina.com
-  - DOMAIN-SUFFIX,bankofchina.com
   - DOMAIN-SUFFIX,bochkonline.com
   - DOMAIN-SUFFIX,bocaviation.com
+  - DOMAIN-SUFFIX,bankofchina.com
   - DOMAIN-SUFFIX,bank-of-china.com
   - DOMAIN-SUFFIX,bocfullertonbank.com
   - DOMAIN-SUFFIX,bocichina.com.cn
