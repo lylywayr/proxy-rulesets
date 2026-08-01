@@ -1,6 +1,6 @@
 # NAME: YiZhiBo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:18.961443+00:00
+# UPDATED: 2026-08-01T19:45:36.133239+00:00
 payload:
   - DOMAIN-SUFFIX,yzbo.tv
   - DOMAIN-SUFFIX,sndks.com

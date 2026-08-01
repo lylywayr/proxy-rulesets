@@ -1,6 +1,6 @@
 # NAME: XiaoYuanKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:17.533494+00:00
+# UPDATED: 2026-08-01T19:45:35.096984+00:00
 payload:
   - DOMAIN-SUFFIX,5gimos.com
   - DOMAIN-SUFFIX,bizport.cn

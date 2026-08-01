@@ -1,10 +1,10 @@
 # NAME: JianGuoYun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:43:00.037883+00:00
+# UPDATED: 2026-08-01T19:41:27.451769+00:00
 no_resolve: true
 domain_suffix_set:
   - "gdfgq.club"
   - "nutstore.net"
-  - "nutstorehq.com"
   - "jianguoyun.com"
+  - "nutstorehq.com"
   - "jianguopuzi.com"

@@ -1,6 +1,6 @@
 # NAME: ViuTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:11.679332+00:00
+# UPDATED: 2026-08-01T19:45:31.261270+00:00
 payload:
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,viu.com

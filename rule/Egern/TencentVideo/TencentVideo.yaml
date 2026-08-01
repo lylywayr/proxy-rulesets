@@ -1,6 +1,6 @@
 # NAME: TencentVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:03.775100+00:00
+# UPDATED: 2026-08-01T19:45:26.387381+00:00
 no_resolve: true
 domain_set:
   - "00713915daab0be43def5c338c02c80b.dlied1.cdntips.net"

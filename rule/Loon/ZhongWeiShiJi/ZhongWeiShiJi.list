@@ -1,6 +1,6 @@
 # NAME: ZhongWeiShiJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:22.504045+00:00
+# UPDATED: 2026-08-01T19:45:38.730810+00:00
 # DOMAIN-SUFFIX: 17
 # TOTAL: 17
 
@@ -9,13 +9,13 @@ DOMAIN-SUFFIX,nvsip.com
 DOMAIN-SUFFIX,sunywo.com
 DOMAIN-SUFFIX,soovvi.com
 DOMAIN-SUFFIX,jovetech.cn
-DOMAIN-SUFFIX,jovision.cn
 DOMAIN-SUFFIX,jovmall.com
-DOMAIN-SUFFIX,cloudsee.com
-DOMAIN-SUFFIX,jovetech.com
+DOMAIN-SUFFIX,jovision.cn
 DOMAIN-SUFFIX,cloudsee.net
-DOMAIN-SUFFIX,jovcloud.com
 DOMAIN-SUFFIX,jovision.com
+DOMAIN-SUFFIX,jovcloud.com
+DOMAIN-SUFFIX,jovetech.com
+DOMAIN-SUFFIX,cloudsee.com
 DOMAIN-SUFFIX,xunvision.com
 DOMAIN-SUFFIX,jovisionai.com
 DOMAIN-SUFFIX,cloudseetech.com

@@ -1,6 +1,6 @@
 # NAME: My5
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:43:13.743150+00:00
+# UPDATED: 2026-08-01T19:41:36.459396+00:00
 payload:
   - DOMAIN,d349g9zuie06uo.cloudfront.net
   - DOMAIN-SUFFIX,my5.tv

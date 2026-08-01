@@ -1,18 +1,18 @@
 # NAME: DiLianWangLuo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:23:10.895679+00:00
+# UPDATED: 2026-08-01T19:23:41.260594+00:00
 payload:
-  - DOMAIN-SUFFIX,mcadn.cn
   - DOMAIN-SUFFIX,acadn.cn
+  - DOMAIN-SUFFIX,mcadn.cn
   - DOMAIN-SUFFIX,tlgslb.cn
-  - DOMAIN-SUFFIX,dwion.com
   - DOMAIN-SUFFIX,flxdns.cn
   - DOMAIN-SUFFIX,dlgslb.cn
   - DOMAIN-SUFFIX,acadn.com
+  - DOMAIN-SUFFIX,dwion.com
   - DOMAIN-SUFFIX,flxdns.com
-  - DOMAIN-SUFFIX,tlgslb.com
   - DOMAIN-SUFFIX,dlgslb.net
-  - DOMAIN-SUFFIX,bbbcdns.com
+  - DOMAIN-SUFFIX,tlgslb.com
   - DOMAIN-SUFFIX,fastcdn.com
+  - DOMAIN-SUFFIX,bbbcdns.com
   - DOMAIN-SUFFIX,globalcdn.cn
   - DOMAIN-SUFFIX,fastcdn.com.cn

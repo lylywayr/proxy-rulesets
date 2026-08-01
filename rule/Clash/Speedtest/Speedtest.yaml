@@ -1,6 +1,6 @@
 # NAME: Speedtest
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:47:58.111214+00:00
+# UPDATED: 2026-08-01T19:45:22.978065+00:00
 payload:
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,ooklaserver.net

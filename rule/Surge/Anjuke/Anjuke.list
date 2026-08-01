@@ -1,13 +1,13 @@
 # NAME: Anjuke
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T18:45:16.033933+00:00
+# UPDATED: 2026-08-01T18:48:21.547861+00:00
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 
 DOMAIN-SUFFIX,anjuke.cn
-DOMAIN-SUFFIX,anjuke.com
-DOMAIN-SUFFIX,jikejia.cn
 DOMAIN-SUFFIX,aifang.com
 DOMAIN-SUFFIX,aifcdn.com
+DOMAIN-SUFFIX,jikejia.cn
+DOMAIN-SUFFIX,anjuke.com
 DOMAIN-SUFFIX,ajkinclude.com
 DOMAIN-SUFFIX,anjukestatic.com

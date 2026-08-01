@@ -1,19 +1,19 @@
 # NAME: Vercel
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:10.098443+00:00
+# UPDATED: 2026-08-01T19:45:30.134180+00:00
 payload:
   - DOMAIN-SUFFIX,now.sh
   - DOMAIN-SUFFIX,err.sh
-  - DOMAIN-SUFFIX,zeit.co
   - DOMAIN-SUFFIX,zeit.sh
+  - DOMAIN-SUFFIX,zeit.co
   - DOMAIN-SUFFIX,hyper.is
   - DOMAIN-SUFFIX,title.sh
   - DOMAIN-SUFFIX,vercel.sh
-  - DOMAIN-SUFFIX,vercel.app
-  - DOMAIN-SUFFIX,nextjs.org
-  - DOMAIN-SUFFIX,vercel.com
   - DOMAIN-SUFFIX,static.fun
   - DOMAIN-SUFFIX,vercel.pub
+  - DOMAIN-SUFFIX,vercel.com
+  - DOMAIN-SUFFIX,nextjs.org
+  - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,vercel.link
   - DOMAIN-SUFFIX,vercel.blog
   - DOMAIN-SUFFIX,vercel.live
@@ -21,10 +21,10 @@ payload:
   - DOMAIN-SUFFIX,vercel.events
   - DOMAIN-SUFFIX,zeitworld.com
   - DOMAIN-SUFFIX,turborepo.org
-  - DOMAIN-SUFFIX,zeit-world.com
-  - DOMAIN-SUFFIX,zeit-world.org
   - DOMAIN-SUFFIX,zeit-world.net
+  - DOMAIN-SUFFIX,zeit-world.com
   - DOMAIN-SUFFIX,vercel-dns.com
+  - DOMAIN-SUFFIX,zeit-world.org
   - DOMAIN-SUFFIX,vercel-status.com
   - DOMAIN-SUFFIX,vercel-insights.com
   - DOMAIN-SUFFIX,vercel-analytics.com

@@ -1,6 +1,6 @@
 # NAME: DiscoveryPlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:42:31.648974+00:00
+# UPDATED: 2026-08-01T19:41:10.067063+00:00
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 11
 # DOMAIN-KEYWORD: 1
@@ -11,8 +11,8 @@ DOMAIN,discovery-us.conax.cloud
 DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
 DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
 DOMAIN-SUFFIX,litix.io
-DOMAIN-SUFFIX,fwmrm.net
 DOMAIN-SUFFIX,dnitv.com
+DOMAIN-SUFFIX,fwmrm.net
 DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,discovery.com
 DOMAIN-SUFFIX,disco-api.com

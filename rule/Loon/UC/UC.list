@@ -1,42 +1,42 @@
 # NAME: UC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:08.124037+00:00
+# UPDATED: 2026-08-01T19:45:29.079221+00:00
 # DOMAIN-SUFFIX: 38
 # TOTAL: 38
 
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,yun.cn
-DOMAIN-SUFFIX,hdyzx.cn
-DOMAIN-SUFFIX,ucweb.cn
 DOMAIN-SUFFIX,zjbuc.cn
+DOMAIN-SUFFIX,hdyzx.cn
 DOMAIN-SUFFIX,u-mob.cn
+DOMAIN-SUFFIX,ucweb.cn
 DOMAIN-SUFFIX,quark.cn
-DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,xmq123.cn
 DOMAIN-SUFFIX,uc123.com
-DOMAIN-SUFFIX,zjbuc.com
-DOMAIN-SUFFIX,ucfly.com
-DOMAIN-SUFFIX,tinya1.cn
+DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,ucdesk.cn
+DOMAIN-SUFFIX,zjbuc.com
+DOMAIN-SUFFIX,tinya1.cn
+DOMAIN-SUFFIX,ucfly.com
+DOMAIN-SUFFIX,tinyap2.cn
+DOMAIN-SUFFIX,open-uc.cn
+DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,effirst.cn
 DOMAIN-SUFFIX,tinypap.cn
-DOMAIN-SUFFIX,tinyap2.cn
-DOMAIN-SUFFIX,uc-test.cn
 DOMAIN-SUFFIX,coolppa.cn
+DOMAIN-SUFFIX,uc-test.cn
 DOMAIN-SUFFIX,minippa.cn
 DOMAIN-SUFFIX,myquark.cn
-DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,tinyppa.cn
-DOMAIN-SUFFIX,open-uc.cn
-DOMAIN-SUFFIX,effirst.com
-DOMAIN-SUFFIX,ubibibi.com
 DOMAIN-SUFFIX,uc-test.com
-DOMAIN-SUFFIX,qingzhou.pro
-DOMAIN-SUFFIX,qingzhou.biz
+DOMAIN-SUFFIX,ubibibi.com
+DOMAIN-SUFFIX,effirst.com
 DOMAIN-SUFFIX,qingzhou.ltd
-DOMAIN-SUFFIX,appchaoshi.cn
-DOMAIN-SUFFIX,babybubble.cn
+DOMAIN-SUFFIX,qingzhou.biz
+DOMAIN-SUFFIX,qingzhou.pro
 DOMAIN-SUFFIX,appsmall.mobi
+DOMAIN-SUFFIX,babybubble.cn
+DOMAIN-SUFFIX,appchaoshi.cn
 DOMAIN-SUFFIX,babymoment.net
 DOMAIN-SUFFIX,blovestorm.com
 DOMAIN-SUFFIX,xiaomengquan.cn

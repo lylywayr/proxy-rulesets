@@ -9,7 +9,7 @@
 - 分类标识：`Slack`
 - 当前客户端：`Loon`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
+- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
 - 专题入口：
 - [办公协作专题](../../../guide/topics/office-collaboration.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for Slack, covering related domains, keywords, and network targ
 - Category ID: `Slack`
 - Client: `Loon`
 - Group: `Office`
-- Last updated: `2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
+- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Slack/Slack.list>
 

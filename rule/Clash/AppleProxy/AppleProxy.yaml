@@ -1,6 +1,6 @@
 # NAME: AppleProxy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T18:45:36.653131+00:00
+# UPDATED: 2026-08-01T18:48:25.590682+00:00
 payload:
   - DOMAIN,api-glb-sea.smoot.apple.com
   - DOMAIN,apple.comscoreresearch.com

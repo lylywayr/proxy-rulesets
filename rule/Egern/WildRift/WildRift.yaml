@@ -1,6 +1,6 @@
 # NAME: WildRift
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:15.258990+00:00
+# UPDATED: 2026-08-01T19:45:33.811605+00:00
 no_resolve: true
 domain_suffix_set:
   - "pvp.net"

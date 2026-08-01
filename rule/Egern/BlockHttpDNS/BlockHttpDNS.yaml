@@ -1,6 +1,6 @@
 # NAME: BlockHttpDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T18:45:41.542451+00:00
+# UPDATED: 2026-08-01T18:48:28.663744+00:00
 no_resolve: true
 domain_set:
   - "dns.jd.com"

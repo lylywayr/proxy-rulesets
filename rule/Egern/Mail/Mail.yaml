@@ -1,6 +1,6 @@
 # NAME: Mail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:43:07.368167+00:00
+# UPDATED: 2026-08-01T19:41:32.720001+00:00
 no_resolve: true
 domain_set:
   - "apple.imap.mail.yahoo.com"

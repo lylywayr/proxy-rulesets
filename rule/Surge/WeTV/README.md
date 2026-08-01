@@ -9,15 +9,15 @@
 - 分类标识：`WeTV`
 - 当前客户端：`Surge`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
+- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`10`
+- 总数：`8`
 - `DOMAIN`: 1
-- `DOMAIN-SUFFIX`: 7
+- `DOMAIN-SUFFIX`: 5
 - `USER-AGENT`: 1
 - `PROCESS-NAME`: 2
 - `IP-CIDR`: 1
@@ -52,7 +52,7 @@ Aggregated rules for WeTV, covering related domains, keywords, and network targe
 - Category ID: `WeTV`
 - Client: `Surge`
 - Group: `Media`
-- Last updated: `2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
+- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/WeTV/WeTV.list>
 

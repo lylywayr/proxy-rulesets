@@ -1,6 +1,6 @@
 # NAME: Zoho
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:23.137580+00:00
+# UPDATED: 2026-08-01T19:45:39.186625+00:00
 no_resolve: true
 domain_suffix_set:
   - "zoho.in"
@@ -8,10 +8,10 @@ domain_suffix_set:
   - "zoho.com"
   - "zohocdn.com"
   - "zohostatic.in"
-  - "zohopublic.com"
   - "zohostatic.com"
-  - "zohomeetups.com"
+  - "zohopublic.com"
   - "zohoschools.com"
+  - "zohomeetups.com"
   - "zohowebstatic.com"
   - "zohouniversity.com"
   - "zohomerchandise.com"

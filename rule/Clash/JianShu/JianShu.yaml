@@ -1,6 +1,6 @@
 # NAME: JianShu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:43:00.156803+00:00
+# UPDATED: 2026-08-01T19:41:27.563578+00:00
 payload:
   - DOMAIN-SUFFIX,jianshu.io
   - DOMAIN-SUFFIX,baijii.com

@@ -1,6 +1,6 @@
 # NAME: ALJazeera
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T18:45:13.322965+00:00
+# UPDATED: 2026-08-01T18:48:19.769279+00:00
 no_resolve: true
 domain_suffix_set:
   - "ajplus.net"

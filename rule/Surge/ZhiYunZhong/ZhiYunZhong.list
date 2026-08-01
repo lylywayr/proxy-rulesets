@@ -1,13 +1,13 @@
 # NAME: ZhiYunZhong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:22.259116+00:00
+# UPDATED: 2026-08-01T19:45:38.432204+00:00
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 
 DOMAIN-SUFFIX,optaim.cn
 DOMAIN-SUFFIX,igo52.com
-DOMAIN-SUFFIX,cloudau.cn
 DOMAIN-SUFFIX,optaim.com
+DOMAIN-SUFFIX,cloudau.cn
 DOMAIN-SUFFIX,iappad.com
 DOMAIN-SUFFIX,appgrub.com
 DOMAIN-SUFFIX,iapprank.com

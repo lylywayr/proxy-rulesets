@@ -1,6 +1,6 @@
 # NAME: WeTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:14.160226+00:00
+# UPDATED: 2026-08-01T19:45:33.150986+00:00
 no_resolve: true
 domain_set:
   - "wetv.qq.com"
@@ -8,8 +8,6 @@ domain_suffix_set:
   - "wetv.vip"
   - "iflix.com"
   - "wetvinfo.com"
-  - "v.smtcdns.com"
-  - "v.smtcdns.net"
   - "iflix-images.akamaized.net"
   - "vv.video.qq.com"
 user_agent_set:

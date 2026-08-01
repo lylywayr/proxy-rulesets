@@ -1,11 +1,11 @@
 # NAME: DaMai
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:23:08.617910+00:00
+# UPDATED: 2026-08-01T19:23:39.582965+00:00
 # DOMAIN-SUFFIX: 11
 # TOTAL: 11
 
-DOMAIN-SUFFIX,jtwsm.cn
 DOMAIN-SUFFIX,damai.cn
+DOMAIN-SUFFIX,jtwsm.cn
 DOMAIN-SUFFIX,dmcdn.cn
 DOMAIN-SUFFIX,maikr.com
 DOMAIN-SUFFIX,maitix.net

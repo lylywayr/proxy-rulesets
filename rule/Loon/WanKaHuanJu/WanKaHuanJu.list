@@ -1,31 +1,31 @@
 # NAME: WanKaHuanJu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:13.050877+00:00
+# UPDATED: 2026-08-01T19:45:32.329399+00:00
 # DOMAIN-SUFFIX: 29
 # TOTAL: 29
 
-DOMAIN-SUFFIX,gdsa.com
 DOMAIN-SUFFIX,mhacn.cn
+DOMAIN-SUFFIX,gdsa.com
 DOMAIN-SUFFIX,gm825.cn
 DOMAIN-SUFFIX,mhacn.net
-DOMAIN-SUFFIX,itgsa.com
-DOMAIN-SUFFIX,gm825.com
 DOMAIN-SUFFIX,hapjs.org
+DOMAIN-SUFFIX,gm825.com
 DOMAIN-SUFFIX,mhacn.com
 DOMAIN-SUFFIX,gm825.net
+DOMAIN-SUFFIX,itgsa.com
 DOMAIN-SUFFIX,wankacn.cn
-DOMAIN-SUFFIX,wankacn.net
 DOMAIN-SUFFIX,so-quick.cn
+DOMAIN-SUFFIX,wankacn.net
 DOMAIN-SUFFIX,wankacn.com
 DOMAIN-SUFFIX,quickapp.cn
 DOMAIN-SUFFIX,wankamall.com
 DOMAIN-SUFFIX,daxianglink.cn
-DOMAIN-SUFFIX,daxianglink.com
 DOMAIN-SUFFIX,quicklyopen.com
-DOMAIN-SUFFIX,shenyinhudong.cn
-DOMAIN-SUFFIX,ita-alliance.com
+DOMAIN-SUFFIX,daxianglink.com
 DOMAIN-SUFFIX,quickingdata.com
 DOMAIN-SUFFIX,daxianglingke.cn
+DOMAIN-SUFFIX,ita-alliance.com
+DOMAIN-SUFFIX,shenyinhudong.cn
 DOMAIN-SUFFIX,shenyinhudong.com
 DOMAIN-SUFFIX,daxianglingke.com
 DOMAIN-SUFFIX,gm825.com.cn

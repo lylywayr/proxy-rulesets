@@ -1,9 +1,9 @@
 # NAME: Dynu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:42:34.903823+00:00
+# UPDATED: 2026-08-01T19:41:12.635802+00:00
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 
-DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,dynu.com
+DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,freeddns.org

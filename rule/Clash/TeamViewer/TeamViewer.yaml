@@ -1,6 +1,6 @@
 # NAME: TeamViewer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:02.338896+00:00
+# UPDATED: 2026-08-01T19:45:25.621581+00:00
 payload:
   - DOMAIN-SUFFIX,teamviewer.com
   - IP-CIDR,139.220.243.27/32

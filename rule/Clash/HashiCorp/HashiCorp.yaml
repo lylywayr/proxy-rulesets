@@ -1,6 +1,6 @@
 # NAME: HashiCorp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:42:49.934725+00:00
+# UPDATED: 2026-08-01T19:41:21.296754+00:00
 payload:
   - DOMAIN-SUFFIX,packer.io
   - DOMAIN-SUFFIX,consul.io

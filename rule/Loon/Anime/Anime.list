@@ -1,19 +1,19 @@
 # NAME: Anime
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T18:45:15.827339+00:00
+# UPDATED: 2026-08-01T18:48:21.437676+00:00
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 
 DOMAIN-SUFFIX,vrv.co
 DOMAIN-SUFFIX,9anime.cz
-DOMAIN-SUFFIX,9anime.id
 DOMAIN-SUFFIX,9anime.to
 DOMAIN-SUFFIX,9anime.ws
+DOMAIN-SUFFIX,9anime.id
 DOMAIN-SUFFIX,hidive.com
 DOMAIN-SUFFIX,gogocdn.net
 DOMAIN-SUFFIX,gogoanime.vc
 DOMAIN-SUFFIX,gogo-load.com
-DOMAIN-SUFFIX,gogoanime.wiki
 DOMAIN-SUFFIX,funimation.com
+DOMAIN-SUFFIX,gogoanime.wiki
 DOMAIN-SUFFIX,animedao-tv.com
 DOMAIN-SUFFIX,crunchyroll.com

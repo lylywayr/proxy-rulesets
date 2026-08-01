@@ -1,6 +1,6 @@
 # NAME: DigitalOcean
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:23:10.774408+00:00
+# UPDATED: 2026-08-01T19:23:41.145844+00:00
 no_resolve: true
 domain_suffix_set:
   - "do.co"

@@ -1,18 +1,18 @@
 # NAME: LianMeng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:43:05.279342+00:00
+# UPDATED: 2026-08-01T19:41:31.135582+00:00
 no_resolve: true
 domain_suffix_set:
-  - "qmoji.net"
   - "faceu.com"
+  - "qmoji.net"
   - "faceu.net"
-  - "faceu.mobi"
+  - "heycan.com"
   - "bqtalk.com"
   - "qmoji.mobi"
-  - "heycan.com"
+  - "faceu.mobi"
   - "ulikecam.cn"
-  - "ulikecam.net"
   - "ulikecam.com"
+  - "ulikecam.net"
   - "ulikecam.mobi"
   - "2333333333333.com"
   - "faceu.com.cn"

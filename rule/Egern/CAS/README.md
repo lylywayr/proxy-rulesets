@@ -9,7 +9,7 @@
 - 分类标识：`CAS`
 - 当前客户端：`Egern`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
+- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for CAS, covering related domains, keywords, and network target
 - Category ID: `CAS`
 - Client: `Egern`
 - Group: `Lifestyle`
-- Last updated: `2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
+- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/CAS/CAS.yaml>
 

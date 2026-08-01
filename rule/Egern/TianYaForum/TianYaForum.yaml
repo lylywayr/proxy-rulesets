@@ -1,18 +1,18 @@
 # NAME: TianYaForum
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:05.116965+00:00
+# UPDATED: 2026-08-01T19:45:27.236001+00:00
 no_resolve: true
 domain_suffix_set:
   - "hi114.cn"
   - "tianya.cn"
-  - "hainan.net"
-  - "hainan.com"
   - "tysurl.com"
+  - "hainan.com"
+  - "hainan.net"
   - "gz12301.com"
-  - "laibafile.cn"
   - "tianyaui.com"
+  - "laibafile.cn"
   - "hifortune.net"
   - "hibusiness.com"
-  - "tianyaclub.com"
   - "tianyablog.com"
+  - "tianyaclub.com"
   - "tianya.com.cn"

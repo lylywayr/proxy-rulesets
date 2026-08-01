@@ -1,8 +1,8 @@
 # NAME: Identrust
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:42:57.086835+00:00
+# UPDATED: 2026-08-01T19:41:25.279482+00:00
 no_resolve: true
 domain_suffix_set:
-  - "identrust.net"
   - "identrust.com"
+  - "identrust.net"
   - "identrust.co.uk"

@@ -1,6 +1,6 @@
 # NAME: GlobalMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:42:44.153382+00:00
+# UPDATED: 2026-08-01T19:41:17.757017+00:00
 payload:
   - DOMAIN-SUFFIX,youtube
   - DOMAIN-KEYWORD,abematv.akamaized.net

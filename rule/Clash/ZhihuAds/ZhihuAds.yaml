@@ -1,6 +1,6 @@
 # NAME: ZhihuAds
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:22.000884+00:00
+# UPDATED: 2026-08-01T19:45:38.180883+00:00
 payload:
   - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,mqtt.zhihu.com

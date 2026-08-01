@@ -1,13 +1,13 @@
 # NAME: Binance
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T18:45:41.070496+00:00
+# UPDATED: 2026-08-01T18:48:28.337992+00:00
 payload:
   - DOMAIN-SUFFIX,bnbzh.ac
-  - DOMAIN-SUFFIX,bnappzh.co
   - DOMAIN-SUFFIX,binance.me
-  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,bnappzh.co
   - DOMAIN-SUFFIX,saasexch.cc
   - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,binance.cloud

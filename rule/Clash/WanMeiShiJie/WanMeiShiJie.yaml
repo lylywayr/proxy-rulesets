@@ -1,12 +1,12 @@
 # NAME: WanMeiShiJie
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:13.186910+00:00
+# UPDATED: 2026-08-01T19:45:32.421260+00:00
 payload:
   - DOMAIN-SUFFIX,wmwm.com
-  - DOMAIN-SUFFIX,laohu.com
   - DOMAIN-SUFFIX,wmupd.com
-  - DOMAIN-SUFFIX,wanmei.com
+  - DOMAIN-SUFFIX,laohu.com
   - DOMAIN-SUFFIX,wanmei.net
+  - DOMAIN-SUFFIX,wanmei.com
   - DOMAIN-SUFFIX,pwrdoverseas.com
   - DOMAIN-SUFFIX,counter-strike.cn
   - DOMAIN-SUFFIX,pwrdoverseagame.com

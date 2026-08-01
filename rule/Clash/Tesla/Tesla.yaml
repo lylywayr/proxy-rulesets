@@ -1,6 +1,6 @@
 # NAME: Tesla
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:04.098932+00:00
+# UPDATED: 2026-08-01T19:45:26.596997+00:00
 payload:
   - DOMAIN-SUFFIX,ts.la
   - DOMAIN-SUFFIX,tesla.com

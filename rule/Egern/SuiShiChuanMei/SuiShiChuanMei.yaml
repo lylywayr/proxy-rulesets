@@ -1,6 +1,6 @@
 # NAME: SuiShiChuanMei
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:47:59.990729+00:00
+# UPDATED: 2026-08-01T19:45:24.105091+00:00
 no_resolve: true
 domain_suffix_set:
   - "adsit.cn"
@@ -8,12 +8,12 @@ domain_suffix_set:
   - "quyaoya.cn"
   - "mipujia.cn"
   - "mobhui.com"
-  - "quyaoya.com"
   - "mipujia.com"
-  - "91friend.com"
+  - "quyaoya.com"
   - "ebaidutv.com"
   - "weibopie.com"
-  - "socialjia.com"
+  - "91friend.com"
   - "socialpls.com"
+  - "socialjia.com"
   - "aojiamarly.com"
   - "smartsocial.cn"

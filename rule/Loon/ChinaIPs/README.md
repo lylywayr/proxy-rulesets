@@ -9,15 +9,15 @@
 - 分类标识：`ChinaIPs`
 - 当前客户端：`Loon`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
+- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
 - 专题入口：
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`11364`
-- `IP-CIDR`: 7218
-- `IP-CIDR6`: 4146
+- 总数：`11373`
+- `IP-CIDR`: 7231
+- `IP-CIDR6`: 4142
 
 ### 使用说明
 
@@ -50,7 +50,7 @@ Aggregated rules for ChinaIPs, covering related domains, keywords, and network t
 - Category ID: `ChinaIPs`
 - Client: `Loon`
 - Group: `Ai`
-- Last updated: `2026-07-26 02:44:59 CST (UTC+8) / 2026-07-25 18:44:59 UTC`
+- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ChinaIPs/ChinaIPs.list>
 

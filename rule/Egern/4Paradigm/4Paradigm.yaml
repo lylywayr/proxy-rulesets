@@ -1,6 +1,6 @@
 # NAME: 4Paradigm
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T18:45:02.124756+00:00
+# UPDATED: 2026-08-01T18:48:11.563926+00:00
 no_resolve: true
 domain_suffix_set:
   - "4paradigm.com"

@@ -1,6 +1,6 @@
 # NAME: Teams
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:48:02.148804+00:00
+# UPDATED: 2026-08-01T19:45:25.527603+00:00
 no_resolve: true
 domain_set:
   - "teams.events.data.microsoft.com"

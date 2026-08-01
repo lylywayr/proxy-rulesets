@@ -1,6 +1,6 @@
 # NAME: Instagram
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:42:57.996864+00:00
+# UPDATED: 2026-08-01T19:41:25.962091+00:00
 payload:
   - DOMAIN-SUFFIX,instagr.am
   - DOMAIN-SUFFIX,instagram.com

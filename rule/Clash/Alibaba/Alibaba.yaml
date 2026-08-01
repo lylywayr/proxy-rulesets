@@ -1,6 +1,6 @@
 # NAME: Alibaba
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T18:45:12.948890+00:00
+# UPDATED: 2026-08-01T18:48:19.579063+00:00
 payload:
   - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,taobao

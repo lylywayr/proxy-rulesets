@@ -1,186 +1,186 @@
 # NAME: Hijacking
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-07-25T19:42:52.820774+00:00
+# UPDATED: 2026-08-01T19:41:22.515559+00:00
 payload:
   - DOMAIN,geo2.adobe.com
   - DOMAIN-SUFFIX,7gg.cc
-  - DOMAIN-SUFFIX,tuia.cn
   - DOMAIN-SUFFIX,9s6q.cn
-  - DOMAIN-SUFFIX,189zj.cn
-  - DOMAIN-SUFFIX,urlet.cn
+  - DOMAIN-SUFFIX,tuia.cn
+  - DOMAIN-SUFFIX,flash.cn
   - DOMAIN-SUFFIX,urlaw.cn
-  - DOMAIN-SUFFIX,ry51w.cn
+  - DOMAIN-SUFFIX,189zj.cn
   - DOMAIN-SUFFIX,zzd6.com
-  - DOMAIN-SUFFIX,51mld.cn
-  - DOMAIN-SUFFIX,ygyzx.cn
-  - DOMAIN-SUFFIX,gscxs.cn
+  - DOMAIN-SUFFIX,bkyhq.cn
+  - DOMAIN-SUFFIX,urlet.cn
   - DOMAIN-SUFFIX,sg536.cn
   - DOMAIN-SUFFIX,zunmi.cn
-  - DOMAIN-SUFFIX,flash.cn
-  - DOMAIN-SUFFIX,bkyhq.cn
-  - DOMAIN-SUFFIX,sifufu.cn
-  - DOMAIN-SUFFIX,sifugu.cn
-  - DOMAIN-SUFFIX,yukhj.com
-  - DOMAIN-SUFFIX,51mypc.cn
-  - DOMAIN-SUFFIX,smgru.net
-  - DOMAIN-SUFFIX,sifuhu.cn
-  - DOMAIN-SUFFIX,jwg365.cn
-  - DOMAIN-SUFFIX,sifuge.cn
-  - DOMAIN-SUFFIX,sifuji.cn
-  - DOMAIN-SUFFIX,cjmkt.com
-  - DOMAIN-SUFFIX,sifuhe.cn
-  - DOMAIN-SUFFIX,sifuka.cn
-  - DOMAIN-SUFFIX,dv8c1t.cn
-  - DOMAIN-SUFFIX,atplay.cn
-  - DOMAIN-SUFFIX,akuai.top
-  - DOMAIN-SUFFIX,jdkic.com
+  - DOMAIN-SUFFIX,ygyzx.cn
+  - DOMAIN-SUFFIX,gscxs.cn
+  - DOMAIN-SUFFIX,51mld.cn
+  - DOMAIN-SUFFIX,ry51w.cn
+  - DOMAIN-SUFFIX,sifuce.cn
   - DOMAIN-SUFFIX,nbkbgd.cn
   - DOMAIN-SUFFIX,91veg.com
-  - DOMAIN-SUFFIX,tt114.net
   - DOMAIN-SUFFIX,sifuda.cn
-  - DOMAIN-SUFFIX,zhzzx.com
-  - DOMAIN-SUFFIX,sifuce.cn
+  - DOMAIN-SUFFIX,dv8c1t.cn
+  - DOMAIN-SUFFIX,jdkic.com
+  - DOMAIN-SUFFIX,cjmkt.com
   - DOMAIN-SUFFIX,sifubo.cn
+  - DOMAIN-SUFFIX,gclick.cn
+  - DOMAIN-SUFFIX,sifugu.cn
+  - DOMAIN-SUFFIX,akuai.top
+  - DOMAIN-SUFFIX,zhzzx.com
+  - DOMAIN-SUFFIX,sifuji.cn
+  - DOMAIN-SUFFIX,atplay.cn
   - DOMAIN-SUFFIX,zmlled.cn
   - DOMAIN-SUFFIX,beerto.cn
-  - DOMAIN-SUFFIX,tt3sm4.cn
-  - DOMAIN-SUFFIX,gclick.cn
+  - DOMAIN-SUFFIX,sifufu.cn
+  - DOMAIN-SUFFIX,tt114.net
+  - DOMAIN-SUFFIX,sifuka.cn
+  - DOMAIN-SUFFIX,yukhj.com
+  - DOMAIN-SUFFIX,smgru.net
   - DOMAIN-SUFFIX,hbssjd.cn
+  - DOMAIN-SUFFIX,51mypc.cn
+  - DOMAIN-SUFFIX,tt3sm4.cn
+  - DOMAIN-SUFFIX,jwg365.cn
+  - DOMAIN-SUFFIX,sifuge.cn
+  - DOMAIN-SUFFIX,sifuhu.cn
+  - DOMAIN-SUFFIX,sifuhe.cn
+  - DOMAIN-SUFFIX,hyunke.com
   - DOMAIN-SUFFIX,yjqiqi.com
+  - DOMAIN-SUFFIX,fjlqqc.com
+  - DOMAIN-SUFFIX,hypeapp.cn
+  - DOMAIN-SUFFIX,yihuifu.cn
+  - DOMAIN-SUFFIX,cszlks.com
+  - DOMAIN-SUFFIX,wsgblw.com
   - DOMAIN-SUFFIX,adsame.com
-  - DOMAIN-SUFFIX,keyshot.cc
-  - DOMAIN-SUFFIX,3721zh.com
-  - DOMAIN-SUFFIX,186078.com
   - DOMAIN-SUFFIX,jsncke.com
   - DOMAIN-SUFFIX,285680.com
-  - DOMAIN-SUFFIX,hyunke.com
-  - DOMAIN-SUFFIX,6d63d3.com
-  - DOMAIN-SUFFIX,echatu.com
-  - DOMAIN-SUFFIX,yihuifu.cn
-  - DOMAIN-SUFFIX,kawo77.com
   - DOMAIN-SUFFIX,xchmai.com
-  - DOMAIN-SUFFIX,wsgblw.com
-  - DOMAIN-SUFFIX,hypeapp.cn
+  - DOMAIN-SUFFIX,echatu.com
+  - DOMAIN-SUFFIX,6d63d3.com
+  - DOMAIN-SUFFIX,186078.com
+  - DOMAIN-SUFFIX,zryydi.com
+  - DOMAIN-SUFFIX,3721zh.com
+  - DOMAIN-SUFFIX,kawo77.com
+  - DOMAIN-SUFFIX,websd8.com
+  - DOMAIN-SUFFIX,keyshot.cc
+  - DOMAIN-SUFFIX,gzxnlk.com
   - DOMAIN-SUFFIX,newapi.com
   - DOMAIN-SUFFIX,mairuan.cn
-  - DOMAIN-SUFFIX,websd8.com
   - DOMAIN-SUFFIX,189key.com
-  - DOMAIN-SUFFIX,fjlqqc.com
-  - DOMAIN-SUFFIX,cszlks.com
-  - DOMAIN-SUFFIX,zryydi.com
-  - DOMAIN-SUFFIX,gzxnlk.com
-  - DOMAIN-SUFFIX,mkitgfs.com
-  - DOMAIN-SUFFIX,poppyta.com
-  - DOMAIN-SUFFIX,mlnbike.com
-  - DOMAIN-SUFFIX,taoggou.com
+  - DOMAIN-SUFFIX,mathtype.cn
   - DOMAIN-SUFFIX,benshiw.net
-  - DOMAIN-SUFFIX,qutaobi.com
   - DOMAIN-SUFFIX,zlne800.com
+  - DOMAIN-SUFFIX,daitdai.com
+  - DOMAIN-SUFFIX,mobjump.com
+  - DOMAIN-SUFFIX,tcxshop.com
+  - DOMAIN-SUFFIX,58mingri.cn
+  - DOMAIN-SUFFIX,yinmong.com
+  - DOMAIN-SUFFIX,qutaobi.com
+  - DOMAIN-SUFFIX,mairuan.net
   - DOMAIN-SUFFIX,topitme.com
   - DOMAIN-SUFFIX,imindmap.cc
-  - DOMAIN-SUFFIX,wx16999.com
-  - DOMAIN-SUFFIX,mathtype.cn
-  - DOMAIN-SUFFIX,mairuan.com
-  - DOMAIN-SUFFIX,4336wang.cn
-  - DOMAIN-SUFFIX,tcxshop.com
-  - DOMAIN-SUFFIX,erdoscs.com
-  - DOMAIN-SUFFIX,mairuan.net
-  - DOMAIN-SUFFIX,mobjump.com
-  - DOMAIN-SUFFIX,fkku194.com
-  - DOMAIN-SUFFIX,yitaopt.com
-  - DOMAIN-SUFFIX,kuaizip.com
-  - DOMAIN-SUFFIX,58mingri.cn
   - DOMAIN-SUFFIX,dsaeerf.com
-  - DOMAIN-SUFFIX,yinmong.com
+  - DOMAIN-SUFFIX,wx16999.com
   - DOMAIN-SUFFIX,junkucm.com
-  - DOMAIN-SUFFIX,daitdai.com
+  - DOMAIN-SUFFIX,mairuan.com
+  - DOMAIN-SUFFIX,yitaopt.com
+  - DOMAIN-SUFFIX,mlnbike.com
+  - DOMAIN-SUFFIX,kuaizip.com
+  - DOMAIN-SUFFIX,fkku194.com
+  - DOMAIN-SUFFIX,taoggou.com
+  - DOMAIN-SUFFIX,mkitgfs.com
   - DOMAIN-SUFFIX,kumihua.com
+  - DOMAIN-SUFFIX,erdoscs.com
+  - DOMAIN-SUFFIX,4336wang.cn
+  - DOMAIN-SUFFIX,poppyta.com
+  - DOMAIN-SUFFIX,folxchina.cn
+  - DOMAIN-SUFFIX,cudaojia.com
+  - DOMAIN-SUFFIX,ltheanine.cn
+  - DOMAIN-SUFFIX,makeding.com
+  - DOMAIN-SUFFIX,qichexin.com
+  - DOMAIN-SUFFIX,ultraiso.net
+  - DOMAIN-SUFFIX,5vl58stm.com
   - DOMAIN-SUFFIX,idmchina.net
   - DOMAIN-SUFFIX,xiaohuau.xyz
-  - DOMAIN-SUFFIX,qichexin.com
-  - DOMAIN-SUFFIX,jiubuhua.com
-  - DOMAIN-SUFFIX,ultraiso.net
-  - DOMAIN-SUFFIX,makeding.com
-  - DOMAIN-SUFFIX,zbrushcn.com
   - DOMAIN-SUFFIX,guitarpro.cc
-  - DOMAIN-SUFFIX,formysql.com
+  - DOMAIN-SUFFIX,freedrive.cn
+  - DOMAIN-SUFFIX,xshellcn.com
   - DOMAIN-SUFFIX,ishop789.com
   - DOMAIN-SUFFIX,tjqonline.cn
-  - DOMAIN-SUFFIX,xshellcn.com
+  - DOMAIN-SUFFIX,jiubuhua.com
+  - DOMAIN-SUFFIX,formysql.com
   - DOMAIN-SUFFIX,minisplat.cn
-  - DOMAIN-SUFFIX,kingdeecn.cn
-  - DOMAIN-SUFFIX,ltheanine.cn
-  - DOMAIN-SUFFIX,fan-yong.com
-  - DOMAIN-SUFFIX,cudaojia.com
-  - DOMAIN-SUFFIX,folxchina.cn
-  - DOMAIN-SUFFIX,pdfexpert.cc
-  - DOMAIN-SUFFIX,5vl58stm.com
-  - DOMAIN-SUFFIX,freedrive.cn
   - DOMAIN-SUFFIX,nicelabel.cc
-  - DOMAIN-SUFFIX,bartender.cc
+  - DOMAIN-SUFFIX,pdfexpert.cc
+  - DOMAIN-SUFFIX,kingdeecn.cn
+  - DOMAIN-SUFFIX,zbrushcn.com
   - DOMAIN-SUFFIX,tuitiger.com
-  - DOMAIN-SUFFIX,17gouwuba.com
-  - DOMAIN-SUFFIX,alienskins.cn
-  - DOMAIN-SUFFIX,betterzip.net
-  - DOMAIN-SUFFIX,58mingtian.cn
-  - DOMAIN-SUFFIX,dafapromo.com
-  - DOMAIN-SUFFIX,mindmapper.cc
-  - DOMAIN-SUFFIX,ntfsformac.cn
-  - DOMAIN-SUFFIX,lvehaisen.com
-  - DOMAIN-SUFFIX,gouwubang.com
-  - DOMAIN-SUFFIX,zhenxinet.com
-  - DOMAIN-SUFFIX,bryonypie.com
+  - DOMAIN-SUFFIX,fan-yong.com
+  - DOMAIN-SUFFIX,bartender.cc
   - DOMAIN-SUFFIX,hypersnap.net
-  - DOMAIN-SUFFIX,beilamusi.com
-  - DOMAIN-SUFFIX,cishantao.com
-  - DOMAIN-SUFFIX,vegaschina.cn
   - DOMAIN-SUFFIX,ntfsformac.cc
+  - DOMAIN-SUFFIX,ntfsformac.cn
+  - DOMAIN-SUFFIX,vegaschina.cn
+  - DOMAIN-SUFFIX,betterzip.net
+  - DOMAIN-SUFFIX,lvehaisen.com
+  - DOMAIN-SUFFIX,17gouwuba.com
+  - DOMAIN-SUFFIX,cishantao.com
+  - DOMAIN-SUFFIX,58mingtian.cn
+  - DOMAIN-SUFFIX,gouwubang.com
+  - DOMAIN-SUFFIX,bryonypie.com
+  - DOMAIN-SUFFIX,mindmapper.cc
+  - DOMAIN-SUFFIX,zhenxinet.com
+  - DOMAIN-SUFFIX,dafapromo.com
+  - DOMAIN-SUFFIX,beilamusi.com
+  - DOMAIN-SUFFIX,alienskins.cn
   - DOMAIN-SUFFIX,mackeeper.com
-  - DOMAIN-SUFFIX,zhaozecheng.cn
   - DOMAIN-SUFFIX,cjmakeding.com
-  - DOMAIN-SUFFIX,mindmanager.cn
-  - DOMAIN-SUFFIX,tuipenguin.com
-  - DOMAIN-SUFFIX,xmindchina.net
-  - DOMAIN-SUFFIX,abbyychina.com
-  - DOMAIN-SUFFIX,4009997658.com
-  - DOMAIN-SUFFIX,mindmanager.cc
   - DOMAIN-SUFFIX,ediuschina.com
   - DOMAIN-SUFFIX,ichaosheng.com
+  - DOMAIN-SUFFIX,xmindchina.net
+  - DOMAIN-SUFFIX,4009997658.com
+  - DOMAIN-SUFFIX,tuipenguin.com
+  - DOMAIN-SUFFIX,zhaozecheng.cn
+  - DOMAIN-SUFFIX,mindmanager.cc
+  - DOMAIN-SUFFIX,mindmanager.cn
+  - DOMAIN-SUFFIX,abbyychina.com
   - DOMAIN-SUFFIX,quanliyouxi.cn
-  - DOMAIN-SUFFIX,anydeskchina.cn
-  - DOMAIN-SUFFIX,pinzhitmall.com
-  - DOMAIN-SUFFIX,qinchugudao.com
   - DOMAIN-SUFFIX,goupaoerdai.com
-  - DOMAIN-SUFFIX,51chumoping.com
-  - DOMAIN-SUFFIX,betterzipcn.com
   - DOMAIN-SUFFIX,goufanli100.com
   - DOMAIN-SUFFIX,bianxianmao.com
-  - DOMAIN-SUFFIX,dugesheying.com
-  - DOMAIN-SUFFIX,mairuanwang.com
   - DOMAIN-SUFFIX,iconworkshop.cn
+  - DOMAIN-SUFFIX,51chumoping.com
   - DOMAIN-SUFFIX,dongmansoft.com
-  - DOMAIN-SUFFIX,xitongqingli.com
-  - DOMAIN-SUFFIX,officesoftcn.com
-  - DOMAIN-SUFFIX,mycleanmymac.com
+  - DOMAIN-SUFFIX,qinchugudao.com
+  - DOMAIN-SUFFIX,mairuanwang.com
+  - DOMAIN-SUFFIX,anydeskchina.cn
+  - DOMAIN-SUFFIX,pinzhitmall.com
+  - DOMAIN-SUFFIX,betterzipcn.com
+  - DOMAIN-SUFFIX,dugesheying.com
   - DOMAIN-SUFFIX,qianchuanghr.com
-  - DOMAIN-SUFFIX,imazingchina.com
   - DOMAIN-SUFFIX,haoshengtoys.com
-  - DOMAIN-SUFFIX,logoshejishi.com
   - DOMAIN-SUFFIX,beyondcompare.cc
-  - DOMAIN-SUFFIX,codesoftchina.com
-  - DOMAIN-SUFFIX,flstudiochina.com
+  - DOMAIN-SUFFIX,logoshejishi.com
+  - DOMAIN-SUFFIX,officesoftcn.com
+  - DOMAIN-SUFFIX,xitongqingli.com
+  - DOMAIN-SUFFIX,imazingchina.com
+  - DOMAIN-SUFFIX,mycleanmymac.com
   - DOMAIN-SUFFIX,earmasterchina.cn
   - DOMAIN-SUFFIX,overturechina.com
-  - DOMAIN-SUFFIX,baiwanchuangyi.com
-  - DOMAIN-SUFFIX,maipinshangmao.com
-  - DOMAIN-SUFFIX,shankejingling.com
-  - DOMAIN-SUFFIX,photozoomchina.com
-  - DOMAIN-SUFFIX,kualianyingxiao.cn
-  - DOMAIN-SUFFIX,coreldrawchina.com
+  - DOMAIN-SUFFIX,codesoftchina.com
+  - DOMAIN-SUFFIX,flstudiochina.com
   - DOMAIN-SUFFIX,crossoverchina.com
+  - DOMAIN-SUFFIX,photozoomchina.com
+  - DOMAIN-SUFFIX,coreldrawchina.com
+  - DOMAIN-SUFFIX,baiwanchuangyi.com
+  - DOMAIN-SUFFIX,shankejingling.com
+  - DOMAIN-SUFFIX,kualianyingxiao.cn
+  - DOMAIN-SUFFIX,maipinshangmao.com
+  - DOMAIN-SUFFIX,bingdianhuanyuan.cn
   - DOMAIN-SUFFIX,yuanchengxiezuo.com
   - DOMAIN-SUFFIX,passwordrecovery.cn
-  - DOMAIN-SUFFIX,bingdianhuanyuan.cn
   - DOMAIN-SUFFIX,easyrecoverychina.com
   - DOMAIN-SUFFIX,feih.com.cn
   - DOMAIN-SUFFIX,luping.net.cn
