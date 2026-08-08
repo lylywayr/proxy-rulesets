@@ -1,6 +1,6 @@
 # NAME: UnionPay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:45:29.558792+00:00
+# UPDATED: 2026-08-08T19:16:38.571667+00:00
 no_resolve: true
 domain_suffix_set:
   - "cup62.cn"
@@ -8,13 +8,13 @@ domain_suffix_set:
   - "95516.net"
   - "airepay.net"
   - "chinapay.cn"
-  - "chinapay.com"
   - "unionpay.com"
   - "unionpay.net"
+  - "chinapay.com"
   - "unionpayintl.cn"
   - "unionpayintl.com"
-  - "chinaunionpay.com"
   - "chinaunionpay.net"
+  - "chinaunionpay.com"
   - "unionpaysecure.com"
   - "chinapayhongkong.com"
   - "cup.com.cn"

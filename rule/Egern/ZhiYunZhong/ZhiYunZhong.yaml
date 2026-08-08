@@ -1,13 +1,13 @@
 # NAME: ZhiYunZhong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:45:38.433301+00:00
+# UPDATED: 2026-08-08T19:16:48.879235+00:00
 no_resolve: true
 domain_suffix_set:
-  - "optaim.cn"
   - "igo52.com"
-  - "optaim.com"
+  - "optaim.cn"
   - "cloudau.cn"
   - "iappad.com"
+  - "optaim.com"
   - "appgrub.com"
   - "iapprank.com"
   - "2taobao2jd.com"

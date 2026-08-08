@@ -9,7 +9,7 @@
 - 分类标识：`PrimeVideo`
 - 当前客户端：`Loon`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - 专题入口：
 - [流媒体专题](../../../guide/topics/streaming-media.md)
 
@@ -51,7 +51,7 @@ Aggregated rules for PrimeVideo, covering related domains, keywords, and network
 - Category ID: `PrimeVideo`
 - Client: `Loon`
 - Group: `Media`
-- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/PrimeVideo/PrimeVideo.list>
 

@@ -1,11 +1,11 @@
 # NAME: HuaShuTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:23.705686+00:00
+# UPDATED: 2026-08-08T19:12:07.303611+00:00
 no_resolve: true
 domain_suffix_set:
-  - "wasu.cn"
   - "wasu.tv"
+  - "wasu.cn"
   - "hzdtv.tv"
-  - "hzman.net"
   - "hzcnc.com"
+  - "hzman.net"
   - "wasumedia.cn"

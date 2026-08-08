@@ -1,6 +1,6 @@
 # NAME: Weibo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:45:32.665864+00:00
+# UPDATED: 2026-08-08T19:16:42.078136+00:00
 payload:
   - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-SUFFIX,weibo.com

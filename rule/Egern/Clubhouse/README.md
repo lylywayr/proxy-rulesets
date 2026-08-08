@@ -9,7 +9,7 @@
 - 分类标识：`Clubhouse`
 - 当前客户端：`Egern`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
-- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - 专题入口：
 - [社交通信专题](../../../guide/topics/social-communication.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for Clubhouse, covering related domains, keywords, and network 
 - Category ID: `Clubhouse`
 - Client: `Egern`
 - Group: `Social`
-- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Clubhouse/Clubhouse.yaml>
 

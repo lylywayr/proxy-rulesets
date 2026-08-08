@@ -1,45 +1,45 @@
 # NAME: Cryptocurrency
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:23:38.742143+00:00
+# UPDATED: 2026-08-08T18:54:16.432976+00:00
 payload:
   - DOMAIN-SUFFIX,zb.com
   - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,ftx.com
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,aex.com
-  - DOMAIN-SUFFIX,ftx.com
   - DOMAIN-SUFFIX,okex.com
-  - DOMAIN-SUFFIX,bibox.com
   - DOMAIN-SUFFIX,sushi.com
-  - DOMAIN-SUFFIX,huobi.com
   - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,huobi.com
+  - DOMAIN-SUFFIX,bibox.com
   - DOMAIN-SUFFIX,debank.com
-  - DOMAIN-SUFFIX,aicoin.com
-  - DOMAIN-SUFFIX,aimoon.com
-  - DOMAIN-SUFFIX,liquid.com
   - DOMAIN-SUFFIX,bitmex.com
-  - DOMAIN-SUFFIX,binance.cc
-  - DOMAIN-SUFFIX,kucoin.com
-  - DOMAIN-SUFFIX,kraken.com
-  - DOMAIN-SUFFIX,gemini.com
-  - DOMAIN-SUFFIX,binance.us
-  - DOMAIN-SUFFIX,binance.me
-  - DOMAIN-SUFFIX,binance.im
   - DOMAIN-SUFFIX,bnappzh.co
-  - DOMAIN-SUFFIX,uniswap.org
+  - DOMAIN-SUFFIX,kucoin.com
+  - DOMAIN-SUFFIX,gemini.com
+  - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,aimoon.com
+  - DOMAIN-SUFFIX,binance.us
+  - DOMAIN-SUFFIX,binance.cc
+  - DOMAIN-SUFFIX,binance.im
+  - DOMAIN-SUFFIX,liquid.com
   - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,bittrex.com
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bithumb.com
   - DOMAIN-SUFFIX,bnappzh.com
-  - DOMAIN-SUFFIX,bittrex.com
-  - DOMAIN-SUFFIX,poloniex.com
+  - DOMAIN-SUFFIX,uniswap.org
   - DOMAIN-SUFFIX,bitfinex.com
-  - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,etherscan.io
   - DOMAIN-SUFFIX,bitstamp.net
-  - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,coingecko.com
-  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,poloniex.com
+  - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coincheck.com
+  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,bitcointalk.org
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,pancakeswap.finance

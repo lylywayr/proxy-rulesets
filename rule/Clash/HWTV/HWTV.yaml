@@ -1,6 +1,6 @@
 # NAME: HWTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:24.685221+00:00
+# UPDATED: 2026-08-08T19:12:08.517962+00:00
 payload:
   - DOMAIN-SUFFIX,5itv.tv
   - DOMAIN-SUFFIX,ocnttv.com

@@ -1,5 +1,5 @@
 # NAME: MeWatch
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:33.977999+00:00
+# UPDATED: 2026-08-08T19:12:19.772073+00:00
 payload:
   - DOMAIN-SUFFIX,mewatch.sg

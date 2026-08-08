@@ -9,7 +9,7 @@
 - 分类标识：`BOC`
 - 当前客户端：`Clash`
 - 所属分组：[金融电商](../../../guide/groups/finance.md)
-- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - 专题入口：
 - [金融电商专题](../../../guide/topics/finance-commerce.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for BOC, covering related domains, keywords, and network target
 - Category ID: `BOC`
 - Client: `Clash`
 - Group: `Finance`
-- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/BOC/BOC.yaml>
 

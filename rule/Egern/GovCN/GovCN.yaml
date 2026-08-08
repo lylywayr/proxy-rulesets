@@ -1,6 +1,6 @@
 # NAME: GovCN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:20.565296+00:00
+# UPDATED: 2026-08-08T19:12:03.373377+00:00
 no_resolve: true
 domain_suffix_set:
   - "gov.cn"
@@ -8,8 +8,8 @@ domain_suffix_set:
   - "huayi.cn"
   - "wsglw.com"
   - "wsglw.net"
-  - "91huayi.cn"
   - "scncrc.com"
+  - "91huayi.cn"
   - "heart301.cn"
   - "91huayi.com"
   - "91huayi.net"

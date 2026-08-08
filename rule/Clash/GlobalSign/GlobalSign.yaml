@@ -1,17 +1,17 @@
 # NAME: GlobalSign
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:17.987123+00:00
+# UPDATED: 2026-08-08T19:11:59.302608+00:00
 payload:
-  - DOMAIN-SUFFIX,globalsign.es
-  - DOMAIN-SUFFIX,globalsign.eu
-  - DOMAIN-SUFFIX,globalsign.nl
+  - DOMAIN-SUFFIX,globalsign.be
   - DOMAIN-SUFFIX,globalsign.ch
   - DOMAIN-SUFFIX,globalsign.fr
-  - DOMAIN-SUFFIX,globalsign.be
+  - DOMAIN-SUFFIX,globalsign.eu
+  - DOMAIN-SUFFIX,globalsign.nl
+  - DOMAIN-SUFFIX,globalsign.es
   - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalsign-media.com
   - DOMAIN-SUFFIX,globalsign.co.uk
+  - DOMAIN-SUFFIX,globalsign.com.hk
   - DOMAIN-SUFFIX,globalsign.com.sg
   - DOMAIN-SUFFIX,globalsign.com.au
-  - DOMAIN-SUFFIX,globalsign.com.hk

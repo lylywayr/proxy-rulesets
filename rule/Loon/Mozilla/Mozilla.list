@@ -1,16 +1,16 @@
 # NAME: Mozilla
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:36.338355+00:00
+# UPDATED: 2026-08-08T19:12:23.359693+00:00
 # DOMAIN-SUFFIX: 21
 # TOTAL: 21
 
 DOMAIN-SUFFIX,docs.rs
-DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,crates.io
-DOMAIN-SUFFIX,mozilla.net
-DOMAIN-SUFFIX,firefox.com
-DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mofoprod.net
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,getpocket.com

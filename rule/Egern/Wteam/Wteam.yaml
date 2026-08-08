@@ -1,6 +1,6 @@
 # NAME: Wteam
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:45:34.356653+00:00
+# UPDATED: 2026-08-08T19:16:44.126979+00:00
 no_resolve: true
 domain_suffix_set:
   - "ads.wteam.xyz"

@@ -1,5 +1,5 @@
 # NAME: 51nod
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T18:48:11.811083+00:00
+# UPDATED: 2026-08-08T18:18:41.766665+00:00
 payload:
   - DOMAIN-SUFFIX,51nod.com

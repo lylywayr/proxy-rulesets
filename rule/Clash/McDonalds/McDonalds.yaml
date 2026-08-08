@@ -1,6 +1,6 @@
 # NAME: McDonalds
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:33.391326+00:00
+# UPDATED: 2026-08-08T19:12:19.067757+00:00
 payload:
   - DOMAIN-SUFFIX,mcd.com
   - DOMAIN-SUFFIX,mcdonalds.ca
@@ -16,13 +16,13 @@ payload:
   - DOMAIN-SUFFIX,happymeal.co.nz
   - DOMAIN-SUFFIX,mcdonalds.co.uk
   - DOMAIN-SUFFIX,mcdelivery.co.kr
-  - DOMAIN-SUFFIX,happymeal.com.au
-  - DOMAIN-SUFFIX,mcdonalds.com.hk
   - DOMAIN-SUFFIX,mcdelivery.co.id
   - DOMAIN-SUFFIX,mcdonalds.com.cn
-  - DOMAIN-SUFFIX,mcdelivery.com.my
-  - DOMAIN-SUFFIX,mcdelivery.com.tw
+  - DOMAIN-SUFFIX,happymeal.com.au
+  - DOMAIN-SUFFIX,mcdonalds.com.hk
   - DOMAIN-SUFFIX,mcdelivery.com.sg
+  - DOMAIN-SUFFIX,mcdelivery.com.tw
+  - DOMAIN-SUFFIX,mcdelivery.com.my
   - DOMAIN-SUFFIX,mcdelivery.com.au
   - DOMAIN-SUFFIX,mcdonaldsparties.co.nz
   - DOMAIN-SUFFIX,mcdonaldsparties.com.au

@@ -1,10 +1,10 @@
 # NAME: Picsee
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:42.057369+00:00
+# UPDATED: 2026-08-08T19:12:30.119939+00:00
 payload:
   - DOMAIN-SUFFIX,pse.is
+  - DOMAIN-SUFFIX,pros.ee
   - DOMAIN-SUFFIX,pise.pw
   - DOMAIN-SUFFIX,pics.ee
-  - DOMAIN-SUFFIX,pros.ee
   - DOMAIN-SUFFIX,picsee.co
   - DOMAIN-SUFFIX,picsee.pro

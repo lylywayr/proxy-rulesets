@@ -1,6 +1,6 @@
 # NAME: CaiNiao
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T18:48:30.284801+00:00
+# UPDATED: 2026-08-08T18:19:01.371131+00:00
 payload:
   - DOMAIN-SUFFIX,xiaog.xyz
   - DOMAIN-SUFFIX,56che.com

@@ -1,6 +1,6 @@
 # NAME: PBS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:41.373047+00:00
+# UPDATED: 2026-08-08T19:12:29.267657+00:00
 payload:
   - DOMAIN-SUFFIX,pbs.org
   - USER-AGENT,PBS*

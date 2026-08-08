@@ -1,6 +1,6 @@
 # NAME: AppleMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T18:48:25.366305+00:00
+# UPDATED: 2026-08-08T18:18:55.439984+00:00
 payload:
   - DOMAIN,aod-ssl.itunes.apple.com
   - DOMAIN,aod.itunes.apple.com

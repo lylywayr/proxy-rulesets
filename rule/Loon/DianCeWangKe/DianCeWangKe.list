@@ -1,14 +1,14 @@
 # NAME: DianCeWangKe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:23:40.838248+00:00
+# UPDATED: 2026-08-08T18:54:18.860568+00:00
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 
 DOMAIN-SUFFIX,pgyer.cc
 DOMAIN-SUFFIX,pgyer.im
-DOMAIN-SUFFIX,qcers.com
-DOMAIN-SUFFIX,xcxwo.com
-DOMAIN-SUFFIX,qcers.net
-DOMAIN-SUFFIX,testin.im
 DOMAIN-SUFFIX,pgyer.com
+DOMAIN-SUFFIX,qcers.net
+DOMAIN-SUFFIX,qcers.com
+DOMAIN-SUFFIX,testin.im
+DOMAIN-SUFFIX,xcxwo.com
 DOMAIN-SUFFIX,tracup.com

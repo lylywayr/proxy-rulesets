@@ -1,6 +1,6 @@
 # NAME: FengHuangWang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:14.775296+00:00
+# UPDATED: 2026-08-08T19:11:55.128549+00:00
 no_resolve: true
 domain_suffix_set:
   - "ifeng.com"

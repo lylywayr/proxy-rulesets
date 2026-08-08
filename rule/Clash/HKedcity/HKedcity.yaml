@@ -1,6 +1,6 @@
 # NAME: HKedcity
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:22.865381+00:00
+# UPDATED: 2026-08-08T19:12:06.294749+00:00
 payload:
   - DOMAIN-SUFFIX,edcity.hk
   - DOMAIN-SUFFIX,hkedcity.net

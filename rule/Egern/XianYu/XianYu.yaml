@@ -1,21 +1,21 @@
 # NAME: XianYu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:45:34.689304+00:00
+# UPDATED: 2026-08-08T19:16:44.552504+00:00
 no_resolve: true
 domain_suffix_set:
   - "tfgvb.com"
-  - "uyhjnm.com"
   - "vbmnmy.com"
-  - "xcbbtf.com"
-  - "svfrrg.com"
-  - "ewqcxz.com"
-  - "wsxsdf.com"
-  - "qazasd.com"
   - "redfcv.com"
+  - "svfrrg.com"
+  - "xcbbtf.com"
+  - "qazasd.com"
+  - "wsxsdf.com"
   - "lkjujm.com"
+  - "uyhjnm.com"
+  - "ewqcxz.com"
   - "poiuytw.com"
-  - "nfmrtfv.com"
-  - "iopiopl.com"
-  - "hjkhjkl.com"
-  - "xianyu.mobi"
   - "mnbvdfg.com"
+  - "iopiopl.com"
+  - "xianyu.mobi"
+  - "nfmrtfv.com"
+  - "hjkhjkl.com"

@@ -9,20 +9,20 @@
 - 分类标识：`ChinaMax`
 - 当前客户端：`Surge`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`12584`
+- 总数：`12591`
 - `DOMAIN-SUFFIX`: 51
 - `DOMAIN-KEYWORD`: 13
 - `USER-AGENT`: 65
 - `PROCESS-NAME`: 12
 - `IP-ASN`: 1
-- `IP-CIDR`: 8260
-- `IP-CIDR6`: 4194
+- `IP-CIDR`: 8253
+- `IP-CIDR6`: 4208
 
 ### 使用说明
 
@@ -54,7 +54,7 @@ Aggregated rules for ChinaMax, covering related domains, keywords, and network t
 - Category ID: `ChinaMax`
 - Client: `Surge`
 - Group: `Mainland`
-- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ChinaMax/ChinaMax.list>
 

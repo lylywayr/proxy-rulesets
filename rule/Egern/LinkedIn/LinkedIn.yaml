@@ -1,6 +1,6 @@
 # NAME: LinkedIn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:31.622404+00:00
+# UPDATED: 2026-08-08T19:12:17.106294+00:00
 no_resolve: true
 domain_set:
   - "e122475.dscg.akamaiedge.net"

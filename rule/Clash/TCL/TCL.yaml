@@ -1,6 +1,6 @@
 # NAME: TCL
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:45:25.277182+00:00
+# UPDATED: 2026-08-08T19:16:33.190546+00:00
 payload:
   - DOMAIN-SUFFIX,tcl.com
   - DOMAIN-SUFFIX,hmeng.cn

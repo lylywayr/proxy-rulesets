@@ -9,7 +9,7 @@
 - 分类标识：`PandoraTV`
 - 当前客户端：`Surge`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for PandoraTV, covering related domains, keywords, and network 
 - Category ID: `PandoraTV`
 - Client: `Surge`
 - Group: `Media`
-- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/PandoraTV/PandoraTV.list>
 

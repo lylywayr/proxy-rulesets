@@ -1,6 +1,6 @@
 # NAME: FindMy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:15.211054+00:00
+# UPDATED: 2026-08-08T19:11:55.698181+00:00
 payload:
   - DOMAIN,fmfmobile.icloud.com
   - DOMAIN,fmipmobile.icloud.com

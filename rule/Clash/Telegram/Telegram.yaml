@@ -1,6 +1,6 @@
 # NAME: Telegram
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:45:25.807732+00:00
+# UPDATED: 2026-08-08T19:16:33.929080+00:00
 payload:
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tx.me
@@ -12,9 +12,9 @@ payload:
   - DOMAIN-SUFFIX,telega.one
   - DOMAIN-SUFFIX,telegram.me
   - DOMAIN-SUFFIX,contest.com
+  - DOMAIN-SUFFIX,telegram.org
   - DOMAIN-SUFFIX,telegram.dog
   - DOMAIN-SUFFIX,comments.app
-  - DOMAIN-SUFFIX,telegram.org
   - DOMAIN-SUFFIX,fragment.com
   - DOMAIN-SUFFIX,tdesktop.com
   - DOMAIN-SUFFIX,toncenter.com

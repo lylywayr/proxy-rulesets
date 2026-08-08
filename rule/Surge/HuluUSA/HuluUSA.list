@@ -1,52 +1,52 @@
 # NAME: HuluUSA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:24.168621+00:00
+# UPDATED: 2026-08-08T19:12:07.951476+00:00
 # DOMAIN-SUFFIX: 52
 # TOTAL: 52
 
-DOMAIN-SUFFIX,hulu.us
 DOMAIN-SUFFIX,hulu.tv
+DOMAIN-SUFFIX,hulu.us
+DOMAIN-SUFFIX,hoolu.tv
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,hu1u.com
-DOMAIN-SUFFIX,hoolu.tv
 DOMAIN-SUFFIX,huloo.cc
 DOMAIN-SUFFIX,huloo.tv
-DOMAIN-SUFFIX,hooloo.tv
 DOMAIN-SUFFIX,hoolu.com
-DOMAIN-SUFFIX,hulugo.com
-DOMAIN-SUFFIX,hulutv.com
-DOMAIN-SUFFIX,myhulu.com
-DOMAIN-SUFFIX,112263.com
-DOMAIN-SUFFIX,huluqa.com
-DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,hooloo.tv
 DOMAIN-SUFFIX,huluim.com
-DOMAIN-SUFFIX,huluusa.com
+DOMAIN-SUFFIX,hulugo.com
+DOMAIN-SUFFIX,huluqa.com
+DOMAIN-SUFFIX,hulutv.com
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,112263.com
+DOMAIN-SUFFIX,myhulu.com
 DOMAIN-SUFFIX,huluapp.com
 DOMAIN-SUFFIX,hulunet.com
+DOMAIN-SUFFIX,huluusa.com
 DOMAIN-SUFFIX,payhulu.com
-DOMAIN-SUFFIX,huluasks.com
-DOMAIN-SUFFIX,mushymush.tv
-DOMAIN-SUFFIX,hulugans.com
-DOMAIN-SUFFIX,callhulu.com
-DOMAIN-SUFFIX,freehulu.com
 DOMAIN-SUFFIX,hulufree.com
-DOMAIN-SUFFIX,huluteam.com
+DOMAIN-SUFFIX,freehulu.com
+DOMAIN-SUFFIX,huluasks.com
 DOMAIN-SUFFIX,hulucall.com
 DOMAIN-SUFFIX,huluplus.com
+DOMAIN-SUFFIX,hulugans.com
+DOMAIN-SUFFIX,mushymush.tv
+DOMAIN-SUFFIX,huluteam.com
+DOMAIN-SUFFIX,callhulu.com
 DOMAIN-SUFFIX,huluspain.com
 DOMAIN-SUFFIX,huluitaly.com
 DOMAIN-SUFFIX,huluaction.com
-DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,hulusports.com
-DOMAIN-SUFFIX,hulurussia.com
 DOMAIN-SUFFIX,joinmaidez.com
-DOMAIN-SUFFIX,hulupremium.com
+DOMAIN-SUFFIX,hulurussia.com
+DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,hulunetwork.com
-DOMAIN-SUFFIX,wwwhuluplus.com
 DOMAIN-SUFFIX,hulugermany.com
-DOMAIN-SUFFIX,registerhulu.com
+DOMAIN-SUFFIX,hulupremium.com
+DOMAIN-SUFFIX,wwwhuluplus.com
 DOMAIN-SUFFIX,originalhulu.com
 DOMAIN-SUFFIX,hulupurchase.com
+DOMAIN-SUFFIX,registerhulu.com
 DOMAIN-SUFFIX,findyourlimits.com
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,huluinstantmessenger.com

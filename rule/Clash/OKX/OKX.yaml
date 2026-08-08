@@ -1,6 +1,6 @@
 # NAME: OKX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:39.064722+00:00
+# UPDATED: 2026-08-08T19:12:26.720071+00:00
 payload:
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okex.com

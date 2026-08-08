@@ -1,9 +1,9 @@
 # NAME: ChinaNoMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:23:35.361008+00:00
+# UPDATED: 2026-08-08T18:54:12.378859+00:00
 payload:
-  - DOMAIN-SUFFIX,ms
   - DOMAIN-SUFFIX,cn
+  - DOMAIN-SUFFIX,ms
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay

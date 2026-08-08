@@ -9,7 +9,7 @@ Apple 生态、App Store、iCloud 与 TestFlight。
 - 分类标识：`Apple`
 - 当前客户端：`Clash`
 - 所属分组：[苹果生态](../../../guide/groups/apple.md)
-- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - 专题入口：
 - [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
@@ -58,7 +58,7 @@ Apple ecosystem, App Store, iCloud, and TestFlight.
 - Category ID: `Apple`
 - Client: `Clash`
 - Group: `Apple`
-- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Apple/Apple.yaml>
 

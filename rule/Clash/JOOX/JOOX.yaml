@@ -1,6 +1,6 @@
 # NAME: JOOX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:28.016216+00:00
+# UPDATED: 2026-08-08T19:12:12.544372+00:00
 payload:
   - DOMAIN-SUFFIX,joox.com
   - DOMAIN-SUFFIX,i-joox.com

@@ -1,9 +1,9 @@
 # NAME: Comodo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:23:38.308267+00:00
+# UPDATED: 2026-08-08T18:54:15.942875+00:00
 payload:
   - DOMAIN-SUFFIX,comodo.com
   - DOMAIN-SUFFIX,comodoca.com
-  - DOMAIN-SUFFIX,comodoca4.com
   - DOMAIN-SUFFIX,comodoca3.com
+  - DOMAIN-SUFFIX,comodoca4.com
   - DOMAIN-SUFFIX,comodoca2.com

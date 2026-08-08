@@ -1,13 +1,13 @@
 # NAME: Pixiv
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:42.501742+00:00
+# UPDATED: 2026-08-08T19:12:30.767151+00:00
 no_resolve: true
 domain_suffix_set:
-  - "pixiv.me"
   - "booth.pm"
+  - "pixiv.me"
+  - "pixiv.net"
   - "fanbox.cc"
+  - "pixiv.cat"
   - "pixiv.org"
   - "pximg.net"
-  - "pixiv.cat"
-  - "pixiv.net"
   - "pixiv.co.jp"

@@ -1,6 +1,6 @@
 # NAME: PChomeTW
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:41.722575+00:00
+# UPDATED: 2026-08-08T19:12:29.694216+00:00
 no_resolve: true
 domain_suffix_set:
   - "ecimg.tw"

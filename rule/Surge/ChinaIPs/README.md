@@ -9,15 +9,15 @@
 - 分类标识：`ChinaIPs`
 - 当前客户端：`Surge`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - 专题入口：
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`11373`
-- `IP-CIDR`: 7231
-- `IP-CIDR6`: 4142
+- 总数：`11384`
+- `IP-CIDR`: 7239
+- `IP-CIDR6`: 4145
 
 ### 使用说明
 
@@ -50,7 +50,7 @@ Aggregated rules for ChinaIPs, covering related domains, keywords, and network t
 - Category ID: `ChinaIPs`
 - Client: `Surge`
 - Group: `Ai`
-- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ChinaIPs/ChinaIPs.list>
 

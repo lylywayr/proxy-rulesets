@@ -9,15 +9,15 @@
 - 分类标识：`AI`
 - 当前客户端：`Clash`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
 ### 规则统计
 
-- 总数：`215`
+- 总数：`217`
 - `DOMAIN`: 40
-- `DOMAIN-SUFFIX`: 165
+- `DOMAIN-SUFFIX`: 167
 - `DOMAIN-KEYWORD`: 5
 - `DOMAIN-REGEX`: 1
 - `IP-ASN`: 2
@@ -59,7 +59,7 @@ Aggregated AI service rules combining OpenAI, Claude, Gemini, Copilot, Anthropic
 - Category ID: `AI`
 - Client: `Clash`
 - Group: `Ai`
-- Last updated: `2026-08-02 02:48:09 CST (UTC+8) / 2026-08-01 18:48:09 UTC`
+- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AI/AI.yaml>
 

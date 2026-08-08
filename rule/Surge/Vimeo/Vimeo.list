@@ -1,6 +1,6 @@
 # NAME: Vimeo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:45:30.835957+00:00
+# UPDATED: 2026-08-08T19:16:40.071164+00:00
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
 
@@ -8,15 +8,15 @@ DOMAIN-SUFFIX,vhx.tv
 DOMAIN-SUFFIX,vimeo.fr
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vhxqa3.com
-DOMAIN-SUFFIX,vhxqa1.com
 DOMAIN-SUFFIX,vhxqa2.com
-DOMAIN-SUFFIX,vhxqa6.com
 DOMAIN-SUFFIX,vhxqa4.com
+DOMAIN-SUFFIX,vhxqa6.com
+DOMAIN-SUFFIX,vhxqa1.com
 DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,vimeogoods.com
+DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,vimeostatus.com
+DOMAIN-SUFFIX,vimeoondemand.com
 DOMAIN-SUFFIX,vimeo-staging.com
 DOMAIN-SUFFIX,vimeobusiness.com
-DOMAIN-SUFFIX,vimeoondemand.com
 DOMAIN-SUFFIX,vimeo-staging2.com

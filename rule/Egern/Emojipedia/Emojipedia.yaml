@@ -1,6 +1,6 @@
 # NAME: Emojipedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:13.632913+00:00
+# UPDATED: 2026-08-08T19:11:53.730721+00:00
 no_resolve: true
 domain_suffix_set:
   - "emojipedia.org"

@@ -1,13 +1,13 @@
 # NAME: OnePlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:41:39.402286+00:00
+# UPDATED: 2026-08-08T19:12:27.142710+00:00
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 
 DOMAIN-SUFFIX,h2os.com
 DOMAIN-SUFFIX,oneplus.cn
-DOMAIN-SUFFIX,oneplus.net
 DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,oneplus.net
 DOMAIN-SUFFIX,opstatics.com
 DOMAIN-SUFFIX,oneplusbbs.com
 DOMAIN-SUFFIX,oneplusmobile.com

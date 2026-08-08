@@ -1,8 +1,8 @@
 # NAME: SourceForge
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T19:45:22.770920+00:00
+# UPDATED: 2026-08-08T19:16:30.282900+00:00
 payload:
   - DOMAIN-SUFFIX,sf.net
   - DOMAIN-SUFFIX,fsdn.com
-  - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,sourceforge.com
+  - DOMAIN-SUFFIX,sourceforge.net

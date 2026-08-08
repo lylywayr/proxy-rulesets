@@ -1,6 +1,6 @@
 # NAME: BoXun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-01T18:48:29.476737+00:00
+# UPDATED: 2026-08-08T18:19:00.669467+00:00
 payload:
   - DOMAIN-SUFFIX,boxun.com
   - DOMAIN-SUFFIX,bowenpress.com
