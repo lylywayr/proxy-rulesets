@@ -1,6 +1,6 @@
 # NAME: Pinduoduo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:30.387216+00:00
+# UPDATED: 2026-08-15T19:00:45.547657+00:00
 payload:
   - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,pinduoduo.com

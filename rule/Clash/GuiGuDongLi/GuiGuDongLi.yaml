@@ -1,6 +1,6 @@
 # NAME: GuiGuDongLi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:03.691577+00:00
+# UPDATED: 2026-08-15T19:00:33.796500+00:00
 payload:
   - DOMAIN-SUFFIX,ezhu.cn
   - DOMAIN-SUFFIX,ezhu.com

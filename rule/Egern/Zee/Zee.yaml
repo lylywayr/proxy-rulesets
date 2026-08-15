@@ -1,22 +1,22 @@
 # NAME: Zee
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:16:47.799330+00:00
+# UPDATED: 2026-08-15T19:03:42.539271+00:00
 no_resolve: true
 domain_suffix_set:
   - "bgr.in"
   - "ind.sh"
   - "zee.com"
   - "dnai.in"
-  - "oncars.in"
   - "india.com"
+  - "oncars.in"
   - "zeebiz.com"
-  - "wionews.com"
   - "ekhindi.com"
-  - "zeenews.com"
+  - "wionews.com"
   - "itripto.com"
+  - "zeenews.com"
+  - "earngeek.com"
   - "dnaindia.com"
   - "prepsure.com"
-  - "earngeek.com"
   - "yo1health.com"
   - "careerfundas.com"
   - "bollywoodlife.com"

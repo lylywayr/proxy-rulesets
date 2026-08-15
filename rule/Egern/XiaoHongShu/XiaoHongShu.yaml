@@ -1,9 +1,9 @@
 # NAME: XiaoHongShu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:16:44.840118+00:00
+# UPDATED: 2026-08-15T19:03:41.233143+00:00
 no_resolve: true
 domain_suffix_set:
-  - "xhscdn.net"
   - "xhscdn.com"
+  - "xhscdn.net"
   - "xiaohongshu.com"
   - "fengkongcloud.com"

@@ -1,27 +1,27 @@
 # NAME: RuanMei
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:16:26.395598+00:00
+# UPDATED: 2026-08-15T19:03:33.051073+00:00
 no_resolve: true
 domain_suffix_set:
   - "cike.cn"
   - "6655.com"
   - "henku.com"
-  - "ruanmei.cn"
-  - "jimeng.com"
   - "dnsnut.com"
-  - "saayaa.com"
   - "souxia.com"
-  - "ithome.net"
-  - "ithome.com"
   - "loogoo.com"
+  - "ithome.com"
+  - "jimeng.com"
+  - "ruanmei.cn"
+  - "saayaa.com"
+  - "ithome.net"
   - "ruanmei.com"
   - "cooldock.com"
-  - "vista123.com"
   - "fengkeji.com"
+  - "vista123.com"
   - "lapin365.com"
   - "yaodu365.com"
   - "win7china.com"
-  - "zuihuimai.com"
   - "tweakcube.com"
   - "win8china.com"
+  - "zuihuimai.com"
   - "wanhongbao.com"

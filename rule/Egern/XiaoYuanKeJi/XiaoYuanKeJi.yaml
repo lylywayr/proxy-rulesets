@@ -1,10 +1,10 @@
 # NAME: XiaoYuanKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:16:45.095244+00:00
+# UPDATED: 2026-08-15T19:03:41.345687+00:00
 no_resolve: true
 domain_suffix_set:
-  - "bizport.cn"
   - "5gimos.com"
-  - "10010mx.com"
+  - "bizport.cn"
   - "mfexcel.com"
+  - "10010mx.com"
   - "microfountain.com"

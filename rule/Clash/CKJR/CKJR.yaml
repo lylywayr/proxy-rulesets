@@ -1,17 +1,17 @@
 # NAME: CKJR
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:54:13.997956+00:00
+# UPDATED: 2026-08-15T18:43:51.435231+00:00
 payload:
   - DOMAIN-SUFFIX,myckjr.cn
-  - DOMAIN-SUFFIX,51ckjr.com
   - DOMAIN-SUFFIX,qxckjr.com
-  - DOMAIN-SUFFIX,ckjryy.com
-  - DOMAIN-SUFFIX,tjckjr.com
-  - DOMAIN-SUFFIX,ckjr001.cn
   - DOMAIN-SUFFIX,tkckjr.com
+  - DOMAIN-SUFFIX,ckjr001.cn
+  - DOMAIN-SUFFIX,tjckjr.com
+  - DOMAIN-SUFFIX,51ckjr.com
   - DOMAIN-SUFFIX,myckjr.com
-  - DOMAIN-SUFFIX,meituo.shop
-  - DOMAIN-SUFFIX,sxyckjr.com
+  - DOMAIN-SUFFIX,ckjryy.com
   - DOMAIN-SUFFIX,ckjr001.com
+  - DOMAIN-SUFFIX,sxyckjr.com
+  - DOMAIN-SUFFIX,meituo.shop
   - DOMAIN-SUFFIX,tengkaxx.com
   - DOMAIN-SUFFIX,tengkackjr.com

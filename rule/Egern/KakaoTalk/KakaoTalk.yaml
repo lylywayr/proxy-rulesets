@@ -1,14 +1,14 @@
 # NAME: KakaoTalk
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:13.257965+00:00
+# UPDATED: 2026-08-15T19:00:37.938472+00:00
 no_resolve: true
 domain_suffix_set:
   - "daum.net"
   - "kakao.com"
   - "daumcdn.net"
-  - "daumkakao.io"
   - "kakaocdn.net"
   - "potplayer.tv"
+  - "daumkakao.io"
   - "kakaocorp.com"
   - "daumpotplayer.com"
   - "kakao.co.kr"

@@ -1,6 +1,6 @@
 # NAME: 3dm
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:18:40.980539+00:00
+# UPDATED: 2026-08-15T18:10:15.803404+00:00
 no_resolve: true
 domain_suffix_set:
   - "3dmgame.com"

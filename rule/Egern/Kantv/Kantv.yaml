@@ -1,6 +1,6 @@
 # NAME: Kantv
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:13.423438+00:00
+# UPDATED: 2026-08-15T19:00:38.022529+00:00
 no_resolve: true
 domain_suffix_set:
   - "imkan.tv"

@@ -9,15 +9,15 @@
 - 分类标识：`ChinaIPs`
 - 当前客户端：`Clash`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - 专题入口：
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`11384`
-- `IP-CIDR`: 7239
-- `IP-CIDR6`: 4145
+- 总数：`11096`
+- `IP-CIDR`: 7171
+- `IP-CIDR6`: 3925
 
 ### 使用说明
 
@@ -50,7 +50,7 @@ Aggregated rules for ChinaIPs, covering related domains, keywords, and network t
 - Category ID: `ChinaIPs`
 - Client: `Clash`
 - Group: `Ai`
-- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ChinaIPs/ChinaIPs.yaml>
 

@@ -1,6 +1,6 @@
 # NAME: Line
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:16.692941+00:00
+# UPDATED: 2026-08-15T19:00:39.173348+00:00
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 16
 # TOTAL: 24
@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,nhncorp.jp
-DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line-apps.com
 IP-CIDR,103.2.28.0/22,no-resolve

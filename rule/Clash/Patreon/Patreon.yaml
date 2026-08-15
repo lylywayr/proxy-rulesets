@@ -1,6 +1,6 @@
 # NAME: Patreon
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:28.995857+00:00
+# UPDATED: 2026-08-15T19:00:44.967797+00:00
 payload:
   - DOMAIN,live-patreon-marketing.pantheonsite.io
   - DOMAIN-SUFFIX,patreon.com

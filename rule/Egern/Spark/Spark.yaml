@@ -1,10 +1,10 @@
 # NAME: Spark
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:16:30.426688+00:00
+# UPDATED: 2026-08-15T19:03:34.878803+00:00
 no_resolve: true
 domain_suffix_set:
   - "readdle.com"
-  - "amplitude.com"
   - "hockeyapp.net"
+  - "amplitude.com"
   - "firebaseio.com"
   - "smartmailcloud.com"

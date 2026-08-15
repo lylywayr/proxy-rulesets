@@ -1,9 +1,9 @@
 # NAME: Identrust
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:09.179746+00:00
+# UPDATED: 2026-08-15T19:00:36.148915+00:00
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 
-DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,identrust.net
+DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,identrust.co.uk

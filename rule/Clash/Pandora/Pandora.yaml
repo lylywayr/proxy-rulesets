@@ -1,6 +1,6 @@
 # NAME: Pandora
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:28.611838+00:00
+# UPDATED: 2026-08-15T19:00:44.782957+00:00
 payload:
   - DOMAIN-SUFFIX,p-cdn.us
   - DOMAIN-SUFFIX,pandora.com

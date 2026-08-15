@@ -9,7 +9,7 @@
 - 分类标识：`GitLab`
 - 当前客户端：`Egern`
 - 所属分组：[开发者平台](../../../guide/groups/developer.md)
-- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - 专题入口：
 - [开发者栈专题](../../../guide/topics/developer-stack.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for GitLab, covering related domains, keywords, and network tar
 - Category ID: `GitLab`
 - Client: `Egern`
 - Group: `Developer`
-- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GitLab/GitLab.yaml>
 

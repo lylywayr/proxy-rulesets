@@ -1,28 +1,28 @@
 # NAME: WanKaHuanJu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:16:41.676916+00:00
+# UPDATED: 2026-08-15T19:03:39.817206+00:00
 no_resolve: true
 domain_suffix_set:
   - "gm825.cn"
   - "gdsa.com"
   - "mhacn.cn"
-  - "hapjs.org"
   - "mhacn.net"
-  - "itgsa.com"
-  - "gm825.net"
   - "gm825.com"
   - "mhacn.com"
+  - "hapjs.org"
+  - "gm825.net"
+  - "itgsa.com"
   - "wankacn.cn"
-  - "quickapp.cn"
-  - "so-quick.cn"
   - "wankacn.com"
   - "wankacn.net"
+  - "quickapp.cn"
+  - "so-quick.cn"
   - "wankamall.com"
   - "daxianglink.cn"
-  - "quicklyopen.com"
   - "daxianglink.com"
-  - "shenyinhudong.cn"
+  - "quicklyopen.com"
   - "daxianglingke.cn"
+  - "shenyinhudong.cn"
   - "ita-alliance.com"
   - "quickingdata.com"
   - "daxianglingke.com"

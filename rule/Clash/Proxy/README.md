@@ -9,15 +9,15 @@
 - 分类标识：`Proxy`
 - 当前客户端：`Clash`
 - 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
-- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - 专题入口：
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`27273`
+- 总数：`27320`
 - `DOMAIN`: 114
-- `DOMAIN-SUFFIX`: 26870
+- `DOMAIN-SUFFIX`: 26917
 - `DOMAIN-KEYWORD`: 26
 - `DOMAIN-REGEX`: 158
 - `USER-AGENT`: 8
@@ -57,7 +57,7 @@ Common proxy-routing rules.
 - Category ID: `Proxy`
 - Client: `Clash`
 - Group: `Security`
-- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Proxy/Proxy.yaml>
 

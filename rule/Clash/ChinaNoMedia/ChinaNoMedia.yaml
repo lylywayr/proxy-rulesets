@@ -1,6 +1,6 @@
 # NAME: ChinaNoMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:54:12.378859+00:00
+# UPDATED: 2026-08-15T18:43:50.791229+00:00
 payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms

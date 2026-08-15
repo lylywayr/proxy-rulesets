@@ -9,7 +9,7 @@
 - 分类标识：`AdvertisingLite`
 - 当前客户端：`Surge`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - 专题入口：
 - 暂无
 
@@ -51,7 +51,7 @@ Aggregated rules for AdvertisingLite, covering related domains, keywords, and ne
 - Category ID: `AdvertisingLite`
 - Client: `Surge`
 - Group: `Lifestyle`
-- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AdvertisingLite/AdvertisingLite.list>
 

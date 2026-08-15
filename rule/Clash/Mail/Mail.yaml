@@ -1,6 +1,6 @@
 # NAME: Mail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:18.263518+00:00
+# UPDATED: 2026-08-15T19:00:39.877755+00:00
 payload:
   - DOMAIN,apple.imap.mail.yahoo.com
   - DOMAIN,apple.smtp.mail.yahoo.com
@@ -12,5 +12,5 @@ payload:
   - DOMAIN,smtp.gmail.com
   - DOMAIN,smtp.office365.com
   - DOMAIN-SUFFIX,m.hotmail.com
-  - DOMAIN-SUFFIX,smtp.yandex.com
   - DOMAIN-SUFFIX,imap.yandex.com
+  - DOMAIN-SUFFIX,smtp.yandex.com

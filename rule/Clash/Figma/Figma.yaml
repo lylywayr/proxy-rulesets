@@ -1,5 +1,5 @@
 # NAME: Figma
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:11:55.396934+00:00
+# UPDATED: 2026-08-15T19:00:29.988676+00:00
 payload:
   - DOMAIN-SUFFIX,figma.com

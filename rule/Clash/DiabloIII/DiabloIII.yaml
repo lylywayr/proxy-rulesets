@@ -1,6 +1,6 @@
 # NAME: DiabloIII
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:54:18.721292+00:00
+# UPDATED: 2026-08-15T18:43:53.446307+00:00
 payload:
   - IP-CIDR,24.105.30.129/32
   - IP-CIDR,54.94.196.47/32

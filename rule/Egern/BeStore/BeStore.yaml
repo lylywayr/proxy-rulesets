@@ -1,6 +1,6 @@
 # NAME: BeStore
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:18:58.798877+00:00
+# UPDATED: 2026-08-15T18:10:26.592015+00:00
 no_resolve: true
 domain_suffix_set:
   - "lppz.com"

@@ -1,15 +1,15 @@
 # NAME: Heroku
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:05.581836+00:00
+# UPDATED: 2026-08-15T19:00:34.589096+00:00
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 
 DOMAIN-SUFFIX,codei.sh
 DOMAIN-SUFFIX,heroku.co
 DOMAIN-SUFFIX,heroku.me
-DOMAIN-SUFFIX,codeish.io
-DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,codeish.co
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,codeish.io
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-SUFFIX,herokussl.com

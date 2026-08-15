@@ -9,7 +9,7 @@
 - 分类标识：`Blizzard`
 - 当前客户端：`Loon`
 - 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - 专题入口：
 - [游戏平台专题](../../../guide/topics/gaming-platforms.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for Blizzard, covering related domains, keywords, and network t
 - Category ID: `Blizzard`
 - Client: `Loon`
 - Group: `Gaming`
-- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Blizzard/Blizzard.list>
 

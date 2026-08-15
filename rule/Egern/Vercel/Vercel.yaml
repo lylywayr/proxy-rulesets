@@ -1,31 +1,31 @@
 # NAME: Vercel
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:16:39.224148+00:00
+# UPDATED: 2026-08-15T19:03:38.650657+00:00
 no_resolve: true
 domain_suffix_set:
   - "err.sh"
   - "now.sh"
   - "zeit.sh"
   - "zeit.co"
-  - "hyper.is"
   - "title.sh"
+  - "hyper.is"
   - "vercel.sh"
   - "vercel.pub"
-  - "nextjs.org"
-  - "vercel.com"
   - "static.fun"
+  - "vercel.com"
+  - "nextjs.org"
   - "vercel.app"
   - "vercel.blog"
   - "vercel.live"
   - "vercel.link"
   - "vercel.store"
+  - "turborepo.org"
   - "vercel.events"
   - "zeitworld.com"
-  - "turborepo.org"
   - "zeit-world.com"
+  - "zeit-world.org"
   - "zeit-world.net"
   - "vercel-dns.com"
-  - "zeit-world.org"
   - "vercel-status.com"
   - "vercel-insights.com"
   - "vercel-analytics.com"

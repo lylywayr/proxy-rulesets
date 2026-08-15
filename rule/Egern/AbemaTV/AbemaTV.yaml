@@ -1,27 +1,27 @@
 # NAME: AbemaTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:18:43.088789+00:00
+# UPDATED: 2026-08-15T18:10:16.962554+00:00
 no_resolve: true
 domain_suffix_set:
-  - "ameba.jp"
   - "abema.tv"
   - "abema.io"
-  - "ameblo.jp"
+  - "ameba.jp"
   - "adx.promo"
+  - "ameblo.jp"
   - "hayabusa.io"
   - "amebame.com"
+  - "bucketeer.jp"
+  - "winticket.jp"
   - "hayabusa.dev"
   - "abema-tv.com"
-  - "winticket.jp"
-  - "bucketeer.jp"
   - "amebaownd.com"
   - "hayabusa.media"
   - "amebaowndme.com"
   - "dokusho-ojikan.jp"
   - "abematv.akamaized.net"
   - "vod-abematv.akamaized.net"
-  - "ds-vod-abematv.akamaized.net"
   - "linear-abematv.akamaized.net"
+  - "ds-vod-abematv.akamaized.net"
   - "d1otoma47x30pg.cloudfront.net"
   - "d2wy8f7a9ursnm.cloudfront.net"
   - "ds-linear-abematv.akamaized.net"

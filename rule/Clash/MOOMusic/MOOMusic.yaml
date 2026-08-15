@@ -1,5 +1,5 @@
 # NAME: MOOMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:22.927329+00:00
+# UPDATED: 2026-08-15T19:00:42.261719+00:00
 payload:
   - USER-AGENT,TencentMidasConnect*

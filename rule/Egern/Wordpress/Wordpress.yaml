@@ -1,6 +1,6 @@
 # NAME: Wordpress
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:16:43.895154+00:00
+# UPDATED: 2026-08-15T19:03:40.897799+00:00
 no_resolve: true
 domain_suffix_set:
   - "w.org"

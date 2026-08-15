@@ -1,11 +1,11 @@
 # NAME: Camera360
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:19:01.672933+00:00
+# UPDATED: 2026-08-15T18:10:28.122357+00:00
 payload:
   - DOMAIN-SUFFIX,360in.com
-  - DOMAIN-SUFFIX,c360dn.com
   - DOMAIN-SUFFIX,yipai.info
   - DOMAIN-SUFFIX,ypjc.cloud
+  - DOMAIN-SUFFIX,c360dn.com
   - DOMAIN-SUFFIX,52photo.com
   - DOMAIN-SUFFIX,yipai360.com
   - DOMAIN-SUFFIX,camera360.com

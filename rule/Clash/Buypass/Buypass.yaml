@@ -1,9 +1,9 @@
 # NAME: Buypass
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:19:01.066194+00:00
+# UPDATED: 2026-08-15T18:10:27.765878+00:00
 payload:
   - DOMAIN-SUFFIX,minid.no
-  - DOMAIN-SUFFIX,buypass.no
   - DOMAIN-SUFFIX,buypass.se
+  - DOMAIN-SUFFIX,buypass.no
   - DOMAIN-SUFFIX,buypass.com
   - DOMAIN-SUFFIX,buypass-ssl.com

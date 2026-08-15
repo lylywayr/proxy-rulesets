@@ -1,11 +1,11 @@
 # NAME: Asahi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:18:56.258126+00:00
+# UPDATED: 2026-08-15T18:10:25.620692+00:00
 payload:
   - DOMAIN,asahishimbun.sc.omtrdc.net
   - DOMAIN-SUFFIX,asahi.com
   - DOMAIN-SUFFIX,aiasahi.jp
-  - DOMAIN-SUFFIX,asagaku.com
   - DOMAIN-SUFFIX,asahicom.jp
+  - DOMAIN-SUFFIX,asagaku.com
   - DOMAIN-SUFFIX,nikkansports.com
   - DOMAIN-SUFFIX,asakonet.co.jp

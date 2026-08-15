@@ -1,6 +1,6 @@
 # NAME: Antutu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:18:52.104060+00:00
+# UPDATED: 2026-08-15T18:10:22.904387+00:00
 no_resolve: true
 domain_suffix_set:
   - "antutu.com"

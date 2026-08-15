@@ -1,6 +1,6 @@
 # NAME: Addthis
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:18:44.070552+00:00
+# UPDATED: 2026-08-15T18:10:17.522700+00:00
 no_resolve: true
 domain_suffix_set:
   - "addthis.com"

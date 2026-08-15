@@ -9,7 +9,7 @@
 - 分类标识：`GoogleFCM`
 - 当前客户端：`Surge`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - 专题入口：
 - [云网络专题](../../../guide/topics/cloud-network.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for GoogleFCM, covering related domains, keywords, and network 
 - Category ID: `GoogleFCM`
 - Client: `Surge`
 - Group: `Office`
-- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GoogleFCM/GoogleFCM.list>
 

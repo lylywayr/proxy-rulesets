@@ -1,11 +1,11 @@
 # NAME: CNN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:54:15.521570+00:00
+# UPDATED: 2026-08-15T18:43:52.150138+00:00
 no_resolve: true
 domain_suffix_set:
   - "cnn.io"
   - "cnn.it"
   - "cnn.com"
-  - "cnnmoney.ch"
   - "cnnlabs.com"
+  - "cnnmoney.ch"
   - "cnnarabic.com"

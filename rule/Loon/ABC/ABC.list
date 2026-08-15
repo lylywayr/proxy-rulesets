@@ -1,12 +1,12 @@
 # NAME: ABC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:18:42.869357+00:00
+# UPDATED: 2026-08-15T18:10:16.831069+00:00
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 
 DOMAIN-SUFFIX,95599.cn
-DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,openaboc.cn
-DOMAIN-SUFFIX,openaboc.com
+DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,bscabank.com
+DOMAIN-SUFFIX,openaboc.com
 DOMAIN-SUFFIX,openaboc.com.cn

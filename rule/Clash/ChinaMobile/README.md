@@ -9,7 +9,7 @@
 - 分类标识：`ChinaMobile`
 - 当前客户端：`Clash`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for ChinaMobile, covering related domains, keywords, and networ
 - Category ID: `ChinaMobile`
 - Client: `Clash`
 - Group: `Mainland`
-- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ChinaMobile/ChinaMobile.yaml>
 

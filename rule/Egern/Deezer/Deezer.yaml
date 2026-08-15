@@ -1,6 +1,6 @@
 # NAME: Deezer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:54:18.299926+00:00
+# UPDATED: 2026-08-15T18:43:53.257397+00:00
 no_resolve: true
 domain_suffix_set:
   - "dzcdn.net"

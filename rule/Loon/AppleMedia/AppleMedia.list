@@ -1,16 +1,16 @@
 # NAME: AppleMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T18:18:55.307368+00:00
+# UPDATED: 2026-08-15T18:10:25.183294+00:00
 # DOMAIN-SUFFIX: 52
 # TOTAL: 52
 
 DOMAIN-SUFFIX,ibook.eu
+DOMAIN-SUFFIX,ibook.com
 DOMAIN-SUFFIX,iphoto.eu
 DOMAIN-SUFFIX,imovie.eu
 DOMAIN-SUFFIX,iphoto.no
-DOMAIN-SUFFIX,ibook.com
-DOMAIN-SUFFIX,iphoto.se
 DOMAIN-SUFFIX,ibook.net
+DOMAIN-SUFFIX,iphoto.se
 DOMAIN-SUFFIX,i-book.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appletv.fr
@@ -18,21 +18,21 @@ DOMAIN-SUFFIX,i-book.net
 DOMAIN-SUFFIX,appletv.com
 DOMAIN-SUFFIX,iphoto.wang
 DOMAIN-SUFFIX,appletv4.cn
+DOMAIN-SUFFIX,applenews.tv
 DOMAIN-SUFFIX,appletv.wang
 DOMAIN-SUFFIX,musickit.net
-DOMAIN-SUFFIX,applenews.tv
 DOMAIN-SUFFIX,applemusic.co
 DOMAIN-SUFFIX,appleenews.com
 DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,applemusic.wang
 DOMAIN-SUFFIX,imoviestage.com
+DOMAIN-SUFFIX,ibooksauthor.com
+DOMAIN-SUFFIX,applenews.berlin
 DOMAIN-SUFFIX,appletvapp.apple
 DOMAIN-SUFFIX,ibookpartner.com
-DOMAIN-SUFFIX,applenews.berlin
-DOMAIN-SUFFIX,ibooksauthor.com
+DOMAIN-SUFFIX,applemusic.berlin
 DOMAIN-SUFFIX,imoviegallery.com
 DOMAIN-SUFFIX,applenews.hamburg
-DOMAIN-SUFFIX,applemusic.berlin
 DOMAIN-SUFFIX,wwwapplemusic.com
 DOMAIN-SUFFIX,applemusic.hamburg
 DOMAIN-SUFFIX,applenewsformat.com
@@ -53,6 +53,6 @@ DOMAIN-SUFFIX,aod.itunes.apple.com
 DOMAIN-SUFFIX,mvod.itunes.apple.com
 DOMAIN-SUFFIX,audio.itunes.apple.com
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com
-DOMAIN-SUFFIX,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,streamingaudio.itunes.apple.com

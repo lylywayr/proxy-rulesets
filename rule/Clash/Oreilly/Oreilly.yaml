@@ -1,6 +1,6 @@
 # NAME: Oreilly
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:27.911286+00:00
+# UPDATED: 2026-08-15T19:00:44.491594+00:00
 payload:
   - DOMAIN-SUFFIX,orl.ly
   - DOMAIN-SUFFIX,oreil.ly

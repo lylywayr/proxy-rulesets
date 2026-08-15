@@ -1,6 +1,6 @@
 # NAME: KKBOX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:13.983683+00:00
+# UPDATED: 2026-08-15T19:00:38.197192+00:00
 payload:
   - DOMAIN-SUFFIX,kfs.io
   - DOMAIN-SUFFIX,kktv.me

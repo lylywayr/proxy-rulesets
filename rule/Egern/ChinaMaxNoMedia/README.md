@@ -9,20 +9,20 @@
 - 分类标识：`ChinaMaxNoMedia`
 - 当前客户端：`Egern`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`12585`
+- 总数：`12287`
 - `DOMAIN-SUFFIX`: 47
 - `DOMAIN-KEYWORD`: 11
 - `USER-AGENT`: 65
 - `PROCESS-NAME`: 12
 - `IP-ASN`: 1
-- `IP-CIDR`: 8253
-- `IP-CIDR6`: 4208
+- `IP-CIDR`: 8187
+- `IP-CIDR6`: 3976
 
 ### 使用说明
 
@@ -54,7 +54,7 @@ Aggregated rules for ChinaMaxNoMedia, covering related domains, keywords, and ne
 - Category ID: `ChinaMaxNoMedia`
 - Client: `Egern`
 - Group: `Media`
-- Last updated: `2026-08-09 02:18:38 CST (UTC+8) / 2026-08-08 18:18:38 UTC`
+- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaMaxNoMedia/ChinaMaxNoMedia.yaml>
 

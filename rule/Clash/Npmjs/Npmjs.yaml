@@ -1,6 +1,6 @@
 # NAME: Npmjs
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-08T19:12:26.045030+00:00
+# UPDATED: 2026-08-15T19:00:43.663151+00:00
 payload:
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,npmjs.com
