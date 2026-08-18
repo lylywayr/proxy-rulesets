@@ -1,0 +1,51 @@
+name: Mirror private fallback rules
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - rule/Surge/AppPrivacyServices/GIF.list
+      - rule/Surge/AppPrivacyServices/MiHome.list
+      - rule/Surge/AppPrivacyServices/Taobao.list
+      - rule/Surge/AppPrivacyServices/Quark.list
+
+permissions:
+  contents: read
+
+jobs:
+  mirror:
+    if: "!contains(github.event.head_commit.message, '[mirror-sync]')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Mirror fallback rules to private repository
+        env:
+          MIRROR_TOKEN: ${{ secrets.RULESET_MIRROR_TOKEN }}
+          TARGET_REPO: lylywayr/Auto-AppPrivacy-Private-Rules
+          TARGET_DIR: rule/Surge/AppPrivacyServices
+        run: |
+          set -eu
+          test -n "$MIRROR_TOKEN"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git clone "https://x-access-token:${MIRROR_TOKEN}@github.com/${TARGET_REPO}.git" target
+          mkdir -p "target/${TARGET_DIR}"
+          for name in GIF MiHome Taobao Quark; do
+            cp "rule/Surge/AppPrivacyServices/${name}.list" "target/${TARGET_DIR}/${name}.list"
+          done
+          cd target
+          if git diff --quiet; then
+            echo "Private mirror already matches"
+            exit 0
+          fi
+          git add "$TARGET_DIR"
+          git commit -m "[mirror-sync] Sync fallback rules from public repository"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push; then
+              exit 0
+            fi
+            echo "Push conflict, retrying (${attempt}/3)"
+          done
+          exit 1

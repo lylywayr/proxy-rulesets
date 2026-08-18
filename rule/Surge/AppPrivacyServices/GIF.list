@@ -1,0 +1,130 @@
+# App Privacy Services ruleset
+# NAME: GIF
+# APP_OR_SERVICE: GIF
+# BUNDLE_ID: com.jiangjia.gif
+# SOURCE: iOS App Privacy Report
+
+# UPSTREAM_URL:
+# - none; exact privacy-report rules only
+# PRIVACY_REPORT_RULES: 1858
+# UPSTREAM_RULES: 0
+# MERGED_RULES: 115
+# RECOMMENDED_POLICY: DomesticServices
+# UPDATED_AT: 2026-07-19T15:17:40+08:00
+# NOTE: Exact privacy-report targets are kept; precise upstream rules are merged only when the upstream is service-specific enough.
+
+DOMAIN,access-live.d.xxpkg.com
+DOMAIN,adlog.e.kuaishou.com
+DOMAIN,ali.static.yximgs.com
+DOMAIN,ali2.a.kwimgs.com
+DOMAIN,ali2.a.yximgs.com
+DOMAIN,ali-ky.static.yximgs.com
+DOMAIN,api.e.kuaishou.cn
+DOMAIN,api.kuaishouzt.com
+DOMAIN,api.kwaizt.com
+DOMAIN,api1.kwaixiaodian.com
+DOMAIN,api3.gifshow.com
+DOMAIN,api3.ksapisrv.com
+DOMAIN,apijsv6.gifshow.com
+DOMAIN,app.kwaixiaodian.com
+DOMAIN,arch-public.kwd.inkuai.com
+DOMAIN,az2-api.ksapisrv.com
+DOMAIN,az2-api-idc.ksapisrv.com
+DOMAIN,az2-api-js.gifshow.com
+DOMAIN,az2-live.ksapisrv.com
+DOMAIN,az4-api.ksapisrv.com
+DOMAIN,az4-api-idc.ksapisrv.com
+DOMAIN,az4-api-js.gifshow.com
+DOMAIN,az4-live.ksapisrv.com
+DOMAIN,az4-live-idc.ksapisrv.com
+DOMAIN,az4-live-js.gifshow.com
+DOMAIN,az4-upload-js.gifshow.com
+DOMAIN,cdndns.kwd.inkuai.com
+DOMAIN,config-proxy.kwd.inkuai.com
+DOMAIN,config-proxy-bak.kwd.inkuai.com
+DOMAIN,d1-ec.a.kwimgs.com
+DOMAIN,d1-plat.wsukwai.com
+DOMAIN,d23-plat.wsukwai.com
+DOMAIN,d3-ec.a.kwimgs.com
+DOMAIN,d4-plat.wsukwai.com
+DOMAIN,d5-ec.a.kwimgs.com
+DOMAIN,d66-plat-solar.wsukwai.com
+DOMAIN,d-proxy-config.xxpkg.com
+DOMAIN,d-pxy-access.xxpkg.com
+DOMAIN,encourage-earning.kwd.inkuai.com
+DOMAIN,eve.kwd.inkuai.com
+DOMAIN,gdfpsec.ksapisrv.com
+DOMAIN,hw.a.yximgs.com
+DOMAIN,hw2.a.kwimgs.com
+DOMAIN,isp-report.gifshow.com
+DOMAIN,js2.a.yximgs.com
+DOMAIN,kste.ksapisrv.com
+DOMAIN,live-fe-activity-solar.kwd.inkuai.com
+DOMAIN,live-tm-center.gifshow.com
+DOMAIN,miniapi.gifshow.com
+DOMAIN,ntp.nc.gifshow.com
+DOMAIN,open.kuaishou.com
+DOMAIN,p1.a.yximgs.com
+DOMAIN,p1.inkwai.com
+DOMAIN,p1-ad.adkwai.com
+DOMAIN,p1-ad.adukwai.com
+DOMAIN,p1-ec.ecukwai.com
+DOMAIN,p1-plat.wsukwai.com
+DOMAIN,p2.a.yximgs.com
+DOMAIN,p23.a.yximgs.com
+DOMAIN,p23-plat.wskwai.com
+DOMAIN,p23-plat.wsukwai.com
+DOMAIN,p2-plat.wsukwai.com
+DOMAIN,p2-pro.a.yximgs.com
+DOMAIN,p4.a.yximgs.com
+DOMAIN,p4-ad.adkwai.com
+DOMAIN,p4-ad.adukwai.com
+DOMAIN,p4-plat.wskwai.com
+DOMAIN,p5.a.yximgs.com
+DOMAIN,p5-ad.adkwai.com
+DOMAIN,p5-ad.adukwai.com
+DOMAIN,p5-live.a.yximgs.com
+DOMAIN,p5-live.wskwai.com
+DOMAIN,p5-plat.wskwai.com
+DOMAIN,p5-pro.a.yximgs.com
+DOMAIN,p5-sh.shukwai.com
+DOMAIN,p66.a.yximgs.com
+DOMAIN,p66-plat.wsbkwai.com
+DOMAIN,p66-plat.wskwai.com
+DOMAIN,p66-plat.wsukwai.com
+DOMAIN,p66-pro.a.yximgs.com
+DOMAIN,pcdn-pxy-crc.xxpkg.com
+DOMAIN,pcdn-pxy-tracker.xxpkg.com
+DOMAIN,push.gifshow.com
+DOMAIN,push.kwd.inkuai.com
+DOMAIN,res-warmup-static.kwd.inkuai.com
+DOMAIN,s1-11289.kwimgs.com
+DOMAIN,s2-11289.kwimgs.com
+DOMAIN,s2-12769.kwimgs.com
+DOMAIN,static.yximgs.com
+DOMAIN,summer2026.kwd.inkuai.com
+DOMAIN,summer26-main.kwd.inkuai.com
+DOMAIN,tm-access.xxpkg.com
+DOMAIN,tm-s.xxpkg.com
+DOMAIN,traffic-monitor.kuaishou.com
+DOMAIN,transfer-proxy.kcdn.yximgs.com
+DOMAIN,tx.a.yximgs.com
+DOMAIN,txmov2.a.kwimgs.com
+DOMAIN,ty2.a.kwimgs.com
+DOMAIN,ty2-course.static.yximgs.com
+DOMAIN,tymov2.a.kwimgs.com
+DOMAIN,ulogjs.ksapisrv.com
+DOMAIN,v1.kwaicdn.com
+DOMAIN,v11.kwaicdn.com
+DOMAIN,v23-3.kwaicdn.com
+DOMAIN,v23-plat.wsukwai.com
+DOMAIN,v23-vod-3.kwaicdn.com
+DOMAIN,v4.kwaicdn.com
+DOMAIN,v4.oskwai.com
+DOMAIN,v4-plat.wsukwai.com
+DOMAIN,v4-plat-fdl.wsukwai.com
+DOMAIN,v6.kwaicdn.com
+DOMAIN,v6-gdvod.kwaicdn.com
+DOMAIN,w1.beckwai.com
+DOMAIN,w1-live.kskwai.com
+DOMAIN,yoda-pkg-vip-02.kwd.inkuai.com

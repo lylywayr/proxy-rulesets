@@ -1,0 +1,33 @@
+# App Privacy Services ruleset
+# NAME: Taobao
+# APP_OR_SERVICE: Taobao
+# BUNDLE_ID: com.taobao.taobao4iphone
+# SOURCE: iOS App Privacy Report
+
+# UPSTREAM_URL:
+# - none; exact privacy-report rules only
+# PRIVACY_REPORT_RULES: 46
+# UPSTREAM_RULES: 0
+# MERGED_RULES: 18
+# RECOMMENDED_POLICY: DomesticServices
+# UPDATED_AT: 2026-07-19T15:17:40+08:00
+# NOTE: Exact privacy-report targets are kept; precise upstream rules are merged only when the upstream is service-specific enough.
+
+DOMAIN,agoo-report.m.taobao.com
+DOMAIN,alsc-buy2.ele.me
+DOMAIN,client-upload.cn-shanghai.log.aliyuncs.com
+DOMAIN,cube.elemecdn.com
+DOMAIN,d.alicdn.com
+DOMAIN,dinamicx.alibabausercontent.com
+DOMAIN,dualstack-mpsapi.amap.com
+DOMAIN,g.alicdn.com
+DOMAIN,highway-tb.ele.me
+DOMAIN,img.alicdn.com
+DOMAIN,mobilegw.alipay.com
+DOMAIN,msgacs.m.taobao.com
+DOMAIN,ntp.ynuf.aliapp.org
+DOMAIN,orange-dc.m.taobao.com
+DOMAIN,shopping.ele.me
+DOMAIN,tb.ele.me
+DOMAIN,umdc.alibabachengdun.com
+DOMAIN,waimai-guide.ele.me
