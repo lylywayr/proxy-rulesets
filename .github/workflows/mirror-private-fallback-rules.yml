@@ -32,15 +32,21 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git clone "https://x-access-token:${MIRROR_TOKEN}@github.com/${TARGET_REPO}.git" target
           mkdir -p "target/${TARGET_DIR}"
-          for name in GIF MiHome Taobao Quark; do
-            cp "rule/Surge/AppPrivacyServices/${name}.list" "target/${TARGET_DIR}/${name}.list"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            files="GIF.list MiHome.list Taobao.list Quark.list"
+          else
+            files=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- rule/Surge/AppPrivacyServices | sed -n 's#^rule/Surge/AppPrivacyServices/##p')
+          fi
+          test -n "$files"
+          for file in $files; do
+            cp "rule/Surge/AppPrivacyServices/${file}" "target/${TARGET_DIR}/${file}"
           done
           cd target
           if git diff --quiet; then
             echo "Private mirror already matches"
             exit 0
           fi
-          git add "$TARGET_DIR"
+          git add -- "$TARGET_DIR"
           git commit -m "[mirror-sync] Sync fallback rules from public repository"
           for attempt in 1 2 3; do
             if git pull --rebase origin main && git push; then
