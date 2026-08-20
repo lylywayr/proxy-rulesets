@@ -13,12 +13,56 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: public-main-writes
+  cancel-in-progress: false
+
 jobs:
   mirror:
     if: "!contains(github.event.head_commit.message, '[mirror-sync]')"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Validate public fallback rules
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path("rule/Surge/AppPrivacyServices")
+          allowed = {
+              "AND", "ASN", "DEST-PORT", "DOMAIN", "DOMAIN-KEYWORD", "DOMAIN-SET",
+              "DOMAIN-SUFFIX", "DOMAIN-WILDCARD", "FINAL", "GEOIP", "IP-CIDR",
+              "IP-CIDR6", "IP-ASN", "IN-PORT", "IN-TYPE", "NOT", "OR",
+              "PROCESS-NAME", "PROTOCOL", "RULE-SET", "SCRIPT", "SRC-IP-CIDR",
+              "URL-REGEX", "USER-AGENT",
+          }
+          issues = []
+          for name in ("GIF", "MiHome", "Taobao", "Quark"):
+              path = root / f"{name}.list"
+              if not path.exists():
+                  issues.append(f"缺少规则集: {path}")
+                  continue
+              seen = {}
+              for number, raw in enumerate(path.read_text(encoding="utf-8-sig").splitlines(), 1):
+                  line = raw.strip()
+                  if not line or line.startswith(("#", ";", "//")):
+                      continue
+                  parts = [part.strip() for part in line.split(",")]
+                  if not parts or parts[0].upper() not in allowed:
+                      issues.append(f"{path}:{number} 未知规则类型: {raw}")
+                      continue
+                  if len(parts) < 2 or not parts[1]:
+                      issues.append(f"{path}:{number} 规则缺少匹配内容: {raw}")
+                  if line in seen:
+                      issues.append(f"{path}:{number} 重复规则，首次出现于第 {seen[line]} 行")
+                  else:
+                      seen[line] = number
+          if issues:
+              raise SystemExit("\n".join(issues))
+          print("公开镜像规则集校验通过")
+          PY
 
       - name: Mirror fallback rules to private repository
         env:
@@ -52,6 +96,8 @@ jobs:
             if git pull --rebase origin main && git push; then
               exit 0
             fi
-            echo "Push conflict, retrying (${attempt}/3)"
+            git rebase --abort || true
+            echo "Mirror conflict or push failure (${attempt}/3)"
           done
+          echo "Mirror failed; resolve the conflicting fallback rule file manually."
           exit 1
