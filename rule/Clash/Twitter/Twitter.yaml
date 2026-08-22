@@ -1,23 +1,23 @@
 # NAME: Twitter
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:37.799390+00:00
+# UPDATED: 2026-08-22T18:59:58.691266+00:00
 payload:
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,vine.co
-  - DOMAIN-SUFFIX,twimg.co
   - DOMAIN-SUFFIX,grok.com
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,twimg.org
+  - DOMAIN-SUFFIX,twimg.co
   - DOMAIN-SUFFIX,twttr.com
   - DOMAIN-SUFFIX,twttr.net
   - DOMAIN-SUFFIX,twvid.com
+  - DOMAIN-SUFFIX,twimg.org
+  - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twitter.jp
   - DOMAIN-SUFFIX,twtrdns.net
+  - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twitter.biz
   - DOMAIN-SUFFIX,twitpic.com
-  - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,tweetdeck.com
   - DOMAIN-SUFFIX,tellapart.com

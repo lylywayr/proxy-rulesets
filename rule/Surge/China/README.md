@@ -9,18 +9,18 @@
 - 分类标识：`China`
 - 当前客户端：`Surge`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
+- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
 ### 规则统计
 
-- 总数：`117218`
-- `DOMAIN`: 432
-- `DOMAIN-SUFFIX`: 111406
+- 总数：`117195`
+- `DOMAIN`: 403
+- `DOMAIN-SUFFIX`: 111408
 - `DOMAIN-REGEX`: 3
-- `IP-CIDR`: 4145
-- `IP-CIDR6`: 1235
+- `IP-CIDR`: 4148
+- `IP-CIDR6`: 1236
 
 ### 使用说明
 
@@ -56,7 +56,7 @@ China mainland service domains and networks.
 - Category ID: `China`
 - Client: `Surge`
 - Group: `Mainland`
-- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
+- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/China/China.list>
 

@@ -1,9 +1,9 @@
 # NAME: Fiio
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:30.026546+00:00
+# UPDATED: 2026-08-22T18:54:21.251064+00:00
 no_resolve: true
 domain_suffix_set:
   - "fiio.cn"
-  - "fiio.net"
   - "fiio.com"
+  - "fiio.net"
   - "fiio.com.cn"

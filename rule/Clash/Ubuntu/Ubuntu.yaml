@@ -1,51 +1,51 @@
 # NAME: Ubuntu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:38.036847+00:00
+# UPDATED: 2026-08-22T18:59:59.771931+00:00
 payload:
-  - DOMAIN-SUFFIX,ubuntu.sk
-  - DOMAIN-SUFFIX,ubuntu.ir
-  - DOMAIN-SUFFIX,ubuntu.hu
-  - DOMAIN-SUFFIX,ubuntu.ru
-  - DOMAIN-SUFFIX,ubuntu.pl
   - DOMAIN-SUFFIX,ubuntu.cz
-  - DOMAIN-SUFFIX,ubuntu.lv
+  - DOMAIN-SUFFIX,ubuntu.lt
   - DOMAIN-SUFFIX,ubuntu.ro
+  - DOMAIN-SUFFIX,ubuntu.sk
+  - DOMAIN-SUFFIX,ubuntu.lv
+  - DOMAIN-SUFFIX,ubuntu.pl
+  - DOMAIN-SUFFIX,ubuntu.ru
   - DOMAIN-SUFFIX,ubuntu.si
   - DOMAIN-SUFFIX,ubuntu.se
-  - DOMAIN-SUFFIX,ubuntu.lt
-  - DOMAIN-SUFFIX,ubuntu.net
+  - DOMAIN-SUFFIX,ubuntu.hu
+  - DOMAIN-SUFFIX,ubuntu.ir
   - DOMAIN-SUFFIX,ubuntu.com
-  - DOMAIN-SUFFIX,debuntu.org
+  - DOMAIN-SUFFIX,ubuntu.net
   - DOMAIN-SUFFIX,ualinux.com
+  - DOMAIN-SUFFIX,debuntu.org
   - DOMAIN-SUFFIX,snapcraft.io
-  - DOMAIN-SUFFIX,ubuntu-hr.org
-  - DOMAIN-SUFFIX,ubuntu-za.org
-  - DOMAIN-SUFFIX,ubuntu-gr.org
-  - DOMAIN-SUFFIX,askubuntu.com
-  - DOMAIN-SUFFIX,ubuntu-tw.org
   - DOMAIN-SUFFIX,ubuntu-rs.org
-  - DOMAIN-SUFFIX,ubuntu-vn.org
-  - DOMAIN-SUFFIX,ubuntu-pe.org
-  - DOMAIN-SUFFIX,ubuntu-cl.org
   - DOMAIN-SUFFIX,ubuntu-nl.org
-  - DOMAIN-SUFFIX,ubuntu-tr.net
-  - DOMAIN-SUFFIX,ubuntu-se.org
-  - DOMAIN-SUFFIX,canonical.com
-  - DOMAIN-SUFFIX,ubuntu-fr.org
-  - DOMAIN-SUFFIX,ubuntu-br.org
-  - DOMAIN-SUFFIX,ubuntu-pt.org
-  - DOMAIN-SUFFIX,ubuntu-fi.org
-  - DOMAIN-SUFFIX,ubuntu-it.org
+  - DOMAIN-SUFFIX,askubuntu.com
   - DOMAIN-SUFFIX,ubuntu-ie.org
-  - DOMAIN-SUFFIX,aerialline.com
-  - DOMAIN-SUFFIX,ubuntu-news.ru
+  - DOMAIN-SUFFIX,ubuntu-hr.org
+  - DOMAIN-SUFFIX,ubuntu-tr.net
+  - DOMAIN-SUFFIX,ubuntu-gr.org
+  - DOMAIN-SUFFIX,canonical.com
+  - DOMAIN-SUFFIX,ubuntu-br.org
+  - DOMAIN-SUFFIX,ubuntu-tw.org
+  - DOMAIN-SUFFIX,ubuntu-fi.org
+  - DOMAIN-SUFFIX,ubuntu-za.org
+  - DOMAIN-SUFFIX,ubuntu-fr.org
+  - DOMAIN-SUFFIX,ubuntu-it.org
+  - DOMAIN-SUFFIX,ubuntu-pt.org
+  - DOMAIN-SUFFIX,ubuntu-cl.org
+  - DOMAIN-SUFFIX,ubuntu-se.org
+  - DOMAIN-SUFFIX,ubuntu-pe.org
+  - DOMAIN-SUFFIX,ubuntu-vn.org
+  - DOMAIN-SUFFIX,ubuntugeek.com
   - DOMAIN-SUFFIX,ubuntuclub.com
+  - DOMAIN-SUFFIX,aerialline.com
   - DOMAIN-SUFFIX,ubuntuusers.de
   - DOMAIN-SUFFIX,ubucentrum.net
-  - DOMAIN-SUFFIX,ubuntugeek.com
+  - DOMAIN-SUFFIX,ubuntu-news.ru
   - DOMAIN-SUFFIX,ubuntulinux.jp
-  - DOMAIN-SUFFIX,ubuntuguide.org
   - DOMAIN-SUFFIX,debianadmin.com
+  - DOMAIN-SUFFIX,ubuntuguide.org
   - DOMAIN-SUFFIX,iloveubuntu.net
   - DOMAIN-SUFFIX,ubuntu-touch.io
   - DOMAIN-SUFFIX,ubuntulinux.org

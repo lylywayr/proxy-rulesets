@@ -1,14 +1,14 @@
 # NAME: Pixnet
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:45.741969+00:00
+# UPDATED: 2026-08-22T18:55:11.866203+00:00
 no_resolve: true
 domain_suffix_set:
   - "pimg.tw"
   - "pixnet.tw"
   - "pixnet.cc"
   - "pixfs.net"
-  - "pixplug.in"
   - "pixnet.pro"
+  - "pixplug.in"
   - "pixnet.net"
   - "pixanalytics.com"
   - "pixinsight.com.tw"

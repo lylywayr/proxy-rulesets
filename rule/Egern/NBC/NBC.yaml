@@ -1,25 +1,25 @@
 # NAME: NBC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:42.923588+00:00
+# UPDATED: 2026-08-22T18:55:01.400292+00:00
 no_resolve: true
 domain_set:
   - "nbcstreaming.sc.omtrdc.net"
 domain_suffix_set:
   - "nbc.co"
   - "nbc.com"
-  - "cnbc.com"
   - "syfy.com"
+  - "cnbc.com"
   - "msnbc.com"
-  - "nbcuni.com"
-  - "cnbcfm.com"
   - "oxygen.com"
+  - "cnbcfm.com"
+  - "nbcuni.com"
   - "bravotv.com"
   - "eonline.com"
   - "nbcnews.com"
-  - "s-nbcnews.com"
-  - "nbcsports.com"
-  - "telemundo.com"
   - "peacocktv.com"
+  - "nbcsports.com"
+  - "s-nbcnews.com"
+  - "telemundo.com"
   - "eluniverso.com"
   - "usanetwork.com"
   - "universalkids.com"

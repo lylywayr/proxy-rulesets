@@ -1,6 +1,6 @@
 # NAME: Privacy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:46.041193+00:00
+# UPDATED: 2026-08-22T18:55:12.637025+00:00
 no_resolve: true
 domain_keyword_set:
   - "analytics."

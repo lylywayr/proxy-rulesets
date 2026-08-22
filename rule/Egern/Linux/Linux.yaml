@@ -1,6 +1,6 @@
 # NAME: Linux
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:39.422357+00:00
+# UPDATED: 2026-08-22T18:54:50.309936+00:00
 no_resolve: true
 domain_suffix_set:
   - "linux.org"

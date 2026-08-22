@@ -1,12 +1,12 @@
 # NAME: OnePlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:44.154406+00:00
+# UPDATED: 2026-08-22T18:55:06.726770+00:00
 no_resolve: true
 domain_suffix_set:
   - "h2os.com"
   - "oneplus.cn"
-  - "oneplus.com"
   - "oneplus.net"
+  - "oneplus.com"
   - "opstatics.com"
   - "oneplusbbs.com"
   - "oneplusmobile.com"

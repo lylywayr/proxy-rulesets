@@ -1,6 +1,6 @@
 # NAME: PikPak
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:45.501158+00:00
+# UPDATED: 2026-08-22T18:55:11.051782+00:00
 payload:
   - DOMAIN-SUFFIX,hub5pnc.sandai.net
   - DOMAIN-SUFFIX,hubciddata.sandai.net

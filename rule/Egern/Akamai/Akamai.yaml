@@ -1,10 +1,10 @@
 # NAME: Akamai
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:21.228511+00:00
+# UPDATED: 2026-08-22T18:10:58.232774+00:00
 no_resolve: true
 domain_suffix_set:
-  - "akamai.net"
   - "akamai.com"
+  - "akamai.net"
   - "akamaihd.net"
   - "akamaized.net"
   - "akamaiedge.net"

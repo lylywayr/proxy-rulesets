@@ -1,14 +1,14 @@
 # NAME: Pixiv
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:45.675628+00:00
+# UPDATED: 2026-08-22T18:55:11.741776+00:00
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 
 DOMAIN-SUFFIX,pixiv.me
 DOMAIN-SUFFIX,booth.pm
-DOMAIN-SUFFIX,pixiv.cat
+DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pximg.net
-DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pixiv.cat
 DOMAIN-SUFFIX,pixiv.co.jp

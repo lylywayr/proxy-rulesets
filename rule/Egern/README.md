@@ -47,7 +47,7 @@
 | 爱发电 | 生活与工具 | `2` | [规则](./Afdian/Afdian.yaml) | [说明](./Afdian/README.md) |
 | 法新社 | 生活与工具 | `2` | [规则](./AFP/AFP.yaml) | [说明](./AFP/README.md) |
 | 声网 | 生活与工具 | `3` | [规则](./Agora/Agora.yaml) | [说明](./Agora/README.md) |
-| AI | AI 服务 | `217` | [规则](./AI/AI.yaml) | [说明](./AI/README.md) |
+| AI | AI 服务 | `223` | [规则](./AI/AI.yaml) | [说明](./AI/README.md) |
 | 爱企查 | AI 服务 | `1` | [规则](./AiQiCha/AiQiCha.yaml) | [说明](./AiQiCha/README.md) |
 | 中国国航 | AI 服务 | `2` | [规则](./AirChina/AirChina.yaml) | [说明](./AirChina/README.md) |
 | AirWick | AI 服务 | `40` | [规则](./AirWick/AirWick.yaml) | [说明](./AirWick/README.md) |
@@ -144,14 +144,14 @@
 | 中国教育电视台 | 流媒体与内容 | `3` | [规则](./CETV/CETV.yaml) | [说明](./CETV/README.md) |
 | 广发银行 | 金融电商 | `4` | [规则](./CGB/CGB.yaml) | [说明](./CGB/README.md) |
 | 城通网盘 | 生活与工具 | `4` | [规则](./ChengTongWangPan/ChengTongWangPan.yaml) | [说明](./ChengTongWangPan/README.md) |
-| 中国大陆 | 中国大陆服务 | `117221` | [规则](./China/China.yaml) | [说明](./China/README.md) |
+| 中国大陆 | 中国大陆服务 | `117198` | [规则](./China/China.yaml) | [说明](./China/README.md) |
 | 中国 ASN | 中国大陆服务 | `1009` | [规则](./ChinaASN/ChinaASN.yaml) | [说明](./ChinaASN/README.md) |
 | 中国 DNS | 云与网络 | `110749` | [规则](./ChinaDNS/ChinaDNS.yaml) | [说明](./ChinaDNS/README.md) |
-| 中国 IP | AI 服务 | `11096` | [规则](./ChinaIPs/ChinaIPs.yaml) | [说明](./ChinaIPs/README.md) |
+| 中国 IP | AI 服务 | `11100` | [规则](./ChinaIPs/ChinaIPs.yaml) | [说明](./ChinaIPs/README.md) |
 | 中国 IP BGP | AI 服务 | `3916` | [规则](./ChinaIPsBGP/ChinaIPsBGP.yaml) | [说明](./ChinaIPsBGP/README.md) |
-| 中国大陆全量 | 中国大陆服务 | `12293` | [规则](./ChinaMax/ChinaMax.yaml) | [说明](./ChinaMax/README.md) |
+| 中国大陆全量 | 中国大陆服务 | `12296` | [规则](./ChinaMax/ChinaMax.yaml) | [说明](./ChinaMax/README.md) |
 | 中国大陆全量无 IP | 中国大陆服务 | `125` | [规则](./ChinaMaxNoIP/ChinaMaxNoIP.yaml) | [说明](./ChinaMaxNoIP/README.md) |
-| 中国大陆全量无媒体 | 流媒体与内容 | `12287` | [规则](./ChinaMaxNoMedia/ChinaMaxNoMedia.yaml) | [说明](./ChinaMaxNoMedia/README.md) |
+| 中国大陆全量无媒体 | 流媒体与内容 | `12290` | [规则](./ChinaMaxNoMedia/ChinaMaxNoMedia.yaml) | [说明](./ChinaMaxNoMedia/README.md) |
 | 中国媒体 | 中国大陆服务 | `440` | [规则](./ChinaMedia/ChinaMedia.yaml) | [说明](./ChinaMedia/README.md) |
 | 中国移动 | 中国大陆服务 | `36` | [规则](./ChinaMobile/ChinaMobile.yaml) | [说明](./ChinaMobile/README.md) |
 | 中国新闻 | 流媒体与内容 | `4` | [规则](./ChinaNews/ChinaNews.yaml) | [说明](./ChinaNews/README.md) |
@@ -208,7 +208,7 @@
 | 帝联网络 | 生活与工具 | `14` | [规则](./DiLianWangLuo/DiLianWangLuo.yaml) | [说明](./DiLianWangLuo/README.md) |
 | 钉钉 | 生活与工具 | `11` | [规则](./DingTalk/DingTalk.yaml) | [说明](./DingTalk/README.md) |
 | 丁香园 | 生活与工具 | `16` | [规则](./DingXiangYuan/DingXiangYuan.yaml) | [说明](./DingXiangYuan/README.md) |
-| 直连 | 隐私与基础分流 | `112055` | [规则](./Direct/Direct.yaml) | [说明](./Direct/README.md) |
+| 直连 | 隐私与基础分流 | `112028` | [规则](./Direct/Direct.yaml) | [说明](./Direct/README.md) |
 | Discord | 社交通信 | `29` | [规则](./Discord/Discord.yaml) | [说明](./Discord/README.md) |
 | DiscoveryPlus | 生活与工具 | `17` | [规则](./DiscoveryPlus/DiscoveryPlus.yaml) | [说明](./DiscoveryPlus/README.md) |
 | DiSiFanShi | 生活与工具 | `4` | [规则](./DiSiFanShi/DiSiFanShi.yaml) | [说明](./DiSiFanShi/README.md) |
@@ -478,7 +478,7 @@
 | Privacy | 隐私与基础分流 | `20` | [规则](./Privacy/Privacy.yaml) | [说明](./Privacy/README.md) |
 | PrivateTracker | 生活与工具 | `248` | [规则](./PrivateTracker/PrivateTracker.yaml) | [说明](./PrivateTracker/README.md) |
 | Protonmail | AI 服务 | `5` | [规则](./Protonmail/Protonmail.yaml) | [说明](./Protonmail/README.md) |
-| 代理 | 隐私与基础分流 | `27320` | [规则](./Proxy/Proxy.yaml) | [说明](./Proxy/README.md) |
+| 代理 | 隐私与基础分流 | `27334` | [规则](./Proxy/Proxy.yaml) | [说明](./Proxy/README.md) |
 | ProxyLite | 隐私与基础分流 | `982` | [规则](./ProxyLite/ProxyLite.yaml) | [说明](./ProxyLite/README.md) |
 | 邮储银行 | 金融电商 | `3` | [规则](./PSBC/PSBC.yaml) | [说明](./PSBC/README.md) |
 | Pubmatic | 生活与工具 | `1` | [规则](./Pubmatic/Pubmatic.yaml) | [说明](./Pubmatic/README.md) |

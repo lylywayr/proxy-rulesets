@@ -1,20 +1,20 @@
 # NAME: GoogleEarth
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:33.532990+00:00
+# UPDATED: 2026-08-22T18:54:31.556586+00:00
 no_resolve: true
 domain_suffix_set:
   - "kh.google.com"
-  - "khm.google.com"
   - "mw1.google.com"
-  - "khm2.google.com"
+  - "khm.google.com"
   - "khm0.google.com"
-  - "khm1.google.com"
   - "khm3.google.com"
-  - "earth.google.com"
+  - "khm2.google.com"
+  - "khm1.google.com"
   - "khmdb.google.com"
+  - "earth.google.com"
   - "khm.googleapis.com"
-  - "khm3.googleapis.com"
   - "khm1.googleapis.com"
+  - "khm3.googleapis.com"
   - "khm2.googleapis.com"
   - "khm0.googleapis.com"
   - "khmdb.googleapis.com"

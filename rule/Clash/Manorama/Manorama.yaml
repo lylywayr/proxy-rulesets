@@ -1,6 +1,6 @@
 # NAME: Manorama
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:40.101021+00:00
+# UPDATED: 2026-08-22T18:54:52.352611+00:00
 payload:
   - DOMAIN-SUFFIX,theman.in
   - DOMAIN-SUFFIX,vanitha.in
@@ -8,8 +8,8 @@ payload:
   - DOMAIN-SUFFIX,manorama.com
   - DOMAIN-SUFFIX,radiomango.fm
   - DOMAIN-SUFFIX,onmanorama.com
-  - DOMAIN-SUFFIX,vanithaveedu.com
   - DOMAIN-SUFFIX,manoramanews.com
+  - DOMAIN-SUFFIX,vanithaveedu.com
   - DOMAIN-SUFFIX,vanitaonline.com
   - DOMAIN-SUFFIX,manoramaonline.com
   - DOMAIN-SUFFIX,manoramayearbook.in

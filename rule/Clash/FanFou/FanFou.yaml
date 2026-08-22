@@ -1,8 +1,8 @@
 # NAME: FanFou
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:29.633198+00:00
+# UPDATED: 2026-08-22T18:54:19.403301+00:00
 payload:
-  - DOMAIN-SUFFIX,comum.cn
   - DOMAIN-SUFFIX,comox.cn
+  - DOMAIN-SUFFIX,comum.cn
   - DOMAIN-SUFFIX,mlj130.cn
   - DOMAIN-SUFFIX,ifanfou.cn

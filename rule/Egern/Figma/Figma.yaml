@@ -1,6 +1,6 @@
 # NAME: Figma
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:29.988987+00:00
+# UPDATED: 2026-08-22T18:54:21.129250+00:00
 no_resolve: true
 domain_suffix_set:
   - "figma.com"

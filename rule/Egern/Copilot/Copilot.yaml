@@ -1,6 +1,6 @@
 # NAME: Copilot
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:43:52.438164+00:00
+# UPDATED: 2026-08-22T18:40:04.333039+00:00
 no_resolve: true
 domain_set:
   - "api.msn.com"
@@ -31,29 +31,29 @@ domain_set:
 domain_suffix_set:
   - "sentry.io"
   - "auth0.com"
-  - "segment.io"
-  - "stripe.com"
   - "openai.com"
+  - "stripe.com"
+  - "segment.io"
   - "algolia.net"
   - "intercom.io"
   - "chatgpt.com"
   - "observeit.net"
-  - "oaistatic.com"
   - "identrust.com"
+  - "oaistatic.com"
   - "intercomcdn.com"
   - "launchdarkly.com"
   - "featuregates.org"
   - "githubcopilot.com"
   - "oaiusercontent.com"
-  - "host.livekit.cloud"
   - "turn.livekit.cloud"
+  - "host.livekit.cloud"
   - "openaicom.imgix.net"
   - "api.microsoftapp.net"
   - "chatgpt.livekit.cloud"
-  - "events.statsigapi.net"
   - "edgeservices.bing.com"
-  - "client-api.arkoselabs.com"
+  - "events.statsigapi.net"
   - "challenges.cloudflare.com"
+  - "client-api.arkoselabs.com"
   - "openaiapi-site.azureedge.net"
   - "bing-shopping.microsoft-falcon.io"
 domain_keyword_set:

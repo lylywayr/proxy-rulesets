@@ -1,6 +1,6 @@
 # NAME: Imgur
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:36.469260+00:00
+# UPDATED: 2026-08-22T18:54:40.192836+00:00
 no_resolve: true
 domain_suffix_set:
   - "imgur.com"

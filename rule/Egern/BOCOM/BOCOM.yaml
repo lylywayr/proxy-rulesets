@@ -1,11 +1,11 @@
 # NAME: BOCOM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:27.432576+00:00
+# UPDATED: 2026-08-22T18:11:15.023534+00:00
 no_resolve: true
 domain_suffix_set:
   - "bankcomm.com"
   - "95559.sh.cn"
   - "95559.com.cn"
+  - "bankcomm.com.tw"
   - "bankcomm.com.au"
   - "bankcomm.com.mo"
-  - "bankcomm.com.tw"

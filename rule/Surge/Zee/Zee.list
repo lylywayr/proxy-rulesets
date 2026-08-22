@@ -1,27 +1,27 @@
 # NAME: Zee
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:42.538257+00:00
+# UPDATED: 2026-08-22T19:00:13.770537+00:00
 # DOMAIN-SUFFIX: 22
 # TOTAL: 22
 
-DOMAIN-SUFFIX,bgr.in
 DOMAIN-SUFFIX,ind.sh
-DOMAIN-SUFFIX,zee.com
+DOMAIN-SUFFIX,bgr.in
 DOMAIN-SUFFIX,dnai.in
+DOMAIN-SUFFIX,zee.com
 DOMAIN-SUFFIX,india.com
 DOMAIN-SUFFIX,oncars.in
 DOMAIN-SUFFIX,zeebiz.com
 DOMAIN-SUFFIX,ekhindi.com
-DOMAIN-SUFFIX,wionews.com
 DOMAIN-SUFFIX,itripto.com
 DOMAIN-SUFFIX,zeenews.com
-DOMAIN-SUFFIX,earngeek.com
+DOMAIN-SUFFIX,wionews.com
 DOMAIN-SUFFIX,dnaindia.com
+DOMAIN-SUFFIX,earngeek.com
 DOMAIN-SUFFIX,prepsure.com
 DOMAIN-SUFFIX,yo1health.com
 DOMAIN-SUFFIX,careerfundas.com
-DOMAIN-SUFFIX,bollywoodlife.com
 DOMAIN-SUFFIX,thehealthsite.com
+DOMAIN-SUFFIX,bollywoodlife.com
 DOMAIN-SUFFIX,indiancolleges.com
 DOMAIN-SUFFIX,cricketcountry.com
 DOMAIN-SUFFIX,zeeentertainment.com

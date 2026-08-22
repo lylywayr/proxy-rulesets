@@ -1,14 +1,14 @@
 # NAME: ZDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:42.455978+00:00
+# UPDATED: 2026-08-22T19:00:13.586966+00:00
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 
 DOMAIN-SUFFIX,zdns.cn
 DOMAIN-SUFFIX,zdnscloud.cn
-DOMAIN-SUFFIX,zdnscloud.biz
 DOMAIN-SUFFIX,zdnscloud.com
 DOMAIN-SUFFIX,zdnscloud.net
+DOMAIN-SUFFIX,zdnscloud.biz
 DOMAIN-SUFFIX,zdnscloud.info
 DOMAIN-SUFFIX,zdns.net.cn
 DOMAIN-SUFFIX,zdns.org.cn

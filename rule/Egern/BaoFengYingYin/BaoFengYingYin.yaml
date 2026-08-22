@@ -1,13 +1,13 @@
 # NAME: BaoFengYingYin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:26.249516+00:00
+# UPDATED: 2026-08-22T18:11:11.875374+00:00
 no_resolve: true
 domain_suffix_set:
-  - "bfshow.cn"
   - "bfimg.com"
-  - "bjtndao.org"
-  - "baofeng.com"
+  - "bfshow.cn"
   - "baofeng.net"
+  - "baofeng.com"
+  - "bjtndao.org"
   - "stormshow.cn"
   - "baofeng.mobi"
   - "baofengtv.com"

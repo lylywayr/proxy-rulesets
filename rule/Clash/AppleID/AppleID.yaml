@@ -1,6 +1,6 @@
 # NAME: AppleID
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:25.067370+00:00
+# UPDATED: 2026-08-22T18:11:07.999172+00:00
 payload:
   - DOMAIN,appleid.apple.com
   - DOMAIN,appleid.cdn-apple.com

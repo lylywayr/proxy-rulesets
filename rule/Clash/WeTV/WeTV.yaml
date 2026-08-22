@@ -1,6 +1,6 @@
 # NAME: WeTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:40.240077+00:00
+# UPDATED: 2026-08-22T19:00:06.285630+00:00
 payload:
   - DOMAIN,wetv.qq.com
   - DOMAIN-SUFFIX,wetv.vip

@@ -1,5 +1,5 @@
 # NAME: Accuweather
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:17.042047+00:00
+# UPDATED: 2026-08-22T18:10:48.300292+00:00
 payload:
   - DOMAIN-SUFFIX,accuweather.com

@@ -1,6 +1,6 @@
 # NAME: Anonv
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:22.745937+00:00
+# UPDATED: 2026-08-22T18:11:02.275326+00:00
 payload:
-  - DOMAIN-SUFFIX,anon-v.lol
   - DOMAIN-SUFFIX,anon-v.com
+  - DOMAIN-SUFFIX,anon-v.lol

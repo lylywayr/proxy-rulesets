@@ -1,6 +1,6 @@
 # NAME: Synology
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:35.770107+00:00
+# UPDATED: 2026-08-22T18:59:52.550837+00:00
 no_resolve: true
 domain_set:
   - "d2f0395ykn6hxb.cloudfront.net"
@@ -8,17 +8,17 @@ domain_suffix_set:
   - "i234.me"
   - "myds.com"
   - "dscloud.me"
-  - "synology.cn"
-  - "dsmunas.net"
-  - "dsmunas.com"
   - "dsmunas.org"
+  - "dsmunas.com"
   - "dscloud.biz"
-  - "synology.me"
   - "synodns.com"
-  - "familyds.net"
-  - "synology.com"
+  - "synology.cn"
+  - "synology.me"
+  - "dsmunas.net"
   - "familyds.com"
   - "dscloud.mobi"
+  - "familyds.net"
+  - "synology.com"
   - "familyds.org"
   - "diskstation.me"
   - "quickconnect.to"

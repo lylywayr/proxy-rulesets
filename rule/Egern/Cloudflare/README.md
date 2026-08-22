@@ -9,7 +9,7 @@
 - 分类标识：`Cloudflare`
 - 当前客户端：`Egern`
 - 所属分组：[云与网络](../../../guide/groups/network.md)
-- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
+- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
 - 专题入口：
 - [云网络专题](../../../guide/topics/cloud-network.md)
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
@@ -52,7 +52,7 @@ Aggregated rules for Cloudflare, covering related domains, keywords, and network
 - Category ID: `Cloudflare`
 - Client: `Egern`
 - Group: `Network`
-- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
+- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Cloudflare/Cloudflare.yaml>
 

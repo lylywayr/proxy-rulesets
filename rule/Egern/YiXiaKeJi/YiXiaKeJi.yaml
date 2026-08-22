@@ -1,19 +1,19 @@
 # NAME: YiXiaKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:41.762336+00:00
+# UPDATED: 2026-08-22T19:00:11.883738+00:00
 no_resolve: true
 domain_suffix_set:
   - "xiaoka.tv"
   - "yixia.com"
-  - "vbbobo.com"
   - "vitamio.tv"
+  - "vbbobo.com"
+  - "vitamio.net"
+  - "miaokan.com"
+  - "huangka.com"
   - "vitamio.org"
   - "miaopai.com"
-  - "miaokan.com"
   - "vplayer.net"
-  - "huangka.com"
-  - "vitamio.net"
-  - "yixiatong.com"
+  - "iyuezhang.net"
   - "xiaokaxiu.com"
   - "weishipin.com"
-  - "iyuezhang.net"
+  - "yixiatong.com"

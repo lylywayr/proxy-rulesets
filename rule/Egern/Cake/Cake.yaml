@@ -1,6 +1,6 @@
 # NAME: Cake
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:28.053610+00:00
+# UPDATED: 2026-08-22T18:11:16.732953+00:00
 no_resolve: true
 domain_set:
   - "d1koerlbtsmkf8.cloudfront.net"

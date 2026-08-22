@@ -9,7 +9,7 @@
 - 分类标识：`Clubhouse`
 - 当前客户端：`Loon`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
-- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
+- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
 - 专题入口：
 - [社交通信专题](../../../guide/topics/social-communication.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for Clubhouse, covering related domains, keywords, and network 
 - Category ID: `Clubhouse`
 - Client: `Loon`
 - Group: `Social`
-- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
+- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Clubhouse/Clubhouse.list>
 

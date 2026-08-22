@@ -1,11 +1,11 @@
 # NAME: ABC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:16.831719+00:00
+# UPDATED: 2026-08-22T18:10:47.817530+00:00
 no_resolve: true
 domain_suffix_set:
   - "95599.cn"
-  - "openaboc.cn"
   - "abchina.com"
-  - "bscabank.com"
+  - "openaboc.cn"
   - "openaboc.com"
+  - "bscabank.com"
   - "openaboc.com.cn"

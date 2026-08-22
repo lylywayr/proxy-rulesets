@@ -1,6 +1,6 @@
 # NAME: LastFM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:38.726990+00:00
+# UPDATED: 2026-08-22T18:54:48.361908+00:00
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 29
 # TOTAL: 31
@@ -8,28 +8,28 @@
 DOMAIN,last.us11.list-manage.com
 DOMAIN,lastfm-img2.akamaized.net
 DOMAIN-SUFFIX,last.fm
-DOMAIN-SUFFIX,rfnva.tk
-DOMAIN-SUFFIX,tnjqk.tk
-DOMAIN-SUFFIX,jdw1v.tk
-DOMAIN-SUFFIX,bbfc1.tk
-DOMAIN-SUFFIX,kn5ak.tk
+DOMAIN-SUFFIX,bvuno.tk
+DOMAIN-SUFFIX,rmohl.tk
+DOMAIN-SUFFIX,bc9oa.tk
 DOMAIN-SUFFIX,pqqx2.tk
 DOMAIN-SUFFIX,wznka.tk
-DOMAIN-SUFFIX,cqyos.tk
-DOMAIN-SUFFIX,bc9oa.tk
-DOMAIN-SUFFIX,halkz.tk
-DOMAIN-SUFFIX,mwrel.tk
-DOMAIN-SUFFIX,itnnl.tk
-DOMAIN-SUFFIX,bvuno.tk
 DOMAIN-SUFFIX,kwcnn.tk
-DOMAIN-SUFFIX,rmohl.tk
-DOMAIN-SUFFIX,lastfm.de
-DOMAIN-SUFFIX,lastfm.ru
-DOMAIN-SUFFIX,lastfm.ph
-DOMAIN-SUFFIX,lastfm.es
-DOMAIN-SUFFIX,lastfm.eu
-DOMAIN-SUFFIX,lastfm.pl
+DOMAIN-SUFFIX,rfnva.tk
+DOMAIN-SUFFIX,kn5ak.tk
+DOMAIN-SUFFIX,mwrel.tk
+DOMAIN-SUFFIX,jdw1v.tk
+DOMAIN-SUFFIX,tnjqk.tk
+DOMAIN-SUFFIX,itnnl.tk
+DOMAIN-SUFFIX,cqyos.tk
+DOMAIN-SUFFIX,halkz.tk
+DOMAIN-SUFFIX,bbfc1.tk
 DOMAIN-SUFFIX,lastfm.cn
+DOMAIN-SUFFIX,lastfm.ru
+DOMAIN-SUFFIX,lastfm.eu
+DOMAIN-SUFFIX,lastfm.ph
+DOMAIN-SUFFIX,lastfm.pl
+DOMAIN-SUFFIX,lastfm.de
+DOMAIN-SUFFIX,lastfm.es
 DOMAIN-SUFFIX,ouchmonkey.com
 DOMAIN-SUFFIX,fuckyeahtfx.com
 DOMAIN-SUFFIX,oilofhaemony.com

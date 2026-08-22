@@ -1,18 +1,18 @@
 # NAME: Jetbrains
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:37.244159+00:00
+# UPDATED: 2026-08-22T18:54:42.598457+00:00
 no_resolve: true
 domain_suffix_set:
   - "grazie.ai"
   - "datalore.io"
-  - "intellij.net"
-  - "intellij.org"
-  - "jetbrains.ai"
   - "intellij.com"
+  - "intellij.org"
   - "jetbrains.io"
-  - "jetbrains.org"
+  - "intellij.net"
+  - "jetbrains.ai"
   - "jetbrains.com"
   - "jetbrains.net"
+  - "jetbrains.org"
   - "kotlinlang.org"
   - "jetbrains.team"
   - "kotlinconf.com"

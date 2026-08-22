@@ -9,7 +9,7 @@
 - 分类标识：`TelegramNL`
 - 当前客户端：`Clash`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
-- 本次更新时间：`2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
+- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
 - 专题入口：
 - 暂无
 
@@ -49,7 +49,7 @@ Aggregated rules for TelegramNL, covering related domains, keywords, and network
 - Category ID: `TelegramNL`
 - Client: `Clash`
 - Group: `Social`
-- Last updated: `2026-08-16 02:10:14 CST (UTC+8) / 2026-08-15 18:10:14 UTC`
+- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/TelegramNL/TelegramNL.yaml>
 

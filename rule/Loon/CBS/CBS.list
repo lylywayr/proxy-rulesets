@@ -1,12 +1,12 @@
 # NAME: CBS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:28.344608+00:00
+# UPDATED: 2026-08-22T18:11:18.591297+00:00
 # DOMAIN-SUFFIX: 34
 # USER-AGENT: 1
 # TOTAL: 35
 
-DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,cbs.com
+DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsig.net
@@ -17,22 +17,22 @@ DOMAIN-SUFFIX,cbsiam.com
 DOMAIN-SUFFIX,viacbs.com
 DOMAIN-SUFFIX,plutotv.net
 DOMAIN-SUFFIX,cbsnews.com
-DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,cbsstore.com
 DOMAIN-SUFFIX,cbsradio.com
-DOMAIN-SUFFIX,cbssvideo.com
+DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,cbsstatic.com
-DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,viacomcbs.com
-DOMAIN-SUFFIX,cbssports.com
 DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,cbssports.com
+DOMAIN-SUFFIX,cbssvideo.com
+DOMAIN-SUFFIX,viacomcbs.com
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbsistatic.com
 DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN-SUFFIX,mtvnservices.com
 DOMAIN-SUFFIX,paramountplus.com
-DOMAIN-SUFFIX,cbscorporation.com
 DOMAIN-SUFFIX,cbsinteractive.com
+DOMAIN-SUFFIX,cbscorporation.com
 DOMAIN-SUFFIX,cbspressexpress.com
 DOMAIN-SUFFIX,cbstelevisioncity.com
 DOMAIN-SUFFIX,viacomcbspressexpress.com

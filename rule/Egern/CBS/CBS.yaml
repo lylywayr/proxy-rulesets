@@ -1,10 +1,10 @@
 # NAME: CBS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:28.346238+00:00
+# UPDATED: 2026-08-22T18:11:18.591718+00:00
 no_resolve: true
 domain_suffix_set:
-  - "amlg.io"
   - "cbs.com"
+  - "amlg.io"
   - "pluto.tv"
   - "cbsi.com"
   - "cbsig.net"
@@ -15,22 +15,22 @@ domain_suffix_set:
   - "viacbs.com"
   - "plutotv.net"
   - "cbsnews.com"
-  - "showtime.com"
   - "cbsstore.com"
   - "cbsradio.com"
-  - "cbssvideo.com"
+  - "showtime.com"
   - "cbsstatic.com"
-  - "cbsivideo.com"
-  - "viacomcbs.com"
-  - "cbssports.com"
   - "paramount.com"
+  - "cbsivideo.com"
+  - "cbssports.com"
+  - "cbssvideo.com"
+  - "viacomcbs.com"
   - "cbsaavideo.com"
   - "cbsistatic.com"
   - "pplusstatic.com"
   - "mtvnservices.com"
   - "paramountplus.com"
-  - "cbscorporation.com"
   - "cbsinteractive.com"
+  - "cbscorporation.com"
   - "cbspressexpress.com"
   - "cbstelevisioncity.com"
   - "viacomcbspressexpress.com"

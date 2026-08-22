@@ -1,6 +1,6 @@
 # NAME: Shanling
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:33.602661+00:00
+# UPDATED: 2026-08-22T18:59:46.308667+00:00
 no_resolve: true
 domain_suffix_set:
   - "shanling.com"

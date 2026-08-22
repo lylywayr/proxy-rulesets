@@ -1,6 +1,6 @@
 # NAME: AppleProxy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:25.330580+00:00
+# UPDATED: 2026-08-22T18:11:08.656074+00:00
 payload:
   - DOMAIN,api-glb-sea.smoot.apple.com
   - DOMAIN,apple.comscoreresearch.com
@@ -32,11 +32,11 @@ payload:
   - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,digicert.com
-  - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,tv.apple.com
-  - DOMAIN-SUFFIX,ocsp.apple.com
   - DOMAIN-SUFFIX,apps.apple.com
+  - DOMAIN-SUFFIX,ocsp.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,hls.itunes.apple.com
   - DOMAIN-SUFFIX,hls-amt.itunes.apple.com

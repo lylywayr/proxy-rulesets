@@ -1,21 +1,21 @@
 # NAME: ZhiYinManKe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:42.922244+00:00
+# UPDATED: 2026-08-22T19:00:15.182339+00:00
 payload:
   - DOMAIN-SUFFIX,zymk.cn
   - DOMAIN-SUFFIX,mkzhan.cn
-  - DOMAIN-SUFFIX,mkzhan.com
+  - DOMAIN-SUFFIX,mkzcdn.com
   - DOMAIN-SUFFIX,mkzhan.net
   - DOMAIN-SUFFIX,mkpush.com
-  - DOMAIN-SUFFIX,mkzcdn.com
+  - DOMAIN-SUFFIX,mkzhan.com
   - DOMAIN-SUFFIX,mkdata.top
   - DOMAIN-SUFFIX,zymkcdn.com
-  - DOMAIN-SUFFIX,xiaoshuohui.net
   - DOMAIN-SUFFIX,51kanmanhua.com
-  - DOMAIN-SUFFIX,xiaomingtaiji.cc
+  - DOMAIN-SUFFIX,xiaoshuohui.net
   - DOMAIN-SUFFIX,xiaomingtaiji.cn
-  - DOMAIN-SUFFIX,xiaomingtaiji.com
+  - DOMAIN-SUFFIX,xiaomingtaiji.cc
   - DOMAIN-SUFFIX,xiaomingtaiji.net
+  - DOMAIN-SUFFIX,xiaomingtaiji.com
   - DOMAIN-SUFFIX,mkzhan.com.cn
   - DOMAIN-SUFFIX,xiaoshuohui.com.cn
   - DOMAIN-SUFFIX,xiaomingtaiji.com.cn

@@ -1,6 +1,6 @@
 # NAME: ShiNongZhiKe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:33.829608+00:00
+# UPDATED: 2026-08-22T18:59:46.812401+00:00
 payload:
   - DOMAIN-SUFFIX,senseagro.cn
   - DOMAIN-SUFFIX,senseagro.com

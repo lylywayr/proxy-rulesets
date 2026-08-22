@@ -1,6 +1,6 @@
 # NAME: Majsoul
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:40.023524+00:00
+# UPDATED: 2026-08-22T18:54:52.228553+00:00
 payload:
   - DOMAIN-SUFFIX,game.maj-soul.com
   - DOMAIN-SUFFIX,lb-sy.maj-soul.com

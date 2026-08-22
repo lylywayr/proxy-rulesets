@@ -1,8 +1,8 @@
 # NAME: Npmjs
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:00:43.663502+00:00
+# UPDATED: 2026-08-22T18:55:04.573281+00:00
 no_resolve: true
 domain_suffix_set:
-  - "npmjs.org"
   - "npmjs.com"
+  - "npmjs.org"
   - "npm.community"

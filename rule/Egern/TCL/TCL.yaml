@@ -1,6 +1,6 @@
 # NAME: TCL
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:36.081121+00:00
+# UPDATED: 2026-08-22T18:59:53.667373+00:00
 no_resolve: true
 domain_suffix_set:
   - "tcl.com"

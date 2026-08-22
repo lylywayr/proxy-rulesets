@@ -1,10 +1,10 @@
 # NAME: Python
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T19:03:32.088475+00:00
+# UPDATED: 2026-08-22T18:59:42.302284+00:00
 no_resolve: true
 domain_suffix_set:
-  - "pypi.io"
   - "pypa.io"
+  - "pypi.io"
   - "pypi.org"
   - "pycon.org"
   - "python.org"

@@ -1,6 +1,6 @@
 # NAME: AppleID
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:10:25.067743+00:00
+# UPDATED: 2026-08-22T18:11:07.999325+00:00
 no_resolve: true
 domain_set:
   - "appleid.apple.com"

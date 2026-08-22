@@ -1,6 +1,6 @@
 # NAME: DanDanZan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-15T18:43:52.984174+00:00
+# UPDATED: 2026-08-22T18:40:06.735836+00:00
 payload:
   - DOMAIN-SUFFIX,fjhps.com
   - DOMAIN-SUFFIX,czybjz.com
