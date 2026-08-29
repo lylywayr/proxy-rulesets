@@ -1,6 +1,6 @@
 # NAME: Chromecast
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:39:59.858405+00:00
+# UPDATED: 2026-08-29T20:31:36.577501+00:00
 no_resolve: true
 domain_keyword_set:
   - "pa.google"

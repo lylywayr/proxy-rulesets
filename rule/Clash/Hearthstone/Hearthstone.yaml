@@ -1,6 +1,6 @@
 # NAME: Hearthstone
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:54:34.105505+00:00
+# UPDATED: 2026-08-29T20:45:22.833424+00:00
 payload:
   - IP-CIDR,24.105.30.129/32
   - IP-CIDR,182.162.132.1/32

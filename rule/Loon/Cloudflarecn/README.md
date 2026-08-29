@@ -9,7 +9,7 @@
 - 分类标识：`Cloudflarecn`
 - 当前客户端：`Loon`
 - 所属分组：[云与网络](../../../guide/groups/network.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - [云网络专题](../../../guide/topics/cloud-network.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for Cloudflarecn, covering related domains, keywords, and netwo
 - Category ID: `Cloudflarecn`
 - Client: `Loon`
 - Group: `Network`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Cloudflarecn/Cloudflarecn.list>
 

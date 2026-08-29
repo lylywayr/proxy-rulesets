@@ -1,24 +1,24 @@
 # NAME: Himalaya
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:54:34.866605+00:00
+# UPDATED: 2026-08-29T20:45:23.702370+00:00
 no_resolve: true
 domain_suffix_set:
   - "xima.tv"
-  - "9nali.com"
   - "xmcdn.com"
+  - "9nali.com"
   - "zhishiu.com"
-  - "ximalaya.fm"
   - "ximalaya.tv"
-  - "zhishiv.com"
+  - "ximalaya.fm"
   - "zhishif.com"
-  - "himalaya.com"
+  - "zhishiv.com"
   - "zhishinn.com"
+  - "himalaya.com"
   - "ximalaya.com"
-  - "conchdate.com"
   - "himalaya.cool"
+  - "conchdate.com"
   - "soundconch.com"
-  - "qingxuetang.com"
   - "tableauxmly.com"
+  - "qingxuetang.com"
   - "ximalayadata.com"
 user_agent_set:
   - "Himalaya*"

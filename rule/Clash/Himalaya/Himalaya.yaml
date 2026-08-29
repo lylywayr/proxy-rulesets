@@ -1,22 +1,22 @@
 # NAME: Himalaya
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:54:34.866433+00:00
+# UPDATED: 2026-08-29T20:45:23.702226+00:00
 payload:
   - DOMAIN-SUFFIX,xima.tv
-  - DOMAIN-SUFFIX,9nali.com
   - DOMAIN-SUFFIX,xmcdn.com
+  - DOMAIN-SUFFIX,9nali.com
   - DOMAIN-SUFFIX,zhishiu.com
-  - DOMAIN-SUFFIX,ximalaya.fm
   - DOMAIN-SUFFIX,ximalaya.tv
-  - DOMAIN-SUFFIX,zhishiv.com
+  - DOMAIN-SUFFIX,ximalaya.fm
   - DOMAIN-SUFFIX,zhishif.com
-  - DOMAIN-SUFFIX,himalaya.com
+  - DOMAIN-SUFFIX,zhishiv.com
   - DOMAIN-SUFFIX,zhishinn.com
+  - DOMAIN-SUFFIX,himalaya.com
   - DOMAIN-SUFFIX,ximalaya.com
-  - DOMAIN-SUFFIX,conchdate.com
   - DOMAIN-SUFFIX,himalaya.cool
+  - DOMAIN-SUFFIX,conchdate.com
   - DOMAIN-SUFFIX,soundconch.com
-  - DOMAIN-SUFFIX,qingxuetang.com
   - DOMAIN-SUFFIX,tableauxmly.com
+  - DOMAIN-SUFFIX,qingxuetang.com
   - DOMAIN-SUFFIX,ximalayadata.com
   - USER-AGENT,Himalaya*

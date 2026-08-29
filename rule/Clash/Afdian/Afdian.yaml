@@ -1,6 +1,6 @@
 # NAME: Afdian
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:10:51.360999+00:00
+# UPDATED: 2026-08-29T20:04:00.980688+00:00
 payload:
   - DOMAIN-SUFFIX,afdian.net
   - DOMAIN-SUFFIX,afdiancdn.com

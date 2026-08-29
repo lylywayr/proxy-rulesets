@@ -1,27 +1,27 @@
 # NAME: Rarbg
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:59:43.659561+00:00
+# UPDATED: 2026-08-29T20:50:29.946634+00:00
 no_resolve: true
 domain_suffix_set:
+  - "rarbg.me"
   - "rarbg.to"
   - "rarbg.is"
-  - "rarbg.me"
   - "dyncdn.me"
-  - "rarbgs.com"
   - "rarbg.link"
+  - "rarbgs.com"
   - "rarbggo.org"
   - "rarbgto.org"
+  - "rarbgget.org"
   - "rarbgway.org"
   - "rarbgprx.org"
-  - "rarbgget.org"
-  - "rarbgproxy.org"
   - "proxyrarbg.org"
-  - "rarbgmirror.com"
+  - "rarbgproxy.org"
   - "rarbgmirror.org"
   - "rarbgmirror.xyz"
   - "rarbgaccess.org"
-  - "rarbgunblock.com"
+  - "rarbgmirror.com"
   - "rarbgunblock.org"
+  - "rarbgunblock.com"
   - "rarbgaccessed.org"
   - "rarbg.unblocked.vc"
   - "rarbg.bypassed.org"

@@ -1,6 +1,6 @@
 # NAME: YiXiaKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T19:00:11.882999+00:00
+# UPDATED: 2026-08-29T20:50:52.187731+00:00
 # DOMAIN-SUFFIX: 14
 # TOTAL: 14
 
@@ -8,13 +8,13 @@ DOMAIN-SUFFIX,xiaoka.tv
 DOMAIN-SUFFIX,yixia.com
 DOMAIN-SUFFIX,vitamio.tv
 DOMAIN-SUFFIX,vbbobo.com
+DOMAIN-SUFFIX,vplayer.net
+DOMAIN-SUFFIX,vitamio.org
 DOMAIN-SUFFIX,vitamio.net
 DOMAIN-SUFFIX,miaokan.com
 DOMAIN-SUFFIX,huangka.com
-DOMAIN-SUFFIX,vitamio.org
 DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,vplayer.net
-DOMAIN-SUFFIX,iyuezhang.net
-DOMAIN-SUFFIX,xiaokaxiu.com
 DOMAIN-SUFFIX,weishipin.com
+DOMAIN-SUFFIX,xiaokaxiu.com
 DOMAIN-SUFFIX,yixiatong.com
+DOMAIN-SUFFIX,iyuezhang.net

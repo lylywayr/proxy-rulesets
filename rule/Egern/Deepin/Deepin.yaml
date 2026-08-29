@@ -1,12 +1,12 @@
 # NAME: Deepin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:40:07.306699+00:00
+# UPDATED: 2026-08-29T20:31:45.784829+00:00
 no_resolve: true
 domain_suffix_set:
-  - "deepin.cn"
   - "deepin.io"
-  - "deepin.com"
+  - "deepin.cn"
   - "deepin.org"
-  - "chinauos.com"
+  - "deepin.com"
   - "linglong.dev"
+  - "chinauos.com"
   - "uniontech.com"

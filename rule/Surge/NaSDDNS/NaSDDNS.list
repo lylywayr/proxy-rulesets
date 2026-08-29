@@ -1,6 +1,6 @@
 # NAME: NaSDDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:55:00.702672+00:00
+# UPDATED: 2026-08-29T20:45:50.797250+00:00
 # DOMAIN-SUFFIX: 32
 # DOMAIN-KEYWORD: 1
 # IP-CIDR: 13
@@ -13,20 +13,20 @@ DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,tpddns.cn
 DOMAIN-SUFFIX,dnsapi.cn
-DOMAIN-SUFFIX,nat123.com
 DOMAIN-SUFFIX,dyndns.org
-DOMAIN-SUFFIX,duckdns.org
+DOMAIN-SUFFIX,nat123.com
 DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,dns-dns.com
 DOMAIN-SUFFIX,plex.direct
-DOMAIN-SUFFIX,myddns.rocks
 DOMAIN-SUFFIX,ddnsfree.com
-DOMAIN-SUFFIX,changeip.com
 DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,myddns.rocks
+DOMAIN-SUFFIX,changeip.com
 DOMAIN-SUFFIX,netdata.cloud
-DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,api.nn.ci
 DOMAIN-SUFFIX,api.ipify.org

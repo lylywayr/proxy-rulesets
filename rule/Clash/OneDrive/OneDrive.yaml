@@ -1,6 +1,6 @@
 # NAME: OneDrive
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:55:06.598562+00:00
+# UPDATED: 2026-08-29T20:45:55.484295+00:00
 payload:
   - DOMAIN-SUFFIX,1drv.ms
   - DOMAIN-SUFFIX,1drv.com

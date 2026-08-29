@@ -1,6 +1,6 @@
 # NAME: Xbox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T19:00:08.584087+00:00
+# UPDATED: 2026-08-29T20:50:50.249597+00:00
 payload:
   - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -10,41 +10,41 @@ payload:
   - DOMAIN,store-images.s-microsoft.com
   - DOMAIN-SUFFIX,xbox
   - DOMAIN-SUFFIX,xbx.lv
-  - DOMAIN-SUFFIX,xbox.eu
   - DOMAIN-SUFFIX,xbox.co
+  - DOMAIN-SUFFIX,xbox.eu
+  - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,doom.com
   - DOMAIN-SUFFIX,xbox.org
-  - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,forza.net
-  - DOMAIN-SUFFIX,xbox360.co
-  - DOMAIN-SUFFIX,xboxone.co
-  - DOMAIN-SUFFIX,beth.games
-  - DOMAIN-SUFFIX,xbox360.eu
-  - DOMAIN-SUFFIX,xboxab.com
-  - DOMAIN-SUFFIX,xboxone.eu
-  - DOMAIN-SUFFIX,xboxab.net
   - DOMAIN-SUFFIX,mojang.com
+  - DOMAIN-SUFFIX,xbox360.co
+  - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,xbox360.eu
+  - DOMAIN-SUFFIX,beth.games
+  - DOMAIN-SUFFIX,xboxab.net
+  - DOMAIN-SUFFIX,xboxone.eu
+  - DOMAIN-SUFFIX,xboxone.co
   - DOMAIN-SUFFIX,xbox360.com
   - DOMAIN-SUFFIX,xboxone.com
-  - DOMAIN-SUFFIX,xbox360.org
   - DOMAIN-SUFFIX,forzarc.com
   - DOMAIN-SUFFIX,xboxlive.cn
-  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,xbox360.org
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,bethsoft.com
   - DOMAIN-SUFFIX,bethesda.net
+  - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,orithegame.com
+  - DOMAIN-SUFFIX,xboxservice.com
+  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,callersbane.com
   - DOMAIN-SUFFIX,xboxstudios.com
-  - DOMAIN-SUFFIX,asobostudio.com
-  - DOMAIN-SUFFIX,xboxservice.com
   - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,elderscrolls.com
   - DOMAIN-SUFFIX,xboxgamepass.com
   - DOMAIN-SUFFIX,minecraftshop.com
-  - DOMAIN-SUFFIX,tellmewhygame.com
   - DOMAIN-SUFFIX,msgamestudios.com
+  - DOMAIN-SUFFIX,tellmewhygame.com
   - DOMAIN-SUFFIX,xboxgamestudios.com
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,flightsimulator.com

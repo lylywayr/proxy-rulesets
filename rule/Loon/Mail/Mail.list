@@ -1,6 +1,6 @@
 # NAME: Mail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:54:51.801779+00:00
+# UPDATED: 2026-08-29T20:45:42.555506+00:00
 # DOMAIN: 9
 # DOMAIN-SUFFIX: 3
 # TOTAL: 12
@@ -15,5 +15,5 @@ DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
 DOMAIN-SUFFIX,m.hotmail.com
-DOMAIN-SUFFIX,imap.yandex.com
 DOMAIN-SUFFIX,smtp.yandex.com
+DOMAIN-SUFFIX,imap.yandex.com

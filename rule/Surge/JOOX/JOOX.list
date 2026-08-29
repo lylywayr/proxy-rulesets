@@ -1,6 +1,6 @@
 # NAME: JOOX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:54:44.111758+00:00
+# UPDATED: 2026-08-29T20:45:34.011758+00:00
 # DOMAIN-SUFFIX: 3
 # DOMAIN-KEYWORD: 1
 # USER-AGENT: 2
@@ -8,8 +8,8 @@
 # TOTAL: 8
 
 DOMAIN-SUFFIX,joox.com
-DOMAIN-SUFFIX,sanook.com
 DOMAIN-SUFFIX,i-joox.com
+DOMAIN-SUFFIX,sanook.com
 DOMAIN-KEYWORD,jooxweb-api
 USER-AGENT,JOOX*
 USER-AGENT,WeMusic*

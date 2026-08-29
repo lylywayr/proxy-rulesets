@@ -1,6 +1,6 @@
 # NAME: YouZan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T19:00:12.805031+00:00
+# UPDATED: 2026-08-29T20:50:52.986447+00:00
 no_resolve: true
 domain_suffix_set:
   - "yzcdn.cn"

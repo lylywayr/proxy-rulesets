@@ -1,24 +1,24 @@
 # NAME: FangZhengDianZi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:54:19.528261+00:00
+# UPDATED: 2026-08-29T20:45:07.750098+00:00
 no_resolve: true
 domain_suffix_set:
   - "fzyun.cn"
   - "fzyun.net"
-  - "fzdzyun.cn"
   - "w2press.cn"
-  - "cloudpub.cn"
+  - "fzdzyun.cn"
   - "fzdzyun.com"
+  - "cloudpub.cn"
   - "founderss.cn"
   - "founderfx.cn"
   - "cloudpress.cn"
   - "study-cloud.cn"
-  - "newaircloud.com"
-  - "wisestcloud.com"
   - "study-cloud.com"
+  - "newaircloud.com"
   - "foundertype.com"
-  - "fangzhengshufa.com"
+  - "wisestcloud.com"
   - "xiezixiansheng.com"
-  - "fzdzyun.com.cn"
+  - "fangzhengshufa.com"
   - "founder.com.cn"
+  - "fzdzyun.com.cn"
   - "founderfx.com.cn"

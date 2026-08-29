@@ -1,6 +1,6 @@
 # NAME: Dandanplay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:40:06.610187+00:00
+# UPDATED: 2026-08-29T20:31:43.568483+00:00
 payload:
   - DOMAIN-SUFFIX,acplay.net
   - DOMAIN-SUFFIX,dandanplay.com

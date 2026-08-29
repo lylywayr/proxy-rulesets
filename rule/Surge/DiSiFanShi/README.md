@@ -9,7 +9,7 @@
 - 分类标识：`DiSiFanShi`
 - 当前客户端：`Surge`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for DiSiFanShi, covering related domains, keywords, and network
 - Category ID: `DiSiFanShi`
 - Client: `Surge`
 - Group: `Lifestyle`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/DiSiFanShi/DiSiFanShi.list>
 

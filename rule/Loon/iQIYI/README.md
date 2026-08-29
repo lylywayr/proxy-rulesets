@@ -9,7 +9,7 @@
 - 分类标识：`iQIYI`
 - 当前客户端：`Loon`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - 暂无
 
@@ -52,7 +52,7 @@ Aggregated rules for iQIYI, covering related domains, keywords, and network targ
 - Category ID: `iQIYI`
 - Client: `Loon`
 - Group: `Mainland`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/iQIYI/iQIYI.list>
 

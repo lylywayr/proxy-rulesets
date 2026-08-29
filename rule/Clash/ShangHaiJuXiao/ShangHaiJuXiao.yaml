@@ -1,9 +1,9 @@
 # NAME: ShangHaiJuXiao
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:59:46.191597+00:00
+# UPDATED: 2026-08-29T20:50:32.061275+00:00
 payload:
   - DOMAIN-SUFFIX,mvad.com
-  - DOMAIN-SUFFIX,mediav.com
   - DOMAIN-SUFFIX,mdvdns.com
+  - DOMAIN-SUFFIX,mediav.com
   - DOMAIN-SUFFIX,bubuying.net
   - DOMAIN-SUFFIX,kuaishuru.net

@@ -1,6 +1,6 @@
 # NAME: Supercell
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:59:52.408979+00:00
+# UPDATED: 2026-08-29T20:50:37.421852+00:00
 payload:
   - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,brawlstarsgame.com

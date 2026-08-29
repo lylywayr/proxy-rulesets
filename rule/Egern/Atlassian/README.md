@@ -9,7 +9,7 @@
 - 分类标识：`Atlassian`
 - 当前客户端：`Egern`
 - 所属分组：[开发者平台](../../../guide/groups/developer.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - [开发者栈专题](../../../guide/topics/developer-stack.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for Atlassian, covering related domains, keywords, and network 
 - Category ID: `Atlassian`
 - Client: `Egern`
 - Group: `Developer`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Atlassian/Atlassian.yaml>
 

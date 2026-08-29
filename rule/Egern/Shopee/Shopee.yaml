@@ -1,26 +1,26 @@
 # NAME: Shopee
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:59:47.129934+00:00
+# UPDATED: 2026-08-29T20:50:32.854654+00:00
 no_resolve: true
 domain_suffix_set:
   - "shp.ee"
   - "shopee.ph"
-  - "shopee.cn"
   - "shopee.fr"
-  - "shopee.id"
-  - "shopee.es"
   - "shopee.cl"
+  - "shopee.in"
   - "shopee.tw"
+  - "shopee.es"
+  - "shopee.sg"
+  - "shopee.id"
   - "shopee.vn"
   - "shopee.io"
-  - "shopee.sg"
-  - "shopee.in"
+  - "shopee.cn"
   - "shopee.com"
   - "shopeesz.com"
   - "shopeemobile.com"
-  - "shopee.co.id"
   - "shopee.co.th"
-  - "shopee.com.co"
-  - "shopee.com.mx"
+  - "shopee.co.id"
   - "shopee.com.my"
+  - "shopee.com.mx"
   - "shopee.com.br"
+  - "shopee.com.co"

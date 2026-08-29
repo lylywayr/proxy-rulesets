@@ -9,7 +9,7 @@
 - 分类标识：`CNN`
 - 当前客户端：`Egern`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for CNN, covering related domains, keywords, and network target
 - Category ID: `CNN`
 - Client: `Egern`
 - Group: `Mainland`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/CNN/CNN.yaml>
 

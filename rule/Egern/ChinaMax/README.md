@@ -9,20 +9,20 @@
 - 分类标识：`ChinaMax`
 - 当前客户端：`Egern`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`12296`
+- 总数：`12586`
 - `DOMAIN-SUFFIX`: 51
 - `DOMAIN-KEYWORD`: 13
 - `USER-AGENT`: 65
 - `PROCESS-NAME`: 12
 - `IP-ASN`: 1
-- `IP-CIDR`: 8190
-- `IP-CIDR6`: 3976
+- `IP-CIDR`: 8244
+- `IP-CIDR6`: 4212
 
 ### 使用说明
 
@@ -54,7 +54,7 @@ Aggregated rules for ChinaMax, covering related domains, keywords, and network t
 - Category ID: `ChinaMax`
 - Client: `Egern`
 - Group: `Mainland`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaMax/ChinaMax.yaml>
 

@@ -1,6 +1,6 @@
 # NAME: AnTianKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:11:02.577357+00:00
+# UPDATED: 2026-08-29T20:04:10.933999+00:00
 # DOMAIN-SUFFIX: 11
 # TOTAL: 11
 
@@ -8,9 +8,9 @@ DOMAIN-SUFFIX,antiy.cn
 DOMAIN-SUFFIX,antiy.com
 DOMAIN-SUFFIX,avlyun.cn
 DOMAIN-SUFFIX,avlsec.com
+DOMAIN-SUFFIX,avlyun.org
 DOMAIN-SUFFIX,avlyun.com
 DOMAIN-SUFFIX,avlyun.net
-DOMAIN-SUFFIX,avlyun.org
 DOMAIN-SUFFIX,avlinsight.com
 DOMAIN-SUFFIX,antiycloud.com
 DOMAIN-SUFFIX,antiy.net.cn

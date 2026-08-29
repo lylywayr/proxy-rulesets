@@ -1,6 +1,6 @@
 # NAME: XiamiMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T19:00:08.777347+00:00
+# UPDATED: 2026-08-29T20:50:50.417708+00:00
 payload:
   - DOMAIN-SUFFIX,xiami.fm
   - DOMAIN-SUFFIX,xiami.com

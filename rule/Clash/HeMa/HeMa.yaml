@@ -1,16 +1,16 @@
 # NAME: HeMa
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:54:34.235047+00:00
+# UPDATED: 2026-08-29T20:45:22.987869+00:00
 payload:
   - DOMAIN-SUFFIX,rexpos.cn
   - DOMAIN-SUFFIX,hemaapi.cn
   - DOMAIN-SUFFIX,hemaos.com
   - DOMAIN-SUFFIX,rextech.cn
-  - DOMAIN-SUFFIX,hemaopen.cn
-  - DOMAIN-SUFFIX,marioin.com
   - DOMAIN-SUFFIX,hemamax.com
-  - DOMAIN-SUFFIX,marioall.com
-  - DOMAIN-SUFFIX,shyhhema.com
-  - DOMAIN-SUFFIX,hemashare.cn
+  - DOMAIN-SUFFIX,marioin.com
+  - DOMAIN-SUFFIX,hemaopen.cn
   - DOMAIN-SUFFIX,mariowap.com
+  - DOMAIN-SUFFIX,hemashare.cn
+  - DOMAIN-SUFFIX,shyhhema.com
+  - DOMAIN-SUFFIX,marioall.com
   - DOMAIN-SUFFIX,freshhema.com

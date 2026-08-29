@@ -9,7 +9,7 @@
 - 分类标识：`Dropbox`
 - 当前客户端：`Loon`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - [办公协作专题](../../../guide/topics/office-collaboration.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for Dropbox, covering related domains, keywords, and network ta
 - Category ID: `Dropbox`
 - Client: `Loon`
 - Group: `Office`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Dropbox/Dropbox.list>
 

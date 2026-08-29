@@ -9,7 +9,7 @@
 - 分类标识：`XiaoMi`
 - 当前客户端：`Egern`
 - 所属分组：[品牌与硬件](../../../guide/groups/brands.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - 暂无
 
@@ -50,7 +50,7 @@ Aggregated rules for XiaoMi, covering related domains, keywords, and network tar
 - Category ID: `XiaoMi`
 - Client: `Egern`
 - Group: `Brands`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/XiaoMi/XiaoMi.yaml>
 

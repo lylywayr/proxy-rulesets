@@ -1,6 +1,6 @@
 # NAME: Dedao
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:40:07.163859+00:00
+# UPDATED: 2026-08-29T20:31:45.568559+00:00
 payload:
   - DOMAIN-SUFFIX,sao.cn
   - DOMAIN-SUFFIX,biji.com

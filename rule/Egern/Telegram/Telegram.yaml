@@ -1,6 +1,6 @@
 # NAME: Telegram
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:59:54.540827+00:00
+# UPDATED: 2026-08-29T20:50:39.094653+00:00
 no_resolve: true
 domain_suffix_set:
   - "t.me"
@@ -13,11 +13,11 @@ domain_suffix_set:
   - "telega.one"
   - "contest.com"
   - "telegram.me"
-  - "tdesktop.com"
-  - "telegram.org"
-  - "comments.app"
   - "telegram.dog"
+  - "comments.app"
+  - "telegram.org"
   - "fragment.com"
+  - "tdesktop.com"
   - "toncenter.com"
   - "telegram.space"
   - "quiz.directory"

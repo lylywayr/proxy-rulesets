@@ -1,6 +1,6 @@
 # NAME: Peacock
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:55:10.460387+00:00
+# UPDATED: 2026-08-29T20:46:00.271561+00:00
 payload:
   - DOMAIN-SUFFIX,peacocktv.com
   - USER-AGENT,PeacockMobile*

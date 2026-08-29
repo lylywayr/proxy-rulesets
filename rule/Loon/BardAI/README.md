@@ -9,7 +9,7 @@
 - 分类标识：`BardAI`
 - 当前客户端：`Loon`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
@@ -50,7 +50,7 @@ Aggregated rules for BardAI, covering related domains, keywords, and network tar
 - Category ID: `BardAI`
 - Client: `Loon`
 - Group: `Ai`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BardAI/BardAI.list>
 

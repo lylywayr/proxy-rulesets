@@ -1,6 +1,6 @@
 # NAME: TeraBox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:59:55.694046+00:00
+# UPDATED: 2026-08-29T20:50:39.993720+00:00
 no_resolve: true
 domain_suffix_set:
   - "terabox.com"

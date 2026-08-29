@@ -1,14 +1,14 @@
 # NAME: TianYaForum
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:59:56.771970+00:00
+# UPDATED: 2026-08-29T20:50:40.925031+00:00
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 
 DOMAIN-SUFFIX,hi114.cn
 DOMAIN-SUFFIX,tianya.cn
 DOMAIN-SUFFIX,tysurl.com
-DOMAIN-SUFFIX,hainan.net
 DOMAIN-SUFFIX,hainan.com
+DOMAIN-SUFFIX,hainan.net
 DOMAIN-SUFFIX,gz12301.com
 DOMAIN-SUFFIX,tianyaui.com
 DOMAIN-SUFFIX,laibafile.cn

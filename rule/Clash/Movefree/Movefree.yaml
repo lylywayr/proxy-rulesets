@@ -1,11 +1,11 @@
 # NAME: Movefree
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:54:59.475549+00:00
+# UPDATED: 2026-08-29T20:45:49.639796+00:00
 payload:
   - DOMAIN-SUFFIX,movefree.cn
   - DOMAIN-SUFFIX,movefrees.com
   - DOMAIN-SUFFIX,move-free.net
-  - DOMAIN-SUFFIX,schiffvitamins.com
   - DOMAIN-SUFFIX,movefreeoffers.com
+  - DOMAIN-SUFFIX,schiffvitamins.com
   - DOMAIN-SUFFIX,movefreerewards.com
   - DOMAIN-SUFFIX,keepmovingwithmovefree.com

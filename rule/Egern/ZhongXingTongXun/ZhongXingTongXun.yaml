@@ -1,6 +1,6 @@
 # NAME: ZhongXingTongXun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T19:00:15.788105+00:00
+# UPDATED: 2026-08-29T20:50:57.076507+00:00
 no_resolve: true
 domain_suffix_set:
   - "zte.net"
@@ -11,10 +11,10 @@ domain_suffix_set:
   - "ztems.com"
   - "nubia.mobi"
   - "ztemall.com"
-  - "ztehotel.com"
   - "ztehotel.net"
   - "redmagic.com"
   - "zxingyun.com"
+  - "ztehotel.com"
   - "ztedevice.com"
   - "ztedevices.com"
   - "zte.com.cn"

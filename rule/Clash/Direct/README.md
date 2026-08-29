@@ -9,16 +9,16 @@
 - 分类标识：`Direct`
 - 当前客户端：`Clash`
 - 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
-- 本次更新时间：`2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`112064`
+- 总数：`111917`
 - `DOMAIN`: 432
-- `DOMAIN-SUFFIX`: 111556
+- `DOMAIN-SUFFIX`: 111409
 - `DOMAIN-KEYWORD`: 36
 - `DOMAIN-REGEX`: 3
 - `USER-AGENT`: 1
@@ -57,7 +57,7 @@ General direct-routing rules.
 - Category ID: `Direct`
 - Client: `Clash`
 - Group: `Security`
-- Last updated: `2026-08-23 02:10:43 CST (UTC+8) / 2026-08-22 18:10:43 UTC`
+- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Direct/Direct.yaml>
 

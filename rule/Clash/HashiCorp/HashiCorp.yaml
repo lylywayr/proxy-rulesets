@@ -1,12 +1,12 @@
 # NAME: HashiCorp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:54:33.255254+00:00
+# UPDATED: 2026-08-29T20:45:21.659948+00:00
 payload:
-  - DOMAIN-SUFFIX,consul.io
   - DOMAIN-SUFFIX,packer.io
+  - DOMAIN-SUFFIX,consul.io
   - DOMAIN-SUFFIX,terraform.io
   - DOMAIN-SUFFIX,hashicorp.com
   - DOMAIN-SUFFIX,vagrantup.com
-  - DOMAIN-SUFFIX,nomadproject.io
   - DOMAIN-SUFFIX,vaultproject.io
+  - DOMAIN-SUFFIX,nomadproject.io
   - DOMAIN-SUFFIX,vagrantcloud.com

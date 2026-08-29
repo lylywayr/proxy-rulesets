@@ -1,6 +1,6 @@
 # NAME: DigiCert
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:40:08.619401+00:00
+# UPDATED: 2026-08-29T20:31:47.265646+00:00
 payload:
   - DOMAIN-SUFFIX,thawte.fr
   - DOMAIN-SUFFIX,thawte.de
@@ -8,9 +8,9 @@ payload:
   - DOMAIN-SUFFIX,thawte.com
   - DOMAIN-SUFFIX,digicert.cn
   - DOMAIN-SUFFIX,freessl.com
+  - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,rapidssl.com
   - DOMAIN-SUFFIX,geotrust.com
-  - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,digicert-cn.com
   - DOMAIN-SUFFIX,public-trust.com
   - DOMAIN-SUFFIX,quovadisglobal.com

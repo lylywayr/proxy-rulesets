@@ -1,6 +1,6 @@
 # NAME: TapTap
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-22T18:59:53.546236+00:00
+# UPDATED: 2026-08-29T20:50:38.328025+00:00
 no_resolve: true
 domain_suffix_set:
   - "tap.io"
