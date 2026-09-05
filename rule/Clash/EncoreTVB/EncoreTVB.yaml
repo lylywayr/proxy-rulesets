@@ -1,6 +1,6 @@
 # NAME: EncoreTVB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:06.766572+00:00
+# UPDATED: 2026-09-05T20:30:22.746693+00:00
 payload:
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN,content.jwplatform.com

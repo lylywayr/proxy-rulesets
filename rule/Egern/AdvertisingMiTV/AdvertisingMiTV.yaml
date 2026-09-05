@@ -1,6 +1,6 @@
 # NAME: AdvertisingMiTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:04:00.542245+00:00
+# UPDATED: 2026-09-05T19:37:39.682728+00:00
 no_resolve: true
 domain_set:
   - "519332da.rtc.youme.im"

@@ -9,18 +9,18 @@
 - 分类标识：`China`
 - 当前客户端：`Clash`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
 ### 规则统计
 
-- 总数：`121434`
+- 总数：`121103`
 - `DOMAIN`: 403
-- `DOMAIN-SUFFIX`: 111377
+- `DOMAIN-SUFFIX`: 111075
 - `DOMAIN-REGEX`: 3
-- `IP-CIDR`: 6223
-- `IP-CIDR6`: 3428
+- `IP-CIDR`: 6229
+- `IP-CIDR6`: 3393
 
 ### 使用说明
 
@@ -56,7 +56,7 @@ China mainland service domains and networks.
 - Category ID: `China`
 - Client: `Clash`
 - Group: `Mainland`
-- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/China/China.yaml>
 

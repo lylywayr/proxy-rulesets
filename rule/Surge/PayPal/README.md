@@ -9,7 +9,7 @@
 - 分类标识：`PayPal`
 - 当前客户端：`Surge`
 - 所属分组：[金融电商](../../../guide/groups/finance.md)
-- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - 专题入口：
 - [金融电商专题](../../../guide/topics/finance-commerce.md)
 
@@ -50,7 +50,7 @@ Aggregated rules for PayPal, covering related domains, keywords, and network tar
 - Category ID: `PayPal`
 - Client: `Surge`
 - Group: `Finance`
-- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/PayPal/PayPal.list>
 

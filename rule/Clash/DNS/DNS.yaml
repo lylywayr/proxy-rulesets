@@ -1,6 +1,6 @@
 # NAME: DNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:00.905722+00:00
+# UPDATED: 2026-09-05T20:30:21.136462+00:00
 payload:
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   - DOMAIN,8888.google

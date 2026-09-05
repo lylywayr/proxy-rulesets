@@ -1,6 +1,6 @@
 # NAME: HibyMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:23.433670+00:00
+# UPDATED: 2026-09-05T20:30:44.445503+00:00
 payload:
   - DOMAIN-SUFFIX,hiby.cd
   - DOMAIN-SUFFIX,hiby.com

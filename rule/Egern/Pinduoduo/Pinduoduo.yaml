@@ -1,8 +1,8 @@
 # NAME: Pinduoduo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:46:00.971633+00:00
+# UPDATED: 2026-09-05T20:30:55.675070+00:00
 no_resolve: true
 domain_suffix_set:
   - "pddpic.com"
-  - "pinduoduo.com"
   - "yangkeduo.com"
+  - "pinduoduo.com"

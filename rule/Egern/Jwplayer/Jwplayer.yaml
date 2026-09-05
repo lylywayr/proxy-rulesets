@@ -1,10 +1,10 @@
 # NAME: Jwplayer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:34.603407+00:00
+# UPDATED: 2026-09-05T20:30:47.821661+00:00
 no_resolve: true
 domain_suffix_set:
-  - "jwpcdn.com"
-  - "jwpltx.com"
   - "jwpsrv.com"
+  - "jwpltx.com"
+  - "jwpcdn.com"
   - "jwplayer.com"
   - "jwplatform.com"

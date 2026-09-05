@@ -1,6 +1,6 @@
 # NAME: AFP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:04:01.117069+00:00
+# UPDATED: 2026-09-05T19:37:39.991274+00:00
 payload:
   - DOMAIN-SUFFIX,afp.com
   - DOMAIN-SUFFIX,afpforum.com

@@ -1,6 +1,6 @@
 # NAME: Faronics
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:08.067433+00:00
+# UPDATED: 2026-09-05T20:30:23.189596+00:00
 payload:
   - DOMAIN-SUFFIX,faronics.ca
   - DOMAIN-SUFFIX,faronics.eu

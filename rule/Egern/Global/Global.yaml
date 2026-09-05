@@ -1,6 +1,6 @@
 # NAME: Global
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:14.300070+00:00
+# UPDATED: 2026-09-05T20:30:25.323389+00:00
 no_resolve: true
 domain_keyword_set:
   - "1drv"

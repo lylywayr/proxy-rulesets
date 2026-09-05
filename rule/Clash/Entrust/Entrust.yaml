@@ -1,11 +1,11 @@
 # NAME: Entrust
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:06.895350+00:00
+# UPDATED: 2026-09-05T20:30:22.819794+00:00
 payload:
   - DOMAIN-SUFFIX,atos.net
   - DOMAIN-SUFFIX,myatos.net
   - DOMAIN-SUFFIX,entrust.net
   - DOMAIN-SUFFIX,trendmicro.com
-  - DOMAIN-SUFFIX,affirmtrust.com
   - DOMAIN-SUFFIX,certificat2.com
+  - DOMAIN-SUFFIX,affirmtrust.com
   - DOMAIN-SUFFIX,entrustdatacard.com

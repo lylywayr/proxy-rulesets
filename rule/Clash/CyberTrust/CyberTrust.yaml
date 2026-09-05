@@ -1,6 +1,6 @@
 # NAME: CyberTrust
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:31:42.542893+00:00
+# UPDATED: 2026-09-05T20:13:00.218211+00:00
 payload:
   - DOMAIN-SUFFIX,cybertrust.co.jp
   - DOMAIN-SUFFIX,cybertrust.ne.jp

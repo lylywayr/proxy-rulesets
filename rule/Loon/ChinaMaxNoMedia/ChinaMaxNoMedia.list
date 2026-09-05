@@ -1,58 +1,58 @@
 # NAME: ChinaMaxNoMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:31:34.492357+00:00
+# UPDATED: 2026-09-05T20:12:57.920502+00:00
 # DOMAIN-SUFFIX: 47
 # DOMAIN-KEYWORD: 11
 # USER-AGENT: 65
 # IP-ASN: 1
-# IP-CIDR: 8244
+# IP-CIDR: 8245
 # IP-CIDR6: 4212
-# TOTAL: 12580
+# TOTAL: 12581
 
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,yun
-DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,sohu
-DOMAIN-SUFFIX,wang
+DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,sina
-DOMAIN-SUFFIX,tmall
+DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,citic
-DOMAIN-SUFFIX,shouji
+DOMAIN-SUFFIX,tmall
+DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,xihuan
-DOMAIN-SUFFIX,unicom
+DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--vhquv
-DOMAIN-SUFFIX,xn--io0a7i
-DOMAIN-SUFFIX,xn--kput3i
-DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--9et52u
-DOMAIN-SUFFIX,xn--fiq64b
-DOMAIN-SUFFIX,xn--czrs0t
+DOMAIN-SUFFIX,xn--fiqs8s
+DOMAIN-SUFFIX,xn--kput3i
+DOMAIN-SUFFIX,xn--fiqz9s
 DOMAIN-SUFFIX,xn--unup4y
+DOMAIN-SUFFIX,xn--czrs0t
+DOMAIN-SUFFIX,xn--io0a7i
 DOMAIN-SUFFIX,xn--55qx5d
 DOMAIN-SUFFIX,xn--5tzm5g
-DOMAIN-SUFFIX,xn--fiqz9s
+DOMAIN-SUFFIX,xn--fiq64b
 DOMAIN-SUFFIX,xn--czru2d
-DOMAIN-SUFFIX,xn--zfr164b
-DOMAIN-SUFFIX,xn--czr694b
-DOMAIN-SUFFIX,xn--rhqv96g
-DOMAIN-SUFFIX,xn--otu796d
-DOMAIN-SUFFIX,xn--fjq720a
-DOMAIN-SUFFIX,xn--1qqw23a
-DOMAIN-SUFFIX,xn--xhq521b
-DOMAIN-SUFFIX,xn--3bst00m
-DOMAIN-SUFFIX,xn--ses554g
-DOMAIN-SUFFIX,xn--vuq861b
-DOMAIN-SUFFIX,xn--3ds443g
-DOMAIN-SUFFIX,xn--9krt00a
-DOMAIN-SUFFIX,xn--nyqy26a
-DOMAIN-SUFFIX,xn--hxt814e
-DOMAIN-SUFFIX,xn--6frz82g
-DOMAIN-SUFFIX,xn--55qw42g
-DOMAIN-SUFFIX,xn--g2xx48c
 DOMAIN-SUFFIX,xn--imr513n
+DOMAIN-SUFFIX,xn--3ds443g
+DOMAIN-SUFFIX,xn--czr694b
+DOMAIN-SUFFIX,xn--nyqy26a
+DOMAIN-SUFFIX,xn--otu796d
+DOMAIN-SUFFIX,xn--hxt814e
+DOMAIN-SUFFIX,xn--zfr164b
+DOMAIN-SUFFIX,xn--rhqv96g
+DOMAIN-SUFFIX,xn--xhq521b
+DOMAIN-SUFFIX,xn--1qqw23a
+DOMAIN-SUFFIX,xn--9krt00a
+DOMAIN-SUFFIX,xn--g2xx48c
+DOMAIN-SUFFIX,xn--55qw42g
+DOMAIN-SUFFIX,xn--3bst00m
+DOMAIN-SUFFIX,xn--vuq861b
+DOMAIN-SUFFIX,xn--ses554g
+DOMAIN-SUFFIX,xn--fjq720a
+DOMAIN-SUFFIX,xn--6frz82g
 DOMAIN-SUFFIX,xn--8y0a063a
 DOMAIN-SUFFIX,xn--6qq986b3xl
 DOMAIN-SUFFIX,xn--fiq228c5hs
@@ -1585,7 +1585,6 @@ IP-CIDR,101.72.0.0/14,no-resolve
 IP-CIDR,101.76.0.0/15,no-resolve
 IP-CIDR,101.78.0.0/22,no-resolve
 IP-CIDR,101.78.32.0/19,no-resolve
-IP-CIDR,101.79.220.0/24,no-resolve
 IP-CIDR,101.80.0.0/12,no-resolve
 IP-CIDR,101.96.0.0/21,no-resolve
 IP-CIDR,101.96.8.0/22,no-resolve
@@ -5371,6 +5370,7 @@ IP-CIDR,163.0.0.0/16,no-resolve
 IP-CIDR,163.47.4.0/22,no-resolve
 IP-CIDR,163.52.28.0/23,no-resolve
 IP-CIDR,163.52.76.0/23,no-resolve
+IP-CIDR,163.52.108.0/23,no-resolve
 IP-CIDR,163.53.0.0/20,no-resolve
 IP-CIDR,163.53.36.0/22,no-resolve
 IP-CIDR,163.53.40.0/21,no-resolve
@@ -5660,6 +5660,7 @@ IP-CIDR,185.109.236.0/24,no-resolve
 IP-CIDR,185.175.100.0/22,no-resolve
 IP-CIDR,185.183.84.0/24,no-resolve
 IP-CIDR,185.188.32.0/22,no-resolve
+IP-CIDR,185.192.56.0/22,no-resolve
 IP-CIDR,185.194.148.0/24,no-resolve
 IP-CIDR,185.196.210.68/30,no-resolve
 IP-CIDR,185.196.211.68/30,no-resolve
@@ -5968,7 +5969,9 @@ IP-CIDR,202.55.0.0/23,no-resolve
 IP-CIDR,202.55.4.0/24,no-resolve
 IP-CIDR,202.55.18.0/23,no-resolve
 IP-CIDR,202.55.20.0/22,no-resolve
-IP-CIDR,202.55.24.0/21,no-resolve
+IP-CIDR,202.55.24.0/22,no-resolve
+IP-CIDR,202.55.28.0/23,no-resolve
+IP-CIDR,202.55.31.0/24,no-resolve
 IP-CIDR,202.57.192.0/20,no-resolve
 IP-CIDR,202.57.212.0/22,no-resolve
 IP-CIDR,202.57.216.0/22,no-resolve
@@ -6359,7 +6362,6 @@ IP-CIDR,203.8.0.0/24,no-resolve
 IP-CIDR,203.8.8.0/24,no-resolve
 IP-CIDR,203.8.23.0/24,no-resolve
 IP-CIDR,203.8.25.0/24,no-resolve
-IP-CIDR,203.8.30.0/24,no-resolve
 IP-CIDR,203.8.70.0/24,no-resolve
 IP-CIDR,203.8.82.0/24,no-resolve
 IP-CIDR,203.8.86.0/23,no-resolve
@@ -7260,6 +7262,7 @@ IP-CIDR,205.198.104.0/22,no-resolve
 IP-CIDR,205.204.96.0/19,no-resolve
 IP-CIDR,205.234.238.46/32,no-resolve
 IP-CIDR,205.252.239.0/24,no-resolve
+IP-CIDR,206.109.70.0/23,no-resolve
 IP-CIDR,206.109.75.0/24,no-resolve
 IP-CIDR,206.232.68.0/22,no-resolve
 IP-CIDR,206.232.72.0/22,no-resolve
@@ -7295,8 +7298,6 @@ IP-CIDR,210.25.0.0/16,no-resolve
 IP-CIDR,210.26.0.0/15,no-resolve
 IP-CIDR,210.28.0.0/14,no-resolve
 IP-CIDR,210.32.0.0/12,no-resolve
-IP-CIDR,210.48.140.0/23,no-resolve
-IP-CIDR,210.48.142.0/24,no-resolve
 IP-CIDR,210.51.0.0/16,no-resolve
 IP-CIDR,210.52.0.0/15,no-resolve
 IP-CIDR,210.56.192.0/19,no-resolve
@@ -9374,6 +9375,7 @@ IP-CIDR6,2402:71c0::/32,no-resolve
 IP-CIDR6,2402:7240::/32,no-resolve
 IP-CIDR6,2402:72a0::/32,no-resolve
 IP-CIDR6,2402:72c0::/32,no-resolve
+IP-CIDR6,2402:73e0::/32,no-resolve
 IP-CIDR6,2402:7540::/32,no-resolve
 IP-CIDR6,2402:75c0::/32,no-resolve
 IP-CIDR6,2402:7740::/32,no-resolve
@@ -11119,7 +11121,6 @@ IP-CIDR6,2610:a1:3078::/46,no-resolve
 IP-CIDR6,2620:171:32::/48,no-resolve
 IP-CIDR6,2620:171:5a:f0::/64,no-resolve
 IP-CIDR6,2620:171:fb::/48,no-resolve
-IP-CIDR6,2804:1e48:9001::/48,no-resolve
 IP-CIDR6,2804:1e48:9002::/48,no-resolve
 IP-CIDR6,2a00:79e0:200:500::/56,no-resolve
 IP-CIDR6,2a00:79e0:ffe5:3a00::/56,no-resolve

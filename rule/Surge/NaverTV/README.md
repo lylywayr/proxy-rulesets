@@ -9,7 +9,7 @@
 - 分类标识：`NaverTV`
 - 当前客户端：`Surge`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - 专题入口：
 - 暂无
 
@@ -49,7 +49,7 @@ Aggregated rules for NaverTV, covering related domains, keywords, and network ta
 - Category ID: `NaverTV`
 - Client: `Surge`
 - Group: `Media`
-- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/NaverTV/NaverTV.list>
 

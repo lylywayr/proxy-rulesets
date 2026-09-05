@@ -1,24 +1,24 @@
 # NAME: HuanJu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:25.426631+00:00
+# UPDATED: 2026-09-05T20:30:45.123755+00:00
 no_resolve: true
 domain_suffix_set:
   - "yy.com"
   - "hiido.cn"
   - "5253.com"
-  - "hiido.com"
   - "huanju.cn"
-  - "duowan.cn"
   - "hiido.net"
-  - "huanju.net"
+  - "duowan.cn"
+  - "hiido.com"
   - "duowan.com"
+  - "huanju.net"
   - "zhiniu8.com"
   - "chinaduo.com"
-  - "yyclouds.com"
   - "yystatic.com"
   - "dwstatic.com"
-  - "blogchina.org"
+  - "yyclouds.com"
   - "huanjuyun.com"
+  - "blogchina.org"
   - "yygamedev.com"
   - "yy.com.cn"
   - "duowan.com.cn"

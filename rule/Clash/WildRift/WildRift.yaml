@@ -1,6 +1,6 @@
 # NAME: WildRift
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:50:49.449932+00:00
+# UPDATED: 2026-09-05T20:34:12.848455+00:00
 payload:
   - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,riotcdn.net

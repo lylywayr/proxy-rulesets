@@ -1,5 +1,5 @@
 # NAME: APKCombo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:04:11.709662+00:00
+# UPDATED: 2026-09-05T19:37:44.710236+00:00
 payload:
   - DOMAIN-SUFFIX,apkcombo.com

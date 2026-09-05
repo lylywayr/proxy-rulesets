@@ -1,6 +1,6 @@
 # NAME: GitBook
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:13.041896+00:00
+# UPDATED: 2026-09-05T20:30:24.747771+00:00
 payload:
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitbook.com

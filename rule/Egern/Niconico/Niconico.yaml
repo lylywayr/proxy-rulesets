@@ -1,6 +1,6 @@
 # NAME: Niconico
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:52.515733+00:00
+# UPDATED: 2026-09-05T20:30:53.370927+00:00
 no_resolve: true
 domain_suffix_set:
   - "nimg.jp"
@@ -8,9 +8,9 @@ domain_suffix_set:
   - "dmc.nico"
   - "socdm.com"
   - "nicodic.jp"
-  - "nicovideo.jp"
-  - "nicomanga.jp"
-  - "niconico.com"
   - "nicoseiga.jp"
+  - "nicomanga.jp"
+  - "nicovideo.jp"
+  - "niconico.com"
 user_agent_set:
   - "Niconico*"

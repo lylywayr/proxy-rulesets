@@ -1,14 +1,14 @@
 # NAME: Mogujie
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:48.738987+00:00
+# UPDATED: 2026-09-05T20:30:52.155466+00:00
 no_resolve: true
 domain_suffix_set:
   - "mogu.com"
   - "uniny.com"
-  - "mogucdn.com"
-  - "mogujie.com"
-  - "linkeye.net"
   - "juangua.com"
+  - "mogucdn.com"
+  - "linkeye.net"
+  - "mogujie.com"
   - "styledata.cn"
   - "xdgogogo.com"
   - "meili-inc.com"

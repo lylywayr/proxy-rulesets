@@ -1,6 +1,6 @@
 # NAME: Gigabyte
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:12.721329+00:00
+# UPDATED: 2026-09-05T20:30:24.686956+00:00
 payload:
   - DOMAIN-SUFFIX,aorus.com
   - DOMAIN-SUFFIX,gigabyte.cn

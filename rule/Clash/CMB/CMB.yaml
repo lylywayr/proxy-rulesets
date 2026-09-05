@@ -1,37 +1,37 @@
 # NAME: CMB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:31:39.799554+00:00
+# UPDATED: 2026-09-05T20:12:59.400791+00:00
 payload:
-  - DOMAIN-SUFFIX,cmf.biz
   - DOMAIN-SUFFIX,cmf.ltd
   - DOMAIN-SUFFIX,cmbt.cn
+  - DOMAIN-SUFFIX,cmf.biz
   - DOMAIN-SUFFIX,cnki.net
   - DOMAIN-SUFFIX,cmburl.cn
   - DOMAIN-SUFFIX,cmbimg.cn
   - DOMAIN-SUFFIX,chndoi.cn
-  - DOMAIN-SUFFIX,chndoi.org
   - DOMAIN-SUFFIX,cmbimg.com
-  - DOMAIN-SUFFIX,cmfunds.cn
-  - DOMAIN-SUFFIX,chndoi.com
-  - DOMAIN-SUFFIX,cmbuat.com
-  - DOMAIN-SUFFIX,chndoi.net
+  - DOMAIN-SUFFIX,chndoi.org
   - DOMAIN-SUFFIX,cnkidoi.cn
+  - DOMAIN-SUFFIX,cmbuat.com
+  - DOMAIN-SUFFIX,chndoi.com
+  - DOMAIN-SUFFIX,chndoi.net
+  - DOMAIN-SUFFIX,cmfunds.cn
+  - DOMAIN-SUFFIX,cnkidoi.com
+  - DOMAIN-SUFFIX,bjsbnet.com
   - DOMAIN-SUFFIX,cnkidoi.org
   - DOMAIN-SUFFIX,cmbchina.cn
   - DOMAIN-SUFFIX,cnkidoi.net
-  - DOMAIN-SUFFIX,bjsbnet.com
-  - DOMAIN-SUFFIX,cnkidoi.com
-  - DOMAIN-SUFFIX,cmfchina.com
-  - DOMAIN-SUFFIX,wuxizazhi.cn
-  - DOMAIN-SUFFIX,cmbchina.biz
-  - DOMAIN-SUFFIX,cmbchina.com
   - DOMAIN-SUFFIX,cignacmb.com
-  - DOMAIN-SUFFIX,wuxizazhi.net
-  - DOMAIN-SUFFIX,8008205555.cn
+  - DOMAIN-SUFFIX,cmfchina.com
+  - DOMAIN-SUFFIX,cmbchina.biz
+  - DOMAIN-SUFFIX,wuxizazhi.cn
+  - DOMAIN-SUFFIX,cmbchina.com
   - DOMAIN-SUFFIX,wuxizazhi.com
+  - DOMAIN-SUFFIX,8008205555.cn
+  - DOMAIN-SUFFIX,wuxizazhi.net
   - DOMAIN-SUFFIX,8008205555.com
-  - DOMAIN-SUFFIX,cignacmbamc.com
   - DOMAIN-SUFFIX,cmb-leasing.com
+  - DOMAIN-SUFFIX,cignacmbamc.com
   - DOMAIN-SUFFIX,test-cignacmb.com
   - DOMAIN-SUFFIX,cignacmb-ipmi.com
   - DOMAIN-SUFFIX,cmbwinglungbank.com

@@ -9,7 +9,7 @@ Telegram 域名与 CIDR 规则。
 - 分类标识：`Telegram`
 - 当前客户端：`Egern`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
-- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - 专题入口：
 - [社交通信专题](../../../guide/topics/social-communication.md)
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
@@ -55,7 +55,7 @@ Telegram domain and CIDR rules.
 - Category ID: `Telegram`
 - Client: `Egern`
 - Group: `Social`
-- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Telegram/Telegram.yaml>
 

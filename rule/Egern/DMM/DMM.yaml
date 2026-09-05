@@ -1,6 +1,6 @@
 # NAME: DMM
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:00.787547+00:00
+# UPDATED: 2026-09-05T20:30:21.073141+00:00
 no_resolve: true
 domain_suffix_set:
   - "dmm.hk"
@@ -16,8 +16,8 @@ domain_suffix_set:
   - "akabeesoft2.com"
   - "hibiki-site.com"
   - "akabeesoft3.com"
-  - "dmm-extension.com"
   - "akatsukiworks.com"
+  - "dmm-extension.com"
   - "navismithapis-cdn.com"
   - "dmm.co.jp"
   - "api-p.videomarket.jp"

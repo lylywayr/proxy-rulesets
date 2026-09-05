@@ -1,5 +1,5 @@
 # NAME: Americasvoice
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:04:09.227492+00:00
+# UPDATED: 2026-09-05T19:37:43.595064+00:00
 payload:
   - DOMAIN-SUFFIX,americasvoice.news

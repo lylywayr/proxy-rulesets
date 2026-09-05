@@ -1,5 +1,5 @@
 # NAME: W3schools
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:50:46.983553+00:00
+# UPDATED: 2026-09-05T20:34:11.766915+00:00
 payload:
   - DOMAIN-SUFFIX,w3schools.com

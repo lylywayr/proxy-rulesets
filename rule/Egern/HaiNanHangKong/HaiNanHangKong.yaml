@@ -1,11 +1,11 @@
 # NAME: HaiNanHangKong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:21.042080+00:00
+# UPDATED: 2026-09-05T20:30:43.656562+00:00
 no_resolve: true
 domain_suffix_set:
   - "10044.cn"
-  - "hnair.com"
   - "hnair.net"
+  - "hnair.com"
   - "hnacargo.com"
   - "hainanairlines.com"
 domain_keyword_set:

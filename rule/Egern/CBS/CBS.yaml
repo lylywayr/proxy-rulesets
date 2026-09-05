@@ -1,6 +1,6 @@
 # NAME: CBS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:04:24.550062+00:00
+# UPDATED: 2026-09-05T19:37:51.064663+00:00
 no_resolve: true
 domain_suffix_set:
   - "cbs.com"
@@ -8,24 +8,24 @@ domain_suffix_set:
   - "cbsi.com"
   - "pluto.tv"
   - "cbsig.net"
-  - "cbsimg.net"
   - "viacbs.com"
-  - "viacom.com"
   - "cbsi.video"
+  - "viacom.com"
+  - "cbsimg.net"
   - "cbsiam.com"
-  - "plutotv.net"
   - "cbsnews.com"
-  - "cbsradio.com"
+  - "plutotv.net"
   - "cbsstore.com"
   - "showtime.com"
-  - "cbssports.com"
+  - "cbsradio.com"
   - "cbsivideo.com"
-  - "viacomcbs.com"
   - "cbssvideo.com"
-  - "cbsstatic.com"
   - "paramount.com"
-  - "cbsistatic.com"
+  - "cbssports.com"
+  - "cbsstatic.com"
+  - "viacomcbs.com"
   - "cbsaavideo.com"
+  - "cbsistatic.com"
   - "pplusstatic.com"
   - "mtvnservices.com"
   - "paramountplus.com"

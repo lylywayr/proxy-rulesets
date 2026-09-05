@@ -1,6 +1,6 @@
 # NAME: ifanr
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:29.229792+00:00
+# UPDATED: 2026-09-05T20:30:46.182360+00:00
 # DOMAIN-SUFFIX: 34
 # TOTAL: 34
 
@@ -11,28 +11,28 @@ DOMAIN-SUFFIX,ifanr.cn
 DOMAIN-SUFFIX,menhu.io
 DOMAIN-SUFFIX,ifanr.in
 DOMAIN-SUFFIX,bitbe.at
-DOMAIN-SUFFIX,xiaoma.io
 DOMAIN-SUFFIX,01hub.com
+DOMAIN-SUFFIX,xiaoma.io
 DOMAIN-SUFFIX,ifanr.com
 DOMAIN-SUFFIX,weimen.hu
-DOMAIN-SUFFIX,wantwu.com
-DOMAIN-SUFFIX,minapp.com
-DOMAIN-SUFFIX,wuzhii.com
 DOMAIN-SUFFIX,tyqian.com
+DOMAIN-SUFFIX,wuzhii.com
 DOMAIN-SUFFIX,xiaoapp.io
+DOMAIN-SUFFIX,minapp.com
+DOMAIN-SUFFIX,wantwu.com
 DOMAIN-SUFFIX,minshop.com
 DOMAIN-SUFFIX,coolbuy.com
 DOMAIN-SUFFIX,ifanrprod.cn
-DOMAIN-SUFFIX,mindstore.io
 DOMAIN-SUFFIX,triorder.com
-DOMAIN-SUFFIX,haomaishe.com
+DOMAIN-SUFFIX,mindstore.io
+DOMAIN-SUFFIX,ifanrprod.net
 DOMAIN-SUFFIX,socialbase.cn
 DOMAIN-SUFFIX,ifanrprod.com
-DOMAIN-SUFFIX,ifanrprod.net
+DOMAIN-SUFFIX,haomaishe.com
+DOMAIN-SUFFIX,ifdesigninc.cn
+DOMAIN-SUFFIX,appsolution.cc
 DOMAIN-SUFFIX,dongchehui.net
 DOMAIN-SUFFIX,ifanrcloud.com
-DOMAIN-SUFFIX,appsolution.cc
-DOMAIN-SUFFIX,ifdesigninc.cn
 DOMAIN-SUFFIX,ifdesignstudio.cn
 DOMAIN-SUFFIX,zhixiaochengxu.com
 DOMAIN-SUFFIX,ifanrusercontent.com

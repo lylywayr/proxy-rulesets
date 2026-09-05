@@ -1,6 +1,6 @@
 # NAME: Cnet
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:31:39.993477+00:00
+# UPDATED: 2026-09-05T20:12:59.476008+00:00
 no_resolve: true
 domain_suffix_set:
   - "cnet.com"

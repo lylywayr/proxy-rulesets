@@ -9,7 +9,7 @@
 - 分类标识：`FindMy`
 - 当前客户端：`Clash`
 - 所属分组：[苹果生态](../../../guide/groups/apple.md)
-- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - 专题入口：
 - [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for FindMy, covering related domains, keywords, and network tar
 - Category ID: `FindMy`
 - Client: `Clash`
 - Group: `Apple`
-- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/FindMy/FindMy.yaml>
 

@@ -1,6 +1,6 @@
 # NAME: iTalkBB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:45:32.350394+00:00
+# UPDATED: 2026-09-05T20:30:46.971746+00:00
 payload:
   - DOMAIN-SUFFIX,italkbb.com
   - DOMAIN-SUFFIX,italkbbtv.com

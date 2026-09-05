@@ -9,7 +9,7 @@
 - 分类标识：`LondonReal`
 - 当前客户端：`Loon`
 - 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for LondonReal, covering related domains, keywords, and network
 - Category ID: `LondonReal`
 - Client: `Loon`
 - Group: `Gaming`
-- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LondonReal/LondonReal.list>
 

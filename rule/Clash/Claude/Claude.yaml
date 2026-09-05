@@ -1,6 +1,6 @@
 # NAME: Claude
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:31:38.297594+00:00
+# UPDATED: 2026-09-05T20:12:58.916933+00:00
 payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN,servd-anthropic-website.b-cdn.net

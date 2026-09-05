@@ -1,6 +1,6 @@
 # NAME: AMD
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:04:09.050043+00:00
+# UPDATED: 2026-09-05T19:37:43.519732+00:00
 payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,radeon.com

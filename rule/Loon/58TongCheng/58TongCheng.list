@@ -1,6 +1,6 @@
 # NAME: 58TongCheng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:03:57.007204+00:00
+# UPDATED: 2026-09-05T19:37:38.020865+00:00
 # DOMAIN-SUFFIX: 61
 # TOTAL: 61
 
@@ -8,59 +8,59 @@ DOMAIN-SUFFIX,dj.tc
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,58v5.cn
 DOMAIN-SUFFIX,fang.com
-DOMAIN-SUFFIX,cnmo.com
 DOMAIN-SUFFIX,5858.com
-DOMAIN-SUFFIX,rescdn.cn
-DOMAIN-SUFFIX,sofun.com
-DOMAIN-SUFFIX,58uxd.com
-DOMAIN-SUFFIX,djtest.cn
-DOMAIN-SUFFIX,58dns.org
-DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,cnmo.com
 DOMAIN-SUFFIX,jxedt.com
+DOMAIN-SUFFIX,58uxd.com
 DOMAIN-SUFFIX,58che.com
-DOMAIN-SUFFIX,jxksw.net
+DOMAIN-SUFFIX,58dns.org
 DOMAIN-SUFFIX,kuche.com
+DOMAIN-SUFFIX,jxksw.net
+DOMAIN-SUFFIX,sofun.com
 DOMAIN-SUFFIX,ddimg.net
-DOMAIN-SUFFIX,58corp.com
-DOMAIN-SUFFIX,daojia.com
-DOMAIN-SUFFIX,anjuke.com
+DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,rescdn.cn
+DOMAIN-SUFFIX,djtest.cn
 DOMAIN-SUFFIX,roomeet.cn
-DOMAIN-SUFFIX,diandao.org
-DOMAIN-SUFFIX,58supin.com
+DOMAIN-SUFFIX,daojia.com
+DOMAIN-SUFFIX,58corp.com
+DOMAIN-SUFFIX,anjuke.com
 DOMAIN-SUFFIX,chinahr.com
+DOMAIN-SUFFIX,58supin.com
 DOMAIN-SUFFIX,58ganji.com
-DOMAIN-SUFFIX,58xueche.com
-DOMAIN-SUFFIX,58xinghuo.cn
-DOMAIN-SUFFIX,xinchong.com
-DOMAIN-SUFFIX,boxiaole.com
+DOMAIN-SUFFIX,diandao.org
 DOMAIN-SUFFIX,58control.cn
 DOMAIN-SUFFIX,bangbang.com
 DOMAIN-SUFFIX,58antenna.cn
-DOMAIN-SUFFIX,canbaojin.com
-DOMAIN-SUFFIX,58peilian.com
+DOMAIN-SUFFIX,xinchong.com
+DOMAIN-SUFFIX,58xueche.com
+DOMAIN-SUFFIX,boxiaole.com
+DOMAIN-SUFFIX,58xinghuo.cn
 DOMAIN-SUFFIX,zhuancorp.com
-DOMAIN-SUFFIX,chrstatic.com
-DOMAIN-SUFFIX,58xinghuo.com
-DOMAIN-SUFFIX,soufunimg.com
-DOMAIN-SUFFIX,58lovepet.com
 DOMAIN-SUFFIX,jiaoyibao.com
+DOMAIN-SUFFIX,chrstatic.com
 DOMAIN-SUFFIX,58antenna.com
-DOMAIN-SUFFIX,58shangban.com
+DOMAIN-SUFFIX,58xinghuo.com
+DOMAIN-SUFFIX,58peilian.com
+DOMAIN-SUFFIX,soufunimg.com
+DOMAIN-SUFFIX,canbaojin.com
+DOMAIN-SUFFIX,58lovepet.com
+DOMAIN-SUFFIX,caihongjia.com
+DOMAIN-SUFFIX,daojia-inc.com
 DOMAIN-SUFFIX,zhuan-zhuan.cn
 DOMAIN-SUFFIX,zhuanzhuan.com
-DOMAIN-SUFFIX,daojia-inc.com
-DOMAIN-SUFFIX,caihongjia.com
+DOMAIN-SUFFIX,58shangban.com
 DOMAIN-SUFFIX,zhuanspirit.com
+DOMAIN-SUFFIX,ganjistatic1.com
+DOMAIN-SUFFIX,nidiandaojia.com
 DOMAIN-SUFFIX,58ganji-corp.com
 DOMAIN-SUFFIX,yirenjiankang.cn
 DOMAIN-SUFFIX,wubashangban.com
 DOMAIN-SUFFIX,anjukestatic.com
-DOMAIN-SUFFIX,ganjistatic1.com
-DOMAIN-SUFFIX,nidiandaojia.com
 DOMAIN-SUFFIX,daojialianmeng.com
 DOMAIN-SUFFIX,58.com.cn
-DOMAIN-SUFFIX,m91.com.cn
 DOMAIN-SUFFIX,xgo.com.cn
+DOMAIN-SUFFIX,m91.com.cn
 DOMAIN-SUFFIX,58cdn.com.cn
 DOMAIN-SUFFIX,djcdn.com.cn
 DOMAIN-SUFFIX,58img.com.cn

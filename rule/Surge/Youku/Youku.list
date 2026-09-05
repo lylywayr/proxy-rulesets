@@ -1,37 +1,37 @@
 # NAME: Youku
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:50:52.428114+00:00
+# UPDATED: 2026-09-05T20:34:14.228519+00:00
 # DOMAIN-SUFFIX: 34
 # USER-AGENT: 2
 # IP-CIDR: 1
 # TOTAL: 37
 
-DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,yoqoo.tv
+DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,kumiao.tv
-DOMAIN-SUFFIX,yodou.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,youku.org
 DOMAIN-SUFFIX,yoqoo.com
 DOMAIN-SUFFIX,yoqoo.net
-DOMAIN-SUFFIX,kumiao.com
+DOMAIN-SUFFIX,yodou.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,kumiao.tv
 DOMAIN-SUFFIX,youqoo.net
-DOMAIN-SUFFIX,2isbbess.cn
+DOMAIN-SUFFIX,kumiao.com
 DOMAIN-SUFFIX,b82yxres.cn
-DOMAIN-SUFFIX,0co3geye.cn
 DOMAIN-SUFFIX,sk2cdsnw.cn
-DOMAIN-SUFFIX,gamenow.club
+DOMAIN-SUFFIX,0co3geye.cn
+DOMAIN-SUFFIX,2isbbess.cn
 DOMAIN-SUFFIX,9xsecndns.cn
 DOMAIN-SUFFIX,ns6mitkxo.cn
-DOMAIN-SUFFIX,52mtkvideo.cn
-DOMAIN-SUFFIX,kuxiaomiao.cn
+DOMAIN-SUFFIX,gamenow.club
 DOMAIN-SUFFIX,33lwhaoinc.cn
+DOMAIN-SUFFIX,kuxiaomiao.cn
+DOMAIN-SUFFIX,52mtkvideo.cn
 DOMAIN-SUFFIX,kuxiaomiao.com
 DOMAIN-SUFFIX,sogoodtech1.cn
-DOMAIN-SUFFIX,kuxiaomiao.net
 DOMAIN-SUFFIX,wenyupages.com
+DOMAIN-SUFFIX,kuxiaomiao.net
 DOMAIN-SUFFIX,wingsmobiletek.cn
 DOMAIN-SUFFIX,yoku.net.cn
 DOMAIN-SUFFIX,ukoo.com.cn

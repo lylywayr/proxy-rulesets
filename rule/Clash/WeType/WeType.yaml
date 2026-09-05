@@ -1,5 +1,5 @@
 # NAME: WeType
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:50:48.756966+00:00
+# UPDATED: 2026-09-05T20:34:12.562930+00:00
 payload:
   - DOMAIN,wetype.weixin.qq.com

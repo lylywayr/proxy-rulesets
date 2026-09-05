@@ -1,26 +1,26 @@
 # NAME: YYeTs
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-08-29T20:50:53.427644+00:00
+# UPDATED: 2026-09-05T20:34:14.703927+00:00
 no_resolve: true
 domain_suffix_set:
   - "rrys.tv"
   - "yyets.com"
-  - "zimuzu.io"
   - "zimuzu.tv"
-  - "zmzapi.net"
-  - "zimuzu.com"
-  - "zmz004.com"
-  - "got002.com"
-  - "zmz002.com"
-  - "zmzapi.com"
+  - "zimuzu.io"
   - "got001.com"
+  - "zimuzu.com"
+  - "zmz002.com"
   - "zmz003.com"
+  - "zmzapi.com"
+  - "zmz004.com"
+  - "zmzapi.net"
   - "zmz001.com"
+  - "got002.com"
   - "zmz2019.com"
-  - "playcvn.com"
   - "zmzfile.com"
-  - "rrysapp.com"
   - "p4pfile.com"
+  - "playcvn.com"
+  - "rrysapp.com"
   - "jstucdn.com"
   - "rrys2019.com"
   - "rrys2020.com"

@@ -9,7 +9,7 @@ Gemini 与 BardAI 相关规则。
 - 分类标识：`Gemini`
 - 当前客户端：`Clash`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
@@ -52,7 +52,7 @@ Gemini and BardAI related rules.
 - Category ID: `Gemini`
 - Client: `Clash`
 - Group: `Ai`
-- Last updated: `2026-08-30 04:03:53 CST (UTC+8) / 2026-08-29 20:03:53 UTC`
+- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Gemini/Gemini.yaml>
 
