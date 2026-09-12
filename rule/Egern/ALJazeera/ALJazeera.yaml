@@ -1,12 +1,12 @@
 # NAME: ALJazeera
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T19:37:42.970697+00:00
+# UPDATED: 2026-09-12T19:44:53.766740+00:00
 no_resolve: true
 domain_suffix_set:
   - "ajplus.net"
   - "syhacked.com"
-  - "aljazeera.net"
   - "aljazeera.com"
+  - "aljazeera.net"
   - "srebrenica360.com"
   - "palestineremix.com"
   - "sarajevopodopsadom.com"

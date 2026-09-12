@@ -9,7 +9,7 @@
 - 分类标识：`iQIYIIntl`
 - 当前客户端：`Surge`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- 本次更新时间：`2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - 专题入口：
 - 暂无
 
@@ -51,7 +51,7 @@ Aggregated rules for iQIYIIntl, covering related domains, keywords, and network 
 - Category ID: `iQIYIIntl`
 - Client: `Surge`
 - Group: `Mainland`
-- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- Last updated: `2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/iQIYIIntl/iQIYIIntl.list>
 

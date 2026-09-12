@@ -1,6 +1,6 @@
 # NAME: Agora
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T19:37:40.067323+00:00
+# UPDATED: 2026-09-12T19:44:51.318682+00:00
 payload:
   - DOMAIN-SUFFIX,agora.io
   - DOMAIN-SUFFIX,agoraio.cn

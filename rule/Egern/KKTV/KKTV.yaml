@@ -1,6 +1,6 @@
 # NAME: KKTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:48.268032+00:00
+# UPDATED: 2026-09-12T20:36:10.390995+00:00
 no_resolve: true
 domain_set:
   - "kktv-theater.kk.stream"

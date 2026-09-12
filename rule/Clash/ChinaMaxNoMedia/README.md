@@ -9,20 +9,20 @@
 - 分类标识：`ChinaMaxNoMedia`
 - 当前客户端：`Clash`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- 本次更新时间：`2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`12593`
+- 总数：`12603`
 - `DOMAIN-SUFFIX`: 47
 - `DOMAIN-KEYWORD`: 11
 - `USER-AGENT`: 65
 - `PROCESS-NAME`: 12
 - `IP-ASN`: 1
 - `IP-CIDR`: 8245
-- `IP-CIDR6`: 4212
+- `IP-CIDR6`: 4222
 
 ### 使用说明
 
@@ -54,7 +54,7 @@ Aggregated rules for ChinaMaxNoMedia, covering related domains, keywords, and ne
 - Category ID: `ChinaMaxNoMedia`
 - Client: `Clash`
 - Group: `Media`
-- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- Last updated: `2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.yaml>
 

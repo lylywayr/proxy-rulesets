@@ -1,25 +1,25 @@
 # NAME: NaSDDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:52.710196+00:00
+# UPDATED: 2026-09-12T20:36:15.729895+00:00
 no_resolve: true
 domain_suffix_set:
   - "suo.yt"
   - "plex.tv"
-  - "3322.net"
   - "qnap.com"
+  - "3322.net"
   - "3322.org"
-  - "dnsapi.cn"
   - "tpddns.cn"
-  - "nat123.com"
+  - "dnsapi.cn"
   - "dyndns.org"
+  - "nat123.com"
+  - "synology.cn"
   - "dns-dns.com"
   - "plex.direct"
-  - "synology.cn"
   - "duckdns.org"
   - "myddns.rocks"
   - "aliyuncs.com"
-  - "changeip.com"
   - "ddnsfree.com"
+  - "changeip.com"
   - "netdata.cloud"
   - "quickconnect.to"
   - "quickconnect.cn"
@@ -27,13 +27,13 @@ domain_suffix_set:
   - "synocommunity.com"
   - "api.nn.ci"
   - "api.ipify.org"
-  - "elb.amazonaws.com"
   - "ddns.synology.com"
+  - "elb.amazonaws.com"
   - "account.synology.com"
   - "checkip.synology.com"
   - "whatismyip.akamai.com"
-  - "checkipv6.synology.com"
   - "checkport.synology.com"
+  - "checkipv6.synology.com"
   - "portcheck.transmissionbt.com"
 domain_keyword_set:
   - "qcloud"

@@ -1,29 +1,29 @@
 # NAME: CaiXinChuanMei
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T19:37:50.634980+00:00
+# UPDATED: 2026-09-12T19:44:59.789074+00:00
 no_resolve: true
 domain_suffix_set:
   - "caing.cn"
-  - "caing.com"
   - "icaing.cn"
+  - "caing.com"
+  - "caixin.com"
   - "lifetmt.cn"
   - "weinews.cn"
-  - "caixin.com"
-  - "lifetmt.net"
   - "lifetmt.com"
+  - "lifetmt.net"
   - "lifetmt.org"
   - "whyenjoy.com"
   - "healthpoint.cn"
-  - "wusuobuneng.cn"
   - "caixinmedia.cn"
-  - "caixinmedia.com"
+  - "wusuobuneng.cn"
   - "wusuobuneng.com"
   - "wusuobuneng.org"
+  - "caixinmedia.com"
   - "caixinonline.com"
   - "jianhangcaifu.com"
   - "weinews.com.cn"
   - "lifetmt.com.cn"
   - "whyenjoy.com.cn"
   - "healthpoint.com.cn"
-  - "caixinmedia.com.cn"
   - "wusuobuneng.com.cn"
+  - "caixinmedia.com.cn"

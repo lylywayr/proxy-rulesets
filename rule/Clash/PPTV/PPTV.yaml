@@ -1,20 +1,20 @@
 # NAME: PPTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:56.098416+00:00
+# UPDATED: 2026-09-12T20:36:19.940524+00:00
 payload:
   - DOMAIN-SUFFIX,g1d.net
-  - DOMAIN-SUFFIX,kidpp.cn
-  - DOMAIN-SUFFIX,kidyy.cn
-  - DOMAIN-SUFFIX,kidkk.cn
-  - DOMAIN-SUFFIX,kidsn.cn
   - DOMAIN-SUFFIX,pptv.com
+  - DOMAIN-SUFFIX,kidyy.cn
+  - DOMAIN-SUFFIX,kidpp.cn
+  - DOMAIN-SUFFIX,kidsn.cn
+  - DOMAIN-SUFFIX,kidkk.cn
   - DOMAIN-SUFFIX,pplive.cn
-  - DOMAIN-SUFFIX,snrent.cn
   - DOMAIN-SUFFIX,bkrent.cn
-  - DOMAIN-SUFFIX,pplive.com
+  - DOMAIN-SUFFIX,snrent.cn
   - DOMAIN-SUFFIX,pplive.net
-  - DOMAIN-SUFFIX,pptvyun.com
+  - DOMAIN-SUFFIX,pplive.com
   - DOMAIN-SUFFIX,pptvimg.com
+  - DOMAIN-SUFFIX,pptvyun.com
   - DOMAIN-SUFFIX,pptvnet.com
   - DOMAIN-SUFFIX,pptvdata.com
   - DOMAIN-SUFFIX,synacast.com

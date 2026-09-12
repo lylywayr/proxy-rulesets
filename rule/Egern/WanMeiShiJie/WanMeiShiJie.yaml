@@ -1,11 +1,11 @@
 # NAME: WanMeiShiJie
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:34:12.088666+00:00
+# UPDATED: 2026-09-12T20:40:00.292052+00:00
 no_resolve: true
 domain_suffix_set:
   - "wmwm.com"
-  - "wmupd.com"
   - "laohu.com"
+  - "wmupd.com"
   - "wanmei.com"
   - "wanmei.net"
   - "pwrdoverseas.com"

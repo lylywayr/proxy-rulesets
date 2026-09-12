@@ -1,6 +1,6 @@
 # NAME: HKBN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:44.641269+00:00
+# UPDATED: 2026-09-12T20:36:06.110301+00:00
 no_resolve: true
 domain_suffix_set:
   - "jos.com"

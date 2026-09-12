@@ -1,6 +1,6 @@
 # NAME: ThomsonReuters
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:34:09.021952+00:00
+# UPDATED: 2026-09-12T20:39:56.730752+00:00
 no_resolve: true
 domain_suffix_set:
   - "tr.com"
@@ -12,25 +12,25 @@ domain_suffix_set:
   - "reutersmedia.net"
   - "reutersagency.cn"
   - "legaltracker.com"
-  - "thomsonreuters.cn"
-  - "thomsonreuters.es"
-  - "thomsonreuters.in"
   - "thomsonreuters.ca"
   - "thomsonreuters.ru"
+  - "thomsonreuters.es"
+  - "thomsonreuters.cn"
+  - "thomsonreuters.in"
   - "thomsonreuters.com"
   - "thomsonreutersmexico.com"
   - "corepublishingsolutions.com"
   - "livrariart.com.br"
-  - "thomsonreuters.co.jp"
   - "thomsonreuters.co.kr"
-  - "thomsonreuters.co.uk"
   - "thomsonreuters.co.nz"
-  - "thomsonreuters.com.hk"
-  - "thomsonreuters.com.pe"
+  - "thomsonreuters.co.uk"
+  - "thomsonreuters.co.jp"
   - "thomsonreuters.com.my"
-  - "thomsonreuters.com.br"
   - "thomsonreuters.com.sg"
   - "thomsonreuters.com.au"
-  - "thomsonreuters.com.ar"
-  - "thomsonreuters.com.tr"
   - "sweetandmaxwell.co.uk"
+  - "thomsonreuters.com.hk"
+  - "thomsonreuters.com.pe"
+  - "thomsonreuters.com.tr"
+  - "thomsonreuters.com.ar"
+  - "thomsonreuters.com.br"

@@ -1,6 +1,6 @@
 # NAME: DAZN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:13:00.566673+00:00
+# UPDATED: 2026-09-12T20:18:51.914171+00:00
 no_resolve: true
 domain_suffix_set:
   - "dazn.com"
@@ -11,8 +11,8 @@ domain_suffix_set:
   - "dazn-api.com"
   - "indaznlab.com"
   - "s.yimg.jp"
-  - "logx.optimizely.com"
   - "control.kochava.com"
+  - "logx.optimizely.com"
   - "dcalivedazn.akamaized.net"
   - "dcblivedazn.akamaized.net"
   - "d1sgwhnao7452x.cloudfront.net"

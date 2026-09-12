@@ -1,6 +1,6 @@
 # NAME: Migu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:51.929627+00:00
+# UPDATED: 2026-09-12T20:36:14.792694+00:00
 payload:
   - DOMAIN-SUFFIX,migu.cn
   - DOMAIN-SUFFIX,cmvideo.cn

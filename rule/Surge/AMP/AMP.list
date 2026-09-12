@@ -1,12 +1,12 @@
 # NAME: AMP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T19:37:43.678288+00:00
+# UPDATED: 2026-09-12T19:44:54.326589+00:00
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 4
 # TOTAL: 5
 
 DOMAIN,amp.akamaized.net
 DOMAIN-SUFFIX,amp.dev
-DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.org

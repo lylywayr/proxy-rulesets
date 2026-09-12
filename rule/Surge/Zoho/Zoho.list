@@ -1,11 +1,11 @@
 # NAME: Zoho
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:34:15.813029+00:00
+# UPDATED: 2026-09-12T20:40:04.932395+00:00
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 
-DOMAIN-SUFFIX,zoho.eu
 DOMAIN-SUFFIX,zoho.in
+DOMAIN-SUFFIX,zoho.eu
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zohocdn.com
 DOMAIN-SUFFIX,zohostatic.in

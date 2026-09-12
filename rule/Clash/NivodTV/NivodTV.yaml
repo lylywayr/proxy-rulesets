@@ -1,6 +1,6 @@
 # NAME: NivodTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:53.616177+00:00
+# UPDATED: 2026-09-12T20:36:16.797093+00:00
 payload:
   - DOMAIN-SUFFIX,nbys.tv
   - DOMAIN-SUFFIX,nbyy.tv

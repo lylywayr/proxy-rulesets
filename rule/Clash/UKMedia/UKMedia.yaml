@@ -1,6 +1,6 @@
 # NAME: UKMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:34:10.511972+00:00
+# UPDATED: 2026-09-12T20:39:58.594071+00:00
 payload:
   - DOMAIN,itvpnp.live.ott.irdeto.com
   - DOMAIN,itvpnp.stage.ott.irdeto.com
@@ -9,11 +9,11 @@ payload:
   - DOMAIN,vod-thumb-ww-live.akamaized.net
   - DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
   - DOMAIN-SUFFIX,bbc
-  - DOMAIN-SUFFIX,bbc.co
   - DOMAIN-SUFFIX,bbc.in
+  - DOMAIN-SUFFIX,bbc.co
   - DOMAIN-SUFFIX,bbc.com
-  - DOMAIN-SUFFIX,bbci.co
   - DOMAIN-SUFFIX,itv.com
+  - DOMAIN-SUFFIX,bbci.co
   - DOMAIN-SUFFIX,britbox.com
   - DOMAIN-SUFFIX,c4assets.com
   - DOMAIN-SUFFIX,channel4.com
@@ -25,8 +25,8 @@ payload:
   - DOMAIN-SUFFIX,bbcverticals.com
   - DOMAIN-SUFFIX,bbc-reporting-api.app
   - DOMAIN-SUFFIX,bbc.co.uk
-  - DOMAIN-SUFFIX,bbc.net.uk
   - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bbc.net.uk
   - DOMAIN-SUFFIX,bidi.net.uk
   - DOMAIN-SUFFIX,britbox.co.uk
   - DOMAIN-SUFFIX,bbcmedia.co.uk

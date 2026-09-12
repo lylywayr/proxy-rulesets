@@ -1,6 +1,6 @@
 # NAME: Privacy
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:56.194900+00:00
+# UPDATED: 2026-09-12T20:36:20.084423+00:00
 payload:
   - DOMAIN-KEYWORD,analytics.
   - DOMAIN-KEYWORD,app-analytics

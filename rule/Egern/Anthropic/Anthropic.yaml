@@ -1,6 +1,6 @@
 # NAME: Anthropic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T19:37:44.296889+00:00
+# UPDATED: 2026-09-12T19:44:54.707538+00:00
 no_resolve: true
 domain_set:
   - "servd-anthropic-website.b-cdn.net"

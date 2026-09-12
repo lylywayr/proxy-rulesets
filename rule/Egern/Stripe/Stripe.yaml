@@ -1,6 +1,6 @@
 # NAME: Stripe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:34:07.274773+00:00
+# UPDATED: 2026-09-12T20:39:54.809567+00:00
 no_resolve: true
 domain_keyword_set:
   - "stripe"

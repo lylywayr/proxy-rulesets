@@ -9,7 +9,7 @@
 - 分类标识：`GovCN`
 - 当前客户端：`Loon`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- 本次更新时间：`2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for GovCN, covering related domains, keywords, and network targ
 - Category ID: `GovCN`
 - Client: `Loon`
 - Group: `Mainland`
-- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- Last updated: `2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GovCN/GovCN.list>
 

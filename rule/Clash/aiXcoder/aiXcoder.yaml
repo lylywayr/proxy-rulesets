@@ -1,6 +1,6 @@
 # NAME: aiXcoder
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T19:37:42.617713+00:00
+# UPDATED: 2026-09-12T19:44:53.470903+00:00
 payload:
   - DOMAIN-SUFFIX,nnthink.com
   - DOMAIN-SUFFIX,aixcoder.com

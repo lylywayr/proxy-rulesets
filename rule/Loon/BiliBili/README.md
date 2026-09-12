@@ -9,7 +9,7 @@
 - 分类标识：`BiliBili`
 - 当前客户端：`Loon`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- 本次更新时间：`2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - 专题入口：
 - [流媒体专题](../../../guide/topics/streaming-media.md)
 
@@ -52,7 +52,7 @@ Aggregated rules for BiliBili, covering related domains, keywords, and network t
 - Category ID: `BiliBili`
 - Client: `Loon`
 - Group: `Mainland`
-- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- Last updated: `2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/BiliBili/BiliBili.list>
 

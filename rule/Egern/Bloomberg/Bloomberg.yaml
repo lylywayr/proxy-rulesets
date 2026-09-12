@@ -1,27 +1,27 @@
 # NAME: Bloomberg
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T19:37:49.622644+00:00
+# UPDATED: 2026-09-12T19:44:58.933978+00:00
 no_resolve: true
 domain_suffix_set:
   - "bwbx.io"
   - "bnef.com"
   - "bmia.org"
   - "citylab.com"
-  - "bloomberg.fm"
   - "bloomberg.tv"
+  - "bloomberg.fm"
   - "tictoc.video"
-  - "gotraffic.net"
   - "bloomberg.com"
+  - "gotraffic.net"
   - "quicktake.video"
   - "businessweek.com"
-  - "bloombergbeta.com"
   - "bloombergapps.com"
+  - "bloombergbeta.com"
   - "blpprofessional.com"
-  - "londonmithraeum.com"
-  - "bloombergarcade.com"
-  - "businessweekmag.com"
   - "neweconomyforum.com"
+  - "bloombergarcade.com"
+  - "londonmithraeum.com"
   - "techatbloomberg.com"
+  - "businessweekmag.com"
   - "newenergyfinance.com"
   - "bloomberg.co.kr"
   - "bloomberg.com.br"

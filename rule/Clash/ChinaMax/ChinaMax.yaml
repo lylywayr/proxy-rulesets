@@ -1,55 +1,55 @@
 # NAME: ChinaMax
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:12:57.386623+00:00
+# UPDATED: 2026-09-12T20:18:48.242290+00:00
 payload:
   - DOMAIN-SUFFIX,ms
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,yun
   - DOMAIN-SUFFIX,sohu
   - DOMAIN-SUFFIX,icbc
-  - DOMAIN-SUFFIX,sina
   - DOMAIN-SUFFIX,wang
+  - DOMAIN-SUFFIX,sina
   - DOMAIN-SUFFIX,baidu
-  - DOMAIN-SUFFIX,citic
-  - DOMAIN-SUFFIX,weibo
   - DOMAIN-SUFFIX,tmall
-  - DOMAIN-SUFFIX,unicom
-  - DOMAIN-SUFFIX,alipay
-  - DOMAIN-SUFFIX,anquan
-  - DOMAIN-SUFFIX,xihuan
+  - DOMAIN-SUFFIX,weibo
+  - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,taobao
+  - DOMAIN-SUFFIX,anquan
   - DOMAIN-SUFFIX,shouji
+  - DOMAIN-SUFFIX,alipay
+  - DOMAIN-SUFFIX,unicom
+  - DOMAIN-SUFFIX,xihuan
   - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,xn--vhquv
+  - DOMAIN-SUFFIX,xn--fiq64b
+  - DOMAIN-SUFFIX,xn--fiqz9s
+  - DOMAIN-SUFFIX,xn--czru2d
   - DOMAIN-SUFFIX,xn--9et52u
+  - DOMAIN-SUFFIX,xn--5tzm5g
+  - DOMAIN-SUFFIX,xn--55qx5d
+  - DOMAIN-SUFFIX,xn--czrs0t
   - DOMAIN-SUFFIX,xn--fiqs8s
   - DOMAIN-SUFFIX,xn--kput3i
-  - DOMAIN-SUFFIX,xn--fiqz9s
-  - DOMAIN-SUFFIX,xn--unup4y
-  - DOMAIN-SUFFIX,xn--czrs0t
   - DOMAIN-SUFFIX,xn--io0a7i
-  - DOMAIN-SUFFIX,xn--55qx5d
-  - DOMAIN-SUFFIX,xn--5tzm5g
-  - DOMAIN-SUFFIX,xn--fiq64b
-  - DOMAIN-SUFFIX,xn--czru2d
-  - DOMAIN-SUFFIX,xn--imr513n
-  - DOMAIN-SUFFIX,xn--3ds443g
-  - DOMAIN-SUFFIX,xn--czr694b
-  - DOMAIN-SUFFIX,xn--nyqy26a
-  - DOMAIN-SUFFIX,xn--otu796d
-  - DOMAIN-SUFFIX,xn--hxt814e
-  - DOMAIN-SUFFIX,xn--zfr164b
-  - DOMAIN-SUFFIX,xn--rhqv96g
-  - DOMAIN-SUFFIX,xn--xhq521b
-  - DOMAIN-SUFFIX,xn--1qqw23a
-  - DOMAIN-SUFFIX,xn--9krt00a
-  - DOMAIN-SUFFIX,xn--g2xx48c
-  - DOMAIN-SUFFIX,xn--55qw42g
+  - DOMAIN-SUFFIX,xn--unup4y
   - DOMAIN-SUFFIX,xn--3bst00m
+  - DOMAIN-SUFFIX,xn--xhq521b
+  - DOMAIN-SUFFIX,xn--g2xx48c
+  - DOMAIN-SUFFIX,xn--imr513n
+  - DOMAIN-SUFFIX,xn--otu796d
+  - DOMAIN-SUFFIX,xn--zfr164b
   - DOMAIN-SUFFIX,xn--vuq861b
   - DOMAIN-SUFFIX,xn--ses554g
-  - DOMAIN-SUFFIX,xn--fjq720a
+  - DOMAIN-SUFFIX,xn--rhqv96g
+  - DOMAIN-SUFFIX,xn--9krt00a
+  - DOMAIN-SUFFIX,xn--hxt814e
+  - DOMAIN-SUFFIX,xn--1qqw23a
+  - DOMAIN-SUFFIX,xn--55qw42g
+  - DOMAIN-SUFFIX,xn--czr694b
+  - DOMAIN-SUFFIX,xn--3ds443g
   - DOMAIN-SUFFIX,xn--6frz82g
+  - DOMAIN-SUFFIX,xn--nyqy26a
+  - DOMAIN-SUFFIX,xn--fjq720a
   - DOMAIN-SUFFIX,xn--8y0a063a
   - DOMAIN-SUFFIX,xn--6qq986b3xl
   - DOMAIN-SUFFIX,xn--fiq228c5hs
@@ -255,6 +255,7 @@ payload:
   - IP-CIDR,14.196.0.0/15
   - IP-CIDR,14.204.0.0/15
   - IP-CIDR,14.208.0.0/12
+  - IP-CIDR,14.238.34.0/24
   - IP-CIDR,14.255.16.0/24
   - IP-CIDR,14.255.238.0/24
   - IP-CIDR,14.255.249.0/24
@@ -575,7 +576,6 @@ payload:
   - IP-CIDR,38.102.234.0/23
   - IP-CIDR,38.103.64.26/32
   - IP-CIDR,38.105.24.0/21
-  - IP-CIDR,38.134.56.0/24
   - IP-CIDR,38.134.58.0/23
   - IP-CIDR,38.181.0.0/19
   - IP-CIDR,38.181.32.0/23
@@ -8423,10 +8423,15 @@ payload:
   - IP-CIDR6,2001:256::/32
   - IP-CIDR6,2001:470:ee53::/48
   - IP-CIDR6,2001:500:15:3200::/56
+  - IP-CIDR6,2001:678:12b8::/48
+  - IP-CIDR6,2001:678:12c4::/48
+  - IP-CIDR6,2001:678:12cc::/48
   - IP-CIDR6,2001:67c:a1c::/48
   - IP-CIDR6,2001:67c:a38:f086::/64
   - IP-CIDR6,2001:67c:aec::/48
   - IP-CIDR6,2001:67c:c28::/48
+  - IP-CIDR6,2001:67c:ebc::/48
+  - IP-CIDR6,2001:67c:2c1c::/48
   - IP-CIDR6,2001:7fa:5::/48
   - IP-CIDR6,2001:7fa:10::/48
   - IP-CIDR6,2001:c68::/32
@@ -8491,6 +8496,7 @@ payload:
   - IP-CIDR6,2001:df3:b380::/48
   - IP-CIDR6,2001:df3:c380::/48
   - IP-CIDR6,2001:df3:c680::/48
+  - IP-CIDR6,2001:df3:d0c0::/48
   - IP-CIDR6,2001:df3:d880::/48
   - IP-CIDR6,2001:df3:ed80::/48
   - IP-CIDR6,2001:df3:ef80::/48
@@ -8511,7 +8517,11 @@ payload:
   - IP-CIDR6,2001:df4:c780::/48
   - IP-CIDR6,2001:df4:cf00::/48
   - IP-CIDR6,2001:df4:de80::/48
+  - IP-CIDR6,2001:df4:e140::/48
+  - IP-CIDR6,2001:df4:e142::/47
   - IP-CIDR6,2001:df5:2080::/48
+  - IP-CIDR6,2001:df5:2fc0::/48
+  - IP-CIDR6,2001:df5:4cc0::/48
   - IP-CIDR6,2001:df5:5f80::/48
   - IP-CIDR6,2001:df5:7800::/48
   - IP-CIDR6,2001:df6:100::/48
@@ -10428,7 +10438,7 @@ payload:
   - IP-CIDR6,2406:840:a18::/45
   - IP-CIDR6,2406:840:a20::/44
   - IP-CIDR6,2406:840:a30::/48
-  - IP-CIDR6,2406:840:a32::/47
+  - IP-CIDR6,2406:840:a33::/48
   - IP-CIDR6,2406:840:a34::/46
   - IP-CIDR6,2406:840:a38::/45
   - IP-CIDR6,2406:840:a40::/42

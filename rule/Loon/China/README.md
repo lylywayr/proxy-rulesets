@@ -9,18 +9,18 @@
 - 分类标识：`China`
 - 当前客户端：`Loon`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- 本次更新时间：`2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
 ### 规则统计
 
-- 总数：`121100`
+- 总数：`121126`
 - `DOMAIN`: 403
-- `DOMAIN-SUFFIX`: 111075
+- `DOMAIN-SUFFIX`: 111076
 - `DOMAIN-REGEX`: 3
-- `IP-CIDR`: 6229
-- `IP-CIDR6`: 3393
+- `IP-CIDR`: 6246
+- `IP-CIDR6`: 3401
 
 ### 使用说明
 
@@ -56,7 +56,7 @@ China mainland service domains and networks.
 - Category ID: `China`
 - Client: `Loon`
 - Group: `Mainland`
-- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- Last updated: `2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/China/China.list>
 

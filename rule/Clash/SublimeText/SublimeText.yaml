@@ -1,6 +1,6 @@
 # NAME: SublimeText
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:34:07.396875+00:00
+# UPDATED: 2026-09-12T20:39:54.926610+00:00
 payload:
   - DOMAIN-SUFFIX,sublimehq.com
   - DOMAIN-SUFFIX,sublimetext.com

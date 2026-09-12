@@ -9,7 +9,7 @@
 - 分类标识：`BaiShanYunKeJi`
 - 当前客户端：`Clash`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- 本次更新时间：`2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for BaiShanYunKeJi, covering related domains, keywords, and net
 - Category ID: `BaiShanYunKeJi`
 - Client: `Clash`
 - Group: `Ai`
-- Last updated: `2026-09-06 03:37:36 CST (UTC+8) / 2026-09-05 19:37:36 UTC`
+- Last updated: `2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/BaiShanYunKeJi/BaiShanYunKeJi.yaml>
 

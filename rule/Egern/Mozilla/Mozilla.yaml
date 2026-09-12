@@ -1,25 +1,25 @@
 # NAME: Mozilla
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:52.510280+00:00
+# UPDATED: 2026-09-12T20:36:15.507933+00:00
 no_resolve: true
 domain_suffix_set:
   - "docs.rs"
   - "rustup.rs"
   - "crates.io"
-  - "mozilla.com"
   - "firefox.com"
   - "mozilla.net"
+  - "mozilla.com"
   - "mozilla.org"
-  - "mofoprod.net"
   - "bugzilla.org"
+  - "mofoprod.net"
   - "getpocket.com"
   - "rust-lang.org"
   - "thunderbird.net"
   - "mozilla.community"
-  - "seamonkey-project.org"
   - "extensionworkshop.com"
-  - "firefoxusercontent.com"
+  - "seamonkey-project.org"
   - "pocket-image-cache.com"
+  - "firefoxusercontent.com"
   - "firefox.com.cn"
   - "mdn.mozillademos.org"
   - "sentry.prod.mozaws.net"

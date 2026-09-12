@@ -1,21 +1,21 @@
 # NAME: PPTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:56.098697+00:00
+# UPDATED: 2026-09-12T20:36:19.940878+00:00
 no_resolve: true
 domain_suffix_set:
   - "g1d.net"
-  - "kidpp.cn"
-  - "kidyy.cn"
-  - "kidkk.cn"
-  - "kidsn.cn"
   - "pptv.com"
+  - "kidyy.cn"
+  - "kidpp.cn"
+  - "kidsn.cn"
+  - "kidkk.cn"
   - "pplive.cn"
-  - "snrent.cn"
   - "bkrent.cn"
-  - "pplive.com"
+  - "snrent.cn"
   - "pplive.net"
-  - "pptvyun.com"
+  - "pplive.com"
   - "pptvimg.com"
+  - "pptvyun.com"
   - "pptvnet.com"
   - "pptvdata.com"
   - "synacast.com"

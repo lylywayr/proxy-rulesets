@@ -1,12 +1,12 @@
 # NAME: ZhongYuanYiShang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:34:15.697792+00:00
+# UPDATED: 2026-09-12T20:40:04.837563+00:00
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 
 DOMAIN-SUFFIX,esound.cn
-DOMAIN-SUFFIX,esound.vip
 DOMAIN-SUFFIX,iotboss.cn
+DOMAIN-SUFFIX,esound.vip
 DOMAIN-SUFFIX,flymodem.cn
 DOMAIN-SUFFIX,flymodem.net
 DOMAIN-SUFFIX,bjesound.com

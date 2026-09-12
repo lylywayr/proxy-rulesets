@@ -1,18 +1,18 @@
 # NAME: GlobalSign
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:30:25.541903+00:00
+# UPDATED: 2026-09-12T20:36:02.294384+00:00
 no_resolve: true
 domain_suffix_set:
-  - "globalsign.ch"
   - "globalsign.be"
-  - "globalsign.fr"
-  - "globalsign.es"
   - "globalsign.nl"
   - "globalsign.eu"
-  - "globalsign.net"
+  - "globalsign.es"
+  - "globalsign.ch"
+  - "globalsign.fr"
   - "globalsign.com"
+  - "globalsign.net"
   - "globalsign-media.com"
   - "globalsign.co.uk"
+  - "globalsign.com.au"
   - "globalsign.com.hk"
   - "globalsign.com.sg"
-  - "globalsign.com.au"

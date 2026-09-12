@@ -1,15 +1,15 @@
 # NAME: Cloudflarecn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-05T20:12:59.213975+00:00
+# UPDATED: 2026-09-12T20:18:50.308314+00:00
 # DOMAIN-SUFFIX: 14
 # TOTAL: 14
 
 DOMAIN-SUFFIX,cf-ns.net
 DOMAIN-SUFFIX,cf-ns.com
-DOMAIN-SUFFIX,cf-ns.tech
-DOMAIN-SUFFIX,cftest6.cn
 DOMAIN-SUFFIX,cf-ns.site
 DOMAIN-SUFFIX,cftest5.cn
+DOMAIN-SUFFIX,cf-ns.tech
+DOMAIN-SUFFIX,cftest6.cn
 DOMAIN-SUFFIX,cftest8.com
 DOMAIN-SUFFIX,cftest7.com
 DOMAIN-SUFFIX,cloudflarecn.net
