@@ -1,6 +1,6 @@
 # NAME: 56
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:44:49.646454+00:00
+# UPDATED: 2026-09-19T19:40:10.242512+00:00
 no_resolve: true
 domain_suffix_set:
   - "56.com"

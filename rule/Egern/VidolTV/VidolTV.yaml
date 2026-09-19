@@ -1,6 +1,6 @@
 # NAME: VidolTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:39:59.145568+00:00
+# UPDATED: 2026-09-19T20:41:38.117726+00:00
 no_resolve: true
 domain_suffix_set:
   - "vidol.tv"

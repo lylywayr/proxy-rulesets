@@ -1,6 +1,6 @@
 # NAME: NaverTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:36:15.849960+00:00
+# UPDATED: 2026-09-19T20:37:14.392474+00:00
 payload:
   - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,smartmediarep.com

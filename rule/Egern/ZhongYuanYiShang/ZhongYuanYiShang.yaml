@@ -1,14 +1,14 @@
 # NAME: ZhongYuanYiShang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:40:04.838268+00:00
+# UPDATED: 2026-09-19T20:41:46.969399+00:00
 no_resolve: true
 domain_suffix_set:
   - "esound.cn"
   - "iotboss.cn"
   - "esound.vip"
   - "flymodem.cn"
-  - "flymodem.net"
   - "bjesound.com"
+  - "flymodem.net"
   - "esound.net.cn"
   - "earlymen.com.cn"
   - "flymodem.com.cn"

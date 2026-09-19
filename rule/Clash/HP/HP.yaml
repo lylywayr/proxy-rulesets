@@ -1,6 +1,6 @@
 # NAME: HP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:36:06.379598+00:00
+# UPDATED: 2026-09-19T20:36:55.967142+00:00
 payload:
   - DOMAIN-SUFFIX,hp.com
   - DOMAIN-SUFFIX,hpstore.com

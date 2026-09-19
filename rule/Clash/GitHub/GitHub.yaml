@@ -1,6 +1,6 @@
 # NAME: GitHub
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:36:01.964370+00:00
+# UPDATED: 2026-09-19T20:36:47.923692+00:00
 payload:
   - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,github-api.arkoselabs.com
@@ -31,9 +31,9 @@ payload:
   - DOMAIN,productionresultssa9.blob.core.windows.net
   - DOMAIN-SUFFIX,gh.io
   - DOMAIN-SUFFIX,git.io
-  - DOMAIN-SUFFIX,atom.io
-  - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,ghe.com
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,github.io
@@ -43,22 +43,22 @@ payload:
   - DOMAIN-SUFFIX,github.dev
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,npm.community
+  - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,github.career
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,rawgithub.com
-  - DOMAIN-SUFFIX,npm.community
-  - DOMAIN-SUFFIX,githubapp.com
-  - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,dependabot.com
+  - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,octocaptcha.com
-  - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubstatus.com
-  - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,github.community
-  - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,opensource.guide
+  - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubsupport.com
-  - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-SUFFIX,githubpreview.dev
+  - DOMAIN-SUFFIX,thegithubshop.com
+  - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubuniverse.com
   - DOMAIN-SUFFIX,githubhackathon.com
   - DOMAIN-SUFFIX,githubusercontent.com

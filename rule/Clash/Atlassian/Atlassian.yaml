@@ -1,9 +1,9 @@
 # NAME: Atlassian
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:44:57.506712+00:00
+# UPDATED: 2026-09-19T19:40:26.324125+00:00
 payload:
   - DOMAIN-SUFFIX,trello.com
-  - DOMAIN-SUFFIX,trellocdn.com
   - DOMAIN-SUFFIX,bitbucket.org
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,statuspage.io
+  - DOMAIN-SUFFIX,trellocdn.com

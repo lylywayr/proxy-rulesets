@@ -9,20 +9,20 @@
 - 分类标识：`ChinaMaxNoMedia`
 - 当前客户端：`Loon`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
+- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`12591`
+- 总数：`12592`
 - `DOMAIN-SUFFIX`: 47
 - `DOMAIN-KEYWORD`: 11
 - `USER-AGENT`: 65
 - `PROCESS-NAME`: 12
 - `IP-ASN`: 1
-- `IP-CIDR`: 8245
-- `IP-CIDR6`: 4222
+- `IP-CIDR`: 8247
+- `IP-CIDR6`: 4221
 
 ### 使用说明
 
@@ -54,7 +54,7 @@ Aggregated rules for ChinaMaxNoMedia, covering related domains, keywords, and ne
 - Category ID: `ChinaMaxNoMedia`
 - Client: `Loon`
 - Group: `Media`
-- Last updated: `2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
+- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ChinaMaxNoMedia/ChinaMaxNoMedia.list>
 

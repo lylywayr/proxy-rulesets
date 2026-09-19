@@ -1,10 +1,10 @@
 # NAME: Apkpure
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:44:55.146457+00:00
+# UPDATED: 2026-09-19T19:40:22.010733+00:00
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 
 DOMAIN-SUFFIX,winudf.com
-DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,apkpure.com

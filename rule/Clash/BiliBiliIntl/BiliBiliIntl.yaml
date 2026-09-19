@@ -1,6 +1,6 @@
 # NAME: BiliBiliIntl
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:44:58.662255+00:00
+# UPDATED: 2026-09-19T19:40:28.478137+00:00
 payload:
   - DOMAIN-SUFFIX,bilibili.tv
   - PROCESS-NAME,com.bstar.intl

@@ -1,6 +1,6 @@
 # NAME: AsianMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:44:57.456587+00:00
+# UPDATED: 2026-09-19T19:40:26.212413+00:00
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv

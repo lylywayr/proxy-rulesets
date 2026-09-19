@@ -1,13 +1,13 @@
 # NAME: XueQiu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:40:02.503507+00:00
+# UPDATED: 2026-09-19T20:41:43.553510+00:00
 # DOMAIN-SUFFIX: 11
 # TOTAL: 11
 
 DOMAIN-SUFFIX,imeigu.cn
 DOMAIN-SUFFIX,ncfjj.com
-DOMAIN-SUFFIX,imedao.com
 DOMAIN-SUFFIX,xueqiu.com
+DOMAIN-SUFFIX,imedao.com
 DOMAIN-SUFFIX,iganggu.com
 DOMAIN-SUFFIX,aiganggu.com
 DOMAIN-SUFFIX,danjuanapp.com

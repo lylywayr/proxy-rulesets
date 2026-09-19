@@ -1,9 +1,9 @@
 # NAME: Collabora
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:18:50.779126+00:00
+# UPDATED: 2026-09-19T20:17:46.261381+00:00
 no_resolve: true
 domain_suffix_set:
-  - "collabora.org"
   - "collabora.com"
+  - "collabora.org"
   - "collaboraoffice.com"
   - "collabora.co.uk"

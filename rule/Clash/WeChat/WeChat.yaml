@@ -1,6 +1,6 @@
 # NAME: WeChat
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:40:00.442717+00:00
+# UPDATED: 2026-09-19T20:41:40.232574+00:00
 payload:
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN,dldir1.qq.com
@@ -11,9 +11,9 @@ payload:
   - DOMAIN,wup.imtt.qq.com
   - DOMAIN-SUFFIX,qpic.cn
   - DOMAIN-SUFFIX,qlogo.cn
+  - DOMAIN-SUFFIX,weixin.com
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,tenpay.com
-  - DOMAIN-SUFFIX,weixin.com
   - DOMAIN-SUFFIX,wechatos.net
   - DOMAIN-SUFFIX,weixinsxy.com
   - DOMAIN-SUFFIX,wechatpay.com

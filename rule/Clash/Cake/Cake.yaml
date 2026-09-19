@@ -1,6 +1,6 @@
 # NAME: Cake
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:44:59.867293+00:00
+# UPDATED: 2026-09-19T19:40:30.777600+00:00
 payload:
   - DOMAIN,d1koerlbtsmkf8.cloudfront.net
   - DOMAIN,d31wl6mro6753i.cloudfront.net

@@ -1,9 +1,9 @@
 # NAME: SlideShare
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:39:43.520188+00:00
+# UPDATED: 2026-09-19T20:41:28.200731+00:00
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 
-DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,slideshare.com
+DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,slidesharecdn.com

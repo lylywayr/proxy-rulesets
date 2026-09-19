@@ -1,6 +1,6 @@
 # NAME: AmazonTrust
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:44:54.152713+00:00
+# UPDATED: 2026-09-19T19:40:20.044972+00:00
 payload:
   - DOMAIN-SUFFIX,ss2.us
   - DOMAIN-SUFFIX,awstrust.com

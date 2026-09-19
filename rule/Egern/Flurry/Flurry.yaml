@@ -1,6 +1,6 @@
 # NAME: Flurry
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:36:00.797149+00:00
+# UPDATED: 2026-09-19T20:36:45.618300+00:00
 no_resolve: true
 domain_suffix_set:
   - "data.flurry.com"

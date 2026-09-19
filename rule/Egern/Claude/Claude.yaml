@@ -1,6 +1,6 @@
 # NAME: Claude
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:18:49.982818+00:00
+# UPDATED: 2026-09-19T20:17:44.700363+00:00
 no_resolve: true
 domain_set:
   - "cdn.usefathom.com"

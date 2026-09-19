@@ -1,6 +1,6 @@
 # NAME: AsianMedia
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:44:57.456942+00:00
+# UPDATED: 2026-09-19T19:40:26.212732+00:00
 no_resolve: true
 domain_set:
   - "akmcdnoversea-tw.inter.iqiyi.com"

@@ -1,5 +1,5 @@
 # NAME: Qyyjt
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:39:41.665366+00:00
+# UPDATED: 2026-09-19T20:41:24.713932+00:00
 payload:
   - DOMAIN-SUFFIX,qyyjt.cn

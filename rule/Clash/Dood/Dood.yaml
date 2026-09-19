@@ -1,6 +1,6 @@
 # NAME: Dood
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:35:58.129113+00:00
+# UPDATED: 2026-09-19T20:36:40.479357+00:00
 payload:
   - DOMAIN-SUFFIX,dood.so
   - DOMAIN-SUFFIX,dood.video

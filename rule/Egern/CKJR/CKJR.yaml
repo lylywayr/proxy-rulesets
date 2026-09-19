@@ -1,18 +1,18 @@
 # NAME: CKJR
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:18:49.927346+00:00
+# UPDATED: 2026-09-19T20:17:44.549425+00:00
 no_resolve: true
 domain_suffix_set:
   - "myckjr.cn"
-  - "ckjr001.cn"
-  - "tkckjr.com"
-  - "myckjr.com"
-  - "qxckjr.com"
-  - "51ckjr.com"
-  - "ckjryy.com"
   - "tjckjr.com"
+  - "myckjr.com"
+  - "ckjryy.com"
+  - "qxckjr.com"
+  - "tkckjr.com"
+  - "51ckjr.com"
+  - "ckjr001.cn"
   - "meituo.shop"
-  - "sxyckjr.com"
   - "ckjr001.com"
+  - "sxyckjr.com"
   - "tengkaxx.com"
   - "tengkackjr.com"

@@ -1,9 +1,9 @@
 # NAME: FanFou
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:35:59.993673+00:00
+# UPDATED: 2026-09-19T20:36:44.181843+00:00
 no_resolve: true
 domain_suffix_set:
-  - "comum.cn"
   - "comox.cn"
+  - "comum.cn"
   - "mlj130.cn"
   - "ifanfou.cn"

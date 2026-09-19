@@ -1,12 +1,12 @@
 # NAME: BesTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:44:58.445316+00:00
+# UPDATED: 2026-09-19T19:40:28.095624+00:00
 no_resolve: true
 domain_suffix_set:
   - "bbtv.cn"
   - "smgbb.cn"
   - "bestvcdn.cn"
-  - "bestvcdn.net"
   - "bestvcdn.com"
+  - "bestvcdn.net"
   - "bestv.com.cn"
   - "bestvcdn.com.cn"

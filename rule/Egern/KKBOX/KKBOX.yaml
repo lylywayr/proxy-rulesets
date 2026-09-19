@@ -1,13 +1,13 @@
 # NAME: KKBOX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:36:10.329280+00:00
+# UPDATED: 2026-09-19T20:37:03.849525+00:00
 no_resolve: true
 domain_suffix_set:
   - "kfs.io"
   - "kktv.me"
   - "kktix.com"
-  - "kk.stream"
   - "kkbox.com"
+  - "kk.stream"
   - "kkbox-prime.com"
   - "kktv.com.tw"
   - "kkbox.com.tw"

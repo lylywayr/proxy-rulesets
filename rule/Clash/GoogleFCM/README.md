@@ -9,7 +9,7 @@
 - 分类标识：`GoogleFCM`
 - 当前客户端：`Clash`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
+- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
 - 专题入口：
 - [云网络专题](../../../guide/topics/cloud-network.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for GoogleFCM, covering related domains, keywords, and network 
 - Category ID: `GoogleFCM`
 - Client: `Clash`
 - Group: `Office`
-- Last updated: `2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
+- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GoogleFCM/GoogleFCM.yaml>
 

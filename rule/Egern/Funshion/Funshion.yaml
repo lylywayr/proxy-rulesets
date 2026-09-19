@@ -1,15 +1,15 @@
 # NAME: Funshion
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:36:01.307363+00:00
+# UPDATED: 2026-09-19T20:36:46.537917+00:00
 no_resolve: true
 domain_suffix_set:
   - "fun.tv"
   - "fspcdn.com"
+  - "jvcsmart.cn"
   - "ibidian.com"
   - "funshion.tv"
-  - "jvcsmart.cn"
+  - "funshion.com"
+  - "9ixiuxiu.com"
   - "9iwanwan.com"
   - "funshion.net"
-  - "9ixiuxiu.com"
-  - "funshion.com"
   - "jvcsmart.com.cn"

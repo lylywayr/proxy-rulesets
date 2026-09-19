@@ -144,14 +144,14 @@
 | 中国教育电视台 | 流媒体与内容 | `3` | [规则](./CETV/CETV.list) | [说明](./CETV/README.md) |
 | 广发银行 | 金融电商 | `4` | [规则](./CGB/CGB.list) | [说明](./CGB/README.md) |
 | 城通网盘 | 生活与工具 | `4` | [规则](./ChengTongWangPan/ChengTongWangPan.list) | [说明](./ChengTongWangPan/README.md) |
-| 中国大陆 | 中国大陆服务 | `121126` | [规则](./China/China.list) | [说明](./China/README.md) |
+| 中国大陆 | 中国大陆服务 | `121220` | [规则](./China/China.list) | [说明](./China/README.md) |
 | 中国 ASN | 中国大陆服务 | `1009` | [规则](./ChinaASN/ChinaASN.list) | [说明](./ChinaASN/README.md) |
 | 中国 DNS | 云与网络 | `110434` | [规则](./ChinaDNS/ChinaDNS.list) | [说明](./ChinaDNS/README.md) |
-| 中国 IP | AI 服务 | `11387` | [规则](./ChinaIPs/ChinaIPs.list) | [说明](./ChinaIPs/README.md) |
+| 中国 IP | AI 服务 | `11394` | [规则](./ChinaIPs/ChinaIPs.list) | [说明](./ChinaIPs/README.md) |
 | 中国 IP BGP | AI 服务 | `3916` | [规则](./ChinaIPsBGP/ChinaIPsBGP.list) | [说明](./ChinaIPsBGP/README.md) |
-| 中国大陆全量 | 中国大陆服务 | `12597` | [规则](./ChinaMax/ChinaMax.list) | [说明](./ChinaMax/README.md) |
+| 中国大陆全量 | 中国大陆服务 | `12598` | [规则](./ChinaMax/ChinaMax.list) | [说明](./ChinaMax/README.md) |
 | 中国大陆全量无 IP | 中国大陆服务 | `125` | [规则](./ChinaMaxNoIP/ChinaMaxNoIP.list) | [说明](./ChinaMaxNoIP/README.md) |
-| 中国大陆全量无媒体 | 流媒体与内容 | `12591` | [规则](./ChinaMaxNoMedia/ChinaMaxNoMedia.list) | [说明](./ChinaMaxNoMedia/README.md) |
+| 中国大陆全量无媒体 | 流媒体与内容 | `12592` | [规则](./ChinaMaxNoMedia/ChinaMaxNoMedia.list) | [说明](./ChinaMaxNoMedia/README.md) |
 | 中国媒体 | 中国大陆服务 | `440` | [规则](./ChinaMedia/ChinaMedia.list) | [说明](./ChinaMedia/README.md) |
 | 中国移动 | 中国大陆服务 | `36` | [规则](./ChinaMobile/ChinaMobile.list) | [说明](./ChinaMobile/README.md) |
 | 中国新闻 | 流媒体与内容 | `4` | [规则](./ChinaNews/ChinaNews.list) | [说明](./ChinaNews/README.md) |
@@ -478,7 +478,7 @@
 | Privacy | 隐私与基础分流 | `20` | [规则](./Privacy/Privacy.list) | [说明](./Privacy/README.md) |
 | PrivateTracker | 生活与工具 | `248` | [规则](./PrivateTracker/PrivateTracker.list) | [说明](./PrivateTracker/README.md) |
 | Protonmail | AI 服务 | `5` | [规则](./Protonmail/Protonmail.list) | [说明](./Protonmail/README.md) |
-| 代理 | 隐私与基础分流 | `27205` | [规则](./Proxy/Proxy.list) | [说明](./Proxy/README.md) |
+| 代理 | 隐私与基础分流 | `27209` | [规则](./Proxy/Proxy.list) | [说明](./Proxy/README.md) |
 | ProxyLite | 隐私与基础分流 | `982` | [规则](./ProxyLite/ProxyLite.list) | [说明](./ProxyLite/README.md) |
 | 邮储银行 | 金融电商 | `3` | [规则](./PSBC/PSBC.list) | [说明](./PSBC/README.md) |
 | Pubmatic | 生活与工具 | `1` | [规则](./Pubmatic/Pubmatic.list) | [说明](./Pubmatic/README.md) |

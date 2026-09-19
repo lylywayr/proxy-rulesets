@@ -1,14 +1,14 @@
 # NAME: CEB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:45:00.404537+00:00
+# UPDATED: 2026-09-19T19:40:31.651343+00:00
 no_resolve: true
 domain_suffix_set:
+  - "ebscn.com"
   - "secec.com"
   - "ebfcn.com"
-  - "ebscn.com"
   - "eb-ind.com"
-  - "ebasset.com"
   - "ebtrust.com"
+  - "ebasset.com"
   - "cebbank.com"
   - "ebchina.com"
   - "ceblease.com"

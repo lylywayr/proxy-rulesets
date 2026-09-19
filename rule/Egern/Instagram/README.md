@@ -9,7 +9,7 @@
 - 分类标识：`Instagram`
 - 当前客户端：`Egern`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
-- 本次更新时间：`2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
+- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
 - 专题入口：
 - [社交通信专题](../../../guide/topics/social-communication.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for Instagram, covering related domains, keywords, and network 
 - Category ID: `Instagram`
 - Client: `Egern`
 - Group: `Social`
-- Last updated: `2026-09-13 03:44:48 CST (UTC+8) / 2026-09-12 19:44:48 UTC`
+- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Instagram/Instagram.yaml>
 

@@ -1,40 +1,40 @@
 # NAME: Duckduckgo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:35:58.822274+00:00
+# UPDATED: 2026-09-19T20:36:41.670571+00:00
 # DOMAIN-SUFFIX: 43
 # TOTAL: 43
 
-DOMAIN-SUFFIX,ddg.co
-DOMAIN-SUFFIX,ddh.gg
 DOMAIN-SUFFIX,ddg.gg
+DOMAIN-SUFFIX,ddg.co
 DOMAIN-SUFFIX,dgg.gg
+DOMAIN-SUFFIX,ddh.gg
 DOMAIN-SUFFIX,duck.co
 DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,dukgo.com
 DOMAIN-SUFFIX,duckgo.com
 DOMAIN-SUFFIX,ducksear.ch
 DOMAIN-SUFFIX,hacksear.ch
-DOMAIN-SUFFIX,donttrack.us
 DOMAIN-SUFFIX,duckside.com
 DOMAIN-SUFFIX,goduckgo.com
+DOMAIN-SUFFIX,donttrack.us
+DOMAIN-SUFFIX,duckduckgo.mx
+DOMAIN-SUFFIX,duckduckgo.uk
+DOMAIN-SUFFIX,duckduckgo.dk
+DOMAIN-SUFFIX,duckduckgo.jp
 DOMAIN-SUFFIX,duckduckgo.in
+DOMAIN-SUFFIX,duckduckco.de
+DOMAIN-SUFFIX,duckduckgo.sg
+DOMAIN-SUFFIX,duckduckgo.pl
 DOMAIN-SUFFIX,duckduckgo.ca
+DOMAIN-SUFFIX,duckduckgo.co
+DOMAIN-SUFFIX,duckduckgo.nl
+DOMAIN-SUFFIX,duckduckgo.de
 DOMAIN-SUFFIX,dontbubble.us
 DOMAIN-SUFFIX,duckduckgo.ke
-DOMAIN-SUFFIX,duckduckgo.dk
-DOMAIN-SUFFIX,duckduckgo.nl
-DOMAIN-SUFFIX,duckduckgo.sg
-DOMAIN-SUFFIX,duckduckgo.mx
-DOMAIN-SUFFIX,duckduckgo.jp
-DOMAIN-SUFFIX,duckduckgo.pl
-DOMAIN-SUFFIX,duckduckco.de
-DOMAIN-SUFFIX,duckduckgo.co
-DOMAIN-SUFFIX,duckduckgo.uk
-DOMAIN-SUFFIX,duckduckgo.de
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,enteentegeh.de
 DOMAIN-SUFFIX,duckduckgo.org
 DOMAIN-SUFFIX,justduckit.com
-DOMAIN-SUFFIX,enteentegeh.de
-DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,duckduckco.com
 DOMAIN-SUFFIX,cispaletter.com
 DOMAIN-SUFFIX,fixtracking.com

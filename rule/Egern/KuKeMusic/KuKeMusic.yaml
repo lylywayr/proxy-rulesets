@@ -1,8 +1,8 @@
 # NAME: KuKeMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:36:10.768296+00:00
+# UPDATED: 2026-09-19T20:37:04.887781+00:00
 no_resolve: true
 domain_suffix_set:
-  - "naxos.cn"
   - "kuke.com"
+  - "naxos.cn"
   - "kukey.com.cn"

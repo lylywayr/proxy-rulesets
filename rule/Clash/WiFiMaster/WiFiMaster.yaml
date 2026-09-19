@@ -1,66 +1,66 @@
 # NAME: WiFiMaster
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T20:40:01.117576+00:00
+# UPDATED: 2026-09-19T20:41:41.176398+00:00
 payload:
   - DOMAIN-SUFFIX,v.to
   - DOMAIN-SUFFIX,51y5.com
   - DOMAIN-SUFFIX,wifi.com
   - DOMAIN-SUFFIX,51y5.net
+  - DOMAIN-SUFFIX,wkanx.com
+  - DOMAIN-SUFFIX,y5api.com
   - DOMAIN-SUFFIX,tdtbd.com
-  - DOMAIN-SUFFIX,im-ch.com
   - DOMAIN-SUFFIX,lneab.com
   - DOMAIN-SUFFIX,ttnea.com
-  - DOMAIN-SUFFIX,y5api.com
-  - DOMAIN-SUFFIX,wkanx.com
-  - DOMAIN-SUFFIX,wkopen.com
-  - DOMAIN-SUFFIX,swaqds.com
-  - DOMAIN-SUFFIX,cekeis.com
-  - DOMAIN-SUFFIX,51huitu.cn
+  - DOMAIN-SUFFIX,im-ch.com
+  - DOMAIN-SUFFIX,y5news.com
   - DOMAIN-SUFFIX,51lstt.com
   - DOMAIN-SUFFIX,zenmen.com
-  - DOMAIN-SUFFIX,y5news.com
-  - DOMAIN-SUFFIX,lsttapp.com
-  - DOMAIN-SUFFIX,wifiniu.com
-  - DOMAIN-SUFFIX,wifinew.com
-  - DOMAIN-SUFFIX,readdsp.com
+  - DOMAIN-SUFFIX,cekeis.com
+  - DOMAIN-SUFFIX,swaqds.com
+  - DOMAIN-SUFFIX,51huitu.cn
+  - DOMAIN-SUFFIX,wkopen.com
+  - DOMAIN-SUFFIX,wifi188.com
   - DOMAIN-SUFFIX,wifivpn.net
-  - DOMAIN-SUFFIX,wifiapi.net
-  - DOMAIN-SUFFIX,y5store.com
+  - DOMAIN-SUFFIX,wifinew.com
   - DOMAIN-SUFFIX,lsttpro.com
+  - DOMAIN-SUFFIX,wifiniu.com
+  - DOMAIN-SUFFIX,wifiapi.net
   - DOMAIN-SUFFIX,lsttweb.com
   - DOMAIN-SUFFIX,wifisdk.net
-  - DOMAIN-SUFFIX,wifi188.com
+  - DOMAIN-SUFFIX,lsttapp.com
+  - DOMAIN-SUFFIX,y5store.com
+  - DOMAIN-SUFFIX,readdsp.com
   - DOMAIN-SUFFIX,lsgenius.com
-  - DOMAIN-SUFFIX,createwf.com
-  - DOMAIN-SUFFIX,ieeewifi.com
-  - DOMAIN-SUFFIX,lsttnews.com
-  - DOMAIN-SUFFIX,wifinews.com
-  - DOMAIN-SUFFIX,gamewifi.net
   - DOMAIN-SUFFIX,lsttrich.com
-  - DOMAIN-SUFFIX,wifi6667.com
-  - DOMAIN-SUFFIX,llsttapp.com
   - DOMAIN-SUFFIX,lianwifi.com
+  - DOMAIN-SUFFIX,ieeewifi.com
+  - DOMAIN-SUFFIX,createwf.com
+  - DOMAIN-SUFFIX,gamewifi.net
   - DOMAIN-SUFFIX,lstt-app.com
-  - DOMAIN-SUFFIX,wifidigyy.com
-  - DOMAIN-SUFFIX,newsapp01.com
-  - DOMAIN-SUFFIX,lsttworks.com
-  - DOMAIN-SUFFIX,51newsapp.com
-  - DOMAIN-SUFFIX,ilinksure.com
-  - DOMAIN-SUFFIX,lsttmoney.com
-  - DOMAIN-SUFFIX,glinksure.com
-  - DOMAIN-SUFFIX,wificstia.com
-  - DOMAIN-SUFFIX,xiaoyiads.com
+  - DOMAIN-SUFFIX,lsttnews.com
+  - DOMAIN-SUFFIX,llsttapp.com
+  - DOMAIN-SUFFIX,wifinews.com
+  - DOMAIN-SUFFIX,wifi6667.com
   - DOMAIN-SUFFIX,happykey6.com
+  - DOMAIN-SUFFIX,51newsapp.com
+  - DOMAIN-SUFFIX,lsttmoney.com
+  - DOMAIN-SUFFIX,ilinksure.com
+  - DOMAIN-SUFFIX,newsapp01.com
+  - DOMAIN-SUFFIX,wificstia.com
+  - DOMAIN-SUFFIX,glinksure.com
+  - DOMAIN-SUFFIX,wifidigyy.com
+  - DOMAIN-SUFFIX,lsttworks.com
+  - DOMAIN-SUFFIX,xiaoyiads.com
   - DOMAIN-SUFFIX,lsttappweb.com
-  - DOMAIN-SUFFIX,xinwengood.com
   - DOMAIN-SUFFIX,lsttonline.com
   - DOMAIN-SUFFIX,lianliantao.cn
   - DOMAIN-SUFFIX,lsttapppro.com
-  - DOMAIN-SUFFIX,lianliantao.net
+  - DOMAIN-SUFFIX,xinwengood.com
   - DOMAIN-SUFFIX,toutiaogood.com
-  - DOMAIN-SUFFIX,lsttappspace.com
-  - DOMAIN-SUFFIX,lianwangtech.com
-  - DOMAIN-SUFFIX,lsttappworks.com
+  - DOMAIN-SUFFIX,lianliantao.net
   - DOMAIN-SUFFIX,lsttappmoney.com
+  - DOMAIN-SUFFIX,lianwangtech.com
+  - DOMAIN-SUFFIX,lsttappspace.com
+  - DOMAIN-SUFFIX,lsttappworks.com
   - DOMAIN-SUFFIX,lianliantaoshop.com
   - DOMAIN-SUFFIX,lianliantao.com.cn

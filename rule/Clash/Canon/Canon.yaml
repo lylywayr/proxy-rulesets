@@ -1,50 +1,50 @@
 # NAME: Canon
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-12T19:45:00.001230+00:00
+# UPDATED: 2026-09-19T19:40:31.010026+00:00
 payload:
-  - DOMAIN-SUFFIX,canon.cz
-  - DOMAIN-SUFFIX,canon.ee
-  - DOMAIN-SUFFIX,canon.de
-  - DOMAIN-SUFFIX,canon.tj
-  - DOMAIN-SUFFIX,c-ij.com
-  - DOMAIN-SUFFIX,canon.ba
-  - DOMAIN-SUFFIX,canon.ua
-  - DOMAIN-SUFFIX,canon.hu
-  - DOMAIN-SUFFIX,canon.cn
-  - DOMAIN-SUFFIX,canon.ru
-  - DOMAIN-SUFFIX,canon.pt
-  - DOMAIN-SUFFIX,canon.fr
-  - DOMAIN-SUFFIX,canon.lt
-  - DOMAIN-SUFFIX,canon.sk
-  - DOMAIN-SUFFIX,canon.hr
   - DOMAIN-SUFFIX,canon.ro
-  - DOMAIN-SUFFIX,canon.ie
-  - DOMAIN-SUFFIX,canon.nl
-  - DOMAIN-SUFFIX,canon.az
-  - DOMAIN-SUFFIX,canon.bg
-  - DOMAIN-SUFFIX,canon.fi
-  - DOMAIN-SUFFIX,canon.am
-  - DOMAIN-SUFFIX,canon.ge
-  - DOMAIN-SUFFIX,canon.ch
-  - DOMAIN-SUFFIX,canon.si
-  - DOMAIN-SUFFIX,canon.kz
-  - DOMAIN-SUFFIX,canon.gr
-  - DOMAIN-SUFFIX,canon.dk
   - DOMAIN-SUFFIX,canon.lv
-  - DOMAIN-SUFFIX,canon.es
-  - DOMAIN-SUFFIX,canon.uz
-  - DOMAIN-SUFFIX,canon.rs
-  - DOMAIN-SUFFIX,canon.no
-  - DOMAIN-SUFFIX,canon.lu
-  - DOMAIN-SUFFIX,canon.pl
-  - DOMAIN-SUFFIX,canon.me
-  - DOMAIN-SUFFIX,canon.ca
-  - DOMAIN-SUFFIX,canon.se
-  - DOMAIN-SUFFIX,canon.at
+  - DOMAIN-SUFFIX,canon.ru
+  - DOMAIN-SUFFIX,canon.ge
   - DOMAIN-SUFFIX,canon.it
+  - DOMAIN-SUFFIX,canon.dk
+  - DOMAIN-SUFFIX,canon.de
+  - DOMAIN-SUFFIX,canon.fr
+  - DOMAIN-SUFFIX,canon.si
+  - DOMAIN-SUFFIX,canon.ua
+  - DOMAIN-SUFFIX,canon.fi
+  - DOMAIN-SUFFIX,canon.es
+  - DOMAIN-SUFFIX,canon.ba
+  - DOMAIN-SUFFIX,canon.sk
+  - DOMAIN-SUFFIX,canon.bg
+  - DOMAIN-SUFFIX,canon.kz
+  - DOMAIN-SUFFIX,canon.hr
+  - DOMAIN-SUFFIX,canon.lu
+  - DOMAIN-SUFFIX,canon.pt
+  - DOMAIN-SUFFIX,canon.az
+  - DOMAIN-SUFFIX,canon.hu
+  - DOMAIN-SUFFIX,canon.ie
   - DOMAIN-SUFFIX,canon.be
-  - DOMAIN-SUFFIX,canon.net
+  - DOMAIN-SUFFIX,canon.lt
+  - DOMAIN-SUFFIX,canon.am
+  - DOMAIN-SUFFIX,canon.ee
+  - DOMAIN-SUFFIX,canon.ch
+  - DOMAIN-SUFFIX,canon.rs
+  - DOMAIN-SUFFIX,c-ij.com
+  - DOMAIN-SUFFIX,canon.me
+  - DOMAIN-SUFFIX,canon.se
+  - DOMAIN-SUFFIX,canon.tj
+  - DOMAIN-SUFFIX,canon.pl
+  - DOMAIN-SUFFIX,canon.ca
+  - DOMAIN-SUFFIX,canon.uz
+  - DOMAIN-SUFFIX,canon.at
+  - DOMAIN-SUFFIX,canon.cn
+  - DOMAIN-SUFFIX,canon.nl
+  - DOMAIN-SUFFIX,canon.gr
+  - DOMAIN-SUFFIX,canon.cz
+  - DOMAIN-SUFFIX,canon.no
   - DOMAIN-SUFFIX,canon.com
+  - DOMAIN-SUFFIX,canon.net
   - DOMAIN-SUFFIX,canon-ois.qa
   - DOMAIN-SUFFIX,canon-me.com
   - DOMAIN-SUFFIX,canon-cee.com
@@ -56,19 +56,19 @@ payload:
   - DOMAIN-SUFFIX,canonfoundation.org
   - DOMAIN-SUFFIX,canonproprinters.com
   - DOMAIN-SUFFIX,canon-cmos-sensors.com
-  - DOMAIN-SUFFIX,canon.co.uk
   - DOMAIN-SUFFIX,canon.co.il
+  - DOMAIN-SUFFIX,canon.co.uk
   - DOMAIN-SUFFIX,canon.co.za
+  - DOMAIN-SUFFIX,canon.com.cy
   - DOMAIN-SUFFIX,canon.com.my
   - DOMAIN-SUFFIX,canon.com.au
-  - DOMAIN-SUFFIX,canon.com.cn
-  - DOMAIN-SUFFIX,canon.com.cy
-  - DOMAIN-SUFFIX,canon.com.tr
   - DOMAIN-SUFFIX,canon.com.hk
   - DOMAIN-SUFFIX,canon.com.tw
-  - DOMAIN-SUFFIX,canon.com.al
-  - DOMAIN-SUFFIX,canon.com.by
-  - DOMAIN-SUFFIX,canon.com.mt
   - DOMAIN-SUFFIX,canon.com.mk
+  - DOMAIN-SUFFIX,canon.com.mt
+  - DOMAIN-SUFFIX,canon.com.al
+  - DOMAIN-SUFFIX,canon.com.cn
+  - DOMAIN-SUFFIX,canon.com.by
+  - DOMAIN-SUFFIX,canon.com.tr
   - DOMAIN-SUFFIX,canon-se.com.tw
   - DOMAIN-SUFFIX,canon-ebm.com.hk
