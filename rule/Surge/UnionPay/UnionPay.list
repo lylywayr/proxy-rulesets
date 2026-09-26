@@ -1,6 +1,6 @@
 # NAME: UnionPay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:37.091732+00:00
+# UPDATED: 2026-09-26T21:16:12.115084+00:00
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
 
@@ -9,9 +9,9 @@ DOMAIN-SUFFIX,95516.net
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,airepay.net
 DOMAIN-SUFFIX,chinapay.cn
-DOMAIN-SUFFIX,unionpay.net
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,chinapay.com
+DOMAIN-SUFFIX,unionpay.net
 DOMAIN-SUFFIX,unionpayintl.cn
 DOMAIN-SUFFIX,unionpayintl.com
 DOMAIN-SUFFIX,chinaunionpay.com

@@ -1,11 +1,11 @@
 # NAME: JOOX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:02.552182+00:00
+# UPDATED: 2026-09-26T21:11:57.853397+00:00
 no_resolve: true
 domain_suffix_set:
   - "joox.com"
-  - "i-joox.com"
   - "sanook.com"
+  - "i-joox.com"
 domain_keyword_set:
   - "jooxweb-api"
 user_agent_set:

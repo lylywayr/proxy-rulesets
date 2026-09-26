@@ -1,5 +1,5 @@
 # NAME: GoogleSearch
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:36:52.418739+00:00
+# UPDATED: 2026-09-26T21:11:50.880535+00:00
 payload:
   - DOMAIN-KEYWORD,www.google.

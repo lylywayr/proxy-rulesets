@@ -1,31 +1,31 @@
 # NAME: Discord
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:36:39.303891+00:00
+# UPDATED: 2026-09-26T21:11:40.151559+00:00
 payload:
   - DOMAIN-SUFFIX,dis.gd
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discord.co
-  - DOMAIN-SUFFIX,discord.dev
   - DOMAIN-SUFFIX,discord.new
+  - DOMAIN-SUFFIX,discord.dev
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discord.gift
-  - DOMAIN-SUFFIX,discord.media
-  - DOMAIN-SUFFIX,discordapp.io
-  - DOMAIN-SUFFIX,discord.tools
-  - DOMAIN-SUFFIX,discord.store
   - DOMAIN-SUFFIX,discord.gifts
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discord.store
+  - DOMAIN-SUFFIX,discord.tools
+  - DOMAIN-SUFFIX,discordapp.io
   - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,discord.design
   - DOMAIN-SUFFIX,airhornbot.com
   - DOMAIN-SUFFIX,discordapp.net
-  - DOMAIN-SUFFIX,discord.design
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordsays.com
   - DOMAIN-SUFFIX,discordmerch.com
-  - DOMAIN-SUFFIX,discordstatus.com
   - DOMAIN-SUFFIX,airhorn.solutions
+  - DOMAIN-SUFFIX,discordstatus.com
   - DOMAIN-SUFFIX,bigbeans.solutions
-  - DOMAIN-SUFFIX,discordactivities.com
   - DOMAIN-SUFFIX,discordpartygames.com
+  - DOMAIN-SUFFIX,discordactivities.com
   - DOMAIN-SUFFIX,discord-activities.com
   - DOMAIN-SUFFIX,watchanimeattheoffice.com
   - DOMAIN-SUFFIX,discordapp.page.link

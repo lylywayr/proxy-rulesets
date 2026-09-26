@@ -9,7 +9,7 @@
 - 分类标识：`GamePlatforms`
 - 当前客户端：`Egern`
 - 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - 专题入口：
 - [游戏平台专题](../../../guide/topics/gaming-platforms.md)
 
@@ -51,7 +51,7 @@ Game platforms and general gaming service rules.
 - Category ID: `GamePlatforms`
 - Client: `Egern`
 - Group: `Gaming`
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GamePlatforms/GamePlatforms.yaml>
 

@@ -1,6 +1,6 @@
 # NAME: TianTianKanKan
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:34.203375+00:00
+# UPDATED: 2026-09-26T21:16:09.436378+00:00
 payload:
   - DOMAIN-SUFFIX,kkstudy.cn
   - DOMAIN-SUFFIX,kankanpro.cn

@@ -1,5 +1,5 @@
 # NAME: AdColony
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T19:40:12.322480+00:00
+# UPDATED: 2026-09-26T20:15:51.194312+00:00
 payload:
   - DOMAIN-SUFFIX,adcolony.com

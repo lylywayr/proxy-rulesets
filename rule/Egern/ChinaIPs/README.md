@@ -9,15 +9,15 @@
 - 分类标识：`ChinaIPs`
 - 当前客户端：`Egern`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - 专题入口：
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`11394`
-- `IP-CIDR`: 7224
-- `IP-CIDR6`: 4170
+- 总数：`11382`
+- `IP-CIDR`: 7222
+- `IP-CIDR6`: 4160
 
 ### 使用说明
 
@@ -50,7 +50,7 @@ Aggregated rules for ChinaIPs, covering related domains, keywords, and network t
 - Category ID: `ChinaIPs`
 - Client: `Egern`
 - Group: `Ai`
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaIPs/ChinaIPs.yaml>
 

@@ -9,18 +9,18 @@
 - 分类标识：`China`
 - 当前客户端：`Egern`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
 ### 规则统计
 
-- 总数：`121223`
+- 总数：`121341`
 - `DOMAIN`: 403
-- `DOMAIN-SUFFIX`: 111076
+- `DOMAIN-SUFFIX`: 111323
 - `DOMAIN-REGEX`: 3
-- `IP-CIDR`: 6273
-- `IP-CIDR6`: 3468
+- `IP-CIDR`: 6205
+- `IP-CIDR6`: 3407
 
 ### 使用说明
 
@@ -56,7 +56,7 @@ China mainland service domains and networks.
 - Category ID: `China`
 - Client: `Egern`
 - Group: `Mainland`
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/China/China.yaml>
 

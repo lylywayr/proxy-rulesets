@@ -1,24 +1,24 @@
 # NAME: 6JianFang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T19:40:10.500602+00:00
+# UPDATED: 2026-09-26T20:15:49.555267+00:00
 no_resolve: true
 domain_suffix_set:
   - "6.cn"
+  - "ccpod.com"
   - "xiu123.cn"
   - "imgjs6.cn"
-  - "ccpod.com"
-  - "6imgcss.cn"
   - "6static.cn"
-  - "webimgs.cn"
   - "6rooms.com"
   - "6webimg.cn"
+  - "webimgs.cn"
+  - "6imgcss.cn"
   - "faceroom.cn"
   - "footbig.com"
-  - "huanpeng.com"
-  - "wwwstatic.cn"
   - "6resource.cn"
-  - "sixstatic.cn"
+  - "wwwstatic.cn"
   - "luyanhui.com"
+  - "huanpeng.com"
+  - "sixstatic.cn"
   - "6staticcdn.cn"
   - "sixresource.cn"
   - "6.com.cn"

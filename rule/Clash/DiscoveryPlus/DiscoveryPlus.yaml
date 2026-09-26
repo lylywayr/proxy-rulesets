@@ -1,6 +1,6 @@
 # NAME: DiscoveryPlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:36:39.441634+00:00
+# UPDATED: 2026-09-26T21:11:40.254406+00:00
 payload:
   - DOMAIN,discovery-us.conax.cloud
   - DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io

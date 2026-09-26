@@ -1,10 +1,10 @@
 # NAME: TIDAL
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:34.555409+00:00
+# UPDATED: 2026-09-26T21:16:09.712266+00:00
 payload:
   - DOMAIN-SUFFIX,tidal.com
-  - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,wimpmusic.com
+  - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
   - USER-AGENT,TIDAL*
   - USER-AGENT,TIDAL*dia

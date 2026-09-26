@@ -9,7 +9,7 @@
 - 分类标识：`XieCheng`
 - 当前客户端：`Surge`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for XieCheng, covering related domains, keywords, and network t
 - Category ID: `XieCheng`
 - Client: `Surge`
 - Group: `Lifestyle`
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/XieCheng/XieCheng.list>
 

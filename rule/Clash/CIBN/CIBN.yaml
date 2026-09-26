@@ -1,67 +1,67 @@
 # NAME: CIBN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:17:44.087394+00:00
+# UPDATED: 2026-09-26T20:52:12.584460+00:00
 payload:
   - DOMAIN-SUFFIX,cri.cn
   - DOMAIN-SUFFIX,cibn.cc
-  - DOMAIN-SUFFIX,cricz.cn
   - DOMAIN-SUFFIX,cricr.cn
+  - DOMAIN-SUFFIX,cricz.cn
   - DOMAIN-SUFFIX,hitfm.cn
-  - DOMAIN-SUFFIX,china.com
   - DOMAIN-SUFFIX,apecn.com
   - DOMAIN-SUFFIX,guotv.com
-  - DOMAIN-SUFFIX,temyee.com
-  - DOMAIN-SUFFIX,cririo.com
+  - DOMAIN-SUFFIX,china.com
   - DOMAIN-SUFFIX,criezfm.cn
-  - DOMAIN-SUFFIX,imgcdc.com
+  - DOMAIN-SUFFIX,cririo.com
   - DOMAIN-SUFFIX,cri-on.com
-  - DOMAIN-SUFFIX,cibntv.net
+  - DOMAIN-SUFFIX,imgcdc.com
   - DOMAIN-SUFFIX,vdnplus.cn
-  - DOMAIN-SUFFIX,nihaotv.net
-  - DOMAIN-SUFFIX,globalfm.cn
-  - DOMAIN-SUFFIX,vdnplus.com
+  - DOMAIN-SUFFIX,cibntv.net
+  - DOMAIN-SUFFIX,temyee.com
   - DOMAIN-SUFFIX,cibnlive.cn
+  - DOMAIN-SUFFIX,globalfm.cn
   - DOMAIN-SUFFIX,criezfm.com
-  - DOMAIN-SUFFIX,cibnott.net
-  - DOMAIN-SUFFIX,cribsas.com
+  - DOMAIN-SUFFIX,vdnplus.com
   - DOMAIN-SUFFIX,vdnplus.net
-  - DOMAIN-SUFFIX,crionline.cn
-  - DOMAIN-SUFFIX,cibnlive.com
-  - DOMAIN-SUFFIX,chinamwh.com
-  - DOMAIN-SUFFIX,inetradio.cn
-  - DOMAIN-SUFFIX,silktrek.com
-  - DOMAIN-SUFFIX,critokyo.com
+  - DOMAIN-SUFFIX,cibnott.net
+  - DOMAIN-SUFFIX,nihaotv.net
+  - DOMAIN-SUFFIX,cribsas.com
   - DOMAIN-SUFFIX,criseoul.com
-  - DOMAIN-SUFFIX,novotrail.com
+  - DOMAIN-SUFFIX,critokyo.com
+  - DOMAIN-SUFFIX,chinamwh.com
+  - DOMAIN-SUFFIX,silktrek.com
+  - DOMAIN-SUFFIX,crionline.cn
+  - DOMAIN-SUFFIX,inetradio.cn
+  - DOMAIN-SUFFIX,cibnlive.com
   - DOMAIN-SUFFIX,chinaradio.cn
   - DOMAIN-SUFFIX,crilondon.com
   - DOMAIN-SUFFIX,criarabic.com
-  - DOMAIN-SUFFIX,starschina.cn
-  - DOMAIN-SUFFIX,crichinese.cn
+  - DOMAIN-SUFFIX,novotrail.com
+  - DOMAIN-SUFFIX,criberlin.com
+  - DOMAIN-SUFFIX,crisydney.com
   - DOMAIN-SUFFIX,crimoscow.com
   - DOMAIN-SUFFIX,cibn-intl.com
   - DOMAIN-SUFFIX,crieasyfm.com
-  - DOMAIN-SUFFIX,criberlin.com
-  - DOMAIN-SUFFIX,crisydney.com
+  - DOMAIN-SUFFIX,starschina.cn
   - DOMAIN-SUFFIX,criankara.com
-  - DOMAIN-SUFFIX,novotrails.com
+  - DOMAIN-SUFFIX,crichinese.cn
   - DOMAIN-SUFFIX,crienglish.com
   - DOMAIN-SUFFIX,itaiwannews.cn
+  - DOMAIN-SUFFIX,novotrails.com
   - DOMAIN-SUFFIX,starschina.com
   - DOMAIN-SUFFIX,crinewsradio.cn
-  - DOMAIN-SUFFIX,chineseradio.cn
   - DOMAIN-SUFFIX,chinesefilms.cn
-  - DOMAIN-SUFFIX,sinorusfocus.com
+  - DOMAIN-SUFFIX,chineseradio.cn
   - DOMAIN-SUFFIX,newsplusradio.cn
   - DOMAIN-SUFFIX,cri-grandera.com
+  - DOMAIN-SUFFIX,sinorusfocus.com
   - DOMAIN-SUFFIX,silkroddream.com
-  - DOMAIN-SUFFIX,primeplusradio.cn
-  - DOMAIN-SUFFIX,chinabroadcast.cn
-  - DOMAIN-SUFFIX,readingchinese.cn
-  - DOMAIN-SUFFIX,huawangzhixun.com
   - DOMAIN-SUFFIX,musicplusradio.cn
-  - DOMAIN-SUFFIX,crinihaochina.com
   - DOMAIN-SUFFIX,criwashington.com
+  - DOMAIN-SUFFIX,primeplusradio.cn
+  - DOMAIN-SUFFIX,crinihaochina.com
+  - DOMAIN-SUFFIX,chinabroadcast.cn
+  - DOMAIN-SUFFIX,huawangzhixun.com
+  - DOMAIN-SUFFIX,readingchinese.cn
   - DOMAIN-SUFFIX,starschinalive.com
   - DOMAIN-SUFFIX,sinorussian21st.org
   - DOMAIN-SUFFIX,discoverplusradio.cn

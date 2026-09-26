@@ -9,15 +9,15 @@ Gemini 与 BardAI 相关规则。
 - 分类标识：`Gemini`
 - 当前客户端：`Surge`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
 ### 规则统计
 
-- 总数：`45`
+- 总数：`47`
 - `DOMAIN`: 11
-- `DOMAIN-SUFFIX`: 31
+- `DOMAIN-SUFFIX`: 33
 - `DOMAIN-KEYWORD`: 3
 
 ### 使用说明
@@ -52,7 +52,7 @@ Gemini and BardAI related rules.
 - Category ID: `Gemini`
 - Client: `Surge`
 - Group: `Ai`
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Gemini/Gemini.list>
 

@@ -1,6 +1,6 @@
 # NAME: HP
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:36:55.967557+00:00
+# UPDATED: 2026-09-26T21:11:53.463090+00:00
 no_resolve: true
 domain_suffix_set:
   - "hp.com"

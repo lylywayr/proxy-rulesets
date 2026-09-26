@@ -1,12 +1,12 @@
 # NAME: KuangShi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:04.620614+00:00
+# UPDATED: 2026-09-26T21:11:59.582464+00:00
 payload:
   - DOMAIN-SUFFIX,xlsdn.cn
   - DOMAIN-SUFFIX,xlsdn.com
+  - DOMAIN-SUFFIX,megvii.com
   - DOMAIN-SUFFIX,brainpp.cn
   - DOMAIN-SUFFIX,faceid.com
-  - DOMAIN-SUFFIX,megvii.com
   - DOMAIN-SUFFIX,megcup.com
   - DOMAIN-SUFFIX,datafun.vip
   - DOMAIN-SUFFIX,xcyuntech.cn
@@ -15,10 +15,10 @@ payload:
   - DOMAIN-SUFFIX,xiaodaijl.com
   - DOMAIN-SUFFIX,megvii-inc.com
   - DOMAIN-SUFFIX,yuesuoping.com
+  - DOMAIN-SUFFIX,kuangshitech.com
   - DOMAIN-SUFFIX,visionhacker.com
   - DOMAIN-SUFFIX,faceplusplus.com
   - DOMAIN-SUFFIX,imageplusplus.cn
-  - DOMAIN-SUFFIX,kuangshitech.com
   - DOMAIN-SUFFIX,imageplusplus.net
   - DOMAIN-SUFFIX,imageplusplus.com
   - DOMAIN-SUFFIX,face-plus-plus.com

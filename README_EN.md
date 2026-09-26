@@ -9,5 +9,5 @@ English is optional in this repository. Chinese remains the primary documentatio
 - Rule index: [rule/README.md](rule/README.md)
 - Metadata: [meta/index.json](meta/index.json)
 - License: [LICENSE](LICENSE)
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
-- Build marker: `2026-09-19T19:40:07.590088+00:00`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- Build marker: `2026-09-26T20:15:46.542098+00:00`

@@ -1,23 +1,23 @@
 # NAME: TigerFintech
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:34.679650+00:00
+# UPDATED: 2026-09-26T21:16:09.903102+00:00
 no_resolve: true
 domain_suffix_set:
   - "tigr.link"
-  - "itiger.com"
+  - "ftfast.com"
   - "laohu8.com"
   - "tbdesk.com"
-  - "ftfast.com"
-  - "tigerbbs.cn"
+  - "itiger.com"
   - "tigertcp.cn"
   - "xiaohu8.com"
-  - "itigerup.com"
+  - "tigerbbs.cn"
   - "iotaskyt.com"
   - "skytigris.cn"
+  - "itigerup.com"
   - "tigerbbs.com"
   - "iotaskyty.com"
-  - "tigerfintech.com"
   - "tigerbrokers.net"
+  - "tigerfintech.com"
   - "zhijianfengyi.cn"
   - "itigergrowtha.com"
   - "zhijianfengyi.com"

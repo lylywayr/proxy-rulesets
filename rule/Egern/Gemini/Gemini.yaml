@@ -1,6 +1,6 @@
 # NAME: Gemini
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:36:47.096244+00:00
+# UPDATED: 2026-09-26T21:11:46.469488+00:00
 no_resolve: true
 domain_set:
   - "ai.google.dev"
@@ -16,31 +16,33 @@ domain_set:
   - "webchannel-alkalimakersuite-pa.clients6.google.com"
 domain_suffix_set:
   - "ai.studio"
-  - "labs.google"
   - "flow.google"
+  - "labs.google"
   - "opal.google"
   - "jules.google"
   - "deepmind.com"
   - "gemini.google"
   - "deepmind.google"
+  - "notebook.google"
   - "notebooklm.google"
   - "antigravity.google"
   - "generativeai.google"
   - "antigravity-unleash.goog"
+  - "flow.google.com"
   - "apis.google.com"
   - "labs.google.com"
-  - "opal.google.com"
   - "bard.google.com"
+  - "opal.google.com"
   - "jules.google.com"
   - "gemini.google.com"
   - "gemini.gstatic.com"
   - "notebook.google.com"
-  - "aistudio.google.com"
   - "aida.googleapis.com"
+  - "aistudio.google.com"
   - "makersuite.google.com"
-  - "notebooklm.google.com"
-  - "stitch.withgoogle.com"
   - "aicode.googleapis.com"
+  - "stitch.withgoogle.com"
+  - "notebooklm.google.com"
   - "geller-pa.googleapis.com"
   - "aisandbox-pa.googleapis.com"
   - "robinfrontend-pa.googleapis.com"

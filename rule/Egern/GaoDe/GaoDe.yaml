@@ -1,14 +1,14 @@
 # NAME: GaoDe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:36:46.816623+00:00
+# UPDATED: 2026-09-26T21:11:46.268091+00:00
 no_resolve: true
 domain_suffix_set:
   - "a-map.cn"
+  - "anav.com"
   - "amap.com"
   - "a-map.co"
-  - "anav.com"
-  - "a-map.vip"
   - "gaode.com"
+  - "a-map.vip"
   - "a-map.link"
-  - "amapauto.com"
   - "autonavi.com"
+  - "amapauto.com"

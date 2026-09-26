@@ -1,14 +1,14 @@
 # NAME: WIX
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:41.666006+00:00
+# UPDATED: 2026-09-26T21:16:15.796215+00:00
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 
 DOMAIN-SUFFIX,wix.com
 DOMAIN-SUFFIX,wixmp.com
+DOMAIN-SUFFIX,wixsite.com
 DOMAIN-SUFFIX,editorx.com
 DOMAIN-SUFFIX,wixapps.net
-DOMAIN-SUFFIX,wixsite.com
 DOMAIN-SUFFIX,wix-code.com
 DOMAIN-SUFFIX,wixstatic.com
 DOMAIN-SUFFIX,wixanswers.com

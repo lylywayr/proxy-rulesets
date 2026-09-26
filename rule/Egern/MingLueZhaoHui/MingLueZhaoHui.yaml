@@ -1,23 +1,23 @@
 # NAME: MingLueZhaoHui
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:12.570092+00:00
+# UPDATED: 2026-09-26T21:12:05.895653+00:00
 no_resolve: true
 domain_suffix_set:
   - "mlt.pub"
-  - "mzhen.cn"
   - "3wnet.cn"
+  - "mzhen.cn"
+  - "xueto.com"
   - "mzsvn.com"
   - "mzhen.com"
-  - "xueto.com"
-  - "mzfile.com"
   - "stfile.com"
+  - "mzfile.com"
   - "miaozhen.cn"
   - "withdata.cn"
-  - "momentad.com"
-  - "grpindex.com"
   - "miaozhen.com"
+  - "grpindex.com"
+  - "momentad.com"
   - "admonitor.org"
-  - "touchjoin.com"
   - "withwinds.com"
+  - "touchjoin.com"
   - "touchjoint.com"
   - "supertool.net.cn"

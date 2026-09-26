@@ -1,5 +1,5 @@
 # NAME: TrustWave
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:35.273463+00:00
+# UPDATED: 2026-09-26T21:16:10.426302+00:00
 payload:
   - DOMAIN-SUFFIX,trustwave.com

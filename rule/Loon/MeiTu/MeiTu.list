@@ -1,10 +1,10 @@
 # NAME: MeiTu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:09.343162+00:00
+# UPDATED: 2026-09-26T21:12:03.160156+00:00
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 
 DOMAIN-SUFFIX,meitu.com
 DOMAIN-SUFFIX,meipai.com
-DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
+DOMAIN-SUFFIX,meitudata.com

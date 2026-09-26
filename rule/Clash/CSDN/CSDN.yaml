@@ -1,26 +1,26 @@
 # NAME: CSDN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:17:47.170976+00:00
+# UPDATED: 2026-09-26T20:52:14.905868+00:00
 payload:
-  - DOMAIN-SUFFIX,csto.com
   - DOMAIN-SUFFIX,csdn.com
   - DOMAIN-SUFFIX,csdn.net
+  - DOMAIN-SUFFIX,csto.com
   - DOMAIN-SUFFIX,iteye.com
-  - DOMAIN-SUFFIX,datasea.cn
   - DOMAIN-SUFFIX,csdnimg.cn
+  - DOMAIN-SUFFIX,datasea.cn
   - DOMAIN-SUFFIX,gitchat.cn
   - DOMAIN-SUFFIX,gitbook.cn
-  - DOMAIN-SUFFIX,gitcode.net
   - DOMAIN-SUFFIX,tinymind.cn
   - DOMAIN-SUFFIX,gitcode.com
+  - DOMAIN-SUFFIX,gitcode.net
   - DOMAIN-SUFFIX,tinymind.com
-  - DOMAIN-SUFFIX,topcto50.com
   - DOMAIN-SUFFIX,kaifayun.com
+  - DOMAIN-SUFFIX,topcto50.com
   - DOMAIN-SUFFIX,codechina.net
   - DOMAIN-SUFFIX,qualcomm-challenge.com
   - DOMAIN-SUFFIX,csdn.net.cn
   - DOMAIN-SUFFIX,tinymind.com.cn
-  - DOMAIN-SUFFIX,programmer.net.cn
   - DOMAIN-SUFFIX,linuxpower.com.cn
-  - DOMAIN-SUFFIX,programmer.com.cn
   - DOMAIN-SUFFIX,powerlinux.com.cn
+  - DOMAIN-SUFFIX,programmer.net.cn
+  - DOMAIN-SUFFIX,programmer.com.cn

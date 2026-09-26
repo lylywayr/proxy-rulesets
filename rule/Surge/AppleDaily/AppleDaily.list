@@ -1,6 +1,6 @@
 # NAME: AppleDaily
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T19:40:23.950437+00:00
+# UPDATED: 2026-09-26T20:16:03.037782+00:00
 # DOMAIN-SUFFIX: 32
 # TOTAL: 32
 
@@ -9,22 +9,22 @@ DOMAIN-SUFFIX,atnext.com
 DOMAIN-SUFFIX,nextwork.hk
 DOMAIN-SUFFIX,nextmgz.com
 DOMAIN-SUFFIX,nextwork.tw
+DOMAIN-SUFFIX,privilege.hk
 DOMAIN-SUFFIX,privilege.tw
 DOMAIN-SUFFIX,tomonews.net
-DOMAIN-SUFFIX,privilege.hk
-DOMAIN-SUFFIX,appledaily.hk
 DOMAIN-SUFFIX,omoplanet.com
-DOMAIN-SUFFIX,sharpdaily.tw
+DOMAIN-SUFFIX,appledaily.hk
 DOMAIN-SUFFIX,nextmedia.com
+DOMAIN-SUFFIX,sharpdaily.tw
 DOMAIN-SUFFIX,appledaily.com
 DOMAIN-SUFFIX,applefruity.com
 DOMAIN-SUFFIX,twnextdigital.com
 DOMAIN-SUFFIX,bestmallawards.com
-DOMAIN-SUFFIX,nxtdig.com.tw
 DOMAIN-SUFFIX,nxtdig.com.hk
-DOMAIN-SUFFIX,deluxe.com.hk
 DOMAIN-SUFFIX,eracom.com.tw
+DOMAIN-SUFFIX,nxtdig.com.tw
 DOMAIN-SUFFIX,nexttv.com.tw
+DOMAIN-SUFFIX,deluxe.com.hk
 DOMAIN-SUFFIX,nextmag.com.tw
 DOMAIN-SUFFIX,nextfilm.com.hk
 DOMAIN-SUFFIX,nextplus.com.hk
@@ -33,6 +33,6 @@ DOMAIN-SUFFIX,nextwork.com.tw
 DOMAIN-SUFFIX,nextmedia.com.tw
 DOMAIN-SUFFIX,appledaily.com.hk
 DOMAIN-SUFFIX,appledaily.com.tw
-DOMAIN-SUFFIX,applehealth.com.hk
 DOMAIN-SUFFIX,nextdigital.com.tw
+DOMAIN-SUFFIX,applehealth.com.hk
 DOMAIN-SUFFIX,nextdigital.com.hk

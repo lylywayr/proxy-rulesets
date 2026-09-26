@@ -1,14 +1,14 @@
 # NAME: McDonalds
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:09.076390+00:00
+# UPDATED: 2026-09-26T21:12:02.883930+00:00
 no_resolve: true
 domain_suffix_set:
   - "mcd.com"
-  - "mcdonalds.hk"
-  - "mcdonalds.it"
   - "mcdonalds.se"
-  - "mcdonalds.ca"
+  - "mcdonalds.it"
+  - "mcdonalds.hk"
   - "mcdonalds.no"
+  - "mcdonalds.ca"
   - "mcdonalds.com"
   - "4008-517-517.cn"
   - "mcdindonesia.com"
@@ -16,15 +16,15 @@ domain_suffix_set:
   - "mcdonaldsarabia.com"
   - "mcdonalds.co.uk"
   - "happymeal.co.nz"
-  - "mcdonalds.com.hk"
-  - "mcdelivery.co.id"
+  - "mcdonalds.com.cn"
   - "happymeal.com.au"
   - "mcdelivery.co.kr"
-  - "mcdonalds.com.cn"
+  - "mcdonalds.com.hk"
+  - "mcdelivery.co.id"
   - "mcdelivery.com.au"
-  - "mcdelivery.com.my"
   - "mcdelivery.com.sg"
   - "mcdelivery.com.tw"
+  - "mcdelivery.com.my"
   - "mcdonaldsparties.co.nz"
   - "mcdonaldsparties.com.au"
   - "xn--qhrx81fxh2a.xn--55qx5d.hk"

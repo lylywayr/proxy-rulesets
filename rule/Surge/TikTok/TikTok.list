@@ -1,6 +1,6 @@
 # NAME: TikTok
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:34.921639+00:00
+# UPDATED: 2026-09-26T21:16:10.141147+00:00
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 25
 # DOMAIN-KEYWORD: 4
@@ -12,27 +12,27 @@ DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,trae-api-sg.mchost.guru
 DOMAIN-SUFFIX,trae.ai
-DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,tiktokv.us
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,isnssdk.com
-DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokd.org
-DOMAIN-SUFFIX,marscode.com
-DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktokmusic.app
 DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,tiktokmusic.app
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,bytegecko-i18n.com

@@ -1,6 +1,6 @@
 # NAME: Tencent
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:33.340038+00:00
+# UPDATED: 2026-09-26T21:16:08.580120+00:00
 payload:
   - USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
   - USER-AGENT,QQ%E9%9F%B3%E4%B9%90

@@ -9,7 +9,7 @@
 - 分类标识：`ICBC`
 - 当前客户端：`Clash`
 - 所属分组：[金融电商](../../../guide/groups/finance.md)
-- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - 专题入口：
 - [金融电商专题](../../../guide/topics/finance-commerce.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for ICBC, covering related domains, keywords, and network targe
 - Category ID: `ICBC`
 - Client: `Clash`
 - Group: `Finance`
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ICBC/ICBC.yaml>
 

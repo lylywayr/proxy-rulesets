@@ -1,6 +1,6 @@
 # NAME: Maocloud
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:08.841503+00:00
+# UPDATED: 2026-09-26T21:12:02.713436+00:00
 payload:
   - DOMAIN-SUFFIX,maoyun.com
   - DOMAIN-SUFFIX,maoyuncloud.cn

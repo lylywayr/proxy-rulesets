@@ -1,11 +1,11 @@
 # NAME: 8btc
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T19:40:10.811791+00:00
+# UPDATED: 2026-09-26T20:15:49.790078+00:00
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 
 DOMAIN-SUFFIX,8btc.com
+DOMAIN-SUFFIX,matpool.com
 DOMAIN-SUFFIX,bystack.com
 DOMAIN-SUFFIX,matpool.net
-DOMAIN-SUFFIX,matpool.com
 DOMAIN-SUFFIX,chainnode.com

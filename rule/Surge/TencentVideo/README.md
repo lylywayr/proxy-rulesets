@@ -9,7 +9,7 @@
 - 分类标识：`TencentVideo`
 - 当前客户端：`Surge`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - 专题入口：
 - 暂无
 
@@ -51,7 +51,7 @@ Aggregated rules for TencentVideo, covering related domains, keywords, and netwo
 - Category ID: `TencentVideo`
 - Client: `Surge`
 - Group: `Media`
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/TencentVideo/TencentVideo.list>
 

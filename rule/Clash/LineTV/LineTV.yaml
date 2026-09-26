@@ -1,6 +1,6 @@
 # NAME: LineTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:06.414516+00:00
+# UPDATED: 2026-09-26T21:12:01.050504+00:00
 payload:
   - DOMAIN,d17lx9ucc6k9fc.cloudfront.net
   - DOMAIN,d3pgb93pk7bvxj.cloudfront.net

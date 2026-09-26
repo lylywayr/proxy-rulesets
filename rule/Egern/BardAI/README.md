@@ -9,15 +9,15 @@
 - 分类标识：`BardAI`
 - 当前客户端：`Egern`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
 ### 规则统计
 
-- 总数：`41`
+- 总数：`43`
 - `DOMAIN`: 11
-- `DOMAIN-SUFFIX`: 30
+- `DOMAIN-SUFFIX`: 32
 
 ### 使用说明
 
@@ -50,7 +50,7 @@ Aggregated rules for BardAI, covering related domains, keywords, and network tar
 - Category ID: `BardAI`
 - Client: `Egern`
 - Group: `Ai`
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/BardAI/BardAI.yaml>
 

@@ -1,8 +1,8 @@
 # NAME: PlayStation
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:20.783664+00:00
+# UPDATED: 2026-09-26T21:12:12.693840+00:00
 payload:
-  - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com

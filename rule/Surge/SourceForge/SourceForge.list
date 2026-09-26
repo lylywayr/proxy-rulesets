@@ -1,10 +1,10 @@
 # NAME: SourceForge
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:29.481503+00:00
+# UPDATED: 2026-09-26T21:16:05.523561+00:00
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 
 DOMAIN-SUFFIX,sf.net
 DOMAIN-SUFFIX,fsdn.com
-DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,sourceforge.com
+DOMAIN-SUFFIX,sourceforge.net

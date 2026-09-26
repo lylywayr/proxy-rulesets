@@ -9,7 +9,7 @@
 - 分类标识：`DouYin`
 - 当前客户端：`Clash`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - 专题入口：
 - 暂无
 
@@ -49,7 +49,7 @@ Aggregated rules for DouYin, covering related domains, keywords, and network tar
 - Category ID: `DouYin`
 - Client: `Clash`
 - Group: `Mainland`
-- Last updated: `2026-09-20 03:40:07 CST (UTC+8) / 2026-09-19 19:40:07 UTC`
+- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/DouYin/DouYin.yaml>
 

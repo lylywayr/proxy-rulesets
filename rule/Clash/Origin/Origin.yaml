@@ -1,6 +1,6 @@
 # NAME: Origin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:17.982332+00:00
+# UPDATED: 2026-09-26T21:12:10.426100+00:00
 payload:
   - DOMAIN,cloudsync-prod.s3.amazonaws.com
   - DOMAIN,eaasserts-a.akamaihd.net

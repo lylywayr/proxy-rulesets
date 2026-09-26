@@ -1,6 +1,6 @@
 # NAME: NGAA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:37:15.088821+00:00
+# UPDATED: 2026-09-26T21:12:07.993155+00:00
 no_resolve: true
 domain_suffix_set:
   - "ngaa.cn"
@@ -9,26 +9,26 @@ domain_suffix_set:
   - "ngaa.info"
   - "cngslb.cn"
   - "ngaacdn.cn"
-  - "cngslb.com"
   - "cngslb.net"
+  - "cngslb.com"
   - "ngaacdn.com"
-  - "ngaacdn.net"
   - "ispcache.cn"
   - "sinogslb.cn"
   - "ngaagslb.cn"
+  - "ngaacdn.net"
+  - "ngaagslb.net"
   - "speedin.shop"
-  - "ispcache.net"
-  - "ngaagslb.com"
+  - "kuaifan.shop"
+  - "chinagslb.cn"
   - "sinocache.cn"
   - "sinogslb.com"
-  - "ngaagslb.net"
-  - "chinagslb.cn"
-  - "kuaifan.shop"
+  - "ispcache.net"
   - "sinogslb.net"
+  - "ngaagslb.com"
   - "sinocache.net"
   - "chinagslb.net"
   - "chinagslb.com"
-  - "ngaa.com.cn"
   - "ngaa.net.cn"
   - "ngaa.org.cn"
+  - "ngaa.com.cn"
   - "sinocache.com.cn"

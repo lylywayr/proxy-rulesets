@@ -1,6 +1,6 @@
 # NAME: WeChat
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:40.233007+00:00
+# UPDATED: 2026-09-26T21:16:14.529395+00:00
 no_resolve: true
 domain_set:
   - "apd-pcdnwxlogin.teg.tencent-cloud.net"
@@ -13,8 +13,8 @@ domain_set:
 domain_suffix_set:
   - "qpic.cn"
   - "qlogo.cn"
-  - "weixin.com"
   - "wechat.com"
+  - "weixin.com"
   - "tenpay.com"
   - "wechatos.net"
   - "weixinsxy.com"
@@ -24,13 +24,13 @@ domain_suffix_set:
   - "weixinbridge.com"
   - "servicewechat.com"
   - "wx.qq.com"
-  - "map.qq.com"
   - "wxs.qq.com"
+  - "map.qq.com"
   - "wx.gtimg.com"
-  - "lbs.gtimg.com"
   - "weixin.qq.com"
-  - "up-hl.3g.qq.com"
+  - "lbs.gtimg.com"
   - "wxapp.tc.qq.com"
+  - "up-hl.3g.qq.com"
   - "yun-hl.3g.qq.com"
   - "vweixinthumb.tc.qq.com"
 domain_keyword_set:

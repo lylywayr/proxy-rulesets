@@ -1,5 +1,5 @@
 # NAME: Sharethis
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-19T20:41:26.976990+00:00
+# UPDATED: 2026-09-26T21:16:03.320251+00:00
 payload:
   - DOMAIN-SUFFIX,sharethis.com
