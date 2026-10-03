@@ -1,24 +1,24 @@
 # NAME: Stackexchange
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:05.946405+00:00
+# UPDATED: 2026-10-03T21:15:01.956394+00:00
 # DOMAIN-SUFFIX: 20
 # TOTAL: 20
 
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,tex-talk.net
-DOMAIN-SUFFIX,stackapps.com
 DOMAIN-SUFFIX,superuser.com
-DOMAIN-SUFFIX,stackauth.com
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,stackmod.blog
+DOMAIN-SUFFIX,stackauth.com
+DOMAIN-SUFFIX,stackapps.com
 DOMAIN-SUFFIX,thesffblog.com
 DOMAIN-SUFFIX,serverfault.com
-DOMAIN-SUFFIX,mathoverflow.net
 DOMAIN-SUFFIX,stackoverflow.co
 DOMAIN-SUFFIX,blogoverflow.com
-DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,mathoverflow.net
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,codeforaliving.io
+DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,stacksnippets.net
 DOMAIN-SUFFIX,stackoverflow.blog
 DOMAIN-SUFFIX,stackoverflow.email

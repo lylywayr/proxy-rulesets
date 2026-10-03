@@ -1,14 +1,14 @@
 # NAME: Heroku
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:11:52.541501+00:00
+# UPDATED: 2026-10-03T21:10:34.845785+00:00
 no_resolve: true
 domain_suffix_set:
   - "codei.sh"
-  - "heroku.me"
   - "heroku.co"
+  - "heroku.me"
   - "heroku.com"
-  - "codeish.co"
   - "codeish.io"
+  - "codeish.co"
   - "herokussl.com"
   - "herokuapp.com"
   - "herokucdn.com"

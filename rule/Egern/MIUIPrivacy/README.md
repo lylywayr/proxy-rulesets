@@ -9,7 +9,7 @@
 - 分类标识：`MIUIPrivacy`
 - 当前客户端：`Egern`
 - 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
-- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for MIUIPrivacy, covering related domains, keywords, and networ
 - Category ID: `MIUIPrivacy`
 - Client: `Egern`
 - Group: `Security`
-- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/MIUIPrivacy/MIUIPrivacy.yaml>
 

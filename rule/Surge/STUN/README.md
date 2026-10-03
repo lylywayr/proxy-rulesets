@@ -9,7 +9,7 @@
 - 分类标识：`STUN`
 - 当前客户端：`Surge`
 - 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
-- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - 专题入口：
 - 暂无
 
@@ -49,7 +49,7 @@ Aggregated rules for STUN, covering related domains, keywords, and network targe
 - Category ID: `STUN`
 - Client: `Surge`
 - Group: `Security`
-- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/STUN/STUN.list>
 

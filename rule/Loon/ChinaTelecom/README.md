@@ -9,7 +9,7 @@
 - 分类标识：`ChinaTelecom`
 - 当前客户端：`Loon`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for ChinaTelecom, covering related domains, keywords, and netwo
 - Category ID: `ChinaTelecom`
 - Client: `Loon`
 - Group: `Mainland`
-- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ChinaTelecom/ChinaTelecom.list>
 

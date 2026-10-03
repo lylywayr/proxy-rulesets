@@ -1,26 +1,26 @@
 # NAME: AppleDev
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:16:03.142423+00:00
+# UPDATED: 2026-10-03T20:16:51.170729+00:00
 payload:
   - DOMAIN-SUFFIX,cups.org
   - DOMAIN-SUFFIX,swift.org
-  - DOMAIN-SUFFIX,swiftui.cn
   - DOMAIN-SUFFIX,webkit.org
+  - DOMAIN-SUFFIX,swiftui.cn
+  - DOMAIN-SUFFIX,macruby.net
   - DOMAIN-SUFFIX,macruby.org
   - DOMAIN-SUFFIX,macruby.com
   - DOMAIN-SUFFIX,carekit.org
-  - DOMAIN-SUFFIX,macruby.net
-  - DOMAIN-SUFFIX,wpewebkit.org
   - DOMAIN-SUFFIX,webkitgtk.org
+  - DOMAIN-SUFFIX,wpewebkit.org
+  - DOMAIN-SUFFIX,appleswift.com
+  - DOMAIN-SUFFIX,servicetalk.io
+  - DOMAIN-SUFFIX,webobjects.com
   - DOMAIN-SUFFIX,macosforge.org
   - DOMAIN-SUFFIX,researchkit.hk
   - DOMAIN-SUFFIX,researchkit.cn
-  - DOMAIN-SUFFIX,appleswift.com
   - DOMAIN-SUFFIX,researchkit.tv
-  - DOMAIN-SUFFIX,servicetalk.io
-  - DOMAIN-SUFFIX,webobjects.com
-  - DOMAIN-SUFFIX,researchkit.org
   - DOMAIN-SUFFIX,researchkit.net
+  - DOMAIN-SUFFIX,researchkit.org
   - DOMAIN-SUFFIX,foundationdb.org
   - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple-cloudkit.com

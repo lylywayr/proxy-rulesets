@@ -1,11 +1,11 @@
 # NAME: Global
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:11:47.410102+00:00
+# UPDATED: 2026-10-03T21:10:27.838761+00:00
 # DOMAIN-KEYWORD: 36
 # USER-AGENT: 46
-# IP-CIDR: 112
+# IP-CIDR: 115
 # IP-CIDR6: 4
-# TOTAL: 198
+# TOTAL: 201
 
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
@@ -93,7 +93,10 @@ IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,3.123.36.126/32,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
+IP-CIDR,13.251.24.0/24,no-resolve
+IP-CIDR,13.251.41.0/24,no-resolve
 IP-CIDR,14.102.250.18/31,no-resolve
+IP-CIDR,17.252.156.0/23,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,18.208.0.0/13,no-resolve

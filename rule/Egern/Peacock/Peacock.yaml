@@ -1,6 +1,6 @@
 # NAME: Peacock
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:12:11.797502+00:00
+# UPDATED: 2026-10-03T21:10:58.329644+00:00
 no_resolve: true
 domain_suffix_set:
   - "peacocktv.com"

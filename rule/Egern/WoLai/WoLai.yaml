@@ -1,6 +1,6 @@
 # NAME: WoLai
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:15.928107+00:00
+# UPDATED: 2026-10-03T21:15:12.941911+00:00
 no_resolve: true
 domain_suffix_set:
   - "wol.tv"

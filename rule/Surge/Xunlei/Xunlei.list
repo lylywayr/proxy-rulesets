@@ -1,37 +1,37 @@
 # NAME: Xunlei
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:17.480493+00:00
+# UPDATED: 2026-10-03T21:15:14.464964+00:00
 # DOMAIN-SUFFIX: 31
 # TOTAL: 31
 
-DOMAIN-SUFFIX,155.com
 DOMAIN-SUFFIX,8uri.cn
-DOMAIN-SUFFIX,xlisp.net
+DOMAIN-SUFFIX,155.com
 DOMAIN-SUFFIX,newvr.com
-DOMAIN-SUFFIX,xlpan.com
-DOMAIN-SUFFIX,88cdn.com
-DOMAIN-SUFFIX,xbase.xyz
 DOMAIN-SUFFIX,00cdn.com
-DOMAIN-SUFFIX,n0808.com
+DOMAIN-SUFFIX,xlisp.net
+DOMAIN-SUFFIX,xbase.xyz
 DOMAIN-SUFFIX,xunlei.cn
+DOMAIN-SUFFIX,n0808.com
+DOMAIN-SUFFIX,xlpan.com
 DOMAIN-SUFFIX,p2cdn.com
-DOMAIN-SUFFIX,2sonar.com
-DOMAIN-SUFFIX,kankan.com
-DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,88cdn.com
 DOMAIN-SUFFIX,kanimg.com
-DOMAIN-SUFFIX,kuaipan.cn
 DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,2sonar.com
+DOMAIN-SUFFIX,kuaipan.cn
+DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,xunlei.net
-DOMAIN-SUFFIX,xlyouxi.net
-DOMAIN-SUFFIX,fontong.com
+DOMAIN-SUFFIX,kankan.com
 DOMAIN-SUFFIX,xbase.cloud
-DOMAIN-SUFFIX,gigaget.com
+DOMAIN-SUFFIX,fontong.com
 DOMAIN-SUFFIX,szxlxzb.com
+DOMAIN-SUFFIX,gigaget.com
+DOMAIN-SUFFIX,xlyouxi.net
 DOMAIN-SUFFIX,neoimaging.cn
 DOMAIN-SUFFIX,sjzhushou.com
-DOMAIN-SUFFIX,thundercdn.com
+DOMAIN-SUFFIX,xcloudbase.com
 DOMAIN-SUFFIX,thunderurl.com
+DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,geilijiasu.com
 DOMAIN-SUFFIX,geilijiasu.net
-DOMAIN-SUFFIX,xcloudbase.com
 DOMAIN-SUFFIX,falconalliance.cn

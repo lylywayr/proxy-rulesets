@@ -1,15 +1,15 @@
 # NAME: CCB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:16:10.633048+00:00
+# UPDATED: 2026-10-03T20:16:58.183529+00:00
 payload:
   - DOMAIN-SUFFIX,ccb.cn
   - DOMAIN-SUFFIX,ccb.com
   - DOMAIN-SUFFIX,ccbxt.com
-  - DOMAIN-SUFFIX,ccbfund.cn
   - DOMAIN-SUFFIX,ccbhome.cn
+  - DOMAIN-SUFFIX,ccbfund.cn
   - DOMAIN-SUFFIX,ccbcos.com
-  - DOMAIN-SUFFIX,ccbfund.com
   - DOMAIN-SUFFIX,ccbhome.net
+  - DOMAIN-SUFFIX,ccbfund.com
   - DOMAIN-SUFFIX,ccbseoul.com
   - DOMAIN-SUFFIX,ccbfutures.cn
   - DOMAIN-SUFFIX,ccbfutures.com
@@ -17,6 +17,6 @@ payload:
   - DOMAIN-SUFFIX,ccb.com.cn
   - DOMAIN-SUFFIX,ccbintl.com.hk
   - DOMAIN-SUFFIX,ccbfund.com.cn
-  - DOMAIN-SUFFIX,ccbtrust.com.cn
   - DOMAIN-SUFFIX,ccb-life.com.cn
+  - DOMAIN-SUFFIX,ccbtrust.com.cn
   - DOMAIN-SUFFIX,ccblife-test.com.cn

@@ -9,15 +9,15 @@ Gemini 与 BardAI 相关规则。
 - 分类标识：`Gemini`
 - 当前客户端：`Egern`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
 ### 规则统计
 
-- 总数：`47`
-- `DOMAIN`: 11
-- `DOMAIN-SUFFIX`: 33
+- 总数：`50`
+- `DOMAIN`: 13
+- `DOMAIN-SUFFIX`: 34
 - `DOMAIN-KEYWORD`: 3
 
 ### 使用说明
@@ -52,7 +52,7 @@ Gemini and BardAI related rules.
 - Category ID: `Gemini`
 - Client: `Egern`
 - Group: `Ai`
-- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Gemini/Gemini.yaml>
 

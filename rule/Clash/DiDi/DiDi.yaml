@@ -1,23 +1,23 @@
 # NAME: DiDi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:52:16.599400+00:00
+# UPDATED: 2026-10-03T20:52:34.765184+00:00
 payload:
   - DOMAIN-SUFFIX,didi.cn
   - DOMAIN-SUFFIX,didi.xin
-  - DOMAIN-SUFFIX,cxyule.com
   - DOMAIN-SUFFIX,udache.com
+  - DOMAIN-SUFFIX,cxyule.com
   - DOMAIN-SUFFIX,didiyun.org
   - DOMAIN-SUFFIX,didiyun.com
   - DOMAIN-SUFFIX,diditaxi.com
-  - DOMAIN-SUFFIX,didiqiche.com
   - DOMAIN-SUFFIX,didi-food.com
   - DOMAIN-SUFFIX,didialift.com
+  - DOMAIN-SUFFIX,didiqiche.com
   - DOMAIN-SUFFIX,didiwuxian.com
   - DOMAIN-SUFFIX,didiglobal.com
+  - DOMAIN-SUFFIX,didistatic.com
+  - DOMAIN-SUFFIX,xiaojuchefu.cn
   - DOMAIN-SUFFIX,didiyunapi.com
   - DOMAIN-SUFFIX,xiaojukeji.com
-  - DOMAIN-SUFFIX,xiaojuchefu.cn
-  - DOMAIN-SUFFIX,didistatic.com
   - DOMAIN-SUFFIX,didichuxing.com
   - DOMAIN-SUFFIX,didiopenapi.com
   - DOMAIN-SUFFIX,didimobility.com

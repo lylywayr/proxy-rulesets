@@ -1,11 +1,11 @@
 # NAME: Faronics
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:11:44.294282+00:00
+# UPDATED: 2026-10-03T21:10:23.548619+00:00
 # DOMAIN-SUFFIX: 18
 # TOTAL: 18
 
-DOMAIN-SUFFIX,faronics.eu
 DOMAIN-SUFFIX,faronics.ca
+DOMAIN-SUFFIX,faronics.eu
 DOMAIN-SUFFIX,faronics.com
 DOMAIN-SUFFIX,deepfreeze.eu
 DOMAIN-SUFFIX,faronics.tech
@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,deepfreeze.net
 DOMAIN-SUFFIX,deepfreeze.tech
 DOMAIN-SUFFIX,faronicswise.com
 DOMAIN-SUFFIX,faronicslabs.com
-DOMAIN-SUFFIX,faronics.co.uk
 DOMAIN-SUFFIX,clickedu.co.uk
+DOMAIN-SUFFIX,faronics.co.uk
 DOMAIN-SUFFIX,faronics.com.sg
 DOMAIN-SUFFIX,faronics.com.au
 DOMAIN-SUFFIX,deepfreeze.co.uk

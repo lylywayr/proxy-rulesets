@@ -1,9 +1,9 @@
 # NAME: Spark
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:05.643270+00:00
+# UPDATED: 2026-10-03T21:14:52.094186+00:00
 payload:
   - DOMAIN-SUFFIX,readdle.com
-  - DOMAIN-SUFFIX,hockeyapp.net
   - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,hockeyapp.net
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,smartmailcloud.com

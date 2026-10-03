@@ -1,6 +1,6 @@
 # NAME: Razer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:01.655162+00:00
+# UPDATED: 2026-10-03T21:14:47.477991+00:00
 payload:
   - DOMAIN-SUFFIX,razer.com
   - DOMAIN-SUFFIX,razerzone.com

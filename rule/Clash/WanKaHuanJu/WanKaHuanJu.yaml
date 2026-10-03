@@ -1,19 +1,19 @@
 # NAME: WanKaHuanJu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:14.348535+00:00
+# UPDATED: 2026-10-03T21:15:11.311866+00:00
 payload:
-  - DOMAIN-SUFFIX,gdsa.com
-  - DOMAIN-SUFFIX,gm825.cn
   - DOMAIN-SUFFIX,mhacn.cn
-  - DOMAIN-SUFFIX,mhacn.net
-  - DOMAIN-SUFFIX,gm825.net
-  - DOMAIN-SUFFIX,mhacn.com
+  - DOMAIN-SUFFIX,gm825.cn
+  - DOMAIN-SUFFIX,gdsa.com
   - DOMAIN-SUFFIX,itgsa.com
-  - DOMAIN-SUFFIX,hapjs.org
+  - DOMAIN-SUFFIX,mhacn.com
+  - DOMAIN-SUFFIX,mhacn.net
   - DOMAIN-SUFFIX,gm825.com
+  - DOMAIN-SUFFIX,gm825.net
+  - DOMAIN-SUFFIX,hapjs.org
   - DOMAIN-SUFFIX,wankacn.cn
-  - DOMAIN-SUFFIX,so-quick.cn
   - DOMAIN-SUFFIX,wankacn.com
+  - DOMAIN-SUFFIX,so-quick.cn
   - DOMAIN-SUFFIX,quickapp.cn
   - DOMAIN-SUFFIX,wankacn.net
   - DOMAIN-SUFFIX,wankamall.com
@@ -21,13 +21,13 @@ payload:
   - DOMAIN-SUFFIX,daxianglink.com
   - DOMAIN-SUFFIX,quicklyopen.com
   - DOMAIN-SUFFIX,quickingdata.com
-  - DOMAIN-SUFFIX,shenyinhudong.cn
   - DOMAIN-SUFFIX,daxianglingke.cn
+  - DOMAIN-SUFFIX,shenyinhudong.cn
   - DOMAIN-SUFFIX,ita-alliance.com
-  - DOMAIN-SUFFIX,shenyinhudong.com
   - DOMAIN-SUFFIX,daxianglingke.com
-  - DOMAIN-SUFFIX,gm825.com.cn
+  - DOMAIN-SUFFIX,shenyinhudong.com
   - DOMAIN-SUFFIX,mhacn.com.cn
+  - DOMAIN-SUFFIX,gm825.com.cn
   - DOMAIN-SUFFIX,wankacn.com.cn
   - DOMAIN-SUFFIX,daxianglink.com.cn
   - DOMAIN-SUFFIX,daxianglingke.com.cn

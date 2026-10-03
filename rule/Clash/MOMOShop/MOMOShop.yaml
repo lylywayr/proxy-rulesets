@@ -1,6 +1,6 @@
 # NAME: MOMOShop
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:12:06.483522+00:00
+# UPDATED: 2026-10-03T21:10:51.600003+00:00
 payload:
   - DOMAIN-SUFFIX,momo.dm
   - DOMAIN-SUFFIX,momo5188.com

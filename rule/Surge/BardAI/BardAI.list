@@ -1,9 +1,9 @@
 # NAME: BardAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:16:06.011483+00:00
-# DOMAIN: 11
-# DOMAIN-SUFFIX: 32
-# TOTAL: 43
+# UPDATED: 2026-10-03T20:16:54.479378+00:00
+# DOMAIN: 13
+# DOMAIN-SUFFIX: 33
+# TOTAL: 46
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -13,6 +13,8 @@ DOMAIN,antigravity.googleapis.com
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,geminiweb-pa.clients.google.com
+DOMAIN,geminiweb-pa.clients6.google.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN,notebooklm.googleapis.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
@@ -29,22 +31,23 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
-DOMAIN-SUFFIX,flow.google.com
 DOMAIN-SUFFIX,labs.google.com
-DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,opal.google.com
+DOMAIN-SUFFIX,flow.google.com
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.gstatic.com
-DOMAIN-SUFFIX,notebook.google.com
-DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,aida.googleapis.com
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,aicode.googleapis.com
-DOMAIN-SUFFIX,stitch.withgoogle.com
+DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,stitch.withgoogle.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,labstailwind.pa.googleapis.com

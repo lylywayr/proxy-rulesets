@@ -1,6 +1,6 @@
 # NAME: SmarTone
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:04.591984+00:00
+# UPDATED: 2026-10-03T21:14:51.011130+00:00
 no_resolve: true
 domain_suffix_set:
   - "ip73.com"
@@ -12,8 +12,8 @@ domain_suffix_set:
   - "homephoneplus.com"
   - "wise-research.com"
   - "s-cashonmobile.com"
-  - "smartoneholdings.com"
   - "smartonerobotics.com"
+  - "smartoneholdings.com"
   - "smartonesolutions.hk"
   - "sahabatsetiasmartone.com"
   - "barkadahansasmartone.com"

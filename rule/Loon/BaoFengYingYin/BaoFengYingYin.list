@@ -1,14 +1,14 @@
 # NAME: BaoFengYingYin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:16:06.009878+00:00
+# UPDATED: 2026-10-03T20:16:54.477549+00:00
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 
 DOMAIN-SUFFIX,bfimg.com
 DOMAIN-SUFFIX,bfshow.cn
 DOMAIN-SUFFIX,baofeng.com
-DOMAIN-SUFFIX,baofeng.net
 DOMAIN-SUFFIX,bjtndao.org
+DOMAIN-SUFFIX,baofeng.net
 DOMAIN-SUFFIX,baofeng.mobi
 DOMAIN-SUFFIX,stormshow.cn
 DOMAIN-SUFFIX,baofengtv.com

@@ -1,6 +1,6 @@
 # NAME: LinkedIn
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:12:01.273603+00:00
+# UPDATED: 2026-10-03T21:10:46.260102+00:00
 no_resolve: true
 domain_set:
   - "e122475.dscg.akamaiedge.net"
@@ -10,8 +10,8 @@ domain_suffix_set:
   - "lnkd.in"
   - "licdn.cn"
   - "licdn.com"
-  - "linkedin.cn"
   - "linkedin.at"
+  - "linkedin.cn"
   - "linkedin.com"
   - "bizographics.com"
   - "l-0005.l-msedge.net"

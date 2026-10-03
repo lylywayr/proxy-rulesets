@@ -1,6 +1,6 @@
 # NAME: GoogleDrive
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:11:50.545780+00:00
+# UPDATED: 2026-10-03T21:10:31.968512+00:00
 payload:
   - DOMAIN,www.googleapis.com
   - DOMAIN-SUFFIX,googledrive.com

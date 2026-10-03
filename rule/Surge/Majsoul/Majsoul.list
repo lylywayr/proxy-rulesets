@@ -1,12 +1,12 @@
 # NAME: Majsoul
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:12:02.435259+00:00
+# UPDATED: 2026-10-03T21:10:47.605356+00:00
 # DOMAIN-SUFFIX: 11
 # TOTAL: 11
 
 DOMAIN-SUFFIX,game.maj-soul.com
-DOMAIN-SUFFIX,lb-v2.maj-soul.com
 DOMAIN-SUFFIX,lb-hw.maj-soul.com
+DOMAIN-SUFFIX,lb-v2.maj-soul.com
 DOMAIN-SUFFIX,lb-sy.maj-soul.com
 DOMAIN-SUFFIX,lb-cdn.maj-soul.com
 DOMAIN-SUFFIX,gateway-sy.maj-soul.com

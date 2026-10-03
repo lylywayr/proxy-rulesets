@@ -1,15 +1,15 @@
 # NAME: Twitch
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:11.148862+00:00
+# UPDATED: 2026-10-03T21:15:07.411258+00:00
 # DOMAIN-SUFFIX: 8
 # DOMAIN-KEYWORD: 1
 # IP-CIDR: 11
 # IP-CIDR6: 1
 # TOTAL: 21
 
+DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchsvc.net
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net

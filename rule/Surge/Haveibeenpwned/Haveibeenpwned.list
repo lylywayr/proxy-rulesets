@@ -1,8 +1,8 @@
 # NAME: Haveibeenpwned
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:11:51.769341+00:00
+# UPDATED: 2026-10-03T21:10:33.726380+00:00
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
 
-DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,pwnedpasswords.com

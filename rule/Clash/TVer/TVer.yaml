@@ -1,6 +1,6 @@
 # NAME: TVer
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:11.039770+00:00
+# UPDATED: 2026-10-03T21:15:07.312131+00:00
 payload:
   - DOMAIN-SUFFIX,tver.jp
   - DOMAIN-SUFFIX,gorin.jp

@@ -9,14 +9,14 @@
 - 分类标识：`ChinaASN`
 - 当前客户端：`Surge`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - 专题入口：
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`1009`
-- `IP-ASN`: 1009
+- 总数：`0`
+- 无
 
 ### 使用说明
 
@@ -38,7 +38,7 @@
 
 ### 数据来源
 
-- [blackmatrix7/ios_rule_script: ChinaASN](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list)
+- 暂无
 
 <details>
 <summary>English</summary>
@@ -48,7 +48,7 @@ Aggregated rules for ChinaASN, covering related domains, keywords, and network t
 - Category ID: `ChinaASN`
 - Client: `Surge`
 - Group: `Mainland`
-- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ChinaASN/ChinaASN.list>
 

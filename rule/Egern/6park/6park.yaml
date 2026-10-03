@@ -1,6 +1,6 @@
 # NAME: 6park
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:15:49.680064+00:00
+# UPDATED: 2026-10-03T20:16:40.348408+00:00
 no_resolve: true
 domain_suffix_set:
   - "6park.com"

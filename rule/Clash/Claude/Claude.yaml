@@ -1,11 +1,12 @@
 # NAME: Claude
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:52:12.996523+00:00
+# UPDATED: 2026-10-03T20:52:29.915150+00:00
 payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.dev
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claudemcpclient.com

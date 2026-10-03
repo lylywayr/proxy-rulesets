@@ -1,6 +1,6 @@
 # NAME: Spotify
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:05.826814+00:00
+# UPDATED: 2026-10-03T21:15:01.844295+00:00
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 23
 # DOMAIN-KEYWORD: 1
@@ -21,10 +21,10 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotify.link
 DOMAIN-SUFFIX,tospotify.com
 DOMAIN-SUFFIX,byspotify.com
-DOMAIN-SUFFIX,spotify.design
-DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotilocal.com
+DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifycharts.com

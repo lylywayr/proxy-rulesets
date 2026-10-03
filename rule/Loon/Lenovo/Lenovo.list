@@ -1,32 +1,32 @@
 # NAME: Lenovo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:12:00.426525+00:00
+# UPDATED: 2026-10-03T21:10:45.206176+00:00
 # DOMAIN-SUFFIX: 32
 # TOTAL: 32
 
 DOMAIN-SUFFIX,zuk.cn
-DOMAIN-SUFFIX,lx.pub
 DOMAIN-SUFFIX,lx.run
 DOMAIN-SUFFIX,zui.cn
+DOMAIN-SUFFIX,lx.pub
 DOMAIN-SUFFIX,zuk.com
 DOMAIN-SUFFIX,zui.com
 DOMAIN-SUFFIX,lenovo.cn
 DOMAIN-SUFFIX,fm365.com
 DOMAIN-SUFFIX,lxzjjt.cn
-DOMAIN-SUFFIX,idea123.cn
 DOMAIN-SUFFIX,lxzjjt.com
 DOMAIN-SUFFIX,lenovo.com
+DOMAIN-SUFFIX,idea123.cn
 DOMAIN-SUFFIX,lenovomm.cn
 DOMAIN-SUFFIX,lenauth.com
 DOMAIN-SUFFIX,surepush.cn
 DOMAIN-SUFFIX,blurdev.com
+DOMAIN-SUFFIX,thinkpad.com
 DOMAIN-SUFFIX,juhuiwan.net
 DOMAIN-SUFFIX,juhuiwan.com
 DOMAIN-SUFFIX,lenovomm.com
-DOMAIN-SUFFIX,thinkpad.com
+DOMAIN-SUFFIX,ileapcloud.com
 DOMAIN-SUFFIX,lenovogame.com
 DOMAIN-SUFFIX,cftsupport.com
-DOMAIN-SUFFIX,ileapcloud.com
 DOMAIN-SUFFIX,lenovocloudos.com
 DOMAIN-SUFFIX,thinkcloudlab.com
 DOMAIN-SUFFIX,lenovoeservice.com

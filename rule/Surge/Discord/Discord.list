@@ -1,6 +1,6 @@
 # NAME: Discord
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:11:40.150659+00:00
+# UPDATED: 2026-10-03T21:10:17.676187+00:00
 # DOMAIN-SUFFIX: 29
 # TOTAL: 29
 
@@ -11,16 +11,16 @@ DOMAIN-SUFFIX,discord.new
 DOMAIN-SUFFIX,discord.dev
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gift
-DOMAIN-SUFFIX,discord.gifts
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discord.store
-DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,discord.gifts
 DOMAIN-SUFFIX,discordapp.io
-DOMAIN-SUFFIX,discordcdn.com
-DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,discord.tools
 DOMAIN-SUFFIX,airhornbot.com
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,discordcdn.com
 DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discordmerch.com
 DOMAIN-SUFFIX,airhorn.solutions

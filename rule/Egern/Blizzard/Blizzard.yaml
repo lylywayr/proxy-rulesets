@@ -1,16 +1,16 @@
 # NAME: Blizzard
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:16:07.582364+00:00
+# UPDATED: 2026-10-03T20:16:55.714020+00:00
 no_resolve: true
 domain_suffix_set:
   - "battle.net"
   - "blizzard.cn"
   - "diablo3.com"
   - "blzstatic.cn"
-  - "blizzard.com"
   - "wowchina.com"
-  - "battlenet.com"
+  - "blizzard.com"
   - "starcraft.com"
+  - "battlenet.com"
   - "starcraft2.com"
   - "blizzardgames.cn"
   - "playoverwatch.com"
@@ -27,13 +27,13 @@ domain_suffix_set:
   - "blznav.akamaized.net"
   - "blzmedia-a.akamaihd.net"
   - "blizzcon-a.akamaihd.net"
-  - "bnetshopus.akamaized.net"
   - "blzddist1-a.akamaihd.net"
+  - "bnetshopus.akamaized.net"
   - "bnetcmsus-a.akamaihd.net"
-  - "blzddistkr1-a.akamaihd.net"
   - "bnetproduct-a.akamaihd.net"
-  - "sc2.nosdn.127.net"
+  - "blzddistkr1-a.akamaihd.net"
   - "blz.nosdn.127.net"
+  - "sc2.nosdn.127.net"
   - "wow.nosdn.127.net"
   - "di.res.netease.com"
   - "diablo3.nosdn.127.net"

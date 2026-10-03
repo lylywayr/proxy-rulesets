@@ -9,7 +9,7 @@
 - 分类标识：`LineTV`
 - 当前客户端：`Loon`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
-- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - 专题入口：
 - 暂无
 
@@ -51,7 +51,7 @@ Aggregated rules for LineTV, covering related domains, keywords, and network tar
 - Category ID: `LineTV`
 - Client: `Loon`
 - Group: `Social`
-- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/LineTV/LineTV.list>
 

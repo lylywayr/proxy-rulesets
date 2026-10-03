@@ -1,6 +1,6 @@
 # NAME: MeiTu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:12:03.160466+00:00
+# UPDATED: 2026-10-03T21:10:48.356405+00:00
 payload:
   - DOMAIN-SUFFIX,meitu.com
   - DOMAIN-SUFFIX,meipai.com

@@ -1,6 +1,6 @@
 # NAME: AppleTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:16:04.208315+00:00
+# UPDATED: 2026-10-03T20:16:52.916193+00:00
 payload:
   - DOMAIN,hls-amt.itunes.apple.com
   - DOMAIN,hls.itunes.apple.com

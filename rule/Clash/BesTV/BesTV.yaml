@@ -1,11 +1,11 @@
 # NAME: BesTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:16:06.863623+00:00
+# UPDATED: 2026-10-03T20:16:55.189818+00:00
 payload:
   - DOMAIN-SUFFIX,bbtv.cn
   - DOMAIN-SUFFIX,smgbb.cn
   - DOMAIN-SUFFIX,bestvcdn.cn
-  - DOMAIN-SUFFIX,bestvcdn.net
   - DOMAIN-SUFFIX,bestvcdn.com
+  - DOMAIN-SUFFIX,bestvcdn.net
   - DOMAIN-SUFFIX,bestv.com.cn
   - DOMAIN-SUFFIX,bestvcdn.com.cn

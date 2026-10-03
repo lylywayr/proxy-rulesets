@@ -1,6 +1,6 @@
 # NAME: CWSeed
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:52:14.985988+00:00
+# UPDATED: 2026-10-03T20:52:32.515629+00:00
 no_resolve: true
 domain_set:
   - "cwtv-amd-akamai.akamaized.net"

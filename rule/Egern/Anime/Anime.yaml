@@ -1,12 +1,12 @@
 # NAME: Anime
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T20:15:59.405356+00:00
+# UPDATED: 2026-10-03T20:16:48.421833+00:00
 no_resolve: true
 domain_suffix_set:
   - "vrv.co"
   - "9anime.cz"
-  - "9anime.ws"
   - "9anime.id"
+  - "9anime.ws"
   - "9anime.to"
   - "hidive.com"
   - "gogocdn.net"

@@ -9,7 +9,7 @@
 - 分类标识：`Anjuke`
 - 当前客户端：`Loon`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for Anjuke, covering related domains, keywords, and network tar
 - Category ID: `Anjuke`
 - Client: `Loon`
 - Group: `Lifestyle`
-- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Anjuke/Anjuke.list>
 

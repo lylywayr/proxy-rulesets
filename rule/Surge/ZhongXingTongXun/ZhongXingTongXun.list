@@ -1,20 +1,20 @@
 # NAME: ZhongXingTongXun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-09-26T21:16:20.316822+00:00
+# UPDATED: 2026-10-03T21:15:18.380814+00:00
 # DOMAIN-SUFFIX: 20
 # TOTAL: 20
 
 DOMAIN-SUFFIX,zte.net
-DOMAIN-SUFFIX,nubia.cc
 DOMAIN-SUFFIX,nubia.cn
+DOMAIN-SUFFIX,nubia.cc
 DOMAIN-SUFFIX,ztems.com
 DOMAIN-SUFFIX,nubia.com
 DOMAIN-SUFFIX,3gcare.cn
 DOMAIN-SUFFIX,nubia.mobi
 DOMAIN-SUFFIX,ztemall.com
+DOMAIN-SUFFIX,zxingyun.com
 DOMAIN-SUFFIX,ztehotel.com
 DOMAIN-SUFFIX,redmagic.com
-DOMAIN-SUFFIX,zxingyun.com
 DOMAIN-SUFFIX,ztehotel.net
 DOMAIN-SUFFIX,ztedevice.com
 DOMAIN-SUFFIX,ztedevices.com

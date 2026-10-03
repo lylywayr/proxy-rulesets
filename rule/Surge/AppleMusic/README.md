@@ -9,7 +9,7 @@
 - 分类标识：`AppleMusic`
 - 当前客户端：`Surge`
 - 所属分组：[苹果生态](../../../guide/groups/apple.md)
-- 本次更新时间：`2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - 专题入口：
 - [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
@@ -51,7 +51,7 @@ Aggregated rules for AppleMusic, covering related domains, keywords, and network
 - Category ID: `AppleMusic`
 - Client: `Surge`
 - Group: `Apple`
-- Last updated: `2026-09-27 04:15:46 CST (UTC+8) / 2026-09-26 20:15:46 UTC`
+- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/AppleMusic/AppleMusic.list>
 
