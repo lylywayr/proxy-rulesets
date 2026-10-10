@@ -1,6 +1,6 @@
 # NAME: Wordpress
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:15:13.066834+00:00
+# UPDATED: 2026-10-10T21:46:13.044628+00:00
 no_resolve: true
 domain_suffix_set:
   - "w.org"
@@ -8,6 +8,6 @@ domain_suffix_set:
   - "wpvip.com"
   - "wordpress.tv"
   - "wordpress.com"
-  - "wp-themes.com"
   - "wordpress.org"
+  - "wp-themes.com"
   - "videopress.com"

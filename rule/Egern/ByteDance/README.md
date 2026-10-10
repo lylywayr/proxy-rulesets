@@ -9,14 +9,14 @@
 - 分类标识：`ByteDance`
 - 当前客户端：`Egern`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`371`
-- `DOMAIN-SUFFIX`: 369
+- 总数：`372`
+- `DOMAIN-SUFFIX`: 370
 - `USER-AGENT`: 1
 - `PROCESS-NAME`: 1
 - `IP-CIDR`: 1
@@ -51,7 +51,7 @@ Aggregated rules for ByteDance, covering related domains, keywords, and network 
 - Category ID: `ByteDance`
 - Client: `Egern`
 - Group: `Lifestyle`
-- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ByteDance/ByteDance.yaml>
 

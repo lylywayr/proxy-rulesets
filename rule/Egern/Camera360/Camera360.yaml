@@ -1,12 +1,12 @@
 # NAME: Camera360
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T20:16:57.767123+00:00
+# UPDATED: 2026-10-10T20:46:56.567087+00:00
 no_resolve: true
 domain_suffix_set:
   - "360in.com"
+  - "ypjc.cloud"
   - "yipai.info"
   - "c360dn.com"
-  - "ypjc.cloud"
   - "52photo.com"
   - "yipai360.com"
   - "camera360.com"

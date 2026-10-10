@@ -1,6 +1,6 @@
 # NAME: ZhongYuanYiShang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:15:18.470928+00:00
+# UPDATED: 2026-10-10T21:46:18.353373+00:00
 payload:
   - DOMAIN-SUFFIX,esound.cn
   - DOMAIN-SUFFIX,esound.vip

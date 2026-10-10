@@ -1,6 +1,6 @@
 # NAME: ZDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:15:16.057310+00:00
+# UPDATED: 2026-10-10T21:46:16.622572+00:00
 payload:
   - DOMAIN-SUFFIX,zdns.cn
   - DOMAIN-SUFFIX,zdnscloud.cn
@@ -12,5 +12,5 @@ payload:
   - DOMAIN-SUFFIX,zdns.net.cn
   - DOMAIN-SUFFIX,zcmbc.com.cn
   - DOMAIN-SUFFIX,zdnscloud.org.cn
-  - DOMAIN-SUFFIX,zdnscloud.net.cn
   - DOMAIN-SUFFIX,zdnscloud.com.cn
+  - DOMAIN-SUFFIX,zdnscloud.net.cn

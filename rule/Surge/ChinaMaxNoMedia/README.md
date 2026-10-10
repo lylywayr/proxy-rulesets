@@ -9,20 +9,20 @@
 - 分类标识：`ChinaMaxNoMedia`
 - 当前客户端：`Surge`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`12638`
+- 总数：`12649`
 - `DOMAIN-SUFFIX`: 47
 - `DOMAIN-KEYWORD`: 11
 - `USER-AGENT`: 65
 - `PROCESS-NAME`: 12
 - `IP-ASN`: 1
-- `IP-CIDR`: 8245
-- `IP-CIDR6`: 4269
+- `IP-CIDR`: 8244
+- `IP-CIDR6`: 4281
 
 ### 使用说明
 
@@ -54,7 +54,7 @@ Aggregated rules for ChinaMaxNoMedia, covering related domains, keywords, and ne
 - Category ID: `ChinaMaxNoMedia`
 - Client: `Surge`
 - Group: `Media`
-- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list>
 

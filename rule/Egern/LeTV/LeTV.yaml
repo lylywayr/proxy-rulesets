@@ -1,16 +1,16 @@
 # NAME: LeTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:45.296417+00:00
+# UPDATED: 2026-10-10T21:42:18.550527+00:00
 no_resolve: true
 domain_suffix_set:
   - "le.com"
   - "letv.com"
   - "letv8.com"
   - "lemall.com"
-  - "letvimg.com"
   - "lelecdn.com"
-  - "letvcdn.com"
   - "lecloud.com"
+  - "letvimg.com"
+  - "letvcdn.com"
   - "letvlive.com"
   - "videougc.com"
   - "letvcloud.com"

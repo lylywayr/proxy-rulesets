@@ -1,6 +1,6 @@
 # NAME: HBOUSA
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:34.278790+00:00
+# UPDATED: 2026-10-10T21:42:07.483564+00:00
 payload:
   - DOMAIN,wmff.warnermediacdn.com
   - DOMAIN-SUFFIX,h264.io

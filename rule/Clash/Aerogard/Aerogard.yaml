@@ -1,7 +1,7 @@
 # NAME: Aerogard
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T20:16:42.931284+00:00
+# UPDATED: 2026-10-10T20:46:40.058175+00:00
 payload:
   - DOMAIN-SUFFIX,aerogardcn.com
-  - DOMAIN-SUFFIX,aerogard.com.cn
   - DOMAIN-SUFFIX,aerogard.com.au
+  - DOMAIN-SUFFIX,aerogard.com.cn

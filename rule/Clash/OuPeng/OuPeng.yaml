@@ -1,12 +1,12 @@
 # NAME: OuPeng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:56.689187+00:00
+# UPDATED: 2026-10-10T21:42:30.052949+00:00
 payload:
   - DOMAIN-SUFFIX,adbxb.cn
   - DOMAIN-SUFFIX,opfed.com
   - DOMAIN-SUFFIX,adbxb.com
-  - DOMAIN-SUFFIX,opthink.cn
   - DOMAIN-SUFFIX,oupeng.com
+  - DOMAIN-SUFFIX,opthink.cn
   - DOMAIN-SUFFIX,oupeng9.com
   - DOMAIN-SUFFIX,oupengcloud.cn
   - DOMAIN-SUFFIX,oupengcloud.net

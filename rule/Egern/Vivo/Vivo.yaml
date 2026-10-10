@@ -1,19 +1,19 @@
 # NAME: Vivo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:15:10.393181+00:00
+# UPDATED: 2026-10-10T21:46:09.997985+00:00
 no_resolve: true
 domain_suffix_set:
   - "vivo.cn"
   - "bbk.com"
+  - "iqoo.com"
   - "vivo.xyz"
   - "vivo.com"
   - "vmic.xyz"
-  - "iqoo.com"
   - "gdbbk.com"
   - "vivotc.com"
   - "vivosjpt.com"
   - "vsearch.club"
-  - "vivoglobal.com"
   - "funtouchos.com"
+  - "vivoglobal.com"
   - "vivo.com.cn"
   - "bbktel.com.cn"

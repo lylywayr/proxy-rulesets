@@ -1,6 +1,6 @@
 # NAME: MOOV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:51.895134+00:00
+# UPDATED: 2026-10-10T21:42:24.967440+00:00
 payload:
   - DOMAIN-SUFFIX,moov.hk
   - DOMAIN-SUFFIX,mtg.now.com

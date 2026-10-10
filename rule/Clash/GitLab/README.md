@@ -9,7 +9,7 @@
 - 分类标识：`GitLab`
 - 当前客户端：`Clash`
 - 所属分组：[开发者平台](../../../guide/groups/developer.md)
-- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - 专题入口：
 - [开发者栈专题](../../../guide/topics/developer-stack.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for GitLab, covering related domains, keywords, and network tar
 - Category ID: `GitLab`
 - Client: `Clash`
 - Group: `Developer`
-- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/GitLab/GitLab.yaml>
 

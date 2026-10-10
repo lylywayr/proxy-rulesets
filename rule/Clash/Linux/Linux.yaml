@@ -1,5 +1,5 @@
 # NAME: Linux
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:46.396993+00:00
+# UPDATED: 2026-10-10T21:42:19.629264+00:00
 payload:
   - DOMAIN-SUFFIX,linux.org

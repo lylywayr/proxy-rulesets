@@ -1,6 +1,6 @@
 # NAME: PChomeTW
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:58.162000+00:00
+# UPDATED: 2026-10-10T21:42:31.522578+00:00
 payload:
   - DOMAIN-SUFFIX,ecimg.tw
   - DOMAIN-SUFFIX,pcloud.tw

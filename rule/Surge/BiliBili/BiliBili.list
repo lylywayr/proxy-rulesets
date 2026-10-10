@@ -1,6 +1,6 @@
 # NAME: BiliBili
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T20:16:55.372238+00:00
+# UPDATED: 2026-10-10T20:46:53.692587+00:00
 # DOMAIN: 53
 # DOMAIN-SUFFIX: 62
 # USER-AGENT: 4
@@ -62,59 +62,59 @@ DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,baka.im
 DOMAIN-SUFFIX,yo9.com
+DOMAIN-SUFFIX,baka.im
 DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,bili23.cn
+DOMAIN-SUFFIX,hdslb.org
 DOMAIN-SUFFIX,mcbbs.net
+DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hdslb.net
 DOMAIN-SUFFIX,bili33.cn
 DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bili22.cn
-DOMAIN-SUFFIX,hdslb.org
-DOMAIN-SUFFIX,bili23.cn
-DOMAIN-SUFFIX,mincdn.com
-DOMAIN-SUFFIX,anitama.cn
-DOMAIN-SUFFIX,biligo.com
 DOMAIN-SUFFIX,corari.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,bilibili.cn
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.cn
-DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biligo.com
+DOMAIN-SUFFIX,anitama.cn
+DOMAIN-SUFFIX,mincdn.com
 DOMAIN-SUFFIX,anitama.net
-DOMAIN-SUFFIX,bili2233.cn
-DOMAIN-SUFFIX,bilibili.co
-DOMAIN-SUFFIX,bilibili.cc
-DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,bili2233.cn
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biligame.co
 DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.cc
+DOMAIN-SUFFIX,bilibili.co
 DOMAIN-SUFFIX,biliintl.co
-DOMAIN-SUFFIX,maoercdn.com
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,biliplus.com
-DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,biligame.cn
+DOMAIN-SUFFIX,bilibili.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,bilicdn1.com
+DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilibili.net
-DOMAIN-SUFFIX,dyhgames.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilicdn2.com
+DOMAIN-SUFFIX,maoercdn.com
+DOMAIN-SUFFIX,bilicdn4.com
+DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilicdn3.com
 DOMAIN-SUFFIX,bilicdn5.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilicdn1.com
 DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN-SUFFIX,biliintl.com
-DOMAIN-SUFFIX,bilicdn2.com
-DOMAIN-SUFFIX,bilicdn4.com
-DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,dyhgames.com
 DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,bilivideo.net
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,biliplus.com
+DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilibilipay.cn
+DOMAIN-SUFFIX,bilivideo.net
 DOMAIN-SUFFIX,bilicomics.com
+DOMAIN-SUFFIX,bilibilipay.cn
 DOMAIN-SUFFIX,bilibiligame.co
 DOMAIN-SUFFIX,bilibilipay.com
-DOMAIN-SUFFIX,animetamashi.cn
 DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,animetamashi.cn
 DOMAIN-SUFFIX,sharejoytech.com
 DOMAIN-SUFFIX,animetamashi.com
 DOMAIN-SUFFIX,bilibiligame.net

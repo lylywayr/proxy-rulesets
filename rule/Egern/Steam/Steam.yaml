@@ -1,6 +1,6 @@
 # NAME: Steam
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:15:02.362777+00:00
+# UPDATED: 2026-10-10T21:46:00.857074+00:00
 no_resolve: true
 domain_set:
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -15,22 +15,22 @@ domain_suffix_set:
   - "valve.net"
   - "dota2.com"
   - "steamstat.us"
-  - "wmsjsteam.com"
   - "steamdeck.com"
+  - "wmsjsteam.com"
   - "fanatical.com"
   - "steam-api.com"
-  - "steam-chat.com"
-  - "underlords.com"
   - "steamgames.com"
   - "steamchina.com"
+  - "underlords.com"
+  - "steam-chat.com"
   - "steamstatic.com"
   - "steamserver.net"
-  - "humblebundle.com"
   - "steampowered.com"
-  - "steamcontent.com"
+  - "humblebundle.com"
   - "playartifact.com"
-  - "valvesoftware.com"
+  - "steamcontent.com"
   - "steamunlocked.net"
+  - "valvesoftware.com"
   - "steamcommunity.com"
   - "steamconnecttest.com"
   - "steamusercontent.com"
@@ -62,8 +62,8 @@ domain_suffix_set:
   - "steam.naeu.qtlglb.com"
   - "st.dl.pinyuncloud.com"
   - "steam.apac.qtlglb.com"
-  - "f3b7q2p3.ssl.hwcdn.net"
   - "gstore.val.manlaxy.com"
+  - "f3b7q2p3.ssl.hwcdn.net"
   - "steamstatic.com.8686c.com"
   - "steampowered.com.8686c.com"
   - "steam.cdn.orcon.net.nz"

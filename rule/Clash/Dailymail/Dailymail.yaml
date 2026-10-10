@@ -1,6 +1,6 @@
 # NAME: Dailymail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T20:52:32.812736+00:00
+# UPDATED: 2026-10-10T21:23:16.418728+00:00
 payload:
   - DOMAIN-SUFFIX,mol.im
   - DOMAIN-SUFFIX,dailym.ai

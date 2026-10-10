@@ -1,12 +1,12 @@
 # NAME: Teambition
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:15:04.390485+00:00
+# UPDATED: 2026-10-10T21:46:03.029028+00:00
 # DOMAIN-SUFFIX: 10
 # TOTAL: 10
 
 DOMAIN-SUFFIX,talk.ai
-DOMAIN-SUFFIX,tburl.in
 DOMAIN-SUFFIX,today.ai
+DOMAIN-SUFFIX,tburl.in
 DOMAIN-SUFFIX,tbapp.com
 DOMAIN-SUFFIX,project.ai
 DOMAIN-SUFFIX,jianliao.com

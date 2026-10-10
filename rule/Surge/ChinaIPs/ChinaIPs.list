@@ -1,9 +1,9 @@
 # NAME: ChinaIPs
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T20:52:26.123634+00:00
-# IP-CIDR: 7225
-# IP-CIDR6: 4218
-# TOTAL: 11443
+# UPDATED: 2026-10-10T21:23:09.341216+00:00
+# IP-CIDR: 7223
+# IP-CIDR6: 4222
+# TOTAL: 11445
 
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -433,7 +433,6 @@ IP-CIDR,38.181.36.0/22,no-resolve
 IP-CIDR,38.181.40.0/21,no-resolve
 IP-CIDR,38.181.48.0/20,no-resolve
 IP-CIDR,38.196.176.0/24,no-resolve
-IP-CIDR,38.226.199.0/24,no-resolve
 IP-CIDR,39.0.0.0/24,no-resolve
 IP-CIDR,39.0.2.0/23,no-resolve
 IP-CIDR,39.0.4.0/22,no-resolve
@@ -2801,7 +2800,6 @@ IP-CIDR,103.144.136.0/23,no-resolve
 IP-CIDR,103.144.148.0/23,no-resolve
 IP-CIDR,103.144.158.0/23,no-resolve
 IP-CIDR,103.144.240.0/23,no-resolve
-IP-CIDR,103.144.244.0/23,no-resolve
 IP-CIDR,103.145.38.0/23,no-resolve
 IP-CIDR,103.145.40.0/22,no-resolve
 IP-CIDR,103.145.60.0/23,no-resolve
@@ -11261,7 +11259,11 @@ IP-CIDR6,2a0a:d684::/32,no-resolve
 IP-CIDR6,2a0a:d685::/40,no-resolve
 IP-CIDR6,2a0a:d685:100::/41,no-resolve
 IP-CIDR6,2a0a:d685:180::/42,no-resolve
-IP-CIDR6,2a0a:d685:1c0::/43,no-resolve
+IP-CIDR6,2a0a:d685:1c0::/44,no-resolve
+IP-CIDR6,2a0a:d685:1d1::/48,no-resolve
+IP-CIDR6,2a0a:d685:1d2::/47,no-resolve
+IP-CIDR6,2a0a:d685:1d4::/46,no-resolve
+IP-CIDR6,2a0a:d685:1d8::/45,no-resolve
 IP-CIDR6,2a0a:d685:1e2::/47,no-resolve
 IP-CIDR6,2a0a:d685:1e4::/46,no-resolve
 IP-CIDR6,2a0a:d685:1e8::/45,no-resolve

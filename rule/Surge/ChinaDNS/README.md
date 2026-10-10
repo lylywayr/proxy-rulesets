@@ -9,15 +9,15 @@
 - 分类标识：`ChinaDNS`
 - 当前客户端：`Surge`
 - 所属分组：[云与网络](../../../guide/groups/network.md)
-- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`110620`
-- `DOMAIN-SUFFIX`: 110619
+- 总数：`110991`
+- `DOMAIN-SUFFIX`: 110990
 - `IP-CIDR`: 1
 
 ### 使用说明
@@ -51,7 +51,7 @@ Aggregated rules for ChinaDNS, covering related domains, keywords, and network t
 - Category ID: `ChinaDNS`
 - Client: `Surge`
 - Group: `Network`
-- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/ChinaDNS/ChinaDNS.list>
 

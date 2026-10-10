@@ -1,6 +1,6 @@
 # NAME: Addthis
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T20:16:41.812363+00:00
+# UPDATED: 2026-10-10T20:46:38.802630+00:00
 payload:
   - DOMAIN-SUFFIX,addthis.com
   - DOMAIN-SUFFIX,addthiscdn.com

@@ -1,6 +1,6 @@
 # NAME: Line
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:45.872195+00:00
+# UPDATED: 2026-10-10T21:42:19.072506+00:00
 payload:
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,line.me

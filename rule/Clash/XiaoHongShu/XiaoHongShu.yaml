@@ -1,8 +1,8 @@
 # NAME: XiaoHongShu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:15:13.739971+00:00
+# UPDATED: 2026-10-10T21:46:13.898742+00:00
 payload:
-  - DOMAIN-SUFFIX,xhscdn.net
   - DOMAIN-SUFFIX,xhscdn.com
+  - DOMAIN-SUFFIX,xhscdn.net
   - DOMAIN-SUFFIX,xiaohongshu.com
   - DOMAIN-SUFFIX,fengkongcloud.com

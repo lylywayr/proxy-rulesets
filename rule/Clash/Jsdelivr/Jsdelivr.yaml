@@ -1,7 +1,7 @@
 # NAME: Jsdelivr
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:42.213157+00:00
+# UPDATED: 2026-10-10T21:42:15.424091+00:00
 payload:
   - DOMAIN-SUFFIX,esm.run
-  - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,jsdelivr.com

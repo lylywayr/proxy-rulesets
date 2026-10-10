@@ -1,6 +1,6 @@
 # NAME: Dubox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:20.203953+00:00
+# UPDATED: 2026-10-10T21:41:55.018619+00:00
 payload:
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,duboxcdn.com

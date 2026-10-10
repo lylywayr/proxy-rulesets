@@ -1,22 +1,22 @@
 # NAME: LuDaShi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:10:47.064821+00:00
+# UPDATED: 2026-10-10T21:42:20.317620+00:00
 no_resolve: true
 domain_suffix_set:
   - "ludan.cn"
   - "kejids.cn"
-  - "youhua.com"
   - "kejids.com"
-  - "taojike.cn"
   - "ludashi.cn"
+  - "taojike.cn"
+  - "youhua.com"
   - "ludashi.com"
-  - "monidashi.cn"
   - "birdpaper.cn"
-  - "easyclean.fun"
+  - "monidashi.cn"
   - "dualspace.com"
+  - "easyclean.fun"
   - "xiaoluerhuo.com"
   - "xiaoluhaohuo.com"
-  - "xiaoluyouxuan.com"
-  - "dualspacetech.com"
   - "superlitetech.com"
+  - "dualspacetech.com"
+  - "xiaoluyouxuan.com"
   - "monidashi.com.cn"

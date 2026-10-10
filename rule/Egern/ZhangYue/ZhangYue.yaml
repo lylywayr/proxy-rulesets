@@ -1,6 +1,6 @@
 # NAME: ZhangYue
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:15:16.553991+00:00
+# UPDATED: 2026-10-10T21:46:17.183385+00:00
 no_resolve: true
 domain_suffix_set:
   - "z3.cn"
@@ -8,24 +8,24 @@ domain_suffix_set:
   - "mgcube.cn"
   - "corp3g.cn"
   - "ireader.com"
-  - "ireader.mobi"
-  - "ireaderm.net"
-  - "ireaderm.com"
-  - "iremaker.com"
   - "zhangyue.net"
-  - "zhangyue.com"
+  - "iremaker.com"
   - "palmeread.cn"
+  - "zhangyue.com"
+  - "ireaderm.net"
   - "ireader.live"
+  - "ireader.mobi"
+  - "ireaderm.com"
   - "palmestore.cn"
   - "palmeread.com"
   - "palmebook.com"
+  - "zhangyue01.com"
+  - "zhangyue03.com"
   - "palmestore.com"
   - "zhangyue02.com"
-  - "zhangyue03.com"
   - "transmonkey.cn"
-  - "zhangyue01.com"
-  - "zuoshujiang.com"
   - "transmonkey.net"
   - "transmonkey.com"
+  - "zuoshujiang.com"
   - "zhi3.com.cn"
   - "ireader.com.cn"

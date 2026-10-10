@@ -1,6 +1,6 @@
 # NAME: 51Job
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T20:16:39.802926+00:00
+# UPDATED: 2026-10-10T20:46:36.230291+00:00
 payload:
   - DOMAIN-SUFFIX,51hr.com
   - DOMAIN-SUFFIX,myyjs.com
@@ -15,9 +15,9 @@ payload:
   - DOMAIN-SUFFIX,51laiqiang.com
   - DOMAIN-SUFFIX,51miduoduo.com
   - DOMAIN-SUFFIX,wuyoudagong.com
-  - DOMAIN-SUFFIX,yingjiesheng.org
   - DOMAIN-SUFFIX,yingjiesheng.com
+  - DOMAIN-SUFFIX,yingjiesheng.org
   - DOMAIN-SUFFIX,yingjiesheng.net
   - DOMAIN-SUFFIX,correlation-one.cn
-  - DOMAIN-SUFFIX,xinghua.org.cn
   - DOMAIN-SUFFIX,zhiding.com.cn
+  - DOMAIN-SUFFIX,xinghua.org.cn

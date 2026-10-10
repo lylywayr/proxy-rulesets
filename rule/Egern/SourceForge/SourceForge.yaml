@@ -1,6 +1,6 @@
 # NAME: SourceForge
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-03T21:14:51.988029+00:00
+# UPDATED: 2026-10-10T21:46:00.063255+00:00
 no_resolve: true
 domain_suffix_set:
   - "sf.net"

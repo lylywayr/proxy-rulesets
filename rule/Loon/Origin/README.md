@@ -9,7 +9,7 @@
 - 分类标识：`Origin`
 - 当前客户端：`Loon`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - 专题入口：
 - 暂无
 
@@ -49,7 +49,7 @@ Aggregated rules for Origin, covering related domains, keywords, and network tar
 - Category ID: `Origin`
 - Client: `Loon`
 - Group: `Lifestyle`
-- Last updated: `2026-10-04 04:16:37 CST (UTC+8) / 2026-10-03 20:16:37 UTC`
+- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Origin/Origin.list>
 
