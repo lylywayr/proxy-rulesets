@@ -9,7 +9,7 @@
 - 分类标识：`AppleTV`
 - 当前客户端：`Clash`
 - 所属分组：[苹果生态](../../../guide/groups/apple.md)
-- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - 专题入口：
 - [苹果生态专题](../../../guide/topics/apple-ecosystem.md)
 
@@ -51,7 +51,7 @@ Aggregated rules for AppleTV, covering related domains, keywords, and network ta
 - Category ID: `AppleTV`
 - Client: `Clash`
 - Group: `Apple`
-- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/AppleTV/AppleTV.yaml>
 

@@ -1,12 +1,12 @@
 # NAME: TongCheng
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:46:05.856446+00:00
+# UPDATED: 2026-10-17T20:42:33.776955+00:00
 payload:
   - DOMAIN-SUFFIX,17u.cn
   - DOMAIN-SUFFIX,ly.com
   - DOMAIN-SUFFIX,17u.net
   - DOMAIN-SUFFIX,40017.cn
   - DOMAIN-SUFFIX,elong.com
-  - DOMAIN-SUFFIX,17usoft.net
   - DOMAIN-SUFFIX,17usoft.com
+  - DOMAIN-SUFFIX,17usoft.net
   - DOMAIN-SUFFIX,elongstatic.com

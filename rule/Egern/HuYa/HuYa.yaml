@@ -1,6 +1,6 @@
 # NAME: HuYa
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:10.978466+00:00
+# UPDATED: 2026-10-17T20:38:43.839087+00:00
 no_resolve: true
 domain_suffix_set:
   - "huya.com"

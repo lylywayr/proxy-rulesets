@@ -1,6 +1,6 @@
 # NAME: ParamountPlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:30.704565+00:00
+# UPDATED: 2026-10-17T20:39:02.054818+00:00
 no_resolve: true
 domain_set:
   - "cbsi.live.ott.irdeto.com"

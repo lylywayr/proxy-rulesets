@@ -9,7 +9,7 @@
 - 分类标识：`EA`
 - 当前客户端：`Clash`
 - 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - 专题入口：
 - [游戏平台专题](../../../guide/topics/gaming-platforms.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for EA, covering related domains, keywords, and network targets
 - Category ID: `EA`
 - Client: `Clash`
 - Group: `Gaming`
-- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/EA/EA.yaml>
 

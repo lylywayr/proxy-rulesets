@@ -1,6 +1,6 @@
 # NAME: VikACG
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:46:09.230595+00:00
+# UPDATED: 2026-10-17T20:42:37.010148+00:00
 payload:
   - DOMAIN-SUFFIX,picjs.xyz
   - DOMAIN-SUFFIX,vikacg.com

@@ -1,6 +1,6 @@
 # NAME: AppleDev
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T20:46:49.471273+00:00
+# UPDATED: 2026-10-17T19:45:49.547634+00:00
 # DOMAIN-SUFFIX: 40
 # TOTAL: 40
 
@@ -8,18 +8,18 @@ DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,webkit.org
 DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,macruby.org
-DOMAIN-SUFFIX,carekit.org
 DOMAIN-SUFFIX,macruby.com
+DOMAIN-SUFFIX,carekit.org
+DOMAIN-SUFFIX,macruby.org
 DOMAIN-SUFFIX,macruby.net
-DOMAIN-SUFFIX,webkitgtk.org
 DOMAIN-SUFFIX,wpewebkit.org
-DOMAIN-SUFFIX,appleswift.com
-DOMAIN-SUFFIX,webobjects.com
-DOMAIN-SUFFIX,macosforge.org
-DOMAIN-SUFFIX,servicetalk.io
+DOMAIN-SUFFIX,webkitgtk.org
 DOMAIN-SUFFIX,researchkit.tv
+DOMAIN-SUFFIX,servicetalk.io
+DOMAIN-SUFFIX,appleswift.com
+DOMAIN-SUFFIX,macosforge.org
 DOMAIN-SUFFIX,researchkit.hk
+DOMAIN-SUFFIX,webobjects.com
 DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.net
@@ -30,8 +30,8 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,researchandcare.org
 DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,researchkit.com.cn
-DOMAIN-SUFFIX,developer.apple.com
 DOMAIN-SUFFIX,timestamp.apple.com
+DOMAIN-SUFFIX,developer.apple.com
 DOMAIN-SUFFIX,devimages-cdn.apple.com
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 DOMAIN-SUFFIX,devstreaming-cdn.apple.com

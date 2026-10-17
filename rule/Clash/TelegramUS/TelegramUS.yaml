@@ -1,6 +1,6 @@
 # NAME: TelegramUS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:46:03.808730+00:00
+# UPDATED: 2026-10-17T20:42:31.948404+00:00
 payload:
   - IP-CIDR,91.108.12.0/22
   - IP-CIDR6,2001:b28:f23d::/48

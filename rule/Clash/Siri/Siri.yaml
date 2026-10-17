@@ -1,5 +1,5 @@
 # NAME: Siri
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:45:58.115860+00:00
+# UPDATED: 2026-10-17T20:42:26.784076+00:00
 payload:
   - DOMAIN,guzzoni.apple.com

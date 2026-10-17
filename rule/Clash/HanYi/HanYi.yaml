@@ -1,6 +1,6 @@
 # NAME: HanYi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:06.653507+00:00
+# UPDATED: 2026-10-17T20:38:40.391161+00:00
 payload:
   - DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
   - DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com

@@ -9,7 +9,7 @@
 - 分类标识：`Wteam`
 - 当前客户端：`Clash`
 - 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for Wteam, covering related domains, keywords, and network targ
 - Category ID: `Wteam`
 - Client: `Clash`
 - Group: `Gaming`
-- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Wteam/Wteam.yaml>
 

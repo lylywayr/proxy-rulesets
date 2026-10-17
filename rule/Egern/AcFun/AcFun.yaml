@@ -1,10 +1,10 @@
 # NAME: AcFun
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T20:46:38.253596+00:00
+# UPDATED: 2026-10-17T19:45:39.725979+00:00
 no_resolve: true
 domain_suffix_set:
-  - "acfun.cn"
   - "acfun.tv"
+  - "acfun.cn"
   - "acfun.com"
   - "aixifan.com"
 user_agent_set:

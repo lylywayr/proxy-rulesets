@@ -1,22 +1,22 @@
 # NAME: ZhiYinManKe
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:46:17.709795+00:00
+# UPDATED: 2026-10-17T20:42:45.274434+00:00
 no_resolve: true
 domain_suffix_set:
   - "zymk.cn"
   - "mkzhan.cn"
-  - "mkzhan.net"
-  - "mkzcdn.com"
   - "mkzhan.com"
+  - "mkzcdn.com"
   - "mkdata.top"
+  - "mkzhan.net"
   - "mkpush.com"
   - "zymkcdn.com"
   - "51kanmanhua.com"
   - "xiaoshuohui.net"
-  - "xiaomingtaiji.cc"
   - "xiaomingtaiji.cn"
-  - "xiaomingtaiji.net"
+  - "xiaomingtaiji.cc"
   - "xiaomingtaiji.com"
+  - "xiaomingtaiji.net"
   - "mkzhan.com.cn"
   - "xiaoshuohui.com.cn"
   - "xiaomingtaiji.com.cn"

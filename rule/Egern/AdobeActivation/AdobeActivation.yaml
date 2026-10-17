@@ -1,6 +1,6 @@
 # NAME: AdobeActivation
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T20:46:39.346593+00:00
+# UPDATED: 2026-10-17T19:45:40.680943+00:00
 no_resolve: true
 domain_set:
   - "1b9khekel6.adobe.io"

@@ -1,6 +1,6 @@
 # NAME: LG
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:18.680987+00:00
+# UPDATED: 2026-10-17T20:38:50.561208+00:00
 payload:
   - DOMAIN-SUFFIX,lg.com
   - DOMAIN-SUFFIX,kidc.net

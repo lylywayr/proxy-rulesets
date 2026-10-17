@@ -1,6 +1,6 @@
 # NAME: SuNing
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:46:01.608203+00:00
+# UPDATED: 2026-10-17T20:42:30.000643+00:00
 no_resolve: true
 domain_suffix_set:
   - "laox.cn"
@@ -10,27 +10,27 @@ domain_suffix_set:
   - "suning.com"
   - "yifubao.com"
   - "pinjiago.cn"
+  - "cnsuning.com"
+  - "suningcdn.cn"
+  - "suningdns.cn"
   - "pinjiago.com"
   - "wuliuyun.com"
-  - "cnsuning.com"
-  - "suningdns.cn"
-  - "suningcdn.cn"
   - "chinadzfp.com"
-  - "suningdns.com"
+  - "suningdns.net"
   - "suningcdn.com"
   - "suningcdn.net"
-  - "suningdns.net"
+  - "suningdns.com"
   - "suninggslb.cn"
   - "cloudytrace.cn"
   - "suningmail.com"
   - "suninggslb.net"
   - "cloudytrace.org"
-  - "suninghotel.com"
   - "suningcloud.com"
-  - "suningyunyou.cn"
+  - "suninghotel.com"
   - "cloudytrace.com"
-  - "suningyunyou.com"
+  - "suningyunyou.cn"
   - "suningestate.com"
+  - "suningyunyou.com"
   - "suningholdings.com"
   - "10035.com.cn"
   - "redbaby.com.cn"

@@ -1,6 +1,6 @@
 # NAME: ParamountPlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:30.704249+00:00
+# UPDATED: 2026-10-17T20:39:02.054448+00:00
 payload:
   - DOMAIN,cbsi.live.ott.irdeto.com
   - DOMAIN,cbsplaylistserver.aws.syncbak.com

@@ -1,6 +1,6 @@
 # NAME: Protonmail
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:33.813485+00:00
+# UPDATED: 2026-10-17T20:39:04.843460+00:00
 payload:
   - DOMAIN-SUFFIX,pm.me
   - DOMAIN-SUFFIX,proton.me

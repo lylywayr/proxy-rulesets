@@ -1,6 +1,6 @@
 # NAME: Contentful
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:23:15.493186+00:00
+# UPDATED: 2026-10-17T20:20:38.300414+00:00
 payload:
   - DOMAIN-SUFFIX,ctfassets.net
   - DOMAIN-SUFFIX,contentful.com

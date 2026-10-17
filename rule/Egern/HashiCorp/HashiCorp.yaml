@@ -1,6 +1,6 @@
 # NAME: HashiCorp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:06.791136+00:00
+# UPDATED: 2026-10-17T20:38:40.506505+00:00
 no_resolve: true
 domain_suffix_set:
   - "consul.io"

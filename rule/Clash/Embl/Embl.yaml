@@ -1,9 +1,9 @@
 # NAME: Embl
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:41:56.679817+00:00
+# UPDATED: 2026-10-17T20:38:31.751016+00:00
 payload:
-  - DOMAIN-SUFFIX,embl.de
   - DOMAIN-SUFFIX,embl.it
+  - DOMAIN-SUFFIX,embl.de
   - DOMAIN-SUFFIX,embl.fr
   - DOMAIN-SUFFIX,embl.org
   - DOMAIN-SUFFIX,emblstatic.net

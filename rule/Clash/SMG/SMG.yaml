@@ -1,6 +1,6 @@
 # NAME: SMG
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:45:59.024249+00:00
+# UPDATED: 2026-10-17T20:42:27.546106+00:00
 payload:
   - DOMAIN-SUFFIX,smg.cn
   - DOMAIN-SUFFIX,cptn.tv

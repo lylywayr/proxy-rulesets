@@ -1,6 +1,6 @@
 # NAME: Coolapk
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:23:15.651440+00:00
+# UPDATED: 2026-10-17T20:20:38.425155+00:00
 payload:
   - DOMAIN-SUFFIX,coolapk.com
   - DOMAIN-SUFFIX,coolapkmarket.net

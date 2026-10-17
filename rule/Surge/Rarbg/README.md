@@ -9,7 +9,7 @@
 - 分类标识：`Rarbg`
 - 当前客户端：`Surge`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for Rarbg, covering related domains, keywords, and network targ
 - Category ID: `Rarbg`
 - Client: `Surge`
 - Group: `Lifestyle`
-- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/Rarbg/Rarbg.list>
 

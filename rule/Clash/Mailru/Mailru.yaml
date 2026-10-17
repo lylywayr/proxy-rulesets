@@ -1,6 +1,6 @@
 # NAME: Mailru
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:20.689461+00:00
+# UPDATED: 2026-10-17T20:38:52.607411+00:00
 payload:
   - DOMAIN-SUFFIX,mail.ru
   - DOMAIN-SUFFIX,mycdn.me

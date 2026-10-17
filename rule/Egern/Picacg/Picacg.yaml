@@ -1,10 +1,10 @@
 # NAME: Picacg
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:31.794277+00:00
+# UPDATED: 2026-10-17T20:39:02.979227+00:00
 no_resolve: true
 domain_suffix_set:
-  - "bikac.xyz"
   - "bikaa.xyz"
+  - "bikac.xyz"
   - "picacn.xyz"
   - "picacgp.com"
   - "bikaios.xyz"

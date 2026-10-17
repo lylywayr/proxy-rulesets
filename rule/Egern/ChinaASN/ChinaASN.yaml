@@ -1,6 +1,6 @@
 # NAME: ChinaASN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:05:37.698779+00:00
+# UPDATED: 2026-10-17T20:03:41.238404+00:00
 no_resolve: true
 asn_set:
   - "10111"

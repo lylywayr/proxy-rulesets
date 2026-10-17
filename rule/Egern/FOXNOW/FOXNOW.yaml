@@ -1,10 +1,10 @@
 # NAME: FOXNOW
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:41:59.904403+00:00
+# UPDATED: 2026-10-17T20:38:34.391437+00:00
 no_resolve: true
 domain_suffix_set:
   - "fox.com"
-  - "foxdcg.com"
   - "uplynk.com"
+  - "foxdcg.com"
 user_agent_set:
   - "FOX%20NOW*"

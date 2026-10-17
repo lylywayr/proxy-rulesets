@@ -1,6 +1,6 @@
 # NAME: Sharethis
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:45:57.087528+00:00
+# UPDATED: 2026-10-17T20:42:25.954066+00:00
 no_resolve: true
 domain_suffix_set:
   - "sharethis.com"

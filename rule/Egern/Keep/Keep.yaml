@@ -1,6 +1,6 @@
 # NAME: Keep
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:16.093434+00:00
+# UPDATED: 2026-10-17T20:38:48.321182+00:00
 no_resolve: true
 domain_suffix_set:
   - "keep.com"

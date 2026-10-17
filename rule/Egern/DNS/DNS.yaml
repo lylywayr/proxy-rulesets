@@ -1,6 +1,6 @@
 # NAME: DNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:41:53.704541+00:00
+# UPDATED: 2026-10-17T20:38:29.058750+00:00
 no_resolve: true
 domain_set:
   - "1dot1dot1dot1.cloudflare-dns.com"

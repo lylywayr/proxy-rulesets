@@ -1,11 +1,11 @@
 # NAME: TIDAL
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:46:05.364351+00:00
+# UPDATED: 2026-10-17T20:42:33.141599+00:00
 no_resolve: true
 domain_suffix_set:
   - "tidal.com"
-  - "wimpmusic.com"
   - "tidalhifi.com"
+  - "wimpmusic.com"
   - "tidal-cms.s3.amazonaws.com"
 user_agent_set:
   - "TIDAL*"

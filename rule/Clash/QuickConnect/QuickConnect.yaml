@@ -1,6 +1,6 @@
 # NAME: QuickConnect
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:45:54.629140+00:00
+# UPDATED: 2026-10-17T20:42:23.633419+00:00
 payload:
   - DOMAIN,account.synology.com
   - DOMAIN,global.quickconnect.cn

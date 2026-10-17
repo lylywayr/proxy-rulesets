@@ -1,6 +1,6 @@
 # NAME: AmazonCN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T20:46:44.838763+00:00
+# UPDATED: 2026-10-17T19:45:45.597358+00:00
 # DOMAIN-SUFFIX: 47
 # TOTAL: 47
 
@@ -9,19 +9,19 @@ DOMAIN-SUFFIX,kindle.cn
 DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,nwcddns.cn
 DOMAIN-SUFFIX,route53.cn
-DOMAIN-SUFFIX,yamaxun.cn
 DOMAIN-SUFFIX,awsapps.cn
+DOMAIN-SUFFIX,yamaxun.cn
 DOMAIN-SUFFIX,primeday.cn
-DOMAIN-SUFFIX,alexafund.cn
-DOMAIN-SUFFIX,amazonnow.cn
 DOMAIN-SUFFIX,amazonaws.cn
+DOMAIN-SUFFIX,amazonnow.cn
 DOMAIN-SUFFIX,nwcdcloud.cn
+DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,awsstatic.cn
-DOMAIN-SUFFIX,cloudfront.cn
 DOMAIN-SUFFIX,aws-border.cn
+DOMAIN-SUFFIX,cloudfront.cn
+DOMAIN-SUFFIX,nwcdinfosec.cn
 DOMAIN-SUFFIX,kindleoasis.cn
 DOMAIN-SUFFIX,aboutamazon.cn
-DOMAIN-SUFFIX,nwcdinfosec.cn
 DOMAIN-SUFFIX,amazonchoice.cn
 DOMAIN-SUFFIX,assoc-amazon.cn
 DOMAIN-SUFFIX,amazonchoices.cn
@@ -35,11 +35,11 @@ DOMAIN-SUFFIX,aws-icp-domain-manager.cn
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,awsapps.com.cn
 DOMAIN-SUFFIX,primeday.com.cn
-DOMAIN-SUFFIX,nwcdcloud.com.cn
-DOMAIN-SUFFIX,amazonaws.com.cn
-DOMAIN-SUFFIX,amazonnow.com.cn
 DOMAIN-SUFFIX,alexafund.com.cn
+DOMAIN-SUFFIX,amazonaws.com.cn
 DOMAIN-SUFFIX,sagemaker.com.cn
+DOMAIN-SUFFIX,nwcdcloud.com.cn
+DOMAIN-SUFFIX,amazonnow.com.cn
 DOMAIN-SUFFIX,kindleoasis.com.cn
 DOMAIN-SUFFIX,amazonchoice.com.cn
 DOMAIN-SUFFIX,amazonchoices.com.cn
@@ -47,7 +47,7 @@ DOMAIN-SUFFIX,amazoninspire.com.cn
 DOMAIN-SUFFIX,amazonlending.com.cn
 DOMAIN-SUFFIX,amazonbusiness.com.cn
 DOMAIN-SUFFIX,amazonworkdocs.com.cn
-DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
 DOMAIN-SUFFIX,amazonlaunchpad.com.cn
+DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
 DOMAIN-SUFFIX,amazonwebservices.com.cn

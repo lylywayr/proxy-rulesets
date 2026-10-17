@@ -1,6 +1,6 @@
 # NAME: Gucci
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:06.142049+00:00
+# UPDATED: 2026-10-17T20:38:39.895965+00:00
 payload:
   - DOMAIN-SUFFIX,gucci.cn
   - DOMAIN-SUFFIX,gucci.com

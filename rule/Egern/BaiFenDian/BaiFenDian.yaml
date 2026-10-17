@@ -1,11 +1,11 @@
 # NAME: BaiFenDian
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T20:46:52.336332+00:00
+# UPDATED: 2026-10-17T19:45:51.943190+00:00
 no_resolve: true
 domain_suffix_set:
   - "bfdcdn.com"
-  - "pertalk.cn"
   - "percent.cn"
+  - "pertalk.cn"
   - "marimall.cn"
   - "bfdcloud.com"
   - "mediaforce.cn"

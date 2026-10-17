@@ -1,5 +1,5 @@
 # NAME: GoogleVoice
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T21:42:05.919814+00:00
+# UPDATED: 2026-10-17T20:38:39.638060+00:00
 payload:
   - DOMAIN,lens.l.google.com

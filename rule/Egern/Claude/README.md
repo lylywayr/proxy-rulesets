@@ -9,7 +9,7 @@ Claude 服务规则。
 - 分类标识：`Claude`
 - 当前客户端：`Egern`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
@@ -50,7 +50,7 @@ Claude service rules.
 - Category ID: `Claude`
 - Client: `Egern`
 - Group: `Ai`
-- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Claude/Claude.yaml>
 

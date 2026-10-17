@@ -9,7 +9,7 @@
 - 分类标识：`GoogleSearch`
 - 当前客户端：`Egern`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for GoogleSearch, covering related domains, keywords, and netwo
 - Category ID: `GoogleSearch`
 - Client: `Egern`
 - Group: `Office`
-- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/GoogleSearch/GoogleSearch.yaml>
 

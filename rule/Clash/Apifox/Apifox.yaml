@@ -1,6 +1,6 @@
 # NAME: Apifox
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-10T20:46:47.061464+00:00
+# UPDATED: 2026-10-17T19:45:47.624820+00:00
 payload:
   - DOMAIN-SUFFIX,apifox.cn
   - DOMAIN-SUFFIX,apifox.com

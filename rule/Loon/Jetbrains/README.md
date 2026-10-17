@@ -9,7 +9,7 @@
 - 分类标识：`Jetbrains`
 - 当前客户端：`Loon`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - 专题入口：
 - [开发者栈专题](../../../guide/topics/developer-stack.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for Jetbrains, covering related domains, keywords, and network 
 - Category ID: `Jetbrains`
 - Client: `Loon`
 - Group: `Ai`
-- Last updated: `2026-10-11 04:46:34 CST (UTC+8) / 2026-10-10 20:46:34 UTC`
+- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/Jetbrains/Jetbrains.list>
 
