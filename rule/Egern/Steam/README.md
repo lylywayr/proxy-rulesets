@@ -9,16 +9,17 @@
 - 分类标识：`Steam`
 - 当前客户端：`Egern`
 - 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - 专题入口：
 - [游戏平台专题](../../../guide/topics/gaming-platforms.md)
 
 ### 规则统计
 
-- 总数：`68`
+- 总数：`81`
 - `DOMAIN`: 6
-- `DOMAIN-SUFFIX`: 59
+- `DOMAIN-SUFFIX`: 60
 - `DOMAIN-KEYWORD`: 3
+- `IP-CIDR`: 12
 
 ### 使用说明
 
@@ -51,7 +52,7 @@ Aggregated rules for Steam, covering related domains, keywords, and network targ
 - Category ID: `Steam`
 - Client: `Egern`
 - Group: `Gaming`
-- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Steam/Steam.yaml>
 

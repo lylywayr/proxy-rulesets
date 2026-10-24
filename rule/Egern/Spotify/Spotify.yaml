@@ -1,6 +1,6 @@
 # NAME: Spotify
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:42:28.665457+00:00
+# UPDATED: 2026-10-24T20:49:59.583952+00:00
 no_resolve: true
 domain_set:
   - "audio4-ak-spotify-com.akamaized.net"
@@ -17,14 +17,14 @@ domain_suffix_set:
   - "spotify.link"
   - "byspotify.com"
   - "tospotify.com"
-  - "spotifycdn.net"
   - "spotify.design"
+  - "spotifycdn.net"
   - "spotifycdn.com"
   - "spotilocal.com"
   - "spotifyjobs.com"
   - "spotifycodes.com"
-  - "spotifycharts.com"
   - "lifeatspotify.com"
+  - "spotifycharts.com"
   - "spotifynewsroom.jp"
   - "spotifyforbrands.com"
   - "spotifyforvendors.com"

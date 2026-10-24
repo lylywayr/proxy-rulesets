@@ -1,7 +1,7 @@
 # NAME: KuKeMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:49.663415+00:00
+# UPDATED: 2026-10-24T20:46:48.188958+00:00
 payload:
-  - DOMAIN-SUFFIX,naxos.cn
   - DOMAIN-SUFFIX,kuke.com
+  - DOMAIN-SUFFIX,naxos.cn
   - DOMAIN-SUFFIX,kukey.com.cn

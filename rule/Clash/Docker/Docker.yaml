@@ -1,6 +1,6 @@
 # NAME: Docker
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:29.214786+00:00
+# UPDATED: 2026-10-24T20:46:34.063780+00:00
 payload:
   - DOMAIN,d1q6f0aelx0por.cloudfront.net
   - DOMAIN,d2wy8f7a9ursnm.cloudfront.net

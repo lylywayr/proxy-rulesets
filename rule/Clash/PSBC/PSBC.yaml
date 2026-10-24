@@ -1,6 +1,6 @@
 # NAME: PSBC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:42:22.580643+00:00
+# UPDATED: 2026-10-24T20:49:55.326804+00:00
 payload:
   - DOMAIN-SUFFIX,psbc.com
   - DOMAIN-SUFFIX,95580.net

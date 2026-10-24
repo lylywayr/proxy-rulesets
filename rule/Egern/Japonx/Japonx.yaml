@@ -1,13 +1,13 @@
 # NAME: Japonx
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:46.468717+00:00
+# UPDATED: 2026-10-24T20:46:45.943099+00:00
 no_resolve: true
 domain_suffix_set:
   - "japonx.tv"
-  - "japonx.vip"
-  - "japonx.com"
   - "japonx.net"
+  - "japonx.com"
   - "japronx.tv"
+  - "japonx.vip"
   - "japronx.vip"
   - "japronx.net"
   - "japronx.com"

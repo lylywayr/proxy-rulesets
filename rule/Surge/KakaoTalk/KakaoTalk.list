@@ -1,6 +1,6 @@
 # NAME: KakaoTalk
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:48.035050+00:00
+# UPDATED: 2026-10-24T20:46:46.973857+00:00
 # DOMAIN-SUFFIX: 9
 # IP-CIDR: 6
 # TOTAL: 15
@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,daumkakao.io
-DOMAIN-SUFFIX,kakaocdn.net
 DOMAIN-SUFFIX,potplayer.tv
+DOMAIN-SUFFIX,kakaocdn.net
 DOMAIN-SUFFIX,kakaocorp.com
 DOMAIN-SUFFIX,daumpotplayer.com
 DOMAIN-SUFFIX,kakao.co.kr

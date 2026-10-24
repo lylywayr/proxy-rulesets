@@ -1,12 +1,12 @@
 # NAME: Shopify
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:42:26.556994+00:00
+# UPDATED: 2026-10-24T20:49:58.105181+00:00
 payload:
   - DOMAIN-SUFFIX,shop.app
   - DOMAIN-SUFFIX,shopify.com
   - DOMAIN-SUFFIX,shopify.dev
   - DOMAIN-SUFFIX,myshopify.com
-  - DOMAIN-SUFFIX,shopifycdn.com
   - DOMAIN-SUFFIX,shopifysvc.com
+  - DOMAIN-SUFFIX,shopifycdn.com
   - DOMAIN-SUFFIX,shopifycloud.com
   - DOMAIN-SUFFIX,shopifystatus.com

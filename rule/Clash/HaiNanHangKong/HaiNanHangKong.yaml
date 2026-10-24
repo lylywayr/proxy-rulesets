@@ -1,6 +1,6 @@
 # NAME: HaiNanHangKong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:40.151578+00:00
+# UPDATED: 2026-10-24T20:46:41.076739+00:00
 payload:
   - DOMAIN-SUFFIX,10044.cn
   - DOMAIN-SUFFIX,hnair.net

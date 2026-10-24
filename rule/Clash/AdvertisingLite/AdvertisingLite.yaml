@@ -1,6 +1,6 @@
 # NAME: AdvertisingLite
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T19:45:40.895371+00:00
+# UPDATED: 2026-10-24T19:53:37.775611+00:00
 payload:
   - DOMAIN-KEYWORD,112wan
   - DOMAIN-KEYWORD,789htbet

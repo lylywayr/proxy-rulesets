@@ -1,13 +1,13 @@
 # NAME: HashiCorp
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:40.506505+00:00
+# UPDATED: 2026-10-24T20:46:41.393287+00:00
 no_resolve: true
 domain_suffix_set:
   - "consul.io"
   - "packer.io"
   - "terraform.io"
-  - "hashicorp.com"
   - "vagrantup.com"
+  - "hashicorp.com"
   - "nomadproject.io"
   - "vaultproject.io"
   - "vagrantcloud.com"

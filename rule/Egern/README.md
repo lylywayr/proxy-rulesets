@@ -47,7 +47,7 @@
 | 爱发电 | 生活与工具 | `2` | [规则](./Afdian/Afdian.yaml) | [说明](./Afdian/README.md) |
 | 法新社 | 生活与工具 | `2` | [规则](./AFP/AFP.yaml) | [说明](./AFP/README.md) |
 | 声网 | 生活与工具 | `3` | [规则](./Agora/Agora.yaml) | [说明](./Agora/README.md) |
-| AI | AI 服务 | `236` | [规则](./AI/AI.yaml) | [说明](./AI/README.md) |
+| AI | AI 服务 | `247` | [规则](./AI/AI.yaml) | [说明](./AI/README.md) |
 | 爱企查 | AI 服务 | `1` | [规则](./AiQiCha/AiQiCha.yaml) | [说明](./AiQiCha/README.md) |
 | 中国国航 | AI 服务 | `2` | [规则](./AirChina/AirChina.yaml) | [说明](./AirChina/README.md) |
 | AirWick | AI 服务 | `40` | [规则](./AirWick/AirWick.yaml) | [说明](./AirWick/README.md) |
@@ -72,7 +72,7 @@
 | Anime | 生活与工具 | `13` | [规则](./Anime/Anime.yaml) | [说明](./Anime/README.md) |
 | 安居客 | 生活与工具 | `7` | [规则](./Anjuke/Anjuke.yaml) | [说明](./Anjuke/README.md) |
 | Anonv | 生活与工具 | `2` | [规则](./Anonv/Anonv.yaml) | [说明](./Anonv/README.md) |
-| Anthropic | AI 服务 | `9` | [规则](./Anthropic/Anthropic.yaml) | [说明](./Anthropic/README.md) |
+| Anthropic | AI 服务 | `19` | [规则](./Anthropic/Anthropic.yaml) | [说明](./Anthropic/README.md) |
 | 安天科技 | 生活与工具 | `11` | [规则](./AnTianKeJi/AnTianKeJi.yaml) | [说明](./AnTianKeJi/README.md) |
 | 安兔兔 | 生活与工具 | `1` | [规则](./Antutu/Antutu.yaml) | [说明](./Antutu/README.md) |
 | AOL | 生活与工具 | `4` | [规则](./AOL/AOL.yaml) | [说明](./AOL/README.md) |
@@ -144,10 +144,10 @@
 | 中国教育电视台 | 流媒体与内容 | `3` | [规则](./CETV/CETV.yaml) | [说明](./CETV/README.md) |
 | 广发银行 | 金融电商 | `4` | [规则](./CGB/CGB.yaml) | [说明](./CGB/README.md) |
 | 城通网盘 | 生活与工具 | `4` | [规则](./ChengTongWangPan/ChengTongWangPan.yaml) | [说明](./ChengTongWangPan/README.md) |
-| 中国大陆 | 中国大陆服务 | `120850` | [规则](./China/China.yaml) | [说明](./China/README.md) |
+| 中国大陆 | 中国大陆服务 | `120576` | [规则](./China/China.yaml) | [说明](./China/README.md) |
 | 中国 ASN | 中国大陆服务 | `1009` | [规则](./ChinaASN/ChinaASN.yaml) | [说明](./ChinaASN/README.md) |
-| 中国 DNS | 云与网络 | `109776` | [规则](./ChinaDNS/ChinaDNS.yaml) | [说明](./ChinaDNS/README.md) |
-| 中国 IP | AI 服务 | `11770` | [规则](./ChinaIPs/ChinaIPs.yaml) | [说明](./ChinaIPs/README.md) |
+| 中国 DNS | 云与网络 | `109494` | [规则](./ChinaDNS/ChinaDNS.yaml) | [说明](./ChinaDNS/README.md) |
+| 中国 IP | AI 服务 | `11775` | [规则](./ChinaIPs/ChinaIPs.yaml) | [说明](./ChinaIPs/README.md) |
 | 中国 IP BGP | AI 服务 | `3916` | [规则](./ChinaIPsBGP/ChinaIPsBGP.yaml) | [说明](./ChinaIPsBGP/README.md) |
 | 中国大陆全量 | 中国大陆服务 | `12687` | [规则](./ChinaMax/ChinaMax.yaml) | [说明](./ChinaMax/README.md) |
 | 中国大陆全量无 IP | 中国大陆服务 | `125` | [规则](./ChinaMaxNoIP/ChinaMaxNoIP.yaml) | [说明](./ChinaMaxNoIP/README.md) |
@@ -168,7 +168,7 @@
 | Civitai | AI 服务 | `1` | [规则](./Civitai/Civitai.yaml) | [说明](./Civitai/README.md) |
 | CKJR | 生活与工具 | `13` | [规则](./CKJR/CKJR.yaml) | [说明](./CKJR/README.md) |
 | Classic | 生活与工具 | `4` | [规则](./Classic/Classic.yaml) | [说明](./Classic/README.md) |
-| Claude | AI 服务 | `10` | [规则](./Claude/Claude.yaml) | [说明](./Claude/README.md) |
+| Claude | AI 服务 | `20` | [规则](./Claude/Claude.yaml) | [说明](./Claude/README.md) |
 | Cloudflare | 云与网络 | `98` | [规则](./Cloudflare/Cloudflare.yaml) | [说明](./Cloudflare/README.md) |
 | Cloudflare 中国 | 云与网络 | `14` | [规则](./Cloudflarecn/Cloudflarecn.yaml) | [说明](./Cloudflarecn/README.md) |
 | Clubhouse | 社交通信 | `5` | [规则](./Clubhouse/Clubhouse.yaml) | [说明](./Clubhouse/README.md) |
@@ -208,7 +208,7 @@
 | 帝联网络 | 生活与工具 | `14` | [规则](./DiLianWangLuo/DiLianWangLuo.yaml) | [说明](./DiLianWangLuo/README.md) |
 | 钉钉 | 生活与工具 | `11` | [规则](./DingTalk/DingTalk.yaml) | [说明](./DingTalk/README.md) |
 | 丁香园 | 生活与工具 | `16` | [规则](./DingXiangYuan/DingXiangYuan.yaml) | [说明](./DingXiangYuan/README.md) |
-| 直连 | 隐私与基础分流 | `111063` | [规则](./Direct/Direct.yaml) | [说明](./Direct/README.md) |
+| 直连 | 隐私与基础分流 | `110787` | [规则](./Direct/Direct.yaml) | [说明](./Direct/README.md) |
 | Discord | 社交通信 | `29` | [规则](./Discord/Discord.yaml) | [说明](./Discord/README.md) |
 | DiscoveryPlus | 生活与工具 | `17` | [规则](./DiscoveryPlus/DiscoveryPlus.yaml) | [说明](./DiscoveryPlus/README.md) |
 | DiSiFanShi | 生活与工具 | `4` | [规则](./DiSiFanShi/DiSiFanShi.yaml) | [说明](./DiSiFanShi/README.md) |
@@ -264,8 +264,8 @@
 | friDay | 生活与工具 | `2` | [规则](./friDay/friDay.yaml) | [说明](./friDay/README.md) |
 | FuboTV | 流媒体与内容 | `2` | [规则](./FuboTV/FuboTV.yaml) | [说明](./FuboTV/README.md) |
 | Funshion | 生活与工具 | `10` | [规则](./Funshion/Funshion.yaml) | [说明](./Funshion/README.md) |
-| 游戏平台 | 游戏平台 | `597` | [规则](./Game/Game.yaml) | [说明](./Game/README.md) |
-| 游戏平台 | 游戏平台 | `597` | [规则](./GamePlatforms/GamePlatforms.yaml) | [说明](./GamePlatforms/README.md) |
+| 游戏平台 | 游戏平台 | `612` | [规则](./Game/Game.yaml) | [说明](./Game/README.md) |
+| 游戏平台 | 游戏平台 | `612` | [规则](./GamePlatforms/GamePlatforms.yaml) | [说明](./GamePlatforms/README.md) |
 | 高德地图 | 生活与工具 | `9` | [规则](./GaoDe/GaoDe.yaml) | [说明](./GaoDe/README.md) |
 | Garena | 生活与工具 | `15` | [规则](./Garena/Garena.yaml) | [说明](./Garena/README.md) |
 | 吉利 | 生活与工具 | `50` | [规则](./Geely/Geely.yaml) | [说明](./Geely/README.md) |
@@ -370,7 +370,7 @@
 | 旷视 | 生活与工具 | `25` | [规则](./KuangShi/KuangShi.yaml) | [说明](./KuangShi/README.md) |
 | 酷狗酷我 | 生活与工具 | `109` | [规则](./KugouKuwo/KugouKuwo.yaml) | [说明](./KugouKuwo/README.md) |
 | 库客音乐 | 流媒体与内容 | `3` | [规则](./KuKeMusic/KuKeMusic.yaml) | [说明](./KuKeMusic/README.md) |
-| Lan | 生活与工具 | `140` | [规则](./Lan/Lan.yaml) | [说明](./Lan/README.md) |
+| Lan | 生活与工具 | `142` | [规则](./Lan/Lan.yaml) | [说明](./Lan/README.md) |
 | 蓝奏云 | 生活与工具 | `36` | [规则](./LanZouYun/LanZouYun.yaml) | [说明](./LanZouYun/README.md) |
 | LastFM | 生活与工具 | `31` | [规则](./LastFM/LastFM.yaml) | [说明](./LastFM/README.md) |
 | LastPass | 生活与工具 | `2` | [规则](./LastPass/LastPass.yaml) | [说明](./LastPass/README.md) |
@@ -403,7 +403,7 @@
 | 美团 | 生活与工具 | `7` | [规则](./MeiTuan/MeiTuan.yaml) | [说明](./MeiTuan/README.md) |
 | 魅族 | 生活与工具 | `15` | [规则](./MeiZu/MeiZu.yaml) | [说明](./MeiZu/README.md) |
 | MeWatch | 生活与工具 | `1` | [规则](./MeWatch/MeWatch.yaml) | [说明](./MeWatch/README.md) |
-| 微软 | 办公协作 | `767` | [规则](./Microsoft/Microsoft.yaml) | [说明](./Microsoft/README.md) |
+| 微软 | 办公协作 | `765` | [规则](./Microsoft/Microsoft.yaml) | [说明](./Microsoft/README.md) |
 | 微软 Edge | 办公协作 | `4` | [规则](./MicrosoftEdge/MicrosoftEdge.yaml) | [说明](./MicrosoftEdge/README.md) |
 | 咪咕 | 生活与工具 | `5` | [规则](./Migu/Migu.yaml) | [说明](./Migu/README.md) |
 | 明略昭辉 | 生活与工具 | `18` | [规则](./MingLueZhaoHui/MingLueZhaoHui.yaml) | [说明](./MingLueZhaoHui/README.md) |
@@ -478,7 +478,7 @@
 | Privacy | 隐私与基础分流 | `20` | [规则](./Privacy/Privacy.yaml) | [说明](./Privacy/README.md) |
 | PrivateTracker | 生活与工具 | `248` | [规则](./PrivateTracker/PrivateTracker.yaml) | [说明](./PrivateTracker/README.md) |
 | Protonmail | AI 服务 | `5` | [规则](./Protonmail/Protonmail.yaml) | [说明](./Protonmail/README.md) |
-| 代理 | 隐私与基础分流 | `27515` | [规则](./Proxy/Proxy.yaml) | [说明](./Proxy/README.md) |
+| 代理 | 隐私与基础分流 | `27592` | [规则](./Proxy/Proxy.yaml) | [说明](./Proxy/README.md) |
 | ProxyLite | 隐私与基础分流 | `993` | [规则](./ProxyLite/ProxyLite.yaml) | [说明](./ProxyLite/README.md) |
 | 邮储银行 | 金融电商 | `3` | [规则](./PSBC/PSBC.yaml) | [说明](./PSBC/README.md) |
 | Pubmatic | 生活与工具 | `1` | [规则](./Pubmatic/Pubmatic.yaml) | [说明](./Pubmatic/README.md) |
@@ -534,7 +534,7 @@
 | Stackexchange | 生活与工具 | `20` | [规则](./Stackexchange/Stackexchange.yaml) | [说明](./Stackexchange/README.md) |
 | Starbucks | 生活与工具 | `32` | [规则](./Starbucks/Starbucks.yaml) | [说明](./Starbucks/README.md) |
 | StarCraftII | 生活与工具 | `8` | [规则](./StarCraftII/StarCraftII.yaml) | [说明](./StarCraftII/README.md) |
-| Steam | 游戏平台 | `68` | [规则](./Steam/Steam.yaml) | [说明](./Steam/README.md) |
+| Steam | 游戏平台 | `81` | [规则](./Steam/Steam.yaml) | [说明](./Steam/README.md) |
 | 蒸汽平台 | 游戏平台 | `17` | [规则](./SteamCN/SteamCN.yaml) | [说明](./SteamCN/README.md) |
 | Stripe | 生活与工具 | `1` | [规则](./Stripe/Stripe.yaml) | [说明](./Stripe/README.md) |
 | STUN | 隐私与基础分流 | `366` | [规则](./STUN/STUN.yaml) | [说明](./STUN/README.md) |
@@ -628,7 +628,7 @@
 | WordPress | 生活与工具 | `8` | [规则](./Wordpress/Wordpress.yaml) | [说明](./Wordpress/README.md) |
 | WorldofWarcraft | 生活与工具 | `8` | [规则](./WorldofWarcraft/WorldofWarcraft.yaml) | [说明](./WorldofWarcraft/README.md) |
 | Wteam | 游戏平台 | `1` | [规则](./Wteam/Wteam.yaml) | [说明](./Wteam/README.md) |
-| Xbox | 游戏平台 | `52` | [规则](./Xbox/Xbox.yaml) | [说明](./Xbox/README.md) |
+| Xbox | 游戏平台 | `49` | [规则](./Xbox/Xbox.yaml) | [说明](./Xbox/README.md) |
 | 虾米音乐 | 流媒体与内容 | `5` | [规则](./XiamiMusic/XiamiMusic.yaml) | [说明](./XiamiMusic/README.md) |
 | 闲鱼 | 生活与工具 | `16` | [规则](./XianYu/XianYu.yaml) | [说明](./XianYu/README.md) |
 | 小狗科技 | 生活与工具 | `17` | [规则](./XiaoGouKeJi/XiaoGouKeJi.yaml) | [说明](./XiaoGouKeJi/README.md) |

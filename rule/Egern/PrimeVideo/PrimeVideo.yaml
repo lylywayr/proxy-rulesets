@@ -1,6 +1,6 @@
 # NAME: PrimeVideo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:39:04.477289+00:00
+# UPDATED: 2026-10-24T20:46:57.787175+00:00
 no_resolve: true
 domain_set:
   - "atv-ps.amazon.com"

@@ -1,6 +1,6 @@
 # NAME: DiscoveryPlus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:28.467034+00:00
+# UPDATED: 2026-10-24T20:46:33.588711+00:00
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 11
 # DOMAIN-KEYWORD: 1
@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,fwmrm.net
 DOMAIN-SUFFIX,dnitv.com
 DOMAIN-SUFFIX,uplynk.com
-DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discovery.com
+DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discoveryplus.in
 DOMAIN-SUFFIX,getblueshift.com
 DOMAIN-SUFFIX,discoveryplus.com

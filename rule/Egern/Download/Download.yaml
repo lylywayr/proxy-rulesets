@@ -1,6 +1,6 @@
 # NAME: Download
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:29.872443+00:00
+# UPDATED: 2026-10-24T20:46:34.503657+00:00
 no_resolve: true
 domain_suffix_set:
   - "qbittorrent.org"

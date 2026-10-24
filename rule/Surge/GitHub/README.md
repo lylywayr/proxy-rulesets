@@ -9,7 +9,7 @@ GitHub 网站、API 与静态资源。
 - 分类标识：`GitHub`
 - 当前客户端：`Surge`
 - 所属分组：[开发者平台](../../../guide/groups/developer.md)
-- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - 专题入口：
 - [开发者栈专题](../../../guide/topics/developer-stack.md)
 - [云网络专题](../../../guide/topics/cloud-network.md)
@@ -53,7 +53,7 @@ GitHub web, API, and static assets.
 - Category ID: `GitHub`
 - Client: `Surge`
 - Group: `Developer`
-- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - Format: `Plain external RULE-SET list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Surge/GitHub/GitHub.list>
 

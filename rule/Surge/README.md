@@ -47,7 +47,7 @@
 | 爱发电 | 生活与工具 | `2` | [规则](./Afdian/Afdian.list) | [说明](./Afdian/README.md) |
 | 法新社 | 生活与工具 | `2` | [规则](./AFP/AFP.list) | [说明](./AFP/README.md) |
 | 声网 | 生活与工具 | `3` | [规则](./Agora/Agora.list) | [说明](./Agora/README.md) |
-| AI | AI 服务 | `235` | [规则](./AI/AI.list) | [说明](./AI/README.md) |
+| AI | AI 服务 | `246` | [规则](./AI/AI.list) | [说明](./AI/README.md) |
 | 爱企查 | AI 服务 | `1` | [规则](./AiQiCha/AiQiCha.list) | [说明](./AiQiCha/README.md) |
 | 中国国航 | AI 服务 | `2` | [规则](./AirChina/AirChina.list) | [说明](./AirChina/README.md) |
 | AirWick | AI 服务 | `40` | [规则](./AirWick/AirWick.list) | [说明](./AirWick/README.md) |
@@ -72,7 +72,7 @@
 | Anime | 生活与工具 | `13` | [规则](./Anime/Anime.list) | [说明](./Anime/README.md) |
 | 安居客 | 生活与工具 | `7` | [规则](./Anjuke/Anjuke.list) | [说明](./Anjuke/README.md) |
 | Anonv | 生活与工具 | `2` | [规则](./Anonv/Anonv.list) | [说明](./Anonv/README.md) |
-| Anthropic | AI 服务 | `9` | [规则](./Anthropic/Anthropic.list) | [说明](./Anthropic/README.md) |
+| Anthropic | AI 服务 | `19` | [规则](./Anthropic/Anthropic.list) | [说明](./Anthropic/README.md) |
 | 安天科技 | 生活与工具 | `11` | [规则](./AnTianKeJi/AnTianKeJi.list) | [说明](./AnTianKeJi/README.md) |
 | 安兔兔 | 生活与工具 | `1` | [规则](./Antutu/Antutu.list) | [说明](./Antutu/README.md) |
 | AOL | 生活与工具 | `4` | [规则](./AOL/AOL.list) | [说明](./AOL/README.md) |
@@ -144,10 +144,10 @@
 | 中国教育电视台 | 流媒体与内容 | `3` | [规则](./CETV/CETV.list) | [说明](./CETV/README.md) |
 | 广发银行 | 金融电商 | `4` | [规则](./CGB/CGB.list) | [说明](./CGB/README.md) |
 | 城通网盘 | 生活与工具 | `4` | [规则](./ChengTongWangPan/ChengTongWangPan.list) | [说明](./ChengTongWangPan/README.md) |
-| 中国大陆 | 中国大陆服务 | `120847` | [规则](./China/China.list) | [说明](./China/README.md) |
+| 中国大陆 | 中国大陆服务 | `120573` | [规则](./China/China.list) | [说明](./China/README.md) |
 | 中国 ASN | 中国大陆服务 | `1009` | [规则](./ChinaASN/ChinaASN.list) | [说明](./ChinaASN/README.md) |
-| 中国 DNS | 云与网络 | `109776` | [规则](./ChinaDNS/ChinaDNS.list) | [说明](./ChinaDNS/README.md) |
-| 中国 IP | AI 服务 | `11770` | [规则](./ChinaIPs/ChinaIPs.list) | [说明](./ChinaIPs/README.md) |
+| 中国 DNS | 云与网络 | `109494` | [规则](./ChinaDNS/ChinaDNS.list) | [说明](./ChinaDNS/README.md) |
+| 中国 IP | AI 服务 | `11775` | [规则](./ChinaIPs/ChinaIPs.list) | [说明](./ChinaIPs/README.md) |
 | 中国 IP BGP | AI 服务 | `3916` | [规则](./ChinaIPsBGP/ChinaIPsBGP.list) | [说明](./ChinaIPsBGP/README.md) |
 | 中国大陆全量 | 中国大陆服务 | `12687` | [规则](./ChinaMax/ChinaMax.list) | [说明](./ChinaMax/README.md) |
 | 中国大陆全量无 IP | 中国大陆服务 | `125` | [规则](./ChinaMaxNoIP/ChinaMaxNoIP.list) | [说明](./ChinaMaxNoIP/README.md) |
@@ -168,7 +168,7 @@
 | Civitai | AI 服务 | `1` | [规则](./Civitai/Civitai.list) | [说明](./Civitai/README.md) |
 | CKJR | 生活与工具 | `13` | [规则](./CKJR/CKJR.list) | [说明](./CKJR/README.md) |
 | Classic | 生活与工具 | `4` | [规则](./Classic/Classic.list) | [说明](./Classic/README.md) |
-| Claude | AI 服务 | `10` | [规则](./Claude/Claude.list) | [说明](./Claude/README.md) |
+| Claude | AI 服务 | `20` | [规则](./Claude/Claude.list) | [说明](./Claude/README.md) |
 | Cloudflare | 云与网络 | `98` | [规则](./Cloudflare/Cloudflare.list) | [说明](./Cloudflare/README.md) |
 | Cloudflare 中国 | 云与网络 | `14` | [规则](./Cloudflarecn/Cloudflarecn.list) | [说明](./Cloudflarecn/README.md) |
 | Clubhouse | 社交通信 | `5` | [规则](./Clubhouse/Clubhouse.list) | [说明](./Clubhouse/README.md) |
@@ -208,7 +208,7 @@
 | 帝联网络 | 生活与工具 | `14` | [规则](./DiLianWangLuo/DiLianWangLuo.list) | [说明](./DiLianWangLuo/README.md) |
 | 钉钉 | 生活与工具 | `11` | [规则](./DingTalk/DingTalk.list) | [说明](./DingTalk/README.md) |
 | 丁香园 | 生活与工具 | `16` | [规则](./DingXiangYuan/DingXiangYuan.list) | [说明](./DingXiangYuan/README.md) |
-| 直连 | 隐私与基础分流 | `111060` | [规则](./Direct/Direct.list) | [说明](./Direct/README.md) |
+| 直连 | 隐私与基础分流 | `110784` | [规则](./Direct/Direct.list) | [说明](./Direct/README.md) |
 | Discord | 社交通信 | `29` | [规则](./Discord/Discord.list) | [说明](./Discord/README.md) |
 | DiscoveryPlus | 生活与工具 | `17` | [规则](./DiscoveryPlus/DiscoveryPlus.list) | [说明](./DiscoveryPlus/README.md) |
 | DiSiFanShi | 生活与工具 | `4` | [规则](./DiSiFanShi/DiSiFanShi.list) | [说明](./DiSiFanShi/README.md) |
@@ -264,8 +264,8 @@
 | friDay | 生活与工具 | `2` | [规则](./friDay/friDay.list) | [说明](./friDay/README.md) |
 | FuboTV | 流媒体与内容 | `2` | [规则](./FuboTV/FuboTV.list) | [说明](./FuboTV/README.md) |
 | Funshion | 生活与工具 | `10` | [规则](./Funshion/Funshion.list) | [说明](./Funshion/README.md) |
-| 游戏平台 | 游戏平台 | `597` | [规则](./Game/Game.list) | [说明](./Game/README.md) |
-| 游戏平台 | 游戏平台 | `597` | [规则](./GamePlatforms/GamePlatforms.list) | [说明](./GamePlatforms/README.md) |
+| 游戏平台 | 游戏平台 | `612` | [规则](./Game/Game.list) | [说明](./Game/README.md) |
+| 游戏平台 | 游戏平台 | `612` | [规则](./GamePlatforms/GamePlatforms.list) | [说明](./GamePlatforms/README.md) |
 | 高德地图 | 生活与工具 | `9` | [规则](./GaoDe/GaoDe.list) | [说明](./GaoDe/README.md) |
 | Garena | 生活与工具 | `15` | [规则](./Garena/Garena.list) | [说明](./Garena/README.md) |
 | 吉利 | 生活与工具 | `50` | [规则](./Geely/Geely.list) | [说明](./Geely/README.md) |
@@ -370,7 +370,7 @@
 | 旷视 | 生活与工具 | `25` | [规则](./KuangShi/KuangShi.list) | [说明](./KuangShi/README.md) |
 | 酷狗酷我 | 生活与工具 | `109` | [规则](./KugouKuwo/KugouKuwo.list) | [说明](./KugouKuwo/README.md) |
 | 库客音乐 | 流媒体与内容 | `3` | [规则](./KuKeMusic/KuKeMusic.list) | [说明](./KuKeMusic/README.md) |
-| Lan | 生活与工具 | `140` | [规则](./Lan/Lan.list) | [说明](./Lan/README.md) |
+| Lan | 生活与工具 | `142` | [规则](./Lan/Lan.list) | [说明](./Lan/README.md) |
 | 蓝奏云 | 生活与工具 | `36` | [规则](./LanZouYun/LanZouYun.list) | [说明](./LanZouYun/README.md) |
 | LastFM | 生活与工具 | `31` | [规则](./LastFM/LastFM.list) | [说明](./LastFM/README.md) |
 | LastPass | 生活与工具 | `2` | [规则](./LastPass/LastPass.list) | [说明](./LastPass/README.md) |
@@ -403,7 +403,7 @@
 | 美团 | 生活与工具 | `7` | [规则](./MeiTuan/MeiTuan.list) | [说明](./MeiTuan/README.md) |
 | 魅族 | 生活与工具 | `15` | [规则](./MeiZu/MeiZu.list) | [说明](./MeiZu/README.md) |
 | MeWatch | 生活与工具 | `1` | [规则](./MeWatch/MeWatch.list) | [说明](./MeWatch/README.md) |
-| 微软 | 办公协作 | `767` | [规则](./Microsoft/Microsoft.list) | [说明](./Microsoft/README.md) |
+| 微软 | 办公协作 | `765` | [规则](./Microsoft/Microsoft.list) | [说明](./Microsoft/README.md) |
 | 微软 Edge | 办公协作 | `4` | [规则](./MicrosoftEdge/MicrosoftEdge.list) | [说明](./MicrosoftEdge/README.md) |
 | 咪咕 | 生活与工具 | `5` | [规则](./Migu/Migu.list) | [说明](./Migu/README.md) |
 | 明略昭辉 | 生活与工具 | `18` | [规则](./MingLueZhaoHui/MingLueZhaoHui.list) | [说明](./MingLueZhaoHui/README.md) |
@@ -478,7 +478,7 @@
 | Privacy | 隐私与基础分流 | `20` | [规则](./Privacy/Privacy.list) | [说明](./Privacy/README.md) |
 | PrivateTracker | 生活与工具 | `248` | [规则](./PrivateTracker/PrivateTracker.list) | [说明](./PrivateTracker/README.md) |
 | Protonmail | AI 服务 | `5` | [规则](./Protonmail/Protonmail.list) | [说明](./Protonmail/README.md) |
-| 代理 | 隐私与基础分流 | `27357` | [规则](./Proxy/Proxy.list) | [说明](./Proxy/README.md) |
+| 代理 | 隐私与基础分流 | `27434` | [规则](./Proxy/Proxy.list) | [说明](./Proxy/README.md) |
 | ProxyLite | 隐私与基础分流 | `993` | [规则](./ProxyLite/ProxyLite.list) | [说明](./ProxyLite/README.md) |
 | 邮储银行 | 金融电商 | `3` | [规则](./PSBC/PSBC.list) | [说明](./PSBC/README.md) |
 | Pubmatic | 生活与工具 | `1` | [规则](./Pubmatic/Pubmatic.list) | [说明](./Pubmatic/README.md) |
@@ -534,7 +534,7 @@
 | Stackexchange | 生活与工具 | `20` | [规则](./Stackexchange/Stackexchange.list) | [说明](./Stackexchange/README.md) |
 | Starbucks | 生活与工具 | `32` | [规则](./Starbucks/Starbucks.list) | [说明](./Starbucks/README.md) |
 | StarCraftII | 生活与工具 | `8` | [规则](./StarCraftII/StarCraftII.list) | [说明](./StarCraftII/README.md) |
-| Steam | 游戏平台 | `68` | [规则](./Steam/Steam.list) | [说明](./Steam/README.md) |
+| Steam | 游戏平台 | `81` | [规则](./Steam/Steam.list) | [说明](./Steam/README.md) |
 | 蒸汽平台 | 游戏平台 | `17` | [规则](./SteamCN/SteamCN.list) | [说明](./SteamCN/README.md) |
 | Stripe | 生活与工具 | `1` | [规则](./Stripe/Stripe.list) | [说明](./Stripe/README.md) |
 | STUN | 隐私与基础分流 | `366` | [规则](./STUN/STUN.list) | [说明](./STUN/README.md) |
@@ -628,7 +628,7 @@
 | WordPress | 生活与工具 | `8` | [规则](./Wordpress/Wordpress.list) | [说明](./Wordpress/README.md) |
 | WorldofWarcraft | 生活与工具 | `8` | [规则](./WorldofWarcraft/WorldofWarcraft.list) | [说明](./WorldofWarcraft/README.md) |
 | Wteam | 游戏平台 | `1` | [规则](./Wteam/Wteam.list) | [说明](./Wteam/README.md) |
-| Xbox | 游戏平台 | `52` | [规则](./Xbox/Xbox.list) | [说明](./Xbox/README.md) |
+| Xbox | 游戏平台 | `49` | [规则](./Xbox/Xbox.list) | [说明](./Xbox/README.md) |
 | 虾米音乐 | 流媒体与内容 | `5` | [规则](./XiamiMusic/XiamiMusic.list) | [说明](./XiamiMusic/README.md) |
 | 闲鱼 | 生活与工具 | `16` | [规则](./XianYu/XianYu.list) | [说明](./XianYu/README.md) |
 | 小狗科技 | 生活与工具 | `17` | [规则](./XiaoGouKeJi/XiaoGouKeJi.list) | [说明](./XiaoGouKeJi/README.md) |

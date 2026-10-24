@@ -1,6 +1,6 @@
 # NAME: 3Type
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T19:45:37.345762+00:00
+# UPDATED: 2026-10-24T19:53:34.577734+00:00
 no_resolve: true
 domain_suffix_set:
   - "3type.cn"

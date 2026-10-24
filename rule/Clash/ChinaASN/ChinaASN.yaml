@@ -1,6 +1,6 @@
 # NAME: ChinaASN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:03:41.237886+00:00
+# UPDATED: 2026-10-24T20:11:45.590842+00:00
 payload:
   - IP-ASN,10111
   - IP-ASN,10206

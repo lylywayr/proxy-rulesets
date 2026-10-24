@@ -1,6 +1,6 @@
 # NAME: Wordpress
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:42:40.914965+00:00
+# UPDATED: 2026-10-24T20:50:07.801890+00:00
 payload:
   - DOMAIN-SUFFIX,w.org
   - DOMAIN-SUFFIX,wp.com

@@ -1,10 +1,10 @@
 # NAME: 9to5
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T19:45:38.957627+00:00
+# UPDATED: 2026-10-24T19:53:35.984405+00:00
 payload:
-  - DOMAIN-SUFFIX,9to5mac.com
   - DOMAIN-SUFFIX,dronedj.com
   - DOMAIN-SUFFIX,electrek.co
+  - DOMAIN-SUFFIX,9to5mac.com
   - DOMAIN-SUFFIX,9to5toys.com
   - DOMAIN-SUFFIX,9to5google.com
   - DOMAIN-SUFFIX,9to5terminal.com

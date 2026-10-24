@@ -9,7 +9,7 @@
 - 分类标识：`Instagram`
 - 当前客户端：`Clash`
 - 所属分组：[社交通信](../../../guide/groups/social.md)
-- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - 专题入口：
 - [社交通信专题](../../../guide/topics/social-communication.md)
 
@@ -49,7 +49,7 @@ Aggregated rules for Instagram, covering related domains, keywords, and network 
 - Category ID: `Instagram`
 - Client: `Clash`
 - Group: `Social`
-- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Instagram/Instagram.yaml>
 

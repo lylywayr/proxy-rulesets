@@ -9,17 +9,17 @@
 - 分类标识：`GamePlatforms`
 - 当前客户端：`Loon`
 - 所属分组：[游戏平台](../../../guide/groups/gaming.md)
-- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - 专题入口：
 - [游戏平台专题](../../../guide/topics/gaming-platforms.md)
 
 ### 规则统计
 
-- 总数：`597`
+- 总数：`612`
 - `DOMAIN`: 8
-- `DOMAIN-SUFFIX`: 539
+- `DOMAIN-SUFFIX`: 542
 - `DOMAIN-KEYWORD`: 4
-- `IP-CIDR`: 46
+- `IP-CIDR`: 58
 
 ### 使用说明
 
@@ -51,7 +51,7 @@ Game platforms and general gaming service rules.
 - Category ID: `GamePlatforms`
 - Client: `Loon`
 - Group: `Gaming`
-- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/GamePlatforms/GamePlatforms.list>
 

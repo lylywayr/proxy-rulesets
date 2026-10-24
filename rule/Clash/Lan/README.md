@@ -9,14 +9,14 @@
 - 分类标识：`Lan`
 - 当前客户端：`Clash`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`140`
-- `DOMAIN`: 7
+- 总数：`142`
+- `DOMAIN`: 9
 - `DOMAIN-SUFFIX`: 115
 - `IP-CIDR`: 14
 - `IP-CIDR6`: 4
@@ -51,7 +51,7 @@ Aggregated rules for Lan, covering related domains, keywords, and network target
 - Category ID: `Lan`
 - Client: `Clash`
 - Group: `Lifestyle`
-- Last updated: `2026-10-18 03:45:35 CST (UTC+8) / 2026-10-17 19:45:35 UTC`
+- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Lan/Lan.yaml>
 

@@ -1,9 +1,9 @@
 # NAME: ChinaIPs
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:20:33.192015+00:00
-# IP-CIDR: 7510
-# IP-CIDR6: 4260
-# TOTAL: 11770
+# UPDATED: 2026-10-24T20:28:47.340804+00:00
+# IP-CIDR: 7514
+# IP-CIDR6: 4261
+# TOTAL: 11775
 
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -1028,6 +1028,7 @@ IP-CIDR,45.117.20.0/22,no-resolve
 IP-CIDR,45.117.68.0/22,no-resolve
 IP-CIDR,45.117.124.0/22,no-resolve
 IP-CIDR,45.117.252.0/22,no-resolve
+IP-CIDR,45.119.42.0/23,no-resolve
 IP-CIDR,45.119.52.0/22,no-resolve
 IP-CIDR,45.119.60.0/22,no-resolve
 IP-CIDR,45.119.64.0/21,no-resolve
@@ -1363,6 +1364,7 @@ IP-CIDR,47.246.176.0/20,no-resolve
 IP-CIDR,47.246.192.0/20,no-resolve
 IP-CIDR,47.246.208.0/23,no-resolve
 IP-CIDR,47.246.212.0/22,no-resolve
+IP-CIDR,47.246.216.0/22,no-resolve
 IP-CIDR,47.250.0.0/18,no-resolve
 IP-CIDR,47.250.68.0/22,no-resolve
 IP-CIDR,47.250.72.0/21,no-resolve
@@ -3282,6 +3284,7 @@ IP-CIDR,103.186.228.0/23,no-resolve
 IP-CIDR,103.189.92.0/23,no-resolve
 IP-CIDR,103.189.140.0/23,no-resolve
 IP-CIDR,103.189.152.0/22,no-resolve
+IP-CIDR,103.189.197.0/24,no-resolve
 IP-CIDR,103.190.20.0/23,no-resolve
 IP-CIDR,103.190.71.0/24,no-resolve
 IP-CIDR,103.190.104.0/23,no-resolve
@@ -5393,6 +5396,7 @@ IP-CIDR,160.202.60.0/22,no-resolve
 IP-CIDR,160.202.148.0/22,no-resolve
 IP-CIDR,160.202.152.0/22,no-resolve
 IP-CIDR,160.202.168.0/22,no-resolve
+IP-CIDR,160.202.210.0/23,no-resolve
 IP-CIDR,160.202.212.0/22,no-resolve
 IP-CIDR,160.202.216.0/21,no-resolve
 IP-CIDR,160.202.224.0/19,no-resolve
@@ -5780,6 +5784,7 @@ IP-CIDR,192.140.156.0/22,no-resolve
 IP-CIDR,192.140.160.0/19,no-resolve
 IP-CIDR,192.140.192.0/20,no-resolve
 IP-CIDR,192.140.208.0/21,no-resolve
+IP-CIDR,192.140.244.0/23,no-resolve
 IP-CIDR,192.144.128.0/17,no-resolve
 IP-CIDR,192.163.11.0/24,no-resolve
 IP-CIDR,192.171.224.0/21,no-resolve
@@ -6153,8 +6158,7 @@ IP-CIDR,202.91.96.0/20,no-resolve
 IP-CIDR,202.91.128.0/22,no-resolve
 IP-CIDR,202.91.176.0/20,no-resolve
 IP-CIDR,202.91.224.0/19,no-resolve
-IP-CIDR,202.92.0.0/22,no-resolve
-IP-CIDR,202.92.8.0/21,no-resolve
+IP-CIDR,202.92.0.0/20,no-resolve
 IP-CIDR,202.92.48.0/20,no-resolve
 IP-CIDR,202.92.252.0/22,no-resolve
 IP-CIDR,202.93.0.0/22,no-resolve
@@ -8476,6 +8480,7 @@ IP-CIDR6,2402:7d00::/32,no-resolve
 IP-CIDR6,2402:7d80::/32,no-resolve
 IP-CIDR6,2402:7da0::/32,no-resolve
 IP-CIDR6,2402:7e20::/32,no-resolve
+IP-CIDR6,2402:7ee0::/32,no-resolve
 IP-CIDR6,2402:8180::/32,no-resolve
 IP-CIDR6,2402:8300::/32,no-resolve
 IP-CIDR6,2402:8380::/32,no-resolve
@@ -9509,7 +9514,10 @@ IP-CIDR6,2406:840:890::/44,no-resolve
 IP-CIDR6,2406:840:8a0::/43,no-resolve
 IP-CIDR6,2406:840:8c0::/42,no-resolve
 IP-CIDR6,2406:840:900::/40,no-resolve
-IP-CIDR6,2406:840:a00::/44,no-resolve
+IP-CIDR6,2406:840:a01::/48,no-resolve
+IP-CIDR6,2406:840:a02::/47,no-resolve
+IP-CIDR6,2406:840:a04::/46,no-resolve
+IP-CIDR6,2406:840:a08::/45,no-resolve
 IP-CIDR6,2406:840:a12::/47,no-resolve
 IP-CIDR6,2406:840:a14::/46,no-resolve
 IP-CIDR6,2406:840:a18::/45,no-resolve
@@ -10210,8 +10218,7 @@ IP-CIDR6,240b:4004::/31,no-resolve
 IP-CIDR6,240b:4006::/48,no-resolve
 IP-CIDR6,240b:4006:1000::/43,no-resolve
 IP-CIDR6,240b:4006:1020::/44,no-resolve
-IP-CIDR6,240b:4006:1100::/45,no-resolve
-IP-CIDR6,240b:4006:110c::/46,no-resolve
+IP-CIDR6,240b:4006:1100::/44,no-resolve
 IP-CIDR6,240b:4006:1110::/45,no-resolve
 IP-CIDR6,240b:4006:1118::/46,no-resolve
 IP-CIDR6,240b:4007::/32,no-resolve
@@ -10277,11 +10284,9 @@ IP-CIDR6,2607:740:18::/48,no-resolve
 IP-CIDR6,2607:6b80:69::/48,no-resolve
 IP-CIDR6,2610:a1:3074::/46,no-resolve
 IP-CIDR6,2610:a1:3078::/46,no-resolve
-IP-CIDR6,2620:57:4004::/47,no-resolve
 IP-CIDR6,2620:171:32::/48,no-resolve
 IP-CIDR6,2620:171:5a:f0::/64,no-resolve
 IP-CIDR6,2620:171:fb::/48,no-resolve
-IP-CIDR6,2804:1e48:9002::/48,no-resolve
 IP-CIDR6,2a00:79e0:200:500::/56,no-resolve
 IP-CIDR6,2a00:79e0:ffe5:3a00::/56,no-resolve
 IP-CIDR6,2a00:79e1:abc:ab00::/56,no-resolve

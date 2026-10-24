@@ -1,17 +1,17 @@
 # NAME: Douyu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:29.751820+00:00
+# UPDATED: 2026-10-24T20:46:34.423356+00:00
 payload:
   - DOMAIN-SUFFIX,douyu.tv
-  - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,oywtv.com
+  - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,douyuba.cn
   - DOMAIN-SUFFIX,edgesrv.com
-  - DOMAIN-SUFFIX,douyucdn.cn
   - DOMAIN-SUFFIX,douyutv.com
   - DOMAIN-SUFFIX,doyonoc.com
+  - DOMAIN-SUFFIX,douyucdn.cn
   - DOMAIN-SUFFIX,douyucdn2.cn
   - DOMAIN-SUFFIX,douyupcdn.cn
-  - DOMAIN-SUFFIX,guguyuyin.com
   - DOMAIN-SUFFIX,douyuscdn.com
+  - DOMAIN-SUFFIX,guguyuyin.com
   - DOMAIN-SUFFIX,bytefcdnrd.com

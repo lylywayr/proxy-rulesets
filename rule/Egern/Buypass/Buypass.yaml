@@ -1,10 +1,10 @@
 # NAME: Buypass
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T19:45:54.903403+00:00
+# UPDATED: 2026-10-24T19:53:49.527046+00:00
 no_resolve: true
 domain_suffix_set:
   - "minid.no"
-  - "buypass.no"
   - "buypass.se"
+  - "buypass.no"
   - "buypass.com"
   - "buypass-ssl.com"

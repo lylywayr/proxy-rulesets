@@ -1,8 +1,8 @@
 # NAME: Aerogard
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T19:45:41.240698+00:00
+# UPDATED: 2026-10-24T19:53:38.035823+00:00
 no_resolve: true
 domain_suffix_set:
   - "aerogardcn.com"
-  - "aerogard.com.au"
   - "aerogard.com.cn"
+  - "aerogard.com.au"

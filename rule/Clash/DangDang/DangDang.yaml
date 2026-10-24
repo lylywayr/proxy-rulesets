@@ -1,6 +1,6 @@
 # NAME: DangDang
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:20:39.826366+00:00
+# UPDATED: 2026-10-24T20:28:51.987653+00:00
 payload:
   - DOMAIN-SUFFIX,ddimg.cn
   - DOMAIN-SUFFIX,dangdang.com

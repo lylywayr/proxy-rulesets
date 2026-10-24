@@ -1,6 +1,6 @@
 # NAME: LastPass
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:38:50.089695+00:00
+# UPDATED: 2026-10-24T20:46:48.534465+00:00
 no_resolve: true
 domain_suffix_set:
   - "lastpass.com"

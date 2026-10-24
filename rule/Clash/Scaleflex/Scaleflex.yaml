@@ -1,6 +1,6 @@
 # NAME: Scaleflex
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-17T20:42:25.218506+00:00
+# UPDATED: 2026-10-24T20:49:57.206422+00:00
 payload:
   - DOMAIN-SUFFIX,cloudimg.io
   - DOMAIN-SUFFIX,cloudimage.io
