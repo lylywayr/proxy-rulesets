@@ -1,36 +1,36 @@
 # NAME: YunFanJiaSu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:50:09.751731+00:00
+# UPDATED: 2026-10-31T21:29:11.136873+00:00
 payload:
-  - DOMAIN-SUFFIX,yfcdn.cn
   - DOMAIN-SUFFIX,yfdns.cn
-  - DOMAIN-SUFFIX,yfdns.net
-  - DOMAIN-SUFFIX,yflive.cn
-  - DOMAIN-SUFFIX,yfcdn.net
+  - DOMAIN-SUFFIX,yfcdn.cn
   - DOMAIN-SUFFIX,yfdts.net
+  - DOMAIN-SUFFIX,yflive.cn
   - DOMAIN-SUFFIX,yfp2p.net
+  - DOMAIN-SUFFIX,yfcdn.net
+  - DOMAIN-SUFFIX,yfdns.net
+  - DOMAIN-SUFFIX,yfcache.cn
   - DOMAIN-SUFFIX,yfscdn.com
+  - DOMAIN-SUFFIX,yflive.net
   - DOMAIN-SUFFIX,yfcalc.com
   - DOMAIN-SUFFIX,yfcloud.io
-  - DOMAIN-SUFFIX,cdndns2.cn
-  - DOMAIN-SUFFIX,yfcache.cn
-  - DOMAIN-SUFFIX,yflive.net
   - DOMAIN-SUFFIX,yfscdn.net
-  - DOMAIN-SUFFIX,cdndns2.net
+  - DOMAIN-SUFFIX,cdndns2.cn
+  - DOMAIN-SUFFIX,wertalk.com
   - DOMAIN-SUFFIX,yfcache.com
   - DOMAIN-SUFFIX,yfcloud.com
-  - DOMAIN-SUFFIX,wertalk.com
-  - DOMAIN-SUFFIX,mogecloud.cn
-  - DOMAIN-SUFFIX,yunfandns.cn
-  - DOMAIN-SUFFIX,yfcloud.work
-  - DOMAIN-SUFFIX,mogengyun.cn
+  - DOMAIN-SUFFIX,cdndns2.net
   - DOMAIN-SUFFIX,yunfancdn.cn
-  - DOMAIN-SUFFIX,mogecloud.com
-  - DOMAIN-SUFFIX,yunfancdn.com
+  - DOMAIN-SUFFIX,mogengyun.cn
+  - DOMAIN-SUFFIX,yfcloud.work
+  - DOMAIN-SUFFIX,yunfandns.cn
+  - DOMAIN-SUFFIX,mogecloud.cn
   - DOMAIN-SUFFIX,mogecloud.net
+  - DOMAIN-SUFFIX,mogecloud.com
   - DOMAIN-SUFFIX,cdnnodedns.cn
-  - DOMAIN-SUFFIX,yunfandns.com
-  - DOMAIN-SUFFIX,mogengyun.com
   - DOMAIN-SUFFIX,mogengyun.net
   - DOMAIN-SUFFIX,yunfancdn.net
+  - DOMAIN-SUFFIX,yunfandns.com
+  - DOMAIN-SUFFIX,mogengyun.com
+  - DOMAIN-SUFFIX,yunfancdn.com
   - DOMAIN-SUFFIX,yunfancdn.com.cn

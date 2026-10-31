@@ -9,7 +9,7 @@
 - 分类标识：`XueQiu`
 - 当前客户端：`Clash`
 - 所属分组：[中国大陆服务](../../../guide/groups/mainland.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - 暂无
 
@@ -48,7 +48,7 @@ Aggregated rules for XueQiu, covering related domains, keywords, and network tar
 - Category ID: `XueQiu`
 - Client: `Clash`
 - Group: `Mainland`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/XueQiu/XueQiu.yaml>
 

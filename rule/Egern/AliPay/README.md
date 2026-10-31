@@ -9,7 +9,7 @@
 - 分类标识：`AliPay`
 - 当前客户端：`Egern`
 - 所属分组：[金融电商](../../../guide/groups/finance.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - [金融电商专题](../../../guide/topics/finance-commerce.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for AliPay, covering related domains, keywords, and network tar
 - Category ID: `AliPay`
 - Client: `Egern`
 - Group: `Finance`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AliPay/AliPay.yaml>
 

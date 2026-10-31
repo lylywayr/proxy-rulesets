@@ -1,6 +1,6 @@
 # NAME: Deepin
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:28:52.224252+00:00
+# UPDATED: 2026-10-31T21:10:31.322966+00:00
 payload:
   - DOMAIN-SUFFIX,deepin.io
   - DOMAIN-SUFFIX,deepin.cn

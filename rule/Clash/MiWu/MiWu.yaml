@@ -1,7 +1,7 @@
 # NAME: MiWu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:52.304483+00:00
+# UPDATED: 2026-10-31T21:24:32.584107+00:00
 payload:
   - DOMAIN-SUFFIX,miiiw.cn
-  - DOMAIN-SUFFIX,miiiw.com
   - DOMAIN-SUFFIX,miiiw.net
+  - DOMAIN-SUFFIX,miiiw.com

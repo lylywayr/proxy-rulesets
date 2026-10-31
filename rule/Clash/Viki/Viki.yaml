@@ -1,6 +1,6 @@
 # NAME: Viki
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:50:05.298794+00:00
+# UPDATED: 2026-10-31T21:29:01.987972+00:00
 payload:
   - DOMAIN-SUFFIX,viki.io
   - DOMAIN-SUFFIX,viki.com

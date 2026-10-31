@@ -1,6 +1,6 @@
 # NAME: SoundCloud
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:49:59.295938+00:00
+# UPDATED: 2026-10-31T21:28:49.347837+00:00
 payload:
   - DOMAIN-SUFFIX,p-cdn.us
   - DOMAIN-SUFFIX,sndcdn.com

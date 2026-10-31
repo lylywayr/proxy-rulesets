@@ -1,6 +1,6 @@
 # NAME: U17
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:50:03.724173+00:00
+# UPDATED: 2026-10-31T21:28:58.561238+00:00
 no_resolve: true
 domain_suffix_set:
   - "u17.com"

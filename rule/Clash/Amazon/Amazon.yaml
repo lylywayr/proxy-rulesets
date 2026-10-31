@@ -1,160 +1,160 @@
 # NAME: Amazon
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T19:53:41.461480+00:00
+# UPDATED: 2026-10-31T20:43:59.218657+00:00
 payload:
   - DOMAIN-SUFFIX,aws
   - DOMAIN-SUFFIX,imdb
-  - DOMAIN-SUFFIX,amazon
   - DOMAIN-SUFFIX,kindle
   - DOMAIN-SUFFIX,zappos
+  - DOMAIN-SUFFIX,amazon
   - DOMAIN-SUFFIX,yamaxun
   - DOMAIN-SUFFIX,xn--cckwcxetd
   - DOMAIN-SUFFIX,xn--jlq480n2rg
   - DOMAIN-SUFFIX,z.cn
-  - DOMAIN-SUFFIX,a2z.com
-  - DOMAIN-SUFFIX,wfm.com
   - DOMAIN-SUFFIX,amzn.to
   - DOMAIN-SUFFIX,imdb.to
-  - DOMAIN-SUFFIX,amzn.com
+  - DOMAIN-SUFFIX,wfm.com
+  - DOMAIN-SUFFIX,a2z.com
   - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN-SUFFIX,amzn.com
+  - DOMAIN-SUFFIX,amazon.ae
+  - DOMAIN-SUFFIX,amazon.cn
   - DOMAIN-SUFFIX,amazon.de
   - DOMAIN-SUFFIX,amazon.it
-  - DOMAIN-SUFFIX,amazon.ae
+  - DOMAIN-SUFFIX,kindle.it
   - DOMAIN-SUFFIX,kindle.cn
   - DOMAIN-SUFFIX,amazon.in
-  - DOMAIN-SUFFIX,kindle.de
-  - DOMAIN-SUFFIX,amazon.fr
-  - DOMAIN-SUFFIX,amazon.sg
-  - DOMAIN-SUFFIX,alexa.com
-  - DOMAIN-SUFFIX,amazon.ca
-  - DOMAIN-SUFFIX,amazon.jp
-  - DOMAIN-SUFFIX,kindle.es
-  - DOMAIN-SUFFIX,amzn.asia
-  - DOMAIN-SUFFIX,kindle.in
-  - DOMAIN-SUFFIX,kindle.fr
-  - DOMAIN-SUFFIX,amznl.com
   - DOMAIN-SUFFIX,amazon.es
-  - DOMAIN-SUFFIX,kindle.it
-  - DOMAIN-SUFFIX,llnwd.net
-  - DOMAIN-SUFFIX,kindle.jp
+  - DOMAIN-SUFFIX,kindle.de
   - DOMAIN-SUFFIX,amazon.nl
-  - DOMAIN-SUFFIX,amazon.cn
-  - DOMAIN-SUFFIX,pv-cdn.net
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,amazon.sg
+  - DOMAIN-SUFFIX,amazon.jp
+  - DOMAIN-SUFFIX,alexa.com
+  - DOMAIN-SUFFIX,amzn.asia
+  - DOMAIN-SUFFIX,kindle.fr
+  - DOMAIN-SUFFIX,amazon.ca
+  - DOMAIN-SUFFIX,kindle.jp
+  - DOMAIN-SUFFIX,amznl.com
+  - DOMAIN-SUFFIX,kindle.es
+  - DOMAIN-SUFFIX,kindle.in
+  - DOMAIN-SUFFIX,amazon.fr
   - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,pv-cdn.net
   - DOMAIN-SUFFIX,amazon.red
   - DOMAIN-SUFFIX,yamaxun.cn
   - DOMAIN-SUFFIX,kindle.com
-  - DOMAIN-SUFFIX,amazon.jobs
-  - DOMAIN-SUFFIX,yamaxun.com
-  - DOMAIN-SUFFIX,aiv-cdn.net
-  - DOMAIN-SUFFIX,audible.com
-  - DOMAIN-SUFFIX,amaaozn.com
-  - DOMAIN-SUFFIX,awstrack.me
   - DOMAIN-SUFFIX,primeday.cn
+  - DOMAIN-SUFFIX,audible.com
+  - DOMAIN-SUFFIX,yamaxun.com
+  - DOMAIN-SUFFIX,amazon.jobs
+  - DOMAIN-SUFFIX,awstrack.me
+  - DOMAIN-SUFFIX,amaaozn.com
+  - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,awscloud.com
   - DOMAIN-SUFFIX,awstrust.com
   - DOMAIN-SUFFIX,amazonnow.cn
   - DOMAIN-SUFFIX,amazonaws.tv
   - DOMAIN-SUFFIX,amazonpay.in
   - DOMAIN-SUFFIX,alexafund.cn
-  - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,awsbraket.com
-  - DOMAIN-SUFFIX,amazonpay.com
   - DOMAIN-SUFFIX,primeday.info
-  - DOMAIN-SUFFIX,primevideo.tv
-  - DOMAIN-SUFFIX,awsstatic.com
+  - DOMAIN-SUFFIX,awsbraket.com
+  - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,primevideo.cc
+  - DOMAIN-SUFFIX,primevideo.tv
   - DOMAIN-SUFFIX,amazonsdi.com
-  - DOMAIN-SUFFIX,aboutamazon.eu
-  - DOMAIN-SUFFIX,aboutamazon.de
-  - DOMAIN-SUFFIX,media-imdb.com
-  - DOMAIN-SUFFIX,kindleoasis.us
-  - DOMAIN-SUFFIX,aboutamazon.jp
-  - DOMAIN-SUFFIX,awseducate.org
-  - DOMAIN-SUFFIX,kindleoasis.jp
-  - DOMAIN-SUFFIX,awseducate.com
-  - DOMAIN-SUFFIX,aboutamazon.in
-  - DOMAIN-SUFFIX,amazonvideo.cc
-  - DOMAIN-SUFFIX,awsedstart.com
-  - DOMAIN-SUFFIX,aboutamazon.es
-  - DOMAIN-SUFFIX,aboutamazon.it
-  - DOMAIN-SUFFIX,awseducate.net
-  - DOMAIN-SUFFIX,primevideo.org
-  - DOMAIN-SUFFIX,aboutamazon.pl
-  - DOMAIN-SUFFIX,kindleoasis.cn
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,amplifyapp.com
-  - DOMAIN-SUFFIX,aboutamazon.cn
-  - DOMAIN-SUFFIX,ueberamazon.de
+  - DOMAIN-SUFFIX,amazonpay.com
+  - DOMAIN-SUFFIX,awsstatic.com
   - DOMAIN-SUFFIX,primevideo.com
+  - DOMAIN-SUFFIX,primevideo.org
+  - DOMAIN-SUFFIX,aboutamazon.cn
+  - DOMAIN-SUFFIX,awsedstart.com
+  - DOMAIN-SUFFIX,aboutamazon.de
+  - DOMAIN-SUFFIX,kindleoasis.us
+  - DOMAIN-SUFFIX,aboutamazon.es
+  - DOMAIN-SUFFIX,aboutamazon.eu
+  - DOMAIN-SUFFIX,aboutamazon.it
+  - DOMAIN-SUFFIX,aboutamazon.jp
+  - DOMAIN-SUFFIX,awseducate.com
   - DOMAIN-SUFFIX,aboutamazon.fr
+  - DOMAIN-SUFFIX,aboutamazon.pl
+  - DOMAIN-SUFFIX,media-imdb.com
+  - DOMAIN-SUFFIX,amplifyapp.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,ueberamazon.de
+  - DOMAIN-SUFFIX,kindleoasis.jp
+  - DOMAIN-SUFFIX,awseducate.org
   - DOMAIN-SUFFIX,wholefoods.com
-  - DOMAIN-SUFFIX,assoc-amazon.cn
-  - DOMAIN-SUFFIX,amazontools.com
-  - DOMAIN-SUFFIX,createspace.com
-  - DOMAIN-SUFFIX,kindleoasis.com
-  - DOMAIN-SUFFIX,amazonvideo.com
-  - DOMAIN-SUFFIX,amazonchoice.cn
-  - DOMAIN-SUFFIX,primevideo.info
-  - DOMAIN-SUFFIX,aboutamazon.com
+  - DOMAIN-SUFFIX,amazonvideo.cc
+  - DOMAIN-SUFFIX,kindleoasis.cn
+  - DOMAIN-SUFFIX,awseducate.net
+  - DOMAIN-SUFFIX,aboutamazon.in
+  - DOMAIN-SUFFIX,awsthinkbox.com
   - DOMAIN-SUFFIX,prime-video.com
-  - DOMAIN-SUFFIX,kindleoasis.org
+  - DOMAIN-SUFFIX,kindleoasis.com
+  - DOMAIN-SUFFIX,aboutamazon.com
+  - DOMAIN-SUFFIX,createspace.com
+  - DOMAIN-SUFFIX,amazontours.com
   - DOMAIN-SUFFIX,cdkworkshop.com
   - DOMAIN-SUFFIX,amazontrust.com
-  - DOMAIN-SUFFIX,awsthinkbox.com
-  - DOMAIN-SUFFIX,amazontours.com
-  - DOMAIN-SUFFIX,kindleoasis.info
+  - DOMAIN-SUFFIX,amazontools.com
+  - DOMAIN-SUFFIX,primevideo.info
+  - DOMAIN-SUFFIX,assoc-amazon.cn
+  - DOMAIN-SUFFIX,amazonchoice.cn
+  - DOMAIN-SUFFIX,kindleoasis.org
+  - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonchoices.cn
-  - DOMAIN-SUFFIX,aiv-delivery.net
-  - DOMAIN-SUFFIX,aesworkshops.com
   - DOMAIN-SUFFIX,siege-amazon.com
-  - DOMAIN-SUFFIX,amazonimages.com
-  - DOMAIN-SUFFIX,media-amazon.com
-  - DOMAIN-SUFFIX,awsautopilot.com
   - DOMAIN-SUFFIX,amazoninspire.cn
-  - DOMAIN-SUFFIX,boxofficemojo.com
-  - DOMAIN-SUFFIX,amazonbusiness.cn
-  - DOMAIN-SUFFIX,kindleproject.com
-  - DOMAIN-SUFFIX,amazonfctours.com
-  - DOMAIN-SUFFIX,amazonianblog.com
-  - DOMAIN-SUFFIX,images-amazon.com
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,amazonimages.com
+  - DOMAIN-SUFFIX,kindleoasis.info
+  - DOMAIN-SUFFIX,aesworkshops.com
+  - DOMAIN-SUFFIX,awsautopilot.com
+  - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,gdansk-amazon.com
+  - DOMAIN-SUFFIX,kindleproject.com
   - DOMAIN-SUFFIX,amazonworkdocs.cn
-  - DOMAIN-SUFFIX,amazonworkdocs.com
-  - DOMAIN-SUFFIX,amazonlaunchpad.cn
-  - DOMAIN-SUFFIX,awsautoscaling.com
-  - DOMAIN-SUFFIX,gameon-masters.com
-  - DOMAIN-SUFFIX,seattlespheres.com
-  - DOMAIN-SUFFIX,amazon-lantern.com
-  - DOMAIN-SUFFIX,acmvalidations.com
+  - DOMAIN-SUFFIX,images-amazon.com
+  - DOMAIN-SUFFIX,amazonfctours.com
+  - DOMAIN-SUFFIX,amazonbusiness.cn
+  - DOMAIN-SUFFIX,boxofficemojo.com
+  - DOMAIN-SUFFIX,amazonianblog.com
   - DOMAIN-SUFFIX,amazonbusiness.org
-  - DOMAIN-SUFFIX,amazon-fashions.com
-  - DOMAIN-SUFFIX,amazonaws-china.com
+  - DOMAIN-SUFFIX,awsautoscaling.com
+  - DOMAIN-SUFFIX,amazon-lantern.com
+  - DOMAIN-SUFFIX,gameon-masters.com
+  - DOMAIN-SUFFIX,amazonlaunchpad.cn
+  - DOMAIN-SUFFIX,seattlespheres.com
+  - DOMAIN-SUFFIX,amazonworkdocs.com
+  - DOMAIN-SUFFIX,acmvalidations.com
   - DOMAIN-SUFFIX,amazonprimevideo.cn
   - DOMAIN-SUFFIX,kindleoasisnews.com
-  - DOMAIN-SUFFIX,amazonlaunchpad.com
   - DOMAIN-SUFFIX,awssecworkshops.com
-  - DOMAIN-SUFFIX,containersonaws.com
+  - DOMAIN-SUFFIX,amazon-fashions.com
+  - DOMAIN-SUFFIX,amazonaws-china.com
+  - DOMAIN-SUFFIX,amazonlaunchpad.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
+  - DOMAIN-SUFFIX,containersonaws.com
+  - DOMAIN-SUFFIX,wholefoodsmarket.com
   - DOMAIN-SUFFIX,thinkboxsoftware.com
   - DOMAIN-SUFFIX,amazon-launchpad.com
-  - DOMAIN-SUFFIX,wholefoodsmarket.com
-  - DOMAIN-SUFFIX,amplifyframework.com
   - DOMAIN-SUFFIX,elasticbeanstalk.com
-  - DOMAIN-SUFFIX,amazonprimevideos.com
-  - DOMAIN-SUFFIX,acmvalidationsaws.com
-  - DOMAIN-SUFFIX,aws-iot-hackathon.com
-  - DOMAIN-SUFFIX,associates-amazon.com
-  - DOMAIN-SUFFIX,amazonlumberyard.wang
-  - DOMAIN-SUFFIX,amazonvideodirect.com
-  - DOMAIN-SUFFIX,awsloft-stockholm.com
-  - DOMAIN-SUFFIX,ssl-images-amazon.com
+  - DOMAIN-SUFFIX,amplifyframework.com
   - DOMAIN-SUFFIX,amazonuniversity.jobs
+  - DOMAIN-SUFFIX,acmvalidationsaws.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
+  - DOMAIN-SUFFIX,awsloft-stockholm.com
+  - DOMAIN-SUFFIX,amazonprimevideos.com
+  - DOMAIN-SUFFIX,amazonlumberyard.wang
   - DOMAIN-SUFFIX,amazonalexavoxcon.com
+  - DOMAIN-SUFFIX,aws-iot-hackathon.com
+  - DOMAIN-SUFFIX,amazonvideodirect.com
+  - DOMAIN-SUFFIX,associates-amazon.com
   - DOMAIN-SUFFIX,amazonbusinessblog.com
+  - DOMAIN-SUFFIX,wholekidsfoundation.org
   - DOMAIN-SUFFIX,amazonstudiosguilds.com
   - DOMAIN-SUFFIX,amazondevicesupport.com
-  - DOMAIN-SUFFIX,wholekidsfoundation.org
   - DOMAIN-SUFFIX,amazon-jp-recruiting.com
   - DOMAIN-SUFFIX,awsloft-johannesburg.com
   - DOMAIN-SUFFIX,amazonauthorinsights.com
@@ -166,26 +166,26 @@ payload:
   - DOMAIN-SUFFIX,kindle.co.uk
   - DOMAIN-SUFFIX,amazon.co.uk
   - DOMAIN-SUFFIX,kindle.co.jp
-  - DOMAIN-SUFFIX,amazon.com.au
-  - DOMAIN-SUFFIX,amazon.com.mx
   - DOMAIN-SUFFIX,amazon.com.tr
+  - DOMAIN-SUFFIX,amazon.com.au
   - DOMAIN-SUFFIX,amazon.com.br
+  - DOMAIN-SUFFIX,amazon.com.mx
   - DOMAIN-SUFFIX,primeday.com.cn
   - DOMAIN-SUFFIX,amazonaws.co.uk
   - DOMAIN-SUFFIX,amazonnow.com.cn
-  - DOMAIN-SUFFIX,alexafund.com.cn
   - DOMAIN-SUFFIX,amazonaws.com.cn
+  - DOMAIN-SUFFIX,alexafund.com.cn
   - DOMAIN-SUFFIX,aboutamazon.co.uk
-  - DOMAIN-SUFFIX,aboutamazon.com.au
   - DOMAIN-SUFFIX,kindleoasis.com.cn
+  - DOMAIN-SUFFIX,aboutamazon.com.au
   - DOMAIN-SUFFIX,amazonchoice.com.cn
-  - DOMAIN-SUFFIX,amazonlending.com.cn
   - DOMAIN-SUFFIX,amazoninspire.com.cn
+  - DOMAIN-SUFFIX,amazonlending.com.cn
   - DOMAIN-SUFFIX,amazonchoices.com.cn
   - DOMAIN-SUFFIX,amazonbusiness.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com.cn
-  - DOMAIN-SUFFIX,amazonlaunchpad.com.cn
   - DOMAIN-SUFFIX,wholefoodsmarket.co.uk
+  - DOMAIN-SUFFIX,amazonlaunchpad.com.cn
   - DOMAIN-SUFFIX,amazonprimevideo.com.cn
   - DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
   - DOMAIN-KEYWORD,avoddashs

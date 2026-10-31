@@ -1,8 +1,8 @@
 # NAME: WenJuanXing
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:50:06.809239+00:00
+# UPDATED: 2026-10-31T21:29:05.021877+00:00
 payload:
   - DOMAIN-SUFFIX,wjx.cn
-  - DOMAIN-SUFFIX,wjx.top
   - DOMAIN-SUFFIX,wjx.com
+  - DOMAIN-SUFFIX,wjx.top
   - DOMAIN-SUFFIX,sojump.com

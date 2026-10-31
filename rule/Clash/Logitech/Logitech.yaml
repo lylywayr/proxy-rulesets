@@ -1,13 +1,13 @@
 # NAME: Logitech
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:49.673079+00:00
+# UPDATED: 2026-10-31T21:24:27.248956+00:00
 payload:
   - DOMAIN-SUFFIX,logi.com
   - DOMAIN-SUFFIX,logitech.fr
-  - DOMAIN-SUFFIX,logitech.com
   - DOMAIN-SUFFIX,logitechg.fr
+  - DOMAIN-SUFFIX,logitech.com
   - DOMAIN-SUFFIX,logitech.biz
-  - DOMAIN-SUFFIX,logitechg.com
   - DOMAIN-SUFFIX,logicoolg.com
+  - DOMAIN-SUFFIX,logitechg.com
   - DOMAIN-SUFFIX,worldsfastestgamer.net
   - DOMAIN-SUFFIX,logicool.co.jp

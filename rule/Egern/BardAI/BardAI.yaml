@@ -1,6 +1,6 @@
 # NAME: BardAI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T19:53:47.473404+00:00
+# UPDATED: 2026-10-31T20:44:08.010872+00:00
 no_resolve: true
 domain_set:
   - "ai.google.dev"
@@ -8,6 +8,9 @@ domain_set:
   - "alkalimakersuite-pa.clients6.google.com"
   - "antigravity-pa.googleapis.com"
   - "antigravity.googleapis.com"
+  - "appsgenaiserver-pa.clients.google.com"
+  - "appsgenaiserver-pa.clients6.google.com"
+  - "appsgenaiserver-pa.googleapis.com"
   - "cloudaicompanion.googleapis.com"
   - "cloudcode-pa.googleapis.com"
   - "daily-cloudcode-pa.googleapis.com"
@@ -30,20 +33,20 @@ domain_suffix_set:
   - "antigravity.google"
   - "generativeai.google"
   - "antigravity-unleash.goog"
-  - "bard.google.com"
-  - "opal.google.com"
-  - "flow.google.com"
   - "labs.google.com"
+  - "flow.google.com"
+  - "opal.google.com"
+  - "bard.google.com"
   - "jules.google.com"
   - "gemini.google.com"
   - "gemini.gstatic.com"
-  - "notebook.google.com"
   - "aida.googleapis.com"
+  - "notebook.google.com"
   - "aistudio.google.com"
   - "stitch.withgoogle.com"
-  - "aicode.googleapis.com"
-  - "notebooklm.google.com"
   - "makersuite.google.com"
+  - "notebooklm.google.com"
+  - "aicode.googleapis.com"
   - "geller-pa.googleapis.com"
   - "aisandbox-pa.googleapis.com"
   - "robinfrontend-pa.googleapis.com"

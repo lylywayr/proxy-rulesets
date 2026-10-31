@@ -1,6 +1,6 @@
 # NAME: NetEaseMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:53.538469+00:00
+# UPDATED: 2026-10-31T21:24:35.401492+00:00
 payload:
   - DOMAIN,netease.ugcvideoss.ourdvs.com
   - DOMAIN-SUFFIX,163yun.com

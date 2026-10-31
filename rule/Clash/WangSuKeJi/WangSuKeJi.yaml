@@ -1,193 +1,193 @@
 # NAME: WangSuKeJi
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:50:06.268343+00:00
+# UPDATED: 2026-10-31T21:29:03.949035+00:00
 payload:
+  - DOMAIN-SUFFIX,cdn90.cn
   - DOMAIN-SUFFIX,wbahw.cn
   - DOMAIN-SUFFIX,tl88.net
-  - DOMAIN-SUFFIX,cdn90.cn
-  - DOMAIN-SUFFIX,wssvs.com
-  - DOMAIN-SUFFIX,8686c.com
-  - DOMAIN-SUFFIX,wsoss.com
-  - DOMAIN-SUFFIX,lxdvs.com
-  - DOMAIN-SUFFIX,cdn20.org
-  - DOMAIN-SUFFIX,ovdlb.com
-  - DOMAIN-SUFFIX,cdn90.net
-  - DOMAIN-SUFFIX,lxdvs.org
-  - DOMAIN-SUFFIX,lxdfs.com
-  - DOMAIN-SUFFIX,cdngtm.cn
-  - DOMAIN-SUFFIX,cdn60.com
-  - DOMAIN-SUFFIX,wsngb.com
-  - DOMAIN-SUFFIX,wsfdn.com
-  - DOMAIN-SUFFIX,cdn90.com
-  - DOMAIN-SUFFIX,lxdws.com
-  - DOMAIN-SUFFIX,scdnga.cn
-  - DOMAIN-SUFFIX,lxdus.com
   - DOMAIN-SUFFIX,wssvs.net
-  - DOMAIN-SUFFIX,qtlcdn.cn
-  - DOMAIN-SUFFIX,lxdms.com
-  - DOMAIN-SUFFIX,scdngc.cn
-  - DOMAIN-SUFFIX,wsdvs.net
   - DOMAIN-SUFFIX,cdn30.com
   - DOMAIN-SUFFIX,wsdvs.com
   - DOMAIN-SUFFIX,cdn40.com
+  - DOMAIN-SUFFIX,cdn90.net
   - DOMAIN-SUFFIX,wsdns.top
-  - DOMAIN-SUFFIX,lxdns.org
-  - DOMAIN-SUFFIX,lxdns.com
-  - DOMAIN-SUFFIX,qtlcn.com
+  - DOMAIN-SUFFIX,qtlcdn.cn
+  - DOMAIN-SUFFIX,wsglb.net
+  - DOMAIN-SUFFIX,lxdvs.org
+  - DOMAIN-SUFFIX,ovhlb.com
+  - DOMAIN-SUFFIX,cdn20.org
+  - DOMAIN-SUFFIX,scdngc.cn
+  - DOMAIN-SUFFIX,wssvs.com
+  - DOMAIN-SUFFIX,cdn50.com
   - DOMAIN-SUFFIX,cdn90.org
+  - DOMAIN-SUFFIX,lxdns.net
+  - DOMAIN-SUFFIX,lxdns.com
   - DOMAIN-SUFFIX,ovhlb.net
+  - DOMAIN-SUFFIX,wsdvs.net
+  - DOMAIN-SUFFIX,lxdns.org
+  - DOMAIN-SUFFIX,wsngb.com
+  - DOMAIN-SUFFIX,lxdfs.com
+  - DOMAIN-SUFFIX,cdn20.com
+  - DOMAIN-SUFFIX,lxdvs.com
+  - DOMAIN-SUFFIX,scdnga.cn
+  - DOMAIN-SUFFIX,cdn90.com
+  - DOMAIN-SUFFIX,cdngtm.cn
+  - DOMAIN-SUFFIX,ourglb.cn
+  - DOMAIN-SUFFIX,lxdus.com
+  - DOMAIN-SUFFIX,qtlcn.com
+  - DOMAIN-SUFFIX,cdn60.com
   - DOMAIN-SUFFIX,cdn30.org
   - DOMAIN-SUFFIX,51cdn.com
-  - DOMAIN-SUFFIX,wcsapi.cn
-  - DOMAIN-SUFFIX,lxdns.net
-  - DOMAIN-SUFFIX,wsglb.net
-  - DOMAIN-SUFFIX,cdn20.com
-  - DOMAIN-SUFFIX,ovhlb.com
+  - DOMAIN-SUFFIX,wsfdn.com
+  - DOMAIN-SUFFIX,lxdms.com
+  - DOMAIN-SUFFIX,lxdws.com
   - DOMAIN-SUFFIX,lxdas.com
-  - DOMAIN-SUFFIX,cdn50.com
-  - DOMAIN-SUFFIX,ourglb.cn
-  - DOMAIN-SUFFIX,qtlgslb.cn
-  - DOMAIN-SUFFIX,hdtgtm.com
-  - DOMAIN-SUFFIX,wtxcdn.com
-  - DOMAIN-SUFFIX,picdlb.com
-  - DOMAIN-SUFFIX,xs3cnc.com
-  - DOMAIN-SUFFIX,ourdvs.com
-  - DOMAIN-SUFFIX,voddlb.com
-  - DOMAIN-SUFFIX,cncovs.com
-  - DOMAIN-SUFFIX,scdnga.com
-  - DOMAIN-SUFFIX,ourdvs.net
-  - DOMAIN-SUFFIX,lxdvs.info
-  - DOMAIN-SUFFIX,cusdvs.com
-  - DOMAIN-SUFFIX,wssdns.com
-  - DOMAIN-SUFFIX,wscdns.org
-  - DOMAIN-SUFFIX,wcsapi.com
-  - DOMAIN-SUFFIX,bjhlgw.com
-  - DOMAIN-SUFFIX,fmsdlb.com
-  - DOMAIN-SUFFIX,94kuai.com
-  - DOMAIN-SUFFIX,ourglb.net
-  - DOMAIN-SUFFIX,qtlcdn.net
-  - DOMAIN-SUFFIX,wsgtm3.com
-  - DOMAIN-SUFFIX,wsglb0.com
-  - DOMAIN-SUFFIX,qtlcdn.com
-  - DOMAIN-SUFFIX,ourhlb.com
-  - DOMAIN-SUFFIX,wssyun.com
-  - DOMAIN-SUFFIX,cdn30.info
-  - DOMAIN-SUFFIX,ourdxz.org
-  - DOMAIN-SUFFIX,lxcdns.com
-  - DOMAIN-SUFFIX,wsssec.com
-  - DOMAIN-SUFFIX,cnccdn.com
-  - DOMAIN-SUFFIX,ourglb0.cn
-  - DOMAIN-SUFFIX,dnsgtm.com
-  - DOMAIN-SUFFIX,qtlglb.com
-  - DOMAIN-SUFFIX,scdngc.net
-  - DOMAIN-SUFFIX,wangsu.com
-  - DOMAIN-SUFFIX,ourhlb.org
-  - DOMAIN-SUFFIX,waycdn.com
-  - DOMAIN-SUFFIX,maasdk.com
-  - DOMAIN-SUFFIX,scdnga.net
-  - DOMAIN-SUFFIX,ourltc.com
-  - DOMAIN-SUFFIX,wcsapi.net
-  - DOMAIN-SUFFIX,fmssrc.com
-  - DOMAIN-SUFFIX,wsgtm1.com
-  - DOMAIN-SUFFIX,uvcdns.com
-  - DOMAIN-SUFFIX,mwcdns.com
-  - DOMAIN-SUFFIX,ourdxz.com
-  - DOMAIN-SUFFIX,haplat.net
-  - DOMAIN-SUFFIX,vmylan.com
-  - DOMAIN-SUFFIX,scdngc.com
-  - DOMAIN-SUFFIX,lxdns.info
-  - DOMAIN-SUFFIX,ogccdn.com
-  - DOMAIN-SUFFIX,90kuai.net
-  - DOMAIN-SUFFIX,cdn20.info
-  - DOMAIN-SUFFIX,ourglb.com
+  - DOMAIN-SUFFIX,8686c.com
+  - DOMAIN-SUFFIX,wcsapi.cn
+  - DOMAIN-SUFFIX,wsoss.com
+  - DOMAIN-SUFFIX,ovdlb.com
   - DOMAIN-SUFFIX,sgccdn.com
-  - DOMAIN-SUFFIX,wsgtm2.com
-  - DOMAIN-SUFFIX,wscdns.com
+  - DOMAIN-SUFFIX,wcsapi.com
+  - DOMAIN-SUFFIX,scdngc.com
+  - DOMAIN-SUFFIX,cdn30.info
+  - DOMAIN-SUFFIX,qtlcdn.net
+  - DOMAIN-SUFFIX,wsgtm1.com
+  - DOMAIN-SUFFIX,qtlcdn.com
+  - DOMAIN-SUFFIX,cncovs.com
+  - DOMAIN-SUFFIX,qtlglb.com
+  - DOMAIN-SUFFIX,voddlb.com
+  - DOMAIN-SUFFIX,ourltc.com
   - DOMAIN-SUFFIX,ourfdn.com
+  - DOMAIN-SUFFIX,wssyun.com
+  - DOMAIN-SUFFIX,ogccdn.com
+  - DOMAIN-SUFFIX,ourhlb.com
+  - DOMAIN-SUFFIX,ourhlb.org
+  - DOMAIN-SUFFIX,wangsu.com
   - DOMAIN-SUFFIX,cdngtm.com
-  - DOMAIN-SUFFIX,hntncdn.com
-  - DOMAIN-SUFFIX,speedws.com
-  - DOMAIN-SUFFIX,mileweb.com
-  - DOMAIN-SUFFIX,ourglb0.net
-  - DOMAIN-SUFFIX,cncgdns.net
-  - DOMAIN-SUFFIX,ourcdns.com
-  - DOMAIN-SUFFIX,cncflux.com
-  - DOMAIN-SUFFIX,wscgdns.com
+  - DOMAIN-SUFFIX,cdn20.info
+  - DOMAIN-SUFFIX,qtlgslb.cn
+  - DOMAIN-SUFFIX,ourdxz.org
+  - DOMAIN-SUFFIX,mwcdns.com
+  - DOMAIN-SUFFIX,fmsdlb.com
+  - DOMAIN-SUFFIX,wsssec.com
+  - DOMAIN-SUFFIX,dnsgtm.com
+  - DOMAIN-SUFFIX,94kuai.com
+  - DOMAIN-SUFFIX,90kuai.net
+  - DOMAIN-SUFFIX,haplat.net
+  - DOMAIN-SUFFIX,ourdvs.com
+  - DOMAIN-SUFFIX,lxdns.info
+  - DOMAIN-SUFFIX,ourdvs.net
+  - DOMAIN-SUFFIX,wsglb0.com
+  - DOMAIN-SUFFIX,waycdn.com
+  - DOMAIN-SUFFIX,wtxcdn.com
+  - DOMAIN-SUFFIX,wsgtm2.com
+  - DOMAIN-SUFFIX,maasdk.com
+  - DOMAIN-SUFFIX,scdnga.com
+  - DOMAIN-SUFFIX,lxcdns.com
+  - DOMAIN-SUFFIX,ourglb.net
+  - DOMAIN-SUFFIX,ourglb0.cn
+  - DOMAIN-SUFFIX,cnccdn.com
+  - DOMAIN-SUFFIX,bjhlgw.com
+  - DOMAIN-SUFFIX,fmssrc.com
+  - DOMAIN-SUFFIX,wsgtm3.com
+  - DOMAIN-SUFFIX,ourdxz.com
+  - DOMAIN-SUFFIX,ourglb.com
+  - DOMAIN-SUFFIX,xs3cnc.com
+  - DOMAIN-SUFFIX,wscdns.org
+  - DOMAIN-SUFFIX,cusdvs.com
+  - DOMAIN-SUFFIX,picdlb.com
+  - DOMAIN-SUFFIX,scdngc.net
+  - DOMAIN-SUFFIX,hdtgtm.com
+  - DOMAIN-SUFFIX,scdnga.net
+  - DOMAIN-SUFFIX,wcsapi.net
+  - DOMAIN-SUFFIX,wssdns.com
+  - DOMAIN-SUFFIX,lxdvs.info
+  - DOMAIN-SUFFIX,vmylan.com
+  - DOMAIN-SUFFIX,uvcdns.com
+  - DOMAIN-SUFFIX,wscdns.com
+  - DOMAIN-SUFFIX,oursec2.com
   - DOMAIN-SUFFIX,lxdvsss.com
-  - DOMAIN-SUFFIX,wscdnss.com
+  - DOMAIN-SUFFIX,ourhlb.info
+  - DOMAIN-SUFFIX,mwcname.com
+  - DOMAIN-SUFFIX,ourcdns.com
+  - DOMAIN-SUFFIX,hntncdn.com
   - DOMAIN-SUFFIX,oursec1.com
+  - DOMAIN-SUFFIX,cncflux.com
+  - DOMAIN-SUFFIX,speedws.com
+  - DOMAIN-SUFFIX,ourglb0.net
+  - DOMAIN-SUFFIX,mileweb.com
   - DOMAIN-SUFFIX,cdnexus.com
   - DOMAIN-SUFFIX,ourdxz.info
-  - DOMAIN-SUFFIX,wscdns.info
-  - DOMAIN-SUFFIX,quantil.com
-  - DOMAIN-SUFFIX,speedws.org
-  - DOMAIN-SUFFIX,mwcname.com
-  - DOMAIN-SUFFIX,wscdn30.com
-  - DOMAIN-SUFFIX,ourhlb.info
-  - DOMAIN-SUFFIX,oursec2.com
   - DOMAIN-SUFFIX,ourplat.net
-  - DOMAIN-SUFFIX,wscvdns.com
-  - DOMAIN-SUFFIX,cncgdns.com
+  - DOMAIN-SUFFIX,quantil.com
   - DOMAIN-SUFFIX,ourglb0.com
-  - DOMAIN-SUFFIX,dnsguest.com
-  - DOMAIN-SUFFIX,wswebcdn.com
+  - DOMAIN-SUFFIX,wscvdns.com
+  - DOMAIN-SUFFIX,wscdns.info
+  - DOMAIN-SUFFIX,wscdn30.com
+  - DOMAIN-SUFFIX,wscdnss.com
+  - DOMAIN-SUFFIX,speedws.org
+  - DOMAIN-SUFFIX,wscgdns.com
+  - DOMAIN-SUFFIX,cncgdns.com
+  - DOMAIN-SUFFIX,cncgdns.net
   - DOMAIN-SUFFIX,wswebpic.org
   - DOMAIN-SUFFIX,ourwebat.com
-  - DOMAIN-SUFFIX,wswebpic.com
-  - DOMAIN-SUFFIX,qtlcname.com
   - DOMAIN-SUFFIX,ourdvsss.com
+  - DOMAIN-SUFFIX,dnsguest.com
+  - DOMAIN-SUFFIX,qtlcname.com
   - DOMAIN-SUFFIX,speedws.info
+  - DOMAIN-SUFFIX,wswebpic.com
   - DOMAIN-SUFFIX,wswebcdn.org
-  - DOMAIN-SUFFIX,ecp-cloud.net
-  - DOMAIN-SUFFIX,quantilcn.net
-  - DOMAIN-SUFFIX,qtlgslbcn.net
-  - DOMAIN-SUFFIX,wswebcdn.info
-  - DOMAIN-SUFFIX,qtlcdncn.info
+  - DOMAIN-SUFFIX,wswebcdn.com
+  - DOMAIN-SUFFIX,ecp-cloud.com
   - DOMAIN-SUFFIX,ourdvsvip.com
   - DOMAIN-SUFFIX,speedcdns.com
-  - DOMAIN-SUFFIX,qtlgslbcn.com
-  - DOMAIN-SUFFIX,mywirebox.com
-  - DOMAIN-SUFFIX,cncdomain.com
-  - DOMAIN-SUFFIX,idnscloud.com
-  - DOMAIN-SUFFIX,matocloud.com
-  - DOMAIN-SUFFIX,speedcdns.org
-  - DOMAIN-SUFFIX,ourwebcdn.com
-  - DOMAIN-SUFFIX,wsoversea.org
-  - DOMAIN-SUFFIX,wswebpic.info
-  - DOMAIN-SUFFIX,qtlcdn360.top
-  - DOMAIN-SUFFIX,cdnetgdns.com
-  - DOMAIN-SUFFIX,ecp-cloud.com
-  - DOMAIN-SUFFIX,quantilng.com
   - DOMAIN-SUFFIX,wsoversea.net
-  - DOMAIN-SUFFIX,ourwebpic.com
-  - DOMAIN-SUFFIX,wshttpdns.com
-  - DOMAIN-SUFFIX,ourwebpic.net
-  - DOMAIN-SUFFIX,qtlcdn360.xin
-  - DOMAIN-SUFFIX,qtlcdn360.xyz
   - DOMAIN-SUFFIX,quantilcn.com
-  - DOMAIN-SUFFIX,wsoversea.com
+  - DOMAIN-SUFFIX,wshttpdns.com
+  - DOMAIN-SUFFIX,mywirebox.com
+  - DOMAIN-SUFFIX,wswebpic.info
+  - DOMAIN-SUFFIX,speedcdns.org
+  - DOMAIN-SUFFIX,quantilng.com
+  - DOMAIN-SUFFIX,cncdomain.com
+  - DOMAIN-SUFFIX,qtlgslbcn.com
+  - DOMAIN-SUFFIX,ecp-cloud.net
+  - DOMAIN-SUFFIX,qtlgslbcn.net
+  - DOMAIN-SUFFIX,wswebcdn.info
   - DOMAIN-SUFFIX,ourwebcdn.net
-  - DOMAIN-SUFFIX,wangsuedge.net
-  - DOMAIN-SUFFIX,wsclouddns.com
-  - DOMAIN-SUFFIX,ourglb0vip.com
-  - DOMAIN-SUFFIX,wscloudsec.com
-  - DOMAIN-SUFFIX,speedcdns.info
-  - DOMAIN-SUFFIX,wscloudvpn.com
+  - DOMAIN-SUFFIX,qtlcdn360.xin
+  - DOMAIN-SUFFIX,ourwebpic.net
+  - DOMAIN-SUFFIX,qtlcdncn.info
+  - DOMAIN-SUFFIX,idnscloud.com
+  - DOMAIN-SUFFIX,qtlcdn360.xyz
+  - DOMAIN-SUFFIX,wsoversea.org
+  - DOMAIN-SUFFIX,ourwebcdn.com
+  - DOMAIN-SUFFIX,matocloud.com
+  - DOMAIN-SUFFIX,ourwebpic.com
+  - DOMAIN-SUFFIX,qtlcdn360.top
+  - DOMAIN-SUFFIX,wsoversea.com
+  - DOMAIN-SUFFIX,quantilcn.net
+  - DOMAIN-SUFFIX,cdnetgdns.com
   - DOMAIN-SUFFIX,wangsutong.com
+  - DOMAIN-SUFFIX,qtlcdn360.info
+  - DOMAIN-SUFFIX,wscloudvpn.com
+  - DOMAIN-SUFFIX,speedcdns.info
+  - DOMAIN-SUFFIX,wangsuedge.net
+  - DOMAIN-SUFFIX,wangsuedge.com
+  - DOMAIN-SUFFIX,wsclouddns.com
+  - DOMAIN-SUFFIX,wscloudsec.com
   - DOMAIN-SUFFIX,wsoversea.info
   - DOMAIN-SUFFIX,mwcloudcdn.com
-  - DOMAIN-SUFFIX,wangsuedge.com
-  - DOMAIN-SUFFIX,qtlcdn360.info
+  - DOMAIN-SUFFIX,ourglb0vip.com
   - DOMAIN-SUFFIX,qtlgslbcn.info
-  - DOMAIN-SUFFIX,ourwebhttps.com
-  - DOMAIN-SUFFIX,wangsucloud.com
-  - DOMAIN-SUFFIX,quansucloud.com
-  - DOMAIN-SUFFIX,ourdvsssvip.com
   - DOMAIN-SUFFIX,appsecurity.top
   - DOMAIN-SUFFIX,ourcloudsec.com
+  - DOMAIN-SUFFIX,ourwebhttps.com
   - DOMAIN-SUFFIX,bkcipbewruo.com
+  - DOMAIN-SUFFIX,ourdvsssvip.com
+  - DOMAIN-SUFFIX,wangsucloud.com
   - DOMAIN-SUFFIX,cloudcdnvip.com
-  - DOMAIN-SUFFIX,speedcdnsvip.com
+  - DOMAIN-SUFFIX,quansucloud.com
   - DOMAIN-SUFFIX,ourwebcdnvip.com
   - DOMAIN-SUFFIX,ourwebpicvip.com
+  - DOMAIN-SUFFIX,speedcdnsvip.com
   - DOMAIN-SUFFIX,chinanetcenter.com

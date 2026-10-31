@@ -9,7 +9,7 @@
 - 分类标识：`Akamai`
 - 当前客户端：`Clash`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - [云网络专题](../../../guide/topics/cloud-network.md)
 
@@ -48,7 +48,7 @@ Aggregated rules for Akamai, covering related domains, keywords, and network tar
 - Category ID: `Akamai`
 - Client: `Clash`
 - Group: `Ai`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Akamai/Akamai.yaml>
 

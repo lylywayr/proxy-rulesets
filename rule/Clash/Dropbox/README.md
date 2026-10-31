@@ -9,14 +9,14 @@
 - 分类标识：`Dropbox`
 - 当前客户端：`Clash`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - [办公协作专题](../../../guide/topics/office-collaboration.md)
 
 ### 规则统计
 
-- 总数：`17`
-- `DOMAIN-SUFFIX`: 17
+- 总数：`25`
+- `DOMAIN-SUFFIX`: 25
 
 ### 使用说明
 
@@ -49,7 +49,7 @@ Aggregated rules for Dropbox, covering related domains, keywords, and network ta
 - Category ID: `Dropbox`
 - Client: `Clash`
 - Group: `Office`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/Dropbox/Dropbox.yaml>
 

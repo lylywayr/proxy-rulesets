@@ -9,7 +9,7 @@ YouTube 与 YouTube Music 相关规则。
 - 分类标识：`YouTube`
 - 当前客户端：`Clash`
 - 所属分组：[流媒体与内容](../../../guide/groups/media.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - [流媒体专题](../../../guide/topics/streaming-media.md)
 
@@ -56,7 +56,7 @@ YouTube and YouTube Music related rules.
 - Category ID: `YouTube`
 - Client: `Clash`
 - Group: `Media`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/YouTube/YouTube.yaml>
 

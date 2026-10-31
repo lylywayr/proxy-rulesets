@@ -1,14 +1,14 @@
 # NAME: Jetbrains
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:46.031078+00:00
+# UPDATED: 2026-10-31T21:24:18.246508+00:00
 payload:
   - DOMAIN-SUFFIX,grazie.ai
   - DOMAIN-SUFFIX,datalore.io
   - DOMAIN-SUFFIX,intellij.com
   - DOMAIN-SUFFIX,jetbrains.io
+  - DOMAIN-SUFFIX,intellij.org
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,jetbrains.ai
-  - DOMAIN-SUFFIX,intellij.org
   - DOMAIN-SUFFIX,jetbrains.org
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.net

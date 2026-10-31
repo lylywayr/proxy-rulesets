@@ -1,6 +1,6 @@
 # NAME: iQIYIIntl
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:45.687278+00:00
+# UPDATED: 2026-10-31T21:24:17.748875+00:00
 no_resolve: true
 domain_set:
   - "cache.video.iqiyi.com"

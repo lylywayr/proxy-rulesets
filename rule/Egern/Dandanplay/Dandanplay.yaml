@@ -1,6 +1,6 @@
 # NAME: Dandanplay
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:28:51.822842+00:00
+# UPDATED: 2026-10-31T21:10:30.514121+00:00
 no_resolve: true
 domain_suffix_set:
   - "acplay.net"

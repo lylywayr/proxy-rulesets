@@ -1,6 +1,6 @@
 # NAME: CGB
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T19:53:50.759052+00:00
+# UPDATED: 2026-10-31T20:44:14.184433+00:00
 no_resolve: true
 domain_suffix_set:
   - "95508.com"

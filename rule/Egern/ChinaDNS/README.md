@@ -9,15 +9,15 @@
 - 分类标识：`ChinaDNS`
 - 当前客户端：`Egern`
 - 所属分组：[云与网络](../../../guide/groups/network.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - [中国大陆分流专题](../../../guide/topics/china-direct.md)
 - [隐私分流专题](../../../guide/topics/privacy-routing.md)
 
 ### 规则统计
 
-- 总数：`109494`
-- `DOMAIN-SUFFIX`: 109493
+- 总数：`109436`
+- `DOMAIN-SUFFIX`: 109435
 - `IP-CIDR`: 1
 
 ### 使用说明
@@ -51,7 +51,7 @@ Aggregated rules for ChinaDNS, covering related domains, keywords, and network t
 - Category ID: `ChinaDNS`
 - Client: `Egern`
 - Group: `Network`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/ChinaDNS/ChinaDNS.yaml>
 

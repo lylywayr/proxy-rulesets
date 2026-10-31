@@ -1,6 +1,6 @@
 # NAME: Zhihu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:50:10.449605+00:00
+# UPDATED: 2026-10-31T21:29:12.462210+00:00
 payload:
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhimg.com

@@ -1,12 +1,12 @@
 # NAME: Notion
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:54.282221+00:00
+# UPDATED: 2026-10-31T21:24:37.306687+00:00
 no_resolve: true
 domain_set:
   - "http-inputs-notion.splunkcloud.com"
 domain_suffix_set:
   - "notion.so"
-  - "notion.new"
   - "notion.com"
+  - "notion.new"
   - "notion.site"
   - "notion-static.com"

@@ -1,6 +1,6 @@
 # NAME: TaiWanGood
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:50:00.880354+00:00
+# UPDATED: 2026-10-31T21:28:52.573789+00:00
 no_resolve: true
 domain_set:
   - "hamifans.emome.net"

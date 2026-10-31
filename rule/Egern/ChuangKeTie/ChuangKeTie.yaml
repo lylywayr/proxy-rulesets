@@ -1,6 +1,6 @@
 # NAME: ChuangKeTie
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:28:49.528619+00:00
+# UPDATED: 2026-10-31T21:10:24.842459+00:00
 no_resolve: true
 domain_suffix_set:
   - "ckt.cn"

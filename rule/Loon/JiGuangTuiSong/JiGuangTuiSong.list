@@ -1,24 +1,24 @@
 # NAME: JiGuangTuiSong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:46.367297+00:00
+# UPDATED: 2026-10-31T21:24:18.759348+00:00
 # DOMAIN-SUFFIX: 18
 # TOTAL: 18
 
-DOMAIN-SUFFIX,n0q.cn
 DOMAIN-SUFFIX,e0n.cn
 DOMAIN-SUFFIX,s0n.cn
 DOMAIN-SUFFIX,kc9.cn
+DOMAIN-SUFFIX,n0q.cn
 DOMAIN-SUFFIX,42r.cn
 DOMAIN-SUFFIX,jmlk.co
 DOMAIN-SUFFIX,jpush.io
-DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,japps.cn
 DOMAIN-SUFFIX,jchat.io
+DOMAIN-SUFFIX,japps.cn
+DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jvoice.cn
-DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,5566ua.com
+DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,jsurvey.cn
-DOMAIN-SUFFIX,pushcfg.com
 DOMAIN-SUFFIX,jpushoa.com
+DOMAIN-SUFFIX,pushcfg.com
 DOMAIN-SUFFIX,aurorapush.cn
 DOMAIN-SUFFIX,easytomessage.com

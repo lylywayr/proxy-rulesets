@@ -1,22 +1,22 @@
 # NAME: MingLueZhaoHui
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:52.141918+00:00
+# UPDATED: 2026-10-31T21:24:32.327720+00:00
 # DOMAIN-SUFFIX: 18
 # TOTAL: 18
 
 DOMAIN-SUFFIX,mlt.pub
-DOMAIN-SUFFIX,mzhen.cn
 DOMAIN-SUFFIX,3wnet.cn
-DOMAIN-SUFFIX,xueto.com
-DOMAIN-SUFFIX,mzhen.com
+DOMAIN-SUFFIX,mzhen.cn
 DOMAIN-SUFFIX,mzsvn.com
-DOMAIN-SUFFIX,mzfile.com
+DOMAIN-SUFFIX,mzhen.com
+DOMAIN-SUFFIX,xueto.com
 DOMAIN-SUFFIX,stfile.com
+DOMAIN-SUFFIX,mzfile.com
 DOMAIN-SUFFIX,miaozhen.cn
 DOMAIN-SUFFIX,withdata.cn
-DOMAIN-SUFFIX,momentad.com
-DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,grpindex.com
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,momentad.com
 DOMAIN-SUFFIX,withwinds.com
 DOMAIN-SUFFIX,touchjoin.com
 DOMAIN-SUFFIX,admonitor.org

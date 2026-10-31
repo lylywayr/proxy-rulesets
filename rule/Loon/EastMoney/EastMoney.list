@@ -1,18 +1,18 @@
 # NAME: EastMoney
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:35.297858+00:00
+# UPDATED: 2026-10-31T21:23:54.653126+00:00
 # DOMAIN-SUFFIX: 33
 # TOTAL: 33
 
 DOMAIN-SUFFIX,18.cn
-DOMAIN-SUFFIX,caimi.cn
-DOMAIN-SUFFIX,emsec.hk
 DOMAIN-SUFFIX,dfcfs.cn
+DOMAIN-SUFFIX,emsec.hk
+DOMAIN-SUFFIX,caimi.cn
 DOMAIN-SUFFIX,langke.tv
-DOMAIN-SUFFIX,xzsec.com
 DOMAIN-SUFFIX,dfcfs.com
-DOMAIN-SUFFIX,95021.com
 DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,95021.com
+DOMAIN-SUFFIX,xzsec.com
 DOMAIN-SUFFIX,uufund.cn
 DOMAIN-SUFFIX,txjhqh.com
 DOMAIN-SUFFIX,zhaiba.com
@@ -20,8 +20,8 @@ DOMAIN-SUFFIX,uufund.com
 DOMAIN-SUFFIX,huoqibao.cn
 DOMAIN-SUFFIX,dingqibao.cn
 DOMAIN-SUFFIX,huoqibao.com
-DOMAIN-SUFFIX,dingqibao.com
 DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,dingqibao.com
 DOMAIN-SUFFIX,zhongcaisuo.cn
 DOMAIN-SUFFIX,haitunzhibo.com
 DOMAIN-SUFFIX,zhongcaisuo.com

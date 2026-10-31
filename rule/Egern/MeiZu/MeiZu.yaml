@@ -1,18 +1,18 @@
 # NAME: MeiZu
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:50.779029+00:00
+# UPDATED: 2026-10-31T21:24:29.915010+00:00
 no_resolve: true
 domain_suffix_set:
-  - "meizu.cn"
-  - "flyme.cn"
   - "mzssp.cn"
   - "mblu.com"
-  - "lipro.net"
-  - "meizu.com"
+  - "meizu.cn"
+  - "flyme.cn"
   - "lipro.com"
   - "flyme.net"
-  - "flyme.com"
+  - "lipro.net"
   - "mzres.com"
+  - "flyme.com"
+  - "meizu.com"
   - "meiklife.cn"
   - "meizuapi.com"
   - "flymeauto.com"

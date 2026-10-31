@@ -1,6 +1,6 @@
 # NAME: BBC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T19:53:47.663117+00:00
+# UPDATED: 2026-10-31T20:44:08.359217+00:00
 # DOMAIN: 11
 # DOMAIN-SUFFIX: 15
 # DOMAIN-KEYWORD: 2
@@ -19,8 +19,8 @@ DOMAIN,vod-thumb-uk-live.akamaized.net
 DOMAIN,vod-thumb-ww-live.akamaized.net
 DOMAIN,vs-cmaf-push-uk-live.akamaized.net
 DOMAIN-SUFFIX,bbc
-DOMAIN-SUFFIX,bbc.in
 DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.in
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbcchinese.com

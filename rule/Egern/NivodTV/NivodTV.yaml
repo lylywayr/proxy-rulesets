@@ -1,6 +1,6 @@
 # NAME: NivodTV
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:54.212347+00:00
+# UPDATED: 2026-10-31T21:24:37.187149+00:00
 no_resolve: true
 domain_suffix_set:
   - "nbys.tv"
@@ -8,7 +8,7 @@ domain_suffix_set:
   - "nbys1.tv"
   - "mudvod.tv"
   - "vod360.net"
-  - "newpppp.com"
   - "biggggg.com"
+  - "newpppp.com"
 domain_keyword_set:
   - "nivod"

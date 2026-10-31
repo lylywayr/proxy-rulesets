@@ -9,15 +9,15 @@
 - 分类标识：`ProxyLite`
 - 当前客户端：`Clash`
 - 所属分组：[隐私与基础分流](../../../guide/groups/security.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - 暂无
 
 ### 规则统计
 
-- 总数：`993`
+- 总数：`1004`
 - `DOMAIN`: 24
-- `DOMAIN-SUFFIX`: 850
+- `DOMAIN-SUFFIX`: 861
 - `DOMAIN-KEYWORD`: 20
 - `USER-AGENT`: 6
 - `IP-CIDR`: 89
@@ -53,7 +53,7 @@ Aggregated rules for ProxyLite, covering related domains, keywords, and network 
 - Category ID: `ProxyLite`
 - Client: `Clash`
 - Group: `Security`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `YAML payload ruleset`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Clash/ProxyLite/ProxyLite.yaml>
 

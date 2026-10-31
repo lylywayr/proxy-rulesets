@@ -1,6 +1,6 @@
 # NAME: ABC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T19:53:36.072486+00:00
+# UPDATED: 2026-10-31T20:43:50.670534+00:00
 payload:
   - DOMAIN-SUFFIX,95599.cn
   - DOMAIN-SUFFIX,openaboc.cn

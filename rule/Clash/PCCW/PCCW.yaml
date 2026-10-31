@@ -1,12 +1,12 @@
 # NAME: PCCW
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:56.522280+00:00
+# UPDATED: 2026-10-31T21:24:41.415396+00:00
 payload:
-  - DOMAIN-SUFFIX,viu.com
-  - DOMAIN-SUFFIX,nowe.hk
-  - DOMAIN-SUFFIX,moov.hk
-  - DOMAIN-SUFFIX,hkt.com
   - DOMAIN-SUFFIX,now.com
+  - DOMAIN-SUFFIX,moov.hk
+  - DOMAIN-SUFFIX,viu.com
+  - DOMAIN-SUFFIX,hkt.com
+  - DOMAIN-SUFFIX,nowe.hk
   - DOMAIN-SUFFIX,pccw.com
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,uhub.com
@@ -14,10 +14,10 @@ payload:
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,hktshop.com
   - DOMAIN-SUFFIX,hkt-eye.com
-  - DOMAIN-SUFFIX,netvigator.com
   - DOMAIN-SUFFIX,pccwglobal.com
-  - DOMAIN-SUFFIX,hktpremier.com
+  - DOMAIN-SUFFIX,netvigator.com
   - DOMAIN-SUFFIX,now-ashare.com
+  - DOMAIN-SUFFIX,hktpremier.com
   - DOMAIN-SUFFIX,esmarthealth.com
   - DOMAIN-SUFFIX,hkteducation.com
   - DOMAIN-SUFFIX,pccwsolutions.com

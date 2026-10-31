@@ -1,6 +1,6 @@
 # NAME: Imgur
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:44.985107+00:00
+# UPDATED: 2026-10-31T21:24:16.050405+00:00
 payload:
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,imgurinc.com

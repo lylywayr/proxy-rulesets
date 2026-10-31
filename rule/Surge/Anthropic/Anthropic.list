@@ -1,18 +1,18 @@
 # NAME: Anthropic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T19:53:42.980408+00:00
+# UPDATED: 2026-10-31T20:44:01.804640+00:00
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 18
 # TOTAL: 19
 
 DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.dev
 DOMAIN-SUFFIX,claude.app
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claude.new
 DOMAIN-SUFFIX,claude.site
 DOMAIN-SUFFIX,antspace.dev
 DOMAIN-SUFFIX,anthropic.com

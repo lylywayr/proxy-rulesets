@@ -1,23 +1,23 @@
 # NAME: TigerFintech
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:50:02.814269+00:00
+# UPDATED: 2026-10-31T21:28:56.735034+00:00
 payload:
   - DOMAIN-SUFFIX,tigr.link
-  - DOMAIN-SUFFIX,itiger.com
-  - DOMAIN-SUFFIX,ftfast.com
   - DOMAIN-SUFFIX,laohu8.com
+  - DOMAIN-SUFFIX,ftfast.com
+  - DOMAIN-SUFFIX,itiger.com
   - DOMAIN-SUFFIX,tbdesk.com
-  - DOMAIN-SUFFIX,tigertcp.cn
-  - DOMAIN-SUFFIX,tigerbbs.cn
   - DOMAIN-SUFFIX,xiaohu8.com
-  - DOMAIN-SUFFIX,tigerbbs.com
+  - DOMAIN-SUFFIX,tigerbbs.cn
+  - DOMAIN-SUFFIX,tigertcp.cn
   - DOMAIN-SUFFIX,iotaskyt.com
-  - DOMAIN-SUFFIX,itigerup.com
   - DOMAIN-SUFFIX,skytigris.cn
+  - DOMAIN-SUFFIX,tigerbbs.com
+  - DOMAIN-SUFFIX,itigerup.com
   - DOMAIN-SUFFIX,iotaskyty.com
+  - DOMAIN-SUFFIX,tigerbrokers.net
   - DOMAIN-SUFFIX,tigerfintech.com
   - DOMAIN-SUFFIX,zhijianfengyi.cn
-  - DOMAIN-SUFFIX,tigerbrokers.net
-  - DOMAIN-SUFFIX,zhijianfengyi.com
   - DOMAIN-SUFFIX,itigergrowtha.com
+  - DOMAIN-SUFFIX,zhijianfengyi.com
   - DOMAIN-SUFFIX,play-analytics.com

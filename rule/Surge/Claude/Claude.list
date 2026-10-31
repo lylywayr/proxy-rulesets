@@ -1,19 +1,19 @@
 # NAME: Claude
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:28:50.041733+00:00
+# UPDATED: 2026-10-31T21:10:26.518458+00:00
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 18
 # TOTAL: 20
 
 DOMAIN,cdn.usefathom.com
 DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.dev
 DOMAIN-SUFFIX,claude.app
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claude.new
 DOMAIN-SUFFIX,claude.site
 DOMAIN-SUFFIX,antspace.dev
 DOMAIN-SUFFIX,anthropic.com

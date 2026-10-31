@@ -1,20 +1,20 @@
 # NAME: CNKI
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:28:50.647515+00:00
+# UPDATED: 2026-10-31T21:10:27.929982+00:00
 payload:
   - DOMAIN-SUFFIX,cnki.net
   - DOMAIN-SUFFIX,chndoi.cn
   - DOMAIN-SUFFIX,cnkidoi.cn
+  - DOMAIN-SUFFIX,chndoi.org
   - DOMAIN-SUFFIX,chndoi.net
   - DOMAIN-SUFFIX,chndoi.com
-  - DOMAIN-SUFFIX,chndoi.org
-  - DOMAIN-SUFFIX,cnkidoi.org
   - DOMAIN-SUFFIX,bjsbnet.com
+  - DOMAIN-SUFFIX,cnkidoi.org
   - DOMAIN-SUFFIX,cnkidoi.com
   - DOMAIN-SUFFIX,cnkidoi.net
   - DOMAIN-SUFFIX,wuxizazhi.cn
-  - DOMAIN-SUFFIX,wuxizazhi.net
   - DOMAIN-SUFFIX,wuxizazhi.com
+  - DOMAIN-SUFFIX,wuxizazhi.net
   - DOMAIN-SUFFIX,bbf.org.cn
   - DOMAIN-SUFFIX,chndoi.com.cn
   - DOMAIN-SUFFIX,wuxizazhi.net.cn

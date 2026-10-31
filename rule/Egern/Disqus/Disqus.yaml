@@ -1,6 +1,6 @@
 # NAME: Disqus
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:33.801059+00:00
+# UPDATED: 2026-10-31T21:23:51.186395+00:00
 no_resolve: true
 domain_suffix_set:
   - "disqus.com"

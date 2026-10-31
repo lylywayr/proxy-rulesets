@@ -1,28 +1,27 @@
 # NAME: Spotify
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:49:59.583625+00:00
+# UPDATED: 2026-10-31T21:28:49.988034+00:00
 payload:
   - DOMAIN,audio4-ak-spotify-com.akamaized.net
   - DOMAIN,cdn-spotify-experiments.conductrics.com
   - DOMAIN,heads-ak-spotify-com.akamaized.net
-  - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,spotify.map.fastly.net
   - DOMAIN,spotify.map.fastlylb.net
   - DOMAIN-SUFFIX,scdn.co
-  - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotify.link
-  - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,tospotify.com
+  - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,spotify.design
-  - DOMAIN-SUFFIX,spotifycdn.net
   - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,spotifycdn.net
   - DOMAIN-SUFFIX,spotilocal.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,spotifycodes.com
-  - DOMAIN-SUFFIX,lifeatspotify.com
   - DOMAIN-SUFFIX,spotifycharts.com
+  - DOMAIN-SUFFIX,lifeatspotify.com
   - DOMAIN-SUFFIX,spotifynewsroom.jp
   - DOMAIN-SUFFIX,spotifyforbrands.com
   - DOMAIN-SUFFIX,spotifyforvendors.com
@@ -31,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,spotify-com.akamaized.net
   - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+  - DOMAIN-SUFFIX,spotify.com.edgesuite.net
   - DOMAIN-KEYWORD,spotify
   - USER-AGENT,Spotify*
   - PROCESS-NAME,com.spotify.music

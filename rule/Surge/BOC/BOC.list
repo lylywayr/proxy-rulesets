@@ -1,15 +1,15 @@
 # NAME: BOC
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T19:53:48.961139+00:00
+# UPDATED: 2026-10-31T20:44:11.075701+00:00
 # DOMAIN-SUFFIX: 22
 # TOTAL: 22
 
 DOMAIN-SUFFIX,boc.cn
-DOMAIN-SUFFIX,bochk.com
-DOMAIN-SUFFIX,boccfc.cc
 DOMAIN-SUFFIX,boccfc.cn
-DOMAIN-SUFFIX,bocgi.com
+DOMAIN-SUFFIX,boccfc.cc
+DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocgi.com
 DOMAIN-SUFFIX,bocgins.com
 DOMAIN-SUFFIX,ftcwifi.com
 DOMAIN-SUFFIX,bocichina.cn
@@ -19,8 +19,8 @@ DOMAIN-SUFFIX,bocichina.com
 DOMAIN-SUFFIX,bocifunds.com
 DOMAIN-SUFFIX,bocamchina.com
 DOMAIN-SUFFIX,bankofchina.com
-DOMAIN-SUFFIX,bocaviation.com
 DOMAIN-SUFFIX,bochkonline.com
+DOMAIN-SUFFIX,bocaviation.com
 DOMAIN-SUFFIX,bank-of-china.com
 DOMAIN-SUFFIX,bocfullertonbank.com
 DOMAIN-SUFFIX,bocichina.com.cn

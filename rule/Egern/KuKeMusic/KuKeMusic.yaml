@@ -1,6 +1,6 @@
 # NAME: KuKeMusic
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:48.189282+00:00
+# UPDATED: 2026-10-31T21:24:23.463009+00:00
 no_resolve: true
 domain_suffix_set:
   - "kuke.com"

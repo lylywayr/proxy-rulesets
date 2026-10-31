@@ -1,9 +1,9 @@
 # NAME: WeiZhiYunDong
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:50:06.739196+00:00
+# UPDATED: 2026-10-31T21:29:04.899926+00:00
 no_resolve: true
 domain_suffix_set:
   - "wedcm.com"
-  - "dicom365.com"
   - "dycom365.com"
+  - "dicom365.com"
   - "weiyunyingxiang.com"

@@ -9,16 +9,16 @@ Microsoft、OneDrive、Teams 等服务。
 - 分类标识：`Microsoft`
 - 当前客户端：`Egern`
 - 所属分组：[办公协作](../../../guide/groups/office.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - [办公协作专题](../../../guide/topics/office-collaboration.md)
 - [云网络专题](../../../guide/topics/cloud-network.md)
 
 ### 规则统计
 
-- 总数：`765`
+- 总数：`767`
 - `DOMAIN`: 8
-- `DOMAIN-SUFFIX`: 750
+- `DOMAIN-SUFFIX`: 752
 - `DOMAIN-KEYWORD`: 4
 - `USER-AGENT`: 3
 - `PROCESS-NAME`: 2
@@ -56,7 +56,7 @@ Microsoft, OneDrive, Teams, and related services.
 - Category ID: `Microsoft`
 - Client: `Egern`
 - Group: `Office`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/Microsoft/Microsoft.yaml>
 

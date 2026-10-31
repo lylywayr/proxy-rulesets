@@ -1,12 +1,12 @@
 # NAME: DynDNS
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:35.064248+00:00
+# UPDATED: 2026-10-31T21:23:53.731674+00:00
 payload:
   - DOMAIN-SUFFIX,dyn.com
   - DOMAIN-SUFFIX,dyndns.org
-  - DOMAIN-SUFFIX,blogdns.org
   - DOMAIN-SUFFIX,from-sd.com
   - DOMAIN-SUFFIX,from-pr.com
+  - DOMAIN-SUFFIX,blogdns.org
   - DOMAIN-SUFFIX,dyndns-ip.com
-  - DOMAIN-SUFFIX,is-a-hunter.com
   - DOMAIN-SUFFIX,dyndns-pics.com
+  - DOMAIN-SUFFIX,is-a-hunter.com

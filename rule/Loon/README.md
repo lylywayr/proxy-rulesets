@@ -47,7 +47,7 @@
 | 爱发电 | 生活与工具 | `2` | [规则](./Afdian/Afdian.list) | [说明](./Afdian/README.md) |
 | 法新社 | 生活与工具 | `2` | [规则](./AFP/AFP.list) | [说明](./AFP/README.md) |
 | 声网 | 生活与工具 | `3` | [规则](./Agora/Agora.list) | [说明](./Agora/README.md) |
-| AI | AI 服务 | `246` | [规则](./AI/AI.list) | [说明](./AI/README.md) |
+| AI | AI 服务 | `255` | [规则](./AI/AI.list) | [说明](./AI/README.md) |
 | 爱企查 | AI 服务 | `1` | [规则](./AiQiCha/AiQiCha.list) | [说明](./AiQiCha/README.md) |
 | 中国国航 | AI 服务 | `2` | [规则](./AirChina/AirChina.list) | [说明](./AirChina/README.md) |
 | AirWick | AI 服务 | `40` | [规则](./AirWick/AirWick.list) | [说明](./AirWick/README.md) |
@@ -79,7 +79,7 @@
 | Apifox | 生活与工具 | `2` | [规则](./Apifox/Apifox.list) | [说明](./Apifox/README.md) |
 | APKCombo | 生活与工具 | `1` | [规则](./APKCombo/APKCombo.list) | [说明](./APKCombo/README.md) |
 | Apkpure | 生活与工具 | `4` | [规则](./Apkpure/Apkpure.list) | [说明](./Apkpure/README.md) |
-| 苹果 | 苹果生态 | `1556` | [规则](./Apple/Apple.list) | [说明](./Apple/README.md) |
+| 苹果 | 苹果生态 | `1555` | [规则](./Apple/Apple.list) | [说明](./Apple/README.md) |
 | 苹果日报 | AI 服务 | `32` | [规则](./AppleDaily/AppleDaily.list) | [说明](./AppleDaily/README.md) |
 | 苹果开发者 | 苹果生态 | `40` | [规则](./AppleDev/AppleDev.list) | [说明](./AppleDev/README.md) |
 | 苹果固件 | 苹果生态 | `174` | [规则](./AppleFirmware/AppleFirmware.list) | [说明](./AppleFirmware/README.md) |
@@ -105,7 +105,7 @@
 | 百分点 | AI 服务 | `10` | [规则](./BaiFenDian/BaiFenDian.list) | [说明](./BaiFenDian/README.md) |
 | 白山云 | AI 服务 | `59` | [规则](./BaiShanYunKeJi/BaiShanYunKeJi.list) | [说明](./BaiShanYunKeJi/README.md) |
 | 暴风影音 | 生活与工具 | `8` | [规则](./BaoFengYingYin/BaoFengYingYin.list) | [说明](./BaoFengYingYin/README.md) |
-| Bard / Gemini | AI 服务 | `46` | [规则](./BardAI/BardAI.list) | [说明](./BardAI/README.md) |
+| Bard / Gemini | AI 服务 | `49` | [规则](./BardAI/BardAI.list) | [说明](./BardAI/README.md) |
 | 战网 | 游戏平台 | `8` | [规则](./Battle/Battle.list) | [说明](./Battle/README.md) |
 | BBC | 生活与工具 | `29` | [规则](./BBC/BBC.list) | [说明](./BBC/README.md) |
 | Beats | 游戏平台 | `714` | [规则](./Beats/Beats.list) | [说明](./Beats/README.md) |
@@ -144,14 +144,14 @@
 | 中国教育电视台 | 流媒体与内容 | `3` | [规则](./CETV/CETV.list) | [说明](./CETV/README.md) |
 | 广发银行 | 金融电商 | `4` | [规则](./CGB/CGB.list) | [说明](./CGB/README.md) |
 | 城通网盘 | 生活与工具 | `4` | [规则](./ChengTongWangPan/ChengTongWangPan.list) | [说明](./ChengTongWangPan/README.md) |
-| 中国大陆 | 中国大陆服务 | `120573` | [规则](./China/China.list) | [说明](./China/README.md) |
+| 中国大陆 | 中国大陆服务 | `120520` | [规则](./China/China.list) | [说明](./China/README.md) |
 | 中国 ASN | 中国大陆服务 | `1009` | [规则](./ChinaASN/ChinaASN.list) | [说明](./ChinaASN/README.md) |
-| 中国 DNS | 云与网络 | `109494` | [规则](./ChinaDNS/ChinaDNS.list) | [说明](./ChinaDNS/README.md) |
-| 中国 IP | AI 服务 | `11775` | [规则](./ChinaIPs/ChinaIPs.list) | [说明](./ChinaIPs/README.md) |
+| 中国 DNS | 云与网络 | `109436` | [规则](./ChinaDNS/ChinaDNS.list) | [说明](./ChinaDNS/README.md) |
+| 中国 IP | AI 服务 | `11767` | [规则](./ChinaIPs/ChinaIPs.list) | [说明](./ChinaIPs/README.md) |
 | 中国 IP BGP | AI 服务 | `3916` | [规则](./ChinaIPsBGP/ChinaIPsBGP.list) | [说明](./ChinaIPsBGP/README.md) |
-| 中国大陆全量 | 中国大陆服务 | `12687` | [规则](./ChinaMax/ChinaMax.list) | [说明](./ChinaMax/README.md) |
+| 中国大陆全量 | 中国大陆服务 | `12686` | [规则](./ChinaMax/ChinaMax.list) | [说明](./ChinaMax/README.md) |
 | 中国大陆全量无 IP | 中国大陆服务 | `125` | [规则](./ChinaMaxNoIP/ChinaMaxNoIP.list) | [说明](./ChinaMaxNoIP/README.md) |
-| 中国大陆全量无媒体 | 流媒体与内容 | `12681` | [规则](./ChinaMaxNoMedia/ChinaMaxNoMedia.list) | [说明](./ChinaMaxNoMedia/README.md) |
+| 中国大陆全量无媒体 | 流媒体与内容 | `12680` | [规则](./ChinaMaxNoMedia/ChinaMaxNoMedia.list) | [说明](./ChinaMaxNoMedia/README.md) |
 | 中国媒体 | 中国大陆服务 | `440` | [规则](./ChinaMedia/ChinaMedia.list) | [说明](./ChinaMedia/README.md) |
 | 中国移动 | 中国大陆服务 | `38` | [规则](./ChinaMobile/ChinaMobile.list) | [说明](./ChinaMobile/README.md) |
 | 中国新闻 | 流媒体与内容 | `4` | [规则](./ChinaNews/ChinaNews.list) | [说明](./ChinaNews/README.md) |
@@ -208,7 +208,7 @@
 | 帝联网络 | 生活与工具 | `14` | [规则](./DiLianWangLuo/DiLianWangLuo.list) | [说明](./DiLianWangLuo/README.md) |
 | 钉钉 | 生活与工具 | `11` | [规则](./DingTalk/DingTalk.list) | [说明](./DingTalk/README.md) |
 | 丁香园 | 生活与工具 | `16` | [规则](./DingXiangYuan/DingXiangYuan.list) | [说明](./DingXiangYuan/README.md) |
-| 直连 | 隐私与基础分流 | `110784` | [规则](./Direct/Direct.list) | [说明](./Direct/README.md) |
+| 直连 | 隐私与基础分流 | `110728` | [规则](./Direct/Direct.list) | [说明](./Direct/README.md) |
 | Discord | 社交通信 | `29` | [规则](./Discord/Discord.list) | [说明](./Discord/README.md) |
 | DiscoveryPlus | 生活与工具 | `17` | [规则](./DiscoveryPlus/DiscoveryPlus.list) | [说明](./DiscoveryPlus/README.md) |
 | DiSiFanShi | 生活与工具 | `4` | [规则](./DiSiFanShi/DiSiFanShi.list) | [说明](./DiSiFanShi/README.md) |
@@ -223,7 +223,7 @@
 | 抖音 | 中国大陆服务 | `13` | [规则](./DouYin/DouYin.list) | [说明](./DouYin/README.md) |
 | 斗鱼 | 生活与工具 | `13` | [规则](./Douyu/Douyu.list) | [说明](./Douyu/README.md) |
 | 下载服务 | 生活与工具 | `7` | [规则](./Download/Download.list) | [说明](./Download/README.md) |
-| Dropbox | 办公协作 | `17` | [规则](./Dropbox/Dropbox.list) | [说明](./Dropbox/README.md) |
+| Dropbox | 办公协作 | `25` | [规则](./Dropbox/Dropbox.list) | [说明](./Dropbox/README.md) |
 | DtDNS | 云与网络 | `17` | [规则](./DtDNS/DtDNS.list) | [说明](./DtDNS/README.md) |
 | Dubox | 生活与工具 | `2` | [规则](./Dubox/Dubox.list) | [说明](./Dubox/README.md) |
 | Duckduckgo | 生活与工具 | `43` | [规则](./Duckduckgo/Duckduckgo.list) | [说明](./Duckduckgo/README.md) |
@@ -269,7 +269,7 @@
 | 高德地图 | 生活与工具 | `9` | [规则](./GaoDe/GaoDe.list) | [说明](./GaoDe/README.md) |
 | Garena | 生活与工具 | `15` | [规则](./Garena/Garena.list) | [说明](./Garena/README.md) |
 | 吉利 | 生活与工具 | `50` | [规则](./Geely/Geely.list) | [说明](./Geely/README.md) |
-| Gemini | AI 服务 | `50` | [规则](./Gemini/Gemini.list) | [说明](./Gemini/README.md) |
+| Gemini | AI 服务 | `53` | [规则](./Gemini/Gemini.list) | [说明](./Gemini/README.md) |
 | Gettyimages | 生活与工具 | `25` | [规则](./Gettyimages/Gettyimages.list) | [说明](./Gettyimages/README.md) |
 | Gigabyte | 生活与工具 | `7` | [规则](./Gigabyte/Gigabyte.list) | [说明](./Gigabyte/README.md) |
 | GitBook | 开发者平台 | `3` | [规则](./GitBook/GitBook.list) | [说明](./GitBook/README.md) |
@@ -403,7 +403,7 @@
 | 美团 | 生活与工具 | `7` | [规则](./MeiTuan/MeiTuan.list) | [说明](./MeiTuan/README.md) |
 | 魅族 | 生活与工具 | `15` | [规则](./MeiZu/MeiZu.list) | [说明](./MeiZu/README.md) |
 | MeWatch | 生活与工具 | `1` | [规则](./MeWatch/MeWatch.list) | [说明](./MeWatch/README.md) |
-| 微软 | 办公协作 | `765` | [规则](./Microsoft/Microsoft.list) | [说明](./Microsoft/README.md) |
+| 微软 | 办公协作 | `767` | [规则](./Microsoft/Microsoft.list) | [说明](./Microsoft/README.md) |
 | 微软 Edge | 办公协作 | `4` | [规则](./MicrosoftEdge/MicrosoftEdge.list) | [说明](./MicrosoftEdge/README.md) |
 | 咪咕 | 生活与工具 | `5` | [规则](./Migu/Migu.list) | [说明](./Migu/README.md) |
 | 明略昭辉 | 生活与工具 | `18` | [规则](./MingLueZhaoHui/MingLueZhaoHui.list) | [说明](./MingLueZhaoHui/README.md) |
@@ -478,8 +478,8 @@
 | Privacy | 隐私与基础分流 | `20` | [规则](./Privacy/Privacy.list) | [说明](./Privacy/README.md) |
 | PrivateTracker | 生活与工具 | `248` | [规则](./PrivateTracker/PrivateTracker.list) | [说明](./PrivateTracker/README.md) |
 | Protonmail | AI 服务 | `5` | [规则](./Protonmail/Protonmail.list) | [说明](./Protonmail/README.md) |
-| 代理 | 隐私与基础分流 | `27434` | [规则](./Proxy/Proxy.list) | [说明](./Proxy/README.md) |
-| ProxyLite | 隐私与基础分流 | `993` | [规则](./ProxyLite/ProxyLite.list) | [说明](./ProxyLite/README.md) |
+| 代理 | 隐私与基础分流 | `27422` | [规则](./Proxy/Proxy.list) | [说明](./Proxy/README.md) |
+| ProxyLite | 隐私与基础分流 | `1004` | [规则](./ProxyLite/ProxyLite.list) | [说明](./ProxyLite/README.md) |
 | 邮储银行 | 金融电商 | `3` | [规则](./PSBC/PSBC.list) | [说明](./PSBC/README.md) |
 | Pubmatic | 生活与工具 | `1` | [规则](./Pubmatic/Pubmatic.list) | [说明](./Pubmatic/README.md) |
 | Purikonejp | 生活与工具 | `3` | [规则](./Purikonejp/Purikonejp.list) | [说明](./Purikonejp/README.md) |
@@ -568,7 +568,7 @@
 | 天涯论坛 | 生活与工具 | `13` | [规则](./TianYaForum/TianYaForum.list) | [说明](./TianYaForum/README.md) |
 | TIDAL | 生活与工具 | `6` | [规则](./TIDAL/TIDAL.list) | [说明](./TIDAL/README.md) |
 | TigerFintech | 生活与工具 | `19` | [规则](./TigerFintech/TigerFintech.list) | [说明](./TigerFintech/README.md) |
-| TikTok | 流媒体与内容 | `37` | [规则](./TikTok/TikTok.list) | [说明](./TikTok/README.md) |
+| TikTok | 流媒体与内容 | `38` | [规则](./TikTok/TikTok.list) | [说明](./TikTok/README.md) |
 | TMDb | 生活与工具 | `2` | [规则](./Tmdb/Tmdb.list) | [说明](./Tmdb/README.md) |
 | 同程 | 生活与工具 | `8` | [规则](./TongCheng/TongCheng.list) | [说明](./TongCheng/README.md) |
 | TrustWave | 生活与工具 | `1` | [规则](./TrustWave/TrustWave.list) | [说明](./TrustWave/README.md) |

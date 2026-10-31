@@ -9,7 +9,7 @@
 - 分类标识：`ParamountPlus`
 - 当前客户端：`Loon`
 - 所属分组：[生活与工具](../../../guide/groups/lifestyle.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - 暂无
 
@@ -50,7 +50,7 @@ Aggregated rules for ParamountPlus, covering related domains, keywords, and netw
 - Category ID: `ParamountPlus`
 - Client: `Loon`
 - Group: `Lifestyle`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `Plain remote rules list`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Loon/ParamountPlus/ParamountPlus.list>
 

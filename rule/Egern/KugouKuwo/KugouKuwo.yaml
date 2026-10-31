@@ -1,24 +1,24 @@
 # NAME: KugouKuwo
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:48.107393+00:00
+# UPDATED: 2026-10-31T21:24:23.346680+00:00
 no_resolve: true
 domain_suffix_set:
-  - "2496.cn"
-  - "ktv.com"
   - "kufm.cn"
+  - "ktv.com"
+  - "2496.cn"
   - "kuwo.cn"
-  - "koowo.cn"
   - "kumi.com"
-  - "kugou.com"
-  - "kglink.cn"
-  - "kugoo.com"
+  - "koowo.cn"
   - "kgimg.com"
-  - "shuoba.me"
   - "koowo.com"
-  - "gouwo.com"
+  - "kglink.cn"
   - "kugou.net"
-  - "kkzhan.com"
+  - "kugou.com"
+  - "shuoba.me"
+  - "gouwo.com"
+  - "kugoo.com"
   - "shuoba.com"
+  - "kkzhan.com"
   - "shuoba.org"
   - "kugouipv6.com"
   - "tingkanbao.com"

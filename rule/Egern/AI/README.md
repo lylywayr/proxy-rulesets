@@ -9,15 +9,15 @@
 - 分类标识：`AI`
 - 当前客户端：`Egern`
 - 所属分组：[AI 服务](../../../guide/groups/ai.md)
-- 本次更新时间：`2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- 本次更新时间：`2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - 专题入口：
 - [AI 专题](../../../guide/topics/ai-services.md)
 
 ### 规则统计
 
-- 总数：`247`
-- `DOMAIN`: 42
-- `DOMAIN-SUFFIX`: 195
+- 总数：`256`
+- `DOMAIN`: 45
+- `DOMAIN-SUFFIX`: 201
 - `DOMAIN-KEYWORD`: 5
 - `DOMAIN-REGEX`: 1
 - `IP-ASN`: 2
@@ -59,7 +59,7 @@ Aggregated AI service rules combining OpenAI, Claude, Gemini, Copilot, Anthropic
 - Category ID: `AI`
 - Client: `Egern`
 - Group: `Ai`
-- Last updated: `2026-10-25 03:53:33 CST (UTC+8) / 2026-10-24 19:53:33 UTC`
+- Last updated: `2026-11-01 04:43:45 CST (UTC+8) / 2026-10-31 20:43:45 UTC`
 - Format: `YAML Rule Set`
 - Raw URL: <https://raw.githubusercontent.com/lylywayr/proxy-rulesets/main/rule/Egern/AI/AI.yaml>
 

@@ -1,6 +1,6 @@
 # NAME: IPTVOther
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:45.541961+00:00
+# UPDATED: 2026-10-31T21:24:17.129154+00:00
 payload:
   - IP-CIDR,1.222.207.80/32
   - IP-CIDR,1.245.74.5/32

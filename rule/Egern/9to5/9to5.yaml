@@ -1,6 +1,6 @@
 # NAME: 9to5
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T19:53:35.984758+00:00
+# UPDATED: 2026-10-31T20:43:50.492012+00:00
 no_resolve: true
 domain_suffix_set:
   - "dronedj.com"

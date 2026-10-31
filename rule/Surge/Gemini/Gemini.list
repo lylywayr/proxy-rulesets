@@ -1,16 +1,19 @@
 # NAME: Gemini
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:38.004221+00:00
-# DOMAIN: 13
+# UPDATED: 2026-10-31T21:24:01.020462+00:00
+# DOMAIN: 16
 # DOMAIN-SUFFIX: 34
 # DOMAIN-KEYWORD: 3
-# TOTAL: 50
+# TOTAL: 53
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,antigravity-pa.googleapis.com
 DOMAIN,antigravity.googleapis.com
+DOMAIN,appsgenaiserver-pa.clients.google.com
+DOMAIN,appsgenaiserver-pa.clients6.google.com
+DOMAIN,appsgenaiserver-pa.googleapis.com
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
@@ -32,21 +35,21 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,opal.google.com
-DOMAIN-SUFFIX,flow.google.com
 DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,flow.google.com
+DOMAIN-SUFFIX,opal.google.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.gstatic.com
-DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,aida.googleapis.com
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,stitch.withgoogle.com
-DOMAIN-SUFFIX,aicode.googleapis.com
-DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,aicode.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com

@@ -1,6 +1,6 @@
 # NAME: ALJazeera
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T19:53:41.301636+00:00
+# UPDATED: 2026-10-31T20:43:58.924139+00:00
 payload:
   - DOMAIN-SUFFIX,ajplus.net
   - DOMAIN-SUFFIX,syhacked.com

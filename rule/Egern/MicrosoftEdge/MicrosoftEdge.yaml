@@ -1,6 +1,6 @@
 # NAME: MicrosoftEdge
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:46:51.983681+00:00
+# UPDATED: 2026-10-31T21:24:31.713566+00:00
 no_resolve: true
 domain_set:
   - "edge.activity.windows.com"

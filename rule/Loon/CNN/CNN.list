@@ -1,11 +1,11 @@
 # NAME: CNN
 # REPO: https://github.com/lylywayr/proxy-rulesets
-# UPDATED: 2026-10-24T20:28:50.714907+00:00
+# UPDATED: 2026-10-31T21:10:28.052826+00:00
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 
-DOMAIN-SUFFIX,cnn.it
 DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnnmoney.ch
 DOMAIN-SUFFIX,cnnlabs.com
